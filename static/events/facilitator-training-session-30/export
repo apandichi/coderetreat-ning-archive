@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47393
+DTSTAMP:20170129T134814Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:This training session will be held by Matt Plavcan\nPlease
+  RSVP here!\nThis training is for facilitators. Anybody interested in 
+ facilitating a Coderetreat is invited to attend at least one training 
+ session. This training will be delivered online on Google Plus Events.
+  Make sure you will be online five minutes before the training starts.
+    Like last year we will have two different types of trainings for G
+ lobal Day of Coderetreat: for hosts and for facilitators.   The job o
+ f the host is to make sure the Coderetreat runs smoothly by making sur
+ e everything is arranged. Hosts find a venue with all the necessary eq
+ uipment, find a company to sponsor lunch, give away the prizes at the 
+ end of the day, organize video chats with other locations, etc.   The
+  job of the facilitator is to help participants learn from each other.
+  Facilitators understand the Coderetreat format, choose and explain th
+ e constraints, and try to keep a learning atmosphere during the day.\n
+ Important: All the times are in UTC. Do one of the following to view t
+ raining times in your time zone:\n\nAdd the GDCR Calendar to your Goog
+ le Calendar account\nUse this tool to convert the time from UTC to you
+ r time zone\nFind your time below in one of these common time zones:\n
+ \n--------------------------------------------------------------------
+ ---------------------------- 10/27 04:00 PM UTC-7 America/Los_Angeles 
+ (PDT)10/27 05:00 PM UTC-6 America/Denver (MDT)10/27 06:00 PM UTC-5 Ame
+ rica/Chicago (CDT)10/27 07:00 PM UTC-4 America/New_York (EDT)10/28 12:
+ 00 AM UTC+1 Europe/Berlin (CET)10/28 02:00 AM UTC+3 Europe/Bucharest (
+ EET)10/28 01:00 AM UTC+2 Africa/Johannesburg (CAT)10/28 03:00 AM UTC+4
+  Europe/Moscow (MSK)10/28 04:30 AM UTC+5.5 Asia/Kolkata (IST)10/28 07:
+ 00 AM UTC+8 Asia/Shanghai (ACT)10/28 08:00 AM UTC+9 Asia/Tokyo (JST)10
+ /28 10:00 AM UTC+11 Australia/Sydney (AEDT)10/28 12:00 PM UTC+13 Pacif
+ ic/Auckland (NZDT)\n\nFor more information visit http://coderetreat.or
+ g/events/facilitator-training-session-30
+DTSTART:20151027T160000Z
+DTEND:20151027T170000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/u/0/events/cf6l9k6e8ocsku8gecum9r46ej
+ o
+WEBSITE:https://plus.google.com/u/0/events/cf6l9k6e8ocsku8gecum9r46ejo
+URL:https://plus.google.com/u/0/events/cf6l9k6e8ocsku8gecum9r46ejo
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Szc
+ zeblewski":http://coderetreat.org/profile/AdamSzczeblewski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

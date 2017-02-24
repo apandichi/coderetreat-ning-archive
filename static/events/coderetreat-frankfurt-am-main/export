@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:43217
+DTSTAMP:20170129T112355Z
+SUMMARY:Coderetreat - Frankfurt am Main
+DESCRIPTION:Coderetreat in Frankfurt am Main.\n\nFor more information 
+ visit http://coderetreat.org/events/coderetreat-frankfurt-am-main
+DTSTART:20150227T090000Z
+DTEND:20150227T170000Z
+CATEGORIES:coderetreat
+LOCATION:itemis AG
+WEBSITE:http://www.itemis.de/itemis-ag/unternehmen/standorte/language=
+ de/35736/frankfurt
+URL:http://www.itemis.de/itemis-ag/unternehmen/standorte/language=de/3
+ 5736/frankfurt
+CONTACT:
+ORGANIZER;CN="Sven Lange":http://coderetreat.org/profile/SvenLange187
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sven Lan
+ ge":http://coderetreat.org/profile/SvenLange187
+END:VEVENT
+END:VCALENDAR

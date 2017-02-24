@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:14673
+DTSTAMP:20170129T134251Z
+SUMMARY:Global Day of Coderetreat 2012 - Cleveland, OH / USA
+DESCRIPTION:A group of developers gathering to improve their craft and
+  make some new friends. This event is being hosted as part of the Glob
+ al Day of Code Retreat!\nMore details and signup site coming soon.\nRe
+ gister at http://gdcrcle2012.eventbrite.com\n\nFor more information v
+ isit http://coderetreat.org/events/global-day-of-coderetreat-2012-clev
+ eland-oh-usa
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:LeanDog Studio
+WEBSITE:http://gdcrcle2012.eventbrite.com
+URL:http://gdcrcle2012.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Joel Byler":http://coderetreat.org/profile/JoelByler
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ her Connell":http://coderetreat.org/profile/ChristopherConnell
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Justin B
+ eall":http://coderetreat.org/profile/JustinBeall
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joel Byl
+ er":http://coderetreat.org/profile/JoelByler
+END:VEVENT
+END:VCALENDAR

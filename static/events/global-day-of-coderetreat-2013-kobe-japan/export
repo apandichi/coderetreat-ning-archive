@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30347
+DTSTAMP:20170129T115634Z
+SUMMARY:Global Day of Coderetreat 2013 - Kobe, Japan
+DESCRIPTION:The first Coderetreat event in Kobe is the Global Day of C
+ oderetreat 2013.\nRSVP: http://kokucheese.com/event/index/130780/\n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2013-kobe-japan
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Benic Solution Corp.
+WEBSITE:http://www.benic.co.jp/about/map01.html
+URL:http://www.benic.co.jp/about/map01.html
+CONTACT:
+ORGANIZER;CN="Kiro HARADA":http://coderetreat.org/profile/KiroHARADA
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Vkr5AOZtf8IKA
+ A8t3jAHW239ddrfP7P7KBW7WPwTYApcSpLNaIjYCHoF1fIb*V0MhTC3owLcf6VVRrQred8
+ MtuR-IizuMvxD/320px4_Kobe_Beef_Kobe_Japan.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kiro HAR
+ ADA":http://coderetreat.org/profile/KiroHARADA
+END:VEVENT
+END:VCALENDAR

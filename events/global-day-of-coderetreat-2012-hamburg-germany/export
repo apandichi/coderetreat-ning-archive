@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11665
+DTSTAMP:20170129T134413Z
+SUMMARY:Global Day of Coderetreat 2012 - Hamburg / Germany
+DESCRIPTION:Registrierungsseite folgt auf Xing.\nRegistration page to 
+ follow on Xing.\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2012-hamburg-germany
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Hamburg, Germany
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Manuel Küblböck":http://coderetreat.org/profile/Manuel
+ Kueblboeck
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/aP9YpP54chCUy
+ pgUdX1tulDsmv6YXj--T3LF-ShxD-tamcv7YPHo3P03790vHKZrU7RkXJVF*2Xv0V0l5ia
+ AjAFP*gmDBpHy/HamburgFlag.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Manuel K
+ üblböck":http://coderetreat.org/profile/ManuelKueblboeck
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38250
+DTSTAMP:20170129T120313Z
+SUMMARY:Global Day of Coderetreat 2014 - Gdańsk, Poland
+DESCRIPTION:Second Global Day of Code Retreat in Gdańsk - please be w
+ elcome\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2014-gda-sk-poland
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Gdańsk
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Kuba Marchwicki":http://coderetreat.org/profile/KubaMarc
+ hwicki
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kuba Mar
+ chwicki":http://coderetreat.org/profile/KubaMarchwicki
+END:VEVENT
+END:VCALENDAR

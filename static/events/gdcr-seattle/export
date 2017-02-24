@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27063
+DTSTAMP:20170129T115134Z
+SUMMARY:Global Day of Coderetreat 2013 -  Seattle, WA, USA
+DESCRIPTION:The Seattle GDCR will take place at Getty Images in the In
+ ternational District. Sign up on Eventbrite to attend.\n\nFor more i
+ nformation visit http://coderetreat.org/events/gdcr-seattle
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Getty Images
+WEBSITE:https://www.eventbrite.com/event/8987119717
+URL:https://www.eventbrite.com/event/8987119717
+CONTACT:
+ORGANIZER;CN="Andrew Parker":http://coderetreat.org/profile/AndrewPark
+ er
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew P
+ arker":http://coderetreat.org/profile/AndrewParker
+END:VEVENT
+END:VCALENDAR

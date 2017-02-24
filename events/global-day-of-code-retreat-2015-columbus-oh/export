@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45869
+DTSTAMP:20170129T121402Z
+SUMMARY:Global Day of Coderetreat 2015 - Columbus, OH, USA
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the code retreat format ha
+ s proven itself to be a highly effective means of skill improvement. P
+ racticing the basic principles of modular and object-oriented design, 
+ developers can improve their ability to write code that minimizes the 
+ cost of change over time. More specifically,  individuals are are gr
+ ouped into teams of two and each team “solves” a common problem, �
+ ��The Game of Life’.  There are 6 sessions throughout the day and f
+ or each session the groups are reorganized and the code deleted.  Aft
+ er each session there are session reflections to help with the  inter
+ nalization of lessons. \nBe sure to show up early for breakfast and t
+ he intro before the actual sessions!\n\nFor more information visit htt
+ p://coderetreat.org/events/global-day-of-code-retreat-2015-columbus-oh
+DTSTART:20151114T080000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:The Forge in the Smith Brothers' Hardware Building
+WEBSITE:https://www.google.com/maps/place/580+N+4th+St,+Columbus,+OH+4
+ 3215/@39.9748131,-82.997726,17z/data=!3m1!4b1!4m2!3m1!1s0x88388f2a1ad3
+ 6f43:0x79b2ab946a359e1d
+URL:https://www.google.com/maps/place/580+N+4th+St,+Columbus,+OH+43215
+ /@39.9748131,-82.997726,17z/data=!3m1!4b1!4m2!3m1!1s0x88388f2a1ad36f43
+ :0x79b2ab946a359e1d
+CONTACT:
+ORGANIZER:Jim Kirkbride
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/7fSVyjXLzVj5X
+ dsOzHyq3tUVMz7IlClC5omq5VmkMnAkpdCAhvpLf39RIgKpnbbXIt*mdnXp9ls-48WLfxz
+ LDyF-jyGeCY55/forge_web011.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin St
+ ough":http://coderetreat.org/profile/KevinStough
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew A
+ rmbruster":http://coderetreat.org/profile/AndrewArmbruster
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=MikeL_J:h
+ ttp://coderetreat.org/profile/MikeLJ
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Craig Ka
+ minski":http://coderetreat.org/profile/CraigKaminski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marlene 
+ Hines":http://coderetreat.org/profile/MarleneHines
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brian T.
+  Forsythe":http://coderetreat.org/profile/BrianTForsythe
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jordan S
+ chultz":http://coderetreat.org/profile/leo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Hou
+ se":http://coderetreat.org/profile/MattHouse
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dane Kin
+ g":http://coderetreat.org/profile/DaneKing
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cory Shi
+ elds":http://coderetreat.org/profile/CoryShields
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Pinnegar":http://coderetreat.org/profile/MichaelPinnegar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Guy Roys
+ e":http://coderetreat.org/profile/GuyRoyse
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Ki
+ rkbride":http://coderetreat.org/profile/JamesKirkbride
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Amitai 
+ Schleier":http://coderetreat.org/profile/schmonz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Stephen
+  Turley":http://coderetreat.org/profile/StephenTurley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Richard
+  Rickard, Jr.":http://coderetreat.org/profile/RichardRickardJr
+END:VEVENT
+END:VCALENDAR

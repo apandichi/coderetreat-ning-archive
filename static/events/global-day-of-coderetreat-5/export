@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55409
+DTSTAMP:20170129T105314Z
+SUMMARY:Global Day of Coderetreat 2016 - Portland, USA
+DESCRIPTION:PDXWIT presents a woman-focused Coderetreat in honor of t
+ he Global Day of Coderetreat 2016. Coderetreat.org is a self-organize
+ d, volunteer led organization dedicated to helping software developers
+  help each other improve their craft. Tanya Crenshaw and Jean Richa
+ rdson will be teaming up to facilitate PDXWIT's 2016 Coderetreat. Th
+ e Tech Academy is donating space and providing breakfast and lunch fo
+ r the event.  Come along for a day of codeplay in a supportive enviro
+ nment and help Coderetreat follow the sun during the global celebratio
+ n of software development!\nRSVP at https://www.eventbrite.com/e/pdx-w
+ omen-in-tech-pdxwit-coderetreat-2016-tickets-27661828273?aff=es2\nHere
+ 's how it works: SW developers of all sorts gather together with their
+  machines and IDE's ready to code Conway's Game of Life for 45 minute 
+ sessions. Pairs change with every 45 minute iteration so everyone gets
+  exposed to different problem solving strategies, and everyone learns 
+ together:  newbies and master-craft persons alike. There is no expect
+ ation to finish coding Conway's Game of Life at any point during the d
+ ay. \nThe purpose is to learn coding problem solving strategies, shar
+ e skills and experience pairing in a supportive environment. \nPDXWIT
+  a community-based non-profit organization with the purpose of strengt
+ hening the Portland women in tech community through educational progra
+ ms, partnerships and events that provide information, connections, res
+ ources, opportunities, and a supportive environment for current and po
+ tential women in tech, all of whom are committed to helping each other
+ . Our goal is to bring together and empower current women in tech and 
+ encourage others to pursue tech careers to help reduce gender imbalanc
+ e in the industry and address the current negative effects of that imb
+ alance on women.\n\nFor more information visit http://coderetreat.org/
+ events/global-day-of-coderetreat-5
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:The Tech Academy Portland
+WEBSITE:https://maps.google.com/maps?f=q&hl=en&q=310+SW+4th+Ave%2C+Sui
+ te+330%2C+Portland%2C+OR%2C+us
+URL:https://maps.google.com/maps?f=q&hl=en&q=310+SW+4th+Ave%2C+Suite+3
+ 30%2C+Portland%2C+OR%2C+us
+CONTACT:503-788-8998
+ORGANIZER:Jean Richardson and Tanya Crenshaw
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jean Ric
+ hardson":http://coderetreat.org/profile/JeanRichardson
+END:VEVENT
+END:VCALENDAR

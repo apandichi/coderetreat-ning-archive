@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27015
+DTSTAMP:20170129T115130Z
+SUMMARY:Global Day of Coderetreat 2013 - Monterrey, Mexico
+DESCRIPTION:Global Day of Coderetreat\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2013-monterrey-m
+ exico
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Innku
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Elías Matheus":http://coderetreat.org/profile/EliasMath
+ eus
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/NWvFMlVPFczxx
+ ffXHvzdZa3nb2qxKcpQT60aHUCjJvfkWMzmXpiR8sryz8vL24TI2FDxPGYON3LPd*UMB4A
+ vhmYnkjLBn*7G/484196_10152342717905137_1383015512_n.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Elías M
+ atheus":http://coderetreat.org/profile/EliasMatheus
+END:VEVENT
+END:VCALENDAR

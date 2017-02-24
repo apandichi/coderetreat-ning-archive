@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27147
+DTSTAMP:20170129T104357Z
+SUMMARY:Global Day of Coderetreat 2013 - Regina, Canada
+DESCRIPTION:https://coderetreatyqr2013.eventbrite.com/\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -2013-regina-canada
+DTSTART:20131214T084500Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Canada
+WEBSITE:https://coderetreatyqr2013.eventbrite.com/
+URL:https://coderetreatyqr2013.eventbrite.com/
+CONTACT:
+ORGANIZER:Vili Bogdan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Curtis B
+ adke":http://coderetreat.org/profile/CurtisBadke
+END:VEVENT
+END:VCALENDAR

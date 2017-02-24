@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:31488
+DTSTAMP:20170129T121004Z
+SUMMARY:Global Day of Coderetreat 2013 - Oaxaca, Mexico
+DESCRIPTION:Global Day of Coderetreat 2013\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2013-oaxaca
+ -de-ju-rez-m-xico
+DTSTART:20131214T090000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Matamoros 102, Centro, Oaxaca de Juárez, Oaxaca, México
+WEBSITE:https://maps.google.com/maps?f=q&source=s_q&hl=es-419&geocode=
+ &q=Mariano+Matamoros+102,+Centro,+Oaxaca+de+Ju%C3%A1rez,+Oaxaca,+M%C3%
+ A9xico&aq=0&oq=matamoros+102+centro+oaxaca+de+juarez+oaxaca&sll=17.026
+ 504,-96.730757&sspn=0.009571,0.016512&vpsrc=0&ie=UTF8&hq=&hnear=Marian
+ o+Matamoros+102,+Centro,+Oaxaca,+M%C3%A9xico&ll=17.063872,-96.724749&s
+ pn=0.00961,0.016512&t=m&z=17&iwloc=A
+URL:https://maps.google.com/maps?f=q&source=s_q&hl=es-419&geocode=&q=M
+ ariano+Matamoros+102,+Centro,+Oaxaca+de+Ju%C3%A1rez,+Oaxaca,+M%C3%A9xi
+ co&aq=0&oq=matamoros+102+centro+oaxaca+de+juarez+oaxaca&sll=17.026504,
+ -96.730757&sspn=0.009571,0.016512&vpsrc=0&ie=UTF8&hq=&hnear=Mariano+Ma
+ tamoros+102,+Centro,+Oaxaca,+M%C3%A9xico&ll=17.063872,-96.724749&spn=0
+ .00961,0.016512&t=m&z=17&iwloc=A
+CONTACT:
+ORGANIZER;CN="LogicalBricks Solutions":http://coderetreat.org/profile/
+ LogiclaBricksSolutions
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="LogicalB
+ ricks Solutions":http://coderetreat.org/profile/LogiclaBricksSolutions
+END:VEVENT
+END:VCALENDAR

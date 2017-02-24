@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9853
+DTSTAMP:20170129T111853Z
+SUMMARY:Code Retreat hosted by 8th Light, Inc.
+DESCRIPTION:Please join us for a full day of intense code practice to 
+ better your craft at the 8th Light office.  This will be a full day of
+  Code Retreat led by Corey Haines following the SCNA conference. http:
+ //scna.softwarecraftsmanship.org/  Bring your computer and your brain,
+  we got the rest covered!  Lunch is provided.\nPlease register throug
+ h Eventbrite:\nhttp://8thlightcoderetreat-eorg.eventbrite.com/\n\n\nFo
+ r more information visit http://coderetreat.org/events/code-retreat-ho
+ sted-by-8th-light-inc
+DTSTART:20121111T090000Z
+DTEND:20121111T160000Z
+CATEGORIES:code, retreat
+LOCATION:Chicago
+WEBSITE:http://8thlightcoderetreat-eorg.eventbrite.com/
+URL:http://8thlightcoderetreat-eorg.eventbrite.com/
+CONTACT:
+ORGANIZER:8th Light
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/5QKvG9Vwlua5M
+ JAx31ma63JMonmqnfE4NXff3x3i8vOPxB9rQJWn4i9mAbhPrQ2DFgeKctjQHOJzHPkBjP3
+ qjl6TsIZqY7Bn/8thLightlogotransparent.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eric Mey
+ er":http://coderetreat.org/profile/EricMeyer
+END:VEVENT
+END:VCALENDAR

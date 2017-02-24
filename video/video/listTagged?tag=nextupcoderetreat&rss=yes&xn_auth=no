@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Videos Tagged nextupcoderetreat (Coderetreat) - Coderetreat</title>
+            <link rel="self" href="listTagged?tag=nextupcoderetreat&amp;rss=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:54:43Z</updated>
+                        <id>http://coderetreat.org/video/video/listTagged?tag=nextupcoderetreat&amp;rss=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Mixed Constraints - Next Up at Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18413"/>
+                                        <id>tag:coderetreat.org,2012-12-05:6456126:Video:18413</id>
+                                        <updated>2012-12-05T01:47:08.738Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/mixed-constraints-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;135&quot; src=&quot;http://api.ning.com:80/files/pGjNPBHx2YzFba03nO3bi3bGc*ujrjLc*1b3vHKzxPVV6Czv3ANFux93zvSQQNetzQANp8x1FWeNc4q6QDDbs63HJz-uqCe7/728178878.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;Up for a challenge? Then let Jesse Wolgamott from Houston, TX, USA introduce three constraints for one coderetreat session:&lt;br&gt;&lt;/br&gt;
+&lt;br&gt;&lt;/br&gt;
+- No conditional statements&lt;br&gt;&lt;/br&gt;
+- Only four lines per method&lt;br&gt;&lt;/br&gt;
+- No naked…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/mixed-constraints-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/pGjNPBHx2YzFba03nO3bi3bGc*ujrjLc*1b3vHKzxPVV6Czv3ANFux93zvSQQNetzQANp8x1FWeNc4q6QDDbs63HJz-uqCe7/728178878.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Up for a challenge? Then let Jesse Wolgamott from Houston, TX, USA introduce three constraints for one coderetreat session:&lt;br /&gt;
+&lt;br /&gt;
+- No conditional statements&lt;br /&gt;
+- Only four lines per method&lt;br /&gt;
+- No naked primitives                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Code Swap Part 2 - Next Up at Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18328"/>
+                                        <id>tag:coderetreat.org,2012-12-05:6456126:Video:18328</id>
+                                        <updated>2012-12-05T01:45:42.811Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/code-swap-part-2-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/A5n84L95e7pCRO946u9ZL-c-Tu8ZpFwLcxBbzr2eREFKW-kRibFyyctzyFchEW-g3c*voBqQb7i2n7-x690cc68SnJ4YlhMH/817932286.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Alan Gardner facilitating in Edinburgh, Scotland, UK introduces the second part of Code Swap. Play this just before the last session of the day.                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/code-swap-part-2-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/A5n84L95e7pCRO946u9ZL-c-Tu8ZpFwLcxBbzr2eREFKW-kRibFyyctzyFchEW-g3c*voBqQb7i2n7-x690cc68SnJ4YlhMH/817932286.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Alan Gardner facilitating in Edinburgh, Scotland, UK introduces the second part of Code Swap. Play this just before the last session of the day.                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Code Swap Part 1 - Next Up at Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18100"/>
+                                        <id>tag:coderetreat.org,2012-12-05:6456126:Video:18100</id>
+                                        <updated>2012-12-05T01:45:21.326Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/code-swap-part-1-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;135&quot; src=&quot;http://api.ning.com:80/files/1UBqyWTFJ7c7UaBYgt5pACs9SL8gPilsBCUWQ4j-QFc1xO0BDBis*0QRB5TJa9Ixj5lDX4s9ISCVCl7KuQesbffEq7nRwmDk/649239839.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;Peter Aitken (facilitating in Aberdeen, Scotland, UK), gives us our instructions for the first part of the Code Swap exercise. Play this video at the end of the second-to-last session of the…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/code-swap-part-1-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/1UBqyWTFJ7c7UaBYgt5pACs9SL8gPilsBCUWQ4j-QFc1xO0BDBis*0QRB5TJa9Ixj5lDX4s9ISCVCl7KuQesbffEq7nRwmDk/649239839.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Peter Aitken (facilitating in Aberdeen, Scotland, UK), gives us our instructions for the first part of the Code Swap exercise. Play this video at the end of the second-to-last session of the day.                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>No Return Values - Next Up at Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18407"/>
+                                        <id>tag:coderetreat.org,2012-12-05:6456126:Video:18407</id>
+                                        <updated>2012-12-05T01:44:53.700Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/no-return-values-next-up-at-coderetreat-1&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/IRUTMtDed72x0t4Yvq7znmd6UFwD1GLGi*n*86LuiWku3WsgxMUi9PcFRzGQMZfXvdKgVunc6CCTrrqi90eQJEfEK2iB0iFM/884183137.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Calling in from Shanghai, China, Joseph Yao lets us know that we cannot use return values in our next coderetreat exercise.                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/no-return-values-next-up-at-coderetreat-1&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/IRUTMtDed72x0t4Yvq7znmd6UFwD1GLGi*n*86LuiWku3WsgxMUi9PcFRzGQMZfXvdKgVunc6CCTrrqi90eQJEfEK2iB0iFM/884183137.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Calling in from Shanghai, China, Joseph Yao lets us know that we cannot use return values in our next coderetreat exercise.                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Adversarial Ping Pong - Next Up at Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18404"/>
+                                        <id>tag:coderetreat.org,2012-12-05:6456126:Video:18404</id>
+                                        <updated>2012-12-05T01:40:11.166Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/adversarial-ping-pong-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/RXhim95kudarEHIjdTlMPsOdqjyBx5IA6FRfOT0gUufwELnbBwOZUhCSKIEKrTqCkJ6i5eCJwf9D79gAKrMV9UOY2BWELyey/984932093.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Learn about &quot;Adversarial Ping Pong&quot; from Mike Gardiner in Perth, Australia.                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/adversarial-ping-pong-next-up-at-coderetreat&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/RXhim95kudarEHIjdTlMPsOdqjyBx5IA6FRfOT0gUufwELnbBwOZUhCSKIEKrTqCkJ6i5eCJwf9D79gAKrMV9UOY2BWELyey/984932093.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Learn about &quot;Adversarial Ping Pong&quot; from Mike Gardiner in Perth, Australia.                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

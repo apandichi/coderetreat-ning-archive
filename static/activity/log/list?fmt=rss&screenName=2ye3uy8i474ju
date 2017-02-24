@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Eric Lathrop&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/EricLathrop</link>
+        <pubDate>Sun, 29 Jan 2017 11:35:16 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:35:16 +0000</lastBuildDate>
+        <image>
+            <title>Eric Lathrop&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/EricLathrop</link>
+            <url>http://api.ning.com:80/files/xzbUPPej5Rl0dDLTix-TpbP6RytoJ*sPSXwaJSLRlJfRe6ey*q9pkWTiDetDQgWDy6eY0kRtqNs5-0N4ObPGDk**sCR5mb41/478804787.jpeg?xgip=0%3A37%3A199%3A199%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000babc5412563d78848d8e385</guid>
+               <title>Eric Lathrop posted photos</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Photo:19721?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/EricLathrop?xg_source=activity">Eric Lathrop</a> posted photos</span><br/><div class="rich"><div class="rich-thumbs rich-thumbs-2592"><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/2012-12-08-10-05-22-17"><img src="http://api.ning.com/files/uCeR*YPha0PTflzlC5mkiW30DBp2hg-3Nm5F2EDktOPQNaKNDCSR2RZu6rf*PF9sE3JThKvrifWX7zcn7OvOJplGoWiziWWF/2012120814.29.56.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/2012-12-08-10-05-22-16"><img src="http://api.ning.com/files/4jsleIhJxq9qaEiVGH3F8qOVGh1p9FQBF1FVbjZI094da0ks1IWxfgHBXXOCxt5-z-7DEZYUO5wwiVnYCA2Lgw__/2012120814.28.35.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder last-thumb"> <a  href="http://coderetreat.org/photo/2012-12-08-10-05-22-15"><img src="http://api.ning.com/files/xp7HWA8eGx6JLg-bOIMi1mAFf-0tYkn2dy8OKoTLuwQ9*aZGlDnRXndMXJ4xzr3gY7vmbTas1zVi4anYe5FXqvWKvofeuLUM/2012120812.06.41.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div></div></div><div class="feed-more"><a href="http://coderetreat.org/photo/album/show?id=6456126%3AAlbum%3A19723&xg_source=activity">15 more…</a></div>]]></description>
+               <pubDate>Mon, 10 Dec 2012 23:41:22 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000babc5419dd259a1e6e96f69</guid>
+               <title>Eric Lathrop posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:16862?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/EricLathrop?xg_source=activity">Eric Lathrop</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:16862?xg_source=activity">Global Day of Coderetreat 2012 - Louisville, Kentucky, USA</a> at Adecco building behind Oxmoor mall</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 4pm</div><div class="rich-excerpt">This is the Louisville session of the Global Day of Code Retreat 2012. See the event page for more information and page.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:16862?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 22 Nov 2012 05:45:51 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000babc54141ac941615b7c4e2</guid>
+               <title>Eric Lathrop is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/EricLathrop?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/EricLathrop?xg_source=activity">Eric Lathrop</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Thu, 22 Nov 2012 05:40:10 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37986
+DTSTAMP:20170129T122250Z
+SUMMARY:Global Day of Coderetreat 2014 - Pune, India
+DESCRIPTION:As we go around the globe, Pune will be one of the dots. 
+ IDeaS.com is happy to host the session.  Please register yourself h
+ ere\n\nSo, see you at the GDCR!!\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-coderetreat-2014-pune-india
+DTSTART:20141115T100000Z
+DTEND:20141115T180000Z
+CATEGORIES:gdcr, gdcr14, coderetreat
+LOCATION:Pune
+WEBSITE:https://www.google.com/maps/place/IDeaS+Revenue+Solutions/@18.
+ 566933,73.769663,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x3bc2beb53f754b4f:0x
+ 714dfa77f43bbb87!2sIDeaS+Revenue+Solutions!3b1!3m1!1s0x3bc2beb53f754b4
+ f:0x714dfa77f43bbb87
+URL:https://www.google.com/maps/place/IDeaS+Revenue+Solutions/@18.5669
+ 33,73.769663,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x3bc2beb53f754b4f:0x714d
+ fa77f43bbb87!2sIDeaS+Revenue+Solutions!3b1!3m1!1s0x3bc2beb53f754b4f:0x
+ 714dfa77f43bbb87
+CONTACT:+91 20 6600 2000
+ORGANIZER;CN="Dhaval Dalal":http://coderetreat.org/profile/DhavalDalal
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/bYocnjXOIXXvi
+ 95VH2wQeb-qE6aLAgDUWZSbwhgHPN0t19gC-SdQtvISYZqSzIuMYr*-41AH6VBQn5-cBLW
+ 3mNQ5qLKkHAAI/pune_office_img.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ashish A
+ garwal":http://coderetreat.org/profile/AshishAgarwal
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Vibhor:ht
+ tp://coderetreat.org/profile/Vibhor
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dhaval D
+ alal":http://coderetreat.org/profile/DhavalDalal
+END:VEVENT
+END:VCALENDAR

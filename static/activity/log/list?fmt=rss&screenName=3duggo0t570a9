@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Alex Chaffee&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AlexChaffee162</link>
+        <pubDate>Sun, 29 Jan 2017 10:27:40 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:27:40 +0000</lastBuildDate>
+        <image>
+            <title>Alex Chaffee&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AlexChaffee162</link>
+            <url>http://api.ning.com:80/files/vBRJ1USeFwQpTDZM7HGRRkQEGSWLVfKcrAU2fmbBbqDTSg48CAGPTg9arCtlDPCUWblReWKbh62kGNMDDWgzybRO507n1OYN/1092971548.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e00000000110cda4d87f597d8e12ba6fb</guid>
+               <title>Alex Chaffee posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:41622?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AlexChaffee162?xg_source=activity">Alex Chaffee</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:41622?xg_source=activity">Global Day of Coderetreat - Burlington, VT, USA</a> at New Moon Cafe</h3><div class="rich-detail"><div class="rich-date">November 12, 2014 from 6pm to 7pm</div><div class="rich-excerpt">coderetreat, gdcr, gdcr14moved to <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=108+Cherry+Street%2C+Burlington%2C+VT%2C+us" target="_blank" title="">Vermont Department of Health</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:41622?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 12 Nov 2014 16:55:31 +0000</pubDate>
+               </item>    </channel>
+</rss>

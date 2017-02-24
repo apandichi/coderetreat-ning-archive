@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30305
+DTSTAMP:20170129T104220Z
+SUMMARY:Global Day of Coderetreat 2013 - Wroclaw, Poland
+DESCRIPTION:Global Day of Coderetreat 2013 - Wroclaw/Poland\nHosted by
+  PGS Software (pgs-soft.com)\n\nFor more information visit http://code
+ retreat.org/events/global-day-of-coderetreat-2013-wroclaw-poland
+DTSTART:20131214T080000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:PGS Software Wroclaw
+WEBSITE:http://www.pgs-soft.com
+URL:http://www.pgs-soft.com
+CONTACT:
+ORGANIZER:PGS Software
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jacek Gh
+ ostRider":http://coderetreat.org/profile/JacekGhostRider
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksand
+ er Wasilewski":http://coderetreat.org/profile/AleksanderWasilewski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michal K
+ owalczykiewicz":http://coderetreat.org/profile/MichalKowalczykiewicz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michał 
+ Jawulski":http://coderetreat.org/profile/MichalJawulski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jarosła
+ w Stadnicki":http://coderetreat.org/profile/JaroslawStadnicki
+END:VEVENT
+END:VCALENDAR

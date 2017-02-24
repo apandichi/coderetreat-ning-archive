@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2012 - Tampa, FL / USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A12278&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:44:21Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A12278&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Sign up here: http://tampagdc…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:15754"/>
+                                        <id>tag:coderetreat.org,2012-11-13:6456126:Comment:15754</id>
+                                        <updated>2012-11-13T14:18:49.206Z</updated>
+                    
+                                            <author>
+                            <name>Gavin Stark</name>
+                            <uri>http://coderetreat.org/profile/GavinStark</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Sign up here: &lt;a href=&quot;http://tampagdcr2012.eventbrite.com/&quot; target=&quot;_blank&quot;&gt;http://tampagdcr2012.eventbrite.com/&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Sign up here: &lt;a href=&quot;http://tampagdcr2012.eventbrite.com/&quot; target=&quot;_blank&quot;&gt;http://tampagdcr2012.eventbrite.com/&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>How do we register?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:15728"/>
+                                        <id>tag:coderetreat.org,2012-11-10:6456126:Comment:15728</id>
+                                        <updated>2012-11-10T22:49:01.206Z</updated>
+                    
+                                            <author>
+                            <name>Keith Norfleet</name>
+                            <uri>http://coderetreat.org/profile/KeithNorfleet</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;How do we register?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;How do we register?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

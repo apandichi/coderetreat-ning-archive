@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9947
+DTSTAMP:20170129T124412Z
+SUMMARY:Legacy Coderetreat Rotterdam 2012-6-23
+DESCRIPTION:After last years participation in the Global Day of Code
+ retreat  we are planning another retreat, this time with a slightly
+  different take: The Legacy Coderetreat.  We invite a group of progr
+ ammers together for a day, give them some legacy code, and help them p
+ ractise various design rescue and improvement techniques. The ultimate
+  goal is to practise these techniques in a low-stakes environment away
+  from the code base that probably torments you at work.\n Which tech
+ niques do you mean? \nWe don’t have a complete list, but most of o
+ ur techniques revolve around creating and identifying seams in softwar
+ e (places where we can decouple tightly-coupled modules). You will try
+  adding tests, isolating behavior from frameworks, introducing mocks, 
+ writing characterisation tests, and some other things we haven’t tho
+ ught about yet. \nSo, it’s a  CodeRetreat \nSo far, mostly ye
+ s. The difference is that we have starting code bases for you, rather 
+ than asking you to start with a blank slate. Also, we are using the Co
+ de Retreat format to teach specific techniques, so we guide your pract
+ ice more like a (karate) dojo than Code Retreat does.\nThis edition wi
+ ll be facilitated by Erik Talboom(@talboomerik) and Frederik Delbroek 
+ (@frederikdelbr).\nFind Erik's blogpost on the Agileminds previous r
+ etreat  here\nRegister for this event on the Devnology website here.
+ \n\nFor more information visit http://coderetreat.org/events/legacy-co
+ deretreat-rotterdam-2012-6-23
+DTSTART:20120623T093000Z
+DTEND:20120623T170000Z
+CATEGORIES:coderetreat
+LOCATION:Rotterdam
+WEBSITE:http://devnology.nl/en/meetings/details/47-legacy-coderetreat
+URL:http://devnology.nl/en/meetings/details/47-legacy-coderetreat
+CONTACT:+31629354081
+ORGANIZER:Devnology
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/C-Nc1LMrUrfo5
+ WKwmRWfsoKh9STg3y7YLEzvDDAnPBIjrSs*gMoY1fAacGUeAl93GVgAj3GKX6Wg1M1CPrZ
+ VWpUFYZMHgXFV/D.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Freek Le
+ emhuis":http://coderetreat.org/profile/FreekLeemhuis
+END:VEVENT
+END:VCALENDAR

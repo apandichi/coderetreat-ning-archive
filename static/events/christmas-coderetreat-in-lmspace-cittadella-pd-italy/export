@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:51847
+DTSTAMP:20170129T121854Z
+SUMMARY:Christmas CodeRetreat in LMSpace, Cittadella, PD, Italy
+DESCRIPTION:The first CodeRetreat in Cittadella (PD) @LMSpace\n\nFor m
+ ore information visit http://coderetreat.org/events/christmas-coderetr
+ eat-in-lmspace-cittadella-pd-italy
+DTSTART:20151212T090000Z
+DTEND:20151212T160000Z
+CATEGORIES:coderetreat, and, christmas, party
+LOCATION:LMSpace
+WEBSITE:http://www.lmspace.it/corsi/christmas-coderetreat/
+URL:http://www.lmspace.it/corsi/christmas-coderetreat/
+CONTACT:
+ORGANIZER;CN="Marco Dussin":http://coderetreat.org/profile/MarcoDussin
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Du
+ ssin":http://coderetreat.org/profile/MarcoDussin
+END:VEVENT
+END:VCALENDAR

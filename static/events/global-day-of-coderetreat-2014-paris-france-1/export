@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40166
+DTSTAMP:20170129T113657Z
+SUMMARY:Global Day of Coderetreat 2014 - Paris, France
+DESCRIPTION:Pour ce global day of coderetreat Sfeir ouvre ses locaux p
+ our accueillir tous les passionés de code. Une journée pour dévelop
+ peur, sans la pression de produire, juste pour le fun, juste pour appr
+ endre. \nVenez nombreux !\nInscriptions sur le meetup Software Craft
+ manship Paris\n\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2014-paris-france-1
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Paris
+WEBSITE:http://www.sfeir.com
+URL:http://www.sfeir.com
+CONTACT:
+ORGANIZER;CN="Aurélien Pelletier":http://coderetreat.org/profile/Aure
+ lienPelletier
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/etaPLs1LEXJ0Y
+ OKwavS-4YevdpTqG3I0jlQDmGTQWNgsnRDQplnPdJsNGOw5uHSSXMasQ*LJqLN5rk-5Z3V
+ JRWz4fF5UMxWg/sfeir.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aurélie
+ n Pelletier":http://coderetreat.org/profile/AurelienPelletier
+END:VEVENT
+END:VCALENDAR

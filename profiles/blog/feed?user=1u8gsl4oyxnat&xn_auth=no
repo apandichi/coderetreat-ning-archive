@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Rafael Devill&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1u8gsl4oyxnat&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:43:51Z</updated>
+                            <author>
+                    <name>Rafael Devill</name>
+                    <uri>http://coderetreat.org/profile/RafaelDevill</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/qExbq6qSo8z2ccQDUzl4EsxdYmVQ4jhptMGWzjaEvDGHwKJqxLhql95AwawMZE-Oa*WeDenXTgBmIG*dI4pE43PG10JEuHvZ/725963251.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1u8gsl4oyxnat&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Changing requirements</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:14994"/>
+                                        <id>tag:coderetreat.org,2012-11-04:6456126:BlogPost:14994</id>
+                                        <updated>2012-11-04T17:04:24.000Z</updated>
+                    
+                                            <author>
+                            <name>Rafael Devill</name>
+                            <uri>http://coderetreat.org/profile/RafaelDevill</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;em&gt;Full version at: &lt;a href=&quot;http://c0de-x.com/changing-requirements/&quot; target=&quot;_blank&quot;&gt;http://c0de-x.com/changing-requirements/&lt;/a&gt;&lt;br&gt;&lt;/br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(....)&lt;/p&gt;
+&lt;p&gt;The changing requirements game is something we like to play as the very last session of a Coderetreat. By that time the participants have learned a lot of new things, and have become familiar with game of life. The session is 90 minutes long  – enough time for a pair to finish the job – but we come up with requirement changes at…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;em&gt;Full version at: &lt;a href=&quot;http://c0de-x.com/changing-requirements/&quot; target=&quot;_blank&quot;&gt;http://c0de-x.com/changing-requirements/&lt;/a&gt;&lt;br/&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(....)&lt;/p&gt;
+&lt;p&gt;The changing requirements game is something we like to play as the very last session of a Coderetreat. By that time the participants have learned a lot of new things, and have become familiar with game of life. The session is 90 minutes long  – enough time for a pair to finish the job – but we come up with requirement changes at times when it’s already too late to incorporate that into the design without substantial refactoring. If the pair has already learned how to do evolutionary design they will easily adapt, otherwise they will have quite a bad time. Either way they will hate the facilitator for a second, and then they will get really excited about the problem.&lt;/p&gt;
+&lt;p&gt;(....)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

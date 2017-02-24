@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15253
+DTSTAMP:20170129T134843Z
+SUMMARY:Facilitator Training
+DESCRIPTION:Join us to learn about how to facilitate a Coderetreat!\nN
+ OTE: All times are listed in UTC\nThis event was created for first-tim
+ e facilitators who will be facilitating a Coderetreat as part of the G
+ lobal Day of Coderetreat, but anyone interested in learning to facilit
+ ate is welcome. This training will be lead by the coderetreat-obsessed
+  Jim Hurne.\nTo attend the training:\n\nRSVP to this event. Note: You 
+ will need to log into or sign-up in order to RSVP.\nSend Jim Hurne yo
+ ur Google Account email address (if it is different from the email add
+ ress you use with coderetreat.org). Jim will give you access to the Go
+ ogle Hangout.\nIf you have never used Google Hangout before, try joini
+ ng the hangout ahead of time to work through any technical issues you 
+ may encounter. See this help page if you run into technical issues wi
+ th the Hangout.\nJoin the hangout at the scheduled time for the train
+ ing.\n\n\nFor more information visit http://coderetreat.org/events/gdc
+ r12-facilitator-training-01
+DTSTART:20121106T011500Z
+DTEND:20121106T031500Z
+CATEGORIES:training
+LOCATION:Google Hangout
+WEBSITE:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNm
+ oxYW92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2ae86brqil2b7hj9u
+ srt01ps8k
+URL:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNmoxYW
+ 92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2ae86brqil2b7hj9usrt0
+ 1ps8k
+CONTACT:
+ORGANIZER;CN="Jim Hurne":http://coderetreat.org/profile/JimHurne
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/*8D9740yuLVtl
+ i7PkCBvwXk*rvKB7UH5uuAmTZLNpL90oSV598Phqs4TyIT3XSaFgKK4OzqfVkQEb7L2Gyt
+ -0vzx9Zct2tzF/clipboardwhistlemd.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kel Ceci
+ l":http://coderetreat.org/profile/KelCecil
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thom Par
+ kin":http://coderetreat.org/profile/ThomParkin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Dan Coo
+ k":http://coderetreat.org/profile/DannyCook
+END:VEVENT
+END:VCALENDAR

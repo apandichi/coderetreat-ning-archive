@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29618
+DTSTAMP:20170129T115534Z
+SUMMARY:Global Day of Coderetreat 2013 - Padova, Italy
+DESCRIPTION:The first coderetreat to be held in Padova, Italy!\nJoin u
+ s and have fun :)\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-coderetreat-2013-padova-italiy
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TBD, Padova, Italy
+WEBSITE:http://www.programmersinpadua.it/
+URL:http://www.programmersinpadua.it/
+CONTACT:
+ORGANIZER:Programmers in Padua
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Francesc
+ o Levorato":http://coderetreat.org/profile/FrancescoLevorato
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54069
+DTSTAMP:20170129T112444Z
+SUMMARY:Global Day of Coderetreat 2016 - Bordeaux, FRANCE
+DESCRIPTION:The Global Day of CodeRetreat 2016 in Bordeaux, don't forg
+ et to register through the meetup group.\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-2016-bordeaux
+ -france
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:France
+WEBSITE:https://www.meetup.com/fr-FR/AgnosTech-Bordeaux/events/2328415
+ 59/?eventId=232841559
+URL:https://www.meetup.com/fr-FR/AgnosTech-Bordeaux/events/232841559/?
+ eventId=232841559
+CONTACT:
+ORGANIZER;CN="Arnaud Lemaire":http://coderetreat.org/profile/ArnaudLem
+ aire
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arnaud L
+ emaire":http://coderetreat.org/profile/ArnaudLemaire
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2014 - Kraków, Poland - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A38192&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:09:20Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A38192&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Location was same as all Code…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:47747"/>
+                                        <id>tag:coderetreat.org,2015-10-20:6456126:Comment:47747</id>
+                                        <updated>2015-10-20T14:27:38.159Z</updated>
+                    
+                                            <author>
+                            <name>LAFK</name>
+                            <uri>http://coderetreat.org/profile/LAFK</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Location was same as all Code Retreats so far, ABB, Pałac Pugetów. :-)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Location was same as all Code Retreats so far, ABB, Pałac Pugetów. :-)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

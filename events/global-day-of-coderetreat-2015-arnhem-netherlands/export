@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45695
+DTSTAMP:20170129T113306Z
+SUMMARY:Global Day of Coderetreat 2015 - Arnhem, Netherlands
+DESCRIPTION:Global Day of Code Retreat 2015, November 14 at Luminis Ar
+ nhem\nNovember 14, 2015, is this year's Global Day of Code Retreat. T
+ his is a day for us, as developers, to hone our skills, share knowledg
+ e, and honor the craft of software engineering.\nLuminis Arnhem will f
+ acilitate a coderetreat at our offices in Arnhem. We will provide you 
+ with both the facilities and the necessary guidance to get the most ou
+ t of this day. While we will provide you with exercises and training f
+ orms, we remain technology agnostics: you can do your training in any 
+ language and tool chain you--and your pair--like.\nWhat is a coderetre
+ at?\nCoderetreat is a day-­long, intensive practice event focusing on
+  the fundamentals of software development and design. The coderetreat
+  format has proven itself to be a highly effective means of skill impr
+ ovement by providing developers the opportunity to take part in focus
+ ed practice away from the pressures of 'getting things done.'\nProgram
+ \n09:30 Welcome & introduction\n10:00 3 training sessions: 45m of exer
+ cise, 10m retrospective, 5m break\n13:00 Lunch\n14:00 3 training sessi
+ ons: 45m of exercise, 10m retrospective, 5m break\n16:45 Closing cerem
+ ony\n17:00 End\nContact\nTo sign up for this coderetreat, RVSP on this
+  page.\nFor anything we should know about (for instance, you're a vega
+ n), email walter.treur@luminis.eu .\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2015-arnhem-neth
+ erlands
+DTSTART:20151114T093000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Luminis Arnhem, IPKW
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Luminis Arnhem
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/*67Uoec4vv052
+ Gm1fOM*5IL-zGIu1gLTLqsGMJgH6lRkJZf9s6hP8Sf2sZ*Zl3Ejmh3axZmRX9NmWKoIIGl
+ paY9s2kx-Pt6E/luminissquare.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Walter T
+ reur":http://coderetreat.org/profile/WalterTreur
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Arnout 
+ Engelen":http://coderetreat.org/profile/ArnoutEngelen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Patrick
+  van Dissel":http://coderetreat.org/profile/pvdissel
+END:VEVENT
+END:VCALENDAR

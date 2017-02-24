@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=05ezqahk4ixm3&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:31:12Z</updated>
+                            <author>
+                    <name>Adomas Greicius</name>
+                    <uri>http://coderetreat.org/profile/AdomasGreicius</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=05ezqahk4ixm3&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Artūras Ševčenko</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ArturasSevcenko"/>
+                                        <id>tag:coderetreat.org,2015-01-30:6456126:User:42818</id>
+                                        <updated>2015-01-30T10:11:26.101Z</updated>
+                    
+                                            <author>
+                            <name>Adomas Greicius</name>
+                            <uri>http://coderetreat.org/profile/AdomasGreicius</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/i41PO2l4KKVyVpwaxiVdKD88vG4d4nze1nPKWp7RLi6MXvw2NV9l2TkqAcKfCd7VfCVDnuvjS9aPYkBi4Zpsb-Spe7Vmi3KM/1107381001.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Artūras Ševčenko&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/i41PO2l4KKVyVpwaxiVdKD88vG4d4nze1nPKWp7RLi6MXvw2NV9l2TkqAcKfCd7VfCVDnuvjS9aPYkBi4Zpsb-Spe7Vmi3KM/1107381001.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Artūras Ševčenko&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Pandichi Alin-Ionut</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PandichiAlinIonut"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:User:39929</id>
+                                        <updated>2014-10-21T09:55:00.237Z</updated>
+                    
+                                            <author>
+                            <name>Adomas Greicius</name>
+                            <uri>http://coderetreat.org/profile/AdomasGreicius</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Vytautas Dagilis</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/VytautasDagilis"/>
+                                        <id>tag:coderetreat.org,2012-11-19:6456126:User:16188</id>
+                                        <updated>2012-11-19T09:15:00.608Z</updated>
+                    
+                                            <author>
+                            <name>Adomas Greicius</name>
+                            <uri>http://coderetreat.org/profile/AdomasGreicius</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/DpHUr75Wa7fji9EN1HKKN2Yw-zif8ULYQiUbw-g*EhLjv9JPDqEYnVmAsl9CXhaaVLeb36QctPLAuk6kTmuOq8v0xzyri8Zg/951322382.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Vytautas Dagilis&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/DpHUr75Wa7fji9EN1HKKN2Yw-zif8ULYQiUbw-g*EhLjv9JPDqEYnVmAsl9CXhaaVLeb36QctPLAuk6kTmuOq8v0xzyri8Zg/951322382.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Vytautas Dagilis&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Osvaldas Grigas</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/OsvaldasGrigas"/>
+                                        <id>tag:coderetreat.org,2011-11-24:6456126:User:1921</id>
+                                        <updated>2011-11-24T08:40:49.466Z</updated>
+                    
+                                            <author>
+                            <name>Adomas Greicius</name>
+                            <uri>http://coderetreat.org/profile/AdomasGreicius</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/GWF0Pf2vNMFgjqX9tmm5-9xjEQDYENlwYZL0R-BTtodVUy8mOu7UlHBXAJflR6u-fzS*cEGfb9wUz8L60TSqWI8HxBU1I*VQ/780833447.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Osvaldas Grigas&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/GWF0Pf2vNMFgjqX9tmm5-9xjEQDYENlwYZL0R-BTtodVUy8mOu7UlHBXAJflR6u-fzS*cEGfb9wUz8L60TSqWI8HxBU1I*VQ/780833447.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Osvaldas Grigas&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

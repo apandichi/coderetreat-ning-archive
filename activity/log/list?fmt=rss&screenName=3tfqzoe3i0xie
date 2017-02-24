@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Andrew Clarke&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AndrewClarke</link>
+        <pubDate>Sun, 29 Jan 2017 13:57:41 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:57:41 +0000</lastBuildDate>
+        <image>
+            <title>Andrew Clarke&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AndrewClarke</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000bbe9e96b2fbd3bff70683a8</guid>
+               <title>Andrew Clarke posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:18209?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndrewClarke?xg_source=activity">Andrew Clarke</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:18209?xg_source=activity">Recife Code Retreat</a> at ThoughtWorks Office</h3><div class="rich-detail"><div class="rich-date">December 4, 2012 from 6pm to 7pm</div><div class="rich-excerpt">Code Retreat – RecifeEstamos felizes de anunciar que estamos participando do "Global Day of Code Retreat". Este ano estaremos patrocinando e organizando o evento no escritório da Thoughtworks.RSVP aqui: <a href="http://eventick.com.br/recife_code_retreat">http://eventick.com.br/recife_code_retreat</a>.No último ano tivemos 94 cidades (mais de 1800 desenvolvedores) ao redor do mundo participando, o que significa, hospedando "Code Retreat's" no mesmo dia. Este ano esperamos por volta de 200 cidades e mais de 3000 desenvolvedores. Isto é uma oportunidade fantástica para, não só aprender e compartilhar idéias, mas também ser parte da história do desenvolvimento de software.Se você nunca ouviu falar de Code Retreat, continue lendo.<a name="o-que-%C3%A9-um-code-retreat" href="https://gist.github.com/034b6d91510e67ef78d7#o-que-%C3%A9-um-code-retreat"></a>O que é um Code Retreat?Code Retreat é um evento prático intensivo durante todo um dia, focado nos fundamentos de projeto e desenvolvimento de software. Ao dar oportunidade aos desenvolvedores de ser parte de uma prática focada, sem a pressão para "terminar tudo", o formato do Code Retreat se provou uma forma de aprendizado bastante efetiva. Praticando os princípios básicos de projetos modulares e orientados a objetos, desenvolvedores podem melhorar suas habilidades de escrever código que minimiza o custo de uma mudança futura.<a name="como-funciona" href="https://gist.github.com/034b6d91510e67ef78d7#como-funciona" id="como-funciona"></a>Como funciona?O Dia do Code Retreat consiste de 5-6 sessões, cada uma sendo construída em cima da sessão anterior. A manhã foca em se tornar confortável com o domínio do problema, quebrando antigos hábitos. A tarde força os pares a irem além de suas habilidades e entendimentos de abstrações, projetos modulares e TDD.O Code Retreat tem um formato estabelecido, baseado em tempos rígidos para práticas focadas.Problema: Conway's Game of LifeDuração de Cada Sessão: 45 minutosDuração total: 8.30am a 5 ou 6pmLinguagem: qualquer uma que o par estiver confortável em utilizarProgramação em par é um requisito, uma vez que a transferência de conhecimento contida nesta atividade é essencial para a práticaPreferência pelo uso de desenvolvimento orientado a testes (TDD)Após cada sessão, os pares devem ser trocadosApós cada sessão, o código deve ser deletado. Não colocado em uma branch, não jogado no "stash", apenas deletado sem deixar rastros<a name="divis%C3%A3o-do-tempo" href="https://gist.github.com/034b6d91510e67ef78d7#divis%C3%A3o-do-tempo"></a>Divisão do TempoAbaixo uma descrição por alto do dia:9:30am - 9:45am : chegada, café da manhã9:45am - 10am : recepção, apresentações e discussões sobre o problema proposto10 - 10:45am : Sessão #110:45 - 11am : retrospectiva, pausa11 - 11:45am : Sessão #211:45 - 12pm : retrospectiva, pausa12 - 1:30pm : almoço, networking1:30 - 2:15pm : Sessão #32:15 - 2:30pm : retrospectiva, pausa2 :30 - 3:15pm : Sessão #43:15 - 3:30pm : retrospectiva, pausa3:30 - 4:15pm : Sessão #54:15 - 4:30pm : retrospectiva, pausa4:30 - 5pm : Fechamento do ciclo<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:18209?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 04 Dec 2012 15:14:34 +0000</pubDate>
+               </item>    </channel>
+</rss>

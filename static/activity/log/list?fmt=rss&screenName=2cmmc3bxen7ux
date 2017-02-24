@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jug Łódź&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JugLodz</link>
+        <pubDate>Sun, 29 Jan 2017 12:04:28 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:04:28 +0000</lastBuildDate>
+        <image>
+            <title>Jug Łódź&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JugLodz</link>
+            <url>http://api.ning.com:80/files/MYZa*ZTawAlZgcpeJSKtQ38MpPx*BQx3NfdPzHAnCLNe1AJouHmgf6ZLvN010z3JB0usEJNN27ITA0m*83wtAgmJ3LPZJAc9/664763208.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b6ea189310dcf140b359f14</guid>
+               <title>Jug Łódź posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48305?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48305?xg_source=activity">Global Day of Code Retreat 2015</a> at Fujitsu Rnd Center</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8am to 5:15pm</div><div class="rich-excerpt">Plese visit meetup page for details <a href="http://www.meetup.com/Java-User-Group-Lodz/events/226169070/" target="_blank">http://www.meetup.com/Java-User-Group-Lodz/events/226169070/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48305?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 27 Oct 2015 10:13:27 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b6ea1894f1f9a175ba5796e</guid>
+               <title>Jug Łódź posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:39381?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:39381?xg_source=activity">Global Day of Coderetreat 2014 - Lodz,Poland</a> at Symphony Teleca, Kasprzaka 6</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Global Day of Code Retreat in Lodz for the 4th time!This time we plan 30 people.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:39381?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 09 Oct 2014 15:04:24 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b6ea1899ac808c201250835</guid>
+               <title>Jug Łódź updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity" ><img src="http://api.ning.com/files/0TuyxS6Z67LtIF1g3hbZIYca3VDhw6v9bbRL6PwQds-YEk1AQZPcyA9s7LTWG8fada0SG8bUuLYxkl-6ybrsrhoimjvhl7L*/GlobalDayOfCodeRetreat2012December8thLodz.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">Global Day of Coderetreat 2012 - Ł&oacute;dź / Poland</a> at Ł&oacute;dź - Sterlinga Business Center (SBC) - Rule Financial</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 6pm</div><div class="rich-excerpt">8th of December <a href="http://www.juglodz.pl" target="_blank">JUG Łódź</a> was pleased to organise one of the biggest code retreat in Global Day of Code Retread 2012.We hosted 60 people mostly thanks to our sponsor - <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. We could use whole floor in their building so we could easily accomodate 60 people. Moreover Rule Financial sponsored breakfast, lunch and afterparty.We had conducted following sessions.1. Introductory Session2. TDD Ping Pong3. 5 lines per method4. No mouse5. Object callistenics6. Code swapWe had a call in the morning with Australia/Perth.Bielsko Biała during lunch.And we finished with the call wie Ecuador/Quito.This is how was it captured by Andrzej Stasiak: <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 17 Dec 2012 19:53:26 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba9bc42d7f310e03b20bd20</guid>
+               <title>Jarek is attending Jug Łódź&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Jarek?xg_source=activity">Jarek</a> is attending <a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">Global Day of Coderetreat 2012 - Ł&oacute;dź / Poland</a> at Ł&oacute;dź - Sterlinga Business Center (SBC) - Rule Financial</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 6pm</div><div class="rich-excerpt">8th of December <a href="http://www.juglodz.pl" target="_blank">JUG Łódź</a> was pleased to organise one of the biggest code retreat in Global Day of Code Retread 2012.We hosted 60 people mostly thanks to our sponsor - <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. We could use whole floor in their building so we could easily accomodate 60 people. Moreover Rule Financial sponsored breakfast, lunch and afterparty.We had conducted following sessions.1. Introductory Session2. TDD Ping Pong3. 5 lines per method4. No mouse5. Object callistenics6. Code swapWe had a call in the morning with Australia/Perth.Bielsko Biała during lunch.And we finished with the call wie Ecuador/Quito.This is how was it captured by Andrzej Stasiak: <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 20 Nov 2012 11:21:41 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b9b1cf7042f1beb04df49f3</guid>
+               <title>Michał Ostruszka is attending Jug Łódź&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalOstruszka?xg_source=activity">Michał Ostruszka</a> is attending <a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">Global Day of Coderetreat 2012 - Ł&oacute;dź / Poland</a> at Ł&oacute;dź - Sterlinga Business Center (SBC) - Rule Financial</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 6pm</div><div class="rich-excerpt">8th of December <a href="http://www.juglodz.pl" target="_blank">JUG Łódź</a> was pleased to organise one of the biggest code retreat in Global Day of Code Retread 2012.We hosted 60 people mostly thanks to our sponsor - <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. We could use whole floor in their building so we could easily accomodate 60 people. Moreover Rule Financial sponsored breakfast, lunch and afterparty.We had conducted following sessions.1. Introductory Session2. TDD Ping Pong3. 5 lines per method4. No mouse5. Object callistenics6. Code swapWe had a call in the morning with Australia/Perth.Bielsko Biała during lunch.And we finished with the call wie Ecuador/Quito.This is how was it captured by Andrzej Stasiak: <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 15 Nov 2012 21:24:12 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b6ea1894759b4a38e91875e</guid>
+               <title>Jug Łódź updated their profile</title>
+               <link>http://coderetreat.org/profile/JugLodz?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź</a> updated their <a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">profile</a></span><br/>]]></description>
+               <pubDate>Thu, 15 Nov 2012 12:45:31 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b962f86a75ae2fe940af42b</guid>
+               <title>Piotr Zalewski is attending Jug Łódź&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PiotrZalewski?xg_source=activity">Piotr Zalewski</a> is attending <a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">Global Day of Coderetreat 2012 - Ł&oacute;dź / Poland</a> at Ł&oacute;dź - Sterlinga Business Center (SBC</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 6pm</div><div class="rich-excerpt">8th of December <a href="http://www.juglodz.pl" target="_blank">JUG Łódź</a> was pleased to organise one of the biggest code retreat in Global Day of Code Retread 2012.We hosted 60 people mostly thanks to our sponsor - <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. We could use whole floor in their building so we could easily accomodate 60 people. Moreover Rule Financial sponsored breakfast, lunch and afterparty.We had conducted following sessions.1. Introductory Session2. TDD Ping Pong3. 5 lines per method4. No mouse5. Object callistenics6. Code swapWe had a call in the morning with Australia/Perth.Bielsko Biała during lunch.And we finished with the call wie Ecuador/Quito.This is how was it captured by Andrzej Stasiak: <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 06 Nov 2012 13:01:41 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b84f967520ca17df6b320fc</guid>
+               <title>Radek Antoniuk is attending Jug Łódź&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/RadekAntoniuk?xg_source=activity">Radek Antoniuk</a> is attending <a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">Global Day of Coderetreat 2012 - Ł&oacute;dź / Poland</a> at Ł&oacute;dź - Sterlinga Business Center (SBC</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 6pm</div><div class="rich-excerpt">8th of December <a href="http://www.juglodz.pl" target="_blank">JUG Łódź</a> was pleased to organise one of the biggest code retreat in Global Day of Code Retread 2012.We hosted 60 people mostly thanks to our sponsor - <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. We could use whole floor in their building so we could easily accomodate 60 people. Moreover Rule Financial sponsored breakfast, lunch and afterparty.We had conducted following sessions.1. Introductory Session2. TDD Ping Pong3. 5 lines per method4. No mouse5. Object callistenics6. Code swapWe had a call in the morning with Australia/Perth.Bielsko Biała during lunch.And we finished with the call wie Ecuador/Quito.This is how was it captured by Andrzej Stasiak: <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 26 Oct 2012 11:02:47 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b6ea189992a0188d5e50ad6</guid>
+               <title>Jug Łódź posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">Global Day of Code Retreat Ł&oacute;dź</a> at Ł&oacute;dź - Sterlinga Business Center (SBC</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 6pm</div><div class="rich-excerpt">8th of December <a href="http://www.juglodz.pl" target="_blank">JUG Łódź</a> was pleased to organise one of the biggest code retreat in Global Day of Code Retread 2012.We hosted 60 people mostly thanks to our sponsor - <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. We could use whole floor in their building so we could easily accomodate 60 people. Moreover Rule Financial sponsored breakfast, lunch and afterparty.We had conducted following sessions.1. Introductory Session2. TDD Ping Pong3. 5 lines per method4. No mouse5. Object callistenics6. Code swapWe had a call in the morning with Australia/Perth.Bielsko Biała during lunch.And we finished with the call wie Ecuador/Quito.This is how was it captured by Andrzej Stasiak: <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:13552?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 09 Oct 2012 12:49:33 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b6ea1893065a8f89bcf764d</guid>
+               <title>Jug Łódź is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/JugLodz?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JugLodz?xg_source=activity">Jug Ł&oacute;dź</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 09 Oct 2012 12:46:22 +0000</pubDate>
+               </item>    </channel>
+</rss>

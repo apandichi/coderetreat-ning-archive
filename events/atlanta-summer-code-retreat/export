@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10464
+DTSTAMP:20170129T133629Z
+SUMMARY:Atlanta Summer Code Retreat
+DESCRIPTION:Hi everyone,\nCome to the Atlanta Code Retreat on July 28t
+ h. Its a free*, awesomeevent facilitated by yours truly.\nLearn more h
+ ere: http://coderetreat.org/aboutSign up here: http://atlantacoderetre
+ at-20120728.eventbrite.com/\nSpaces are limited so sign up sooner than
+  later.\nFeel free to contact me with any questions.\nCheers, Jonathan
+ \n* signup fee is refunded once your attendance is confirmed\nSponsore
+ d by Highgroove Studios\n\nFor more information visit http://coderetre
+ at.org/events/atlanta-summer-code-retreat
+DTSTART:20120728T080000Z
+DTEND:20120728T170000Z
+CATEGORIES:code, retreat
+LOCATION:Highgroove Studios Atlanta HQ
+WEBSITE:http://highgroove.com
+URL:http://highgroove.com
+CONTACT:
+ORGANIZER;CN="Jonathan Wallace":http://coderetreat.org/profile/Jonatha
+ nWallace
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="shawn ta
+ aj":http://coderetreat.org/profile/shawntaaj
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Wallace":http://coderetreat.org/profile/JonathanWallace
+END:VEVENT
+END:VCALENDAR

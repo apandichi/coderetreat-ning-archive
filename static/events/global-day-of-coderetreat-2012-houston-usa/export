@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11957
+DTSTAMP:20170129T133849Z
+SUMMARY:Global Day of Coderetreat 2012 - Houston, TX / USA
+DESCRIPTION:South Texas Global Day of Coderetreat!!!11!!! \n\nRegistr
+ ation on Gathers.us: http://gathers.us/events/global-day-of-coderetre
+ at-houston-tx-usa\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-coderetreat-2012-houston-usa
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:START Houston
+WEBSITE:http://www.starthouston.com
+URL:http://www.starthouston.com
+CONTACT:
+ORGANIZER;CN="Jesse Wolgamott":http://coderetreat.org/profile/JesseWol
+ gamott
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jesse Wo
+ lgamott":http://coderetreat.org/profile/JesseWolgamott
+END:VEVENT
+END:VCALENDAR

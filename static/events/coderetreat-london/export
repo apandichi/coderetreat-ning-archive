@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11904
+DTSTAMP:20170129T124501Z
+SUMMARY:Coderetreat London
+DESCRIPTION:http://linkd.in/RjjEiM\n\nFor more information visit http:
+ //coderetreat.org/events/coderetreat-london
+DTSTART:20120929T100000Z
+DTEND:20120929T183000Z
+CATEGORIES:coderetreat
+LOCATION:Camelot
+WEBSITE:http://linkd.in/RjjEiM
+URL:http://linkd.in/RjjEiM
+CONTACT:
+ORGANIZER;CN="Marton Meszaros":http://coderetreat.org/profile/MartonMe
+ szaros
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marton M
+ eszaros":http://coderetreat.org/profile/MartonMeszaros
+END:VEVENT
+END:VCALENDAR

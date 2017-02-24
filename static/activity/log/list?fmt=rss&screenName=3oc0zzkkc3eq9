@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Amadou Daffe&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AmadouDaffe</link>
+        <pubDate>Sun, 29 Jan 2017 09:49:30 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:49:30 +0000</lastBuildDate>
+        <image>
+            <title>Amadou Daffe&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AmadouDaffe</link>
+            <url>http://api.ning.com:80/files/oIUEZA5olnrlGFZaoyGZ1c8i18fne4u-RvMnfXQfN4qbG8*HsPmRco4QlZlPu6gVoSa3mL41wa9ZetR00DwWE6Y58jduHcR1/464506302.png?xgip=0%3A39%3A248%3A248%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000bb6bd036572b081b38ea507</guid>
+               <title>Amadou Daffe added a discussion to the group Organizers/Hosts</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:17673?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AmadouDaffe?xg_source=activity">Amadou Daffe</a> added a discussion to the group <a href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">Organizers/Hosts</a></span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity" ><img src="http://api.ning.com/files/7uH9-Cl0KpQdomnxYhydiaUG3pnz60-2Iqsij1QBtTPy5UQPglfaawIcNQFmNNYCasz95-iLFAVkNzP76U8jtNh49jh5onjp/engineermd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:17673?xg_source=activity">Coderetreat in African Next year!</a></h3><div class="rich-detail"><div class="rich-excerpt">Coders4Africa is looking forward to host first coderetreat in Africa next year!!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:17673?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 29 Nov 2012 16:37:20 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000bb6bd0319c052aa0b120256</guid>
+               <title>Amadou Daffe left a comment for Amadou Daffe</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:17748?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AmadouDaffe?xg_source=activity">Amadou Daffe</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:17748?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/AmadouDaffe?xg_source=activity">Amadou Daffe</a></span><br/>]]></description>
+               <pubDate>Thu, 29 Nov 2012 16:31:31 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Code Retreat 2011 - Durban, South Africa - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A4727&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:30:09Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A4727&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Original Attendees
+
+Cassim Va…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:4593"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:Comment:4593</id>
+                                        <updated>2011-12-05T18:22:19.077Z</updated>
+                    
+                                            <author>
+                            <name>Carlo</name>
+                            <uri>http://coderetreat.org/profile/Carlo</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Original Attendees&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Cassim Vanker&lt;/b&gt; &lt;/span&gt;&lt;br&gt;&lt;/br&gt;Language and Skill Set: &lt;b&gt;C#, ASP.NET&lt;/b&gt;&lt;br&gt;&lt;/br&gt;&lt;hr&gt;&lt;/hr&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Duane Stavropoulos&lt;/b&gt; &lt;/span&gt;&lt;br&gt;&lt;/br&gt;Language and Skill Set: &lt;b&gt;python, c&lt;/b&gt;&lt;br&gt;&lt;/br&gt;&lt;hr&gt;&lt;/hr&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Andrew Russell&lt;/b&gt; &lt;/span&gt;&lt;br&gt;&lt;/br&gt;Language and Skill Set: &lt;b&gt;c# tdd&lt;/b&gt;&lt;br&gt;&lt;/br&gt;&lt;hr&gt;&lt;/hr&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Rohland de Charmoy&lt;/b&gt; &lt;/span&gt;&lt;br&gt;&lt;/br&gt;Language and Skill Set: &lt;b&gt;C# .NET, Nunit,…&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Original Attendees&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Cassim Vanker&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;C#, ASP.NET&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Duane Stavropoulos&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;python, c&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Andrew Russell&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;c# tdd&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Rohland de Charmoy&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;C# .NET, Nunit, Moq&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Yoganand Aiyadurai&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;c++, c#, Delphi, MS Sql&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Mark Whitfeld&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;C#, TDD, DDD&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Winston Muller&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;C#, ASP.NET&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Faisal Vanker&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;C#,ASP.NET Webforms, SQL&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Michael Angelozzi Angelozzi&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;Python 2.7&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;bilal magid&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;.net, csharp, sql server, xml, xslt, asp.net&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Nazir Jooman&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;English and C#, ASP.Net, SQL&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Gary Daniell&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;C#&lt;/b&gt;&lt;br/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Brett Powell&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;C#, TDD, DDD&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;br class=&quot;Apple-interchange-newline&quot;/&gt;&lt;hr/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;b&gt;Carlo Teixeira&lt;/b&gt; &lt;/span&gt;&lt;br/&gt;Language and Skill Set: &lt;b&gt;Java, Smalltalk, TDD, Domain Driven Design&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;/div&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

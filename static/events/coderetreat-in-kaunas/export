@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40015
+DTSTAMP:20170129T100145Z
+SUMMARY:Global Day of Coderetreat 2014 - Kaunas, Lithuania
+DESCRIPTION:EN:\nAll the meetings and try to learn new programming ski
+ lls or improving old ones.\nIf you want to try TDD or pair programing,
+  try to program without IF or without a mouse, come on.\nVaidas Pilkau
+ skas ,the founder of Vilnius JUG, and Dominykas Blyžė  will help 
+ us to improve. \nhttp://coderetreat.org/events/coderetreat-in-kaunas 
+  Tickets https://www.eventbrite.com/e/global-day-of-coderetreat-2014-
+ tickets-13804701233\nLT:\nVisi susirinksime ir bandysime mokytis nauj�
+ � įgūdžių programavime arba tobulinsime senus.  Jei nori išbandyt
+ i TDD arba \"pair programing\", pabandyti programuoti be if arba be pe
+ lės, ateik.  Mums padės tobulėti Vilniaus JUG įkūrėjas Vaidas Pi
+ lkauskas, bei Dominykas Blyžė  http://coderetreat.org/events/coderet
+ reat-in-kaunas  Bilietai https://www.eventbrite.com/e/global-day-of-c
+ oderetreat-2014-tickets-13804701233\nSponsor:\n\n\nFor more informatio
+ n visit http://coderetreat.org/events/coderetreat-in-kaunas
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Intermedix
+WEBSITE:https://www.eventbrite.com/e/global-day-of-coderetreat-2014-ti
+ ckets-13804701233
+URL:https://www.eventbrite.com/e/global-day-of-coderetreat-2014-ticket
+ s-13804701233
+CONTACT:+37061237238
+ORGANIZER:Vaidas Pilkauskas, Vytautas Dagilis, Adomas Greičius, Domin
+ ykas Blyžė
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/y39xTR5a6g7-c
+ tu36Ltvdc3DFtayP7qv-a7mTiXNJaSIQgOIvhOowrm4dQvr2qriFHN8QATKF*Fl9zyf8ki
+ S-aU4DoJboeGp/intermedix1.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adomas G
+ reicius":http://coderetreat.org/profile/AdomasGreicius
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vaidas P
+ ilkauskas":http://coderetreat.org/profile/VaidasPilkauskas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vytautas
+  Dagilis":http://coderetreat.org/profile/VytautasDagilis
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41080
+DTSTAMP:20170129T120558Z
+SUMMARY:Global Day of Coderetreat 2014 - Barcelona, Spain
+DESCRIPTION:After participate in 2011, 2012 and 2013, Barcelona wants
+  to join GDCR initiative one more year!!\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-2014-barcelon
+ a
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Barcelona, Spain
+WEBSITE:http://agile-barcelona.org/
+URL:http://agile-barcelona.org/
+CONTACT:+34 650037385
+ORGANIZER;CN="Jaume Jornet":http://coderetreat.org/profile/JaumeJornet
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/aDRZat70esHCB
+ 4v3jewz7muG1iU2QYId7bJm6bE190Tw3urjS9gN5msjGq*oovJDsy57RH4G9gI1nTwWQCv
+ 6tuIVZgQRP89I/427659573.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaume Jo
+ rnet":http://coderetreat.org/profile/JaumeJornet
+END:VEVENT
+END:VCALENDAR

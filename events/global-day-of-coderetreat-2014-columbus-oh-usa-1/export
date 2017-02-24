@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38631
+DTSTAMP:20170129T120410Z
+SUMMARY:Global Day of Coderetreat 2014 - Cleveland, OH, USA
+DESCRIPTION:A group of developers gathering to improve their craft and
+  make some new friends. This event is being hosted as part of the Glob
+ al Day of Code Retreat!\n\nEventbrite Signup Page\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2014
+ -columbus-oh-usa-1
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:LeanDog
+WEBSITE:https://www.google.com/maps/place/LeanDog/@41.51071,-81.69153,
+ 15z/data=!4m2!3m1!1s0x0:0xc37d6cae0528fdd9
+URL:https://www.google.com/maps/place/LeanDog/@41.51071,-81.69153,15z/
+ data=!4m2!3m1!1s0x0:0xc37d6cae0528fdd9
+CONTACT:
+ORGANIZER;CN="Joel Byler":http://coderetreat.org/profile/JoelByler
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/2Tkrz8bmcYgqi
+ vLNflAjqjFzMSidAwo-Hp8A-iSeLFbmIlqr64agbr-NkbKZW0E39138TKCWuHshLbzRHi5
+ WAa5g0qCHDtoI/officeboat013.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joel Byl
+ er":http://coderetreat.org/profile/JoelByler
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Andrew Cox&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0t3h3pagiw32s&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:56:49Z</updated>
+                            <author>
+                    <name>Andrew Cox</name>
+                    <uri>http://coderetreat.org/profile/AndrewCox</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ZylMsj6vEwqNKBxTbdKBwPzmYwTdhyiIh*WA2DF5v2cJsXx4JUvul1VM6YnO3CgBS4JJf8YFhjmUqeo1ggTJL8JyIAMdPnlN/492554459.jpeg?xgip=0%3A0%3A188%3A188%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0t3h3pagiw32s&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Coderetreat: A first-time facilitator&#039;s view</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4692"/>
+                                        <id>tag:coderetreat.org,2011-12-06:6456126:BlogPost:4692</id>
+                                        <updated>2011-12-06T03:18:23.000Z</updated>
+                    
+                                            <author>
+                            <name>Andrew Cox</name>
+                            <uri>http://coderetreat.org/profile/AndrewCox</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: This was cross-posted from &lt;a href=&quot;http://andrewcox.org/post/13810557640/coderetreat-a-first-time-facilitators-view&quot;&gt;Coderetreat: A first-time facilitator&#039;s view&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;On Saturday, I helped facilitate the &lt;a href=&quot;http://coderetreat.org/&quot;&gt;Global Day of Coderetreat 2011&lt;/a&gt; in Pittsburgh. Over 2000 people attended in 90 cities on 6 continents. There were more coderetreat events on this single day than in the combined 3-year history of…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: This was cross-posted from &lt;a href=&quot;http://andrewcox.org/post/13810557640/coderetreat-a-first-time-facilitators-view&quot;&gt;Coderetreat: A first-time facilitator&#039;s view&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;On Saturday, I helped facilitate the &lt;a href=&quot;http://coderetreat.org/&quot;&gt;Global Day of Coderetreat 2011&lt;/a&gt; in Pittsburgh. Over 2000 people attended in 90 cities on 6 continents. There were more coderetreat events on this single day than in the combined 3-year history of coderetreats.&lt;/p&gt;
+&lt;p&gt;Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. &lt;a href=&quot;http://coderetreat.org/about&quot;&gt;Much&lt;/a&gt; &lt;a href=&quot;http://coderetreat.org/facilitating/structure-of-a-coderetreat&quot;&gt;has&lt;/a&gt; &lt;a href=&quot;http://coderetreat.org/profiles/blogs/global-day-of-coderetreat-an-account-from-london&quot;&gt;been&lt;/a&gt; &lt;a href=&quot;http://coderetreat.org/profiles/blogs/coderetreat-2011-in-prague&quot;&gt;written&lt;/a&gt; about the format and experience of coderetreats including &lt;a href=&quot;http://monospacedmonologues.com/post/13794728271/global-day-of-coderetreat&quot;&gt;this excellent fictional account of a coderetreat attendee&lt;/a&gt;, so I’ll focus instead on my perspective of the event as a first-time facilitator.&lt;/p&gt;
+&lt;h3&gt;The goals of Coderetreat&lt;/h3&gt;
+&lt;p&gt;In preparing for my role as a facilitator, I tried to dig deep into what the goals of the event were. The single, primary goal that I ended up with was:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Learn how to write code that adheres to the &lt;a href=&quot;http://theholyjava.wordpress.com/2011/02/14/clean-code-four-simple-design-rules/&quot;&gt;rules of Simple Design&lt;/a&gt; in order to minimize the cost of change.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now &lt;em&gt;that’s&lt;/em&gt; something both developers and managers can get behind. It reads like a &lt;a href=&quot;http://www.mountaingoatsoftware.com/topics/user-stories&quot;&gt;user story&lt;/a&gt; explaining not only the &lt;em&gt;what&lt;/em&gt;, but also &lt;em&gt;why&lt;/em&gt; you would want to adhere to the rules of simple design.&lt;/p&gt;
+&lt;p&gt;In addition to the primary goal of writing code to minimize the cost of change, a coderetreat has a ton of secondary benefits including, but not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve problem solving skills&lt;/li&gt;
+&lt;li&gt;Try out different programming languages&lt;/li&gt;
+&lt;li&gt;Experience and improve &lt;a href=&quot;http://en.wikipedia.org/wiki/Pair_programming&quot;&gt;pair programming&lt;/a&gt; and &lt;a href=&quot;http://en.wikipedia.org/wiki/Test-driven_development&quot;&gt;TDD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn your tools&lt;/li&gt;
+&lt;li&gt;Pick up tips from others’ development workflows and environments&lt;/li&gt;
+&lt;li&gt;Socialize and network with local developers&lt;/li&gt;
+&lt;li&gt;Spread the &lt;a href=&quot;http://manifesto.softwarecraftsmanship.org/&quot;&gt;Software Craftsmanship&lt;/a&gt; bug&lt;/li&gt;
+&lt;li&gt;Expose people to new object-oriented design concepts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Is a coderetreat the absolute &lt;em&gt;best&lt;/em&gt; format for achieving this goal? That’s a topic for another post. But, I do believe you’d have a hard time finding a better way to level up your software development skills in under 10 hours.&lt;/p&gt;
+&lt;h3&gt;Takeaways&lt;/h3&gt;
+&lt;p&gt;This event was awesome. I think I got as much or more out of it as a facilitator as I did as a participant. But how can we make it better?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Set expectations before the event&lt;/strong&gt;. We need some sort of a “Before You Arrive” kit that gives a very brief overview of the event and tells you how to get the most out of the day. This should include everything from setting up your development environment to bringing enough business cards to share.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Make sure you have plenty of whiteboard space&lt;/strong&gt;. During a coderetreat, there’s a lot to take in. I love having information radiators for active and passive learning. There are a number of things that I wanted to convey to the participants throughout the day, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wi-Fi credentials&lt;/li&gt;
+&lt;li&gt;Twitter hashtag&lt;/li&gt;
+&lt;li&gt;The goal of Coderetreat&lt;/li&gt;
+&lt;li&gt;The 4 rules of Conway’s Game of Life&lt;/li&gt;
+&lt;li&gt;The 4 rules of Simple Design&lt;/li&gt;
+&lt;li&gt;The TDD cycle&lt;/li&gt;
+&lt;li&gt;List of buzzwords and concepts&lt;/li&gt;
+&lt;li&gt;Mark Twain quote, “I didn’t have time to write a short letter, so I wrote a long one instead.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Put more focus on goals at the beginning&lt;/strong&gt;. The primary goal should be written clearly on a whiteboard to remind everyone throughout the day why they chose to give up their Saturday to program. In addition to the primary goal, I think I could spend more time calling out secondary goals like getting better at pair programming and test-driven development, learning your tools, exposing new OO concepts, and spreading the software craftsmanship bug. If the participants leave with a firm idea of the goals of the event, it will help to spread the idea of coderetreats.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don’t push the challenges before the participants are ready&lt;/strong&gt;. Due to the big event, it was too tempting to pull out the whole bag of tricks for the sessions. I think it would’ve been best to give cues to focus on fundamentals for the first 3 rounds and only start to introduce more modest constraints like &lt;a href=&quot;http://c2.com/cgi/wiki?PairProgrammingPingPongPattern&quot;&gt;ping pong pairing&lt;/a&gt; and &lt;a href=&quot;http://gojko.net/2009/02/27/thought-provoking-tdd-exercise-at-the-software-craftsmanship-conference/&quot;&gt;TDD as if you meant it&lt;/a&gt; late in the day, if at all. If you’re working with developers who have all been to a coderetreat before, then you might be able to pull out things like “no conditional statements” or “use verbs instead of nouns”, but I think otherwise they put undue hardship on the teams. Learning pairing, TDD, simple design, and even new programming languages is more than enough for most people.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ask more probing questions during walk-arounds&lt;/strong&gt;. Much of being a great facilitator is having a strong understanding of OO concepts yourself. This allows you to ask the right questions to stretch a practitioner and guide them toward simple design. I still have quite a way to go on this front, but I think I would do well by reading up on some of the OO concepts and forming questions that I can ask ahead of time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Write down a list of buzzwords and concepts during the event&lt;/strong&gt;. If you’ve been to a number of conferences and are interested in Software Craftsmanship, you might take for granted how many buzzwords you regularly sling around. People don’t often want to expose their ignorance, so I think it would be really useful to make note of buzzwords and concepts that pop up in conversation throughout the day like, “DRY”, “YAGNI”, “tell, don’t ask”, “law of demeter, “loose coupling”, and “SOLID design principles”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Code swapping for the last session could be risky&lt;/strong&gt;. I’m a big fan of swapping code after the 5th session because it reinforces the primary goal of minimizing the cost of change. When new developers have to deal with an existing codebase, your efforts for clean code are truly put to the test.&lt;/p&gt;
+&lt;p&gt;There was a fair bit of good-natured ribbing about code quality after swapping code with another pair after the 5th session. If there is a wide gap in skill levels, or people don’t know each other very well, this has the potential to lead to hurt feelings. Use with caution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6 sessions may be too much for one day&lt;/strong&gt;. One comment that received a lot of nods at our closing circle was that they would have gone home totally satisfied after just 5 sessions. The 6th session left them a little fried and we only ended up with 8 people (out of about 50) for the traditional post-coderetreat beers. I had a similar experience when I participated in a coderetreat. On the one hand, that feeling of pushing your mind to the limit and leaving completely fried is kind of nice, but perhaps it comes at the expense of leaving people with more energy to challenge their development practices at work come Monday morning.&lt;/p&gt;
+&lt;h3&gt;The rabbit hole&lt;/h3&gt;
+&lt;p&gt;Once you start thinking about writing software using the principles of Simple Design, it’s like opening Pandora’s Box. You become curious about some of those buzzwords I mentioned above like, “loose coupling”, “high cohesion”, and “single responsibility principle”. You realize you’re peering down a rabbit hole and start wondering just how deep the rabbit hole goes …&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

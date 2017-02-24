@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53861
+DTSTAMP:20170129T112422Z
+SUMMARY:Global Day of Coderetreat 2016 - CALGARY, CANADA
+DESCRIPTION:- Global day of code retreat in Calgary\n- You can registe
+ r for the event here:\nhttps://www.meetup.com/Calgary-Agile-Methods-Us
+ er-Group/events/234669786/\n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-2016-calgary-canada
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Calgary, Alberta, Canada
+WEBSITE:
+URL:
+CONTACT:4036073055
+ORGANIZER;CN="Tony Trung Thanh Vo":http://coderetreat.org/profile/Tony
+ TrungThanhVo
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tony Tru
+ ng Thanh Vo":http://coderetreat.org/profile/TonyTrungThanhVo
+END:VEVENT
+END:VCALENDAR

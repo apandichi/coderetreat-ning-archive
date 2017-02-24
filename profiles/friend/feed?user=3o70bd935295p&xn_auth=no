@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3o70bd935295p&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:00:34Z</updated>
+                            <author>
+                    <name>Artūras Ševčenko</name>
+                    <uri>http://coderetreat.org/profile/ArturasSevcenko</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/i41PO2l4KKVyVpwaxiVdKD88vG4d4nze1nPKWp7RLi6MXvw2NV9l2TkqAcKfCd7VfCVDnuvjS9aPYkBi4Zpsb-Spe7Vmi3KM/1107381001.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3o70bd935295p&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Adomas Greicius</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AdomasGreicius"/>
+                                        <id>tag:coderetreat.org,2014-10-16:6456126:User:39764</id>
+                                        <updated>2014-10-16T06:03:58.960Z</updated>
+                    
+                                            <author>
+                            <name>Artūras Ševčenko</name>
+                            <uri>http://coderetreat.org/profile/ArturasSevcenko</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adomas Greicius&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adomas Greicius&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

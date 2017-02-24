@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>David Chu&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DavidChu</link>
+        <pubDate>Sun, 29 Jan 2017 11:12:51 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:12:51 +0000</lastBuildDate>
+        <image>
+            <title>David Chu&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DavidChu</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000a55ad525f776cbbe4e9200b</guid>
+               <title>David Chu commented on Jim Hurne&#039;s blog post Surviving the Coderetreat Hangover</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:9172?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidChu?xg_source=activity">David Chu</a> <a href="http://coderetreat.org/xn/detail/6456126:Comment:9172?xg_source=activity">commented</a> on <a href="http://coderetreat.org/profile/JimHurne?xg_source=activity">Jim Hurne's</a> blog post <a href="http://coderetreat.org/xn/detail/6456126:BlogPost:8789?xg_source=activity">Surviving the Coderetreat Hangover</a></span><br/>]]></description>
+               <pubDate>Tue, 06 Mar 2012 22:30:41 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000a55ad52a86c6be82e23ca19</guid>
+               <title>David Chu updated their profile</title>
+               <link>http://coderetreat.org/profile/DavidChu?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidChu?xg_source=activity">David Chu</a> updated their <a href="http://coderetreat.org/profile/DavidChu?xg_source=activity">profile</a></span><br/>]]></description>
+               <pubDate>Tue, 06 Mar 2012 22:22:49 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000a55ad52ca3ea6d3d44ec89f</guid>
+               <title>David Chu is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/DavidChu?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidChu?xg_source=activity">David Chu</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 06 Mar 2012 22:22:20 +0000</pubDate>
+               </item>    </channel>
+</rss>

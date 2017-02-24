@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2013 - Tampa, FL, USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A29633&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:58:02Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A29633&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Thanks so much for hosting th…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:30626"/>
+                                        <id>tag:coderetreat.org,2013-11-28:6456126:Comment:30626</id>
+                                        <updated>2013-11-28T03:10:01.010Z</updated>
+                    
+                                            <author>
+                            <name>Steve Clanton</name>
+                            <uri>http://coderetreat.org/profile/SteveClanton</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks so much for hosting this!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks so much for hosting this!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

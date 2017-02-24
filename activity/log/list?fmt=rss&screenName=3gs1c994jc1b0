@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Giorgio Sironi&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/GiorgioSironi84</link>
+        <pubDate>Sun, 29 Jan 2017 11:14:58 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:14:58 +0000</lastBuildDate>
+        <image>
+            <title>Giorgio Sironi&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/GiorgioSironi84</link>
+            <url>http://api.ning.com:80/files/KJRlO18Smvd0o0CGaEDNFMAmvENUQ94Q6dhtGLovUgdtGN7SQ4UqjFiK7w8CgfKstRGSVKEyo6d6Z6EpDrb2io8FI2mNi1w*/933446550.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009d43cebfac1bb702c60252e</guid>
+               <title>Giorgio Sironi posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:4756?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/GiorgioSironi84?xg_source=activity">Giorgio Sironi</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:4756?xg_source=activity">What I learned in the Global Day of Code Retreat</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:4756">I have authored a post on my experience in the Global Day of Code Retreat 2011. I cannot repost it here, but <a href="http://css.dzone.com/articles/what-i-learned-global-day-code" target="_blank">it is available on DZone</a>.<a class="continue-link" href="http://coderetreat.org/profiles/blogs/what-i-learned-in-the-global-day-of-code-retreat">See More</a></div></div></div></div>]]></description>
+               <pubDate>Tue, 06 Dec 2011 09:47:47 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d43cebdf5197fc0d17dc3b</guid>
+               <title>Giorgio Sironi is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/GiorgioSironi84?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/GiorgioSironi84?xg_source=activity">Giorgio Sironi</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 06 Dec 2011 09:46:37 +0000</pubDate>
+               </item>    </channel>
+</rss>

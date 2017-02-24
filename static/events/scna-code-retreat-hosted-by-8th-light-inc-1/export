@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46445
+DTSTAMP:20170129T114827Z
+SUMMARY:SCNA Code Retreat hosted by 8th Light, Inc.
+DESCRIPTION:Please join us for a full day of hands-on coding practice 
+ to improve your craft at the new 8th Light office in Los Angeles.\nBri
+ ng your computer and your brain—we've got the rest covered! Lunch wi
+ ll be provided.\nSpace will be limited, so be sure to reserve your sea
+ t when you purchase your ticket.\n\nFor more information visit http://
+ coderetreat.org/events/scna-code-retreat-hosted-by-8th-light-inc-1
+DTSTART:20151107T090000Z
+DTEND:20151107T160000Z
+CATEGORIES:code, retreat
+LOCATION:8th Light Los Angeles
+WEBSITE:http://scna.softwarecraftsmanship.com/
+URL:http://scna.softwarecraftsmanship.com/
+CONTACT:
+ORGANIZER;CN=SCNA:http://coderetreat.org/profile/SCNA
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/JgWHSTt60ev4e
+ 5aMgvgEBrUoRmN7*Rx4GjoHGUCUDINw0Ea3lRv*S52xQ3PMcNM92jsw9C96-BH6*Fs377L
+ -SfweK0UOgvty/8thLightLogoClrTextWB7e787eb2.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=SCNA:http
+ ://coderetreat.org/profile/SCNA
+END:VEVENT
+END:VCALENDAR

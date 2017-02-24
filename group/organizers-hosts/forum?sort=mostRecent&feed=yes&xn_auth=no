@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Organizers/Hosts Discussions - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/groups/group/forum?groupUrl=organizers-hosts&amp;sort=mostRecent&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:46:52Z</updated>
+                        <id>http://coderetreat.org/groups/group/forum?groupUrl=organizers-hosts&amp;sort=mostRecent&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Video Streaming</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:56041"/>
+                                        <id>tag:coderetreat.org,2016-10-07:6456126:Topic:56041</id>
+                                        <updated>2016-10-07T11:48:51.979Z</updated>
+                    
+                                            <author>
+                            <name>Mj Mendoza</name>
+                            <uri>http://coderetreat.org/profile/MjMendoza</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Is there some kind of Live Video Streaming so we can &quot;globally&quot; co-celebrate GDCR?  Nokia R&amp;amp;D Sites in Beijing, Chengdu, and Manila are planning to use FB Live.&lt;/p&gt;
+&lt;p&gt;May we know which live video streaming are you going to use, and can we have the link so we can broadcast it here in Manila as well?&lt;/p&gt;
+&lt;p&gt;Regards.&lt;br/&gt;Mj&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Is there some kind of Live Video Streaming so we can &quot;globally&quot; co-celebrate GDCR?  Nokia R&amp;amp;D Sites in Beijing, Chengdu, and Manila are planning to use FB Live.&lt;/p&gt;
+&lt;p&gt;May we know which live video streaming are you going to use, and can we have the link so we can broadcast it here in Manila as well?&lt;/p&gt;
+&lt;p&gt;Regards.&lt;br/&gt;Mj&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Are organizers limited?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:55030"/>
+                                        <id>tag:coderetreat.org,2016-09-20:6456126:Topic:55030</id>
+                                        <updated>2016-09-20T10:18:59.801Z</updated>
+                    
+                                            <author>
+                            <name>Mj Mendoza</name>
+                            <uri>http://coderetreat.org/profile/MjMendoza</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;We&#039;ve held coderetreat last March 5, June 4, and August 13.  All 3 happened this year only.  Now we&#039;re planning to host Global Day of Coderetreat on October 22.&lt;/p&gt;
+&lt;p&gt;Question:  Are Organizers limited to doing same problem (being Conway&#039;s Game of Life)? with same constraints?  Is it possible for Organizers to add flavor to the coderetreat like adding a theme like Pokemon?  We plan to integrate the Pokemon game concept to Conway&#039;s Game of Life, and integrate Pokemon to the…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;We&#039;ve held coderetreat last March 5, June 4, and August 13.  All 3 happened this year only.  Now we&#039;re planning to host Global Day of Coderetreat on October 22.&lt;/p&gt;
+&lt;p&gt;Question:  Are Organizers limited to doing same problem (being Conway&#039;s Game of Life)? with same constraints?  Is it possible for Organizers to add flavor to the coderetreat like adding a theme like Pokemon?  We plan to integrate the Pokemon game concept to Conway&#039;s Game of Life, and integrate Pokemon to the constraints.&lt;/p&gt;
+&lt;p&gt;Regards.&lt;/p&gt;
+&lt;p&gt;Mj&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Documentation about Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:39716"/>
+                                        <id>tag:coderetreat.org,2014-10-14:6456126:Topic:39716</id>
+                                        <updated>2014-10-14T00:00:52.183Z</updated>
+                    
+                                            <author>
+                            <name>Arthur Almeida</name>
+                            <uri>http://coderetreat.org/profile/ArthurAlmeida</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi everyone!&lt;/p&gt;
+&lt;p&gt;  My name is Arthur and I&#039;m from Brasília, Brasil!&lt;/p&gt;
+&lt;p&gt;  I decided last Friday that I will host the GDCR this year so I&#039;m running behind to find a local and a sponsorship.  &lt;/p&gt;
+&lt;div&gt;  I want to send some e-mails to some companies that I have in mind to running the coderetreat but I need a document to introduce what is the Coderetreat, your goals, etc.&lt;/div&gt;
+&lt;div&gt;  Is there any existing document like that? Or Do I need to create one?&lt;/div&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi everyone!&lt;/p&gt;
+&lt;p&gt;  My name is Arthur and I&#039;m from Brasília, Brasil!&lt;/p&gt;
+&lt;p&gt;  I decided last Friday that I will host the GDCR this year so I&#039;m running behind to find a local and a sponsorship.  &lt;/p&gt;
+&lt;div&gt;  I want to send some e-mails to some companies that I have in mind to running the coderetreat but I need a document to introduce what is the Coderetreat, your goals, etc.&lt;/div&gt;
+&lt;div&gt;  Is there any existing document like that? Or Do I need to create one?&lt;/div&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Local sponsor ideas</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:31668"/>
+                                        <id>tag:coderetreat.org,2013-12-08:6456126:Topic:31668</id>
+                                        <updated>2013-12-08T22:13:47.555Z</updated>
+                    
+                                            <author>
+                            <name>Jorge Muria Sánchez</name>
+                            <uri>http://coderetreat.org/profile/JorgeMuriaSanchez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi.&lt;/p&gt;
+&lt;p&gt;I&#039;m preparing the Coderetreat day in Alicante. I&#039;m having problems finding local sponsor for that day. In case that I don&#039;t manage to find one, we&#039;ll have to go to a restaurant to have lunch. It&#039;s not bad at all but I&#039;ve watched other coderetreats and It would be great that I could bring the lunch and invite the people. &lt;/p&gt;
+&lt;p&gt;Do you have any suggestion of company that I could contact to?&lt;/p&gt;
+&lt;p&gt;Many thanks&lt;/p&gt;
+&lt;p&gt;Jorge. &lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi.&lt;/p&gt;
+&lt;p&gt;I&#039;m preparing the Coderetreat day in Alicante. I&#039;m having problems finding local sponsor for that day. In case that I don&#039;t manage to find one, we&#039;ll have to go to a restaurant to have lunch. It&#039;s not bad at all but I&#039;ve watched other coderetreats and It would be great that I could bring the lunch and invite the people. &lt;/p&gt;
+&lt;p&gt;Do you have any suggestion of company that I could contact to?&lt;/p&gt;
+&lt;p&gt;Many thanks&lt;/p&gt;
+&lt;p&gt;Jorge. &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>How strict is &quot;free&quot; ?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:20570"/>
+                                        <id>tag:coderetreat.org,2013-02-11:6456126:Topic:20570</id>
+                                        <updated>2013-02-11T19:23:00.219Z</updated>
+                    
+                                            <author>
+                            <name>Justin Love</name>
+                            <uri>http://coderetreat.org/profile/JustinLove</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I&#039;d like to run a Code Retreat for one of the regular hack days at a suburban tech center.  However, there aren&#039;t a whole lot of big tech companies nearby.  Would it be okay if the event was free, but we split lunch, or just want out to a restaurant?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I&#039;d like to run a Code Retreat for one of the regular hack days at a suburban tech center.  However, there aren&#039;t a whole lot of big tech companies nearby.  Would it be okay if the event was free, but we split lunch, or just want out to a restaurant?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Coderetreat in African Next year!</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:17673"/>
+                                        <id>tag:coderetreat.org,2012-11-29:6456126:Topic:17673</id>
+                                        <updated>2012-11-29T16:37:20.322Z</updated>
+                    
+                                            <author>
+                            <name>Amadou Daffe</name>
+                            <uri>http://coderetreat.org/profile/AmadouDaffe</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Coders4Africa is looking forward to host first coderetreat in Africa next year!!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Coders4Africa is looking forward to host first coderetreat in Africa next year!!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>GDCR  Presentation template</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:16475"/>
+                                        <id>tag:coderetreat.org,2012-11-20:6456126:Topic:16475</id>
+                                        <updated>2012-11-20T01:20:37.997Z</updated>
+                    
+                                            <author>
+                            <name>Rajmahendra Hegde</name>
+                            <uri>http://coderetreat.org/profile/rajmahendra</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi&lt;/p&gt;
+&lt;p&gt;Do we have any PPT presentation template for GDCR 2012 so we can create a standard presentation in our event ?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi&lt;/p&gt;
+&lt;p&gt;Do we have any PPT presentation template for GDCR 2012 so we can create a standard presentation in our event ?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hosting notes - some tips to remember</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:11307"/>
+                                        <id>tag:coderetreat.org,2012-07-31:6456126:Topic:11307</id>
+                                        <updated>2012-07-31T11:49:33.079Z</updated>
+                    
+                                            <author>
+                            <name>Wallis Buchan</name>
+                            <uri>http://coderetreat.org/profile/WallisBuchan</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;We hosted our first Coderetreat this weekend. While most of the organisation stuff is pretty commonsense, there were a few thing that will help make the event even sweeter (and less stressful for the organizer!):&lt;/p&gt;
+&lt;p&gt;- Ask your attendees for a nominal deposit which they receive back on arrival. This helps with &quot;no-shows&quot;.&lt;/p&gt;
+&lt;p&gt;- Expect people to arrive late, and plan in buffer time for this.&lt;/p&gt;
+&lt;p&gt;- Ensure that everyone lets you know if they are bringing a laptop or not - that way you…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;We hosted our first Coderetreat this weekend. While most of the organisation stuff is pretty commonsense, there were a few thing that will help make the event even sweeter (and less stressful for the organizer!):&lt;/p&gt;
+&lt;p&gt;- Ask your attendees for a nominal deposit which they receive back on arrival. This helps with &quot;no-shows&quot;.&lt;/p&gt;
+&lt;p&gt;- Expect people to arrive late, and plan in buffer time for this.&lt;/p&gt;
+&lt;p&gt;- Ensure that everyone lets you know if they are bringing a laptop or not - that way you can plan to have enough (and they must be already set up to program in the language of choice and with relevant test framework). Remember that they work in pairs so you only need enough for half the attendees.&lt;/p&gt;
+&lt;p&gt;- Give attendees graph paper - they will want to draw out notes for the Game of Life, graph paper makes this easy.&lt;/p&gt;
+&lt;p&gt;- Don&#039;t forget small things like name badges!&lt;/p&gt;
+&lt;p&gt;- Make big prints of the 4 rules for the Game of Life and stick them up in the work area, these are often referenced.&lt;/p&gt;
+&lt;p&gt;- Make sure you have at least a 45min to break over lunch time, more is better! The mind needs to rest.&lt;/p&gt;
+&lt;p&gt;- Get feedback from everyone, it can only make future events better.&lt;/p&gt;
+&lt;p&gt;- Enjoy, the day will fly past :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>How do you show a twitter stream during the event?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:7754"/>
+                                        <id>tag:coderetreat.org,2012-01-25:6456126:Topic:7754</id>
+                                        <updated>2012-01-25T22:31:13.524Z</updated>
+                    
+                                            <author>
+                            <name>Matt Steele</name>
+                            <uri>http://coderetreat.org/profile/MattSteele</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;How have you showcased a twitter feed for the coderetreats you&#039;ve hosted?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It&#039;d be nice to have a projector showing the #coderetreat feed, and while I assume there are better options than manually refreshing Twitter&#039;s search page, I don&#039;t know what they are. Any suggestions?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;How have you showcased a twitter feed for the coderetreats you&#039;ve hosted?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It&#039;d be nice to have a projector showing the #coderetreat feed, and while I assume there are better options than manually refreshing Twitter&#039;s search page, I don&#039;t know what they are. Any suggestions?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Coderetreat Live Application</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:2053"/>
+                                        <id>tag:coderetreat.org,2011-11-26:6456126:Topic:2053</id>
+                                        <updated>2011-11-26T19:49:23.212Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;[Update: Jim had a great idea for a name, so we renamed this to Coderetreat Live]&lt;/p&gt;
+&lt;p&gt;We&#039;ve had ideas around an application that would help coordinate same-day coderetreats in different locations. This is a great idea, and I thought I&#039;d start a discussion for adding features. I&#039;m working on having something available for the 2011 global day event, and we can continue to add features over time.&lt;/p&gt;
+&lt;p&gt;Adrian Mowat wrote a blog post…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;[Update: Jim had a great idea for a name, so we renamed this to Coderetreat Live]&lt;/p&gt;
+&lt;p&gt;We&#039;ve had ideas around an application that would help coordinate same-day coderetreats in different locations. This is a great idea, and I thought I&#039;d start a discussion for adding features. I&#039;m working on having something available for the 2011 global day event, and we can continue to add features over time.&lt;/p&gt;
+&lt;p&gt;Adrian Mowat wrote a blog post &lt;a target=&quot;_blank&quot; href=&quot;http://coderetreat.ning.com/profiles/blogs/an-idea&quot;&gt;about this with some ideas&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Initially, the main feature would be to have a page that anyone could view which shows the following information about the coderetreats:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Have they started&lt;/li&gt;
+&lt;li&gt;Which session are they on&lt;/li&gt;
+&lt;li&gt;What is the exercise, constraints, etc. for the current session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, the necessary functionality will be added to support updating this information.&lt;/p&gt;
+&lt;p&gt;Other ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Individual event pages that can be used at the event&lt;/li&gt;
+&lt;li&gt;Having the app include a timer for the session&lt;/li&gt;
+&lt;li&gt;Twitter stream&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&#039;d like to open up the discussion to other feature ideas. We won&#039;t be able to get eveything done in time for global day, but we can certainly begin working. Over time, we could have something great that future coderetreats can use when they have several on the same day.&lt;/p&gt;
+&lt;p&gt;I&#039;ve started a github repo for this, the &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/coreyhaines/coderetreat-live&quot;&gt;coderetreat-live&lt;/a&gt;.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2e0ka2ffngtfg&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:32:27Z</updated>
+                            <author>
+                    <name>Christian Hujer</name>
+                    <uri>http://coderetreat.org/profile/ChristianHujer</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/-oaic7y9RVRdXPs31C6HPgghe4QvnKGH2KBbY2THX0ErZZlG9WR38pWSlDfDozUXesB7DNqv2OKlQuR8GObtG0ffahZv7upc/1138946237.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2e0ka2ffngtfg&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Pradeep Chowdary Dasari</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PradeepChowdaryDasari"/>
+                                        <id>tag:coderetreat.org,2015-09-08:6456126:User:45652</id>
+                                        <updated>2015-09-08T11:00:06.433Z</updated>
+                    
+                                            <author>
+                            <name>Christian Hujer</name>
+                            <uri>http://coderetreat.org/profile/ChristianHujer</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/NO5p8TYffu1XjQ2B6BUqeLYn6zt1hoEZaz6Ni1p*TQCuV8v3TTtgPxxIyLZVxnRWUdsPXqrZ9B6zNK0XmERtEGAa1wKTZCug/1140721777.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pradeep Chowdary Dasari&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/NO5p8TYffu1XjQ2B6BUqeLYn6zt1hoEZaz6Ni1p*TQCuV8v3TTtgPxxIyLZVxnRWUdsPXqrZ9B6zNK0XmERtEGAa1wKTZCug/1140721777.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pradeep Chowdary Dasari&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jug Łódź</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JugLodz"/>
+                                        <id>tag:coderetreat.org,2012-10-09:6456126:User:13551</id>
+                                        <updated>2012-10-09T12:46:17.429Z</updated>
+                    
+                                            <author>
+                            <name>Christian Hujer</name>
+                            <uri>http://coderetreat.org/profile/ChristianHujer</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/MYZa*ZTawAlZgcpeJSKtQ38MpPx*BQx3NfdPzHAnCLNe1AJouHmgf6ZLvN010z3JB0usEJNN27ITA0m*83wtAgmJ3LPZJAc9/664763208.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jug Łódź&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/MYZa*ZTawAlZgcpeJSKtQ38MpPx*BQx3NfdPzHAnCLNe1AJouHmgf6ZLvN010z3JB0usEJNN27ITA0m*83wtAgmJ3LPZJAc9/664763208.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jug Łódź&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2013 - Vienna, Austria - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A26275&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:58:26Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A26275&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Was a great code retreat! Tha…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32996"/>
+                                        <id>tag:coderetreat.org,2013-12-15:6456126:Comment:32996</id>
+                                        <updated>2013-12-15T17:29:48.970Z</updated>
+                    
+                                            <author>
+                            <name>Sebastian Nozzi</name>
+                            <uri>http://coderetreat.org/profile/SebastianNozzi</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Was a great code retreat! Thanks for organizing this. Thanks all the sponsors for making this possible. Thanks Peter for facilitating.&lt;/p&gt;
+&lt;p&gt;It is great to meet like-minded developers also interested in improving professionally and making the most of themselves.&lt;/p&gt;
+&lt;p&gt;It is also a very productive place to practice coding, test-driven-development, learn, reflect, have new insights and have fun!&lt;/p&gt;
+&lt;p&gt;Looking forward to the next one, to coding dojos, katas and pair-programming.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Was a great code retreat! Thanks for organizing this. Thanks all the sponsors for making this possible. Thanks Peter for facilitating.&lt;/p&gt;
+&lt;p&gt;It is great to meet like-minded developers also interested in improving professionally and making the most of themselves.&lt;/p&gt;
+&lt;p&gt;It is also a very productive place to practice coding, test-driven-development, learn, reflect, have new insights and have fun!&lt;/p&gt;
+&lt;p&gt;Looking forward to the next one, to coding dojos, katas and pair-programming.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

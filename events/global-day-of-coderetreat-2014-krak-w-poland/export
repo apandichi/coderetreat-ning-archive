@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38192
+DTSTAMP:20170129T120922Z
+SUMMARY:Global Day of Coderetreat 2014 - Kraków, Poland
+DESCRIPTION:Join us for GDCR in Kraków, Poland!\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-2014-
+ krak-w-poland
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBA
+WEBSITE:http://sckrk.com
+URL:http://sckrk.com
+CONTACT:
+ORGANIZER;CN="Adam Pohorecki":http://coderetreat.org/profile/AdamPohor
+ ecki
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Poh
+ orecki":http://coderetreat.org/profile/AdamPohorecki
+END:VEVENT
+END:VCALENDAR

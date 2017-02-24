@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jeff Smith&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JeffSmith</link>
+        <pubDate>Sun, 29 Jan 2017 11:10:33 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:10:33 +0000</lastBuildDate>
+        <image>
+            <title>Jeff Smith&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JeffSmith</link>
+            <url>http://api.ning.com:80/files/YH3NE-1xQS9rd3cmZOBWeWbkOlTPed-iorOVfGgEYJKjibaAQP8R*rkMWSVyttlJTjJd76dmw2Z29gpjevfJbITCA5fSeEtq/595516557.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b84b83d4519cba352115909</guid>
+               <title>Jeff Smith posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:14664?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JeffSmith?xg_source=activity">Jeff Smith</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:14664?xg_source=activity">A Code Retreat</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:14664">Reposted from <a href="http://jeffmatthewsmith.tumblr.com/post/34317204829/a-code-retreat" target="_blank">jeffmatthewsmith.tumblr.com</a>When you can’t talk, your code really does have to speak for itself.Yesterday, during our weekly meta-skills session, we had a <a href="http://coderetreat.org/about">code retreat</a> (thank you <a href="http://coreyhaines.com/">Corey Haines</a>). The purpose of a code retreat is to get back to the <a href="http://www.youtube.com/watch?v=eGDBR2L5kzI">fundementals</a> and hone one’s craft by escaping the regular routine of pushing to production. In many ways, Dev Bootcamp is an extended code retreat. Very few of the repos we produce for exercises make their way into functioning apps (at least at this point in the program), which leaves us a lot of freedom. But that aside, we, like most engineers, have gotten into a fairly intense routine, and the break was refreshing.For 45 minute sprints we’d pair with a student or instructor and try to get as far into a particular problem as possible. Everyone in the room was attempting the same challenge. And we repeated this 4 times, with 4 different partners on the same challenge. There were three caveats:All our code had to be test-driven with RSpec. After each 45 minute sprint, every line of code we’d written had to be deleted. Yes, gone forever. During one of the final sprints, we weren’t allowed to talk. We could merely volley RSpec and test solutions between partners as a means of communication. Our code had to, truly, speak for itself. This exercise, in my opinion, has, more than any other we’ve gone through thus far, revealed the necessity of precise tests and naming conventions.The results were remarkable. The knowledge base in the room around this particular problem expanded as partners shuffled. Particularly thoughtful solutions were shared. People didn’t feel the normal pressures of writing code for the sake of the problem at hand so much as writing code for its own sake (<a href="http://serialmilk.tumblr.com/post/34154656635/code-is-poetry-not-prose">poetry</a>, as one of my cohorts put it). And, I found myself enjoying the coding process more than I have in a while.We have no code to show from the retreat. Nothing but our current capacity code, with its newly sharped style and appreciation of Ruby’s nuances, shows its impact. And that is the beauty of a code retreat.<a class="continue-link" href="http://coderetreat.org/profiles/blogs/a-code-retreat">See More</a></div></div></div></div>]]></description>
+               <pubDate>Fri, 26 Oct 2012 04:02:53 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b84b83d8c6279b9f41bbc56</guid>
+               <title>Jeff Smith is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/JeffSmith?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JeffSmith?xg_source=activity">Jeff Smith</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Fri, 26 Oct 2012 04:00:35 +0000</pubDate>
+               </item>    </channel>
+</rss>

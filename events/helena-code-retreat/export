@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16611
+DTSTAMP:20170129T101231Z
+SUMMARY:Global Day of Coderetreat 2012 - Helena, MT / USA
+DESCRIPTION:Organized on Meetup.com: http://www.meetup.com/Montana-Pro
+ grammers/events/84027972/\nWe are at capacity for the venue, but feel 
+ free to join the waitlist.\n\nFor more information visit http://codere
+ treat.org/events/helena-code-retreat
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:global, day, of, code, retreat
+LOCATION:iKuw Solutions Office
+WEBSITE:
+URL:
+CONTACT:5186698992
+ORGANIZER;CN="Grant Austin":http://coderetreat.org/profile/GrantAustin
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Grant Au
+ stin":http://coderetreat.org/profile/GrantAustin
+END:VEVENT
+END:VCALENDAR

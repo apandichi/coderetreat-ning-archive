@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15564
+DTSTAMP:20170129T134442Z
+SUMMARY:Global Day of Coderetreat 2012 - New York CIty, NY / USA
+DESCRIPTION:Global Coderetreat for NYC\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-coderetreat-2012-new-york-c
+ ity
+DTSTART:20121208T080000Z
+DTEND:20121208T180000Z
+CATEGORIES:code, retreat
+LOCATION:Flatiron School
+WEBSITE:http://flatironschool.com/
+URL:http://flatironschool.com/
+CONTACT:917-975-7296
+ORGANIZER:Adam Leonard, Jeff Baird, and Michael Hoffman
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Felix Sa
+ ntiago":http://coderetreat.org/profile/FelixSantiago
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Richard 
+ Kuo":http://coderetreat.org/profile/RichardKuo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Trace Wa
+ x":http://coderetreat.org/profile/TraceWax
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matthew 
+ Jording":http://coderetreat.org/profile/MatthewJording
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos C
+ astro":http://coderetreat.org/profile/CarlosCastro
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marcel F
+ ahle":http://coderetreat.org/profile/MarcelFahle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam  Le
+ onard":http://coderetreat.org/profile/AdamLeonard
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Hoffman":http://coderetreat.org/profile/MichaelHoffman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeffrey 
+ Baird":http://coderetreat.org/profile/JeffreyBaird978
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Mike Se
+ lender":http://coderetreat.org/profile/MikeSelender
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Rebecca
+  Garcia":http://coderetreat.org/profile/RebeccaGarcia
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Gilbert
+ o Alvarado":http://coderetreat.org/profile/GilbertoAlvarado
+END:VEVENT
+END:VCALENDAR

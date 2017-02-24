@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11240
+DTSTAMP:20170129T114457Z
+SUMMARY:Global Day of Coderetreat 2012 - Vienna / Austria
+DESCRIPTION:Registration under: http://gdcr12-vienna.eventbrite.com\nW
+ e are happy to join the Global Day of Coderetreat again from Vienna.\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-2012-1
+DTSTART:20121208T081500Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Vienna, Austria
+WEBSITE:http://gdcr12-vienna.eventbrite.com
+URL:http://gdcr12-vienna.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Michael Mike Leber":http://coderetreat.org/profile/Micha
+ elMikeLeber
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/OrHAsjZvcG39f
+ lEQC8**xE2aS5D5O0NO90u82-UqPYYUHPM-XoZ0mS5JjySLxPhp7emRE1KBaNlkcPEaezW
+ GTC95VwdYyyhX/gdcr12.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Mike Leber":http://coderetreat.org/profile/MichaelMikeLeber
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Helmuth 
+ Breitenfellner":http://coderetreat.org/profile/HelmuthBreitenfellner
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Claus Po
+ lanka":http://coderetreat.org/profile/ClausPolanka
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel S
+ ack":http://coderetreat.org/profile/DanielSack
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andreas 
+ Schlapsi":http://coderetreat.org/profile/AndreasSchlapsi
+END:VEVENT
+END:VCALENDAR

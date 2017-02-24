@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37557
+DTSTAMP:20170129T120845Z
+SUMMARY:Global Day of Coderetreat 2014 - Columbus, OH, USA
+DESCRIPTION:Global Day of Code Retreat at The Forge in Columbus Comple
+ ments of Pillar Technology.\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2014-columbus-oh-usa
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:The Forge in the Smith Brothers' Hardware Building
+WEBSITE:https://www.google.com/maps/place/580+N+4th+St,+Columbus,+OH+4
+ 3215/@39.9748131,-82.997726,17z/data=!3m1!4b1!4m2!3m1!1s0x88388f2a1ad3
+ 6f43:0x79b2ab946a359e1d
+URL:https://www.google.com/maps/place/580+N+4th+St,+Columbus,+OH+43215
+ /@39.9748131,-82.997726,17z/data=!3m1!4b1!4m2!3m1!1s0x88388f2a1ad36f43
+ :0x79b2ab946a359e1d
+CONTACT:
+ORGANIZER;CN="Guy Royse":http://coderetreat.org/profile/GuyRoyse
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/BY6VWIVrp20UC
+ ReP7O*hf2t4kwNQ0TTkqCW8TEAf2HFDb8v0Z0Q1WBeIQf3MtsrEpo5otrRFaciW85i5T7J
+ oTzX1PGo*mElv/forge_web011.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kavinfra
+ nco Devadhas":http://coderetreat.org/profile/KavinfrancoDevadhas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Don Abra
+ ms":http://coderetreat.org/profile/DonAbrams
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Damien C
+ alloway":http://coderetreat.org/profile/DamienCalloway
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vasanth 
+ Pappu":http://coderetreat.org/profile/VasanthPappu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="NagaSamp
+ ath Varanasi":http://coderetreat.org/profile/NagaSampathVaranasi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Ki
+ rkbride":http://coderetreat.org/profile/JamesKirkbride
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Guy Roys
+ e":http://coderetreat.org/profile/GuyRoyse
+END:VEVENT
+END:VCALENDAR

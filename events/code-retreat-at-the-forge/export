@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10495
+DTSTAMP:20170129T124534Z
+SUMMARY:Code Retreat at the Forge
+DESCRIPTION:All software developers are invited to join Pillar at our 
+ new Ann Arbor facility, the Forge, located in the historic Northern Br
+ ewery building for a day of software development practice. There is no
+  charge, and the day includes continental breakfast and a nice lunch.\
+ nIf possible, bring a laptop with your favorite software development t
+ ools. If you can't bring one, don't worry - we'll be pair programming 
+ so you will be able to work on someone else's computer.\nRead more abo
+ ut the Forge here or follow it at @forgea2\n\n\nFor more information v
+ isit http://coderetreat.org/events/code-retreat-at-the-forge
+DTSTART:20120811T090000Z
+DTEND:20120811T160000Z
+CATEGORIES:coderetreat
+LOCATION:The Forge, at the Northern Brewery building
+WEBSITE:https://maps.google.com/maps?q=1327+jones+drive,+ann+arbor,+mi
+ &hl=en&ll=42.29258,-83.734242&spn=0.000016,0.010525&sll=42.292593,-83.
+ 734346&layer=c&cbp=13,268.09,,0,2.09&cbll=42.292634,-83.734136&gl=us&h
+ near=1327+Jones+Dr,+Ann+Arbor,+Washtenaw,+Michigan+48105&t=h&panoid=ic
+ xJqj_doDqgOztcVxafiQ&z=17
+URL:https://maps.google.com/maps?q=1327+jones+drive,+ann+arbor,+mi&hl=
+ en&ll=42.29258,-83.734242&spn=0.000016,0.010525&sll=42.292593,-83.7343
+ 46&layer=c&cbp=13,268.09,,0,2.09&cbll=42.292634,-83.734136&gl=us&hnear
+ =1327+Jones+Dr,+Ann+Arbor,+Washtenaw,+Michigan+48105&t=h&panoid=icxJqj
+ _doDqgOztcVxafiQ&z=17
+CONTACT:
+ORGANIZER:Pillar Technology
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeremy W
+ oyak":http://coderetreat.org/profile/JeremyWoyak
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Scott Le
+ mon":http://coderetreat.org/profile/ScottLemon
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erica Mc
+ Clain":http://coderetreat.org/profile/EricaMcClain
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kyle DeB
+ ord":http://coderetreat.org/profile/KyleDeBord
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Monica R
+ eich":http://coderetreat.org/profile/MonicaReich
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Fle
+ ming":http://coderetreat.org/profile/GregFleming
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Scott Wo
+ yak":http://coderetreat.org/profile/ScottWoyak
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sheila D
+ eskins":http://coderetreat.org/profile/SheilaDeskins
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ her Bernholt":http://coderetreat.org/profile/ChristopherBernholt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ka
+ ye":http://coderetreat.org/profile/DavidKaye
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Ham
+ blen":http://coderetreat.org/profile/AlexHamblen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew K
+ eller":http://coderetreat.org/profile/AndrewKeller
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Iman Sha
+ reef":http://coderetreat.org/profile/ImanShareef
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Yo
+ rk":http://coderetreat.org/profile/JamesYork
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel D
+ avis":http://coderetreat.org/profile/DanielDavis
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeff Hoo
+ ver":http://coderetreat.org/profile/JeffHoover
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Don Bar
+ low":http://coderetreat.org/profile/DonBarlow
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Azzam A
+ ziz":http://coderetreat.org/profile/AzzamAziz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Hugo Ma
+ rtinez":http://coderetreat.org/profile/HugoMartinez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jeremy 
+ Anderson":http://coderetreat.org/profile/JeremyAnderson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Eric Ku
+ backi":http://coderetreat.org/profile/EricKubacki
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Andrew 
+ Frailing":http://coderetreat.org/profile/AndrewFrailing
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jason W
+ aack":http://coderetreat.org/profile/JasonWaack
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="magnus 
+ stahre":http://coderetreat.org/profile/magnusstahre
+END:VEVENT
+END:VCALENDAR

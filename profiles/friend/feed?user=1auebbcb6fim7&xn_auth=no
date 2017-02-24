@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1auebbcb6fim7&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:53:30Z</updated>
+                            <author>
+                    <name>Jacek Raczykowski</name>
+                    <uri>http://coderetreat.org/profile/JacekRaczykowski</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/H5BhlPfjXdInrcVwMzvc5I*C4fTxg8n1bOYVchF7laOniEynJrUP5hzahMq2WTKw68Th1TGT7bvigwCOHxrQq9k6lDGNzL3V/1233575511.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1auebbcb6fim7&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Aleksandra Sołtysik</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AleksandraSoltysik"/>
+                                        <id>tag:coderetreat.org,2016-09-01:6456126:User:54514</id>
+                                        <updated>2016-09-01T19:21:54.101Z</updated>
+                    
+                                            <author>
+                            <name>Jacek Raczykowski</name>
+                            <uri>http://coderetreat.org/profile/JacekRaczykowski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/H5BhlPfjXdJIdwdkPAvyicahoMZBdS82IX9Z3xf5OIjc*syVAAYsrBubceSPuSu2jWgw1sv3S-uP-BTSaznSxo8h3RkIOFX2/1233570288.png?xgip=0%3A0%3A1021%3A1021%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Aleksandra Sołtysik&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/H5BhlPfjXdJIdwdkPAvyicahoMZBdS82IX9Z3xf5OIjc*syVAAYsrBubceSPuSu2jWgw1sv3S-uP-BTSaznSxo8h3RkIOFX2/1233570288.png?xgip=0%3A0%3A1021%3A1021%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Aleksandra Sołtysik&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

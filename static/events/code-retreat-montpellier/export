@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8673
+DTSTAMP:20170129T122952Z
+SUMMARY:Code Retreat Montpellier
+DESCRIPTION:Le 24 mars 2012, venez participer au premier Code Retreat 
+ organisé à Montpellier.\nCet évènement sera animé par Antoine Ver
+ nois et Sylvain Fraissé.\nPartenaire de l'évènement : Zenexity, av
+ ec l'aide du Jug Montpellier.\nPlus d'informations et inscriptions dan
+ s les prochains jours.\n\nFor more information visit http://coderetrea
+ t.org/events/code-retreat-montpellier
+DTSTART:20120324T000000Z
+DTEND:20120324T235900Z
+CATEGORIES:code, retreat, sud, montpellier, france, craftsmanship
+LOCATION:Montpellier
+WEBSITE:http://twitter.com/coderetreatMtp
+URL:http://twitter.com/coderetreatMtp
+CONTACT:
+ORGANIZER:Julien Lafont, Vivan Pennel et Sylvain Fraïssé
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/3inNVyMeyJHzZ
+ 671N1Sip4oo8yvhTx2pakinfrpMNc2Yhvbkfy6nidd0EzndeYuXHU1AkoVyB0NncfFYpWd
+ xLyW9DsDvBcph/crzenexity.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Julien L
+ afont":http://coderetreat.org/profile/JulienLafont
+END:VEVENT
+END:VCALENDAR

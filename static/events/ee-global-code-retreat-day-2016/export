@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56527
+DTSTAMP:20170129T114940Z
+SUMMARY:EE Global code retreat day - 2016
+DESCRIPTION:EE has been using TDD and pairing on a daily basis since i
+ ts inception in 2007, we in EE Portugal are no exception.\nWe hope tha
+ t engineers wanting to try or hone these practices in a super fun envi
+ ronment shouldn't miss this event.\n\nFor more information visit http:
+ //coderetreat.org/events/ee-global-code-retreat-day-2016
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr16, gdcr
+LOCATION:LIsbon
+WEBSITE:https://www.equalexperts.com/portugal/
+URL:https://www.equalexperts.com/portugal/
+CONTACT:+44 7935964483
+ORGANIZER;CN="Nuno Marques":http://coderetreat.org/profile/NunoMarques
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nuno Mar
+ ques":http://coderetreat.org/profile/NunoMarques
+END:VEVENT
+END:VCALENDAR

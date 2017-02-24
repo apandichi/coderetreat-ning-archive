@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15282
+DTSTAMP:20170129T104148Z
+SUMMARY:Global Day of Coderetreat 2012 - Berlin / Germany
+DESCRIPTION:This is a 1-day event being held simultaneously in over 20
+ 0 cities around the world.\nCome with your laptop equipped with your 
+ favorite programming and unit testing environment. Be prepared to pai
+ r up, code, practice, learn, share and have fun!\nUse the eventbrite 
+ page to register.\n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-coderetreat-2012-berlin-germany
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:crealytics GmbH
+WEBSITE:http://gdcr-2012-berlin.eventbrite.com/
+URL:http://gdcr-2012-berlin.eventbrite.com/
+CONTACT:
+ORGANIZER:Jan Hartung, Greg Dziemidowicz
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/7yXc1hLeMsZjA
+ 7G*jiuXAY93q*UYgytR8vUQVjuSOG0JvbhXEn-fqHbPqeuWTT8cvd5EOJeUx2-HCL9j4uE
+ 8rZG6JabqKNxi/crberlinklein.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Hart
+ ung":http://coderetreat.org/profile/egga
+END:VEVENT
+END:VCALENDAR

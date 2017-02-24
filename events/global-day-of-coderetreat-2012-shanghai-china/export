@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15554
+DTSTAMP:20170129T134305Z
+SUMMARY:Global Day of Coderetreat 2012 - Shanghai / China
+DESCRIPTION:Announcing GDCR in Shanghai, China. More detail at http:/
+ /www.meetup.com/AgileShanghai/events/89862462/\n\nFor more information
+  visit http://coderetreat.org/events/global-day-of-coderetreat-2012-sh
+ anghai-china
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Innovation Works
+WEBSITE:http://www.meetup.com/AgileShanghai/events/89862462/
+URL:http://www.meetup.com/AgileShanghai/events/89862462/
+CONTACT:
+ORGANIZER;CN="Joseph Yao":http://coderetreat.org/profile/JosephYao80
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/VHhFCbVK0pHVQ
+ O1S*a8gssw5UWTGFcshCVpTNBouapgPICAzO8sU-a3KdTkiM0ij*MFrdJJkhQCYr5f8iJ7
+ aoKxK53hJ7xw2/file.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joseph Y
+ ao":http://coderetreat.org/profile/JosephYao80
+END:VEVENT
+END:VCALENDAR

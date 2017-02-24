@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40111
+DTSTAMP:20170129T120727Z
+SUMMARY:Global Day of Coderetreat 2014 - Turku, Finland
+DESCRIPTION:Please register here: http://lyyti.in/gdcr_turku to the ev
+ ent.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-turku-finland-2
+DTSTART:20141115T081500Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Boost Turku Startup Farm
+WEBSITE:
+URL:
+CONTACT:050 341 5620
+ORGANIZER;CN="Aki Salmi":http://coderetreat.org/profile/AkiSalmi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

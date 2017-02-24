@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26351
+DTSTAMP:20170129T113410Z
+SUMMARY:Global Day of Coderetreat 2013 - Prague, Czech Republic
+DESCRIPTION:Další Pražská CodeRetreat v rámci globálního dne.\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-prague-cz
+DTSTART:20131214T073000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TBA
+WEBSITE:http://coderetreat.cz
+URL:http://coderetreat.cz
+CONTACT:
+ORGANIZER;CN="Aleš Roubíček":http://coderetreat.org/profile/AlesRou
+ bicek
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Miroslav
+  Bajtoš":http://coderetreat.org/profile/MiroslavBajtos
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleš Ro
+ ubíček":http://coderetreat.org/profile/AlesRoubicek
+END:VEVENT
+END:VCALENDAR

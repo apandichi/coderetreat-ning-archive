@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Xaver Weibel&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/XaverWeibel</link>
+        <pubDate>Sun, 29 Jan 2017 12:19:18 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:19:18 +0000</lastBuildDate>
+        <image>
+            <title>Xaver Weibel&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/XaverWeibel</link>
+            <url>http://api.ning.com:80/files/vZBStZ816j2mi54VIXc7wQBLKWmmVgqhz*EWB9IJcwRpy9QD6VRO26UF5*6Djcs9RJCDVo9SgQNQvMPGSDJFMYLExutZ527D/1132671941.jpeg?xgip=295%3A1%3A621%3A621%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011bd8da217e27c63e5c43937</guid>
+               <title>Xaver Weibel posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:44909?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/XaverWeibel?xg_source=activity">Xaver Weibel</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:44909?xg_source=activity" ><img src="http://api.ning.com/files/vZBStZ816j1i8gSqiVdU*jpSYaiHzVSzk2fRjR6Rs3BUcPiQtWyGAMqsE3KQarj*oIkVKW1*YPfGO7LEhQPnWoOONKkYS7au/BERN075.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:44909?xg_source=activity">Global Day of Coderetreat 2015 - Bern, Switzerland</a> at DV Bern</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 10am to 6pm</div><div class="rich-excerpt">very happy to inform you that this year a second swiss location opened for the legendary <a href="http://globalday.coderetreat.org/" target="_blank">GLOBAL DAY OF CODE RETREAT</a>. we invite coders from all over the world to have a day of fun in bern.hurry up to <a href="https://willcome.to/shGRz1" target="_blank">register</a>. seats are limited so don't hesitate!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:44909?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 16 Jul 2015 13:26:03 +0000</pubDate>
+               </item>    </channel>
+</rss>

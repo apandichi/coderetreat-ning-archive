@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28660
+DTSTAMP:20170129T115414Z
+SUMMARY:Global Day of Coderetreat 2013 - Des Moines, IA, USA
+DESCRIPTION:Des Moines, IA is participating in the Global Day of Code
+ retreat 2013!\nCoderetreat is a day-long, intensive practice event fo
+ cused on the fundamentals of software development and design.The uniqu
+ e coderetreat format (which eliminates the pressure of 'getting things
+  done' and focuses on practicing basic principles of good design) has 
+ proven to be a highly effective (and fun) means of skill improvement. 
+  On December 14th, Coderetreats will be held at cities all over the wo
+ rld. To celebrate this significant event, we'll be participating in so
+ me global activities in addition to our normal Coderetreat activities.
+ \nYou only need to bring a laptop with the development tools you requi
+ re to write code using your chosen programming languages. \nCheck out
+  coderetreat.org for further details on what to expect.\n\nFor more 
+ information visit http://coderetreat.org/events/global-day-of-coderetr
+ eat-2013-des-moines-ia-usa
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Courtyard by Marriott
+WEBSITE:http://goo.gl/maps/2mDOy
+URL:http://goo.gl/maps/2mDOy
+CONTACT:
+ORGANIZER;CN="Kevin Knowles":http://coderetreat.org/profile/KevinKnowl
+ es
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Kn
+ owles":http://coderetreat.org/profile/KevinKnowles
+END:VEVENT
+END:VCALENDAR

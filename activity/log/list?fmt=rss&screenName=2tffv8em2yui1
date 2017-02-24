@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Ferenc Berki&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/FerencBerki</link>
+        <pubDate>Sun, 29 Jan 2017 14:00:01 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:00:01 +0000</lastBuildDate>
+        <image>
+            <title>Ferenc Berki&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/FerencBerki</link>
+            <url>http://api.ning.com:80/files/9Hx0HZEcx7e1aRMHVX8atJEced*E5PBmCOn86fZ5rc5LTw-WQ9VSR-p7RxXBrFKfuZ2K8p29seckaoPWP2ivQQw7Zft6D1zm/1242855771.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012bb088665f2db1462a7a8ce</guid>
+               <title>Eszter Reimann left a comment for Ferenc Berki</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:56721?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/EszterReimann?xg_source=activity">Eszter Reimann</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:56721?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/FerencBerki?xg_source=activity">Ferenc Berki</a></span><br/>]]></description>
+               <pubDate>Tue, 18 Oct 2016 12:12:06 +0000</pubDate>
+               </item>    </channel>
+</rss>

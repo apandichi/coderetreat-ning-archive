@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47277
+DTSTAMP:20170129T123254Z
+SUMMARY:Global Day of Coderetreat 2015 - London, UK
+DESCRIPTION:This event is going to be hosted and facilitated by DHI Gr
+ oup and 8th Light.   Make sure to RSVP with Eventbrite. https://www.e
+ ventbrite.co.uk/e/global-day-of-coderetreat-hosted-by-dhi-group-and-8t
+ h-light-tickets-19059104294\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2015-london-uk
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:DHI Group, Inc.
+WEBSITE:https://www.eventbrite.co.uk/e/global-day-of-coderetreat-hoste
+ d-by-dhi-group-and-8th-light-tickets-19059104294
+URL:https://www.eventbrite.co.uk/e/global-day-of-coderetreat-hosted-by
+ -dhi-group-and-8th-light-tickets-19059104294
+CONTACT:
+ORGANIZER:JNardiello
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Jnardiell
+ o:http://coderetreat.org/profile/Jnardiello
+END:VEVENT
+END:VCALENDAR

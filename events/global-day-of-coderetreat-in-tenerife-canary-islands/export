@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:17409
+DTSTAMP:20170129T113530Z
+SUMMARY:Global Day of Coderetreat 2012 - Tenerife / Canary Islands
+DESCRIPTION:The Tenerife's agile community is joining the global day o
+ f code retreat this year. We will meet probably in an Irish pub in Ten
+ erife South. \nWe speak Spanish and English if necessary :-)\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-in-tenerife-canary-islands
+DTSTART:20121208T120000Z
+DTEND:20121208T170000Z
+CATEGORIES:global, day, of, code, retreat
+LOCATION:Tenerife south
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Carlos Ble":http://coderetreat.org/profile/CarlosBle
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier B
+ ravo":http://coderetreat.org/profile/JavierLGonzalezBravo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos B
+ le":http://coderetreat.org/profile/CarlosBle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Juan M G
+ ómez":http://coderetreat.org/profile/JuanMGomez
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38534
+DTSTAMP:20170129T120359Z
+SUMMARY:Global Day of Coderetreat 2014 - Bucharest, Romania
+DESCRIPTION:As we did last year, we’ll join programmers from all ove
+ r the world. We’ll meet, code and have fun for sure during the day!\
+ nThe event will be organized by AgileWorks community. If you want to j
+ oin us, please register on the event meetup page: http://www.meetup.c
+ om/The-Bucharest-Agile-Software-Meetup-Group/events/208052582/.\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2014-bucharest-romania-1
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Code Factory
+WEBSITE:https://www.google.ro/maps/place/Bucharest+Airport+Transfers/@
+ 44.4786636,26.1019507,17z/data=!4m7!1m4!3m3!1s0x40b1f8a07cad31a1:0x610
+ a28a828e81c7c!2sCalea+Floreasca,+Bucure%C8%99ti!3b1!3m1!1s0x0:0xdaf43e
+ 968a78a0db?hl=en
+URL:https://www.google.ro/maps/place/Bucharest+Airport+Transfers/@44.4
+ 786636,26.1019507,17z/data=!4m7!1m4!3m3!1s0x40b1f8a07cad31a1:0x610a28a
+ 828e81c7c!2sCalea+Floreasca,+Bucure%C8%99ti!3b1!3m1!1s0x0:0xdaf43e968a
+ 78a0db?hl=en
+CONTACT:
+ORGANIZER;CN="Claudia Rosu":http://coderetreat.org/profile/ClaudiaRosu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pandichi
+  Alin-Ionut":http://coderetreat.org/profile/PandichiAlinIonut
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Claudia 
+ Rosu":http://coderetreat.org/profile/ClaudiaRosu
+END:VEVENT
+END:VCALENDAR

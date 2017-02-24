@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38143
+DTSTAMP:20170129T120252Z
+SUMMARY:Global Day of Coderetreat 2014 - Bordeaux, France
+DESCRIPTION:3eme session du global day of code retreat à Bordeaux org
+ anisé par Okiwi\n\npour s'inscrire: https://www.yuticket.com/associat
+ ion-okiwi/b9a9038a-7ee8-4912-9970-cbde1429e002-global-day-of-code-retr
+ eat.html\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2014-bordeaux-france
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Bordeaux
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="vincent.guillaume.inp":http://coderetreat.org/profile/vi
+ ncentguillaumeinp
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/tV6jtHhMLWxfk
+ oGf7CDNQ1ihxREY6z2O40F2qBgV9xsY2N2L2VjvIBqnu7NvgkoJ3RzY1*u9TMW*YWN8jKD
+ 9S3IJCerAXyzi/okiwi.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="vincent.
+ guillaume.inp":http://coderetreat.org/profile/vincentguillaumeinp
+END:VEVENT
+END:VCALENDAR

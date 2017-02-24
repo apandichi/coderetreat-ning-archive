@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38643
+DTSTAMP:20170129T104127Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!\nThis training is for facilitators. Anyb
+ ody interested in facilitating a coderetreat is invited to attend\n at
+  least one training session. This training will be delivered online on
+  Google Plus Hangouts.\n\nMake sure you will be online five minutes be
+ fore the training starts.\n\nLike last year we will have two different
+  types of trainings for Global Day of Coderetreat: for hosts and for f
+ acilitators.\n\nThe job of the host is to make sure the coderetreat ru
+ ns smoothly by making sure everything is arranged. Hosts find a venue 
+ with all the necessary equipment, find a company to sponsor \nlunch, g
+ ive away the prizes at the end of the day, organize video chats with o
+ ther locations,\n\netc.\n\nThe job of the facilitator is to help parti
+ cipants learn from each other. Facilitators understand the coderetreat
+  format, choose and explain the constraints, and try to keep a learnin
+ g \natmosphere during the day\n\n\n\nImportant: All the times are in U
+ TC. Do one of the following to view training times in your time zone:\
+ n\n\nAdd the GDCR Calendar to your cid=https%3A%2F%2Fwww.google.com%2F
+ calendar%2Ffeeds%2F30td8sjjqdjb6j1aovas0tg\n\n0ug%2540group.calendar.g
+ oogle.com%2Fpublic%2Fbasic\" target=\"_blank\">Google Calendar\n\nacco
+ unt\nUse y=2013&mo=10&d=7&h=12&mn=0\" target=\"_blank\"\">this tool to
+ \n\nconvert the time from UTC to your time zone\nFind your time below 
+ in one of these common time zones:\n10/03 02:00 AM UTC-7 America/Los_A
+ ngeles (PDT)\n10/03 03:00 AM UTC-6 America/Denver (MDT)\n10/03 04:00 A
+ M UTC-5 America/Chicago (CDT)\n10/03 05:00 AM UTC-4 America/New_York (
+ EDT)\n10/03 11:00 AM UTC+2 Europe/Paris (CEST)\n10/03 12:00 PM UTC+3 E
+ urope/Bucharest (EEST)\n10/03 12:00 PM UTC+3 Africa/Johannesburg ()\n1
+ 0/03 01:00 PM UTC+4 Europe/Moscow (MSK)\n10/03 02:30 PM UTC+5.5 Asia/K
+ olkata (IST)\n10/03 05:00 PM UTC+8 Asia/Shanghai (ACT)\n10/03 06:00 PM
+  UTC+9 Asia/Tokyo (JST)\n10/03 07:00 PM UTC+10 Australia/Sydney (AEDT)
+ \n10/03 9:00 PM UTC+12 Pacific/Auckland (NZDT)\n\n\n\n\nFor more infor
+ mation visit http://coderetreat.org/events/facilitator-training-sessio
+ n-16
+DTSTART:20141003T090000Z
+DTEND:20141003T100000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/u/1/events/c5na4c0qedlsg8r2a1a1k7l5r0
+ g
+WEBSITE:https://plus.google.com/u/1/events/c5na4c0qedlsg8r2a1a1k7l5r0g
+URL:https://plus.google.com/u/1/events/c5na4c0qedlsg8r2a1a1k7l5r0g
+CONTACT:
+ORGANIZER;CN="Greg Dziemidowicz":http://coderetreat.org/profile/GregDz
+ iemidowicz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Dzi
+ emidowicz":http://coderetreat.org/profile/GregDziemidowicz
+END:VEVENT
+END:VCALENDAR

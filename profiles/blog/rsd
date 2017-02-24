@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+    <service>
+        <engineName>Ning Blog</engineName>
+        <engineLink>http://www.ning.com/</engineLink>
+        <apis>
+            <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://coderetreat.org/profiles/blog/xmlrpc" />
+        </apis>
+    </service>
+</rsd>

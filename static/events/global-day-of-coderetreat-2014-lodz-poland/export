@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39381
+DTSTAMP:20170129T120426Z
+SUMMARY:Global Day of Coderetreat 2014 - Łódź, Poland
+DESCRIPTION:Global Day of Code Retreat in Lodz for the 4th time!\nThis
+  time we plan 30 people.\n\nFor more information visit http://coderetr
+ eat.org/events/global-day-of-coderetreat-2014-lodz-poland
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Symphony Teleca, Kasprzaka 6
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Jug Łódź":http://coderetreat.org/profile/JugLodz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jug Łó
+ dź":http://coderetreat.org/profile/JugLodz
+END:VEVENT
+END:VCALENDAR

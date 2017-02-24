@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=193z80yp1g495&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:49:52Z</updated>
+                            <author>
+                    <name>Ranjith Tharayil</name>
+                    <uri>http://coderetreat.org/profile/RanjithTharayil</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/xRd0Adn57gT5xJ5NlDcl-1WW*I9z3V-TifDc9OOUmripTpfxOmIrFQkJ7okqKhIt6bgf36DQlCoXyyF2m6RR0sN1VcURsYKx/1189231543.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=193z80yp1g495&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Praveen Kanakarajan</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PraveenKanakarajan"/>
+                                        <id>tag:coderetreat.org,2014-07-19:6456126:User:35570</id>
+                                        <updated>2014-07-19T15:40:52.519Z</updated>
+                    
+                                            <author>
+                            <name>Ranjith Tharayil</name>
+                            <uri>http://coderetreat.org/profile/RanjithTharayil</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Praveen Kanakarajan&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Praveen Kanakarajan&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

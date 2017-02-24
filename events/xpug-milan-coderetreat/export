@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44711
+DTSTAMP:20170129T122915Z
+SUMMARY:XPUG Milan Coderetreat
+DESCRIPTION:Please take your free ticket here: https://www.eventbrite
+ .it/e/biglietti-coderetreat-xpug-milano-16725333924\n----\n\nXPug Mila
+ no ha il piacere di invitarvi al Coderetreat che si terrà sabato 
+ 30 Maggio.\nL'evento è gratuito e con l'aiuto degli sponsor stiamo 
+ provando ad organizzare colazione e pranzo per tutti i partecipanti.\n
+ Si tratta di un'intera gioranta dedicata al codice, in cui, senza timo
+ ri e fretta potrai scrivere il codice così come hai sempre voluto! \
+ n \nE' il tuo primo Coderetreat?\nAllora sei il benvenuto! Non è�
+ �necessaria particolare esperienza per partecipare, la passionee l
+ a voglia di imparare con gli altri sono l'unico requisito necessario
+ . Sarà l'occasione giusta per provare il pair programming e il Tes
+ t Driven Development sul campo. I facilitatori saranno a tua disposiz
+ ione per guidarti in questa avventura. \n \nSvolgimento:\nIn pair p
+ rogramming ed in TDD eseguiremo iterazioni da 45' sulla realizzazio
+ ne del gioco \"game of life\". \n \nRegole:\n\nIl codice viene ca
+ ncellato (rigorosamente) alla fine di ogni iterazione\nle coppie ca
+ mbiano di continuo\n\n\n\nFor more information visit http://coderetre
+ at.org/events/xpug-milan-coderetreat
+DTSTART:20150530T090000Z
+DTEND:20150530T173000Z
+CATEGORIES:free
+LOCATION:Mikamai
+WEBSITE:https://www.eventbrite.it/e/biglietti-coderetreat-xpug-milano-
+ 16725333924
+URL:https://www.eventbrite.it/e/biglietti-coderetreat-xpug-milano-1672
+ 5333924
+CONTACT:
+ORGANIZER:XPUG Milano
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/uX0ODFdMLad1M
+ LpGuuOgi3mqzapz1yBPp5h9XEBrfR8g*yl7SzSeAnlxpO5bEWn1rJalcEQfmZcuKUomLyr
+ 75vzhARlext6P/logo.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gabriele
+  Tondi":http://coderetreat.org/profile/GabrieleTondi
+END:VEVENT
+END:VCALENDAR

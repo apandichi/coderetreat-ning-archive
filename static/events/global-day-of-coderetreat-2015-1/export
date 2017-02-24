@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47232
+DTSTAMP:20170129T121218Z
+SUMMARY:Global Day of Coderetreat 2015 - Bogotá, Colombia
+DESCRIPTION:Celebraremos el Global Day of Coderetreat en Bogotá.\n\nM
+ ás información sobre el Global Day of Code Retreat\n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-coderetreat-2
+ 015-1
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Universidad Piloto de Colombia
+WEBSITE:http://coderetreat.org/profiles/blogs/ready-for-the-2015-globa
+ l-edition
+URL:http://coderetreat.org/profiles/blogs/ready-for-the-2015-global-ed
+ ition
+CONTACT:
+ORGANIZER:Carlos Obregón, Yamit Cardenas, Sebastian Ortiz V, Omar Duq
+ ue, Stella Miranda
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sebastia
+ n Ortiz V.":http://coderetreat.org/profile/SebastianOrtizV578
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos O
+ bregón":http://coderetreat.org/profile/CarlosObregon
+END:VEVENT
+END:VCALENDAR

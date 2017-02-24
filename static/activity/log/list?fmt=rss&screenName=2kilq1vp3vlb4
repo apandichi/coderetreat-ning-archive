@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>tpd opitz-consulting&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/tpdopitzconsulting</link>
+        <pubDate>Sun, 29 Jan 2017 09:49:41 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:49:41 +0000</lastBuildDate>
+        <image>
+            <title>tpd opitz-consulting&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/tpdopitzconsulting</link>
+            <url>http://api.ning.com:80/files/rkTNz-F-b8afaiARTaAnUnA64lMxwOBsp3OkcsY5ChtHkSqqZF8N*CfBcZKeIgyniJRwc7eSAMjDILwHYyummwyxjSWawxd6/1141756166.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011e6c3cb6547a8d152cdb2b8</guid>
+               <title>tpd opitz-consulting posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:53825?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/tpdopitzconsulting?xg_source=activity">tpd opitz-consulting</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:53825?xg_source=activity">Global Day of Coderetreat 2016 - Fulda, Germany</a> at University of applied Sciences Fulda</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div><div class="rich-excerpt">Die OPITZ CONSULTING GmbH lädt in Kooperation mit Hochschule Fulda und dem MINTmach Club e.V.  alle interessierten Softwareentwickler/innen aus der Region zum »Global Day of Coderetreat« am 22. Oktober 2016 ein.  Studenten sind ebenso wie berufstätige Softwareentwickler herzlich eingeladen, ihre Erfahrungen auszutauschen und ihr Programmierhandwerk aufzubessern. Die Teilnehmerzahl ist begrenzt auf 20 Personen. Die Teilnahme ist kostenlos – für einen Snack wird gesorgt.as Mitbringen eines Notebooks inkl. eingerichteter Entwicklungsumgebung für die gewählte Programmiersprache wird empfohlen. Für Java-Entwickler stehen eingerichtete Laborrechner bereit.Anmeldung via <a href="http://doodle.com/poll/r39mukx4uwicrc8t" target="_blank">Doodle</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:53825?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 05 Jul 2016 20:24:33 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011e6c3cb323d5ad72965ec18</guid>
+               <title>tpd opitz-consulting posted a discussion</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:47284?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/tpdopitzconsulting?xg_source=activity">tpd opitz-consulting</a> posted a discussion</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:47284?xg_source=activity">RSVP?</a></h3><div class="rich-detail"><div class="rich-excerpt">What does the acromy RSVP mean that I see in the event detail page?byeThomas<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:47284?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 16 Oct 2015 13:04:52 +0000</pubDate>
+               </item>    </channel>
+</rss>

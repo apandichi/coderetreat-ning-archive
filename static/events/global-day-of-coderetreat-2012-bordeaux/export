@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13356
+DTSTAMP:20170129T134210Z
+SUMMARY:Global Day of Coderetreat 2012 - Bordeaux / France
+DESCRIPTION:Global day of coderetreat\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2012-bordeaux
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:gdcr, coderetreat
+LOCATION:Coolworking
+WEBSITE:http://www.coolworking.fr
+URL:http://www.coolworking.fr
+CONTACT:
+ORGANIZER;CN="Jean-Baptiste Dusseaut":http://coderetreat.org/profile/J
+ eanBaptisteDusseaut
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/tVY*P-cvNb26o
+ C1IF7bmbCLVOGk4ir*-gCRq5et2Ejq6SYMmTWCW1EfWgDtLomPyvC33mnh-vfsfQyHyIeR
+ 8dP6MfpcQTq5O/okiwi.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jean-Bap
+ tiste Dusseaut":http://coderetreat.org/profile/JeanBaptisteDusseaut
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Florian 
+ Guérin":http://coderetreat.org/profile/FlorianGuerin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Antoine 
+ Massé":http://coderetreat.org/profile/Antoine
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="vincent.
+ guillaume.inp":http://coderetreat.org/profile/vincentguillaumeinp
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="pierre.b
+ ousquie":http://coderetreat.org/profile/pierrebousquie
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thomas P
+ arisot":http://coderetreat.org/profile/ThomasParisot
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sam Cran
+ ford":http://coderetreat.org/profile/SamCranford
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Grégory
+ ":http://coderetreat.org/profile/Gregory
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Karl COS
+ SE":http://coderetreat.org/profile/KarlCOSSE
+END:VEVENT
+END:VCALENDAR

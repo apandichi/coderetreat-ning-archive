@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27663
+DTSTAMP:20170129T115913Z
+SUMMARY:Global Day of Coderetreat 2013 - Fürth, Germany
+DESCRIPTION:For detailed description have a look at http://gdcr13-fuer
+ th.eventbrite.de/ \n\nFor more information visit http://coderetreat.o
+ rg/events/global-day-of-code-retreat-2013-f-rth-germany
+DTSTART:20131214T083000Z
+DTEND:20131214T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Coworking Space Fürth
+WEBSITE:http://gdcr13-fuerth.eventbrite.de/
+URL:http://gdcr13-fuerth.eventbrite.de/
+CONTACT:
+ORGANIZER:Martin Heider, Marco Emrich & Péter Zsoldos (the GDCR Nürn
+ berg / Fürth Team)
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin H
+ eider":http://coderetreat.org/profile/MartinHeider
+END:VEVENT
+END:VCALENDAR

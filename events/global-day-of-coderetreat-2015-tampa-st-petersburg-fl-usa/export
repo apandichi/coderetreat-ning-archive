@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47549
+DTSTAMP:20170129T100832Z
+SUMMARY:Global Day of Coderetreat 2015 - Tampa/St. Petersburg, FL, USA
+DESCRIPTION:The yearly Global Day of Code Retreat for the Saint Peters
+ burg / Tampa area has moved to St. Pete! The Iron Yard will be hosting
+  the festivities. Everyone of all skill levels are welcome.\n\nFor mor
+ e information visit http://coderetreat.org/events/global-day-of-codere
+ treat-2015-tampa-st-petersburg-fl-usa
+DTSTART:20151114T090000Z
+DTEND:20151114T140000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:The Iron Yard - Saint Petersburg Campus
+WEBSITE:https://goo.gl/maps/LrLAKMudsJ92
+URL:https://goo.gl/maps/LrLAKMudsJ92
+CONTACT:(813) 775-2275
+ORGANIZER;CN="Jason L Perry":http://coderetreat.org/profile/JasonLPerr
+ y
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jason L 
+ Perry":http://coderetreat.org/profile/JasonLPerry
+END:VEVENT
+END:VCALENDAR

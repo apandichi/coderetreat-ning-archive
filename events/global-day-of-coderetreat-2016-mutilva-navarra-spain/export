@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54698
+DTSTAMP:20170129T112614Z
+SUMMARY:Global Day of Coderetreat 2016 - Pamplona, Navarra, Spain
+DESCRIPTION:Global Day of Coderetreat 2016, hosted by Openbravo. We ar
+ e looking forward to get together with passionate developers to spend 
+ a day having fun working on the fundamentals of software development a
+ nd design.\nRegistration is required, you can do it here. If you have
+  any doubt about the event please send an email to coderetreat@openbra
+ vo.com\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2016-mutilva-navarra-spain
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Openbravo Headquarters
+WEBSITE:https://www.google.es/maps/place/Openbravo+Official/@42.796749
+ ,-1.6155877,17z/data=!3m1!4b1!4m5!3m4!1s0xd508d9fc0000001:0xd16caca4ec
+ b6728b!8m2!3d42.796749!4d-1.613399?hl=en
+URL:https://www.google.es/maps/place/Openbravo+Official/@42.796749,-1.
+ 6155877,17z/data=!3m1!4b1!4m5!3m4!1s0xd508d9fc0000001:0xd16caca4ecb672
+ 8b!8m2!3d42.796749!4d-1.613399?hl=en
+CONTACT:948 287 507
+ORGANIZER;CN="Augusto Mauch":http://coderetreat.org/profile/AugustoMau
+ ch
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Augusto 
+ Mauch":http://coderetreat.org/profile/AugustoMauch
+END:VEVENT
+END:VCALENDAR

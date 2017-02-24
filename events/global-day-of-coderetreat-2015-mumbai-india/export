@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47253
+DTSTAMP:20170129T121222Z
+SUMMARY:Global Day of Coderetreat 2015 - Mumbai, India
+DESCRIPTION:This event is sponsored by Direction Software Solutions w
+ ww.direction.biz\n\nFor more information visit http://coderetreat.org/
+ events/global-day-of-coderetreat-2015-mumbai-india
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Direction Software Solutions
+WEBSITE:https://www.google.co.in/maps/place/Direction+Software+Solutio
+ ns/@19.0003931,72.8256203,17z/data=!3m1!4b1!4m2!3m1!1s0x3be7ce92ace6e4
+ 4d:0xbcff0bf90fa4ae66
+URL:https://www.google.co.in/maps/place/Direction+Software+Solutions/@
+ 19.0003931,72.8256203,17z/data=!3m1!4b1!4m2!3m1!1s0x3be7ce92ace6e44d:0
+ xbcff0bf90fa4ae66
+CONTACT:+91 (22) 61525000 Extn 280
+ORGANIZER:Talk to Mr. Laxmikant Purohit (L.PUROHIT@DIRECTION.BIZ)
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/HfIXzVrPfI1Um
+ wB-IxmSCq7TzQFUJjtEfbuQUT4I3UoktEl3mXDbdSxO9uctRXbaiundPemu1oqdJN7H5Q0
+ pHZrnECd49K5L/Mumbai_India_Bridge.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dhaval D
+ alal":http://coderetreat.org/profile/DhavalDalal
+END:VEVENT
+END:VCALENDAR

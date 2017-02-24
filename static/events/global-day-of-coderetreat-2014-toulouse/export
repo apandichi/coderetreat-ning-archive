@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40148
+DTSTAMP:20170129T120824Z
+SUMMARY:Global Day of Coderetreat 2014 - Toulouse, France
+DESCRIPTION:\nGlobal Day of CodeRetreat in Toulouse, France.\nThe even
+ t will be hosted and sponsored by Lyra Network.\nIt will be facilitate
+ d by Anthony Eden, Antoine Vernois, Damien Mathieu and Ludovic Pradel.
+ \nDetails and registration : meetup http://www.meetup.com/Software-Cr
+ aftsmanship-Toulouse/events/207991842/\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-coderetreat-2014-toulouse
+DTSTART:20141115T083000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Toulouse / France
+WEBSITE:http://www.meetup.com/Software-Craftsmanship-Toulouse/events/2
+ 07991842/
+URL:http://www.meetup.com/Software-Craftsmanship-Toulouse/events/20799
+ 1842/
+CONTACT:
+ORGANIZER;CN="Antoine Vernois":http://coderetreat.org/profile/AntoineV
+ ernois179
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Antoine 
+ Vernois":http://coderetreat.org/profile/AntoineVernois179
+END:VEVENT
+END:VCALENDAR

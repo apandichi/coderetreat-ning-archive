@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Haïkel Guémar&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/HaikelGuemar</link>
+        <pubDate>Sun, 29 Jan 2017 12:02:08 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:02:08 +0000</lastBuildDate>
+        <image>
+            <title>Haïkel Guémar&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/HaikelGuemar</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000cfcadcb84fe69c8ad906423</guid>
+               <title>Haïkel Guémar posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:37760?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/HaikelGuemar?xg_source=activity">Ha&iuml;kel Gu&eacute;mar</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:37760?xg_source=activity">Global Day of Coderetreat 2014 - Lyon, France</a> at Lyon</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">TBDOrganized by @CodeRetreatLyon team (follow us on twitter: <a href="http://twitter.com/CodeRetreatLyon">http://twitter.com/CodeRetreatLyon</a>)<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:37760?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 06 Sep 2014 14:34:06 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000cfcadcba372d5dce0104c85</guid>
+               <title>Haïkel Guémar updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:23859?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/HaikelGuemar?xg_source=activity">Ha&iuml;kel Gu&eacute;mar</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:23859?xg_source=activity">Code Retreat Lyon - June 2013</a> at La Cord&eacute;e Charpennes</h3><div class="rich-detail"><div class="rich-date">June 1, 2013 from 8:30am to 4pm</div><div class="rich-excerpt">Code Retreat Lyonco-organized with: CARA Lyon, Lyon.rb, Mix-ITSponsored by: <a href="http://www.mailjet.com/" target="_blank">MailJet</a>Register <a href="http://www.eventbrite.com/event/6631269305" target="_blank">here</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:23859?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 10 May 2013 13:20:21 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000cfcadcb54620323596d21ff</guid>
+               <title>Haïkel Guémar posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:23859?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/HaikelGuemar?xg_source=activity">Ha&iuml;kel Gu&eacute;mar</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:23859?xg_source=activity">Code Retreat Lyon - June 2013</a> at La Cord&eacute;e Charpennes</h3><div class="rich-detail"><div class="rich-date">June 1, 2013 from 8:30am to 4pm</div><div class="rich-excerpt">Code Retreat Lyonco-organized with: CARA Lyon, Lyon.rb, Mix-ITSponsored by: <a href="http://www.mailjet.com/" target="_blank">MailJet</a>Register <a href="http://www.eventbrite.com/event/6631269305" target="_blank">here</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:23859?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 07 May 2013 18:59:28 +0000</pubDate>
+               </item>    </channel>
+</rss>

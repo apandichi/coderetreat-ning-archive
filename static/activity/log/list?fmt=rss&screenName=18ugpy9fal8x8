@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Elsa Mpondo-dika&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ElsaMpondodika</link>
+        <pubDate>Sun, 29 Jan 2017 11:33:32 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:33:32 +0000</lastBuildDate>
+        <image>
+            <title>Elsa Mpondo-dika&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ElsaMpondodika</link>
+            <url>http://api.ning.com:80/files/BDRakL243ODoxbkPA-cXyPuyg7v2hlgfKfg8hCF95weuRIw3vEO*nADLnL7ohvHxPk4ZWZRAYzAgcCPZyP-CDmOoZmuZKpOW/1154437389.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501f45db724bb94e14c7</guid>
+               <title>james peterson left a comment for Elsa Mpondo-dika</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52635?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52635?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/ElsaMpondodika?xg_source=activity">Elsa Mpondo-dika</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:34:40 +0000</pubDate>
+               </item>    </channel>
+</rss>

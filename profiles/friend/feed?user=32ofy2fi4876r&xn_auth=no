@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=32ofy2fi4876r&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:32:22Z</updated>
+                            <author>
+                    <name>Damian Jackson</name>
+                    <uri>http://coderetreat.org/profile/DamianJackson</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=32ofy2fi4876r&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Alastair Smith</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AlastairSmith"/>
+                                        <id>tag:coderetreat.org,2012-02-09:6456126:User:8195</id>
+                                        <updated>2012-02-09T16:53:13.372Z</updated>
+                    
+                                            <author>
+                            <name>Damian Jackson</name>
+                            <uri>http://coderetreat.org/profile/DamianJackson</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/wcsIjKn8py4wT9JiCPLKW5uhg*e61xkz9VYjmDawqR29kjt9c3-E3CRQbtW7n9eAMOYxGNLaJ2i9Sd*FQ4BUKURLowe5mkXA/849382124.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alastair Smith&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/wcsIjKn8py4wT9JiCPLKW5uhg*e61xkz9VYjmDawqR29kjt9c3-E3CRQbtW7n9eAMOYxGNLaJ2i9Sd*FQ4BUKURLowe5mkXA/849382124.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alastair Smith&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Emily Bache&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/EmilyBache</link>
+        <pubDate>Sun, 29 Jan 2017 10:47:37 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:47:37 +0000</lastBuildDate>
+        <image>
+            <title>Emily Bache&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/EmilyBache</link>
+            <url>http://api.ning.com:80/files/ehTln0H14lnGrhLEJNeyB5fyz9ehh0XxNIVFa5l0mQGhnEspFcqs*ptXLYZuMIylnVtHmW*EYdK2gWysF*5yRI6dTKBD7D-e/576928757.jpeg?xgip=0%3A103%3A1278%3A1278%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

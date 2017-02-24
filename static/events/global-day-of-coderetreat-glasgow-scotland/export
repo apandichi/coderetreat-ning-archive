@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12860
+DTSTAMP:20170129T133717Z
+SUMMARY:Global Day of Coderetreat 2012 - Glasgow / Scotland
+DESCRIPTION:All details TBC - but it will happen!\nWe are in discussio
+ ns with a couple of possible sponsors and we are aiming to hire a good
+  venue in Glasgow City Centre to make it easy for people from Edinburg
+ h to join us. \n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-glasgow-scotland
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:TBC
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Adrian Mowat":http://coderetreat.org/profile/AdrianMowat
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adrian M
+ owat":http://coderetreat.org/profile/AdrianMowat
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN=wright1m
+ ichael:http://coderetreat.org/profile/wright1michael
+END:VEVENT
+END:VCALENDAR

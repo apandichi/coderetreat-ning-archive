@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47024
+DTSTAMP:20170129T121747Z
+SUMMARY:Global Day of Coderetreat 2015 - Solingen, Germany
+DESCRIPTION:Global Day of Coderetreat 2015 at codecentric AG in Soling
+ en!\nCome and improve your programming skills together with peers, exp
+ lore new technology or methods, and learn, learn, learn - all without 
+ the usual job or project pressure, just for the fun of it! \nIn sever
+ al sessions of about 45 minutes, we will implement Conway’s “Game 
+ of Life” again and again, and share and compare different solutions
+ , languages and learnings.\nWe will provide a good lunch and drinks. A
+ ll you need is your curiosity, and preferably your laptop with a prog
+ ramming environment - and we're ready to go!\n\n\n\n\n\nPlease RSVP at
+  https://www.eventbrite.com/e/global-day-of-code-retreat-solingen-tic
+ kets-19378290990\n// Hosted by codecentric AG \n\n\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 15-solingen-germany
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:codecentric HQ
+WEBSITE:https://www.codecentric.de/ueber-codecentric/standorte-codecen
+ tric/
+URL:https://www.codecentric.de/ueber-codecentric/standorte-codecentric
+ /
+CONTACT:
+ORGANIZER;CN="Tobias Goeschel":http://coderetreat.org/profile/tobiasgo
+ eschel
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tobias G
+ oeschel":http://coderetreat.org/profile/tobiasgoeschel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Marco:htt
+ p://coderetreat.org/profile/Marco
+END:VEVENT
+END:VCALENDAR

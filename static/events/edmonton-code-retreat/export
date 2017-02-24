@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12212
+DTSTAMP:20170129T104417Z
+SUMMARY:Edmonton Code Retreat
+DESCRIPTION:Registrations are located http://coderetreatyeg2012.event
+ brite.com/\n\nFor more information visit http://coderetreat.org/events
+ /edmonton-code-retreat
+DTSTART:20120922T084500Z
+DTEND:20120922T170000Z
+CATEGORIES:coderetreat
+LOCATION:Scotia Place
+WEBSITE:http://coderetreatyeg2012.eventbrite.com/
+URL:http://coderetreatyeg2012.eventbrite.com/
+CONTACT:7809374443
+ORGANIZER;CN="Curtis Badke":http://coderetreat.org/profile/CurtisBadke
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Curtis B
+ adke":http://coderetreat.org/profile/CurtisBadke
+END:VEVENT
+END:VCALENDAR

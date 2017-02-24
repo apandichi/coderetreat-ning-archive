@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:33951
+DTSTAMP:20170129T120110Z
+SUMMARY:Js CodeRetreat
+DESCRIPTION:The JS CodeRetreat is going to be an amazing opportunity t
+ o learn more about TDD, using primarily JavaScript. The event will ta
+ ke place in different cities at the same time. \nFor further informat
+ ion, please take a look to the official website:\nhttp://jscoderetreat
+ .com\nFor the Munich specific location, please click here\n\n\nFor m
+ ore information visit http://coderetreat.org/events/js-coderetreat
+DTSTART:20140208T083000Z
+DTEND:20140208T180000Z
+CATEGORIES:tdd, learning
+LOCATION:WERK1
+WEBSITE:http://jscoderetreat.com
+URL:http://jscoderetreat.com
+CONTACT:
+ORGANIZER:Uxebu GmbH
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/LxgTrYw8IcncD
+ Pe1TPy3wwRxvFPgRB48*0CuSw*kgxKttA0E-CsnriIE-EFXLb798Yq9aZi-PjocW1x6*h4
+ tPjuJyA3onC0x/LOGOJSCodeRetreat.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Irene De
+  Nicolo":http://coderetreat.org/profile/IreneDeNicolo
+END:VEVENT
+END:VCALENDAR

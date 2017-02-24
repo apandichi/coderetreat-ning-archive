@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49695
+DTSTAMP:20170129T123235Z
+SUMMARY:Global Day of Coderetreat 2015 - Cambridge, UK
+DESCRIPTION:Please RSVP on Meetup.\n\nFor more information visit http:
+ //coderetreat.org/events/global-day-of-coderetreat-2015-cambridge-uk
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Cambridge Business Park
+WEBSITE:https://goo.gl/maps/CMVx6WVYjMs
+URL:https://goo.gl/maps/CMVx6WVYjMs
+CONTACT:
+ORGANIZER;CN="Alastair Smith":http://coderetreat.org/profile/AlastairS
+ mith
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alastair
+  Smith":http://coderetreat.org/profile/AlastairSmith
+END:VEVENT
+END:VCALENDAR

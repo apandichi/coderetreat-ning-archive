@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47476
+DTSTAMP:20170129T121228Z
+SUMMARY:Global Day of Coderetreat 2015 - Lille, France
+DESCRIPTION:Nord Agile participe au Global Day Of Code Retreat.\nSuive
+ z le lien pour les inscriptions.\nSalto Consulting nous accompagne po
+ ur cette journée.\n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-code-retreat-lille-france-2015
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Salto Consulting
+WEBSITE:http://www.nord-agile.org
+URL:http://www.nord-agile.org
+CONTACT:+33647959440
+ORGANIZER:Jérémie HATTAT - Nord AGile
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jérémi
+ e HATTAT":http://coderetreat.org/profile/JeremieHATTAT
+END:VEVENT
+END:VCALENDAR

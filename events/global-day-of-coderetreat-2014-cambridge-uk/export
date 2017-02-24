@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37406
+DTSTAMP:20170129T120151Z
+SUMMARY:Global Day of Coderetreat 2014 - Cambridge, UK
+DESCRIPTION:Cambridge, UK GDCR14\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-coderetreat-2014-cambridge-uk
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Cambridge, UK
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Alastair Smith":http://coderetreat.org/profile/AlastairS
+ mith
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alastair
+  Smith":http://coderetreat.org/profile/AlastairSmith
+END:VEVENT
+END:VCALENDAR

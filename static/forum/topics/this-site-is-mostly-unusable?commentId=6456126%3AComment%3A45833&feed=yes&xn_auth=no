@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>This site is mostly unusable - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/this-site-is-mostly-unusable?commentId=6456126%3AComment%3A45833&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:15:35Z</updated>
+                        <id>http://coderetreat.org/forum/topics/this-site-is-mostly-unusable?commentId=6456126%3AComment%3A45833&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Hi there,
+Here&#039;s another upda…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:45833"/>
+                                        <id>tag:coderetreat.org,2015-09-06:6456126:Comment:45833</id>
+                                        <updated>2015-09-06T09:11:44.046Z</updated>
+                    
+                                            <author>
+                            <name>Pandichi Alin-Ionut</name>
+                            <uri>http://coderetreat.org/profile/PandichiAlinIonut</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi there,&lt;/p&gt;
+&lt;p&gt;Here&#039;s another update on this, if anyone is still interested.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The main coderetreat.org site is currently provided by ning.com. We decided to go the ning route because it gave us a lot of community website features very quickly and with very little effort. However, the site has a lot of problems.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Recently, there&#039;s been a &quot;call for help&quot; message posted on a GDCR mailing list, see it here: …&lt;/span&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi there,&lt;/p&gt;
+&lt;p&gt;Here&#039;s another update on this, if anyone is still interested.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The main coderetreat.org site is currently provided by ning.com. We decided to go the ning route because it gave us a lot of community website features very quickly and with very little effort. However, the site has a lot of problems.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Recently, there&#039;s been a &quot;call for help&quot; message posted on a GDCR mailing list, see it here: &lt;a href=&quot;https://groups.google.com/d/msg/global-day-of-coderetreat-hosts/Bh-W5RgmIvQ/Qe7VAslLBwAJ&quot; target=&quot;_blank&quot;&gt;https://groups.google.com/d/msg/global-day-of-coderetreat-hosts/Bh-...&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;One of the items that we need help with is maintaining the GDCR website. There is a Basecamp project that you can join, where you can coordinate with others that want to help building the site. To gain access, please make a request by &lt;span&gt;emailing&lt;/span&gt; &lt;span&gt;&lt;a href=&quot;mailto:gdcr@coderetreat.org&quot; target=&quot;_blank&quot;&gt;gdcr@coderetreat.org&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Thanks!&lt;/span&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hello,
+There is a new website…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:44621"/>
+                                        <id>tag:coderetreat.org,2015-05-10:6456126:Comment:44621</id>
+                                        <updated>2015-05-10T09:20:53.164Z</updated>
+                    
+                                            <author>
+                            <name>Pandichi Alin-Ionut</name>
+                            <uri>http://coderetreat.org/profile/PandichiAlinIonut</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hello,&lt;/p&gt;
+&lt;p&gt;There is a new website for the Global Day of Code Retreat hosted at &lt;a href=&quot;http://gdcr.coderetreat.org/&quot; rel=&quot;nofollow&quot;&gt;http://gdcr.coderetreat.org&lt;/a&gt;. The code for that site is open-sourced at &lt;a href=&quot;https://github.com/coderetreat/GDCR&quot; target=&quot;_blank&quot;&gt;https://github.com/coderetreat/GDCR&lt;/a&gt;. You are more than welcome to fork that and send pull requests for any suggestions and improvements.&lt;/p&gt;
+&lt;p&gt;The new site has less features than this one, but has a cleaner design. The…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hello,&lt;/p&gt;
+&lt;p&gt;There is a new website for the Global Day of Code Retreat hosted at &lt;a href=&quot;http://gdcr.coderetreat.org/&quot; rel=&quot;nofollow&quot;&gt;http://gdcr.coderetreat.org&lt;/a&gt;. The code for that site is open-sourced at &lt;a href=&quot;https://github.com/coderetreat/GDCR&quot; target=&quot;_blank&quot;&gt;https://github.com/coderetreat/GDCR&lt;/a&gt;. You are more than welcome to fork that and send pull requests for any suggestions and improvements.&lt;/p&gt;
+&lt;p&gt;The new site has less features than this one, but has a cleaner design. The idea is to port most, if not all, features to the new site.&lt;/p&gt;
+&lt;p&gt;I am not aware of the repository location for this older site. I&#039;ll update this thread if I find that information. But I have the feeling that any further work on this site is discouraged, and any improvement effort should be focused on the new one.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

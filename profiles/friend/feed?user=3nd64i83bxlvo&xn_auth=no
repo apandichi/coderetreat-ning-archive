@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3nd64i83bxlvo&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:33:29Z</updated>
+                            <author>
+                    <name>Jnardiello</name>
+                    <uri>http://coderetreat.org/profile/Jnardiello</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/NfZBQ8g66NTVYI06iygvecr07d7NcXaC4JAu13Suh1-0hyKXNFOZhCpI4CBC209DUOW5djznXDCgLXN*gLKasnjE9WX9Rla*/1086979348.png?xgip=13%3A0%3A529%3A529%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3nd64i83bxlvo&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Pandichi Alin-Ionut</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PandichiAlinIonut"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:User:39929</id>
+                                        <updated>2014-10-21T09:55:00.237Z</updated>
+                    
+                                            <author>
+                            <name>Jnardiello</name>
+                            <uri>http://coderetreat.org/profile/Jnardiello</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Bob Allen @CuriousAgilist</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/BobAllenCuriousAgilist"/>
+                                        <id>tag:coderetreat.org,2012-08-25:6456126:User:11637</id>
+                                        <updated>2012-08-25T14:45:19.681Z</updated>
+                    
+                                            <author>
+                            <name>Jnardiello</name>
+                            <uri>http://coderetreat.org/profile/Jnardiello</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bob Allen @CuriousAgilist&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bob Allen @CuriousAgilist&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:42486
+DTSTAMP:20170129T112358Z
+SUMMARY:PDX Spring Coderetreat 2015
+DESCRIPTION:Placeholder for spring coderetreat.  Save the date!\n\nFo
+ r more information visit http://coderetreat.org/events/pdx-spring-code
+ retreat-2015
+DTSTART:20150307T080000Z
+DTEND:20150307T170000Z
+CATEGORIES:coderetreat
+LOCATION:ACME Business Consulting LLC
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47808
+DTSTAMP:20170129T124046Z
+SUMMARY:Global Day of Coderetreat 2015 - Brussels, Belgium
+DESCRIPTION:Belgium is again joining the global day of Coderetreat wit
+ h a new location, new sponsor and potentially new facilitators\n\nFor 
+ more information visit http://coderetreat.org/events/global-day-of-cod
+ eretreat-belgian-edition
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:ICAB, Brussels
+WEBSITE:https://www.google.be/maps/place/Rue+des+P%C3%A8res+Blancs+4,+
+ 1040+Etterbeek/@50.826702,4.3980435,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3
+ c4b5c22df6af:0xa85bbb6eb0217bb6?hl=en
+URL:https://www.google.be/maps/place/Rue+des+P%C3%A8res+Blancs+4,+1040
+ +Etterbeek/@50.826702,4.3980435,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4b5
+ c22df6af:0xa85bbb6eb0217bb6?hl=en
+CONTACT:
+ORGANIZER;CN="Erik Talboom":http://coderetreat.org/profile/ErikTalboom
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erik Tal
+ boom":http://coderetreat.org/profile/ErikTalboom
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47792
+DTSTAMP:20170129T121558Z
+SUMMARY:Global Day of Coderetreat 2015 - Lyon, France
+DESCRIPTION:Global Day of Code Retreat Lyon\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-coderetreat-2015-lyon-
+ france
+DTSTART:20151114T083000Z
+DTEND:20151114T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Lyon, France
+WEBSITE:https://www.eventbrite.fr/e/inscription-global-code-retreat-ly
+ on-novembre-2015-18713154549
+URL:https://www.eventbrite.fr/e/inscription-global-code-retreat-lyon-n
+ ovembre-2015-18713154549
+CONTACT:
+ORGANIZER:CARA Lyon - Coding Dojo
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Florent 
+ PELLET":http://coderetreat.org/profile/FlorentPELLET
+END:VEVENT
+END:VCALENDAR

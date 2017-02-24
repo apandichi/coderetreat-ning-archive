@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1s5zdn90dp49j&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:51:04Z</updated>
+                            <author>
+                    <name>Fernando Pérez</name>
+                    <uri>http://coderetreat.org/profile/FernandoPerez</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/LxsVWa6ORhO61ho*miwcFwLo3h8rjc-bfQy45nmeFvpqpEwr4WVFT3qRFuc4KVtSTPln31Z2KickLdoTtgZQ1BW65HbnoBZa/511730900.jpeg?xgip=3%3A13%3A183%3A183%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1s5zdn90dp49j&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Francho Joven</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/FranchoJoven"/>
+                                        <id>tag:coderetreat.org,2012-10-06:6456126:User:13328</id>
+                                        <updated>2012-10-06T10:34:25.279Z</updated>
+                    
+                                            <author>
+                            <name>Fernando Pérez</name>
+                            <uri>http://coderetreat.org/profile/FernandoPerez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/*712rBjheep2h4qbfkL5mMlzhFry*wySUifgO0Ax7bDEuZAvwMgsgrdOWHngCFJD4Hfnms*D7gROMsjLSOTnAFqS-jrf8xXH/968528286.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Francho Joven&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/*712rBjheep2h4qbfkL5mMlzhFry*wySUifgO0Ax7bDEuZAvwMgsgrdOWHngCFJD4Hfnms*D7gROMsjLSOTnAFqS-jrf8xXH/968528286.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Francho Joven&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Emma</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/Emma"/>
+                                        <id>tag:coderetreat.org,2011-11-29:6456126:User:2527</id>
+                                        <updated>2011-11-29T19:40:18.891Z</updated>
+                    
+                                            <author>
+                            <name>Fernando Pérez</name>
+                            <uri>http://coderetreat.org/profile/FernandoPerez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Emma&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Emma&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44511
+DTSTAMP:20170129T111531Z
+SUMMARY:Sibiu Code Retreat
+DESCRIPTION:A code retreat focused on the 4 rules on simple design as 
+ first stated by Kent Beck:\n\npass all tests\nno dupication\ngood nami
+ ng\nminimal methods, classes and modules\n\n\n\nFor more information v
+ isit http://coderetreat.org/events/sibiu-code-retreat
+DTSTART:20150509T000000Z
+DTEND:20150509T235900Z
+CATEGORIES:code, retreat
+LOCATION:Sibiu, Str. Av. Ilie Măcelaru nr. 2
+WEBSITE:http://www.visma.ro/Visma-Services/
+URL:http://www.visma.ro/Visma-Services/
+CONTACT:0745857479
+ORGANIZER;CN="Alexandru Calinoiu":http://coderetreat.org/profile/Alexa
+ ndruCalinoiu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alexandr
+ u Calinoiu":http://coderetreat.org/profile/AlexandruCalinoiu
+END:VEVENT
+END:VCALENDAR

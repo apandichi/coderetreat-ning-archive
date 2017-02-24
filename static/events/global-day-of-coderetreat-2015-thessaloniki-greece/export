@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44943
+DTSTAMP:20170129T121620Z
+SUMMARY:Global Day of Coderetreat 2015 - Thessaloniki, Greece
+DESCRIPTION:For the first time, we're excited to host GDCR in Thessalo
+ niki!\nWe'll be sending information using our Java meetup and twitter
+  accounts so stay tuned \n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-2015-thessaloniki-greece
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:TBA
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Papapetrou Patroklos":http://coderetreat.org/profile/Pap
+ apetrouPatroklos
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/zcg5CJIee49S7
+ rn0BNErN46srfEE-fTvqrXwWGkUH3UIX3Eq29GONl6AbnreCzXNRpX4WYcbJj0i*Um7ycd
+ giLrB-ks11N4K/79327241.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dimitris
+  Zorbas":http://coderetreat.org/profile/DimitrisZorbas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Papapetr
+ ou Patroklos":http://coderetreat.org/profile/PapapetrouPatroklos
+END:VEVENT
+END:VCALENDAR

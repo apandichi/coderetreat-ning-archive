@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Discussions Tagged &#039;game of life&#039; - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topic/listForTag?tag=game+of+life&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:44:35Z</updated>
+                        <id>http://coderetreat.org/forum/topic/listForTag?tag=game+of+life&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Is this heresy?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:13536"/>
+                                        <id>tag:coderetreat.org,2012-10-08:6456126:Topic:13536</id>
+                                        <updated>2012-10-08T01:30:58.954Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Game of Life has started to become a little bit boring.  So we would like to try something else on our next code retreat. Is this considered heresy? :)  Has anyone of you tried another problem domain?&lt;/p&gt;
+&lt;p&gt;Any suggestions for a good problem?&lt;/p&gt;
+&lt;p&gt;What were your experiences?&lt;/p&gt;
+&lt;p&gt;Any opinions? Is it a good idea to try something else, or would you rather stick with GoL?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Game of Life has started to become a little bit boring.  So we would like to try something else on our next code retreat. Is this considered heresy? :)  Has anyone of you tried another problem domain?&lt;/p&gt;
+&lt;p&gt;Any suggestions for a good problem?&lt;/p&gt;
+&lt;p&gt;What were your experiences?&lt;/p&gt;
+&lt;p&gt;Any opinions? Is it a good idea to try something else, or would you rather stick with GoL?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

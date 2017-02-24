@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Sukant Saxena&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SukantSaxena</link>
+        <pubDate>Sun, 29 Jan 2017 12:27:18 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:27:18 +0000</lastBuildDate>
+        <image>
+            <title>Sukant Saxena&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SukantSaxena</link>
+            <url>http://api.ning.com:80/files/3dOMuCZtKjV7fa8sMJhxvsvs4uO0-QCFNjGihYc-y9jQ*7nS1c9J*BnUQOqKDvPXNpJSXqRaWOvA*MmGlw0hvoODs4ftrPVs/1241401600.jpeg?xgip=0%3A33%3A402%3A402%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012bae76c2bf4e4035d2ca052</guid>
+               <title>Sukant Saxena posted events</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55878?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SukantSaxena?xg_source=activity">Sukant Saxena</a> posted events</span><br/><div class="rich"><div class="rich-detail"><ul class="links"><li><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55878?xg_source=activity">Global Day of CodeRetreat, Mumbai</a></h3><div class="rich-date">October 10, 2016 from 10am to 5:30pm</div></li><li><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56065?xg_source=activity">Global Day of CodeRetreat 2016, Pune</a></h3><div class="rich-date">October 10, 2016 from 10am to 5:30pm</div></li></ul></div></div>]]></description>
+               <pubDate>Mon, 10 Oct 2016 09:53:55 +0000</pubDate>
+               </item>    </channel>
+</rss>

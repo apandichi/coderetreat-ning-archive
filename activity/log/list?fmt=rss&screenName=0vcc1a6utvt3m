@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Derek Haynes&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DerekHaynes</link>
+        <pubDate>Sun, 29 Jan 2017 13:46:17 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:46:17 +0000</lastBuildDate>
+        <image>
+            <title>Derek Haynes&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DerekHaynes</link>
+            <url>http://api.ning.com:80/files/kN3TS*MNtIUmpAlGauUQaqpGdKEbYerW4FEW7GQHGLf7L7lmL8wQlA85PP1mPZ6L97NKMRDV-rHP8vEc3*KhNyMR9lrxYmZw/664794222.jpeg?xgip=0%3A13%3A233%3A233%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b7725ba20ebb6489f0efe48</guid>
+               <title>Derek Haynes posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:15622?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DerekHaynes?xg_source=activity">Derek Haynes</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:15622?xg_source=activity">Global Day of Coderetreat - Fort Collins, CO / USA</a> at Rocky Mountain Innosphere</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8:30am to 6pm</div><div class="rich-excerpt">A great day of practice in coderetreat-style, facilitated by Bill Tucker. You'll get morning coffee / snacks, a fantastic lunch, and an afternoon kicker for a strong finish.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:15622?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 06 Nov 2012 04:16:57 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b7725ba1d61c3014f98e55f</guid>
+               <title>Derek Haynes is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/DerekHaynes?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DerekHaynes?xg_source=activity">Derek Haynes</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 16 Oct 2012 13:42:44 +0000</pubDate>
+               </item>    </channel>
+</rss>

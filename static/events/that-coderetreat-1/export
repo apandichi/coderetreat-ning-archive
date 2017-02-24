@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53962
+DTSTAMP:20170129T122707Z
+SUMMARY:That Coderetreat
+DESCRIPTION:Annual Coderetreat at That Conference 2016. You must be a 
+ registered attendee of That Conference!\n\nFor more information visit 
+ http://coderetreat.org/events/that-coderetreat-1
+DTSTART:20160808T180000Z
+DTEND:20160808T220000Z
+CATEGORIES:conference
+LOCATION:That Conference
+WEBSITE:https://www.thatconference.com/sessions/session/10354
+URL:https://www.thatconference.com/sessions/session/10354
+CONTACT:9202032729
+ORGANIZER;CN="Michael Wheeler":http://coderetreat.org/profile/MichaelW
+ heeler
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Wheeler":http://coderetreat.org/profile/MichaelWheeler
+END:VEVENT
+END:VCALENDAR

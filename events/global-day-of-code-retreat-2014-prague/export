@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40088
+DTSTAMP:20170129T120658Z
+SUMMARY:Global Day of Coderetreat 2014 - Prague, Czech Republic
+DESCRIPTION:Sign-up here: http://srazy.info/coderetreat/4713\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-code-
+ retreat-2014-prague
+DTSTART:20141115T080000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Prague, Czech Republic
+WEBSITE:http://pracovna.cz
+URL:http://pracovna.cz
+CONTACT:
+ORGANIZER;CN="Aleš Roubíček":http://coderetreat.org/profile/AlesRou
+ bicek
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleš Ro
+ ubíček":http://coderetreat.org/profile/AlesRoubicek
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37614
+DTSTAMP:20170129T103414Z
+SUMMARY:Global Day of Coderetreat 2014 - Ann Arbor, MI, USA
+DESCRIPTION:Global Day of Code Retreat (GDCR) at The Forge in Ann Arbo
+ r Complements of Pillar Technology.\nThis is also the November event f
+ or Code Craftsman Saturdays. Most important: Please register here.\nC
+ ode Craftsman Saturdays is a monthly always free workshop, but GDCR is
+  special and usually our largest event of the year. There will be lots
+  of developers of all levels of experience, and of every conceivable d
+ escription. That's normal for us. Please come join us for the fun.\n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2014-ann-arbor
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:The Forge
+WEBSITE:https://www.google.com/maps/place/1327+Jones+Dr,+Ann+Arbor,+MI
+ +48105
+URL:https://www.google.com/maps/place/1327+Jones+Dr,+Ann+Arbor,+MI+481
+ 05
+CONTACT:
+ORGANIZER;CN="Bob Allen @CuriousAgilist":http://coderetreat.org/profil
+ e/BobAllenCuriousAgilist
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bob Alle
+ n @CuriousAgilist":http://coderetreat.org/profile/BobAllenCuriousAgili
+ st
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nate For
+ eman":http://coderetreat.org/profile/NateForeman
+END:VEVENT
+END:VCALENDAR

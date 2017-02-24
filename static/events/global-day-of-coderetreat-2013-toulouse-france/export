@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27637
+DTSTAMP:20170129T115859Z
+SUMMARY:Global Day of Coderetreat 2013 - Toulouse, France
+DESCRIPTION:The event will be hosted and sponsored by Genigraph.\nInsc
+ ription will open soon via the meetup of Software Craftsmanship Toulou
+ se www.meetup.com/Software-Craftsmanship-Toulouse/\n\nFor more informa
+ tion visit http://coderetreat.org/events/global-day-of-coderetreat-201
+ 3-toulouse-france
+DTSTART:20131214T083000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Genigraph
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Antoine Vernois":http://coderetreat.org/profile/AntoineV
+ ernois179
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Antoine 
+ Vernois":http://coderetreat.org/profile/AntoineVernois179
+END:VEVENT
+END:VCALENDAR

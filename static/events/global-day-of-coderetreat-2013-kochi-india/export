@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30158
+DTSTAMP:20170129T101950Z
+SUMMARY:Global Day of Coderetreat 2013 - Kochi, India
+DESCRIPTION:Startup Village will be hosting the Code Retreat.\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2013-kochi-india
+DTSTART:20131215T093000Z
+DTEND:20131215T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Startup Village
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Nithin Bekal":http://coderetreat.org/profile/NithinBekal
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nithin B
+ ekal":http://coderetreat.org/profile/NithinBekal
+END:VEVENT
+END:VCALENDAR

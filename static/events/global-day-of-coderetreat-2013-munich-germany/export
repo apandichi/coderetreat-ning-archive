@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26358
+DTSTAMP:20170129T115015Z
+SUMMARY:Global Day of Coderetreat 2013 - Munich, Germany
+DESCRIPTION:E.S.R. Labs will again host a code retreat in Munich.\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2013-munich-germany
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:E.S.R Labs
+WEBSITE:http://coderetreat-munich.de
+URL:http://coderetreat-munich.de
+CONTACT:
+ORGANIZER;CN="Sebastian Benz":http://coderetreat.org/profile/Sebastian
+ Benz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sebastia
+ n Benz":http://coderetreat.org/profile/SebastianBenz
+END:VEVENT
+END:VCALENDAR

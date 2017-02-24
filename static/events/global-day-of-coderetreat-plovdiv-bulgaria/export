@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41464
+DTSTAMP:20170129T122000Z
+SUMMARY:Global Day of Coderetreat 2014 - Plovdiv, Bulgaria
+DESCRIPTION:Coderetreat в Пловдив!\nFacebook Event Link\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-plovdiv-bulgaria
+DTSTART:20141115T093000Z
+DTEND:20141115T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Hackafe Plovdiv
+WEBSITE:http://hackafe.org/
+URL:http://hackafe.org/
+CONTACT:
+ORGANIZER;CN="Kostadin Golev":http://coderetreat.org/profile/KostadinG
+ olev
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kostadin
+  Golev":http://coderetreat.org/profile/KostadinGolev
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>lucy mendel&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/lucymendel</link>
+        <pubDate>Sun, 29 Jan 2017 13:46:49 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:46:49 +0000</lastBuildDate>
+        <image>
+            <title>lucy mendel&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/lucymendel</link>
+            <url>http://api.ning.com:80/files/eqk6Jytrwj3skcTjMlKxsb9toP2*5mASmZ3JBYbQs*cY7NGv*gVR1HwF8DtpiNgaskwX0pxWHUyYosyOZxa5*CHqckhQD07O/648917042.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

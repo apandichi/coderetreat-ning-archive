@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:22146
+DTSTAMP:20170129T122450Z
+SUMMARY:Pittsburgh Legacy Coderetreat
+DESCRIPTION:Legacy Coderetreat returns to Pittsburgh!\nRegistration is
+  now open.\n\nA Legacy Coderetreat is a day-long, intensive practice e
+ vent focused on rescue techniques for liberating legacy code. Legacy C
+ oderetreats use the base coderetreat format (which eliminates the pres
+ sure of 'getting things done'), but focuses more on refactoring inheri
+ ted code than creating new code.\nYou only need to bring a laptop with
+  the development tools you require to write code using your chosen pro
+ gramming languages.  Coffee and lunch will be provided.\nCheck out co
+ deretreat.org and whatis.legacycoderetreat.com for further details on 
+ what to expect.\nRefundable Deposit\nThe $15.00 registration deposit w
+ ill be refunded in full when:\n\nyou attend the event\nyou notify the 
+ organizers by Monday, April 29th that you are unable to attend\n\nAny 
+ funds not refunded will be used to help fund future local Pittsburgh C
+ oderetreats.\nThis event is hosted and sponsored by\n\n\nFor more info
+ rmation visit http://coderetreat.org/events/pghcoderetreat1305
+DTSTART:20130504T083000Z
+DTEND:20130504T180000Z
+CATEGORIES:legacy, coderetreat
+LOCATION:M*Modal
+WEBSITE:http://pghcoderetreat1305.eventbrite.com
+URL:http://pghcoderetreat1305.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Jim Hurne":http://coderetreat.org/profile/JimHurne
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/CQrqgv7T3QiQv
+ 2zLhSzhqyv8w59xgiXCZctcpYrPJnB2-JQVgw8JuQlZ0iOium6Oaa9dmGWDEv0KGPkcfBC
+ 7sqc3B3dIKikc/Pittsburgh.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

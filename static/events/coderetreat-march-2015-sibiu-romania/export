@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:42574
+DTSTAMP:20170129T113535Z
+SUMMARY:Coderetreat March 2015 - Sibiu, Romania
+DESCRIPTION:Imagine a group of people gathering in a room and coding a
+ ll day. Just for fun. For free, as in beer. (There will not be beer.) 
+ We'll bring the food, coffee and wifi, you bring your laptop and desir
+ e to practice coding!\nThe event will be organized in iQuest office in
+  Sibiu.\nMore information about code retreat can be found here\nTo he
+ lp us in organizing the event, those willing to participate, plea
+ se confirm at adrian.barglazan@iquestgroup.com or\nat adrian.branis
+ te@iquestgroup.com\nThe structure for the event will be according with
+ :\nhttp://coderetreat.org/facilitating/structure-of-a-coderetreat \n\
+ nFor more information visit http://coderetreat.org/events/coderetreat-
+ march-2015-sibiu-romania
+DTSTART:20150314T000000Z
+DTEND:20150314T235900Z
+CATEGORIES:coderetreat, local, day, of, code, retreat, march, 2015
+LOCATION:iQuest office
+WEBSITE:https://www.google.ro/maps/place/iQuest/@45.783389,24.14652,17
+ z/data=!4m6!1m3!3m2!1s0x474c678789ca165f:0xf9ccba1996bc0564!2siQuest!3
+ m1!1s0x474c678789ca165f:0xf9ccba1996bc0564?hl=ro
+URL:https://www.google.ro/maps/place/iQuest/@45.783389,24.14652,17z/da
+ ta=!4m6!1m3!3m2!1s0x474c678789ca165f:0xf9ccba1996bc0564!2siQuest!3m1!1
+ s0x474c678789ca165f:0xf9ccba1996bc0564?hl=ro
+CONTACT:+40 767 345 975
+ORGANIZER;CN="Adi B":http://coderetreat.org/profile/AdiB
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Csaba Tr
+ ucza":http://coderetreat.org/profile/CsabaTrucza
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel S
+ avu":http://coderetreat.org/profile/DanielSavu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sven Lan
+ ge":http://coderetreat.org/profile/SvenLange187
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alexandr
+ u Calinoiu":http://coderetreat.org/profile/AlexandruCalinoiu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stancu M
+ ihai":http://coderetreat.org/profile/StancuMihai
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi B":h
+ ttp://coderetreat.org/profile/AdiB
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46233
+DTSTAMP:20170129T124727Z
+SUMMARY:2015-10-02: 3rd Nelkinda Coderetreat
+DESCRIPTION:3rd Nelkinda Coderetreat.\n\nFor more information visit ht
+ tp://coderetreat.org/events/2015-10-02-3rd-nelkinda-coderetreat
+DTSTART:20151002T090000Z
+DTEND:20151002T180000Z
+CATEGORIES:coderetreat
+LOCATION:Nelkinda Software Craft Pvt Ltd
+WEBSITE:http://nelkinda.com/events/2015-10-02-3rd-Nelkinda-Coderetreat
+URL:http://nelkinda.com/events/2015-10-02-3rd-Nelkinda-Coderetreat
+CONTACT:
+ORGANIZER;CN="Christian Hujer":http://coderetreat.org/profile/Christia
+ nHujer
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mayur Bh
+ angale":http://coderetreat.org/profile/MayurBhangale
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Hujer":http://coderetreat.org/profile/ChristianHujer
+END:VEVENT
+END:VCALENDAR

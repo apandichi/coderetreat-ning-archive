@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37403
+DTSTAMP:20170129T120148Z
+SUMMARY:Global Day of Coderetreat 2014 - Timisoara,  Romania
+DESCRIPTION:Let's code and learn for one extraordinary day.\nReserve a
+  seat by following this link.\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2014-timisoara-romania
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Startup Hub
+WEBSITE:http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Grou
+ p/events/205906782/
+URL:http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/ev
+ ents/205906782/
+CONTACT:
+ORGANIZER;CN="Patkos Csaba":http://coderetreat.org/profile/PatkosCsaba
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patkos C
+ saba":http://coderetreat.org/profile/PatkosCsaba
+END:VEVENT
+END:VCALENDAR

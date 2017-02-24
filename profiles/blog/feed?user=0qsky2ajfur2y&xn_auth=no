@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Tony Trung Thanh Vo&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0qsky2ajfur2y&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:26Z</updated>
+                            <author>
+                    <name>Tony Trung Thanh Vo</name>
+                    <uri>http://coderetreat.org/profile/TonyTrungThanhVo</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0qsky2ajfur2y&amp;xn_auth=no</id>
+                            <entry>
+                    <title>global day of code retreat in Calgary</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5612"/>
+                                        <id>tag:coderetreat.org,2011-12-08:6456126:BlogPost:5612</id>
+                                        <updated>2011-12-08T16:30:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Tony Trung Thanh Vo</name>
+                            <uri>http://coderetreat.org/profile/TonyTrungThanhVo</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;strong&gt;&lt;span class=&quot;font-size-4&quot;&gt;Organizing the event&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- I contacted professor at University of Calgary and they willing to sponsor for the event. So my lesson here is you need to know the right people and contact the right people then things will go smoothly for you. We need to sort out the few things like wireless for 20 people, food/beverages, etc ...&lt;/p&gt;
+&lt;p&gt;- I were worry that we don&#039;t get enough interested people. But thanks to COREY and OTHER PREVIOUS ORGANIZERS…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;font-size-4&quot;&gt;Organizing the event&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- I contacted professor at University of Calgary and they willing to sponsor for the event. So my lesson here is you need to know the right people and contact the right people then things will go smoothly for you. We need to sort out the few things like wireless for 20 people, food/beverages, etc ...&lt;/p&gt;
+&lt;p&gt;- I were worry that we don&#039;t get enough interested people. But thanks to COREY and OTHER PREVIOUS ORGANIZERS that have raised awareness in people around the world. In addition to that, we have a very strong Calgary Agile User group, so once I sent out email to Calgary Agile User group, I can get like 5 people registered instantly. And the number keep increasing after that.&lt;/p&gt;
+&lt;p&gt;- On December 3rd, it turns out that the organizing department (which is me) have done a terrible jobs because:&lt;/p&gt;
+&lt;p&gt;    1) Wireless didn&#039;t work&lt;/p&gt;
+&lt;p&gt;    2) The door to the building is locked all the times and the access key didn&#039;t work.&lt;/p&gt;
+&lt;p&gt;    3) The skype call to other code retreat event were lame (the sound is small)&lt;/p&gt;
+&lt;p&gt;    4) I should have come to the event like 1 hour before the event to set things up. But due to my lack of preparation, I came to the event at 8:20 am (10 minutes before the event).&lt;/p&gt;
+&lt;p&gt;I have one job and one job only. So sad to see that &quot;I can&#039;t handle the jobs&quot; well. &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;font-size-4&quot;&gt;&lt;strong&gt;Facilitating&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;- BIG THANKS to Colin Kershaw, he has done a fantastic jobs on the day. The way I see it is that I just the guys running around connecting things together, but I have contribute nothing to the success of the day. COREY, COLIN KERSHAW, JIM, ADI, etc .. are the guys that make it very successful.&lt;/p&gt;
+&lt;p&gt;- Colin has done a very good jobs in taking notes and guides people in the right direction on the day. This event was very successful despite the terrible organizing is because of COLIN KERSHAW.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot; class=&quot;font-size-4&quot;&gt;THE DAY&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- At first I only expected 12 people because it is the best number for the event. But then there’s like 20-21 people registered&lt;/p&gt;
+&lt;p&gt;- Again, I didn’t expect people to stay for the whole day because it’s  8 hours of intense coding and communication. But Again, to my surprise, there’s 19 people came and there’s like 16 people stayed still the end of the day.&lt;/p&gt;
+&lt;p&gt;- I remembered session 1, 2, people who doesn&#039;t know about TDD and pair programming, they spend the whole session to set up the environment and discuss about the games. While people who knows about the TDD could drive out half of the logic of the games. (To be honest, there&#039;re so many Ph.D type attendees in Calgary event)&lt;/p&gt;
+&lt;div&gt;- Another things I realized is that session 3 &amp;amp; 4 are the most productive session, In session 5, people are very tired and I&#039;m not sure If people get a lot out of the last session.&lt;/div&gt;
+&lt;p&gt;- Originally, I didn&#039;t really have any obvious goal in my mind, my wife made me believe that by providing services and contributing to society, I could be a very happy man. December 3rd, strengthen that believe, I realized that I&#039;m very happy that I can contribute something to the community and at the same time I realized that I need to do these kind of things more often to keep in my interest in developing software. &lt;/p&gt;
+&lt;div&gt;&lt;p&gt;- I realized there are so many PASSIONATE developers around and I need to do more things that I like to keep my interest and to catch up with all of the developers around me.&lt;/p&gt;
+&lt;div&gt;- Eric (one of the attendee, consultant from ThoughtWorks) raised a very interesting question, it seems to him that this event is very helpful to people that didn&#039;t know about TDD or Pair programming. For him who already practice TDD and pair programming rigorously, mostly just hangout socialize with people.&lt;div&gt;- We didn&#039;t have chance to practice &quot;Mute &amp;amp; Find Loop Hole&quot;  and &quot;Code Swapping&quot; exercises. Hopefully, next time we can have a chance to practice it.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;- Couple comments from the attendees that make all of my efforts worth it:&lt;/p&gt;
+&lt;p&gt;   1) It were really fun&lt;/p&gt;
+&lt;p&gt;   2) Everything I learned today is new (from couple PhD students at University of Calgary)&lt;/p&gt;
+&lt;p&gt;   3) I would applied TDD and Pair Programming in my company.&lt;/p&gt;
+&lt;p&gt;It is a great experience for me .. and it definitely is my accomplishment for this year. &lt;/p&gt;
+&lt;p&gt;Again, Big Thanks to COREY, JIM, ADI, COLIN KERSHAW, etc ... because I have made this day one of the most memorable day in my life.&lt;/p&gt;
+&lt;p&gt;Hopefully, Colin can post his notes and the pictures that he took on here sometimes soon.&lt;/p&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;Tony&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

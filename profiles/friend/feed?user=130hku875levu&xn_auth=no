@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=130hku875levu&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:50:14Z</updated>
+                            <author>
+                    <name>Vinay Krishna</name>
+                    <uri>http://coderetreat.org/profile/VinayKrishna</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/GkcexZAd663JXUsz*8uPtCy1Vfv1fcDGaR1i3RWQSKh6FmIRDdd5AwZddJDvQ5qvFBAYmrVi*ZbyqF2eQcZAqSVtJ-qlrwHE/1078452075.jpeg?xgip=0%3A0%3A608%3A608%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=130hku875levu&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jug Łódź</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JugLodz"/>
+                                        <id>tag:coderetreat.org,2012-10-09:6456126:User:13551</id>
+                                        <updated>2012-10-09T12:46:17.429Z</updated>
+                    
+                                            <author>
+                            <name>Vinay Krishna</name>
+                            <uri>http://coderetreat.org/profile/VinayKrishna</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/MYZa*ZTawAlZgcpeJSKtQ38MpPx*BQx3NfdPzHAnCLNe1AJouHmgf6ZLvN010z3JB0usEJNN27ITA0m*83wtAgmJ3LPZJAc9/664763208.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jug Łódź&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/MYZa*ZTawAlZgcpeJSKtQ38MpPx*BQx3NfdPzHAnCLNe1AJouHmgf6ZLvN010z3JB0usEJNN27ITA0m*83wtAgmJ3LPZJAc9/664763208.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jug Łódź&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

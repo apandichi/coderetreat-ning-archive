@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41144
+DTSTAMP:20170129T122202Z
+SUMMARY:Coderetreat Zagreb
+DESCRIPTION:Imagine a group of people gathering in a room and coding a
+ ll day. Just for fun. For free, as in beer. (There will not be beer.) 
+ Free lunch will be provided. The event is limited to 30 people. Bring 
+ your laptop.\n\nFor more information see Coderetreat Zagreb and Cod
+ eretreat Zagreb Reminder blog posts.\n\nA big thank you to Tentamen�
+ �for sponsoring the event!\n\n\n\nFor more information visit http://co
+ deretreat.org/events/coderetreat-zagreb
+DTSTART:20141121T090000Z
+DTEND:20141121T170000Z
+CATEGORIES:coderetreat
+LOCATION:HGK (Croatian Chamber of Economy)
+WEBSITE:http://filipin.eu/2014/11/06/coderetreat-zagreb.html
+URL:http://filipin.eu/2014/11/06/coderetreat-zagreb.html
+CONTACT:
+ORGANIZER;CN="Željko Filipin":http://coderetreat.org/profile/ZeljkoFi
+ lipin
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Željko 
+ Filipin":http://coderetreat.org/profile/ZeljkoFilipin
+END:VEVENT
+END:VCALENDAR

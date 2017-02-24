@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54189
+DTSTAMP:20170129T113005Z
+SUMMARY:Global Day of Coderetreat 2016 - Des Moines, IA, USA
+DESCRIPTION:Everyone knows the best software is written in Iowa.\nCome
+  join Des Moines best and brightest in a fun event aimed at promoting 
+ camaraderie and craftsmanship within the software development communit
+ y.\nTo RSVP, please click on this link -\nhttp://info.pillartechnology
+ .com/dayofcodersvp\n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-coderetreat-2016-des-moines-ia-usa
+DTSTART:20161022T090000Z
+DTEND:20161022T153000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:The Forge by Pillar Technology, Des Moines
+WEBSITE:http://pillartechnology.com/contact
+URL:http://pillartechnology.com/contact
+CONTACT:
+ORGANIZER;CN=n8dgr8:http://coderetreat.org/profile/NathanSchlehlein
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/bghkZFo2d325q
+ T1an21yhDss5b1RJ2VtrBuXkNKwMpzPFbqDIw3yfYoEyWPhNuN10qewFY3Ak4K0afSxVwD
+ tzBr9dTf-SLFF/des_moines.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=n8dgr8:ht
+ tp://coderetreat.org/profile/NathanSchlehlein
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27844
+DTSTAMP:20170129T122837Z
+SUMMARY:Code Retreat by www.espeo.pl
+DESCRIPTION:Zadaniem będzie znana Game of Life wymyślona przez Johna
+  Conwaya. Przewidujemy miejsce dla 20 uczestników, więc wymagana jes
+ t rejestracja.\nUczestników prosimy o zabranie laptopów ze skonfigur
+ owanym ulubionym środowiskiem programistycznym.\nDo zobaczenia!\n\n\n
+ For more information visit http://coderetreat.org/events/code-retreat-
+ by-www-espeo-pl
+DTSTART:20131025T133000Z
+DTEND:20131025T183000Z
+CATEGORIES:code, retreat, -, workshop
+LOCATION:Politechnika Poznanska
+WEBSITE:https://plus.google.com/115416086900710409691/about?gl=pl&hl=p
+ l
+URL:https://plus.google.com/115416086900710409691/about?gl=pl&hl=pl
+CONTACT:
+ORGANIZER:http://espeo.pl/warsztaty-code-retreat-jesien-2013/
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marcin K
+ epczynski":http://coderetreat.org/profile/MarcinKepczynski
+END:VEVENT
+END:VCALENDAR

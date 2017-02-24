@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Martin Holman&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MartinHolman</link>
+        <pubDate>Sun, 29 Jan 2017 14:06:14 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:06:14 +0000</lastBuildDate>
+        <image>
+            <title>Martin Holman&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MartinHolman</link>
+            <url>http://api.ning.com:80/files/jVERTgXG4bsW1uRfcaqltpAP2OxBOp7q25yXrKsht3UrOculUGb44RcUMxIcq3RyYan9uUl4ffDQBBZfJLnJqq0BNpLwoh6w/429800539.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b5d01d1f205786e22fa4749</guid>
+               <title>Martin Holman posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:26925?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MartinHolman?xg_source=activity">Martin Holman</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:26925?xg_source=activity">Global Day of Coderetreat 2013 - Wellington, New Zealand</a> at Wellington, New Zealand</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 8:30am to 5pm</div><div class="rich-excerpt">Global Day of Coderetreat 2013 - Wellington, New Zealand<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:26925?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 26 Sep 2013 01:10:52 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5d01d1ce8f3f5e25d4ed26</guid>
+               <title>Martin Holman updated their profile</title>
+               <link>http://coderetreat.org/profile/MartinHolman?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MartinHolman?xg_source=activity">Martin Holman</a> updated their <a href="http://coderetreat.org/profile/MartinHolman?xg_source=activity">profile</a></span><br/>]]></description>
+               <pubDate>Tue, 02 Oct 2012 05:55:09 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5d01d117afaa49e3b5fc8f</guid>
+               <title>Martin Holman is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/MartinHolman?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MartinHolman?xg_source=activity">Martin Holman</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Wed, 26 Sep 2012 21:43:20 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5d01d1c3e85f30d60fdf60</guid>
+               <title>Martin Holman is attending Ian Randall&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MartinHolman?xg_source=activity">Martin Holman</a> is attending <a href="http://coderetreat.org/profile/IanRandall?xg_source=activity">Ian Randall's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">Auckland Coderetreat</a> at Bizdojo Makerspace</h3><div class="rich-detail"><div class="rich-date">October 27, 2012 all day</div><div class="rich-excerpt">Corey will be in town, so we're doing a coderetreat!Please register on meetup.com at <a href="http://www.meetup.com/Auckland-Code-retreat/events/85963422/">http://www.meetup.com/Auckland-Code-retreat/events/85963422/</a> Massive thanks to our sponsors:Primary sponsor <a href="http://datacom.co.nz" target="_blank">Datacom</a> who are funding lunch! (Yay)also <a href="http://codemania.co.nz/#events">codemania</a> and <a href="http://www.telerik.com/">Telerik</a> who are paying for the breakfast/coffee and venue.We couldn't put on coderetreat without their support.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 26 Sep 2012 21:43:20 +0000</pubDate>
+               </item>    </channel>
+</rss>

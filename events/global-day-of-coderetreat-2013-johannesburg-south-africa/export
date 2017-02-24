@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29551
+DTSTAMP:20170129T115530Z
+SUMMARY:Global Day of Coderetreat 2013 - Johannesburg, South Africa
+DESCRIPTION:See here for details and registration: http://www.meetup.
+ com/coderetreat/events/149131032/\n\nFor more information visit http:/
+ /coderetreat.org/events/global-day-of-coderetreat-2013-johannesburg-so
+ uth-africa
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Johannesburg
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Driven Software
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/QK8xPxzOGRmY7
+ ddR2GYCFOzOkkCtK6ZVfNymiebzNbk8vYGlomHH*pUaXzqZiBrA4dqYhxoX1DYVkEdyadV
+ sWE1i2P7wio9L/gdcr.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Janco Wo
+ lmarans":http://coderetreat.org/profile/JancoWolmarans
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54074
+DTSTAMP:20170129T113000Z
+SUMMARY:Global Day of Coderetreat 2016 - Solingen, Germany
+DESCRIPTION:Global Day of Coderetreat 2016 at codecentric AG in Soling
+ en!\nCome and improve your programming skills together with peers, exp
+ lore new technology or methods, and learn, learn, learn - all without 
+ the usual job or project pressure, just for the fun of it! \nIn sever
+ al sessions of about 45 minutes, we will implement Conway’s “Game 
+ of Life” again and again, and share and compare different solutions
+ , languages and learnings.\nWe will provide a good lunch and drinks. A
+ ll you need is your curiosity, and preferably your laptop with a pro
+ gramming environment - and we're ready to go!\n\n\n\n\nPlease RSVP at�
+ �https://www.eventbrite.com/e/global-day-of-code-retreat-solingen-tick
+ ets-26394773478?aff=eac2\n// Hosted by codecentric AG \n\nFor more i
+ nformation visit http://coderetreat.org/events/global-day-of-coderetre
+ at-2016-solingen-germany
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:codecentric AG
+WEBSITE:https://www.google.de/maps/place/codecentric+AG/@51.1614432,7.
+ 0082123,17z/data=!3m1!4b1!4m5!3m4!1s0x47b8d319af589df1:0xfca2efd9accd3
+ 0d8!8m2!3d51.1614432!4d7.010401
+URL:https://www.google.de/maps/place/codecentric+AG/@51.1614432,7.0082
+ 123,17z/data=!3m1!4b1!4m5!3m4!1s0x47b8d319af589df1:0xfca2efd9accd30d8!
+ 8m2!3d51.1614432!4d7.010401
+CONTACT:
+ORGANIZER;CN=Marco:http://coderetreat.org/profile/Marco
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/0VDyeNsf-iGYR
+ tdaJNpm2Xrrt9yYG63hcAxrkfTvpL17hDGOWalM3Hmq686BUsPqU7RgW8GEkQqa6s3D2Ar
+ INaICtdWphxu3/cc.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Marco:htt
+ p://coderetreat.org/profile/Marco
+END:VEVENT
+END:VCALENDAR

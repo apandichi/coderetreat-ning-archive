@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12912
+DTSTAMP:20170129T134117Z
+SUMMARY:Global Day of Coderetreat 2012 - Edinburgh / Scotland
+DESCRIPTION:Register here.\n\nOrganised by New Context, on the Global
+  Day of Code Retreat.\nLocation at New Context Edinburgh HQ, Tech Cube
+ , 1 Summer Hall, Edinburgh, EH9 1PL.\n\nFor more information visit htt
+ p://coderetreat.org/events/global-day-of-coderetreat-edinburgh-scotlan
+ d
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Edinburgh
+WEBSITE:http://goo.gl/maps/JFMlG
+URL:http://goo.gl/maps/JFMlG
+CONTACT:
+ORGANIZER:Paul Wilson @ New Context
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/3qcUpCzy48zKA
+ J1yq5QzA9Ylxc5ivirdTcijd55i6zWLX18O77jAHMcp1vIyLROFVtulRatx7Y*AoudXAWV
+ fogL8wVo*rAvl/src_index_bg.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Wil
+ son":http://coderetreat.org/profile/PaulWilson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ryan Ste
+ nhouse":http://coderetreat.org/profile/RyanStenhouse
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Philip R
+ oberts":http://coderetreat.org/profile/PhilipRoberts
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Krzyszto
+ f Retel":http://coderetreat.org/profile/KrzysztofRetel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ar
+ cher":http://coderetreat.org/profile/DavidArcher
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Mike Mo
+ ran":http://coderetreat.org/profile/MikeMoran
+END:VEVENT
+END:VCALENDAR

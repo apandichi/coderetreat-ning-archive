@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Nithin Bekal&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1gxp6k5pt6psg&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:19:54Z</updated>
+                            <author>
+                    <name>Nithin Bekal</name>
+                    <uri>http://coderetreat.org/profile/NithinBekal</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1gxp6k5pt6psg&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Code Retreat, Chennai</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5107"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:BlogPost:5107</id>
+                                        <updated>2011-12-05T06:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Nithin Bekal</name>
+                            <uri>http://coderetreat.org/profile/NithinBekal</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;[Originally posted on &lt;a href=&quot;http://nithinbekal.com/2011/global-day-of-code-retreat-chennai/&quot; target=&quot;_blank&quot;&gt;my blog&lt;/a&gt;.]&lt;/p&gt;
+&lt;p&gt;I spend the day on Saturday at ThoughtWorks Chennai attending a code retreat. This is the first time I&#039;ve attended a code retreat and I had a lot of fun at the event. This code retreat was organized in many different cities across the world as part of the Global Day of Code Retreat (Dec 3).&lt;/p&gt;
+&lt;p&gt;Code retreat is a day long event where you pair with different…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;[Originally posted on &lt;a href=&quot;http://nithinbekal.com/2011/global-day-of-code-retreat-chennai/&quot; target=&quot;_blank&quot;&gt;my blog&lt;/a&gt;.]&lt;/p&gt;
+&lt;p&gt;I spend the day on Saturday at ThoughtWorks Chennai attending a code retreat. This is the first time I&#039;ve attended a code retreat and I had a lot of fun at the event. This code retreat was organized in many different cities across the world as part of the Global Day of Code Retreat (Dec 3).&lt;/p&gt;
+&lt;p&gt;Code retreat is a day long event where you pair with different people for 45-minute sessions, trying to solve a problem (Conway&#039;s Game of Life) using object oriented principles and test driven development. At the end of each session you delete the code, and start all over again with a different pair.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session 1.&lt;/strong&gt; For the first session, I paired with a Python developer but used Ruby and Rspec. Neither of us had spent much time doing test-first development, so we took some time getting used to writing tests before code. My pair didn&#039;t know Ruby, so ping-pong programming didn&#039;t work too well, but Ruby and Python are similar enough for us to not waste too much time on syntax.&lt;/p&gt;
+&lt;p&gt;We did make the mistake of spending too much time discussing the design in advance; we didn&#039;t write the first few lines of code till almost 10 minutes into the session. At that time, I felt that thinking over the design in detail would help, but I have changed my mind since.&lt;/p&gt;
+&lt;p&gt;During the discussion after the session, Karthik Sirasanagandla, who was one of the facilitators, pointed out that we were doing TDD all wrong by planning too much in advance. I went through the next couple of sessions slightly skeptical about this idea... Knowing in advance exactly what your class is going to do will only help you write better tests, right?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session 2.&lt;/strong&gt; For this session, I paired with a Java developer, and we used Java and JUnit. I have to admit that after using Ruby for a while, statically typed languages seem like a lot less fun and we struggled to get much done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session 3.&lt;/strong&gt; Once again I paired with a Java developer but we used Ruby and Rspec for coding. Rather than me writing all the code we tried another approach to pair programming. I would write some code, and slide the laptop to my pair who would write the next bit of code in Java-ish pseudocode, which I would then rewrite in Ruby, and then explain Ruby syntax. Once again, a lot of time was wasted on discussing syntax rather than on design.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session 4.&lt;/strong&gt; After lunch, I paired with another Ruby developer who I knew from the local Ruby user group. Now that language syntax was no longer a distraction, we had a very productive session.&lt;/p&gt;
+&lt;p&gt;For one, I got rid of the approach I had been using for the first three sessions - using an array of 1&#039;s and 0&#039;s to store the game state. Instead we started with the proper object oriented approach of using a Cell class to represent the state of each cell on the grid. We also switched to Test::Unit and Shoulda for the tests, rather than Rspec that I&#039;d been using in the morning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session 5.&lt;/strong&gt; Most of us were starting to get tired of the constant deleting of the code, and it wasn&#039;t doing morale much good. So instead of having two more 45-minute sessions, we had a single longer session, so that people would have a chance to go further than they had in previous sessions. We also teamed up with our pair from the 4th session. We continued using Ruby but switched to Rspec for testing.&lt;/p&gt;
+&lt;p&gt;This was the session where I finally started getting the hang of test-first development. Unlike in the previous sessions, this time we strictly followed the principle of having a single failing spec, followed by code to make it pass, and then writing the next spec. We also didn&#039;t spend too much time planning what attributes and methods a class would have and instead focused on what was the next method we needed to add to solve the problem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thoughts&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One thing that surprised me was the number of developers from enterprise-y companies that turned up. (I too fall into that category.) The fact that very few people were Ruby (and Python) developers was quite surprising, seeing that the event was sponsored by ThoughtWorks and C42, which are both well known companies in the Ruby community.&lt;/p&gt;
+&lt;p&gt;Another surprise was how many of the people expected this to be some sort of a training session. I had expected most people participating in the code retreat to be people familiar with the format.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I can&#039;t wait for the next chance to participate in a code retreat. It was a great experience pairing with other developers, but I felt that pairing programmers who code in different languages (and completely unfamiliar with each others&#039; preferred language) leads to time being wasted on understanding the syntax.&lt;/p&gt;
+&lt;p&gt;For pair programming to be effective, both people really need to code alternately, and therefore need to have at least one language in common. Hopefully there will be more code retreats organized and will have more people familiar with Ruby (or Python or JavaScript).&lt;/p&gt;
+&lt;p&gt;If there&#039;s a code retreat happening in your city, don&#039;t miss it. You&#039;ll certainly pick up some fresh ideas about object oriented design.&lt;/p&gt;
+&lt;p&gt;Did you attend a code retreat in any of the cities on Dec 3? How did you feel about the event?&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

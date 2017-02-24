@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Nicola Moretto&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/NicolaMoretto</link>
+        <pubDate>Sun, 29 Jan 2017 11:53:09 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:53:09 +0000</lastBuildDate>
+        <image>
+            <title>Nicola Moretto&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/NicolaMoretto</link>
+            <url>http://api.ning.com:80/files/pCC3UkZfemaoA5zHgbPYbFs0xx3TfpmpU-aqPjzbuOi1UBM*XfbX3wHHQWMdkR79IPQUvzNKMfM22FBEslM*cbBPxlGjQdHG/1042480001.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:5478
+DTSTAMP:20170129T110846Z
+SUMMARY:Coderetreat Amsterdam @ Mirabeau
+DESCRIPTION:I am arranging a code retreat at amsterdam. I hope, if thi
+ s one is succesful, to do this more often.\nLocation is set. Courtesy 
+ to Mirabeau for sponsering this event. Thanks to Mirabeau there is a:\
+ n- location (see description) - free lunch - drinks and bites through 
+ the day\nRequirement: Bring your own laptop, with your preferred langu
+ age & IDE set up. Also make sure you have a test framework you can run
+ .\nGoal of this meeting:\n- make it happen (it will!) - learn new stuf
+ f! - above all: have fun!\n\nMore information: Mirabeau @ http://www.m
+ irabeau.nl Stefan's Blog (and more) @ http://stefanhendriks.wordpress.
+ com\n\nFor more information visit http://coderetreat.org/events/codere
+ treat-amsterdam
+DTSTART:20120107T090000Z
+DTEND:20120107T173000Z
+CATEGORIES:coderetreat
+LOCATION:Amsterdam
+WEBSITE:http://maps.google.com/maps?q=H.J.E.+Wenckebachweg+108+1096+AR
+ +Amsterdam&hl=nl&ll=52.335046,4.927977&spn=0.001559,0.004128&sll=37.06
+ 25,-95.677068&sspn=64.792576,135.263672&vpsrc=6&hnear=H.J.E.+Wenckebac
+ hweg+108,+Oost+en+Watergraafsmeer,+Amsterdam,+Noord-Holland,+Nederland
+ &t=h&z=19&iwloc=lyrftr:h,13306862099895207454,52.335031,4.927819
+URL:http://maps.google.com/maps?q=H.J.E.+Wenckebachweg+108+1096+AR+Ams
+ terdam&hl=nl&ll=52.335046,4.927977&spn=0.001559,0.004128&sll=37.0625,-
+ 95.677068&sspn=64.792576,135.263672&vpsrc=6&hnear=H.J.E.+Wenckebachweg
+ +108,+Oost+en+Watergraafsmeer,+Amsterdam,+Noord-Holland,+Nederland&t=h
+ &z=19&iwloc=lyrftr:h,13306862099895207454,52.335031,4.927819
+CONTACT:(email me: stefanhen83 at gmail.com)
+ORGANIZER;CN="Stefan Hendriks":http://coderetreat.org/profile/stefanhe
+ ndriks
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bernard 
+ Kroes":http://coderetreat.org/profile/BernardKroes
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Srinivasa
+ n:http://coderetreat.org/profile/Srinivasan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tom Thom
+ as":http://coderetreat.org/profile/TomThomas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bas Boli
+ er":http://coderetreat.org/profile/BasBolier
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pascal S
+ trijbos":http://coderetreat.org/profile/PascalStrijbos
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stef Mei
+ jer":http://coderetreat.org/profile/StefMeijer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Floor:htt
+ p://coderetreat.org/profile/FloorRoth
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arjan Wu
+ lder":http://coderetreat.org/profile/ArjanWulder
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Doh
+ men":http://coderetreat.org/profile/PaulDohmen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arjen va
+ n der Ende":http://coderetreat.org/profile/ArjenvanderEnde
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bruno An
+ tunes":http://coderetreat.org/profile/BrunoAntunes
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan H
+ endriks":http://coderetreat.org/profile/stefanhendriks
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Ranga R
+ ao Karanam":http://coderetreat.org/profile/RangaRaoKaranam
+END:VEVENT
+END:VCALENDAR

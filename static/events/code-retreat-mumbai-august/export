@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11098
+DTSTAMP:20170129T122541Z
+SUMMARY:Code Retreat Mumbai, August
+DESCRIPTION:This is our second code retreat in Mumbai. Seats are limit
+ ed to 24. Please register on our website.\n\nFor more information visi
+ t http://coderetreat.org/events/code-retreat-mumbai-august
+DTSTART:20120804T100000Z
+DTEND:20120804T170000Z
+CATEGORIES:practice, party
+LOCATION:BNP Paribas India Solutions Pvt. Ltd
+WEBSITE:http://agileindia.pbworks.com/w/page/56007933/Mumbai%20Code%20
+ Retreat%20August%204th%202012
+URL:http://agileindia.pbworks.com/w/page/56007933/Mumbai%20Code%20Retr
+ eat%20August%204th%202012
+CONTACT:
+ORGANIZER;CN="Naresh Jain":http://coderetreat.org/profile/NareshJain
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Un8Y-iQjS*Vnp
+ wAtjtqrh8U10TPFHVLudSCP6XcDqQsey5J-AoLldK-qbsjvWwzzGGSKDVW-SAdGpTMCy0R
+ 6QkiwJEJPb*Fh/code_retreat.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Naresh J
+ ain":http://coderetreat.org/profile/NareshJain
+END:VEVENT
+END:VCALENDAR

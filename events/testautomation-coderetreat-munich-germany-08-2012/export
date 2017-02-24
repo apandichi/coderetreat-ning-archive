@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10602
+DTSTAMP:20170129T122847Z
+SUMMARY:Testautomation Coderetreat Munich, Germany 08/2012
+DESCRIPTION:A Testautomation Coderetreat is a Coderetreat format for t
+ estautomation experts and software developers. Participants will work 
+ in six session 45 minutes each on automating acceptance tests for an a
+ lready existing software system. We will use different approaches to a
+ utomate tests for a web application.\nThe programming language, the te
+ st framework, and maybe even the test driver will be decided upon by t
+ he different pairs in each session. \nWhy should I attend?\n\nYou wil
+ l get to know how web applications can be tested with an automation fr
+ amework\nYou will strengthen your techniques around test automation co
+ de\nYou will exchange your thoughts with other test automation develop
+ ers.\n\n\nFor more information visit http://coderetreat.org/events/tes
+ tautomation-coderetreat-munich-germany-08-2012
+DTSTART:20120811T090000Z
+DTEND:20120811T173000Z
+CATEGORIES:testautomation, coderetreat
+LOCATION:it-agile GmbH Munich
+WEBSITE:http://testauto-coderetreat-muc.eventbrite.com/
+URL:http://testauto-coderetreat-muc.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Markus Gärtner":http://coderetreat.org/profile/MarkusGa
+ ertner
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Markus G
+ ärtner":http://coderetreat.org/profile/MarkusGaertner
+END:VEVENT
+END:VCALENDAR

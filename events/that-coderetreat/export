@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:24599
+DTSTAMP:20170129T140509Z
+SUMMARY:That Coderetreat
+DESCRIPTION:That Conference will be having another Coderetreat this ye
+ ar on Sunday August 11 starting at 11 AM. This event is filling up ver
+ y fast.\nInfo at http://www.thatconference.com/That/CodeRetreat.\nReg
+ ister at http://thatconference2013.eventbrite.com/\n\nFor more inform
+ ation visit http://coderetreat.org/events/that-coderetreat
+DTSTART:20130811T110000Z
+DTEND:20130811T193000Z
+CATEGORIES:coderetreat
+LOCATION:That Conference - Kalahari Resort
+WEBSITE:https://maps.google.com/maps?ie=UTF-8&q=kalahari+wi+dells&fb=1
+ &gl=us&hq=kalahari+wi&hnear=0x8807493e07cb769d:0x4acd26cd280b3378,Wisc
+ onsin+Dells,+WI&cid=0,0,17786243198701188089&ei=tV7MUa6CMcelyAGy_4GQDA
+ &ved=0CLsBEPwSMAU
+URL:https://maps.google.com/maps?ie=UTF-8&q=kalahari+wi+dells&fb=1&gl=
+ us&hq=kalahari+wi&hnear=0x8807493e07cb769d:0x4acd26cd280b3378,Wisconsi
+ n+Dells,+WI&cid=0,0,17786243198701188089&ei=tV7MUa6CMcelyAGy_4GQDA&ved
+ =0CLsBEPwSMAU
+CONTACT:920.203.3739
+ORGANIZER;CN="Michael Wheeler":http://coderetreat.org/profile/MichaelW
+ heeler
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Wheeler":http://coderetreat.org/profile/MichaelWheeler
+END:VEVENT
+END:VCALENDAR

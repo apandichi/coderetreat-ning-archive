@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Michael Hunger&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1zx6q7ltwjag9&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:12:37Z</updated>
+                            <author>
+                    <name>Michael Hunger</name>
+                    <uri>http://coderetreat.org/profile/MichaelHunger</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/*chXTwByZo4xH4PpPttUowzhArjZE10tNY*ZDI*i7CW4zLdOYWyR3RONt2q40DS00U8Xb4QvV-D30LBOtx4AtNGaQwLKPEq6/509524788.jpeg?xgip=0%3A43%3A478%3A478%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1zx6q7ltwjag9&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day Code Retreat, Dresden, Germany</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4540"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:BlogPost:4540</id>
+                                        <updated>2011-12-04T00:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Michael Hunger</name>
+                            <uri>http://coderetreat.org/profile/MichaelHunger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Heute war ein toller Tag. Wir haben in der &lt;a href=&quot;http://die-buchbar.de&quot;&gt;Buchbar&lt;/a&gt; den Dresdner Part des &lt;a href=&quot;http://globalday.coderetreat.org/&quot;&gt;Globalen Code-Retreat Events&lt;/a&gt; (&lt;a href=&quot;http://twitter.com/#!/search/%23gdcr11%20%20OR%20gdcr%20OR%20%40coreyhaines%20OR%20%40coderetreat%20OR%20coderetreat%20&quot;&gt;#gdcr11&lt;/a&gt;) bestritten. Damit waren wir ein Teil von 2000 Leuten die heute daran gearbeitet haben, ihre Coding-Habits zu verbessern.&lt;/p&gt;
+&lt;p&gt;Es waren 8 Leute zugegen, so dass wir…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Heute war ein toller Tag. Wir haben in der &lt;a href=&quot;http://die-buchbar.de&quot;&gt;Buchbar&lt;/a&gt; den Dresdner Part des &lt;a href=&quot;http://globalday.coderetreat.org/&quot;&gt;Globalen Code-Retreat Events&lt;/a&gt; (&lt;a href=&quot;http://twitter.com/#!/search/%23gdcr11%20%20OR%20gdcr%20OR%20%40coreyhaines%20OR%20%40coderetreat%20OR%20coderetreat%20&quot;&gt;#gdcr11&lt;/a&gt;) bestritten. Damit waren wir ein Teil von 2000 Leuten die heute daran gearbeitet haben, ihre Coding-Habits zu verbessern.&lt;/p&gt;
+&lt;p&gt;Es waren 8 Leute zugegen, so dass wir in 4 Paaren die 6 Sessions des Code-Retreats abhalten konnten und am &lt;a href=&quot;http://jexp.de/blog/2010/03/game-of-life-javas-heirs-keynote/&quot;&gt;Game of Life&lt;/a&gt; unter verschiedenen Aspekten programmiert. Es gab viele spannende Diskussionen und ein paar Aha-Effekte. Jeder hat etwas gelernt und seine Programmier-Fähigkeiten etwas trainiert.&lt;/p&gt;
+&lt;p&gt;Es waren da: Roland Körner, Philipp Schreiber, Jens Nerche, Dominik Hirt, Albrecht , Bert Radke, Wolfram Wagner, Sebastian Schmeck. Vielen Dank.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://server.mesirii.de/~barcoders/wp-content/uploads/2011/12/coderetreat_1.jpg&quot;&gt;&lt;img src=&quot;http://server.mesirii.de/~barcoders/wp-content/uploads/2011/12/coderetreat_1-300x224.jpg&quot; alt=&quot;Ganz viel Life-coding in der buchbar&quot; title=&quot;Ganz viel Life-coding in der buchbar&quot; width=&quot;300&quot; height=&quot;224&quot; class=&quot;alignnone size-medium wp-image-10&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Es gab lecker Hot-Dogs von &lt;a href=&quot;http://www.riccs.de/&quot;&gt;Ricc&#039;s&lt;/a&gt; zum Mittag und Glühwein und Stolle am Nachmittag.&lt;/p&gt;
+&lt;p&gt;Nach 8 Stunden waren wir alle ziemlich geschafft, aber auch zufrieden.&lt;br/&gt; Gewinner des Tages waren Roland Körner mit einer Lizenz für &lt;a href=&quot;http://www.jetbrains.com/idea/&quot;&gt;Jetbrains IntelliJ IDEA&lt;/a&gt; und Philipp Schreiber für ein Buch von den &lt;a href=&quot;http://pragprog.com&quot;&gt;Pragmatic Programmers&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Es gab grosses Interesse, solche und ähnliche Events weiterhin in der &lt;a href=&quot;http://die-buchbar.de&quot;&gt;Buchbar&lt;/a&gt; abzuhalten und ausserdem ein paar regelmässige Treffen zu haben (Stammtisch, Frühstück).&lt;/p&gt;
+&lt;p&gt;Auch für die Idee des &quot;Co-Working Space&quot; in der Buchbar gab es Interesse.&lt;/p&gt;
+&lt;p&gt;All das haben wir kurzerhand unter den neuen Namen &quot;&lt;a href=&quot;http://barcoders.de&quot;&gt;Barcoders&lt;/a&gt;&quot; integriert, so dass es zusammen zu finden ist.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/OEK5yT5Auqw?rel=0&amp;amp;wmode=opaque&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; 
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/NG03T5QQ4ek?rel=0&amp;amp;wmode=opaque&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://server.mesirii.de/~barcoders/wp-content/uploads/2011/12/coderetreat_1.jpg" type="image/jpeg"/>                </entry>
+                    </feed>
+        

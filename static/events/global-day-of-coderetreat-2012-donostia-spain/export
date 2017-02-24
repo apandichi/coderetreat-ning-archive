@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15927
+DTSTAMP:20170129T134309Z
+SUMMARY:Global Day of Coderetreat 2012 - Donostia / Spain
+DESCRIPTION:We're doing GDCR!\nRegistration here\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2012
+ -donostia-spain
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:País Vasco
+WEBSITE:http://goo.gl/maps/DxQ48
+URL:http://goo.gl/maps/DxQ48
+CONTACT:
+ORGANIZER;CN=ggalmazor:http://coderetreat.org/profile/ggalmazor
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/04a4jBluy7H6U
+ ViFbmjpAiXrH8pCKJMFEsDmssiOyP6weRUunWTBfMH8dN5UdbcIFgW4Qc9PX8wGucnLNBz
+ pP5qp4iK8a*sE/katayunos_366.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=ggalmazor
+ :http://coderetreat.org/profile/ggalmazor
+END:VEVENT
+END:VCALENDAR

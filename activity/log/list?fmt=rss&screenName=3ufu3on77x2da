@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Denis Pankratov&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DenisPankratov</link>
+        <pubDate>Sun, 29 Jan 2017 09:50:06 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:50:06 +0000</lastBuildDate>
+        <image>
+            <title>Denis Pankratov&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DenisPankratov</link>
+            <url>http://api.ning.com:80/files/E0Eg3EAQ2u4z0o99gCXgK73s0neiHYS-bfkpZP5ti3pZ*3LYp*AYsil8KKuoLXQp6IJYbnsxkQBlup3pFoY2Si35uxq9MwCg/1232050605.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

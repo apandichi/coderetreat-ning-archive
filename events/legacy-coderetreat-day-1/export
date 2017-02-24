@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13674
+DTSTAMP:20170129T104254Z
+SUMMARY:Legacy Coderetreat, day #1
+DESCRIPTION:https://www.facebook.com/events/373997506013957\n\nFor mor
+ e information visit http://coderetreat.org/events/legacy-coderetreat-d
+ ay-1
+DTSTART:20121117T093000Z
+DTEND:20121117T180000Z
+CATEGORIES:legacy, coderetreat
+LOCATION:Emarsys Technologies Ltd
+WEBSITE:https://maps.google.com/maps?q=Budapest,+%C3%81rp%C3%A1d+%C3%B
+ At+51,+Hungary&hl=hu&ie=UTF8&sll=37.0625,-95.677068&sspn=54.753001,88.
+ 681641&t=h&hnear=1042+Budapest,+Budapest+IV.+ker%C3%BClete,+%C3%81rp%C
+ 3%A1d+%C3%BAt+51,+Magyarorsz%C3%A1g&z=16
+URL:https://maps.google.com/maps?q=Budapest,+%C3%81rp%C3%A1d+%C3%BAt+5
+ 1,+Hungary&hl=hu&ie=UTF8&sll=37.0625,-95.677068&sspn=54.753001,88.6816
+ 41&t=h&hnear=1042+Budapest,+Budapest+IV.+ker%C3%BClete,+%C3%81rp%C3%A1
+ d+%C3%BAt+51,+Magyarorsz%C3%A1g&z=16
+CONTACT:
+ORGANIZER;CN="Rafael Devill":http://coderetreat.org/profile/RafaelDevi
+ ll
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/TECstVSPpn7-4
+ YPNCjNrgLIQhnD2NUU*FNBk-v1GP1gIllNvugKRkVfJ*YS7ssfPtYE64WUkb0mHylVGxNd
+ 4sLYjkNsUfat9/crlogo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attila M
+ . Magyar":http://coderetreat.org/profile/AttilaMMagyar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Folti:htt
+ p://coderetreat.org/profile/Folti
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael D
+ evill":http://coderetreat.org/profile/RafaelDevill
+END:VEVENT
+END:VCALENDAR

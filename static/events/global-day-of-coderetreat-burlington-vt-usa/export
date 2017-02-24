@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41622
+DTSTAMP:20170129T102738Z
+SUMMARY:Global Day of Coderetreat 2014 - Burlington, VT, USA
+DESCRIPTION:coderetreat, gdcr, gdcr14\nmoved to \nVermont Department 
+ of Health\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-burlington-vt-usa
+DTSTART:20141115T100000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Vermont Department of Health
+WEBSITE:http://www.meetup.com/VTCode/events/215875532/
+URL:http://www.meetup.com/VTCode/events/215875532/
+CONTACT:415-385-6292
+ORGANIZER;CN="Alex Chaffee":http://coderetreat.org/profile/AlexChaffee
+ 162
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Cha
+ ffee":http://coderetreat.org/profile/AlexChaffee162
+END:VEVENT
+END:VCALENDAR

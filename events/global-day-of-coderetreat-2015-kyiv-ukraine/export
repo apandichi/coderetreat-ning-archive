@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46877
+DTSTAMP:20170129T102553Z
+SUMMARY:Global Day of Coderetreat 2015 - Kyiv, Ukraine
+DESCRIPTION:Global Day of Coderetreat - событие, проводи
+ мое по всему миру с целью объединить п�
+ �ограммистов, желающих попрактиковать
+ ся в передовых техниках разработки. В �
+ �рошлом году более 2000 разработчиков из
+  150 городов мира приняли участие.\nРеги�
+ �трация http://bit.ly/gdcr15kyiv\n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-coderetreat-2015-kyiv-ukra
+ ine
+DTSTART:20151114T103000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Itera Ukraine
+WEBSITE:http://www.itera.no/ua/
+URL:http://www.itera.no/ua/
+CONTACT:+380672491334
+ORGANIZER;CN="Akim Boyko":http://coderetreat.org/profile/AkimBoyko
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/1zNsEY*-CrIbE
+ *38M1eEelQ5dZiFMkxtoUF8FvNYiZFyks8TLazyjcMHN5ZJ8uBpzBUgPbYhyC25SYXLaz8
+ CtooIvNbMS5xS/coderetreatlogo300x300.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ilya Iva
+ nov":http://coderetreat.org/profile/IlyaIvanov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Akim Boy
+ ko":http://coderetreat.org/profile/AkimBoyko
+END:VEVENT
+END:VCALENDAR

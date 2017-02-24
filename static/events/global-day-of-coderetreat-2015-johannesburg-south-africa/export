@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47036
+DTSTAMP:20170129T121750Z
+SUMMARY:Global Day of Coderetreat 2015 - Johannesburg, South Africa
+DESCRIPTION:Come and join us on the Global Day of Code Retreat at the 
+ lovely Helderfontein Conference Center in Fourways. This CodeRetreat w
+ ill be a special event as it will be run side by side with a MobRetrea
+ t.\nIt doesn't matter if you are a novice or a pro, everyone is welcom
+ e here and there will be lots to learn and share. We are in the proces
+ s of setting up the Meetup event to RSVP for the event\nhttp://www.mee
+ tup.com/coderetreat/events/225900681/\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2015-johannesbur
+ g-south-africa
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Helderfontein Conference Center
+WEBSITE:https://www.google.co.za/maps/place/Helderfontein+Estate/@-25.
+ 9912868,28.0216165,16z/data=!4m7!1m4!3m3!1s0x1e9571291ff7ab9f:0x584db4
+ f27d272e3a!2sHelderfontein+Estate!3b1!3m1!1s0x1e9571291ff7ab9f:0x584db
+ 4f27d272e3a?hl=en
+URL:https://www.google.co.za/maps/place/Helderfontein+Estate/@-25.9912
+ 868,28.0216165,16z/data=!4m7!1m4!3m3!1s0x1e9571291ff7ab9f:0x584db4f27d
+ 272e3a!2sHelderfontein+Estate!3b1!3m1!1s0x1e9571291ff7ab9f:0x584db4f27
+ d272e3a?hl=en
+CONTACT:082 066 9503
+ORGANIZER;CN="Steven McDonald":http://coderetreat.org/profile/StevenMc
+ Donald
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven M
+ cDonald":http://coderetreat.org/profile/StevenMcDonald
+END:VEVENT
+END:VCALENDAR

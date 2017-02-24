@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Michał Gruca&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MichalGruca</link>
+        <pubDate>Sun, 29 Jan 2017 12:35:48 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:35:48 +0000</lastBuildDate>
+        <image>
+            <title>Michał Gruca&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MichalGruca</link>
+            <url>http://api.ning.com:80/files/IDSxpu6BW22HBpDzvsFv9jQfYNI6ijPSKFF4Ztd-cmIziSgy-L1e426QpHRZnxLOHpCtP3PP7agU3JomBwWhwwMSTKGzZuza/1150788071.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012067102ce3c0232be85b2aa</guid>
+               <title>Michał Gruca posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:50108?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalGruca?xg_source=activity">Michał Gruca</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:50108?xg_source=activity">Global Day of Coderetreat 2015 - Krakow, Poland</a> at Bora Komorowskiego 25C, Epam Office</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 5pm</div><div class="rich-excerpt">Global day of code retreat in KrakowRegistration at: <a href="https://events.epam.com/events/coderetreat-krakow" target="_blank">https://events.epam.com/events/coderetreat-krakow</a>Sponsored by Epam Systems<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:50108?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 09 Nov 2015 14:31:40 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012067102cea55dda46e315df</guid>
+               <title>Michał Gruca posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48178?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalGruca?xg_source=activity">Michał Gruca</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48178?xg_source=activity">Global Day of Coderetreat 2015 - Gdansk, Poland</a> at Olivia Business Center, Epam</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 6pm</div><div class="rich-excerpt">Global day of code retreat in GdanskRegistration at: <a href="https://events.epam.com/events/coderetreat-gdansk" target="_blank">https://events.epam.com/events/coderetreat-gdansk</a>Sponsored by Epam Systems<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48178?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 29 Oct 2015 10:03:43 +0000</pubDate>
+               </item>    </channel>
+</rss>

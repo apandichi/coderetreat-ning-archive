@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2n432jbybxzqg&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:02:45Z</updated>
+                            <author>
+                    <name>Paulo Benety Mendes de Lima</name>
+                    <uri>http://coderetreat.org/profile/PauloBenetyMendesdeLima</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/A1Qs8*3Ts4wyUvJIGG63iYyPlAnNb2nIoYAM8kKUxGIWpm0vQtWHNgw-yx7FDkN6B44E5ZF11ddfB38e8V9D86Nnc73uoWA4/1080516183.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2n432jbybxzqg&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Ryan Filho</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RyanFilho"/>
+                                        <id>tag:coderetreat.org,2015-10-23:6456126:User:47961</id>
+                                        <updated>2015-10-23T13:21:58.950Z</updated>
+                    
+                                            <author>
+                            <name>Paulo Benety Mendes de Lima</name>
+                            <uri>http://coderetreat.org/profile/PauloBenetyMendesdeLima</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ctVGzmtSoN-AjXKrMTPtnaCBGoekJB9fcap7je70Zi2Uj69C-x4FvrCGtoOg5TRTHlPTmf0V7IiwlUNW3U6FrNLFsy3wxffd/1149548893.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ryan Filho&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ctVGzmtSoN-AjXKrMTPtnaCBGoekJB9fcap7je70Zi2Uj69C-x4FvrCGtoOg5TRTHlPTmf0V7IiwlUNW3U6FrNLFsy3wxffd/1149548893.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ryan Filho&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Adolfo Neto</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AdolfoNeto"/>
+                                        <id>tag:coderetreat.org,2014-06-18:6456126:User:35193</id>
+                                        <updated>2014-06-18T15:28:36.801Z</updated>
+                    
+                                            <author>
+                            <name>Paulo Benety Mendes de Lima</name>
+                            <uri>http://coderetreat.org/profile/PauloBenetyMendesdeLima</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/oszb1oYwZClAyGcg7KCszZfS3rxyPsFpfZRGv0hbYL95DgBuRHwcHmm26ClSLDVCsv*XX4apBdEKRlKUnM8S*mH4PDPmDQQC/1069564785.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adolfo Neto&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/oszb1oYwZClAyGcg7KCszZfS3rxyPsFpfZRGv0hbYL95DgBuRHwcHmm26ClSLDVCsv*XX4apBdEKRlKUnM8S*mH4PDPmDQQC/1069564785.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adolfo Neto&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

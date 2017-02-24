@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Valdis Pornieks&#039;s Photos</title>
+        <description>Valdis Pornieks&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=12q1cfn0u3qjf</link>
+        <pubDate>Sun, 29 Jan 2017 10:43:33 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:43:33 +0000</lastBuildDate>
+        <image>
+            <title>Valdis Pornieks&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=12q1cfn0u3qjf</link>
+            <url>http://api.ning.com:80/files/gFqlcPNTAax9bcC6TG31BpN2fx-R8ZMsQjvwkNvYG54wO12ZMOqAM-ms7fmJey*5bDZBqdimMbwZW--k15K5uZBT5cGduJJ3/693833786.jpeg?xgip=1%3A14%3A299%3A299%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:8088</guid>             <title>1st coderetreat in Rīga, Latvia (Jan 21, 2012)</title>
+            <link>http://coderetreat.org/photo/coderetreat-r-ga-jan-21-2012-4</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/8k3nvqNdcTrwmRZww8UM-r-J3AbTLd4bGvnkOrOe6S-Mlgr7cbHo-N1sTagwpqDcqUlpL94DISVeWH3ZOMdd--5blUru3jhY/600_87368752.jpeg?width=600&amp;amp;height=450&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/8k3nvqNdcTrwmRZww8UM-r-J3AbTLd4bGvnkOrOe6S-Mlgr7cbHo-N1sTagwpqDcqUlpL94DISVeWH3ZOMdd--5blUru3jhY/600_87368752.jpeg?width=240&amp;height=180&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Valdis Pornieks </description>                <pubDate>Thu, 26 Jan 2012 11:52:17 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/8k3nvqNdcTrwmRZww8UM-r-J3AbTLd4bGvnkOrOe6S-Mlgr7cbHo-N1sTagwpqDcqUlpL94DISVeWH3ZOMdd--5blUru3jhY/600_87368752.jpeg?width=600&amp;height=450&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/8k3nvqNdcTrwmRZww8UM-r-J3AbTLd4bGvnkOrOe6S-Mlgr7cbHo-N1sTagwpqDcqUlpL94DISVeWH3ZOMdd--5blUru3jhY/600_87368752.jpeg?width=600&amp;height=450&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/8k3nvqNdcTrwmRZww8UM-r-J3AbTLd4bGvnkOrOe6S-Mlgr7cbHo-N1sTagwpqDcqUlpL94DISVeWH3ZOMdd--5blUru3jhY/600_87368752.jpeg?width=240&amp;height=180&amp;format=jpg" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Valdis Pornieks</media:credit>
+	                        <atom:author>
+                <atom:name>Valdis Pornieks</atom:name>
+                <atom:uri>http://coderetreat.org/profile/ValdisPornieks</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:7871</guid>             <title>1st coderetreat in Rīga, Latvia (Jan 21, 2012)</title>
+            <link>http://coderetreat.org/photo/coderetreat-r-ga-jan-21-2012-3</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/944p2GXGimNFMxjl85sPnJGdRhp6XAIFAyAE4y85Pa1R-iWTL-R1PGIMRGiUjqvSMS6frG4wP5eB8qvO85yntOJ8dmO0P2FR/600_87368482.jpeg?width=600&amp;amp;height=450&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/944p2GXGimNFMxjl85sPnJGdRhp6XAIFAyAE4y85Pa1R-iWTL-R1PGIMRGiUjqvSMS6frG4wP5eB8qvO85yntOJ8dmO0P2FR/600_87368482.jpeg?width=240&amp;height=180&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Valdis Pornieks </description>                <pubDate>Thu, 26 Jan 2012 11:52:14 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/944p2GXGimNFMxjl85sPnJGdRhp6XAIFAyAE4y85Pa1R-iWTL-R1PGIMRGiUjqvSMS6frG4wP5eB8qvO85yntOJ8dmO0P2FR/600_87368482.jpeg?width=600&amp;height=450&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/944p2GXGimNFMxjl85sPnJGdRhp6XAIFAyAE4y85Pa1R-iWTL-R1PGIMRGiUjqvSMS6frG4wP5eB8qvO85yntOJ8dmO0P2FR/600_87368482.jpeg?width=600&amp;height=450&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/944p2GXGimNFMxjl85sPnJGdRhp6XAIFAyAE4y85Pa1R-iWTL-R1PGIMRGiUjqvSMS6frG4wP5eB8qvO85yntOJ8dmO0P2FR/600_87368482.jpeg?width=240&amp;height=180&amp;format=jpg" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Valdis Pornieks</media:credit>
+	                        <atom:author>
+                <atom:name>Valdis Pornieks</atom:name>
+                <atom:uri>http://coderetreat.org/profile/ValdisPornieks</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:7766</guid>             <title>1st coderetreat in Rīga, Latvia (Jan 21, 2012)</title>
+            <link>http://coderetreat.org/photo/coderetreat-r-ga-jan-21-2012-2</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/eoKBVFxr84OiJbrdUV9Byb9li7KOMNHC*3E7fLaRsNXjfMPPHdcNayiv1RrtRnpUClE7xiU0f0P3JLx9cRhVnNDi1EDtvZOl/600_87368222.jpeg?width=600&amp;amp;height=450&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/eoKBVFxr84OiJbrdUV9Byb9li7KOMNHC*3E7fLaRsNXjfMPPHdcNayiv1RrtRnpUClE7xiU0f0P3JLx9cRhVnNDi1EDtvZOl/600_87368222.jpeg?width=240&amp;height=180&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Valdis Pornieks </description>                <pubDate>Thu, 26 Jan 2012 11:52:10 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/eoKBVFxr84OiJbrdUV9Byb9li7KOMNHC*3E7fLaRsNXjfMPPHdcNayiv1RrtRnpUClE7xiU0f0P3JLx9cRhVnNDi1EDtvZOl/600_87368222.jpeg?width=600&amp;height=450&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/eoKBVFxr84OiJbrdUV9Byb9li7KOMNHC*3E7fLaRsNXjfMPPHdcNayiv1RrtRnpUClE7xiU0f0P3JLx9cRhVnNDi1EDtvZOl/600_87368222.jpeg?width=600&amp;height=450&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/eoKBVFxr84OiJbrdUV9Byb9li7KOMNHC*3E7fLaRsNXjfMPPHdcNayiv1RrtRnpUClE7xiU0f0P3JLx9cRhVnNDi1EDtvZOl/600_87368222.jpeg?width=240&amp;height=180&amp;format=jpg" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Valdis Pornieks</media:credit>
+	                        <atom:author>
+                <atom:name>Valdis Pornieks</atom:name>
+                <atom:uri>http://coderetreat.org/profile/ValdisPornieks</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:8084</guid>             <title>Conway&#039;s Game of Life @ 1st coderetreat in Rīga, Latvia (Jan 21, 2012)</title>
+            <link>http://coderetreat.org/photo/coderetreat-r-ga-jan-21-2012-1</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/Yy88qMwG8hczha*ciwBM9OycE1UIo18IdIrcL67mGk9Zuu12HoN51pk4J96bgIQNEZoRYeARyeoc8H8EMtqe0*DaLqi22662/600_87368152.jpeg?width=450&amp;amp;height=600&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/Yy88qMwG8hczha*ciwBM9OycE1UIo18IdIrcL67mGk9Zuu12HoN51pk4J96bgIQNEZoRYeARyeoc8H8EMtqe0*DaLqi22662/600_87368152.jpeg?width=180&amp;height=240&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Valdis Pornieks </description>                <pubDate>Thu, 26 Jan 2012 11:52:07 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/Yy88qMwG8hczha*ciwBM9OycE1UIo18IdIrcL67mGk9Zuu12HoN51pk4J96bgIQNEZoRYeARyeoc8H8EMtqe0*DaLqi22662/600_87368152.jpeg?width=450&amp;height=600&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/Yy88qMwG8hczha*ciwBM9OycE1UIo18IdIrcL67mGk9Zuu12HoN51pk4J96bgIQNEZoRYeARyeoc8H8EMtqe0*DaLqi22662/600_87368152.jpeg?width=450&amp;height=600&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/Yy88qMwG8hczha*ciwBM9OycE1UIo18IdIrcL67mGk9Zuu12HoN51pk4J96bgIQNEZoRYeARyeoc8H8EMtqe0*DaLqi22662/600_87368152.jpeg?width=180&amp;height=240&amp;format=jpg" width="180" height="240" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Valdis Pornieks</media:credit>
+	                        <atom:author>
+                <atom:name>Valdis Pornieks</atom:name>
+                <atom:uri>http://coderetreat.org/profile/ValdisPornieks</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

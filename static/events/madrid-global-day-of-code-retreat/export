@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15875
+DTSTAMP:20170129T101314Z
+SUMMARY:Global Day of Coderetreat 2012 - Madrid / Spain
+DESCRIPTION:Madrid joins the Global Day of Code Retreat. Visit our blo
+ g at http://madridcoderetreat.wordpress.com/ and see what is going on
+ . See you there!\n\nFor more information visit http://coderetreat.org/
+ events/madrid-global-day-of-code-retreat
+DTSTART:20121208T090000Z
+DTEND:20121208T190000Z
+CATEGORIES:global, day, of, code, retreat
+LOCATION:Madrid
+WEBSITE:http://madridcoderetreat.wordpress.com/
+URL:http://madridcoderetreat.wordpress.com/
+CONTACT:
+ORGANIZER;CN="Madrid Code Retreat":http://coderetreat.org/profile/Madr
+ idCodeRetreat
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Madrid C
+ ode Retreat":http://coderetreat.org/profile/MadridCodeRetreat
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joaquín
+  Fernández Ruiz":http://coderetreat.org/profile/JoaquinFernandezRuiz
+END:VEVENT
+END:VCALENDAR

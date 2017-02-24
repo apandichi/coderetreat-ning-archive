@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39475
+DTSTAMP:20170129T120444Z
+SUMMARY:Global Day of Coderetreat 2014 - Wroclaw, Poland
+DESCRIPTION:Another edition of CodeRetreat in Wroclaw.\nRegister at: h
+ ttps://coderetreat-2014-wroclaw.eventbrite.com\n \nSame as last year 
+ - we will gather together to improve our TDD skills, and use different
+  platforms and lanugages. It doesn't matter what programming language 
+ is your favourite - come and enjoy!\nEvent will last for the whole Sat
+ urday 15th of November. Food will be provided!\n \nWhat you need to b
+ ring with you:\n- laptop (and a charger for it)\n- your favourtie prog
+ ramming language(s) + your favourite IDE(s)/editor(s) + unit testing l
+ ibrary(ies) installed\n \nWhat we provide:\n- venue: Infusion Office,
+  Heritage Gates Building, Rzeźnicza 28\n- food - lunch & selection of
+  snacks & beverages\n- great atmosphere\n \nEvent plan:\n \n9am - ev
+ ent starts\n9.00 - 9.30 - registration\n9.30 - 9.45 - a word about spo
+ nsor\n9.45 - 10.00 - introduction to TDD, Game of Life and CodeRetreat
+  idea. Introduction to first session\n10.00 - 10.45 - first session (c
+ oding)\n10.45 - 11.00 - retrospecion\n11.00 - 11.45 - second session (
+ coding)\n11.45 - 12.00 - retrospection\n12.00 - 12.45 - third session 
+ (coding)\n12.45 - 13.00 - retrospection\n \n13.00 - 14.00 - lunch\n 
+ \n14.00 - 14.45 - 4th session (coding)\n14.45 - 15.00 - retrospection\
+ n15.00 - 15.45 - 5th session (coding)\n15.45 - 16.00 - retrospection\n
+ 16.00 - 16.45 - 6th session (coding)\n16.45 - 17.00 - retrospection\n1
+ 7.00 - 17.45 - last session (coding)\n17.45 - 18.00 - retrospection\n1
+ 8.00 - 18.10 - event summary\n18.10 - ? after event talks, exchaning i
+ deas, heading to pub?\n\nFor more information visit http://coderetreat
+ .org/events/global-day-of-code-retreat-2014-in-wroclaw-poland
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Infusion Office
+WEBSITE:http://coderetreat-2014-wroclaw.eventbrite.com
+URL:http://coderetreat-2014-wroclaw.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Maciej Talaśka":http://coderetreat.org/profile/MaciejTa
+ laska
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Maciej T
+ alaśka":http://coderetreat.org/profile/MaciejTalaska
+END:VEVENT
+END:VCALENDAR

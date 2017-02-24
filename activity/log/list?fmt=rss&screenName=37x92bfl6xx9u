@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jay Bazuzi&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JayBazuzi</link>
+        <pubDate>Sun, 29 Jan 2017 12:04:56 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:04:56 +0000</lastBuildDate>
+        <image>
+            <title>Jay Bazuzi&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JayBazuzi</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010f6e4d9c404512cb9479348</guid>
+               <title>Jay Bazuzi updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:39557?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JayBazuzi?xg_source=activity">Jay Bazuzi</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:39557?xg_source=activity">Global Day of Coderetreat 2014 - Port Townsend, WA, USA</a> at The CoLab</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Held at The CoLab, a beautiful co-working space in Port Townsend. More details and RSVP at <a href="http://go.ptcolab.com/en/events/view/22195173/port-townsend-code-retreat">http://go.ptcolab.com/en/events/view/22195173/port-townsend-code-retreat</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:39557?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 14 Nov 2014 21:32:01 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010f6e4d9e06f0075eb1b5b83</guid>
+               <title>Jay Bazuzi posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:39557?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JayBazuzi?xg_source=activity">Jay Bazuzi</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:39557?xg_source=activity">Global Day of Coderetreat 2014 - Port Townsend, WA, USA</a> at The CoLab</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Held at The CoLab, a beautiful co-working space in Port Townsend. More details and RSVP at <a href="http://go.ptcolab.com/en/events/view/22195173/port-townsend-code-retreat">http://go.ptcolab.com/en/events/view/22195173/port-townsend-code-retreat</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:39557?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 15 Oct 2014 02:11:30 +0000</pubDate>
+               </item>    </channel>
+</rss>

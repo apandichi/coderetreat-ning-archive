@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Matthias Baumgart&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MatthiasBaumgart</link>
+        <pubDate>Sun, 29 Jan 2017 11:53:17 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:53:17 +0000</lastBuildDate>
+        <image>
+            <title>Matthias Baumgart&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MatthiasBaumgart</link>
+            <url>http://api.ning.com:80/files/S7hsBCvqKXEfvdPoZSf2JQif82O5yEtf986TMM4bckGx5QYn8KL*h1zNEecWRNniU8SWy8fme3ZYtzugffgbHvfmnhQWP8Ly/1042610077.jpeg?xgip=0%3A0%3A1178%3A1178%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fd1349f912d8cb0b4d74a7e</guid>
+               <title>Matthias Baumgart updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28099?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MatthiasBaumgart?xg_source=activity">Matthias Baumgart</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28099?xg_source=activity">Global Day of Coderetreat 2013 - Dresden, Germany</a> at Saxonia Systems AG</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt"><a href="http://www.saxsys.de" target="_blank">Saxonia Systems AG</a> is hosting the Global Day Coderetreat 2013. Registration Open: <a href="http://gdcr13-dresden.eventbrite.de" target="_blank">http://gdcr13-dresden.eventbrite.de</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28099?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 19 Nov 2013 09:48:50 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fd1349f72dd27a44aa962ed</guid>
+               <title>Matthias Baumgart posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28099?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MatthiasBaumgart?xg_source=activity">Matthias Baumgart</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28099?xg_source=activity">Global Day of Coderetreat 2013 - Dresden, Germany</a> at Saxonia Systems AG</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt"><a href="http://www.saxsys.de" target="_blank">Saxonia Systems AG</a> is hosting the Global Day Coderetreat 2013. Registration Open: <a href="http://gdcr13-dresden.eventbrite.de" target="_blank">http://gdcr13-dresden.eventbrite.de</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28099?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 25 Oct 2013 08:11:51 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38153
+DTSTAMP:20170129T120613Z
+SUMMARY:Global Day of Coderetreat (Legacy!) 2014 - Johannesburg, South
+  Africa
+DESCRIPTION:Driven Software will be hosting a Legacy Code Retreat as p
+ art of the Global Day of CodeRetreat 2014.\nFor further details and RS
+ VP, see http://www.meetup.com/coderetreat/events/216737482/\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2014-johannesburg-south-africa
+DTSTART:20141115T080000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Ambrosia Hall, Midrand
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Driven Software
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Janco Wo
+ lmarans":http://coderetreat.org/profile/JancoWolmarans
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39095
+DTSTAMP:20170129T111708Z
+SUMMARY:Global Day of Coderetreat 2014 - Vienna, Austria
+DESCRIPTION:Get your ticket here (it's free, we just ask for a deposit
+ , which will be returned immediately to those showing up) - http://gdc
+ r14-vienna.eventbrite.com\nKnow others, your friends, peers at work, w
+ ho might be interested too? Please, help spreading the word and tell t
+ hem about our event.\nLooking forward to seeing you at the GDCR14 Vien
+ na!\n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-coderetreat-2014-vienna-austria-1
+DTSTART:20141115T083000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Frequentis AG
+WEBSITE:https://www.google.at/maps/place/Innovationsstra%C3%9Fe+1,+110
+ 0+Wien/@48.1646861,16.3336662,17z/data=!3m1!4b1!4m2!3m1!1s0x476da85b32
+ ffa36b:0x9d918651e6aa971d?hl=de
+URL:https://www.google.at/maps/place/Innovationsstra%C3%9Fe+1,+1100+Wi
+ en/@48.1646861,16.3336662,17z/data=!3m1!4b1!4m2!3m1!1s0x476da85b32ffa3
+ 6b:0x9d918651e6aa971d?hl=de
+CONTACT:
+ORGANIZER;CN="Peter Kofler":http://coderetreat.org/profile/codecop
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+END:VEVENT
+END:VCALENDAR

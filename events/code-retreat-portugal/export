@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12692
+DTSTAMP:20170129T124459Z
+SUMMARY:Code Retreat Portugal
+DESCRIPTION:Just wanted to let know of the code retreat event happenin
+ g this Saturday in Oporto, Portugal.\nCheck the details at http://agil
+ ept.org/meetups/coderetreat2012\n\nFor more information visit http://c
+ oderetreat.org/events/code-retreat-portugal
+DTSTART:20120929T090000Z
+DTEND:20120929T190000Z
+CATEGORIES:code, retreat
+LOCATION:FEUP, Porto, Portugal
+WEBSITE:http://Check the details at http://agilept.org/meetups/coderet
+ reat2012
+URL:http://Check the details at http://agilept.org/meetups/coderetreat
+ 2012
+CONTACT:
+ORGANIZER;CN="José Mota":http://coderetreat.org/profile/JoseMota
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="José Mo
+ ta":http://coderetreat.org/profile/JoseMota
+END:VEVENT
+END:VCALENDAR

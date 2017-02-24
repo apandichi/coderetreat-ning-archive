@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45981
+DTSTAMP:20170129T121701Z
+SUMMARY:Global Day of Coderetreat 2015 - Jihlava, Czech Republic
+DESCRIPTION:registraci na akci najdete na http://www.eventbrite.com/e
+ /global-day-of-coderetreat-2015-jihlava-czech-republic-tickets-1857015
+ 9848\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-jihlava-czech-republic
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Vysoká škola polytechnická Jihlava
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:GDG Jihlava
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Milan Le
+ mpera":http://coderetreat.org/profile/MilanLempera
+END:VEVENT
+END:VCALENDAR

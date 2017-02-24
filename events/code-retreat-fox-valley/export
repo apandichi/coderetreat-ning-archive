@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9059
+DTSTAMP:20170129T122623Z
+SUMMARY:Code Retreat - Fox Valley
+DESCRIPTION:This is the first (of I hope many) code retreats that will
+  take place in Northeast Wisconsin. We are limiting this first event t
+ o 20 attendees.\nPlease use http://www.eventbrite.com/event/317123424
+ 7 to register for the event.\n\nFor more information visit http://cod
+ eretreat.org/events/code-retreat-fox-valley
+DTSTART:20120505T080000Z
+DTEND:20120505T170000Z
+CATEGORIES:"code retreat"
+LOCATION:Fox Valley Technical College
+WEBSITE:http://www.eventbrite.com/event/3171234247
+URL:http://www.eventbrite.com/event/3171234247
+CONTACT:920.203.3739
+ORGANIZER:Michael Wheeler & Sean Severson
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sean M. 
+ Severson":http://coderetreat.org/profile/SeanMSeverson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Wheeler":http://coderetreat.org/profile/MichaelWheeler
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40266
+DTSTAMP:20170129T120827Z
+SUMMARY:Global Day of Coderetreat 2014 - Bielefeld, Germany
+DESCRIPTION:Global Day in Bielefeld (Germany)\n\nFor more information 
+ visit http://coderetreat.org/events/gdcr14-bielefeld-germany
+DTSTART:20141115T083000Z
+DTEND:20141115T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Technologiezentrum
+WEBSITE:https://www.softwerkskammer.org/activities/mob-gdcr-14
+URL:https://www.softwerkskammer.org/activities/mob-gdcr-14
+CONTACT:
+ORGANIZER;CN="Jaroslaw Klose":http://coderetreat.org/profile/JaroslawK
+ lose
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Markus G
+ ärtner":http://coderetreat.org/profile/MarkusGaertner
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaroslaw
+  Klose":http://coderetreat.org/profile/JaroslawKlose
+END:VEVENT
+END:VCALENDAR

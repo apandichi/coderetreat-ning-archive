@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Coderetreat Belgium - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A9976&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:41:08Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A9976&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Agileminds is indeed no more,…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:11363"/>
+                                        <id>tag:coderetreat.org,2012-08-13:6456126:Comment:11363</id>
+                                        <updated>2012-08-13T10:06:49.257Z</updated>
+                    
+                                            <author>
+                            <name>Erik Talboom</name>
+                            <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Agileminds is indeed no more, but we continue under the new name of Co-Learning.&lt;/p&gt;
+&lt;p&gt;You can register here: &lt;a href=&quot;http://www.co-learning.be/Home/Agenda&quot; target=&quot;_blank&quot;&gt;http://www.co-learning.be/Home/Agenda&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Agileminds is indeed no more, but we continue under the new name of Co-Learning.&lt;/p&gt;
+&lt;p&gt;You can register here: &lt;a href=&quot;http://www.co-learning.be/Home/Agenda&quot; target=&quot;_blank&quot;&gt;http://www.co-learning.be/Home/Agenda&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>It seems that agileminds is n…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:11427"/>
+                                        <id>tag:coderetreat.org,2012-08-13:6456126:Comment:11427</id>
+                                        <updated>2012-08-13T09:30:33.165Z</updated>
+                    
+                                            <author>
+                            <name>Nassere Besseghir</name>
+                            <uri>http://coderetreat.org/profile/NassereBesseghir</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;It seems that agileminds is no longer active.&lt;/p&gt;
+&lt;p&gt;I would like to attend this coderetreat. Where do I subscribe?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;It seems that agileminds is no longer active.&lt;/p&gt;
+&lt;p&gt;I would like to attend this coderetreat. Where do I subscribe?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

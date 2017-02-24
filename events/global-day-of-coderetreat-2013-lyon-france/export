@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28862
+DTSTAMP:20170129T115938Z
+SUMMARY:Global Day of Coderetreat 2013 - Lyon, France
+DESCRIPTION:Please enter a description for the event\n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-coderetreat-2
+ 013-lyon-france
+DTSTART:20131214T083000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:La Cordée Charpennes
+WEBSITE:http://www.eventbrite.fr/e/global-day-of-code-retreat-lyon-dec
+ embre-tickets-9341032279
+URL:http://www.eventbrite.fr/e/global-day-of-code-retreat-lyon-decembr
+ e-tickets-9341032279
+CONTACT:
+ORGANIZER:Objet Direct, CARA, MUGLyon, Lyon.rb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Camille 
+ Appert":http://coderetreat.org/profile/CamilleAppert
+END:VEVENT
+END:VCALENDAR

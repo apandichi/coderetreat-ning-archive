@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Emma&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/Emma</link>
+        <pubDate>Sun, 29 Jan 2017 11:25:35 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:25:35 +0000</lastBuildDate>
+        <image>
+            <title>Emma&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/Emma</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009cc3e9ad850958b990df6a5</guid>
+               <title>Emma updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54415?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Emma?xg_source=activity">Emma</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54415?xg_source=activity">Global Day of Coderetreat 2016 - Valencia, Spain</a> at Flywire</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">YAGDCR in Valencia, Spain!We expect to spend a great day writing code, working in pairs and iterating on the same exercise over and over again. Come and play the game of life.RSVP will open shortly.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54415?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 07 Sep 2016 08:38:36 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cc3e9ac43310a9cab26866</guid>
+               <title>Emma posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47785?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Emma?xg_source=activity">Emma</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47785?xg_source=activity">Global Day of Coderetreat 2015 - Valencia, Spain</a> at Geekshubs</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8am to 7pm</div><div class="rich-excerpt">Global Day of Coderetreat 2015 - Valencia, Spain<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47785?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 22 Oct 2015 16:10:29 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cc3e9a621954d0e8e1ea1a</guid>
+               <title>Emma posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:40974?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Emma?xg_source=activity">Emma</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:40974?xg_source=activity">Global Day of Coderetreat 2014 - Valencia, Spain</a> at Valencia</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 9am to 6:30pm</div><div class="rich-excerpt">Global Day of Coderetreat 2014 - Valencia, Spain<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:40974?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 05 Nov 2014 12:52:11 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cc3e9abcf9b86924161639</guid>
+               <title>Emma posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:29123?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Emma?xg_source=activity">Emma</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:29123?xg_source=activity">Global Day of Coderetreat 2013 - Valencia, Spain</a> at Valencia</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">Global Day of Coderetreat 2013 - Valencia, Spain<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:29123?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 09 Nov 2013 11:33:49 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cc3e9a7d013b8d571681d7</guid>
+               <title>Emma joined corey haines&#039;s group</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Emma?xg_source=activity">Emma</a> joined <a href="http://coderetreat.org/profile/128952ghvkcvj?xg_source=activity">corey haines's</a> group</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity" ><img src="http://api.ning.com/files/7uH9-Cl0KpQdomnxYhydiaUG3pnz60-2Iqsij1QBtTPy5UQPglfaawIcNQFmNNYCasz95-iLFAVkNzP76U8jtNh49jh5onjp/engineermd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">Organizers/Hosts</a></h3><div class="rich-detail"><div class="rich-excerpt">This is the group for coderetreat organizers. There are a lot of people who have organized and can give good advice.Don't worry, it is easy and fun!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 13 Oct 2012 10:18:23 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cc3e9a2b6fed6e21d1a658</guid>
+               <title>Emma and Fernando Pérez are now friends</title>
+               <link>http://coderetreat.org/profile/Emma?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Emma?xg_source=activity">Emma</a> and <a href="http://coderetreat.org/profile/FernandoPerez?xg_source=activity">Fernando P&eacute;rez</a> are now friends</span><br/><div class="rich"><div class="rich-thumb"><a  href="/profile/FernandoPerez?xg_source=activity" ><img src="http://api.ning.com/files/LxsVWa6ORhO61ho*miwcFwLo3h8rjc-bfQy45nmeFvpqpEwr4WVFT3qRFuc4KVtSTPln31Z2KickLdoTtgZQ1BW65HbnoBZa/511730900.jpeg?xgip=3%3A13%3A183%3A183%3B%3B&amp;width=32&amp;height=32&amp;crop=1%3A1&amp;format=jpg" width="32" height="32" alt="Thumbnail" style="max-width:32px;max-height:32px;"/></a></div></div>]]></description>
+               <pubDate>Sat, 06 Oct 2012 13:38:45 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cc3e9ae7e1b02ae99e21fc</guid>
+               <title>Emma posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:13063?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Emma?xg_source=activity">Emma</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:13063?xg_source=activity">Global Day of CodeRetreat Valencia Spain</a> at peerTransfer Offices</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 all day</div><div class="rich-excerpt">Global Day of CodeRetreat held in Valencia, Spain<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:13063?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 02 Oct 2012 16:45:26 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Marton Meszaros&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1vj19pkcvzni4&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:10:47Z</updated>
+                            <author>
+                    <name>Marton Meszaros</name>
+                    <uri>http://coderetreat.org/profile/MartonMeszaros</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/RwPSLWrCdcTR7Zes95wrEY1-v3RXx6ifWQyRddDuuDwh5tlMt8ZPqpJKgx0obMyx33hMzsWsq33oXRujkLHxU7rn3js2tknf/677807037.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1vj19pkcvzni4&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Coderetreat London 29.09.12</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:13115"/>
+                                        <id>tag:coderetreat.org,2012-09-30:6456126:BlogPost:13115</id>
+                                        <updated>2012-09-30T22:05:10.000Z</updated>
+                    
+                                            <author>
+                            <name>Marton Meszaros</name>
+                            <uri>http://coderetreat.org/profile/MartonMeszaros</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/qBvMBAOQD5U?wmode=opaque&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/qBvMBAOQD5U?wmode=opaque&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Global Day of Codereterat in Budapest</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5321"/>
+                                        <id>tag:coderetreat.org,2011-12-07:6456126:BlogPost:5321</id>
+                                        <updated>2011-12-07T15:16:20.000Z</updated>
+                    
+                                            <author>
+                            <name>Marton Meszaros</name>
+                            <uri>http://coderetreat.org/profile/MartonMeszaros</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I&#039;ve posted notes from the global event in Hungary to the following page:&lt;br/&gt;&lt;a href=&quot;http://alternateillusion.com/global-day-of-coderetreat-budapest&quot;&gt;http://alternateillusion.com/global-day-of-coderetreat-budapest&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;I&#039;ve posted notes from the global event in Hungary to the following page:&lt;br/&gt;&lt;a href=&quot;http://alternateillusion.com/global-day-of-coderetreat-budapest&quot;&gt;http://alternateillusion.com/global-day-of-coderetreat-budapest&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

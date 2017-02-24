@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Sven Bunge&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SvenBunge</link>
+        <pubDate>Sun, 29 Jan 2017 11:49:31 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:49:31 +0000</lastBuildDate>
+        <image>
+            <title>Sven Bunge&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SvenBunge</link>
+            <url>http://api.ning.com:80/files/E0Eg3EAQ2u5-NemnxzAAohlwU9yTvYBYhSfxhDix-BNJhopLXisHH*hhRIbXm*M-uwWgeQ64Vr8xabRwknb27mOaNj1nGVAK/1232041863.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012a7f4822dee1c88e32b1116</guid>
+               <title>Sven Bunge posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:56214?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SvenBunge?xg_source=activity">Sven Bunge</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56214?xg_source=activity">Global Day of Coderetreat 2016 - Hamburg, Germany</a> at Holisticon AG</h3><div class="rich-detail"><div class="rich-date">October 12, 2016 from 6pm to 7pm</div><div class="rich-excerpt">To RSVP please visit our meetup page: <a href="https://www.meetup.com/de-DE/sokahh/events/233037628/">https://www.meetup.com/de-DE/sokahh/events/233037628/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:56214?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 12 Oct 2016 15:11:05 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012ade89348951989e39fee44</guid>
+               <title>Marika Lynch left a comment for Sven Bunge</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:54639?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarikaLynch?xg_source=activity">Marika Lynch</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:54639?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/SvenBunge?xg_source=activity">Sven Bunge</a></span><br/>]]></description>
+               <pubDate>Thu, 08 Sep 2016 07:00:19 +0000</pubDate>
+               </item>    </channel>
+</rss>

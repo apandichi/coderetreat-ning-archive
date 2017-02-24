@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38173
+DTSTAMP:20170129T102717Z
+SUMMARY:Global Day of Coderetreat 2014 - Vadodara, India
+DESCRIPTION:Java User Group Vadodara,\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2014-2
+DTSTART:20141115T100000Z
+DTEND:20141115T153000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:\"Zen class of JAVA\"
+WEBSITE:https://www.google.co.in/maps/place/Signature+Plaza,+Sardar+Na
+ gar,+Nizampura,+Vadodara,+Gujarat+390024/@22.3315554,73.180619,18z/dat
+ a=!3m1!4b1!4m2!3m1!1s0x395fc8cd15e23539:0x5603c08697d8b994
+URL:https://www.google.co.in/maps/place/Signature+Plaza,+Sardar+Nagar,
+ +Nizampura,+Vadodara,+Gujarat+390024/@22.3315554,73.180619,18z/data=!3
+ m1!4b1!4m2!3m1!1s0x395fc8cd15e23539:0x5603c08697d8b994
+CONTACT:+919426054269
+ORGANIZER;CN="Pravin Jain":http://coderetreat.org/profile/PravinJain
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Santosh 
+ Zaveri":http://coderetreat.org/profile/SantoshZaveri101
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pravin J
+ ain":http://coderetreat.org/profile/PravinJain
+END:VEVENT
+END:VCALENDAR

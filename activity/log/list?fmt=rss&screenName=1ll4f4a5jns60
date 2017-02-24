@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Simon Joseph Gould&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SimonJosephGould</link>
+        <pubDate>Sun, 29 Jan 2017 09:57:41 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:57:41 +0000</lastBuildDate>
+        <image>
+            <title>Simon Joseph Gould&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SimonJosephGould</link>
+            <url>http://api.ning.com:80/files/sg23vG08fM3cJTYYXkZbwDiLZPfgri-xUe8CtIK5Iu26sgUxBsjp*k*p1Fn71QDTeuKKxiK2ObTio4S593PmE0g9djABDdNe/1146839789.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011fc41b52cb6e6f4027f3670</guid>
+               <title>Simon Joseph Gould posted a discussion</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:47194?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SimonJosephGould?xg_source=activity">Simon Joseph Gould</a> posted a discussion</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:47194?xg_source=activity">Looking for a Code Retreat facilitator in South Wales</a></h3><div class="rich-detail"><div class="rich-excerpt">Hi All,I am looking to set up semi regular code retreats in South Wales, I am keen to attend one on November the 14th, but there were none on in the area. So I decided to try and set one up.I have a venue based in Swansea and a sponsor, but I lack any experience in running these events so we would really need a facilitator to show us the ropes.If anyone with experience running a code retreat is available to come to  Swansea, South Wales, please get in touch and let me know your requirements.ThanksSimon Gould<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:47194?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 13 Oct 2015 11:56:54 +0000</pubDate>
+               </item>    </channel>
+</rss>

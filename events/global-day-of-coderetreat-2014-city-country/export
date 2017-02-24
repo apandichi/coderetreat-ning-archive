@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38214
+DTSTAMP:20170129T122227Z
+SUMMARY:Global Day of Coderetreat 2014 - Philadelphia, PA, USA
+DESCRIPTION:Click to RSVP\n\nFor more information visit http://coderet
+ reat.org/events/global-day-of-coderetreat-2014-city-country
+DTSTART:20141115T093000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Philadelphia
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Jearvon Dharrie":http://coderetreat.org/profile/JearvonD
+ harrie
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jearvon 
+ Dharrie":http://coderetreat.org/profile/JearvonDharrie
+END:VEVENT
+END:VCALENDAR

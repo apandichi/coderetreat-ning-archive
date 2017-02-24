@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:14787
+DTSTAMP:20170129T134600Z
+SUMMARY:Global Day of Coderetreat 2012 - Sydney / Australia
+DESCRIPTION:Global Day of Coderetreat is happening in Sydney, please c
+ ome along armed with your laptop, your enthusiasm, your passion for pr
+ ogramming, and your desire to learn!\nPlease register your interest to
+  participate at http://gdcr-sydney-2012.eventbrite.com.au/\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-coderet
+ reat-2012-sydney-australia
+DTSTART:20121208T083000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat
+LOCATION:ThoughtWorks office
+WEBSITE:https://maps.google.com/maps?q=51+pitt+st,+sydney&hl=en&sll=37
+ .0625,-95.677068&sspn=33.435463,82.265625&hnear=51+Pitt+St,+Circular+Q
+ uay,+Sydney+New+South+Wales+2000,+Australia&t=m&z=16
+URL:https://maps.google.com/maps?q=51+pitt+st,+sydney&hl=en&sll=37.062
+ 5,-95.677068&sspn=33.435463,82.265625&hnear=51+Pitt+St,+Circular+Quay,
+ +Sydney+New+South+Wales+2000,+Australia&t=m&z=16
+CONTACT:
+ORGANIZER;CN="Silvio Montanari":http://coderetreat.org/profile/SilvioM
+ ontanari
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Silvio M
+ ontanari":http://coderetreat.org/profile/SilvioMontanari
+END:VEVENT
+END:VCALENDAR

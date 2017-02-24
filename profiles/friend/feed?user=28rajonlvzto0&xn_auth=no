@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=28rajonlvzto0&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:36:54Z</updated>
+                            <author>
+                    <name>Jun-Kai Teoh</name>
+                    <uri>http://coderetreat.org/profile/JunKaiTeoh</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/Y8Xf2kBXWFmiePGUaK9p9jZO8qdb8naRFSsv*KvnwtQi0joL0yCKq9yGUzhrrvfnIM*JlmlKXoQIlPwcQT062i4gbylhFFs-/1150591354.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=28rajonlvzto0&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Junyu Teoh</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JunyuTeoh"/>
+                                        <id>tag:coderetreat.org,2015-10-30:6456126:User:48511</id>
+                                        <updated>2015-10-30T04:43:05.910Z</updated>
+                    
+                                            <author>
+                            <name>Jun-Kai Teoh</name>
+                            <uri>http://coderetreat.org/profile/JunKaiTeoh</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TBvd9QqIhszRKIZA-y4f6bxsjh1vxmZuzUWbbrk4FMa4qXfXGKmMFU7vO-p0u*6izKF4kMfAVGJe2OJnmZM6qG7Pd*DJ37Oh/1151299547.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Junyu Teoh&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TBvd9QqIhszRKIZA-y4f6bxsjh1vxmZuzUWbbrk4FMa4qXfXGKmMFU7vO-p0u*6izKF4kMfAVGJe2OJnmZM6qG7Pd*DJ37Oh/1151299547.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Junyu Teoh&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

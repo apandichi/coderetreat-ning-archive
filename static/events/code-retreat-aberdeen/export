@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9069
+DTSTAMP:20170129T124347Z
+SUMMARY:Code Retreat Aberdeen
+DESCRIPTION:On Saturday 21st April 2012 we host a code retreat in Aber
+ deen, Scotland at the University of Aberdeen.\n\nFor more information 
+ visit http://coderetreat.org/events/code-retreat-aberdeen
+DTSTART:20120421T000000Z
+DTEND:20120421T235900Z
+CATEGORIES:code, retreat
+LOCATION:University of Aberdeen
+WEBSITE:http://refreshaberdeen.com/coderetreat/
+URL:http://refreshaberdeen.com/coderetreat/
+CONTACT:
+ORGANIZER;CN="Steven Milne":http://coderetreat.org/profile/StevenMilne
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ypgfNDqrJUFfe
+ KSEtJT3ufVsa33hJ8q8JEhrCFb10R762MMMBka1thYYHcJcHzmgkC3Zu9oG9mDExupdcqN
+ FUI4PCTNCxbD8/glider.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven M
+ ilne":http://coderetreat.org/profile/StevenMilne
+END:VEVENT
+END:VCALENDAR

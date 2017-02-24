@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45768
+DTSTAMP:20170129T121507Z
+SUMMARY:Global Day of Coderetreat 2015 - Des Moines, IA, USA
+DESCRIPTION:Global Day of Code Retreat at Gravitate in Des Moines comp
+ liments of Pillar Technology.\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2015-des-moines-ia-usa
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Gravitate Bullpen (3rd Floor)
+WEBSITE:http://bit.ly/1XT0hSe
+URL:http://bit.ly/1XT0hSe
+CONTACT:
+ORGANIZER;CN="Kevin Knowles":http://coderetreat.org/profile/KevinKnowl
+ es
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tracy Le
+ ffler":http://coderetreat.org/profile/TracyLeffler
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Kn
+ owles":http://coderetreat.org/profile/KevinKnowles
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chad Bre
+ wbaker":http://coderetreat.org/profile/ChadBrewbaker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zach Van
+ Meter":http://coderetreat.org/profile/ZachVanMeter
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Julie Ke
+ nt":http://coderetreat.org/profile/JulieKent
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gianfran
+ co Berardi":http://coderetreat.org/profile/GianfrancoBerardi
+END:VEVENT
+END:VCALENDAR

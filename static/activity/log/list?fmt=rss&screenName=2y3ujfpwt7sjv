@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>David Edwards&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DavidEdwards</link>
+        <pubDate>Sun, 29 Jan 2017 11:53:55 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:53:55 +0000</lastBuildDate>
+        <image>
+            <title>David Edwards&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DavidEdwards</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fd4e15ca915ee92be7293bb</guid>
+               <title>David Edwards posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28376?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidEdwards?xg_source=activity">David Edwards</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28376?xg_source=activity">Global Day of Coderetreat 2013 - Knoxville TN, USA</a> at TBD - Depending on RSVPs</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">Coderetreat - Knoxville TN<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28376?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 30 Oct 2013 01:04:12 +0000</pubDate>
+               </item>    </channel>
+</rss>

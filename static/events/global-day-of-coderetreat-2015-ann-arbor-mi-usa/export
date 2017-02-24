@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45874
+DTSTAMP:20170129T103356Z
+SUMMARY:Global Day of Coderetreat 2015 - Ann Arbor, MI, USA
+DESCRIPTION:Developers at every level gather monthly in Ann Arbor MI t
+ o learn together, but in November, we gather on a GLOBAL scale. Join C
+ ode Craftsman Saturdays and Pillar Technology for the annual GLOBAL DA
+ Y of CODE RETREAT.\nPlease register using the link above. Breakfast an
+ d lunch provided.\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-coderetreat-2015-ann-arbor-mi-usa
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:The Forge, 7th floor
+WEBSITE:http://codecraftsmansaturdays.blogspot.com/p/schedule.html#nov
+ ember
+URL:http://codecraftsmansaturdays.blogspot.com/p/schedule.html#novembe
+ r
+CONTACT:
+ORGANIZER;CN="Bob Allen @CuriousAgilist":http://coderetreat.org/profil
+ e/BobAllenCuriousAgilist
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bob Alle
+ n @CuriousAgilist":http://coderetreat.org/profile/BobAllenCuriousAgili
+ st
+END:VEVENT
+END:VCALENDAR

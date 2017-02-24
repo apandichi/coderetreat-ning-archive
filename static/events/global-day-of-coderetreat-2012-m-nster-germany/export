@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13722
+DTSTAMP:20170129T114552Z
+SUMMARY:Global Day of Coderetreat 2012 - Münster / Germany
+DESCRIPTION:Münster is going to have a coderetreat on the Global Day
+  of Coderetreat 2012. Registration will be done via Eventbrite: tba.\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-2012-m-nster-germany
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Leo 18
+WEBSITE:http://goo.gl/maps/GffWL
+URL:http://goo.gl/maps/GffWL
+CONTACT:
+ORGANIZER:Andreas Simon and Jan Ernsting
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/oPiLRtYZll9Hd
+ 0K4*JybtIHAp20FMbnEDRbfe4ypCkn3Qp7cZLIDFD65BcKgl-WLf6OvrlemZBYi-wJtovD
+ jtcdv9TlB9oBz/coderetreatmslogo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Erns
+ ting":http://coderetreat.org/profile/JanErnsting
+END:VEVENT
+END:VCALENDAR

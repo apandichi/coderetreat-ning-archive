@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38331
+DTSTAMP:20170129T120746Z
+SUMMARY:Global Day of Coderetreat 2014 - Lehi, UT, USA
+DESCRIPTION:Hosted by the Pluralsight dev team at the new Pluralsight 
+ office at Thanksgiving Point.\nLight breakfast provided by Pluralsight
+  Lunch provided by Pluralsight  Facilitor: Bressain Dinkelman\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2014-lehi-utah-us
+DTSTART:20141115T083000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Pluralsight - Suite 405
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="David Adsit":http://coderetreat.org/profile/DavidAdsit
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/JnNsxgX9lA3pi
+ 44*jBW0URnyz5z-nnQd8Aa0r3EwzJvuCQLLTF4IbTojsRP0VUfeiJIErY9JVNPu7H6mVsR
+ UYs5e2c02yoIr/4525067_300.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Charles 
+ Haden":http://coderetreat.org/profile/CharlesHaden
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Ed
+ wards":http://coderetreat.org/profile/KevinEdwards
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Misty Fo
+ wler":http://coderetreat.org/profile/MistyFowler
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rob Mart
+ in":http://coderetreat.org/profile/RobMartin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Angel Es
+ cobedo":http://coderetreat.org/profile/AngelEscobedo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Peters":http://coderetreat.org/profile/MichaelPeters
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Charles 
+ Wood":http://coderetreat.org/profile/CharlesWood
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Landry":http://coderetreat.org/profile/JonathanLandry
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Travis W
+ atson":http://coderetreat.org/profile/TravisWatson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marcos M
+ inond":http://coderetreat.org/profile/MarcosMinond
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Johnny T
+ ":http://coderetreat.org/profile/JohnnyT
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="William 
+ Munn":http://coderetreat.org/profile/WilliamMunn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stephen 
+ Shaw":http://coderetreat.org/profile/StephenShaw
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bressain
+  Dinkelman":http://coderetreat.org/profile/BressainDinkelman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kay Joha
+ nsen":http://coderetreat.org/profile/KayJohansen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ad
+ sit":http://coderetreat.org/profile/DavidAdsit
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Michael
+  Anderson":http://coderetreat.org/profile/MichaelAnderson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Chenna 
+ Krishna Sagili":http://coderetreat.org/profile/0x3mww66zwiku
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Ryan He
+ ss":http://coderetreat.org/profile/RyanHess
+END:VEVENT
+END:VCALENDAR

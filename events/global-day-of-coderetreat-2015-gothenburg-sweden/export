@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45904
+DTSTAMP:20170129T121640Z
+SUMMARY:Global Day of Coderetreat 2015 - Gothenburg, Sweden
+DESCRIPTION:Meltwater will host and sponsor the Global Day of Coderet
+ reat 2015 in Gothenburg, Sweden at our office on Kungsportsavenyen 33\
+ nFaciltator: Fredrik Wendt (https://twitter.com/wendtse)\nRegister/RSV
+ P here:\nhttp://www.eventbrite.com/e/global-day-of-coderetreat-gothenb
+ urg-sweden-tickets-18257086437\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2015-gothenburg-sweden
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Gothenburg
+WEBSITE:https://www.google.se/maps/place/Meltwater+Search+Center+of+Ex
+ cellence+AB/@57.7087772,11.9663706,14z/data=!3m1!4b1
+URL:https://www.google.se/maps/place/Meltwater+Search+Center+of+Excell
+ ence+AB/@57.7087772,11.9663706,14z/data=!3m1!4b1
+CONTACT:
+ORGANIZER;CN="Per Bergland":http://coderetreat.org/profile/PerBergland
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Per Berg
+ land":http://coderetreat.org/profile/PerBergland
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Giorgio Sironi&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3gs1c994jc1b0&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:59Z</updated>
+                            <author>
+                    <name>Giorgio Sironi</name>
+                    <uri>http://coderetreat.org/profile/GiorgioSironi84</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/KJRlO18Smvd0o0CGaEDNFMAmvENUQ94Q6dhtGLovUgdtGN7SQ4UqjFiK7w8CgfKstRGSVKEyo6d6Z6EpDrb2io8FI2mNi1w*/933446550.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3gs1c994jc1b0&amp;xn_auth=no</id>
+                            <entry>
+                    <title>What I learned in the Global Day of Code Retreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4756"/>
+                                        <id>tag:coderetreat.org,2011-12-06:6456126:BlogPost:4756</id>
+                                        <updated>2011-12-06T09:47:47.000Z</updated>
+                    
+                                            <author>
+                            <name>Giorgio Sironi</name>
+                            <uri>http://coderetreat.org/profile/GiorgioSironi84</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I have authored a post on my experience in the Global Day of Code Retreat 2011. I cannot repost it here, but &lt;a href=&quot;http://css.dzone.com/articles/what-i-learned-global-day-code&quot; target=&quot;_blank&quot;&gt;it is available on DZone&lt;/a&gt;.&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;I have authored a post on my experience in the Global Day of Code Retreat 2011. I cannot repost it here, but &lt;a href=&quot;http://css.dzone.com/articles/what-i-learned-global-day-code&quot; target=&quot;_blank&quot;&gt;it is available on DZone&lt;/a&gt;.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

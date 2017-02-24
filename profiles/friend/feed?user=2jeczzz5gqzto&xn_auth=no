@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2jeczzz5gqzto&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:50:55Z</updated>
+                            <author>
+                    <name>Bill Tucker</name>
+                    <uri>http://coderetreat.org/profile/BillTucker</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/2vzV35vB8k4eNjdq3piBKuwQea0Tv16fSDVZ1SB8LqpxSjcyimodtuo0YyDNYv865XjHgQ15bTQtFQLr3*fr5AygmDbYNQYt/575066687.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2jeczzz5gqzto&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Pandichi Alin-Ionut</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PandichiAlinIonut"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:User:39929</id>
+                                        <updated>2014-10-21T09:55:00.237Z</updated>
+                    
+                                            <author>
+                            <name>Bill Tucker</name>
+                            <uri>http://coderetreat.org/profile/BillTucker</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jason Hine</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JasonHine"/>
+                                        <id>tag:coderetreat.org,2013-11-22:6456126:User:30142</id>
+                                        <updated>2013-11-22T20:12:05.639Z</updated>
+                    
+                                            <author>
+                            <name>Bill Tucker</name>
+                            <uri>http://coderetreat.org/profile/BillTucker</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/kAYh-M0ij9PSIan9ULn4YGgCXjzigeBWiVrXQv01DT4KN-hZKiYIUEYWdilEsxuUPYYT9sN79dzxg9NKZ8WBsNsgT8OAfGDZ/1046189801.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jason Hine&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/kAYh-M0ij9PSIan9ULn4YGgCXjzigeBWiVrXQv01DT4KN-hZKiYIUEYWdilEsxuUPYYT9sN79dzxg9NKZ8WBsNsgT8OAfGDZ/1046189801.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jason Hine&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

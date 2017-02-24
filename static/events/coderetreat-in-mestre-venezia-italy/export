@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54005
+DTSTAMP:20170129T125701Z
+SUMMARY:Coderetreat in Mestre, Venezia, Italy
+DESCRIPTION:Interlogica S.r.l. sponsors a public, international Codere
+ treat in the Venezia area.Get your ticket here (it's free, we just as
+ k for a deposit, which will be returned immediately to those showing u
+ p)Know others, your friends, peers at work, who might be interested to
+ o? Please, help spreading the word and tell them about our event.\nLoo
+ king forward to seeing you in Mestre, Venezia!\n\nFor more information
+  visit http://coderetreat.org/events/coderetreat-in-mestre-venezia-ita
+ ly
+DTSTART:20160521T090000Z
+DTEND:20160521T180000Z
+CATEGORIES:coderetreat
+LOCATION:COWO Mestre/Open Venezia
+WEBSITE:https://www.eventbrite.it/e/biglietti-may-the-code-be-your-str
+ ength-24461664497
+URL:https://www.eventbrite.it/e/biglietti-may-the-code-be-your-strengt
+ h-24461664497
+CONTACT:
+ORGANIZER;CN="Peter Kofler":http://coderetreat.org/profile/codecop
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+END:VEVENT
+END:VCALENDAR

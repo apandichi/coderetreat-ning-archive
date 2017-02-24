@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:20590
+DTSTAMP:20170129T105041Z
+SUMMARY:Code Retreat Elgin
+DESCRIPTION:Join us for one of the Elgin Technology Center's regular S
+ aturday hackathons.\nNote: while the event is free, lunch is not provi
+ ded.\n\nFor more information visit http://coderetreat.org/events/code-
+ retreat-elgin
+DTSTART:20130302T090000Z
+DTEND:20130302T170000Z
+CATEGORIES:code, retreat
+LOCATION:Elgin Technology Center
+WEBSITE:http://code-retreat-elgin-2013-03.eventbrite.com/
+URL:http://code-retreat-elgin-2013-03.eventbrite.com/
+CONTACT:2243660514
+ORGANIZER;CN="Justin Love":http://coderetreat.org/profile/JustinLove
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/iJ3pY5RsFscP7
+ tTPITo48QtIV-wULriSIwHLn*UIHPDAD-lVUl57XGr5HHFZ0rMQANty1HIAHCBDmKp7hjo
+ JrMJvKvaT4yJt/6145748.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Justin L
+ ove":http://coderetreat.org/profile/JustinLove
+END:VEVENT
+END:VCALENDAR

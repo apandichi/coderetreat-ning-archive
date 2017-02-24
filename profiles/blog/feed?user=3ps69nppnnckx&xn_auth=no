@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Mike Long&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3ps69nppnnckx&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:22:37Z</updated>
+                            <author>
+                    <name>Mike Long</name>
+                    <uri>http://coderetreat.org/profile/MikeLong</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3ps69nppnnckx&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Coderetreat - Beijing!</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5622"/>
+                                        <id>tag:coderetreat.org,2011-12-09:6456126:BlogPost:5622</id>
+                                        <updated>2011-12-09T00:34:06.000Z</updated>
+                    
+                                            <author>
+                            <name>Mike Long</name>
+                            <uri>http://coderetreat.org/profile/MikeLong</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Here are my notes from Global Day of Coderetreat - Beijing:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://meekrosoft.wordpress.com/2011/12/08/retrospective-global-day-of-coderetreat-beijing/&quot; target=&quot;_blank&quot;&gt;http://meekrosoft.wordpress.com/2011/12/08/retrospective-global-day-of-coderetreat-beijing/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;See you all next year!&lt;/p&gt;
+&lt;p&gt;./mike&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Here are my notes from Global Day of Coderetreat - Beijing:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://meekrosoft.wordpress.com/2011/12/08/retrospective-global-day-of-coderetreat-beijing/&quot; target=&quot;_blank&quot;&gt;http://meekrosoft.wordpress.com/2011/12/08/retrospective-global-day-of-coderetreat-beijing/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;See you all next year!&lt;/p&gt;
+&lt;p&gt;./mike&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

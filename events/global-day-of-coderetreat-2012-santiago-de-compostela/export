@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13276
+DTSTAMP:20170129T110254Z
+SUMMARY:Global Day of Coderetreat 2012 - Santiago de Compostela / Spai
+ n
+DESCRIPTION:Coderetreat at the GDCR\nGet your free ticket here: https
+ ://pepellou.stagehq.com/events/1757\n\nFor more information visit http
+ ://coderetreat.org/events/global-day-of-coderetreat-2012-santiago-de-c
+ ompostela
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Agil-AZ S.L. Headquarters
+WEBSITE:https://pepellou.stagehq.com/events/1757
+URL:https://pepellou.stagehq.com/events/1757
+CONTACT:+34 650 795 886
+ORGANIZER;CN="Pepe Doval":http://coderetreat.org/profile/PepeDoval
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pepe Dov
+ al":http://coderetreat.org/profile/PepeDoval
+END:VEVENT
+END:VCALENDAR

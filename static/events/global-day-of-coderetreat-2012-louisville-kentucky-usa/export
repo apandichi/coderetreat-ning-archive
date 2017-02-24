@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16862
+DTSTAMP:20170129T113514Z
+SUMMARY:Global Day of Coderetreat 2012 - Louisville, Kentucky, USA
+DESCRIPTION:This is the Louisville session of the Global Day of Code R
+ etreat 2012. See the event page for more information and page.\n\nFor 
+ more information visit http://coderetreat.org/events/global-day-of-cod
+ eretreat-2012-louisville-kentucky-usa
+DTSTART:20121208T090000Z
+DTEND:20121208T160000Z
+CATEGORIES:global, day, of, coderetreat, 2012, -, louisville, kentucky
+ , usa
+LOCATION:Adecco building behind Oxmoor mall
+WEBSITE:http://ericlathrop.com/louisville_code_retreat/
+URL:http://ericlathrop.com/louisville_code_retreat/
+CONTACT:
+ORGANIZER;CN="Eric Lathrop":http://coderetreat.org/profile/EricLathrop
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eric Lat
+ hrop":http://coderetreat.org/profile/EricLathrop
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Members - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?xn_auth=no&amp;sort=mostRecent"/>
+            <updated>2017-01-29T09:34:45Z</updated>
+                        <id>http://coderetreat.org/profiles/friend/feed?xn_auth=no&amp;sort=mostRecent</id>
+                            <entry>
+                    <title>Peter Koller</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PeterKoller"/>
+                                        <id>tag:coderetreat.org,2017-01-27:6456126:User:58206</id>
+                                        <updated>2017-01-27T07:39:25.100Z</updated>
+                    
+                                            <author>
+                            <name>Peter Koller</name>
+                            <uri>http://coderetreat.org/profile/PeterKoller</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/GZs8qdvnOuEsMhLuAqcLoGxUgKIsaBwfN9N4MLkFD4iNEluYEN6nwNoZLVNCychTwkVnI-N9P*bqKtR8eyoGqS4IyAMES4yr/1250091475.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Peter Koller&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/GZs8qdvnOuEsMhLuAqcLoGxUgKIsaBwfN9N4MLkFD4iNEluYEN6nwNoZLVNCychTwkVnI-N9P*bqKtR8eyoGqS4IyAMES4yr/1250091475.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Peter Koller&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>王磊</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/wanglei"/>
+                                        <id>tag:coderetreat.org,2017-01-25:6456126:User:57905</id>
+                                        <updated>2017-01-25T03:35:53.512Z</updated>
+                    
+                                            <author>
+                            <name>王磊</name>
+                            <uri>http://coderetreat.org/profile/wanglei</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ow6WJwgqPYUtlIltvEfc9G3PODkRBG5nre0NQX1Mz-DyggfipClbPlFjKt6eXYLehuPw4VakGuyrImIKMindWYyKFjrwFq6Y/1249936641.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;王磊&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ow6WJwgqPYUtlIltvEfc9G3PODkRBG5nre0NQX1Mz-DyggfipClbPlFjKt6eXYLehuPw4VakGuyrImIKMindWYyKFjrwFq6Y/1249936641.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;王磊&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>吉翔</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/jixiang"/>
+                                        <id>tag:coderetreat.org,2016-12-24:6456126:User:57504</id>
+                                        <updated>2016-12-24T03:36:41.450Z</updated>
+                    
+                                            <author>
+                            <name>吉翔</name>
+                            <uri>http://coderetreat.org/profile/jixiang</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/hbW5*gkw2MiglWo58ULQIwkUMR87ZQkm02liB2jMibvHATH*eLn3tXHCSui7Ae*zVFYABcJ8f2IghKzUeC7GMlQ8Dx4ZM*Rz/1247660319.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;吉翔&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/hbW5*gkw2MiglWo58ULQIwkUMR87ZQkm02liB2jMibvHATH*eLn3tXHCSui7Ae*zVFYABcJ8f2IghKzUeC7GMlQ8Dx4ZM*Rz/1247660319.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;吉翔&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Daniel Kirmse</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/DanielKirmse"/>
+                                        <id>tag:coderetreat.org,2016-12-17:6456126:User:57155</id>
+                                        <updated>2016-12-17T10:02:53.819Z</updated>
+                    
+                                            <author>
+                            <name>Daniel Kirmse</name>
+                            <uri>http://coderetreat.org/profile/DanielKirmse</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/tELt8V-QL1AVH8skdssldaD19*xA8D8hQjGOHZtRWBaHp8atn60W4B4JLMeKbrydQ*i8doU594FZyoqTRSZNHH9Fn5AhMgnP/1247275352.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Daniel Kirmse&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/tELt8V-QL1AVH8skdssldaD19*xA8D8hQjGOHZtRWBaHp8atn60W4B4JLMeKbrydQ*i8doU594FZyoqTRSZNHH9Fn5AhMgnP/1247275352.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Daniel Kirmse&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Houssem Gasmi</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/HoussemGasmi"/>
+                                        <id>tag:coderetreat.org,2016-12-11:6456126:User:57410</id>
+                                        <updated>2016-12-11T08:40:48.987Z</updated>
+                    
+                                            <author>
+                            <name>Houssem Gasmi</name>
+                            <uri>http://coderetreat.org/profile/HoussemGasmi</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/dM9WbuK-4RZS*w00fd6QXTf-SuNtt7K30T1MBxD8y5E*chyOywvNLX5DP9U0dloOKVTXubXdBQwKKbEYs-yEWsj17rKp0rw5/1247376759.jpeg?xgip=0%3A67%3A234%3A234%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Houssem Gasmi&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/dM9WbuK-4RZS*w00fd6QXTf-SuNtt7K30T1MBxD8y5E*chyOywvNLX5DP9U0dloOKVTXubXdBQwKKbEYs-yEWsj17rKp0rw5/1247376759.jpeg?xgip=0%3A67%3A234%3A234%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Houssem Gasmi&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Nitin Sharma</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/NitinSharma"/>
+                                        <id>tag:coderetreat.org,2016-12-07:6456126:User:57054</id>
+                                        <updated>2016-12-07T17:33:31.592Z</updated>
+                    
+                                            <author>
+                            <name>Nitin Sharma</name>
+                            <uri>http://coderetreat.org/profile/NitinSharma</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/LacygCl0qQK*PP*-ZTwdIQ33NLhz0ZrvSKYCIwxMAM3*TSWHEQXKB1*HF5jC2wQXkFBKZxQnKVD6xC6LuT9e1texKdpfsqZi/1246689457.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nitin Sharma&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/LacygCl0qQK*PP*-ZTwdIQ33NLhz0ZrvSKYCIwxMAM3*TSWHEQXKB1*HF5jC2wQXkFBKZxQnKVD6xC6LuT9e1texKdpfsqZi/1246689457.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nitin Sharma&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jack Dinh</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JackDinh"/>
+                                        <id>tag:coderetreat.org,2016-12-05:6456126:User:57140</id>
+                                        <updated>2016-12-05T02:35:00.042Z</updated>
+                    
+                                            <author>
+                            <name>Jack Dinh</name>
+                            <uri>http://coderetreat.org/profile/JackDinh</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/V0BiFi-tkRsI0N0liKvrcNs4Kjd3Uvr6o1edcvfDWbp-TXi8u-Kz*M*dsUxxdBW9L0ai2-FLygFnqxC3rOhHEfC3thmjB52w/1246515666.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jack Dinh&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/V0BiFi-tkRsI0N0liKvrcNs4Kjd3Uvr6o1edcvfDWbp-TXi8u-Kz*M*dsUxxdBW9L0ai2-FLygFnqxC3rOhHEfC3thmjB52w/1246515666.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jack Dinh&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Martijn Durnez</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MartijnDurnez"/>
+                                        <id>tag:coderetreat.org,2016-11-30:6456126:User:57227</id>
+                                        <updated>2016-11-30T20:01:37.536Z</updated>
+                    
+                                            <author>
+                            <name>Martijn Durnez</name>
+                            <uri>http://coderetreat.org/profile/MartijnDurnez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/noNLDbauUJBO20387PTateG9fFOMMe7NOAeEDs9zqN8Nb1*Xg8uNmR2e576UkvS7OWnEf9fb1ku4eS4J2fb-WwHz*Hcp7Q8E/1246241749.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Martijn Durnez&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/noNLDbauUJBO20387PTateG9fFOMMe7NOAeEDs9zqN8Nb1*Xg8uNmR2e576UkvS7OWnEf9fb1ku4eS4J2fb-WwHz*Hcp7Q8E/1246241749.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Martijn Durnez&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Tkach Bogdan</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/TkachBogdan"/>
+                                        <id>tag:coderetreat.org,2016-11-21:6456126:User:57133</id>
+                                        <updated>2016-11-21T09:54:13.579Z</updated>
+                    
+                                            <author>
+                            <name>Tkach Bogdan</name>
+                            <uri>http://coderetreat.org/profile/TkachBogdan</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/3QCA0XbBBMwtNrt6bjgCubk*2KxBWdd3G0pjaemm8FihUc1BD9-OFf6JaVLZbTrWzk8FQo2UXXTWg4MWQ-d*nwOiaDaIsBJ7/1245535021.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Tkach Bogdan&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/3QCA0XbBBMwtNrt6bjgCubk*2KxBWdd3G0pjaemm8FihUc1BD9-OFf6JaVLZbTrWzk8FQo2UXXTWg4MWQ-d*nwOiaDaIsBJ7/1245535021.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Tkach Bogdan&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Andrea Cappalunga</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AndreaCappalunga"/>
+                                        <id>tag:coderetreat.org,2016-11-18:6456126:User:57128</id>
+                                        <updated>2016-11-18T22:28:38.502Z</updated>
+                    
+                                            <author>
+                            <name>Andrea Cappalunga</name>
+                            <uri>http://coderetreat.org/profile/AndreaCappalunga</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/2DwxeRmxZZEmkb04b5ZbIeqg8q5JCN2GNT7l3U7bCuxcBg8pl4yeBQcZuzAVkFLSMpvCDZgZuXIdCfb91JXbtoQrI7r6G2j*/1245343273.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Andrea Cappalunga&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/2DwxeRmxZZEmkb04b5ZbIeqg8q5JCN2GNT7l3U7bCuxcBg8pl4yeBQcZuzAVkFLSMpvCDZgZuXIdCfb91JXbtoQrI7r6G2j*/1245343273.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Andrea Cappalunga&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Nkululeko Makhubu</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/NkululekoMakhubu"/>
+                                        <id>tag:coderetreat.org,2016-11-18:6456126:User:57301</id>
+                                        <updated>2016-11-18T12:01:12.136Z</updated>
+                    
+                                            <author>
+                            <name>Nkululeko Makhubu</name>
+                            <uri>http://coderetreat.org/profile/NkululekoMakhubu</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/2DwxeRmxZZEBiwT4sJsyH20OnHi7jzT01r0zkXR97HZjnu9grQWrBnFLwt1pLLDokoc2Jp-ziWQ*1OAh5OmV4Xs*2wkun8QE/1245310040.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nkululeko Makhubu&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/2DwxeRmxZZEBiwT4sJsyH20OnHi7jzT01r0zkXR97HZjnu9grQWrBnFLwt1pLLDokoc2Jp-ziWQ*1OAh5OmV4Xs*2wkun8QE/1245310040.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nkululeko Makhubu&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Nathan Syfrig</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/NathanSyfrig"/>
+                                        <id>tag:coderetreat.org,2016-11-17:6456126:User:56997</id>
+                                        <updated>2016-11-17T17:18:44.939Z</updated>
+                    
+                                            <author>
+                            <name>Nathan Syfrig</name>
+                            <uri>http://coderetreat.org/profile/NathanSyfrig</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/YmEteape79sISUZoeVAMgV3yy2c*zlKkJgQtBiQRSRloSWrOwGdxe8NA71ejn5ZVmpNQhFA59o4BYeOPelrRMh9lcTjqpTjv/1245246670.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nathan Syfrig&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/YmEteape79sISUZoeVAMgV3yy2c*zlKkJgQtBiQRSRloSWrOwGdxe8NA71ejn5ZVmpNQhFA59o4BYeOPelrRMh9lcTjqpTjv/1245246670.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nathan Syfrig&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Samuel Xavier</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/SamuelXavier"/>
+                                        <id>tag:coderetreat.org,2016-11-13:6456126:User:56993</id>
+                                        <updated>2016-11-13T16:45:07.097Z</updated>
+                    
+                                            <author>
+                            <name>Samuel Xavier</name>
+                            <uri>http://coderetreat.org/profile/SamuelXavier</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/cWUzdktWeMugCqRx9D1IGu2V*Ss*Kkv7ySHugjKn-OEXc5a50sdUGElsscAF2cd8U*lpix7S-M6DlUHvH2tFRT5AOIe3vAVh/1244932629.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Samuel Xavier&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/cWUzdktWeMugCqRx9D1IGu2V*Ss*Kkv7ySHugjKn-OEXc5a50sdUGElsscAF2cd8U*lpix7S-M6DlUHvH2tFRT5AOIe3vAVh/1244932629.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Samuel Xavier&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hamsa Chandrashekar</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/HamsaChandrashekar"/>
+                                        <id>tag:coderetreat.org,2016-11-10:6456126:User:57122</id>
+                                        <updated>2016-11-10T08:14:13.150Z</updated>
+                    
+                                            <author>
+                            <name>Hamsa Chandrashekar</name>
+                            <uri>http://coderetreat.org/profile/HamsaChandrashekar</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/AY*SjrncyfolUbsiratWALL7aWauYTZ0J2kM23ZVcDQ5AzAuLLQjoke3PEd*-SpsE1Ks9i*eHnATcRv-M1RfJi*WmGgM4cAI/1244696899.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Hamsa Chandrashekar&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/AY*SjrncyfolUbsiratWALL7aWauYTZ0J2kM23ZVcDQ5AzAuLLQjoke3PEd*-SpsE1Ks9i*eHnATcRv-M1RfJi*WmGgM4cAI/1244696899.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Hamsa Chandrashekar&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Ahmed Tawfik</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AhmedTawfik"/>
+                                        <id>tag:coderetreat.org,2016-11-09:6456126:User:57118</id>
+                                        <updated>2016-11-09T18:23:18.936Z</updated>
+                    
+                                            <author>
+                            <name>Ahmed Tawfik</name>
+                            <uri>http://coderetreat.org/profile/AhmedTawfik</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/AY*Sjrncyfo0lpv2ywxiPH2m1khmhrDKueQ8-FJ7ht1rOiI5Ne0IQos9WYyoeYpw**5wl-8k-AMet0IoRPbNrHnF9p8QTdrz/1244648164.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ahmed Tawfik&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/AY*Sjrncyfo0lpv2ywxiPH2m1khmhrDKueQ8-FJ7ht1rOiI5Ne0IQos9WYyoeYpw**5wl-8k-AMet0IoRPbNrHnF9p8QTdrz/1244648164.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ahmed Tawfik&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Nistor Buliga</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/NistorBuliga"/>
+                                        <id>tag:coderetreat.org,2016-11-03:6456126:User:56989</id>
+                                        <updated>2016-11-03T08:27:48.307Z</updated>
+                    
+                                            <author>
+                            <name>Nistor Buliga</name>
+                            <uri>http://coderetreat.org/profile/NistorBuliga</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/YOoFu1FozwHPLUV9FYMdiPxBKbawRLrFxWAwBEG*4g2dvrz35-4WUbuFnoMcQeD0ktRYn27ryRODoCOXX2v3P*D5qP2bkbAZ/1244206023.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nistor Buliga&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/YOoFu1FozwHPLUV9FYMdiPxBKbawRLrFxWAwBEG*4g2dvrz35-4WUbuFnoMcQeD0ktRYn27ryRODoCOXX2v3P*D5qP2bkbAZ/1244206023.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nistor Buliga&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Sinem Cicek</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/SinemCicek"/>
+                                        <id>tag:coderetreat.org,2016-10-29:6456126:User:57113</id>
+                                        <updated>2016-10-29T17:58:10.333Z</updated>
+                    
+                                            <author>
+                            <name>Sinem Cicek</name>
+                            <uri>http://coderetreat.org/profile/SinemCicek</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/7AOoV0m95Hko*j9vA7dDbT4wLx3GpMO-XS6IhepZ9ywhoW14KHLvwVVR8YIm9kiXcnfJRovSRkD9ym*jFe2toiwq6Yx-YdkH/1243867998.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Sinem Cicek&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/7AOoV0m95Hko*j9vA7dDbT4wLx3GpMO-XS6IhepZ9ywhoW14KHLvwVVR8YIm9kiXcnfJRovSRkD9ym*jFe2toiwq6Yx-YdkH/1243867998.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Sinem Cicek&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Kaisma Penn-Titley</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/KaismaPennTitley"/>
+                                        <id>tag:coderetreat.org,2016-10-27:6456126:User:57109</id>
+                                        <updated>2016-10-27T10:56:40.667Z</updated>
+                    
+                                            <author>
+                            <name>Kaisma Penn-Titley</name>
+                            <uri>http://coderetreat.org/profile/KaismaPennTitley</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/e1LP62WPF98SMcFrveJ2NVAhj3UaWPrG0Ezfauaehx5W1OHXSDCyfh*smYExi6UXFY18pwA-Xx7hX*C173DuuX0JELtM1BLH/1243686811.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Kaisma Penn-Titley&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/e1LP62WPF98SMcFrveJ2NVAhj3UaWPrG0Ezfauaehx5W1OHXSDCyfh*smYExi6UXFY18pwA-Xx7hX*C173DuuX0JELtM1BLH/1243686811.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Kaisma Penn-Titley&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Wei-Lun Huang</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/WeiLunHuang"/>
+                                        <id>tag:coderetreat.org,2016-10-27:6456126:User:57106</id>
+                                        <updated>2016-10-27T07:41:58.118Z</updated>
+                    
+                                            <author>
+                            <name>Wei-Lun Huang</name>
+                            <uri>http://coderetreat.org/profile/WeiLunHuang</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/e1LP62WPF98FBNDCoMmoNz*8uYz4NZO7F9BB9je0mvml894Ma7ymXLMt01r-CpuuYJOaDRic1k28eJujH7hbEojjl0iTk*Db/1243673013.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Wei-Lun Huang&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/e1LP62WPF98FBNDCoMmoNz*8uYz4NZO7F9BB9je0mvml894Ma7ymXLMt01r-CpuuYJOaDRic1k28eJujH7hbEojjl0iTk*Db/1243673013.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Wei-Lun Huang&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Erika Ornstein</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ErikaOrnstein"/>
+                                        <id>tag:coderetreat.org,2016-10-26:6456126:User:57039</id>
+                                        <updated>2016-10-26T08:18:52.498Z</updated>
+                    
+                                            <author>
+                            <name>Erika Ornstein</name>
+                            <uri>http://coderetreat.org/profile/ErikaOrnstein</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/w9vi0ysetDorU7tGrJ0qIumgkdxU4dGXoEX-0j2j3YOiy2xC*wwZpZh104Ar34cRKQy7vylAfUpW21HyN*MOylGJv5v2zRrs/1243523072.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erika Ornstein&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/w9vi0ysetDorU7tGrJ0qIumgkdxU4dGXoEX-0j2j3YOiy2xC*wwZpZh104Ar34cRKQy7vylAfUpW21HyN*MOylGJv5v2zRrs/1243523072.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erika Ornstein&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>yugang bai</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/yugangbai"/>
+                                        <id>tag:coderetreat.org,2016-10-25:6456126:User:57031</id>
+                                        <updated>2016-10-25T01:58:24.123Z</updated>
+                    
+                                            <author>
+                            <name>yugang bai</name>
+                            <uri>http://coderetreat.org/profile/yugangbai</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/7j71GRa9aZLaK9sQFFRi-eveVINjB8b3rhArolsu2uvd0rR9DO0atOIj3DIIzQ7MtAPb2ySeWACoHHIa-*lq3SqhpHQKVSFN/1243437777.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;yugang bai&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/7j71GRa9aZLaK9sQFFRi-eveVINjB8b3rhArolsu2uvd0rR9DO0atOIj3DIIzQ7MtAPb2ySeWACoHHIa-*lq3SqhpHQKVSFN/1243437777.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;yugang bai&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

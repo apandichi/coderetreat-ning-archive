@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Daniël de Vries&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DanieldeVries</link>
+        <pubDate>Sun, 29 Jan 2017 13:32:26 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:32:26 +0000</lastBuildDate>
+        <image>
+            <title>Daniël de Vries&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DanieldeVries</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009de4969594b2012446c6357</guid>
+               <title>Daniël de Vries is attending Stefan Hendriks&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:5478?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DanieldeVries?xg_source=activity">Dani&euml;l de Vries</a> is attending <a href="http://coderetreat.org/profile/stefanhendriks?xg_source=activity">Stefan Hendriks's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:5478?xg_source=activity">Coderetreat Amsterdam</a> at Amsterdam</h3><div class="rich-detail"><div class="rich-date">January 7, 2012 from 9am to 5:30pm</div><div class="rich-excerpt">I am arranging a code retreat at amsterdam. I hope, if this one is succesful, to do this more often.Location is set. Courtesy to Mirabeau for sponsering this event. Thanks to Mirabeau there is a:- location (see description) - free lunch - drinks and bites through the dayRequirement: Bring your own laptop, with your preferred language &amp; IDE set up. Also make sure you have a test framework you can run.Goal of this meeting:- make it happen (it will!) - learn new stuff! - above all: have fun!More information: Mirabeau @ http://www.mirabeau.nl Stefan's Blog (and more) @ http://stefanhendriks.wordpress.com<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:5478?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 14 Dec 2011 13:47:54 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009de4969ae772f9ce1b5a0ff</guid>
+               <title>Daniël de Vries is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/DanieldeVries?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DanieldeVries?xg_source=activity">Dani&euml;l de Vries</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Wed, 14 Dec 2011 13:47:11 +0000</pubDate>
+               </item>    </channel>
+</rss>

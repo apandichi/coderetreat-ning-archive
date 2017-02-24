@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Carlos Iglesias&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/CarlosIglesias</link>
+        <pubDate>Sun, 29 Jan 2017 11:14:36 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:14:36 +0000</lastBuildDate>
+        <image>
+            <title>Carlos Iglesias&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/CarlosIglesias</link>
+            <url>http://api.ning.com:80/files/NuN0K4EF8HF18FdjC*9-YHG8IXyaPLxIvrpw7adqow9R5P5P15ohLSeX12lFq2xSsrEX3VMTXpze6-ktOCJozrMxIFI4*Q2u/950092465.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009d64c6225108df70738a511</guid>
+               <title>Carlos Iglesias liked Jaume Jornet&#039;s event Global Day of Coderetreat 2012 - Barcelona</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:12039?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CarlosIglesias?xg_source=activity">Carlos Iglesias</a> liked <a href="http://coderetreat.org/profile/JaumeJornet?xg_source=activity">Jaume Jornet's</a> event <a href="http://coderetreat.org/xn/detail/6456126:Event:12039?xg_source=activity">Global Day of Coderetreat 2012 - Barcelona</a></span><br/>]]></description>
+               <pubDate>Thu, 20 Sep 2012 10:22:14 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d64c629cc0f91acb236e3e</guid>
+               <title>Carlos Iglesias added the App Twitter Tracker (Personal)</title>
+               <link>http://coderetreat.org/opensocial/application/about?appUrl=http%3A%2F%2Fos.ning.com%2Fapps%2Ftwittertracker%2Fgadget.xml&amp;xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CarlosIglesias?xg_source=activity">Carlos Iglesias</a> added the App <a href="http://coderetreat.org/opensocial/application/about?appUrl=http%3A%2F%2Fos.ning.com%2Fapps%2Ftwittertracker%2Fgadget.xml&amp;xg_source=activity">Twitter Tracker (Personal)</a></span><br/>]]></description>
+               <pubDate>Wed, 07 Dec 2011 22:02:48 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d64c622081477620178a25</guid>
+               <title>Carlos Iglesias updated their profile</title>
+               <link>http://coderetreat.org/profile/CarlosIglesias?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CarlosIglesias?xg_source=activity">Carlos Iglesias</a> updated their <a href="http://coderetreat.org/profile/CarlosIglesias?xg_source=activity">profile</a></span><br/>]]></description>
+               <pubDate>Wed, 07 Dec 2011 22:01:30 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d64c62551c59a3ecbb8eb8</guid>
+               <title>Carlos Iglesias posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:5601?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CarlosIglesias?xg_source=activity">Carlos Iglesias</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:5601?xg_source=activity">Global Day of Coderetreat at Barcelona</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:5601">Hi!!!Thank you Corey for that awesome #gdcr11 :)Here is a post that explains how we had fun at <a href="http://www.runroom.com" target="_blank">Runroom</a> (Barcelona):<a href="http://www.runroom.com/en/2011/12/global-day-of-coderetreat-barcelona/">http://www.runroom.com/en/2011/12/global-day-of-coderetreat-barcelona/</a>It's in spanish, catalan and english! ;) Watch the video!!!!Keep enjoying!<a class="continue-link" href="http://coderetreat.org/profiles/blogs/global-day-of-coderetreat-at-barcelona">See More</a></div></div></div></div>]]></description>
+               <pubDate>Wed, 07 Dec 2011 21:59:49 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d64c62ac97726ae010f739</guid>
+               <title>Carlos Iglesias is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/CarlosIglesias?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CarlosIglesias?xg_source=activity">Carlos Iglesias</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Wed, 07 Dec 2011 21:54:38 +0000</pubDate>
+               </item>    </channel>
+</rss>

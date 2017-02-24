@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3haqt1lti7bij&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:53:16Z</updated>
+                            <author>
+                    <name>Praveen Kanakarajan</name>
+                    <uri>http://coderetreat.org/profile/PraveenKanakarajan</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3haqt1lti7bij&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Ranjith Tharayil</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RanjithTharayil"/>
+                                        <id>tag:coderetreat.org,2016-03-23:6456126:User:53121</id>
+                                        <updated>2016-03-23T18:08:52.365Z</updated>
+                    
+                                            <author>
+                            <name>Praveen Kanakarajan</name>
+                            <uri>http://coderetreat.org/profile/PraveenKanakarajan</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/xRd0Adn57gT5xJ5NlDcl-1WW*I9z3V-TifDc9OOUmripTpfxOmIrFQkJ7okqKhIt6bgf36DQlCoXyyF2m6RR0sN1VcURsYKx/1189231543.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ranjith Tharayil&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/xRd0Adn57gT5xJ5NlDcl-1WW*I9z3V-TifDc9OOUmripTpfxOmIrFQkJ7okqKhIt6bgf36DQlCoXyyF2m6RR0sN1VcURsYKx/1189231543.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ranjith Tharayil&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Kumar Selvaraj</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/KumarSelvaraj"/>
+                                        <id>tag:coderetreat.org,2015-10-30:6456126:User:48508</id>
+                                        <updated>2015-10-30T04:41:10.555Z</updated>
+                    
+                                            <author>
+                            <name>Praveen Kanakarajan</name>
+                            <uri>http://coderetreat.org/profile/PraveenKanakarajan</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TBvd9QqIhszZOqfCMC*-X136XAQ89Jw*0BmmLAIAYGQKt9OEF76w7S9pKWuo-ds*rzOj1koRIWSYvL2Mpqju0XCXu8xqKOEq/1151299207.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Kumar Selvaraj&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TBvd9QqIhszZOqfCMC*-X136XAQ89Jw*0BmmLAIAYGQKt9OEF76w7S9pKWuo-ds*rzOj1koRIWSYvL2Mpqju0XCXu8xqKOEq/1151299207.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Kumar Selvaraj&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

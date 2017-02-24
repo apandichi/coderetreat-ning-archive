@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47245
+DTSTAMP:20170129T121550Z
+SUMMARY:Global Day of Coderetreat 2015 - Portland, OR, USA
+DESCRIPTION:On Saturday, November 14th, Coderetreats will be held all 
+ around the world as part of the Global Day of Coderetreat, bringing pe
+ ople together from all over the globe.   Portland continues its stro
+ ng record of building better developers and growing the Portland softw
+ are community with its 4th GDCR offering.\n Come join your fellow prog
+ rammers to practice the art of software development together.  Write 
+ code, learn from others, teach someone else, and expand your network o
+ f friends who are passionate about their craft. Show up with your lapt
+ op and favorite development tools to participate, everything else is p
+ rovided.  Continental breakfast and lunch will be served.  The event
+  is free, thanks to generous sponsors covering food costs.\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-coderet
+ reat-2015-portland-or-us
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:NorthHighland Consulting, LLC
+WEBSITE:http://gdcr2015-pdx.eventbrite.com
+URL:http://gdcr2015-pdx.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

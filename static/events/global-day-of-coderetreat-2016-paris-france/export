@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53966
+DTSTAMP:20170129T093316Z
+SUMMARY:Global Day of Coderetreat 2016 - Paris, France
+DESCRIPTION:Bonjour à tous,\npour la 5ème année consécutive, Aroll
+ a se fait une joie d'héberger le Global Day of Code Retreat!\n25, rue
+  du Louvre - 75001 Paris\ninterphone 2048 puis sonner à Arolla - 2èm
+ e étage\n\nUne seconde session réservée aux Ladies of Code aura lie
+ u au même moment au 21, rue du Bouloi - interphone 17a56 - 3ème éta
+ ge droite\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-2016-paris-france
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:AROLLA
+WEBSITE:https://www.google.fr/maps/place/25+Rue+du+Louvre,+75001+Paris
+ /@48.8651197,2.3406453,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e22dd93ab83:
+ 0x43b9ce7a10720d4f!8m2!3d48.8651197!4d2.342834
+URL:https://www.google.fr/maps/place/25+Rue+du+Louvre,+75001+Paris/@48
+ .8651197,2.3406453,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e22dd93ab83:0x43
+ b9ce7a10720d4f!8m2!3d48.8651197!4d2.342834
+CONTACT:0671855409
+ORGANIZER;CN=Arolla:http://coderetreat.org/profile/Arolla
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/QYd7mNwhlPQRw
+ yBIbM1qcNdC2MYckby2Fs*SyJIfFfnGhhX3DJw7QPZIDZ7Iqh-UoFBsvkzZwjzyoMAvdWC
+ 7AICuAkiL9AZd/05_twitter_kc_pair_prog.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Arolla:ht
+ tp://coderetreat.org/profile/Arolla
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Hamza K
+ halid":http://coderetreat.org/profile/HamzaKhalid
+END:VEVENT
+END:VCALENDAR

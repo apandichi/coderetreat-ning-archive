@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27347
+DTSTAMP:20170129T115742Z
+SUMMARY:Global Day of Coderetreat 2013 - Ithaca, NY, USA
+DESCRIPTION:The Ithaca incarnation of the 2013 Global Day of Code Retr
+ eat.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2013-ithaca-ny-usa
+DTSTART:20131214T080000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:GORGES office on the Commons in Ithaca
+WEBSITE:https://gdrc2013-ithaca.eventbrite.com
+URL:https://gdrc2013-ithaca.eventbrite.com
+CONTACT:607-342-7862
+ORGANIZER;CN="David Furber":http://coderetreat.org/profile/DavidFurber
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Fu
+ rber":http://coderetreat.org/profile/DavidFurber
+END:VEVENT
+END:VCALENDAR

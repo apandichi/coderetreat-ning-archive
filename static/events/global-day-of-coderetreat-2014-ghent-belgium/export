@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38564
+DTSTAMP:20170129T124049Z
+SUMMARY:Global Day of Coderetreat 2014 - Leuven, Belgium
+DESCRIPTION:We will be joining the #gdcr14 of course\n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-coderetreat-2
+ 014-ghent-belgium
+DTSTART:20141115T090000Z
+DTEND:20141115T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Cegeka Leuven
+WEBSITE:http://www.meetup.com/Belgian-Software-Craftsmanship-Guild/eve
+ nts/217534922/
+URL:http://www.meetup.com/Belgian-Software-Craftsmanship-Guild/events/
+ 217534922/
+CONTACT:
+ORGANIZER;CN="Erik Talboom":http://coderetreat.org/profile/ErikTalboom
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erik Tal
+ boom":http://coderetreat.org/profile/ErikTalboom
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vincent 
+ Verhoeven":http://coderetreat.org/profile/VincentVerhoeven
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Dieter 
+ Van Eessen":http://coderetreat.org/profile/DieterVanEessen
+END:VEVENT
+END:VCALENDAR

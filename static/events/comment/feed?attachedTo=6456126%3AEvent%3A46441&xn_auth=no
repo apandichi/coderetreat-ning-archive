@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2015 - Zaragoza, Spain - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A46441&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:11:53Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A46441&amp;xn_auth=no</id>
+                            <entry>
+                    <title>El MeetUp del GDCR: http://ww…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:50270"/>
+                                        <id>tag:coderetreat.org,2015-11-12:6456126:Comment:50270</id>
+                                        <updated>2015-11-12T12:00:10.963Z</updated>
+                    
+                                            <author>
+                            <name>Javier Rubio</name>
+                            <uri>http://coderetreat.org/profile/JavierRubio</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;El MeetUp del GDCR: &lt;a href=&quot;http://www.meetup.com/agilearagon/events/226658501/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/agilearagon/events/226658501/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Y kata de calentamiento el día de antes, viernes 13: &lt;a href=&quot;http://www.meetup.com/agilearagon/events/226699902/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/agilearagon/events/226699902/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Este año el GDCR lo facilitan Manuel Rivero y Álvaro García, de la comunidad de Barcelona. Para más info y reflexiones: …&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;El MeetUp del GDCR: &lt;a href=&quot;http://www.meetup.com/agilearagon/events/226658501/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/agilearagon/events/226658501/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Y kata de calentamiento el día de antes, viernes 13: &lt;a href=&quot;http://www.meetup.com/agilearagon/events/226699902/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/agilearagon/events/226699902/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Este año el GDCR lo facilitan Manuel Rivero y Álvaro García, de la comunidad de Barcelona. Para más info y reflexiones: &lt;a href=&quot;http://agile-aragon.org/2015/11/12/global-day-of-code-retreat-2015-pre-dojo-calentamiento/&quot; target=&quot;_blank&quot;&gt;http://agile-aragon.org/2015/11/12/global-day-of-code-retreat-2015-pre-dojo-calentamiento/&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

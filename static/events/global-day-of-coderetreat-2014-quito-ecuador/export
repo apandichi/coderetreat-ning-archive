@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39567
+DTSTAMP:20170129T120501Z
+SUMMARY:Global Day of Coderetreat 2014 - Quito, Ecuador
+DESCRIPTION:El Coderetreat 2014 Quito se organizará este año en les 
+ oficinas de ThoughtWorks con el apoyo de Buen Trip Hub.\n\nFor more in
+ formation visit http://coderetreat.org/events/global-day-of-coderetrea
+ t-2014-quito-ecuador
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Quito, Ecuador
+WEBSITE:http://buentriphub.com
+URL:http://buentriphub.com
+CONTACT:0998686710
+ORGANIZER;CN="Hélène Billaud":http://coderetreat.org/profile/HeleneB
+ illaud
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Hélène
+  Billaud":http://coderetreat.org/profile/HeleneBillaud
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pablo Pa
+ zmino":http://coderetreat.org/profile/PabloPazmino
+END:VEVENT
+END:VCALENDAR

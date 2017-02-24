@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2014 - Guadalajara, Mexico - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A37409&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:01:52Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A37409&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Hi Carlos, thanks for reachin…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:46056"/>
+                                        <id>tag:coderetreat.org,2015-09-25:6456126:Comment:46056</id>
+                                        <updated>2015-09-25T16:39:17.879Z</updated>
+                    
+                                            <author>
+                            <name>Javier Cervantes</name>
+                            <uri>http://coderetreat.org/profile/JavierCervantes</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Carlos, thanks for reaching out. You can write me to javier@sawyereffect.com so we can coordinate further.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Carlos, thanks for reaching out. You can write me to javier@sawyereffect.com so we can coordinate further.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Javier, I represent EPAM S…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:45895"/>
+                                        <id>tag:coderetreat.org,2015-09-25:6456126:Comment:45895</id>
+                                        <updated>2015-09-25T03:25:34.769Z</updated>
+                    
+                                            <author>
+                            <name>Carlos Quirarte</name>
+                            <uri>http://coderetreat.org/profile/CarlosQuirarte</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Javier, I represent EPAM Systems in Mexico and we would like to participate in this event and to be a sponsor if possible. I&#039;d appreciate you sending me detailed information about this, let me know how it is that we can get in touch.&lt;/p&gt;
+&lt;p&gt;Cheers&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Javier, I represent EPAM Systems in Mexico and we would like to participate in this event and to be a sponsor if possible. I&#039;d appreciate you sending me detailed information about this, let me know how it is that we can get in touch.&lt;/p&gt;
+&lt;p&gt;Cheers&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Yes it will.</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:38199"/>
+                                        <id>tag:coderetreat.org,2014-09-15:6456126:Comment:38199</id>
+                                        <updated>2014-09-15T14:43:06.228Z</updated>
+                    
+                                            <author>
+                            <name>Javier Cervantes</name>
+                            <uri>http://coderetreat.org/profile/JavierCervantes</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Yes it will.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Yes it will.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

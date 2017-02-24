@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28777
+DTSTAMP:20170129T115427Z
+SUMMARY:Global Day of Coderetreat 2013 - Quebec City, Canada
+DESCRIPTION:Participation au Global Day of Code Retreat de la ville de
+  Québec, QC, Canada.\nInformations sur l'événement : http://coderet
+ reatquebec.com\nContact : info@coderetreatquebec.com\nRéservation : h
+ ttp://gdcr2013quebec.eventbrite.ca/\nParticipation to the Global Day o
+ f Code Retreat in Quebec City, QC, Canada.\nEvent informations: http:/
+ /coderetreatquebec.com\nContact: info@coderetreatquebec.com\nRegister:
+  http://gdcr2013quebec.eventbrite.ca/\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2013-quebec-city
+ -qc-canada
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Hôtel Le Germain Dominion
+WEBSITE:http://www.germaindominion.com/fr/emplacement
+URL:http://www.germaindominion.com/fr/emplacement
+CONTACT:418-692-2224
+ORGANIZER;CN=coderetreatquebec:http://coderetreat.org/profile/coderetr
+ eatquebec
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=coderetre
+ atquebec:http://coderetreat.org/profile/coderetreatquebec
+END:VEVENT
+END:VCALENDAR

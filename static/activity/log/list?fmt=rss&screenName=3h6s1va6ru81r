@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Tom Ordonez&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/TomOrdonez</link>
+        <pubDate>Sun, 29 Jan 2017 09:47:37 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:47:37 +0000</lastBuildDate>
+        <image>
+            <title>Tom Ordonez&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/TomOrdonez</link>
+            <url>http://api.ning.com:80/files/8k1OBY8sUF1xmpHgdham7vMpGTRWEnGSQRd*mnKREQETyEwmznK-zSYlY*NKXvzrFhrvSsIThjDgfiUHvJ7uwsYY5fpgR9j2/462278405.jpeg?xgip=122%3A14%3A385%3A385%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009cb0067505347fad6904dd7</guid>
+               <title>Tom Ordonez updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:11661?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TomOrdonez?xg_source=activity">Tom Ordonez</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:11661?xg_source=activity">Miami GDCR 2012 (in Miami, FL the one with the beach)</a> at Miami, FL USA</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8am to 5pm</div><div class="rich-excerpt">This is not Miami, Ohio. This is Miami the one that is warm and has a beach.I will be hosting this for a 2nd time. For more info go to:<a href="http://www.coderetreatmiami.com/" target="_blank">CodeRetreatMiami.com</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:11661?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 04 Sep 2012 09:49:01 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cb0067d19239d815c2ab72</guid>
+               <title>Tom Ordonez posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:11661?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TomOrdonez?xg_source=activity">Tom Ordonez</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:11661?xg_source=activity">Miami GDCR 2012 (in Miami, FL the one with the beach)</a> at Miami, FL USA</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8am to 5pm</div><div class="rich-excerpt">This is not Miami, Ohio. This is Miami the one that is warm and has a beach.I will be hosting this for a 2nd time. For more info go to:<a href="http://www.coderetreatmiami.com/" target="_blank">CodeRetreatMiami.com</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:11661?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 28 Aug 2012 14:16:21 +0000</pubDate>
+               </item>    </channel>
+</rss>

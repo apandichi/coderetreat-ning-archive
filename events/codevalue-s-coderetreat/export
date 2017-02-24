@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9212
+DTSTAMP:20170129T122937Z
+SUMMARY:CodeValue's CodeRetreat
+DESCRIPTION:@ironshay and @arielbh are facilitating an internal CodeRe
+ treat for CodeValue. (our first time)\nExpected are around 14 people t
+ o participate.\n\n\nFor more information visit http://coderetreat.org/
+ events/codevalue-s-coderetreat
+DTSTART:20120316T083000Z
+DTEND:20120316T160000Z
+CATEGORIES:interanl, "coderetreat."
+LOCATION:CodeValue's HQ
+WEBSITE:http://g.co/maps/9amxq
+URL:http://g.co/maps/9amxq
+CONTACT:
+ORGANIZER;CN="Ariel Ben Horesh":http://coderetreat.org/profile/ArielBe
+ nHoresh
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ariel Be
+ n Horesh":http://coderetreat.org/profile/ArielBenHoresh
+END:VEVENT
+END:VCALENDAR

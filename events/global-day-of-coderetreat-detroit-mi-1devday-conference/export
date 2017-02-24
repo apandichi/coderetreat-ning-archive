@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38905
+DTSTAMP:20170129T120625Z
+SUMMARY:Global Day of Coderetreat 2014 - Detroit, MI, USA
+DESCRIPTION:Join us for Detroit's twist on the Global Day of CodeRetre
+ at complements of Pillar Technology. It will be taking place as part 
+ of the 1DevDay Conference and held within the newly remodeled Cobo Ce
+ nter. We'll have sessions running in conjunction with the conference a
+ nd encourage folks to pop in and out as they feel comfortable, whether
+  that be for the whole day or just for an hour or two.\nSpecial Note -
+  This is part of the 1DevDay Conference and requires a ticket to that 
+ event in order to participate. Please register for that first here an
+ d then if you care to, come back and register on this page so we have 
+ an idea of who will join us for the actual retreat.\nThanks.\ndaniel.\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-detroit-mi-1devday-conference
+DTSTART:20141115T080000Z
+DTEND:20141115T170000Z
+CATEGORIES:gdcr, gdcr14, coderetreat
+LOCATION:1DevDay Conference - Cobo Center (Cobo Hall)
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Daniel Davis":http://coderetreat.org/profile/DanielDavis
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/OaLCeaCg49jIi
+ y6gVqaI2ZVchweD4O1zTyggF0-Gzcqoacc5KP7VEnmPMk0sY4faUOWeHFZHi0qYHqqMcJk
+ -uBJPfivQnTCD/1devdaylogo1280426.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel D
+ avis":http://coderetreat.org/profile/DanielDavis
+END:VEVENT
+END:VCALENDAR

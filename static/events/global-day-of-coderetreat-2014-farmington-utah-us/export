@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38540
+DTSTAMP:20170129T113610Z
+SUMMARY:Global Day of Coderetreat 2014 - Farmington, UT, USA
+DESCRIPTION:Hosted by the Pluralsight dev team at Pluralsight's headqu
+ arters in Station Park in Farmington.\nLight breakfast provided by Plu
+ ralsightLunch provided by Pluralsight\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2014-farmington-
+ utah-us
+DTSTART:20141115T083000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Pluralsight Farmington Office
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Phil Borlin":http://coderetreat.org/profile/PhilBorlin
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lance St
+ ine":http://coderetreat.org/profile/LanceStine
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thomas G
+  Mayfield":http://coderetreat.org/profile/ThomasGMayfield
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sean Dun
+ can":http://coderetreat.org/profile/MetaSean
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tyler Wh
+ ipple":http://coderetreat.org/profile/TylerWhipple
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phil Bor
+ lin":http://coderetreat.org/profile/PhilBorlin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Blaine 
+ Smith":http://coderetreat.org/profile/BlaineSmith
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Nathan 
+ Zaugg":http://coderetreat.org/profile/NathanZaugg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Bernd V
+ anSkiver":http://coderetreat.org/profile/BerndVanSkiver
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="David A
+ dsit":http://coderetreat.org/profile/DavidAdsit
+END:VEVENT
+END:VCALENDAR

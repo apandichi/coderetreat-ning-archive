@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38094
+DTSTAMP:20170129T120903Z
+SUMMARY:Global Day of Coderetreat 2014 - Utrecht, Netherlands
+DESCRIPTION:Stefan Hendriks and I (Bart Bakker) will host Global Day o
+ f Coderetreat 2014.\nOn this day thousands of developers from around t
+ he globe come together to hone our craft. For more info read the offi
+ cial GDCR announcement\nThe event in The Netherlands will be held at t
+ he Utrecht office of Mirabeau\nPlease RSVP to join us on November 15!
+ \nIf you're interested in sponsoring a wonderful group of people spend
+ ing their free Saturday to improve their coding skills, please contact
+  me.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2014-netherlands
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Mirabeau, Utrecht
+WEBSITE:https://www.mirabeau.nl/contact/locaties/utrecht.html
+URL:https://www.mirabeau.nl/contact/locaties/utrecht.html
+CONTACT:
+ORGANIZER;CN="Bart Bakker":http://coderetreat.org/profile/bjpbakker
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Echedey 
+ Lima":http://coderetreat.org/profile/EchedeyLima
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Be
+ elen":http://coderetreat.org/profile/MarcoBeelen435
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Remon Si
+ nnema":http://coderetreat.org/profile/RemonSinnema
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Frans W.
+  van den Berg":http://coderetreat.org/profile/FransWvandenBerg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="steven k
+ ok":http://coderetreat.org/profile/stevenkok
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Palkin I
+ lya":http://coderetreat.org/profile/PalkinIlya
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaap Oud
+ ejans":http://coderetreat.org/profile/JaapOudejans
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rob wolt
+ ers":http://coderetreat.org/profile/Robwolters
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vijay Po
+ etai":http://coderetreat.org/profile/VijayPoetai
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Din
+ gemans":http://coderetreat.org/profile/PaulDingemans
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marin Ta
+ pnoi":http://coderetreat.org/profile/MarinTapnoi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Hellmar_B
+ ecker:http://coderetreat.org/profile/HellmarBecker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Enrique:h
+ ttp://coderetreat.org/profile/Enrique
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ahmed Ba
+ nnany":http://coderetreat.org/profile/AhmedBannany
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan H
+ endriks":http://coderetreat.org/profile/stefanhendriks
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bart Bak
+ ker":http://coderetreat.org/profile/bjpbakker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Tom de 
+ Koning":http://coderetreat.org/profile/TomdeKoning
+END:VEVENT
+END:VCALENDAR

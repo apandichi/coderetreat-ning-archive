@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2016 - CALGARY, CANADA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A53861&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:24:21Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A53861&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I have updated the event with…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:56563"/>
+                                        <id>tag:coderetreat.org,2016-10-18:6456126:Comment:56563</id>
+                                        <updated>2016-10-18T04:32:50.328Z</updated>
+                    
+                                            <author>
+                            <name>Tony Trung Thanh Vo</name>
+                            <uri>http://coderetreat.org/profile/TonyTrungThanhVo</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I have updated the event with the link to the meetup group that has more detailed info and registration link. Let me know if you would like me to add anything else.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;Tony&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I have updated the event with the link to the meetup group that has more detailed info and registration link. Let me know if you would like me to add anything else.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;Tony&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Unfortunately the lack of mor…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:56709"/>
+                                        <id>tag:coderetreat.org,2016-10-18:6456126:Comment:56709</id>
+                                        <updated>2016-10-18T04:24:36.558Z</updated>
+                    
+                                            <author>
+                            <name>Dee Abson</name>
+                            <uri>http://coderetreat.org/profile/DeeAbson</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Unfortunately the lack of more detailed location info as well as additional attendees leaves the chances of this event happening kind of sketchy. Can more detail be added?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Unfortunately the lack of more detailed location info as well as additional attendees leaves the chances of this event happening kind of sketchy. Can more detail be added?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

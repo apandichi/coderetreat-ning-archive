@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37975
+DTSTAMP:20170129T120225Z
+SUMMARY:Global Day of Coderetreat 2014 - London, UK
+DESCRIPTION:The London Software Craftsmanship Community are looking to
+  run five code retreats for the GDCR. Most have a maximum capacity of 
+ 25 people.\nPlease do not register here. Sign up on the London Softwar
+ e Craftsmanship Community website instead.\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2014-london
+ -uk
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:London, UK
+WEBSITE:http://www.meetup.com/london-software-craftsmanship/
+URL:http://www.meetup.com/london-software-craftsmanship/
+CONTACT:
+ORGANIZER;CN="Samir Talwar":http://coderetreat.org/profile/SamirTalwar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Samir Ta
+ lwar":http://coderetreat.org/profile/SamirTalwar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thomas P
+ arisot":http://coderetreat.org/profile/ThomasParisot
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="remy ann
+ is":http://coderetreat.org/profile/remyannis
+END:VEVENT
+END:VCALENDAR

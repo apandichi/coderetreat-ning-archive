@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54255
+DTSTAMP:20170129T104351Z
+SUMMARY:Global Day of Coderetreat 2016 - Sophia Antipolis, France
+DESCRIPTION:\n\nMore info and how to register here: https://goo.gl/3T8
+ 6AL . \n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2016-2
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:gdcr, gdcr16, coderetreat
+LOCATION:France
+WEBSITE:https://www.google.fr/maps/place/Polytech+Nice-Sophia/@43.6155
+ 832,7.0696861,17z/data=!3m1!4b1!4m5!3m4!1s0x12cc2b1b41c11d4d:0x225231c
+ 497224ba5!8m2!3d43.6155793!4d7.0718748?hl=en
+URL:https://www.google.fr/maps/place/Polytech+Nice-Sophia/@43.6155832,
+ 7.0696861,17z/data=!3m1!4b1!4m5!3m4!1s0x12cc2b1b41c11d4d:0x225231c4972
+ 24ba5!8m2!3d43.6155793!4d7.0718748?hl=en
+CONTACT:
+ORGANIZER;CN="Alessandro Baffa":http://coderetreat.org/profile/Alessan
+ droBaffa
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/4dl5RIBKHP84i
+ sCD6DUUxy4an*6bjWev3lME7pE6rEVWRwcnBqIRVxI*xj6VBa3v7IHOGdU2QwLIqwcYTo4
+ QdP0udSzvk1NF/newlogo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alessand
+ ro Baffa":http://coderetreat.org/profile/AlessandroBaffa
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Adriano
+  Comai":http://coderetreat.org/profile/AdrianoComai923
+END:VEVENT
+END:VCALENDAR

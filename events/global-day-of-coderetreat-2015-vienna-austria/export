@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46301
+DTSTAMP:20170129T121709Z
+SUMMARY:Global Day of Coderetreat 2015 - Vienna, Austria
+DESCRIPTION:For the third time in a row, FREQUENTIS will host the GDCR
+  in Vienna, Austria!\nTo register for this event, get a ticket on Even
+ tbrite on this page.\n\nFor more information visit http://coderetreat.
+ org/events/global-day-of-coderetreat-2015-vienna-austria
+DTSTART:20151114T090000Z
+DTEND:20151114T193000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:FREQUENTIS
+WEBSITE:https://www.google.at/maps/place/Frequentis+AG/@48.1643645,16.
+ 3341881,17z/data=!3m1!4b1!4m2!3m1!1s0x476da85b32ffa36b:0x9ac47c469ce40
+ 565
+URL:https://www.google.at/maps/place/Frequentis+AG/@48.1643645,16.3341
+ 881,17z/data=!3m1!4b1!4m2!3m1!1s0x476da85b32ffa36b:0x9ac47c469ce40565
+CONTACT:
+ORGANIZER;CN="Christian Haas":http://coderetreat.org/profile/Christian
+ Haas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/XxTpnQx1hfAyh
+ l4dZZ77RPjNbQlwLBgBMNUMYrlgzOebQIs*eqQG7M6pUUTFzQ1zBwt3uP5d63i50nnk9YU
+ LM3*eMFZu7Y2F/RathausWiena21432132.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Haas":http://coderetreat.org/profile/ChristianHaas
+END:VEVENT
+END:VCALENDAR

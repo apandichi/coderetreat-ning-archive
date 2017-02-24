@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12101
+DTSTAMP:20170129T133951Z
+SUMMARY:Global Day of Coderetreat 2012 - Zurich / Switzerland
+DESCRIPTION:Join us at the Global Day of Code Retreat 2012 in Zurich!\
+ nCoderetreat is a day-long, intensive practice event focused on the f
+ undamentals of software development and design. The unique coderetreat
+  format (which eliminates the pressure of 'getting things done' and fo
+ cuses on practicing basic principles of good design) has proven to be 
+ a highly effective (and fun) means of skill improvement.\nYou only nee
+ d to bring a laptop with the development tools you require to write co
+ de using your chosen programming languages. Snacks, drinks and lunch w
+ ill be provided.\nRegister here!\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-code-retreat-2012-zurich-switzerl
+ and
+DTSTART:20121208T083000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:Namics Zurich
+WEBSITE:http://zurich.codersonly.org/index.php/events/code-retreat/
+URL:http://zurich.codersonly.org/index.php/events/code-retreat/
+CONTACT:
+ORGANIZER;CN=infinitary:http://coderetreat.org/profile/infinitary
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/z0vpkPptbhb8c
+ -ruaqkcxIdYhk2F9RidrhoWUJK15RuHyaMku-3AXXKrAHL3DUGWdtuK5ajA1aXfT6Q*27R
+ 2nKf5aPKa0ChS/123456.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=infinitar
+ y:http://coderetreat.org/profile/infinitary
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Raphael 
+ Ackermann":http://coderetreat.org/profile/RaphaelAckermann
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andreas 
+ Arnold":http://coderetreat.org/profile/AndreasArnold
+END:VEVENT
+END:VCALENDAR

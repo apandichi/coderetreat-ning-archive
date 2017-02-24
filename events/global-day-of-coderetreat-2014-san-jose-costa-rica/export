@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38334
+DTSTAMP:20170129T120336Z
+SUMMARY:Global Day of Coderetreat 2014 - San Jose, Costa Rica
+DESCRIPTION:http://globalday.coderetreat.org/\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2014-san
+ -jose-costa-rica
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:San Jose, Costa Rica
+WEBSITE:http://maps.google.com/maps?q=9.920898,+-84.036425&num=1&vpsrc
+ =0&ie=UTF8&t=m&z=19&iwloc=A
+URL:http://maps.google.com/maps?q=9.920898,+-84.036425&num=1&vpsrc=0&i
+ e=UTF8&t=m&z=19&iwloc=A
+CONTACT:88412746
+ORGANIZER:Pernix Solutions
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jose And
+ res Alvarez":http://coderetreat.org/profile/JoseAndresAlvarez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Ávalos Mendieta":http://coderetreat.org/profile/JonathanAvalosMendie
+ ta
+END:VEVENT
+END:VCALENDAR

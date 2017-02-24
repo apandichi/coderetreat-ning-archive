@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40027
+DTSTAMP:20170129T133242Z
+SUMMARY:Facilitator Training Session (Aki Salmi)
+DESCRIPTION:\nThis training is for facilitators. Anybody interested in
+  facilitating a coderetreat is invited to attend at least one training
+  session. This training will be delivered online on Google Plus Events
+ . Make sure you will be online five minutes before the training starts
+ .\n\nFor more information visit http://coderetreat.org/events/facilita
+ tor-training-session-aki-salmi
+DTSTART:20141027T180000Z
+DTEND:20141027T190000Z
+CATEGORIES:facilitator_training, training
+LOCATION:https://plus.google.com/events/cumtfgcv3t9j1pmlc1ullcgpg0g
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Aki Salmi":http://coderetreat.org/profile/AkiSalmi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vlad Kor
+ olev":http://coderetreat.org/profile/VladKorolev
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13110
+DTSTAMP:20170129T134149Z
+SUMMARY:Global Day of Coderetreat 2012 - Toronto / Canada
+DESCRIPTION:The Global Day of Code Retreat (Toronto Edition) will be t
+ aking place 5 mins away from Union Station on December 8th.\nMany than
+ ks to our venue sponsor Polar Mobile (http://polarmobile.com), and our
+  lunch sponsor Guidewire (http://guidewire.com)!\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-2012-
+ toronto-canada
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Polar Mobile
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Michael DiBernardo, Tazveer Singh, Kyle Hodgson
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrey P
+ etrov":http://coderetreat.org/profile/AndreyPetrov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Jud
+ ge":http://coderetreat.org/profile/MikeJudge
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kay Zhu"
+ :http://coderetreat.org/profile/KayZhu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mohammed
+ Zackria DawoodBasha":http://coderetreat.org/profile/MohammedZackriaDaw
+ oodBasha
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Lau
+ ":http://coderetreat.org/profile/MikeLau
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ DiBernardo":http://coderetreat.org/profile/MichaelDiBernardo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeremy W
+ iebe":http://coderetreat.org/profile/JeremyWiebe
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Colin Bo
+ wern":http://coderetreat.org/profile/ColinBowern
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="James B
+ aker":http://coderetreat.org/profile/JamesBaker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Matt St
+ evens":http://coderetreat.org/profile/MattStevens
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Scott M
+ oynes":http://coderetreat.org/profile/ScottMoynes
+END:VEVENT
+END:VCALENDAR

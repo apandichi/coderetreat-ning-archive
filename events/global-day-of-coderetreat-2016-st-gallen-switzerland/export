@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54206
+DTSTAMP:20170129T112828Z
+SUMMARY:Global Day of Coderetreat 2016 - St. Gallen, Switzerland
+DESCRIPTION:It's the second time, we are running GDCR in St. Gallen!\n
+ Our hosts, as per tradition, is the friendliest and coolest IT shop in
+  town: Namics AG.\nRegistration is open on Eventbrite (GDCR 16 St. Ga
+ llen)\nAlso, check out the GDCR events in Bern and Zürich as well, yo
+ u may need to travel less!\n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-2016-st-gallen-switzerland
+DTSTART:20161022T083000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Namics AG
+WEBSITE:https://www.google.ch/maps/place/Namics+AG/@47.4200332,9.37068
+ 97,17z/data=!3m1!4b1!4m2!3m1!1s0x479b1fb4d4a2f481:0x5f38e113991559cd
+URL:https://www.google.ch/maps/place/Namics+AG/@47.4200332,9.3706897,1
+ 7z/data=!3m1!4b1!4m2!3m1!1s0x479b1fb4d4a2f481:0x5f38e113991559cd
+CONTACT:
+ORGANIZER;CN="Patrick Baumgartner":http://coderetreat.org/profile/patb
+ aumgartner
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/bt5BWlmh0GbMz
+ 8IVnVuEt1A3MGZMl1ak6jhBpvXaxgON4S7WBkWeHt2OuUBX6JHKt7fpHfMu-vEyt1NUcs7
+ felh6vYInzP-c/1024pxStiftskirche_St.Gallen_side.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patrick 
+ Baumgartner":http://coderetreat.org/profile/patbaumgartner
+END:VEVENT
+END:VCALENDAR

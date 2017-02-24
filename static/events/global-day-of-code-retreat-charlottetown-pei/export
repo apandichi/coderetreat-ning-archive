@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55125
+DTSTAMP:20170129T105025Z
+SUMMARY:Global Day of Coderetreat 2016 - Charlottetown, Canada
+DESCRIPTION:Global Day of Code Retreat hosted by PEIDevs\n\nFor more i
+ nformation visit http://coderetreat.org/events/global-day-of-code-retr
+ eat-charlottetown-pei
+DTSTART:20161022T080000Z
+DTEND:20161022T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Startup Zone
+WEBSITE:https://www.google.ca/maps/place/Startup+Zone/@46.2323826,-63.
+ 1262815,18z/data=!4m5!3m4!1s0x0:0xcf840cae26d3744b!8m2!3d46.231994!4d-
+ 63.125114
+URL:https://www.google.ca/maps/place/Startup+Zone/@46.2323826,-63.1262
+ 815,18z/data=!4m5!3m4!1s0x0:0xcf840cae26d3744b!8m2!3d46.231994!4d-63.1
+ 25114
+CONTACT:
+ORGANIZER;CN=PEIDevs:http://coderetreat.org/profile/PEIDevs
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=PEIDevs:h
+ ttp://coderetreat.org/profile/PEIDevs
+END:VEVENT
+END:VCALENDAR

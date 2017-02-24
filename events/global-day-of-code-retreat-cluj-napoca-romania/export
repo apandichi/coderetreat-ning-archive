@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40742
+DTSTAMP:20170129T120547Z
+SUMMARY:Global Day of Coderetreat 2014 - Cluj-Napoca, Romania
+DESCRIPTION:We invite you to the Global Day of Coderetreat in Cluj-Na
+ poca! Please register for this event using the RABS website.\nCoderetr
+ eat is a day-long, intensive practice event, focusing on the fundament
+ als of software development and design. By providing developers the op
+ portunity to take part in focused practice, away from the pressures of
+  'getting things done', the coderetreat format has proven itself to 
+ be a highly effective means of skill improvement. Practicing the basic
+  principles of modular and object-oriented design, developers can impr
+ ove their ability to write code that minimizes the cost of change over
+  time. \n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-code-retreat-cluj-napoca-romania
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Cluj Hub
+WEBSITE:http://clujhub.ro
+URL:http://clujhub.ro
+CONTACT:
+ORGANIZER;CN="Andrei Olar":http://coderetreat.org/profile/AndreiOlar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrei O
+ lar":http://coderetreat.org/profile/AndreiOlar
+END:VEVENT
+END:VCALENDAR

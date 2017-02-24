@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26574
+DTSTAMP:20170129T104448Z
+SUMMARY:Code Retreat @ Web & PHP Conference
+DESCRIPTION:This is a classical code retreat - very beginner friendly.
+  It happens as part of the Web & PHP Conference (http://webandphp.com/
+ conference/Coderetreat). Attending the conference is free! You can reg
+ ister here: http://www.amiando.com/webandphpcon13.html\n\nFor more in
+ formation visit http://coderetreat.org/events/code-retreat-web-php-con
+ ference
+DTSTART:20130918T134500Z
+DTEND:20130918T201500Z
+CATEGORIES:coderetreat
+LOCATION:San Jose McEnery Convention Center
+WEBSITE:https://www.google.de/maps/preview?authuser=0#!q=San+Jose+McEn
+ ery+Convention+Center++%E2%80%A8150+W.+San+Carlos+Street++%E2%80%A8San
+ +Jose%2C+CA+95113&data=!4m10!1m9!4m8!1m3!1d2926034!2d11.4079934!3d48.9
+ 174128!3m2!1i1745!2i837!4f13.1
+URL:https://www.google.de/maps/preview?authuser=0#!q=San+Jose+McEnery+
+ Convention+Center++%E2%80%A8150+W.+San+Carlos+Street++%E2%80%A8San+Jos
+ e%2C+CA+95113&data=!4m10!1m9!4m8!1m3!1d2926034!2d11.4079934!3d48.91741
+ 28!3m2!1i1745!2i837!4f13.1
+CONTACT:
+ORGANIZER:Web & PHP Magazine, Marco Emrich
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/OdjX9Z2ruqSMh
+ nnaFZSySWU6mkCi4q8q5SIqKFFP6egl7tI7QmiVyikP41ubgku3c8W9OFeHZb5FK7jzWps
+ BcgE31U1MEYze/wpc_con_header2.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Em
+ rich":http://coderetreat.org/profile/MarcoEmrich
+END:VEVENT
+END:VCALENDAR

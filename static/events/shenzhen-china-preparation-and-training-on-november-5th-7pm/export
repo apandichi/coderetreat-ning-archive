@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49132
+DTSTAMP:20170129T122842Z
+SUMMARY:Shenzhen (China) - preparation and training on November 5th 7p
+ m
+DESCRIPTION:Coderetreat Shenzhen, preparation and training on November
+  5th 7pm\nThis is meeting for organizers and face-to-face training for
+  facilitators.\nhttp://coderetreat-china.github.io/shenzhen \n\nFor m
+ ore information visit http://coderetreat.org/events/shenzhen-china-pre
+ paration-and-training-on-november-5th-7pm
+DTSTART:20151105T190000Z
+DTEND:20151105T200000Z
+CATEGORIES:preparation, and, training
+LOCATION:EPAM Systems, Conference Room A
+WEBSITE:http://coderetreat-china.github.io/shenzhen
+URL:http://coderetreat-china.github.io/shenzhen
+CONTACT:+8615889583889
+ORGANIZER;CN="Paul Verest":http://coderetreat.org/profile/PaulVerest
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Ver
+ est":http://coderetreat.org/profile/PaulVerest
+END:VEVENT
+END:VCALENDAR

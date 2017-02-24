@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:7353
+DTSTAMP:20170129T123001Z
+SUMMARY:Code Retreat Denver
+DESCRIPTION:http://denvercoderetreat.eventbrite.com/\n\n\nWant to star
+ t 2012 with a day practicing software craftsmanship, and discuss softw
+ are craftmanship with a well known Agile development practitioner & au
+ thor?\nThen you should be at this event!\n\n\nVenkat Subramaniam, auth
+ or of Programming Scala: Tackle Multi-Core Complexity on the Java Vir
+ tual Machine and four other books will be at this code retreat, fac
+ ilitated by Charley Baker and Cory Flanigan\n\n\nWhen? : On Saturd
+ ay January 21, 2012\nWhere? : At Uncubed Co-working space in Denver, 
+ CO\nHow much? : It's free for the participants\n\n\n\nFor more inform
+ ation visit http://coderetreat.org/events/code-retreat-denver
+DTSTART:20120121T000000Z
+DTEND:20120121T235900Z
+CATEGORIES:coding
+LOCATION:Uncubed in Denver
+WEBSITE:http://www.uncubedspace.com/
+URL:http://www.uncubedspace.com/
+CONTACT:
+ORGANIZER:Charley Baker & Cory Flanigan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Charley 
+ Baker":http://coderetreat.org/profile/CharleyBaker
+END:VEVENT
+END:VCALENDAR

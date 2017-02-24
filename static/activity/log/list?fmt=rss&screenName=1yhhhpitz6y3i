@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Kevin Shaw&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/KevinShaw</link>
+        <pubDate>Sun, 29 Jan 2017 10:49:04 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:49:04 +0000</lastBuildDate>
+        <image>
+            <title>Kevin Shaw&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/KevinShaw</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fe0d2ce385e7a19430a84b4</guid>
+               <title>Kevin Shaw updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47374?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/KevinShaw?xg_source=activity">Kevin Shaw</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47374?xg_source=activity">Global Day of Coderetreat 2015 - Arlington, VA, USA</a> at Hobsons</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Code retreat in Arlington, VA.  Hosted by Hobsons.We are metro accessible at the Clarendon metro stop, from Washington DC and Maryland.Please register through our Eventbrite page:  <a href="https://www.eventbrite.com/e/global-day-of-coderetreat-2015-arlington-va-usa-tickets-19102930379">https://www.eventbrite.com/e/global-day-of-coderetreat-2015-arlington-va-usa-tickets-19102930379</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47374?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 27 Oct 2015 15:27:35 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fe0d2ce8dd1f81fe210e8f6</guid>
+               <title>Kevin Shaw posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47374?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/KevinShaw?xg_source=activity">Kevin Shaw</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47374?xg_source=activity">Global Day of Coderetreat 2015 - Arlington, VA, USA</a> at Hobsons</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Code retreat in Arlington, VA.  Hosted by Hobsons.We are metro accessible at the Clarendon metro stop, from Washington DC and Maryland.Please register through our Eventbrite page:  <a href="https://www.eventbrite.com/e/global-day-of-coderetreat-2015-arlington-va-usa-tickets-19102930379">https://www.eventbrite.com/e/global-day-of-coderetreat-2015-arlington-va-usa-tickets-19102930379</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47374?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 15 Oct 2015 18:12:32 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26222
+DTSTAMP:20170129T123301Z
+SUMMARY:Code Retreat @ /ch/open Workshop-Tage 2013
+DESCRIPTION:Dies wird ein \"klassischer\" Code Retreat an den /ch/open
+  Workshop-Tagen in Zürich. Sprache: Deutsch (English) Anmeldung über
+  die /ch/open Webseite.\n\nFor more information visit http://coderetre
+ at.org/events/code-retreat-ch-open-workshoptage
+DTSTART:20130912T090000Z
+DTEND:20130912T173000Z
+CATEGORIES:coderetreat
+LOCATION:ETH Zürich
+WEBSITE:http://www.ch-open.ch/wstage/workshop-tage/2013/aktuelles-prog
+ ramm-2013/ws-15-coderetreat-honing-the-craft-together/
+URL:http://www.ch-open.ch/wstage/workshop-tage/2013/aktuelles-programm
+ -2013/ws-15-coderetreat-honing-the-craft-together/
+CONTACT:
+ORGANIZER;CN="Oliver Nautsch":http://coderetreat.org/profile/OliverNau
+ tsch
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Oliver N
+ autsch":http://coderetreat.org/profile/OliverNautsch
+END:VEVENT
+END:VCALENDAR

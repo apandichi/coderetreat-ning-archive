@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:25351
+DTSTAMP:20170129T103943Z
+SUMMARY:Coderetreat Bucharest
+DESCRIPTION:This coderetreat will be language agnostic.\nPlease check 
+ the details and RSVP here: http://www.meetup.com/The-Bucharest-Agile-S
+ oftware-Meetup-Group/events/127791172/\n\nFor more information visit h
+ ttp://coderetreat.org/events/coderetreat-bucharest-2
+DTSTART:20130907T090000Z
+DTEND:20130907T170000Z
+CATEGORIES:coderetreat
+LOCATION:http://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Gro
+ up/events/127791172/
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

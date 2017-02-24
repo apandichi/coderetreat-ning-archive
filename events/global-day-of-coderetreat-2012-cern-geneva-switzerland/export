@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16057
+DTSTAMP:20170129T134629Z
+SUMMARY:Global Day of Coderetreat 2012 - CERN - Geneva / Switzerland
+DESCRIPTION:Enroll the event and more info at: http://cern.ch/go/z7cC
+  \n\nFor more information visit http://coderetreat.org/events/global-d
+ ay-of-coderetreat-2012-cern-geneva-switzerland
+DTSTART:20121208T083000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat
+LOCATION:CERN - European Organization for Nuclear Research
+WEBSITE:http://gathers.us/events/global-day-of-coderetreat-2012-cern-g
+ eneva-switzerland
+URL:http://gathers.us/events/global-day-of-coderetreat-2012-cern-genev
+ a-switzerland
+CONTACT:
+ORGANIZER;CN="Ruben Pollan":http://coderetreat.org/profile/RubenPollan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ruben Po
+ llan":http://coderetreat.org/profile/RubenPollan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alberto 
+ Milla":http://coderetreat.org/profile/AlbertoMilla
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pablo Gu
+ errero":http://coderetreat.org/profile/PabloGuerrero
+END:VEVENT
+END:VCALENDAR

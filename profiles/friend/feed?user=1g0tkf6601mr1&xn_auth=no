@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1g0tkf6601mr1&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:21:03Z</updated>
+                            <author>
+                    <name>Frosina</name>
+                    <uri>http://coderetreat.org/profile/Frosina</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/cDEmeB8bWGTT8A07HSd8wzUSEdRiGivBbO8yskPXlkaKQCI0If2QV0TCpdDD2fGh-u5vreJPCBCQvG5fLrB2Cin5Lc8raZX0/1152941795.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1g0tkf6601mr1&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Dalibor Nasevic</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/DaliborNasevic"/>
+                                        <id>tag:coderetreat.org,2011-11-24:6456126:User:1756</id>
+                                        <updated>2011-11-24T19:20:22.133Z</updated>
+                    
+                                            <author>
+                            <name>Frosina</name>
+                            <uri>http://coderetreat.org/profile/Frosina</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/Vwc9YSHjxM7wHKKjGfnGsl*Z3TTm3*UMMU5XTzPCkppYnHsEyUNVjwYpcYvsutLz9xTPGCG*bW0d-ZzfgHGlMQKQFNdE-kLe/1150678038.jpeg?xgip=0%3A0%3A598%3A598%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Dalibor Nasevic&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/Vwc9YSHjxM7wHKKjGfnGsl*Z3TTm3*UMMU5XTzPCkppYnHsEyUNVjwYpcYvsutLz9xTPGCG*bW0d-ZzfgHGlMQKQFNdE-kLe/1150678038.jpeg?xgip=0%3A0%3A598%3A598%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Dalibor Nasevic&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

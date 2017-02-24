@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29528
+DTSTAMP:20170129T115515Z
+SUMMARY:Global Day of Coderetreat 2013 - Perth, Australia
+DESCRIPTION:Global Day of Coderetreat will be hosted at Spacecubed by 
+ ThoughtWorks Australia Pty. Ltd.\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-coderetreat-2013-perth-australia
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Spacecubed
+WEBSITE:http://www.spacecubed.com
+URL:http://www.spacecubed.com
+CONTACT:
+ORGANIZER:ThoughtWorks Australia Pty. Ltd.
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zane Pri
+ ckett":http://coderetreat.org/profile/ZanePrickett
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Brady:htt
+ p://coderetreat.org/profile/BradyLill
+END:VEVENT
+END:VCALENDAR

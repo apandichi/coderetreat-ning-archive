@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12030
+DTSTAMP:20170129T134049Z
+SUMMARY:Global Day of Coderetreat 2012 - Atlantic Canada (Summerside, 
+ PE) / Canada
+DESCRIPTION:Representing Maritime Canada! It's a Code Retreat in one o
+ f the only two Canadian time zones that Americans don't have! It has S
+ teven Baker! What more do you want?!\nPlease RSVP here: http://link.j
+ brains.ca/Q5dF5L\n\nFor more information visit http://coderetreat.org/
+ events/global-day-of-code-retreat-atlantic-canada-summerside-pe
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Holman Centre
+WEBSITE:http://link.jbrains.ca/Q5dF5L
+URL:http://link.jbrains.ca/Q5dF5L
+CONTACT:
+ORGANIZER;CN="J. B. Rainsberger":http://coderetreat.org/profile/JBRain
+ sberger
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="J. B. Ra
+ insberger":http://coderetreat.org/profile/JBRainsberger
+END:VEVENT
+END:VCALENDAR

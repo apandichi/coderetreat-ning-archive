@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11499
+DTSTAMP:20170129T140534Z
+SUMMARY:Global Day of Coderetreat 2012 - Mexico City / Mexico
+DESCRIPTION:What is Global Day of Coderetreat?\nGlobal Day of Coderet
+ reat es un evento que se realiza en diferentes ciudades del mundo para
+  celebrar nuestra pasión por el desarrollo del software.\nMás inform
+ ación: http://globalday.coderetreat.org/\n \nAcerca del Coderetreat
+ \nCode Retreat es todo un dia de practica intensiva enfocada en las ba
+ ses del diseño y desarrollo de software.\nEl formato único del event
+ o (que elimina la presión de 'terminar a como de lugar' y se enfoca e
+ n practicar los principios básicos de buen diseño) es una manera muy
+  efectiva (y divertida) de mejorar tus habilidades.\nPor el hecho de q
+ ue únicamente se enfoca solo en principios de diseño y comportamient
+ o, no importa cual sea tu lenguaje de programación predilecto. Los ej
+ ercicios pueden llevarse a cabo con Ruby, Java, Smalltalk, C++, C#, co
+ n lo que te sientas cómodo, siempre y cuando traigas tu equipo con el
+  ambiente de desarrollo preparado para ello.\nToma en cuenta también 
+ que por la diversidad de los asistentes, puede que termines programand
+ o en par con alguien que no utiliza tu lenguaje. No te apures por esto
+ , recuerda que lo importante es el diseño y el comportamiento, no la 
+ sintaxis.\nEl evento es para todos. Para desarrolladores experimentado
+ s que quieren compartir su experiencia y para desarrolladores nuevos d
+ ispuestos a aprender mas acerca del desarrollo de Software.\nPara asis
+ tir, es necesario que lleves tu equipo de computo preparado para progr
+ amar. Los alimentos y bebidas van por nuestra cuenta. También toma en
+  cuenta que vamos a estar ahi prácticamente todo un día, ve preparad
+ o.\nCon el apoyo de: Artesanos de Software,Blue Touch,Kwotion,Recursi
+ vo,SynergyJ\n \nRegistro en eventbrite\n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-coderetreat-2012-mexico-ci
+ ty
+DTSTART:20121208T100000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat
+LOCATION:Uny II
+WEBSITE:http://goo.gl/maps/PBKnB
+URL:http://goo.gl/maps/PBKnB
+CONTACT:+52.1.55.8510.1582
+ORGANIZER:Agustiin Ramos,Alcides Flores, Alfredo Chavez,Daniel Ramos, 
+ Jose J Reyes
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel R
+ amos":http://coderetreat.org/profile/DanielRamos
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Agustín
+  Ramos":http://coderetreat.org/profile/AgustinRamos
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Héctor 
+ Rodes":http://coderetreat.org/profile/HectorRodes
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Christi
+ an Romero":http://coderetreat.org/profile/ChristianRomero
+END:VEVENT
+END:VCALENDAR

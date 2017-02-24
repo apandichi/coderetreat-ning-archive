@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13570
+DTSTAMP:20170129T134552Z
+SUMMARY:Global Day of Code Retreat 2012 - Osaka / Japan
+DESCRIPTION:We're happy to announce that Osaka will join the Global Da
+ y of Code Retreat 2012.  The venue and RSVP site will be announced sh
+ ortly.\n\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-code-retreat-2012-osaka-japan
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:code, retreat
+LOCATION:OGIS-RI Co.,Ltd.　Senri Office
+WEBSITE:http://kokucheese.com/event/index/60873/
+URL:http://kokucheese.com/event/index/60873/
+CONTACT:
+ORGANIZER;CN="Eiji Yamane":http://coderetreat.org/profile/EijiYamane
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eiji Yam
+ ane":http://coderetreat.org/profile/EijiYamane
+END:VEVENT
+END:VCALENDAR

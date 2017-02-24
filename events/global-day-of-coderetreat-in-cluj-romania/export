@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15576
+DTSTAMP:20170129T122834Z
+SUMMARY:Global Day of Coderetreat in Cluj, Romania
+DESCRIPTION:I am happy to facilitate a coderetreat in Cluj, Romania du
+ ring the Global Day of Coderetreat.\nMore info here: http://www.meetup
+ .com/The-Cluj-Napoca-Agile-Software-Meetup-Group/events/90495422/\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-in-cluj-romania
+DTSTART:20121208T090000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat, gdcr, 2012
+LOCATION:See Meetup
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

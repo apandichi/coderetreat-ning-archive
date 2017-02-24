@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47893
+DTSTAMP:20170129T103724Z
+SUMMARY:Global Day of Coderetreat 2015 - New York City, NY, USA
+DESCRIPTION:8th Light and the Flatiron School are honored to host a 20
+ 15 Global Day of Code Retreat in the Big Apple.\nPlease join us for a 
+ full day of hands-on coding exercises to improve your craft.\nJust bri
+ ng your computer and a willingness to stretch your brain. Snacks and L
+ unch will be provided.\nSpace will be limited to 30 people. Please kee
+ p on eye on @8thlightinc and @flatironschool for RSVP details.\n\nFor 
+ more information visit http://coderetreat.org/events/global-day-of-cod
+ eretreat-2015-new-york-city-united-states-1
+DTSTART:20151114T090000Z
+DTEND:20151114T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:The Flatiron School NYC
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:The Flatiron School & 8th Light
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Junyu Te
+ oh":http://coderetreat.org/profile/JunyuTeoh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matthew 
+ Jording":http://coderetreat.org/profile/MatthewJording
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jun-Kai 
+ Teoh":http://coderetreat.org/profile/JunKaiTeoh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Ebe
+ rt":http://coderetreat.org/profile/MikeEbert
+END:VEVENT
+END:VCALENDAR

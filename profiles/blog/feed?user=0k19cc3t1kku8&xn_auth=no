@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Carlos Peix&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0k19cc3t1kku8&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:50Z</updated>
+                            <author>
+                    <name>Carlos Peix</name>
+                    <uri>http://coderetreat.org/profile/carlospeix</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0k19cc3t1kku8&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Coderetreat in Buenos Aires</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5010"/>
+                                        <id>tag:coderetreat.org,2011-12-06:6456126:BlogPost:5010</id>
+                                        <updated>2011-12-06T15:29:47.000Z</updated>
+                    
+                                            <author>
+                            <name>Carlos Peix</name>
+                            <uri>http://coderetreat.org/profile/carlospeix</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Here is my &lt;a href=&quot;http://www.codeandbeyond.org/2011/12/global-day-of-coderetreat.html&quot; target=&quot;_blank&quot;&gt;blog post&lt;/a&gt; on the subject. Enjoy.&lt;/p&gt;
+&lt;p&gt;Thank you very much to Corey and team.&lt;/p&gt;
+&lt;p&gt;Carlos Peix&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Here is my &lt;a href=&quot;http://www.codeandbeyond.org/2011/12/global-day-of-coderetreat.html&quot; target=&quot;_blank&quot;&gt;blog post&lt;/a&gt; on the subject. Enjoy.&lt;/p&gt;
+&lt;p&gt;Thank you very much to Corey and team.&lt;/p&gt;
+&lt;p&gt;Carlos Peix&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

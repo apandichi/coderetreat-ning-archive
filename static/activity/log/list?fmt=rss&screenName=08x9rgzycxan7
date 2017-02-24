@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Anuar Nurmakanov&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AnuarNurmakanov</link>
+        <pubDate>Sun, 29 Jan 2017 09:31:02 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:31:02 +0000</lastBuildDate>
+        <image>
+            <title>Anuar Nurmakanov&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AnuarNurmakanov</link>
+            <url>http://api.ning.com:80/files/Flg-lHiuL4dsrTVUwj5CnrEUZ4C*JmXa2-Q5ovyFc0naQs0FFaFWWZofiFzOjtTLu3W0rVNiCgKpatDeYOYUKWtuPHs0kj9H/1147672283.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011fef84827bb4c4e2bc33d30</guid>
+               <title>Anuar Nurmakanov posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:57234?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AnuarNurmakanov?xg_source=activity">Anuar Nurmakanov</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:57234?xg_source=activity">Astana CodeRetreat 2016</a> at Astana, Kazakhstan</h3><div class="rich-detail"><div class="rich-date">December 24, 2016 from 10:30am to 7pm</div><div class="rich-excerpt">CodeRetreat organized by EPAM Systems in Astana: 34 registerd participants from different companies and places.We expect to have Java, JS, C#, Scala, Python developers in one placeFacilitator: Anuar Nurmakanov, who already did CodeRetreat in Karaganda city, during Global Day of CodeRetreat 2015<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:57234?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 20 Dec 2016 14:26:18 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011fef848777e8a7e14eaba55</guid>
+               <title>Anuar Nurmakanov posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47542?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AnuarNurmakanov?xg_source=activity">Anuar Nurmakanov</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:47542?xg_source=activity" ><img src="http://api.ning.com/files/pip6g4jx0scCgoojDLSAmQzTFMEO7z1ZkOSVHCGM2bZIJukB-1nTsTYXOxXh*z*E3Z83yjXdUupEfqvDVLjYlVAij4GQotpf/black_belt400x242.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47542?xg_source=activity">Global Day of Coderetreat 2015 - Karaganda, Kazakhstan</a> at EPAM KZ office</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">GDCR15 in Karaganda, Kazakhstan.Le'ts do it together.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47542?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 16 Oct 2015 14:44:37 +0000</pubDate>
+               </item>    </channel>
+</rss>

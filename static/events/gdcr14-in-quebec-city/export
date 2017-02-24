@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37607
+DTSTAMP:20170129T120604Z
+SUMMARY:Global Day of Coderetreat 2014 - Quebec City, Canada
+DESCRIPTION:Le GDCR aura encore lieu à Québec cette année, mais ave
+ c de nouveaux visages à la facilitation et à l'organisation! Nous vo
+ us promettons une journée dynamique remplie de défis et ce, pour les
+  développeurs de tous les niveaux.\nDe plus, nous vous invitons à re
+ ster après la journée pour continuer de discuter autour d'une bière
+  dans un pub du centre-ville. \nEn bref, une magnifique journée nous
+  attends! Joignez-vous à nous!\n\n\nFor more information visit http:/
+ /coderetreat.org/events/gdcr14-in-quebec-city
+DTSTART:20141115T080000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Hôtel Le Germain-Dominion
+WEBSITE:https://www.google.ca/maps/place/H%C3%B4tel+Le+Germain-Dominio
+ n/@46.8159995,-71.2719183,12z/data=!4m2!3m1!1s0x4cb895e7659c9ead:0x695
+ 37f24ab859486
+URL:https://www.google.ca/maps/place/H%C3%B4tel+Le+Germain-Dominion/@4
+ 6.8159995,-71.2719183,12z/data=!4m2!3m1!1s0x4cb895e7659c9ead:0x69537f2
+ 4ab859486
+CONTACT:
+ORGANIZER;CN="Sylvain Cloutier":http://coderetreat.org/profile/Sylvain
+ Cloutier
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="vincent 
+ l-garant":http://coderetreat.org/profile/vincentlgarant
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sylvain 
+ Cloutier":http://coderetreat.org/profile/SylvainCloutier
+END:VEVENT
+END:VCALENDAR

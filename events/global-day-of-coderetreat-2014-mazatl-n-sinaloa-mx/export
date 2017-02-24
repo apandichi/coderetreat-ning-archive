@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40290
+DTSTAMP:20170129T120710Z
+SUMMARY:Global Day of Coderetreat 2014 - Mazatlán, Mexico
+DESCRIPTION:https://www.eventbrite.es/e/entradas-global-day-of-coderet
+ reat-mazatlan-2014-13860482075\nhttp://globalday.coderetreat.org/\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2014-mazatl-n-sinaloa-mx
+DTSTART:20141115T080000Z
+DTEND:20141115T150000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Universidad Politécnica de Sinaloa
+WEBSITE:https://www.google.com.mx/maps/place/Universidad+Polit%C3%A9cn
+ ica+de+Sinaloa/@23.265348,-106.3739982,17z/data=!3m1!4b1!4m2!3m1!1s0x8
+ 69f53930ee12159:0xf9610cdfe8f5ff62?hl=es
+URL:https://www.google.com.mx/maps/place/Universidad+Polit%C3%A9cnica+
+ de+Sinaloa/@23.265348,-106.3739982,17z/data=!3m1!4b1!4m2!3m1!1s0x869f5
+ 3930ee12159:0xf9610cdfe8f5ff62?hl=es
+CONTACT:3317853547
+ORGANIZER:Universidad Politécnica de Sinaloa
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Ale
+ jandro Soberanes":http://coderetreat.org/profile/PaulAlejandroSoberane
+ s
+END:VEVENT
+END:VCALENDAR

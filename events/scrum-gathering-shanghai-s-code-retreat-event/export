@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9293
+DTSTAMP:20170129T110839Z
+SUMMARY:Scrum Gathering Shanghai's Code Retreat Event
+DESCRIPTION:In this year's Scrum Gathering Shanghai event (on Jun 7, 8
+  and 9), we will host a code retreat session in the last day (Jun 9) o
+ f this agile conference. I will update more information later.\nYou ca
+ n also see some information about this conference at http://scrumgath
+ ering.cn/.\n\nFor more information visit http://coderetreat.org/events
+ /scrum-gathering-shanghai-s-code-retreat-event
+DTSTART:20120609T090000Z
+DTEND:20120609T150000Z
+CATEGORIES:coderetreat
+LOCATION:Shanghai, Shanghai
+WEBSITE:http://ditu.google.cn/maps/place?q=%E4%B8%8A%E6%B5%B7%E5%8D%8E
+ %E5%BA%AD%E5%AE%BE%E9%A6%86&hl=zh-CN&ie=UTF8&cid=16727077356484611710
+URL:http://ditu.google.cn/maps/place?q=%E4%B8%8A%E6%B5%B7%E5%8D%8E%E5%
+ BA%AD%E5%AE%BE%E9%A6%86&hl=zh-CN&ie=UTF8&cid=16727077356484611710
+CONTACT:86-13817818241
+ORGANIZER:Joseph Yao, Jackson Zhang, Steven Mak
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/nVkgv9YTAszrV
+ ywXAmNBu6JEeJIP45O-eTb3RBK07hge1xduy*OOnInDd5CD5rC90uncEUeNo2YacQVaZQU
+ cc6wZcixifdrA/ShanghaiforCodeRetreat.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kiro HAR
+ ADA":http://coderetreat.org/profile/KiroHARADA
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joseph Y
+ ao":http://coderetreat.org/profile/JosephYao
+END:VEVENT
+END:VCALENDAR

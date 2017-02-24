@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27315
+DTSTAMP:20170129T104400Z
+SUMMARY:Global Day of Coderetreat 2013 - Calgary, Canada
+DESCRIPTION:https://coderetreatyyc2013.eventbrite.com/\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -2013-calgary-canada
+DTSTART:20131214T084500Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Canada
+WEBSITE:https://coderetreatyyc2013.eventbrite.com/
+URL:https://coderetreatyyc2013.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Curtis Badke":http://coderetreat.org/profile/CurtisBadke
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Curtis B
+ adke":http://coderetreat.org/profile/CurtisBadke
+END:VEVENT
+END:VCALENDAR

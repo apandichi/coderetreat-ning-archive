@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55194
+DTSTAMP:20170129T105036Z
+SUMMARY:Global Day of CodeRetreat - Hyderabad, India
+DESCRIPTION:Java User Group Hyderabad celebrates Global Day of Code Re
+ treat. \nThis is \"a day to celebrate passion and Software Craftsmans
+ hip\"\nIt's a day long event. \nIt's a time to dojo/practice. \nIt's
+  a time to have some fun. \n \n\nFor more information visit http://c
+ oderetreat.org/events/global-day-of-coderetreat-4
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:EPAM Systems Hyderabad
+WEBSITE:http://www.meetup.com/jughyderabad/events/232338762/
+URL:http://www.meetup.com/jughyderabad/events/232338762/
+CONTACT:+919059606485
+ORGANIZER;CN="Rohit Vaidya":http://coderetreat.org/profile/RohitVaidya
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/a5kYpi8WX59*l
+ DZkbEER2OI-wZZ1PtJ6GBod3z1gjN1tow-BSm0*YSqil-WfFKvSrKU96jWBPAH3oEd22*p
+ 30j9I29QVN3VN/JUG.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rohit Va
+ idya":http://coderetreat.org/profile/RohitVaidya
+END:VEVENT
+END:VCALENDAR

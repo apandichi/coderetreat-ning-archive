@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Eric Stewart&#039;s Photos</title>
+        <description>Eric Stewart&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=1d91ey83hsgzj</link>
+        <pubDate>Sun, 29 Jan 2017 12:31:36 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:31:36 +0000</lastBuildDate>
+        <image>
+            <title>Eric Stewart&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=1d91ey83hsgzj</link>
+            <url>http://api.ning.com:80/files/SDhgST2Am3WQoHVpQmP7zQmuB0UkGfr3dFAUMDkYaYMvoKSc8p7moLZdKCapy7Z6bqluuHvARbityfZFV0HckZVURYYxrLS2/1139703061.jpeg?xgip=0%3A0%3A448%3A448%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:51218</guid>             <title>Global Day of Coderetreat 2015 Austin, TX</title>
+            <link>http://coderetreat.org/photo/global-day-of-coderetreat-2015-austin-tx-1</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/AwDVqnxDG2zgRVAHV1RmZeJ7SNnd4FQKKB1YFBtvdjd9ZAkLUmZRl6DFPFgaj7l2LMOSvri4X7*KDzDswq5KewbDbJeLdTez/IMG_2001.jpg?width=800&amp;amp;height=600&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/AwDVqnxDG2zgRVAHV1RmZeJ7SNnd4FQKKB1YFBtvdjd9ZAkLUmZRl6DFPFgaj7l2LMOSvri4X7*KDzDswq5KewbDbJeLdTez/IMG_2001.jpg?width=240&amp;height=180&quot;&gt;&lt;/a&gt;
+                
+            by Eric Stewart </description>                <pubDate>Thu, 19 Nov 2015 16:07:59 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/AwDVqnxDG2zgRVAHV1RmZeJ7SNnd4FQKKB1YFBtvdjd9ZAkLUmZRl6DFPFgaj7l2LMOSvri4X7*KDzDswq5KewbDbJeLdTez/IMG_2001.jpg?width=800&amp;height=600" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/AwDVqnxDG2zgRVAHV1RmZeJ7SNnd4FQKKB1YFBtvdjd9ZAkLUmZRl6DFPFgaj7l2LMOSvri4X7*KDzDswq5KewbDbJeLdTez/IMG_2001.jpg?width=800&amp;height=600" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/AwDVqnxDG2zgRVAHV1RmZeJ7SNnd4FQKKB1YFBtvdjd9ZAkLUmZRl6DFPFgaj7l2LMOSvri4X7*KDzDswq5KewbDbJeLdTez/IMG_2001.jpg?width=240&amp;height=180" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Eric Stewart</media:credit>
+	                        <atom:author>
+                <atom:name>Eric Stewart</atom:name>
+                <atom:uri>http://coderetreat.org/profile/EricStewart</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:51217</guid>             <title>Global Day of Coderetreat 2015 Austin, TX</title>
+            <link>http://coderetreat.org/photo/global-day-of-coderetreat-2015-austin-tx</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/AwDVqnxDG2wK9otBVkuGrkPcJhPUK7i3e3kBq35lQ6ltJHweqOUIPlMVjtlT11rwlL0z9W7GvMgAgoFP6B-az4YYYnyvanlP/CTye3qhUYAEv01g.jpg?width=600&amp;amp;height=450&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/AwDVqnxDG2wK9otBVkuGrkPcJhPUK7i3e3kBq35lQ6ltJHweqOUIPlMVjtlT11rwlL0z9W7GvMgAgoFP6B-az4YYYnyvanlP/CTye3qhUYAEv01g.jpg?width=240&amp;height=180&quot;&gt;&lt;/a&gt;
+                
+            by Eric Stewart </description>                <pubDate>Thu, 19 Nov 2015 16:07:57 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/AwDVqnxDG2wK9otBVkuGrkPcJhPUK7i3e3kBq35lQ6ltJHweqOUIPlMVjtlT11rwlL0z9W7GvMgAgoFP6B-az4YYYnyvanlP/CTye3qhUYAEv01g.jpg?width=600&amp;height=450" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/AwDVqnxDG2wK9otBVkuGrkPcJhPUK7i3e3kBq35lQ6ltJHweqOUIPlMVjtlT11rwlL0z9W7GvMgAgoFP6B-az4YYYnyvanlP/CTye3qhUYAEv01g.jpg?width=600&amp;height=450" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/AwDVqnxDG2wK9otBVkuGrkPcJhPUK7i3e3kBq35lQ6ltJHweqOUIPlMVjtlT11rwlL0z9W7GvMgAgoFP6B-az4YYYnyvanlP/CTye3qhUYAEv01g.jpg?width=240&amp;height=180" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Eric Stewart</media:credit>
+	                        <atom:author>
+                <atom:name>Eric Stewart</atom:name>
+                <atom:uri>http://coderetreat.org/profile/EricStewart</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

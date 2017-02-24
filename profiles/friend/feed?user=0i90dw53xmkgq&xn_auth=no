@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0i90dw53xmkgq&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:51:10Z</updated>
+                            <author>
+                    <name>Kiro HARADA</name>
+                    <uri>http://coderetreat.org/profile/KiroHARADA</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/KGbMBxrJbw4dx5QbboWMFeXxIoZWPfAeuORxSkTFGS-geuOb2Rnqpx4-gyXa533ZpG-fJ2lpQy2QMzNl3dltdmZAfM5DDpFP/410191308.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0i90dw53xmkgq&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Takashi Takebayashi</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/TakashiTakebayashi"/>
+                                        <id>tag:coderetreat.org,2012-04-23:6456126:User:9557</id>
+                                        <updated>2012-04-23T04:07:18.619Z</updated>
+                    
+                                            <author>
+                            <name>Kiro HARADA</name>
+                            <uri>http://coderetreat.org/profile/KiroHARADA</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/iVEAtchYe0LOdvcELRpF8WrfNWAEzPbZZAEMH3cC*2xJxVMQMPNkWW5y7alAjl9M4uASG193ZyPljzVqV30YCqSYsMFoZ8tB/883140485.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Takashi Takebayashi&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/iVEAtchYe0LOdvcELRpF8WrfNWAEzPbZZAEMH3cC*2xJxVMQMPNkWW5y7alAjl9M4uASG193ZyPljzVqV30YCqSYsMFoZ8tB/883140485.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Takashi Takebayashi&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Rajmahendra Hegde</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/rajmahendra"/>
+                                        <id>tag:coderetreat.org,2012-01-29:6456126:User:8204</id>
+                                        <updated>2012-01-29T08:41:38.076Z</updated>
+                    
+                                            <author>
+                            <name>Kiro HARADA</name>
+                            <uri>http://coderetreat.org/profile/KiroHARADA</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/VQZDHldz7na3cyQ8vi9yVwADnhNm1f2ncDHMNJv8xOkUNANg5iVYx6Lk5RkaSPSAWT4gwognyB3JiYeequmR3*goQuAm98rX/866667973.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rajmahendra Hegde&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/VQZDHldz7na3cyQ8vi9yVwADnhNm1f2ncDHMNJv8xOkUNANg5iVYx6Lk5RkaSPSAWT4gwognyB3JiYeequmR3*goQuAm98rX/866667973.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rajmahendra Hegde&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

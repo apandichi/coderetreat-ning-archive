@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29633
+DTSTAMP:20170129T115804Z
+SUMMARY:Global Day of Coderetreat 2013 - Tampa, FL, USA
+DESCRIPTION:Come join us for the great annual celebration of code. We 
+ will have wireless and power available, and provide lunch. Please regi
+ ster through the EventBrite link and we'll look forward to seeing you.
+ \n\nFor more information visit http://coderetreat.org/events/global-da
+ y-of-code-retreat-2
+DTSTART:20131214T080000Z
+DTEND:20131214T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:8th Light Office
+WEBSITE:https://2013gdcrtampa.eventbrite.com
+URL:https://2013gdcrtampa.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Will Warner":http://coderetreat.org/profile/WillWarner
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/QK8xPxzOGRmUj
+ eteaQNiwPYmBZMhGJB6nAUgLNsxQflNMmdXx-DQCknA*pf*1Phx23mpgB8YGWCpxquPBB*
+ E7gOtY8v4tl98/tampa_skyline.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steve Cl
+ anton":http://coderetreat.org/profile/SteveClanton
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Will War
+ ner":http://coderetreat.org/profile/WillWarner
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Alexandru Calinoiu&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AlexandruCalinoiu</link>
+        <pubDate>Sun, 29 Jan 2017 09:57:46 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:57:46 +0000</lastBuildDate>
+        <image>
+            <title>Alexandru Calinoiu&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AlexandruCalinoiu</link>
+            <url>http://api.ning.com:80/files/TARUKDkBK7pFNMhADyPHU-CWxxfS0uvI2uSBGWgxX8KwgLp-jLMNqC0a1mkmeI1GtsChJSnkG-c8AMMAndqYdE7kGC9rHuno/1090797223.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001108d72a261d6268ea18bf8e</guid>
+               <title>Alexandru Calinoiu posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:44511?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AlexandruCalinoiu?xg_source=activity">Alexandru Calinoiu</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:44511?xg_source=activity">Sibiu Code Retreat</a> at Sibiu, Str. Av. Ilie Măcelaru nr. 2</h3><div class="rich-detail"><div class="rich-date">May 9, 2015 all day</div><div class="rich-excerpt">A code retreat focused on the 4 rules on simple design as first stated by Kent Beck:pass all testsno dupicationgood namingminimal methods, classes and modules<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:44511?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 04 May 2015 11:49:50 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000001108d72ac5e4610c69c3422b</guid>
+               <title>Alexandru Calinoiu posted a discussion</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:44100?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AlexandruCalinoiu?xg_source=activity">Alexandru Calinoiu</a> posted a discussion</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:44100?xg_source=activity">This site is mostly unusable</a></h3><div class="rich-detail"><div class="rich-excerpt">Hi,Am I the only one that is having issues with this site?I can't create a new user account, I can't login with an existing one, can't use the login with google function ....Is the code open sourced? I think the community can really improve on the website experience.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:44100?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 11 Mar 2015 12:45:55 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011030853acad922e071e8169</guid>
+               <title>Adi B left a comment for Alexandru Calinoiu</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:41634?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AdiB?xg_source=activity">Adi B</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:41634?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/AlexandruCalinoiu?xg_source=activity">Alexandru Calinoiu</a></span><br/>]]></description>
+               <pubDate>Thu, 13 Nov 2014 09:00:56 +0000</pubDate>
+               </item>    </channel>
+</rss>

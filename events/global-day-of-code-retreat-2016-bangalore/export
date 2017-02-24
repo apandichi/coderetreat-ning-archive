@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56023
+DTSTAMP:20170129T105321Z
+SUMMARY:Global Day of Code Retreat 2016 – Bangalore, India
+DESCRIPTION:Let us celebrate software craftsmanship on 22 October 2016
+ , SolutionsIQ in association with Agile Technical Group will be hostin
+ g Global Day of Code Retreat 2016 –Bangalore, This is a full day eve
+ nt where we will learn by practicing key concepts of software craftsma
+ nship. This is a free event and you’re only required to bring your l
+ aptop with your favorite IDE and unit testing library\n\nFor more info
+ rmation visit http://coderetreat.org/events/global-day-of-code-retreat
+ -2016-bangalore
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:SolutionsIQ , Residency Road
+WEBSITE:https://www.google.co.in/maps/place/Prestige+Towers/@12.968197
+ 2,77.5995843,17z/data=!4m12!1m6!3m5!1s0x3bae1678adedba1d:0x534e88205a9
+ 7a024!2sPrestige+Towers!8m2!3d12.968192!4d77.601773!3m4!1s0x3bae1678ad
+ edba1d:0x534e88205a97a024!8m2!3d12.968192!4d77.601773
+URL:https://www.google.co.in/maps/place/Prestige+Towers/@12.9681972,77
+ .5995843,17z/data=!4m12!1m6!3m5!1s0x3bae1678adedba1d:0x534e88205a97a02
+ 4!2sPrestige+Towers!8m2!3d12.968192!4d77.601773!3m4!1s0x3bae1678adedba
+ 1d:0x534e88205a97a024!8m2!3d12.968192!4d77.601773
+CONTACT:09886627827
+ORGANIZER:SolutionsIQ along in association with Agile Technical Group
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/LWCQK0y*HRCI0
+ LNJNgTV1NB*clkC1yAO*hAhnpogUJ*MeahM-EcO7ycE0n5HgP-WnrY-*vfR7BDjOviXNFK
+ CdmqkY9*5RI7N/download.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ranjith 
+ Tharayil":http://coderetreat.org/profile/RanjithTharayil
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Praveen
+  Kanakarajan":http://coderetreat.org/profile/PraveenKanakarajan
+END:VEVENT
+END:VCALENDAR

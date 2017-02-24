@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Videos Tagged gdcr (Coderetreat) - Coderetreat</title>
+            <link rel="self" href="listTagged?tag=gdcr&amp;rss=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:08:28Z</updated>
+                        <id>http://coderetreat.org/video/video/listTagged?tag=gdcr&amp;rss=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Coderetreat - Krakow, Poland</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:6938"/>
+                                        <id>tag:coderetreat.org,2012-01-08:6456126:Video:6938</id>
+                                        <updated>2012-01-08T11:46:04.618Z</updated>
+                    
+                                            <author>
+                            <name>Adam Pohorecki</name>
+                            <uri>http://coderetreat.org/profile/AdamPohorecki</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/global-day-of-coderetreat-krakow-poland&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/XV4T34ZuKuZRMM84TgnS*9njQm7na4fFT4fbboHIk433HF4TdG2vGqY1eU0DoS5geZQM9zfXLOU1nFVf3iOaQ3mkLkrMH-WH/526496080.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;A short video from GDCR 2011 in Kraków, Poland.                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/global-day-of-coderetreat-krakow-poland&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/XV4T34ZuKuZRMM84TgnS*9njQm7na4fFT4fbboHIk433HF4TdG2vGqY1eU0DoS5geZQM9zfXLOU1nFVf3iOaQ3mkLkrMH-WH/526496080.jpeg?width=240&amp;amp;height=135&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;A short video from GDCR 2011 in Kraków, Poland.                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

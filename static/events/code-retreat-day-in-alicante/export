@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29034
+DTSTAMP:20170129T104834Z
+SUMMARY:Global Day of Coderetreat 2013 - Alicante, Spain
+DESCRIPTION:Sábado 14 de Diciembre a las 9:30\nLugar. Aula Claude Sha
+ nnon, sótanos de la EPS IV, junto a la pecera. Universidad de Alicant
+ e \n\nFor more information visit http://coderetreat.org/events/code-r
+ etreat-day-in-alicante
+DTSTART:20131214T093000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Universidad de Alicante
+WEBSITE:http://tinyurl.com/on39bq4
+URL:http://tinyurl.com/on39bq4
+CONTACT:+34 654 011 839
+ORGANIZER;CN="Jorge Muria Sánchez":http://coderetreat.org/profile/Jor
+ geMuriaSanchez
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ángel A
+ rmenta Martínez":http://coderetreat.org/profile/AngelArmentaMartinez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jorge Mu
+ ria Sánchez":http://coderetreat.org/profile/JorgeMuriaSanchez
+END:VEVENT
+END:VCALENDAR

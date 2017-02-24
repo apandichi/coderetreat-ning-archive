@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:23877
+DTSTAMP:20170129T122736Z
+SUMMARY:Code66-Retreat 1/2013 (รุ่งอรุณแห่งโ
+ ค๊ดอำไพ)
+DESCRIPTION:กิจกรรม CodeRetreat ครั้งแรก
+ ในเมืองไทย ในชื่อ \"รุ่งอร
+ ุณแห่งโค๊ดอำไพ\" กับศาสดา�
+ ��ุดเกรียน Roofimon และอีก 1 สุด�
+ �อดศาสดาแห่งการ Code Salah Chalermthai �
+ ��ี่แม้แต่ Roofimon ยังเอ่ยปาก \"�
+ ��้าดีนเขียน Code ไม่สวยก็ไม�
+ �มีใครในโลกนี้เขียนสวยอี
+ กแล้ว\" \nสถานที่ จัดกันเก�
+ �ียนส์ ๆ ที่ McDonald's สาขา CP Tower สี
+ ลม เวลาที่เกรียนส์ Active 6:00 - 9
+ :00 น. \n\nFor more information visit http://coderetreat.org/events
+ /code66-retreat-1-2013
+DTSTART:20130601T060000Z
+DTEND:20130601T090000Z
+CATEGORIES:first, code, retreat, in, thailand
+LOCATION:CP Tower Silom
+WEBSITE:http://code66-retreat.eventbrite.com/
+URL:http://code66-retreat.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Karan Sivarat":http://coderetreat.org/profile/KaranSivar
+ at
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Karan Si
+ varat":http://coderetreat.org/profile/KaranSivarat
+END:VEVENT
+END:VCALENDAR

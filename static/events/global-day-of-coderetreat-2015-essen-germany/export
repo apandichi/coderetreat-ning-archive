@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45922
+DTSTAMP:20170129T121646Z
+SUMMARY:Global Day of Coderetreat 2015 - Essen, Germany
+DESCRIPTION:OPITZ CONSULTING Deutschland GmbH is hosting the Global D
+ ay of Code Retreat 2015 in Essen.\n // German //\nEin \"Coderetreat\"
+  ist eine ganztägige Veranstaltung zum Üben und Verbessern der Fähi
+ gkeiten zur Software-Entwicklung und des Software-Designs. In entspann
+ ter Atmosphäre und ohne den Druck \"fertig\" werden zu müssen, könn
+ en sich Entwickler vollständig auf das Programmieren selbst konzentri
+ eren, Erkenntnisse gewinnen und Erfahrungen mit anderen Teilnehmern au
+ stauschen.  Am Global Day of Coderetreat finden in vielen Städten a
+ uf der ganzen Welt Coderetreats statt - so auch dieses Jahr in Essen. 
+ Der Veranstaltungsort ist der Standort der OPITZ CONSULTING Deutschla
+ nd GmbH.  Voraussetzung für die Teilnahme ist ein funktionsfähiges N
+ otebook, auf dem alle Entwicklungstools eingerichtet sind, die Sie fü
+ r das Entwickeln in Ihrer Lieblingsprogrammiersprache benötigen.\nAnm
+ eldung\nAnmeldung bitte über Xing.\n\nFor more information visit http
+ ://coderetreat.org/events/global-day-of-coderetreat-2015-essen-germany
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:OPITZ CONSULTING Deutschland GmbH Essen
+WEBSITE:https://www.google.de/maps/place/Altendorfer+Stra%C3%9Fe+3,+45
+ 127+Essen/@51.458737,7.0021154,17z/data=!4m2!3m1!1s0x47b8c2b954e5aa85:
+ 0x657c070199b83fde
+URL:https://www.google.de/maps/place/Altendorfer+Stra%C3%9Fe+3,+45127+
+ Essen/@51.458737,7.0021154,17z/data=!4m2!3m1!1s0x47b8c2b954e5aa85:0x65
+ 7c070199b83fde
+CONTACT:
+ORGANIZER;CN="Roland Schneider":http://coderetreat.org/profile/RolandS
+ chneider
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/dm99ly9wi67dN
+ KcoMOmE2Ty303qPads9IPOC02*gNABxPEWlT7PDcQ8LEcKUT1Ud48SgfU-O0ZuzwsgKDAJ
+ Q6UKMXlFMJGfk/standort_essen_150.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roland S
+ chneider":http://coderetreat.org/profile/RolandSchneider
+END:VEVENT
+END:VCALENDAR

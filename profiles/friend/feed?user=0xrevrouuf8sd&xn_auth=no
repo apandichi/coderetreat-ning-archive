@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0xrevrouuf8sd&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:05:08Z</updated>
+                            <author>
+                    <name>Michel Domenjoud</name>
+                    <uri>http://coderetreat.org/profile/MichelDomenjoud</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0xrevrouuf8sd&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Arolla</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/Arolla"/>
+                                        <id>tag:coderetreat.org,2012-09-28:6456126:User:12904</id>
+                                        <updated>2012-09-28T11:08:44.376Z</updated>
+                    
+                                            <author>
+                            <name>Michel Domenjoud</name>
+                            <uri>http://coderetreat.org/profile/MichelDomenjoud</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/YxYnLeciMY5c9Si-4fcR-8WCG8f-FA5mOKmMsMR-q8r6cpvINwK3x*GRnBgOuXRvAgI1tKXbRnT2PNkwthgD1UtvfQdpvUJ8/934970600.jpeg?xgip=513%3A0%3A2472%3A2472%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Arolla&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/YxYnLeciMY5c9Si-4fcR-8WCG8f-FA5mOKmMsMR-q8r6cpvINwK3x*GRnBgOuXRvAgI1tKXbRnT2PNkwthgD1UtvfQdpvUJ8/934970600.jpeg?xgip=513%3A0%3A2472%3A2472%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Arolla&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

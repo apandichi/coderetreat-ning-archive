@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28905
+DTSTAMP:20170129T101856Z
+SUMMARY:Global Day of Coderetreat 2013 - Arnhem, Netherlands
+DESCRIPTION:Luminis Arnhem is a host for the Global Day of Coderetrea
+ t 2013.\nIf you are interested in participating contact Daan van Berke
+ l at daan.vanberkel@luminis.eu\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2013-arnhem-netherlands
+DTSTART:20131214T100000Z
+DTEND:20131214T200000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Luminis Arnhem
+WEBSITE:https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=L
+ uminis+Arnhem+B.V.,+IJsselburcht,+Arnhem,+The+Netherlands&aq=0&oq=lumi
+ nis+arnhem&sll=37.0625,-95.677068&sspn=69.939706,117.070313&vpsrc=0&t=
+ h&ie=UTF8&hq=luminis+arnhem+bv&hnear=IJsselburcht,+Arnhem,+Gelderland,
+ +The+Netherlands&z=17&cid=4196831690136782988&iwloc=A
+URL:https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Lumin
+ is+Arnhem+B.V.,+IJsselburcht,+Arnhem,+The+Netherlands&aq=0&oq=luminis+
+ arnhem&sll=37.0625,-95.677068&sspn=69.939706,117.070313&vpsrc=0&t=h&ie
+ =UTF8&hq=luminis+arnhem+bv&hnear=IJsselburcht,+Arnhem,+Gelderland,+The
+ +Netherlands&z=17&cid=4196831690136782988&iwloc=A
+CONTACT:+31631765810
+ORGANIZER;CN="Daan van Berkel":http://coderetreat.org/profile/DaanvanB
+ erkel
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daan van
+  Berkel":http://coderetreat.org/profile/DaanvanBerkel
+END:VEVENT
+END:VCALENDAR

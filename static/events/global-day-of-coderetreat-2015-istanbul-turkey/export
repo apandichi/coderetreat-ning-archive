@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45402
+DTSTAMP:20170129T121122Z
+SUMMARY:Global Day of Coderetreat 2015 - Istanbul, Turkey
+DESCRIPTION:As in the previous years, Agile Turkey will host Global Da
+ y of Coderetreat at Istanbul, Turkey. \nAll the details will be annou
+ nced soon at agileturkey.org.\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Istanbul
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Agile Turkey
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/cxNDsYnHlWRWW
+ GCSDXLKdm3WBd04ubGTxqbopHcYag20rSkKP9rg5*NQaL7nfalieDQev9NeOJcoWx3F3Wo
+ ntoz46EZY2emb/agileturkey.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cengiz C
+ an":http://coderetreat.org/profile/CengizCan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lemi Orh
+ an Ergin":http://coderetreat.org/profile/LemiOrhanErgin
+END:VEVENT
+END:VCALENDAR

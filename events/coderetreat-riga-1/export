@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12222
+DTSTAMP:20170129T140650Z
+SUMMARY:Coderetreat Riga
+DESCRIPTION:It is a day-long, intensive practice event, focusing on th
+ e fundamentals of software development and design. By providing develo
+ pers the opportunity to take part in focused practice, away from the p
+ ressures of 'getting things done', the coderetreat format has proven i
+ tself to be a highly effective means of skill improvement. Practicing 
+ the basic principles of modular and object-oriented design, developers
+  can improve their ability to write code that minimizes the cost of ch
+ ange over time. More: http://coderetreat.org/about\nLast time (http:/
+ /www.agile-latvia.org/events/63792502/) some went all the way through 
+ 'TDD as if you meant it' and 'Object calisthenics' and were quite happ
+ y. This time we will do a classic coderetreat again, just choosing ano
+ ther problem to attack.\n\nFor more information visit http://coderetre
+ at.org/events/coderetreat-riga-1
+DTSTART:20120922T093000Z
+DTEND:20120922T163000Z
+CATEGORIES:coderetreat
+LOCATION:Coming soon.
+WEBSITE:http://www.meetup.com/Latvian-Developers-Network/events/809108
+ 22/
+URL:http://www.meetup.com/Latvian-Developers-Network/events/80910822/
+CONTACT:
+ORGANIZER:Aleksejs Truhans from 'Latvian Developers Network'
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/C1skQJk80nZQI
+ 4*xIUA7hbpsqZ4Kt5KSBtmGcQBezBPnnf*i0XmReYX1hz8P3GcLo4s6Fal4L*8mLPeHsLH
+ ffk04zII53qB2/coderetreatriga.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksejs
+  Truhans":http://coderetreat.org/profile/AleksejsTruhans
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vladimir
+  Tarasov":http://coderetreat.org/profile/VladimirTarasow
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2013 - Omaha, NE / Council Bluffs, IA, USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A28823&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:46:02Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A28823&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Enter via highway 6? It looks…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32816"/>
+                                        <id>tag:coderetreat.org,2013-12-14:6456126:Comment:32816</id>
+                                        <updated>2013-12-14T04:40:02.975Z</updated>
+                    
+                                            <author>
+                            <name>Adam Koch</name>
+                            <uri>http://coderetreat.org/profile/AdamKoch</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        Enter via highway 6? It looks like you have to.                    </summary>
+
+                                            <content type="html">
+                            Enter via highway 6? It looks like you have to.                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I registered and now I can&#039;t…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32671"/>
+                                        <id>tag:coderetreat.org,2013-12-14:6456126:Comment:32671</id>
+                                        <updated>2013-12-14T03:08:20.322Z</updated>
+                    
+                                            <author>
+                            <name>Dara Hunter</name>
+                            <uri>http://coderetreat.org/profile/DaraHunter</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I registered and now I can&#039;t go. I def want to make the next one. &lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I registered and now I can&#039;t go. I def want to make the next one. &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

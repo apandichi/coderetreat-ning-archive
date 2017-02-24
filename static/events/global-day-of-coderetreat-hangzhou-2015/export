@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49325
+DTSTAMP:20170129T121336Z
+SUMMARY:Global Day of Coderetreat 2015 - Hangzhou, China
+DESCRIPTION:As a person who loves programming, have you ever regretted
+  not crafting your source code into a beautiful one piece, due to sche
+ dule pressure? Or have you had trouble  in finding the right person f
+ or a deep discussion on programming issues?  We can help you to remov
+ e these trouble.\nIn Global Day of Coderetreat (GDCR), you’ll have a
+ n environment without schedule pressure, spend one day coding for fun,
+  craft your source code, and try different engineering practices. Mean
+ while, you can discuss with people around you who may share common int
+ erests.\n \nOn this day, you’ll practice part or all of below topic
+ s according to participants average level:\n\nPair-programming\nUnit t
+ est\nTest driven development (TDD)\nCode refactoring\nSW design\n\n \
+ nIn each session there’re some interesting rules/limitations, to gui
+ de people go beyond the border of their programming habits, and re-thi
+ nk about the important aspects of programming.\n \nCoderetreat home p
+ age: www.coderetreat.org\nGDCR web page: http://gdcr.coderetreat.org/\
+ n  \nCost: Free, and with free lunch (Nokia HZ TC sponsors it) \n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-hangzhou-2015
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Hangzhou, China
+WEBSITE:http://yihuo.de/activities/154
+URL:http://yihuo.de/activities/154
+CONTACT:
+ORGANIZER;CN="Liao-Yuan Zhang":http://coderetreat.org/profile/LiaoYuan
+ Zhang
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/e94-*Sv1fqrUG
+ YdlkmqLPchoReKFTohZ1*fsCf90hSlWU1Duq2K2W7OO6S5RbGo2D5jgfxE*s-15mhcVh*A
+ hAt9wdIBrP4Fo/2015112174125.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Liao-Yua
+ n Zhang":http://coderetreat.org/profile/LiaoYuanZhang
+END:VEVENT
+END:VCALENDAR

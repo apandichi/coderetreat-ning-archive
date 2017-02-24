@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29877
+DTSTAMP:20170129T115557Z
+SUMMARY:Global Day of Coderetreat 2013 - Brisbane, Australia
+DESCRIPTION:Global Day of Coderetreat 2013 @ ThoughtWorks\n\nFor more 
+ information visit http://coderetreat.org/events/global-day-of-coderetr
+ eat-2013-brisbane-australia
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:ThoughtWorks Brisbane
+WEBSITE:http://goo.gl/maps/exb7Y
+URL:http://goo.gl/maps/exb7Y
+CONTACT:0427097244
+ORGANIZER;CN="Hugo Firth":http://coderetreat.org/profile/HugoFirth
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Hugo Fir
+ th":http://coderetreat.org/profile/HugoFirth
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Iian Ne
+ ill":http://coderetreat.org/profile/IianNeill
+END:VEVENT
+END:VCALENDAR

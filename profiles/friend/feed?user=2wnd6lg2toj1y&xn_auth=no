@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2wnd6lg2toj1y&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:40:39Z</updated>
+                            <author>
+                    <name>Nassere Besseghir</name>
+                    <uri>http://coderetreat.org/profile/NassereBesseghir</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/FL7EfqdupZ3VPhpefsmT9AJIANmsHYBp6*PV3Y1NXh6DQaWUup-vz60sbD9MraR6cJnWsadacJqFadJzxA2g6xIeV-qRaFJl/463995456.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2wnd6lg2toj1y&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Erik Talboom</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ErikTalboom"/>
+                                        <id>tag:coderetreat.org,2011-12-22:6456126:User:6182</id>
+                                        <updated>2011-12-22T11:19:15.109Z</updated>
+                    
+                                            <author>
+                            <name>Nassere Besseghir</name>
+                            <uri>http://coderetreat.org/profile/NassereBesseghir</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/AJLdKyb-til8veUykOeXXHT8VRG0uMpmVPOtJANk0CwwiJu56M8w1yfiFb5ynJfW2Ie4yQpCh3RvywY6CBe1MVorZr2Lp5Lw/492748793.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erik Talboom&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/AJLdKyb-til8veUykOeXXHT8VRG0uMpmVPOtJANk0CwwiJu56M8w1yfiFb5ynJfW2Ie4yQpCh3RvywY6CBe1MVorZr2Lp5Lw/492748793.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erik Talboom&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

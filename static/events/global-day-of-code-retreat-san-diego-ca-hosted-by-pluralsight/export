@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47241
+DTSTAMP:20170129T100719Z
+SUMMARY:Global Day of Coderetreat 2015 - San Diego, CA, USA
+DESCRIPTION:Come spend the Global Day of Code with Pluralsight in Litt
+ le Italy, San Diego, CA\nLight Breakfast (Bruegger's Bagels, Muffins, 
+ Coffee and Juice)\nLunch (Buca di Beppo Main Dishes/Pasta and Salad) p
+ rovided.\n* We are on the second floor; building does not have an elev
+ ator. Parking is available in the Ace parking lot for $10-$15 ( 2265 I
+ ndia St, San Diego CA 92101) or  paidstreet parking for 2 hours\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ code-retreat-san-diego-ca-hosted-by-pluralsight
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Little Italy
+WEBSITE:http://www.deskhub.com/
+URL:http://www.deskhub.com/
+CONTACT:8587052423
+ORGANIZER:
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/OxyEFcGSM-NyB
+ B2LpnO3-760*R*59KMlNqk0SnLAW3bIAkd*CTUZYIsxZE1q0AzLDy8j0C0I4refbNsOPPd
+ S7Or3ix*hgK6F/PS_logo_F14.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=carlmanas
+ ter:http://coderetreat.org/profile/carlmanaster
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Jeremy:ht
+ tp://coderetreat.org/profile/Jeremy
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark Ket
+ tlewell":http://coderetreat.org/profile/MarkKettlewell
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Bar
+ ksdale":http://coderetreat.org/profile/MikeBarksdale
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Co
+ ok":http://coderetreat.org/profile/JamesCook
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Karen De
+ borah Snyder":http://coderetreat.org/profile/KarenDeborahSnyder
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brandon 
+ LoGuercio":http://coderetreat.org/profile/BrandonLoGuercio
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brian Bi
+ schof":http://coderetreat.org/profile/BrianBischof
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ylan Seg
+ al":http://coderetreat.org/profile/YlanSegal
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sang Yum
+ ":http://coderetreat.org/profile/SangYum
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phil Bor
+ lin":http://coderetreat.org/profile/PhilBorlin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arlene P
+ araiso":http://coderetreat.org/profile/ArleneParaiso
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Sam Kim
+ ":http://coderetreat.org/profile/SamKim
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Long Kh
+ a":http://coderetreat.org/profile/LongKha
+END:VEVENT
+END:VCALENDAR

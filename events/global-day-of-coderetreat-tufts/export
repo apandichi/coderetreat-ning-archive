@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48062
+DTSTAMP:20170129T102532Z
+SUMMARY:Global Day of Coderetreat 2015 - Medford, MA, USA
+DESCRIPTION:We're holding a CodeRetreat at Tufts University on Novembe
+ r 14th starting at 10AM Eastern\nGeorge Champlin-Scharff and Derek Ree
+ dy from IBM Watson will be running the event!\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-tufts
+DTSTART:20151114T100000Z
+DTEND:20151114T160000Z
+CATEGORIES:coderetreat, gdcr15, gdcr
+LOCATION:Tufts University (Room TBD)
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="George Champlin-Scharff":http://coderetreat.org/profile/
+ GeorgeChamplinScharff
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="George C
+ hamplin-Scharff":http://coderetreat.org/profile/GeorgeChamplinScharff
+END:VEVENT
+END:VCALENDAR

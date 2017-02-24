@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11986
+DTSTAMP:20170129T134037Z
+SUMMARY:Global Day of Coderetreat 2012 - Poznań / Poland
+DESCRIPTION:This will be our third Code Retreat in Poznań. Main organ
+ izer is Poznań Java User Group. Check out our website soon for more i
+ nfo and registration - http://jug.poznan.pl\n\nFor more information v
+ isit http://coderetreat.org/events/coderetreat-pozna-poland
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Poznań
+WEBSITE:http://jug.poznan.pl
+URL:http://jug.poznan.pl
+CONTACT:
+ORGANIZER:Poznań JUG
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pawel Do
+ lecinski":http://coderetreat.org/profile/PawelDolecinski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Łukasz 
+ Stachowiak":http://coderetreat.org/profile/LukaszStachowiak
+END:VEVENT
+END:VCALENDAR

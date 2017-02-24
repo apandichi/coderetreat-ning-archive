@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2514
+DTSTAMP:20170129T135840Z
+SUMMARY:Coderetreat Day Bogotá - Colombia
+DESCRIPTION:Coderetreat Day en Bogotá, estan todos invitados, cupos l
+ imitados\n\nFor more information visit http://coderetreat.org/events/c
+ oderetreat-day-bogot-colombia
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:coderetreat, day
+LOCATION:Universidad Sergio Arboleda
+WEBSITE:http://maps.google.com/maps/ms?msid=210520944297536012637.0004
+ b2de8c71f9c5bdd8e&msa=0
+URL:http://maps.google.com/maps/ms?msid=210520944297536012637.0004b2de
+ 8c71f9c5bdd8e&msa=0
+CONTACT:573014311354
+ORGANIZER;CN="David Roncancio":http://coderetreat.org/profile/DavidRon
+ cancio
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/98aFhEc6qRLEI
+ IN4Noe3Z34cWbqTJGjL6YWelNpX*sfAS5xZJ-HrNAfQy4YwHEToeLnOPD9K2MOwLSU*ed0
+ u1Sop*YskcfSC/Monserrate.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=agares:ht
+ tp://coderetreat.org/profile/agares
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos R
+ amirez":http://coderetreat.org/profile/CarlosRamirez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ce
+ rón Aros":http://coderetreat.org/profile/DavidCeronAros
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="nicolaz 
+ garcia":http://coderetreat.org/profile/nicolazgarcia
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Oscar Ja
+ vier Moreno Rey":http://coderetreat.org/profile/OscarJavierMorenoRey
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Julian D
+ avid Vargas Alvarez":http://coderetreat.org/profile/JulianDavidVargasA
+ lvarez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Oscar Cl
+ avijo":http://coderetreat.org/profile/OscarClavijo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=crossleyj
+ uan:http://coderetreat.org/profile/crossleyjuan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Elkin Ga
+ ravito Beltran":http://coderetreat.org/profile/ElkinGaravitoBeltran
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier R
+ icardo Escobar Avila":http://coderetreat.org/profile/JavierRicardoEsco
+ barAvila
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ro
+ ncancio":http://coderetreat.org/profile/DavidRoncancio
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lácides
+  Adolfo Guzmán":http://coderetreat.org/profile/LacidesAdolfoGuzman
+END:VEVENT
+END:VCALENDAR

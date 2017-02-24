@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26644
+DTSTAMP:20170129T135203Z
+SUMMARY:Global Day of Coderetreat 2013 - Columbus, OH, USA
+DESCRIPTION:Global Day of Code Retreat at The Forge in Columbus Comple
+ ments of Pillar Technology.\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2013-columbus-ohio
+DTSTART:20131214T090000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:The Forge in the Smith Brothers' Hardware Building
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Guy Royse":http://coderetreat.org/profile/GuyRoyse
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robert J
+ uliano":http://coderetreat.org/profile/RobertJuliano
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jamie Ke
+ lley":http://coderetreat.org/profile/JamieKelley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Hi
+ nes":http://coderetreat.org/profile/JamesHines
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wesley T
+ arpley":http://coderetreat.org/profile/WesleyTarpley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robert C
+ ochran":http://coderetreat.org/profile/RobertCochran
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Josef Sa
+ lyer":http://coderetreat.org/profile/JosefSalyer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dan Wieb
+ e":http://coderetreat.org/profile/DanWiebe
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="R.J. Osb
+ orne":http://coderetreat.org/profile/RJOsborne
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alyssa D
+ iaz":http://coderetreat.org/profile/AlyssaDiaz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fletcher
+  Chambers":http://coderetreat.org/profile/FletcherChambers
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Ki
+ rkbride":http://coderetreat.org/profile/JamesKirkbride
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Milo
+ sh":http://coderetreat.org/profile/JanMilosh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jason Al
+ exander":http://coderetreat.org/profile/JasonAlexander
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Guy Roys
+ e":http://coderetreat.org/profile/GuyRoyse
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Donovan
+  Johnson":http://coderetreat.org/profile/DonovanJohnson
+END:VEVENT
+END:VCALENDAR

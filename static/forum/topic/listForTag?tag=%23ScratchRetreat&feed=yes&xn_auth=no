@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Discussions Tagged &#039;#ScratchRetreat&#039; - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topic/listForTag?tag=%23ScratchRetreat&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:35:24Z</updated>
+                        <id>http://coderetreat.org/forum/topic/listForTag?tag=%23ScratchRetreat&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>ScratchRetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:53712"/>
+                                        <id>tag:coderetreat.org,2016-05-18:6456126:Topic:53712</id>
+                                        <updated>2016-05-18T15:47:49.109Z</updated>
+                    
+                                            <author>
+                            <name>Aliaksandr Kavaliou</name>
+                            <uri>http://coderetreat.org/profile/AliaksandrKavaliou</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hello, Dear Codretreat Founders!&lt;br&gt;&lt;/br&gt;I&#039;m one of the team of the volunteer&#039;s Scratch educational program E-Kids from EPAM Systems. &lt;br&gt;&lt;/br&gt;We are excited to share the experience of Coderetreat adaptation for children on Scratch - &quot;ScratchRetreat&quot;.&lt;br&gt;&lt;/br&gt;You can find more details here…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hello, Dear Codretreat Founders!&lt;br/&gt;I&#039;m one of the team of the volunteer&#039;s Scratch educational program E-Kids from EPAM Systems. &lt;br/&gt;We are excited to share the experience of Coderetreat adaptation for children on Scratch - &quot;ScratchRetreat&quot;.&lt;br/&gt;You can find more details here &lt;a href=&quot;https://medium.com/@ikolupaev/coderetreat-to-scratch-adaptation-experience-44a44535b40a#.bsx2jwadr&quot;&gt;https://medium.com/@ikolupaev/coderetreat-to-scratch-adaptation-experience-44a44535b40a#.bsx2jwadr&lt;/a&gt;&lt;br/&gt;We are going to participate in the MIT Scratch Conference 2016 with the topic about applying coderetreat practice to Scratch.&lt;br/&gt;This is our first time on the conference, and we have submitted 90-minute “Poster/demonstration&quot; proposal and trying to submit 5-minute Ignite Talk session simultaneously. It would be great if you could suggest anything regarding coderetreat, and if it is possible and make sense to you to collaborate together during the conference.&lt;/p&gt;
+&lt;p&gt;Kind regards,&lt;/p&gt;
+&lt;p&gt;Aliaksandr Kavaliou&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

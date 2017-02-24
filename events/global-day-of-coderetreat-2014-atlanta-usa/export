@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37992
+DTSTAMP:20170129T095932Z
+SUMMARY:Global Day of Coderetreat 2014 - Atlanta, GA, USA
+DESCRIPTION:Join us for the Global Day of Code Retreat on December 14.
+  Led by Kylie Stradley the Atlanta code retreat is a gathering of dev
+ elopers improving their craft.\n\nSponsored by Big Nerd Ranch, Mailchi
+ mp and Mandrill.\nSign up here:\nhttps://www.eventbrite.com/e/global-d
+ ay-of-code-retreat-2014-atlanta-ga-tickets-13727670833\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -2014-atlanta-usa
+DTSTART:20141115T090000Z
+DTEND:20141115T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Big Nerd Ranch Intergalactic Headquarter
+WEBSITE:https://www.google.com/maps/place/200+Arizona+Ave+NE/@33.75920
+ 5,-84.331892,17z/data=!3m1!4b1!4m2!3m1!1s0x88f506ca6779f6cb:0x60f4b0be
+ 25aaee99
+URL:https://www.google.com/maps/place/200+Arizona+Ave+NE/@33.759205,-8
+ 4.331892,17z/data=!3m1!4b1!4m2!3m1!1s0x88f506ca6779f6cb:0x60f4b0be25aa
+ ee99
+CONTACT:4045832355
+ORGANIZER;CN="Stafford Brooke":http://coderetreat.org/profile/Stafford
+ Brooke
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stafford
+  Brooke":http://coderetreat.org/profile/StaffordBrooke
+END:VEVENT
+END:VCALENDAR

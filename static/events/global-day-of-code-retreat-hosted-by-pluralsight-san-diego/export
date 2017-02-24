@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54267
+DTSTAMP:20170129T093326Z
+SUMMARY:Global Day of Code Retreat - San Diego, USA
+DESCRIPTION:\n\n\nCome spend the Global Day of Code with Pluralsight i
+ n Downtown San Diego, CA at this free event.  All levels are welcome! 
+  We code the same exercise several different ways.  Meals provided\nC
+ ontinental Breakfast\nLunch - Italian  * We are on the 18th floor; You
+  will have to check-in with Security. \n PARKING INFO:\n\n$20 parking
+  is available in the Symphony Towers Parking Garage (operated by AB
+ M Parking) for evening/matinee events. Enter this garage from northbou
+ nd 7th Avenue. Rates are subject to change without notice for all non-
+ symphonic events.  ** B St will be closed for construction but parkin
+ g can be accessed from 7th St.\n\n\n\n\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-code-retreat-hosted-by-plur
+ alsight-san-diego
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Symphony Towers - Suite #1800 Pluralsight Office
+WEBSITE:https://goo.gl/maps/SuJojJmnZQM2
+URL:https://goo.gl/maps/SuJojJmnZQM2
+CONTACT:6197361073
+ORGANIZER:Phil Borlin
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/yq-y3g9ashyiV
+ qFVSgGW1PcY8pYjJeOGu6-MtEYG93m5aU1TaC7cADzq8Fz1E3gI56O5SIVcLlIRqhonFtt
+ sIXRlFmRz2qZ3/pluralsightsquarelogo1446140473122.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Co
+ ok":http://coderetreat.org/profile/JamesCook
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arlene P
+ araiso":http://coderetreat.org/profile/ArleneParaiso
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phil Bor
+ lin":http://coderetreat.org/profile/PhilBorlin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ben Niet
+ ing":http://coderetreat.org/profile/BenNieting
+END:VEVENT
+END:VCALENDAR

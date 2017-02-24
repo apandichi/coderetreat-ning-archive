@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50272
+DTSTAMP:20170129T102544Z
+SUMMARY:Global Day of Coderetreat 2015 - Bonn, Germany
+DESCRIPTION:GCDR as a workshop at KIF 43,5\n\nFor more information vis
+ it http://coderetreat.org/events/ak-global-day-of-coderetreat-at-kif-4
+ 3-5
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Institut für Informatik der Uni Bonn
+WEBSITE:https://kif.fsinf.de/wiki/KIF435:Hauptseite
+URL:https://kif.fsinf.de/wiki/KIF435:Hauptseite
+CONTACT:
+ORGANIZER;CN=Jan:http://coderetreat.org/profile/Jan985
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Jan:http:
+ //coderetreat.org/profile/Jan985
+END:VEVENT
+END:VCALENDAR

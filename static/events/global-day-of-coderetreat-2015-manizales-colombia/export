@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49821
+DTSTAMP:20170129T121351Z
+SUMMARY:Global Day of Coderetreat 2015 - Manizales, Colombia
+DESCRIPTION:Global Day of Code Retreat at Manizales, Colombia\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2015-manizales-colombia
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Manizales
+WEBSITE:http://www.meetup.com/ManizalesDev/events/226589456/
+URL:http://www.meetup.com/ManizalesDev/events/226589456/
+CONTACT:
+ORGANIZER;CN="Mauricio Muñoz":http://coderetreat.org/profile/Mauricio
+ Munoz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mauricio
+  Muñoz":http://coderetreat.org/profile/MauricioMunoz
+END:VEVENT
+END:VCALENDAR

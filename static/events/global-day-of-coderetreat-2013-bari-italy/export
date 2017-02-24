@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:31508
+DTSTAMP:20170129T121011Z
+SUMMARY:Global Day of Coderetreat 2013 - Bari, Italy
+DESCRIPTION:First Global Day of Coderetreat in Bari. Proudly organize
+ d by Club degli Sviluppatori and kindly hosted by Impact Hub Bari.\n\
+ nFor more information visit http://coderetreat.org/events/global-day-o
+ f-coderetreat-2013-bari-italy
+DTSTART:20131214T090000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Impact Hub Bari
+WEBSITE:https://www.google.it/maps/preview#!q=Viale+Volga%2C+Bari%2C+B
+ A&data=!4m15!2m14!1m13!1s0x1347e8bccece2b9f%3A0x385d873b04dc42e1!3m8!1
+ m3!1d2742!2d12.6239107!3d42.0618756!3m2!1i1280!2i711!4f13.1!4m2!3d41.1
+ 364928!4d16.8369982
+URL:https://www.google.it/maps/preview#!q=Viale+Volga%2C+Bari%2C+BA&da
+ ta=!4m15!2m14!1m13!1s0x1347e8bccece2b9f%3A0x385d873b04dc42e1!3m8!1m3!1
+ d2742!2d12.6239107!3d42.0618756!3m2!1i1280!2i711!4f13.1!4m2!3d41.13649
+ 28!4d16.8369982
+CONTACT:
+ORGANIZER:Club degli Sviluppatori
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ghQaMsDvf5WF4
+ GHyj1pmv-fxSTQPdUyuZNlljYseYl-0HoxbM288ZtUCvu2Pdch2HMqULYkLTYhOmOFFSwY
+ X0OEqcUlewQ9h/cds.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Domenico
+  Tria":http://coderetreat.org/profile/DomenicoTria
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ivan Giu
+ liani":http://coderetreat.org/profile/IvanGiuliani
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Giancarl
+ o Valente":http://coderetreat.org/profile/GiancarloValente
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Francesc
+ o Pavone":http://coderetreat.org/profile/FrancescoPavone
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nicola S
+ anitate":http://coderetreat.org/profile/NicolaSanitate
+END:VEVENT
+END:VCALENDAR

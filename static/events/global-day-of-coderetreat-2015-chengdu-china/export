@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47843
+DTSTAMP:20170129T102303Z
+SUMMARY:Global Day of Coderetreat 2015 - Chengdu, China
+DESCRIPTION:Practice your coding skills deliberately!\n\nFor more info
+ rmation visit http://coderetreat.org/events/global-day-of-coderetreat-
+ 2015-chengdu-china
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Tianfu Software Park, ThoughtWorks Software Technologies (Che
+ ngdu) Ltd.
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Ben WU(sponsor&facilitator), Xia HAI(sponsor)
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ADTxKPpQpzAYf
+ SDlcc9fEcFfziHRz7lE-p5pOlNoPD6a3szpdqxyJakjMNgpT3CyZf1l8QFBZxFDokdDsD4
+ MW58DCHsLh2mP/IMG_0597.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ben Wu":
+ http://coderetreat.org/profile/BenWu
+END:VEVENT
+END:VCALENDAR

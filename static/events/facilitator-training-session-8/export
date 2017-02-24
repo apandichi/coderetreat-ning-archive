@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27535
+DTSTAMP:20170129T124326Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!This training is for facilitators. Anybod
+ y interested in facilitating a coderetreat is invited to attend at lea
+ st one training session. This training will be delivered online on Goo
+ gle Plus Hangouts. Make sure you will be online five minutes before th
+ e training starts.\nThis year we will have several types of trainings 
+ for Global Day of Coderetreat hosts and facilitators.\nThe job of the 
+ host is to make sure the coderetreat runs smoothly by making sure ever
+ ything is arranged. Hosts find a venue with all the necessary equipmen
+ t, find a company to sponsor lunch, give away the prizes at the end of
+  the day, organize video chats with other locations, etc.\nThe job of 
+ the facilitator is to help participants learn from each other. Facilit
+ ators understand the coderetreat format, choose and explain the constr
+ aints, and try to keep a learning atmosphere during the day\n \nImpor
+ tant: All the times are in UTC. Do one of the following to view traini
+ ng times in your time zone:\n\nAdd the GDCR Calendar to your Google Ca
+ lendar account\nUse this tool to convert the time from UTC to your tim
+ e zone\nFind your time below in one of these common time zones:\n11/19
+  02:00 AM UTC-8 America/Los_Angeles (PST)\n11/19 03:00 AM UTC-7 Americ
+ a/Denver (MST)\n11/19 04:00 AM UTC-6 America/Chicago (CST)\n11/19 05:0
+ 0 AM UTC-5 America/New_York (EST)\n11/19 11:00 AM UTC+1 Europe/Paris (
+ CET)\n11/19 12:00 PM UTC+2 Europe/Bucharest (EET)\n11/19 12:00 PM UTC+
+ 2 Africa/Johannesburg (CAT)\n11/19 01:00 PM UTC+3 Europe/Moscow (MSK)\
+ n11/19 03:30 PM UTC+5.5 Asia/Kolkata (IST)\n11/19 06:00 PM UTC+8 Asia/
+ Shanghai (ACT)\n11/19 07:00 PM UTC+9 Asia/Tokyo (JST)\n11/19 09:00 PM 
+ UTC+11 Australia/Sydney (AEDT)\n11/19 11:00 PM UTC+13 Pacific/Auckland
+  (NZDT)\n\n\n\n\nFor more information visit http://coderetreat.org/eve
+ nts/facilitator-training-session-8
+DTSTART:20131119T100000Z
+DTEND:20131119T110000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/events/c30q97vv4a93v9po19osujgk3ng
+WEBSITE:https://plus.google.com/events/c30q97vv4a93v9po19osujgk3ng
+URL:https://plus.google.com/events/c30q97vv4a93v9po19osujgk3ng
+CONTACT:
+ORGANIZER;CN="Jim Hurne":http://coderetreat.org/profile/JimHurne
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

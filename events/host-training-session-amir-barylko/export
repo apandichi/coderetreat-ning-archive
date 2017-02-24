@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46891
+DTSTAMP:20170129T122423Z
+SUMMARY:Host training session (Amir Barylko)
+DESCRIPTION:Please RSVP here!\nThis training is for hosts. If you host
+  a coderetreat you might be interested in attending one training sessi
+ on. The trainers will explain what is the role of the host, tips and t
+ ricks for having an excellent coderetreat day. This training will be d
+ elivered online on Google Plus Events. Make sure you will be online fi
+ ve minutes before the training starts.\nLike last year we will have tw
+ o different types of trainings for Global Day of Coderetreat: for host
+ s and for facilitators.\nThe job of the host is to make sure the coder
+ etreat runs smoothly by making sure everything is arranged. Hosts find
+  a venue with all the necessary equipment, find a company to sponsor l
+ unch, give away the prizes at the end of the day, organize video chats
+  with other locations, etc.\nThe job of the facilitator is to help par
+ ticipants learn from each other. Facilitators understand the coderetre
+ at format, choose and explain the constraints, and try to keep a learn
+ ing atmosphere during the day\nImportant: All the times are in UTC. Do
+  one of the following to view training times in your time zone:\n\nAdd
+  the GDCR Calendar to your Google Calendar account\nUse this tool to c
+ onvert the time from UTC to your time zone\nFind your time below in on
+ e of these common time zones:\n10/12 08:00 AM UTC-7 America/Los_Angele
+ s (PDT)\n10/12 09:00 AM UTC-6 America/Denver (MDT)\n10/12 10:00 AM UTC
+ -5 America/Chicago (CDT)\n10/12 11:00 AM UTC-4 America/New_York (EDT)\
+ n10/13 05:00 PM UTC+2 Europe/Berlin (CEST)\n10/13 06:00 PM UTC+3 Europ
+ e/Bucharest (EEST)\n10/13 06:00 PM UTC+3 Africa/Johannesburg ()\n10/13
+  07:00 PM UTC+4 Europe/Moscow (MSK)\n10/13 08:30 PM UTC+5.5 Asia/Kolka
+ ta (IST)\n10/13 11:00 PM UTC+8 Asia/Shanghai (ACT)\n10/13 12:00 AM UTC
+ +9 Asia/Tokyo (JST)\n10/13 02:00 AM UTC+11 Australia/Sydney (AEDT)\n10
+ /13 04:00 AM UTC+13 Pacific/Auckland (NZDT)\n\n\n\n\nFor more informat
+ ion visit http://coderetreat.org/events/host-training-session-amir-bar
+ ylko
+DTSTART:20151020T150000Z
+DTEND:20151020T160000Z
+CATEGORIES:training, host_training
+LOCATION:https://plus.google.com/u/0/events/c3rm6shor5u15d5naucli0nsas
+ 4
+WEBSITE:https://plus.google.com/u/0/events/c3rm6shor5u15d5naucli0nsas4
+URL:https://plus.google.com/u/0/events/c3rm6shor5u15d5naucli0nsas4
+CONTACT:
+ORGANIZER;CN=abarylko:http://coderetreat.org/profile/abarylko
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=abarylko:
+ http://coderetreat.org/profile/abarylko
+END:VEVENT
+END:VCALENDAR

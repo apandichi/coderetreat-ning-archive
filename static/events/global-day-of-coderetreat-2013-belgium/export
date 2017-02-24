@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26662
+DTSTAMP:20170129T124053Z
+SUMMARY:Global Day of Coderetreat 2013 - Belgium
+DESCRIPTION:Belgium will be joining in for this year's global day of c
+ oderetreat of course. You can register on our site:\nhttp://co-learnin
+ g.be/coderetreat\n\nFor more information visit http://coderetreat.org/
+ events/global-day-of-coderetreat-2013-belgium
+DTSTART:20131214T090000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Not sure yet
+WEBSITE:http://co-learning.be/coderetreat
+URL:http://co-learning.be/coderetreat
+CONTACT:+32498432967
+ORGANIZER;CN="Erik Talboom":http://coderetreat.org/profile/ErikTalboom
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erik Tal
+ boom":http://coderetreat.org/profile/ErikTalboom
+END:VEVENT
+END:VCALENDAR

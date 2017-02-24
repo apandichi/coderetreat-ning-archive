@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45881
+DTSTAMP:20170129T121516Z
+SUMMARY:Global Day of Coderetreat 2015 - Honolulu, HI, USA
+DESCRIPTION:Honolulu and Aloha.rb are participating for the fifth time
+  this year in the Global of Coderetreat!\nLocation is still to be dete
+ rmined. For more info and to RSVP, please visit http://www.meetup.com/
+ aloharb/events/225493105/\n\nFor more information visit http://coderet
+ reat.org/events/global-day-of-coderetreat-2015-honolulu-usa
+DTSTART:20151114T083000Z
+DTEND:20151114T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Honolulu, Hawaii
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Christopher Sass":http://coderetreat.org/profile/Christo
+ pherSass
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ her Sass":http://coderetreat.org/profile/ChristopherSass
+END:VEVENT
+END:VCALENDAR

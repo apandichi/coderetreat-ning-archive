@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53978
+DTSTAMP:20170129T105022Z
+SUMMARY:Global Day of Coderetreat 2016 - Essen, Germany
+DESCRIPTION:OPITZ CONSULTING Deutschland GmbH is hosting the Global D
+ ay of Code Retreat 2016 in Essen.\n // German //\nEin \"Coderetreat\"
+  ist eine ganztägige Veranstaltung zum Üben und Verbessern der Fähi
+ gkeiten zur Software-Entwicklung und des Software-Designs. In entspann
+ ter Atmosphäre und ohne den Druck \"fertig\" werden zu müssen, könn
+ en sich Entwickler vollständig auf das Programmieren selbst konzentri
+ eren, Erkenntnisse gewinnen und Erfahrungen mit anderen Teilnehmern au
+ stauschen.Am Global Day of Coderetreat finden in vielen Städten auf
+  der ganzen Welt Coderetreats statt - so auch dieses Jahr in Essen. De
+ r Veranstaltungsort ist der Standort der OPITZ CONSULTING Deutschland
+  GmbH.Voraussetzung für die Teilnahme ist ein funktionsfähiges Noteb
+ ook, auf dem alle Entwicklungstools eingerichtet sind, die Sie für da
+ s Entwickeln in Ihrer Lieblingsprogrammiersprache benötigen.\nAnmeldu
+ ng\nAnmeldung bitte über Xing.\n\nFor more information visit http://c
+ oderetreat.org/events/global-day-of-coderetreat-2016-in-essen-germany
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:OPITZ CONSULTING Deutschland GmbH
+WEBSITE:http://www.opitz-consulting.com/index.php?id=291
+URL:http://www.opitz-consulting.com/index.php?id=291
+CONTACT:+491737276096
+ORGANIZER;CN="Stefan Glase":http://coderetreat.org/profile/StefanGlase
+ 677
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/WDvxeYqj4vodb
+ F7S5wpA2rUxtzwBmroMl7HRO018HHuVlfen2xqiwqtcOlgx4mx9R0kX9LCH3kWn1qDqxHR
+ ZS9oMZr8T*frq/csm_standortessen_0e39d40447.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan G
+ lase":http://coderetreat.org/profile/StefanGlase677
+END:VEVENT
+END:VCALENDAR

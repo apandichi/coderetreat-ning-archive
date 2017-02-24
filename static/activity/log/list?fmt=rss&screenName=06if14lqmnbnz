@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Vytautas Dagilis&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/VytautasDagilis</link>
+        <pubDate>Sun, 29 Jan 2017 10:00:36 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:00:36 +0000</lastBuildDate>
+        <image>
+            <title>Vytautas Dagilis&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/VytautasDagilis</link>
+            <url>http://api.ning.com:80/files/DpHUr75Wa7fji9EN1HKKN2Yw-zif8ULYQiUbw-g*EhLjv9JPDqEYnVmAsl9CXhaaVLeb36QctPLAuk6kTmuOq8v0xzyri8Zg/951322382.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ba881de593f2b8e1072f82e</guid>
+               <title>Vytautas Dagilis liked Osvaldas Grigas&#039;s event Global Day of Coderetreat 2012 - Vilnius / Lithuania</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:11921?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/VytautasDagilis?xg_source=activity">Vytautas Dagilis</a> liked <a href="http://coderetreat.org/profile/OsvaldasGrigas?xg_source=activity">Osvaldas Grigas's</a> event <a href="http://coderetreat.org/xn/detail/6456126:Event:11921?xg_source=activity">Global Day of Coderetreat 2012 - Vilnius / Lithuania</a></span><br/>]]></description>
+               <pubDate>Mon, 19 Nov 2012 09:17:07 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba881ded717aee0ae550813</guid>
+               <title>Vytautas Dagilis is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/VytautasDagilis?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/VytautasDagilis?xg_source=activity">Vytautas Dagilis</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Mon, 19 Nov 2012 09:15:05 +0000</pubDate>
+               </item>    </channel>
+</rss>

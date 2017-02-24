@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Marian Schubert&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MarianSchubert</link>
+        <pubDate>Sun, 29 Jan 2017 09:44:33 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:44:33 +0000</lastBuildDate>
+        <image>
+            <title>Marian Schubert&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MarianSchubert</link>
+            <url>http://api.ning.com:80/files/zlToq5jvxOkXMcbHmpObEeiWBPlO**-4C5AV9hp9S8XnkXLNByGX2h4Kxy3xmaMtLdjZgXWNjAy-MBXD0KCZU8d*40cHxKjr/628252599.jpeg?xgip=0%3A0%3A498%3A498%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009c64f3d909772c3abf2fd12</guid>
+               <title>Marian Schubert added a discussion to the group Facilitators</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:18519?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarianSchubert?xg_source=activity">Marian Schubert</a> added a discussion to the group <a href="http://coderetreat.org/xn/detail/6456126:Group:901?xg_source=activity">Facilitators</a></span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Group:901?xg_source=activity" ><img src="http://api.ning.com/files/tXC9NVcibxBrQW7y0F8i8zLWw*tuZMoWXP10eCrY-GD-XTqQLNOECsXEssfykcwMMIkQlNYj6*SNa1G2QvZztmLMPPbNFlOu/clipboardwhistlemd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:18519?xg_source=activity">Little bit of gamification</a></h3><div class="rich-detail"><div class="rich-excerpt">Hi everyone,I'm one of facilitators/organizers of Coderetreat events in Czech Republic. For some time I have been playing with an idea of adding little bit of gamification into Coderetreat events. Idea is pretty simple - each participant will get short checklist at the beginning of the event. Checklist will contain list of activities which he might try to do.Checklist might look like this:Pair with stranger☐☐☐☐☐Delete code after session☐☐☐☐☐☐Cover most of the code by tests☐Make all methods less than 4 lines☐Write tests first (before production code)☐Don't touch mouse☐Switch navigator/driver role during session☐For each row full of checked checkboxes he will get 1 point. But it wouldn't be used to compete with others. It's just for his personal use.Expected benefits:nice and short overview of things one might try to achievegentle reminder of things one shall do in/after each session (delete code)it's easy to compare driver/navigator cards before session so they can choose what to try nextit might even be a nice commemorative item from Coderetreat event (pair partners might even sign each other's card on back side :)...HTML version I'm going to use to print cards for upcoming GDCR event in Prague, Czech Republic - <a href="http://coderetreat.maio.cz/checklist/checklist.html">http://coderetreat.maio.cz/checklist/checklist.html</a>Beta version of real card <a href="http://photos.coderetreat.cz/albums/misc">http://photos.coderetreat.cz/albums/misc</a> :)There is github repo: <a href="https://github.com/maio/coderetreat-checklist">https://github.com/maio/coderetreat-checklist</a>Does it sound like good/bad thing to do at Coderetreat? I would appreciate any feedback. After event I'll share our experience.Marian Schubert<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:18519?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 05 Dec 2012 18:32:26 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009c64f3ddc267da229d4364e</guid>
+               <title>Marian Schubert posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:9630?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarianSchubert?xg_source=activity">Marian Schubert</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:9630?xg_source=activity" ><img src="http://api.ning.com/files/zsX3J4G1XD5EBnLkRXPMNOmHFiHxLLRWW5*yb79zZDE5xzauJCAcjRrGRdG3-Z0BzmHK*nnc6t6o*LCTZ1RiAcwicrPyRPw-/coderetreat.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:9630?xg_source=activity">Coderetreat Prague - Czech Republic</a> at Czech Republic</h3><div class="rich-detail"><div class="rich-date">April 21, 2012 from 8am to 5pm</div><div class="rich-excerpt">Second Coderetreat in Czech Republic.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:9630?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 20 Apr 2012 14:53:53 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009c64f3de5a1964d7dfc8ad6</guid>
+               <title>Marian Schubert liked Enrique Comba Riepenhausen&#039;s blog post GDCR Madrid (video)</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:4665?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarianSchubert?xg_source=activity">Marian Schubert</a> liked <a href="http://coderetreat.org/profile/EnriqueCombaRiepenhausen?xg_source=activity">Enrique Comba Riepenhausen's</a> blog post <a href="http://coderetreat.org/xn/detail/6456126:BlogPost:4665?xg_source=activity">GDCR Madrid (video)</a></span><br/>]]></description>
+               <pubDate>Mon, 05 Dec 2011 20:52:05 +0000</pubDate>
+               </item>    </channel>
+</rss>

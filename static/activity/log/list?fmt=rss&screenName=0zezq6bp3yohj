@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Harry Chen&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/HarryChen</link>
+        <pubDate>Sun, 29 Jan 2017 12:19:05 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:19:05 +0000</lastBuildDate>
+        <image>
+            <title>Harry Chen&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/HarryChen</link>
+            <url>http://api.ning.com:80/files/Miy5-5-cgYurptM9kPoOiSbFG2aNyCUQaJyBamHy-coNs1Yc2b*7gmnXRdaMYRbIgRnG362ixPpFADrx6etl8vXclv0Y6Xqx/1153197152.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501f42fc214969b18a99</guid>
+               <title>james peterson left a comment for Harry Chen</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52354?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52354?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/HarryChen?xg_source=activity">Harry Chen</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:40:15 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000120c12221f76776b5b445cd6</guid>
+               <title>Harry Chen posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:50004?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/HarryChen?xg_source=activity">Harry Chen</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:50004?xg_source=activity" ><img src="http://api.ning.com/files/y*wDQ4ub4BkJ6S8J6aS8OjJgKeSDbaoybSubGIaCuwJWrx5zTNuGQos6p5*PHfXPNMD9bfUS*a8mX4Ib*MQanJ-xgShJ2ok9/potrait.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:50004?xg_source=activity">Global Day of Coderetreat 2015 - Chengdu, China, Powered by Nokia</a> at Nokia Global Software Development Center, Chengdu Branch</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9:30am to 5:30pm</div><div class="rich-excerpt">As part of Global day of code retreat 2015, this is one day longintensive practice for software design and development. A great way to improve your skills and meet new friends.Register  <a href="http://x.eqxiu.com/s/5og01tQv" target="_blank">Here</a> !<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:50004?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 09 Nov 2015 09:26:00 +0000</pubDate>
+               </item>    </channel>
+</rss>

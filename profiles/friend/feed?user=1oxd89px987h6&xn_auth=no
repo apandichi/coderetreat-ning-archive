@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1oxd89px987h6&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:05:12Z</updated>
+                            <author>
+                    <name>Manuel Küblböck</name>
+                    <uri>http://coderetreat.org/profile/ManuelKueblboeck</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/SIdK1byUS2EKnNY2EhOHmWcaGnkpbBJs4RzlprWJGvICJU2GF6a7MVpipL*5E7YyEoEB-honGu4ytz4hHS3BWd2nxRSFxXgS/949995326.jpeg?xgip=0%3A0%3A234%3A234%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1oxd89px987h6&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Rolf Hemmerling</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RolfHemmerling"/>
+                                        <id>tag:coderetreat.org,2012-07-18:6456126:User:11015</id>
+                                        <updated>2012-07-18T18:44:26.639Z</updated>
+                    
+                                            <author>
+                            <name>Manuel Küblböck</name>
+                            <uri>http://coderetreat.org/profile/ManuelKueblboeck</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/LM5YzyCw7E7KE3CinuktVSOjLaxYehxRZKBlX6HLOViw8uLDAaQR3aZC2EDRw*k651mm32nUywk1Ro7ugzxvZI2udaofssTq/867398235.jpeg?xgip=0%3A39%3A299%3A299%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rolf Hemmerling&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/LM5YzyCw7E7KE3CinuktVSOjLaxYehxRZKBlX6HLOViw8uLDAaQR3aZC2EDRw*k651mm32nUywk1Ro7ugzxvZI2udaofssTq/867398235.jpeg?xgip=0%3A39%3A299%3A299%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rolf Hemmerling&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Erdbeervogel</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/Erdbeervogel"/>
+                                        <id>tag:coderetreat.org,2011-12-03:6456126:User:3319</id>
+                                        <updated>2011-12-03T12:04:36.731Z</updated>
+                    
+                                            <author>
+                            <name>Manuel Küblböck</name>
+                            <uri>http://coderetreat.org/profile/ManuelKueblboeck</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/2*Phht-MsJBW4Efah7gdwWqnsIQ2rece6mC*y6f1ykhLmSQ21hUVOYPQT-0XULFBbnfaHhVjzNLXWN3-7doK6s2mY3zmCQSt/709820659.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erdbeervogel&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/2*Phht-MsJBW4Efah7gdwWqnsIQ2rece6mC*y6f1ykhLmSQ21hUVOYPQT-0XULFBbnfaHhVjzNLXWN3-7doK6s2mY3zmCQSt/709820659.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erdbeervogel&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

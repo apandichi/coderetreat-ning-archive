@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3cx3rg8qbrhf5&amp;xn_auth=no"/>
+            <updated>2017-01-29T14:05:45Z</updated>
+                            <author>
+                    <name>James McIntosh</name>
+                    <uri>http://coderetreat.org/profile/JamesMcIntosh</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ZQ*2MUAO63VHkcfDFtgcd6d0EOpReGGvBm7u5gvX5vtUb7xtTntz2xdUA8h*R0NEc5ge4DwRzcmOF8nXLP5gj0-tGyS2s3wv/464167061.png?xgip=0%3A47%3A265%3A265%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3cx3rg8qbrhf5&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Ian Randall</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/IanRandall"/>
+                                        <id>tag:coderetreat.org,2012-07-19:6456126:User:10832</id>
+                                        <updated>2012-07-19T11:44:42.372Z</updated>
+                    
+                                            <author>
+                            <name>James McIntosh</name>
+                            <uri>http://coderetreat.org/profile/JamesMcIntosh</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/vQFTGhP4Io9p7eM5ABC5VOoOCxssxh8OKv8GeJwqV0TpCkB23Fhchn68XfKlpaMFa-Q-rwkUlQ46x6ZCjtMYBuvTJssJquRy/478242107.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ian Randall&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/vQFTGhP4Io9p7eM5ABC5VOoOCxssxh8OKv8GeJwqV0TpCkB23Fhchn68XfKlpaMFa-Q-rwkUlQ46x6ZCjtMYBuvTJssJquRy/478242107.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ian Randall&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

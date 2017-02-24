@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Tracy Hiltbrand&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/TracyHiltbrand</link>
+        <pubDate>Sun, 29 Jan 2017 12:48:32 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:48:32 +0000</lastBuildDate>
+        <image>
+            <title>Tracy Hiltbrand&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/TracyHiltbrand</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000a2c0f866e289adb21c121fa</guid>
+               <title>Tracy Hiltbrand is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/TracyHiltbrand?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TracyHiltbrand?xg_source=activity">Tracy Hiltbrand</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Thu, 09 Feb 2012 21:28:20 +0000</pubDate>
+               </item>    </channel>
+</rss>

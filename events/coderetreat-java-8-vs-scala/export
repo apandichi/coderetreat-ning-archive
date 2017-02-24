@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27221
+DTSTAMP:20170129T122813Z
+SUMMARY:Coderetreat: Java 8 vs Scala
+DESCRIPTION:This event is fully devoted to the upcoming Java 8, its f
+ eatures, and how it all stacks up against alternative languages like�
+ �Scala. We are going to present what's new and what's different. After
+  that we'll pull an extended, focused coding session coderetreat-style
+ .\nThe coding session has three parts:\n- Building a thing in Java w
+ ith the common pre-8 approach. - Redoing it with Java 8 features (“
+ how is 8 different?”). - Redoing it with Scala (“how is Scala dif
+ ferent?”).\nDiscussion of all three approaches will follow.\nPro-tip
+ s and considerations:\n- You should bring your own laptop, or share wi
+ th a friend. - It's better to work in pairs. - We'll help you set up
+  JDK 8, but you should know what a JDK is. - We'll raffle out one In
+ telliJ IDEA license at the end of event.\n\nFor more information visi
+ t http://coderetreat.org/events/coderetreat-java-8-vs-scala
+DTSTART:20131005T093000Z
+DTEND:20131005T170000Z
+CATEGORIES:coderetreat, socialization
+LOCATION:Elektronikas un datorzinātņu institūts
+WEBSITE:http://www.meetup.com/Latvian-Developers-Network/events/138303
+ 652/
+URL:http://www.meetup.com/Latvian-Developers-Network/events/138303652/
+CONTACT:
+ORGANIZER:Arkadi Shishlov, Dimitry Solovyov
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vladimir
+  Tarasov":http://coderetreat.org/profile/VladimirTarasow
+END:VEVENT
+END:VCALENDAR

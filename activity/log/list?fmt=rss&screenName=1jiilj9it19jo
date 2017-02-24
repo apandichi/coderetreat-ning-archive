@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Marco Dussin&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MarcoDussin</link>
+        <pubDate>Sun, 29 Jan 2017 12:26:02 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:26:02 +0000</lastBuildDate>
+        <image>
+            <title>Marco Dussin&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MarcoDussin</link>
+            <url>http://api.ning.com:80/files/Q8-1U64VVv0Bx4eycwT12vGTm6AalKQwPbAk2*K4GSW3dbcF2FjG8UF8ZddghhclfYx79u3AB9R*NRhEAZeq9C0frptAyoBL/1161155699.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501f91972544d75b5d3a</guid>
+               <title>james peterson left a comment for Marco Dussin</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52314?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52314?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/MarcoDussin?xg_source=activity">Marco Dussin</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:28:49 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000121e1f699ed7ccdec09cc190</guid>
+               <title>Marco Dussin posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:51847?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarcoDussin?xg_source=activity">Marco Dussin</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:51847?xg_source=activity">Christmas CodeRetreat in LMSpace, Cittadella, PD, Italy</a> at LMSpace</h3><div class="rich-detail"><div class="rich-date">December 12, 2015 from 9am to 4pm</div><div class="rich-excerpt">The first CodeRetreat in Cittadella (PD) @LMSpace<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:51847?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 07 Dec 2015 11:49:42 +0000</pubDate>
+               </item>    </channel>
+</rss>

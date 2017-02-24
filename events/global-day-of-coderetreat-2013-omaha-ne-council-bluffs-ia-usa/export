@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28823
+DTSTAMP:20170129T104603Z
+SUMMARY:Global Day of Coderetreat 2013 - Omaha, NE / Council Bluffs, I
+ A, USA
+DESCRIPTION:Have a passion for programming or testing?  Come meet new
+  people like you and challenge yourself to think in new ways as you i
+ mprove your testing, problem solving, and pair programming skills!  P
+ rogrammers, testers, teachers, and students are all welcome!  Lunch a
+ nd light breakfast will be provided.\nIMPORTANT DRIVING DIRECTIONS:\nD
+ ue to having graduation on campus on Saturday, December 14, please ent
+ er the campus from Highway 6 to avoid traffic congestion. Please park 
+ in Lot 28, just outside of Fremont Hall, where the activity is happeni
+ ng.\nIWCC Map for Code Retreat.docx\nSchedule:\n8:00am-8:30am Breakfas
+ t - Burrito Bar plus fruit, hashbrown casserole, mini-cinnamon roll, a
+ nd coffee 8:30am Introduction/Explanation of the day 9:00am Session 1 
+ 10:00am Session 2 11:00am Session 3 Noon Lunch from Paradise Biryani -
+  vegetarian and chicken curries, rice, naan 1:30pm Session 4 2:30pm Se
+ ssion 5 3:30pm Session 6 4:30pm End of Event\nSoda and snacks will als
+ o be provided!\n\nWhat to bring:\nOptional:  Laptop\nGood to Have:  
+ Notebook and writing utensil\nRequired:  A desire to learn and try ne
+ w things!\nhttp://coderetreat.org/events/global-day-of-coderetreat-201
+ 3-omaha-ne-council-bluffs-ia-usa\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-coderetreat-2013-omaha-ne-council
+ -bluffs-ia-usa
+DTSTART:20131214T080000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Iowa West Community College, Fremont Hall
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Jessica Codr":http://coderetreat.org/profile/JessicaCodr
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="John Dav
+ is":http://coderetreat.org/profile/JohnDavis
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Koc
+ h":http://coderetreat.org/profile/AdamKoch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ankit Ba
+ deriya":http://coderetreat.org/profile/AnkitBaderiya
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jesse Pe
+ terson":http://coderetreat.org/profile/JessePeterson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joe Whit
+ e":http://coderetreat.org/profile/JoeWhite
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zach Lea
+ therman":http://coderetreat.org/profile/ZachLeatherman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ed Bartr
+ am":http://coderetreat.org/profile/EdBartram
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick Nis
+ i":http://coderetreat.org/profile/NickNisi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dara Hun
+ ter":http://coderetreat.org/profile/DaraHunter
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Wyn
+ n":http://coderetreat.org/profile/MattWynn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick Wer
+ tzberger":http://coderetreat.org/profile/NickWertzberger
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Kolakowski":http://coderetreat.org/profile/MichaelKolakowski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Ste
+ ele":http://coderetreat.org/profile/MattSteele
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Josh B":
+ http://coderetreat.org/profile/JoshB
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brian Os
+ orio":http://coderetreat.org/profile/BrianOsorio
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jessica 
+ Codr":http://coderetreat.org/profile/JessicaCodr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Britt G
+ ray":http://coderetreat.org/profile/BrittGray
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55845
+DTSTAMP:20170129T112637Z
+SUMMARY:Global Day of Coderetreat 2016 - Turku, Finland
+DESCRIPTION:Join us for coding, fun, food, and fun.\nPlease register 
+ here: coderetreat.arado.fi\nMore information about the event place (W
+ erstas) you can find from here: http://www.werstasturku.fi/fi/werstas
+ \n\n\nFor more information visit http://coderetreat.org/events/global-
+ day-of-coderetreat-2016-turku-finland
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Werstas (4th floor), Kupittaa, Turku
+WEBSITE:https://goo.gl/maps/4TfutqNLJt82
+URL:https://goo.gl/maps/4TfutqNLJt82
+CONTACT:+358401780300
+ORGANIZER:Arado
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/6yWgYSVs-J0LA
+ OnOdeGYh6sVcfSBfg5IRudFNlqaLmL82TpBhD6RS6pPqeqAT2QzAGnbcdFXDfVoDqzHdXF
+ sz2qvtWWZ25p-/AradoAgreenwhite.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anssi So
+ inu":http://coderetreat.org/profile/AnssiSoinu
+END:VEVENT
+END:VCALENDAR

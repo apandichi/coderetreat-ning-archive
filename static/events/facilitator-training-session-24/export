@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46966
+DTSTAMP:20170129T111704Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:Please RSVP here!\n \n\nThis training is for facilitators.
+  Anybody interested in facilitating a coderetreat is invited to attend
+  at least one training session. This training will be delivered online
+  on Google Plus Hangouts. Make sure you will be online five minutes be
+ fore the training starts.\nLike last year we will have two different t
+ ypes of trainings for Global Day of Coderetreat: for hosts and for fac
+ ilitators.\nThe job of the host is to make sure the coderetreat runs s
+ moothly by making sure everything is arranged. Hosts find a venue with
+  all the necessary equipment, find a company to sponsor lunch, give aw
+ ay the prizes at the end of the day, organize video chats with other l
+ ocations, etc.\nThe job of the facilitator is to help participants lea
+ rn from each other. Facilitators understand the coderetreat format, ch
+ oose and explain the constraints, and try to keep a learning atmospher
+ e during the day\n\nImportant: All the times are in UTC. Do one of the
+  following to view training times in your time zone:\n\nAdd the GDCR C
+ alendar to your Google Calendar account\nUse this tool to convert the 
+ time from UTC to your time zone\nFind your time below in one of these 
+ common time zones:\n10/11 07:00 AM UTC-7 America/Los_Angeles (PDT)\n10
+ /11 08:00 AM UTC-6 America/Denver (MDT)\n10/11 09:00 AM UTC-5 America/
+ Chicago (CDT)\n10/11 10:00 AM UTC-4 America/New_York (EDT)\n10/11 05:0
+ 0 PM UTC+3 Europe/Paris (CEST)\n10/11 06:00 PM UTC+4 Europe/Bucharest 
+ (EEST)\n10/11 05:00 PM UTC+3 Africa/Johannesburg (CAT)\n10/11 06:00 PM
+  UTC+4 Europe/Moscow (MSK)\n10/11 07:30 PM UTC+5.5 Asia/Kolkata (IST)\
+ n10/11 10:00 PM UTC+8 Asia/Shanghai (ACT)\n10/11 11:00 PM UTC+9 Asia/T
+ okyo (JST)\n10/12 01:00 AM UTC+11 Australia/Sydney (AEDT)\n10/12 03:00
+  AM UTC+13 Pacific/Auckland (NZDT)\n\n\n\n\nFor more information visit
+  http://coderetreat.org/events/facilitator-training-session-24
+DTSTART:20151009T180000Z
+DTEND:20151009T190000Z
+CATEGORIES:training, training_facilitator
+LOCATION:https://plus.google.com/u/0/events/cetrsrb2pavbjpqg1266e04t3k
+ s
+WEBSITE:https://plus.google.com/u/0/events/cetrsrb2pavbjpqg1266e04t3ks
+URL:https://plus.google.com/u/0/events/cetrsrb2pavbjpqg1266e04t3ks
+CONTACT:
+ORGANIZER;CN="Aki Salmi":http://coderetreat.org/profile/AkiSalmi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

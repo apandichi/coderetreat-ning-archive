@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40799
+DTSTAMP:20170129T120552Z
+SUMMARY:Global Day of Coderetreat 2014 - Sibiu, Romania
+DESCRIPTION:For all of you who appreciate clean code, TDD, pair prog
+ ramming, we are pleased to invite you to a session of code retreat.\nT
+ he event will be organized by Csaba Trucza in iQuest office in Sibiu.\
+ nMore information about code retreat can be found here\nTo help us in
+  organizing the event, those willing to participate, please confi
+ rm at adrian.barglazan@iquestgroup.com.\n\nThe structure for the even
+ t will be according with:\nhttp://coderetreat.org/facilitating/structu
+ re-of-a-coderetreat \n\nFor more information visit http://coderetreat
+ .org/events/global-day-of-coderetreat-2014-sibiu-romania
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:iQuest office
+WEBSITE:https://www.google.ro/maps/place/iQuest/@45.783389,24.14652,17
+ z/data=!4m6!1m3!3m2!1s0x474c678789ca165f:0xf9ccba1996bc0564!2siQuest!3
+ m1!1s0x474c678789ca165f:0xf9ccba1996bc0564?hl=ro
+URL:https://www.google.ro/maps/place/iQuest/@45.783389,24.14652,17z/da
+ ta=!4m6!1m3!3m2!1s0x474c678789ca165f:0xf9ccba1996bc0564!2siQuest!3m1!1
+ s0x474c678789ca165f:0xf9ccba1996bc0564?hl=ro
+CONTACT:+40 767 345 975
+ORGANIZER:Csaba Trucza
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ionut Cr
+ istea":http://coderetreat.org/profile/IonutCristea
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mihai ra
+ dulescu":http://coderetreat.org/profile/Mihairadulescu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ionut Va
+ lean":http://coderetreat.org/profile/IonutValean
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gabriel 
+ Tudorica":http://coderetreat.org/profile/GabrielTudorica
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alexandr
+ a Popescu":http://coderetreat.org/profile/AlexandraPopescu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel S
+ avu":http://coderetreat.org/profile/DanielSavu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi B":h
+ ttp://coderetreat.org/profile/AdiB
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rosenfel
+ d Eugen":http://coderetreat.org/profile/RosenfeldEugen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stancu M
+ ihai":http://coderetreat.org/profile/StancuMihai
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Csaba Tr
+ ucza":http://coderetreat.org/profile/CsabaTrucza
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alexandr
+ u Calinoiu":http://coderetreat.org/profile/AlexandruCalinoiu
+END:VEVENT
+END:VCALENDAR

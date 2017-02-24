@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11140
+DTSTAMP:20170129T134517Z
+SUMMARY:Global Day of Coderetreat 2012 - Durban / South Africa
+DESCRIPTION:\n\n\nRegistration is open!   Dev2 will be hosting the C
+ odeRetreat for Durban on this Global Day of CodeRetreat.   On 8th Dec
+ ember 2012, developers in cities all over the world will be participat
+ ing in a CodeRetreat.    While the event is sponsored and free, to bo
+ ok your spot we require a R100 deposit per registration. This will be 
+ refunded on your arrival at the CodeRetreat. Banking details will be e
+ mailed to you once you've registered.\n Space is limited so register 
+ now and be part of something big!\n\nQuestions? events@dev2.co.za \n 
+ All updates will be on Facebook and Twitter \n\n\n\n\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -2012-durban-south-africa
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Dev2 Offices, Durban, South Africa
+WEBSITE:http://www.dev2.co.za
+URL:http://www.dev2.co.za
+CONTACT:
+ORGANIZER:Dev2
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Cv85cSjLacgLi
+ TsRxmW2APV1oiyxdG8JBT3t-GZzIeRmiMxMeoc2Hggycirl90NoWRqyswlbCC0xXvRNYuU
+ IES*GjT5vvn3z/dev2matrixCR.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wallis B
+ uchan":http://coderetreat.org/profile/WallisBuchan
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=38p6te7ihw1ye&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:56:55Z</updated>
+                            <author>
+                    <name>Walter Treur</name>
+                    <uri>http://coderetreat.org/profile/WalterTreur</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/*67Uoec4vv0DV4zt1QJ90fpLoVwDum2rgqciA*5nYeGxHgmkRZN14TvYU9r0-3-d*EEXqwGwgOTIkOVg*9HdeezHKaXAGKlk/1141971683.jpeg?xgip=0%3A0%3A1859%3A1859%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=38p6te7ihw1ye&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Patrick van Dissel</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/pvdissel"/>
+                                        <id>tag:coderetreat.org,2014-07-08:6456126:User:35531</id>
+                                        <updated>2014-07-08T05:59:53.409Z</updated>
+                    
+                                            <author>
+                            <name>Walter Treur</name>
+                            <uri>http://coderetreat.org/profile/WalterTreur</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/MOC7BqAcxPtLG5bHgpEt2iNjSt1TlgSXxzfToZanpERnD-16hy5lf8DOnt0YDVptUlv2FZFFEiyLbPsp50Yue3gKL5AOxi35/1071270624.png?xgip=2%3A0%3A293%3A293%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Patrick van Dissel&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/MOC7BqAcxPtLG5bHgpEt2iNjSt1TlgSXxzfToZanpERnD-16hy5lf8DOnt0YDVptUlv2FZFFEiyLbPsp50Yue3gKL5AOxi35/1071270624.png?xgip=2%3A0%3A293%3A293%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Patrick van Dissel&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55908
+DTSTAMP:20170129T100806Z
+SUMMARY:Global Day of Coderetreat 2016 - Kyoto, Japan
+DESCRIPTION:Hello,\nWe are happy to join the Global Day of Coderetreat
+  2016.\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2016-kyoto-japan
+DTSTART:20161022T094500Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:NISSIN SYSTEMS CO,. ltd.
+WEBSITE:http://connpass.com/event/41712/
+URL:http://connpass.com/event/41712/
+CONTACT:
+ORGANIZER:Takuya Kawabe
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/YHdyDWzcIlIuh
+ NyZ7Ec8lOJQ4-*wScPfCE0cen8ASQ0REejcqzV9lleZULZAa*RT9v-Ufge69dGkd2XVSw8
+ jH4EI8Z3AsBhH/Kiyomizudera_in_Kyotos.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="かわ�
+ �　たくや":http://coderetreat.org/profile/0g0r3tmnsb7nb
+END:VEVENT
+END:VCALENDAR

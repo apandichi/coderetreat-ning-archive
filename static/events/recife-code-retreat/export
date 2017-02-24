@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:18209
+DTSTAMP:20170129T135739Z
+SUMMARY:Recife Code Retreat
+DESCRIPTION:Code Retreat – Recife\nEstamos felizes de anunciar que 
+ estamos participando do \"Global Day of Code Retreat\". Este ano estar
+ emos patrocinando e organizando o evento no escritório da Thoughtwork
+ s.\n\nRSVP aqui: http://eventick.com.br/recife_code_retreat.\nNo últ
+ imo ano tivemos 94 cidades (mais de 1800 desenvolvedores) ao redor do 
+ mundo participando, o que significa, hospedando \"Code Retreat's\" no 
+ mesmo dia. Este ano esperamos por volta de 200 cidades e mais de 3000 
+ desenvolvedores. Isto é uma oportunidade fantástica para, não só a
+ prender e compartilhar idéias, mas também ser parte da história do 
+ desenvolvimento de software.\nSe você nunca ouviu falar de Code Retre
+ at, continue lendo.\nO que é um Code Retreat?\nCode Retreat é um eve
+ nto prático intensivo durante todo um dia, focado nos fundamentos de 
+ projeto e desenvolvimento de software. Ao dar oportunidade aos desenvo
+ lvedores de ser parte de uma prática focada, sem a pressão para \"te
+ rminar tudo\", o formato do Code Retreat se provou uma forma de aprend
+ izado bastante efetiva. Praticando os princípios básicos de projetos
+  modulares e orientados a objetos, desenvolvedores podem melhorar suas
+  habilidades de escrever código que minimiza o custo de uma mudança 
+ futura.\nComo funciona?\nO Dia do Code Retreat consiste de 5-6 sessõe
+ s, cada uma sendo construída em cima da sessão anterior. A manhã fo
+ ca em se tornar confortável com o domínio do problema, quebrando ant
+ igos hábitos. A tarde força os pares a irem além de suas habilidade
+ s e entendimentos de abstrações, projetos modulares e TDD.\nO Code R
+ etreat tem um formato estabelecido, baseado em tempos rígidos para pr
+ áticas focadas.\n\nProblema: Conway's Game of Life\nDuração de Cada
+  Sessão: 45 minutos\nDuração total: 8.30am a 5 ou 6pm\nLinguagem: q
+ ualquer uma que o par estiver confortável em utilizar\nProgramação 
+ em par é um requisito, uma vez que a transferência de conhecimento c
+ ontida nesta atividade é essencial para a prática\nPreferência pelo
+  uso de desenvolvimento orientado a testes (TDD)\nApós cada sessão, 
+ os pares devem ser trocados\nApós cada sessão, o código deve ser de
+ letado. Não colocado em uma branch, não jogado no \"stash\", apenas 
+ deletado sem deixar rastros\n\nDivisão do Tempo\nAbaixo uma descriç�
+ �o por alto do dia:\n\n9:30am - 9:45am : chegada, café da manhã\n9:4
+ 5am - 10am : recepção, apresentações e discussões sobre o problem
+ a proposto\n10 - 10:45am : Sessão #1\n10:45 - 11am : retrospectiva, p
+ ausa\n11 - 11:45am : Sessão #2\n11:45 - 12pm : retrospectiva, pausa\n
+ 12 - 1:30pm : almoço, networking\n1:30 - 2:15pm : Sessão #3\n2:15 - 
+ 2:30pm : retrospectiva, pausa\n2 :30 - 3:15pm : Sessão #4\n3:15 - 3:3
+ 0pm : retrospectiva, pausa\n3:30 - 4:15pm : Sessão #5\n4:15 - 4:30pm 
+ : retrospectiva, pausa\n4:30 - 5pm : Fechamento do ciclo\n\n\n\n\n\n\n
+ \n\nFor more information visit http://coderetreat.org/events/recife-co
+ de-retreat
+DTSTART:20121204T180000Z
+DTEND:20121204T190000Z
+CATEGORIES:code, retreat
+LOCATION:ThoughtWorks Office
+WEBSITE:http://eventick.com.br/recife_code_retreat
+URL:http://eventick.com.br/recife_code_retreat
+CONTACT:9249-7358
+ORGANIZER;CN="Andrew Clarke":http://coderetreat.org/profile/AndrewClar
+ ke
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew C
+ larke":http://coderetreat.org/profile/AndrewClarke
+END:VEVENT
+END:VCALENDAR

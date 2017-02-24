@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>How to deal with &quot;finishing frustration&quot; and let go of solving the whole problem? - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/how-to-deal-with-finishing-frustration-and-let-go-of-solving-the?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A10442&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:43:32Z</updated>
+                        <id>http://coderetreat.org/forum/topics/how-to-deal-with-finishing-frustration-and-let-go-of-solving-the?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A10442&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>For Constraints, I&#039;d recommen…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:10647"/>
+                                        <id>tag:coderetreat.org,2012-06-26:6456126:Comment:10647</id>
+                                        <updated>2012-06-26T13:25:13.327Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;For Constraints, I&#039;d recommend looking at some of the specific ones, rather than just a general &quot;getting used to something.&quot; That is harder for people to internalize, especially on the first one.&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;cite&gt;Tim Bourguignon said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/how-to-deal-with-finishing-frustration-and-let-go-of-solving-the?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A10761&amp;amp;xg_source=msg_com_gr_forum#6456126Comment10761&quot;&gt;&lt;div&gt;&lt;p&gt;Both your…&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;For Constraints, I&#039;d recommend looking at some of the specific ones, rather than just a general &quot;getting used to something.&quot; That is harder for people to internalize, especially on the first one.&lt;br/&gt; &lt;br/&gt; &lt;cite&gt;Tim Bourguignon said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/how-to-deal-with-finishing-frustration-and-let-go-of-solving-the?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A10761&amp;amp;xg_source=msg_com_gr_forum#6456126Comment10761&quot;&gt;&lt;div&gt;&lt;p&gt;Both your comments definitely strikes home.&lt;/p&gt;
+&lt;p&gt;Since it was during work-hours, I feel some of the participants - from whom those complaints came from - were not completely freely joining the party ; that could be part of the explanation.&lt;/p&gt;
+&lt;p&gt;3 sessions sure isn&#039;t enough, but most of the participants already picked up the ball after the first round. They got the idea and played along really well. I might have had a large numbers of &quot;early adopters&quot; in the group which led me into thinking it was understood by all.&lt;/p&gt;
+&lt;p&gt;For the constraints part, we mostly focused on getting everybody onboard with TDD and then on expressing intent. I guess I was not poking around hard enough so that their focus would shift from the problem to the constraints.&lt;/p&gt;
+&lt;p&gt;Thanks a lot for your feedback, I&#039;m looking forward to our next session!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Ah, yeah, when you have peopl…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:10646"/>
+                                        <id>tag:coderetreat.org,2012-06-26:6456126:Comment:10646</id>
+                                        <updated>2012-06-26T13:01:36.246Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Ah, yeah, when you have people who aren&#039;t really into it, the experience can be a bit tough. One of the reasons that we start early in the morning (830, usually) is to make sure we have a nice self-selecting group of people. :)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Ah, yeah, when you have people who aren&#039;t really into it, the experience can be a bit tough. One of the reasons that we start early in the morning (830, usually) is to make sure we have a nice self-selecting group of people. :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Both your comments definitely…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:10761"/>
+                                        <id>tag:coderetreat.org,2012-06-26:6456126:Comment:10761</id>
+                                        <updated>2012-06-26T08:02:15.843Z</updated>
+                    
+                                            <author>
+                            <name>Tim Bourguignon</name>
+                            <uri>http://coderetreat.org/profile/TimBourguignon</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Both your comments definitely strikes home.&lt;/p&gt;
+&lt;p&gt;Since it was during work-hours, I feel some of the participants - from whom those complaints came from - were not completely freely joining the party ; that could be part of the explanation.&lt;/p&gt;
+&lt;p&gt;3 sessions sure isn&#039;t enough, but most of the participants already picked up the ball after the first round. They got the idea and played along really well. I might have had a large numbers of &quot;early adopters&quot; in the group which led me into…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Both your comments definitely strikes home.&lt;/p&gt;
+&lt;p&gt;Since it was during work-hours, I feel some of the participants - from whom those complaints came from - were not completely freely joining the party ; that could be part of the explanation.&lt;/p&gt;
+&lt;p&gt;3 sessions sure isn&#039;t enough, but most of the participants already picked up the ball after the first round. They got the idea and played along really well. I might have had a large numbers of &quot;early adopters&quot; in the group which led me into thinking it was understood by all.&lt;/p&gt;
+&lt;p&gt;For the constraints part, we mostly focused on getting everybody onboard with TDD and then on expressing intent. I guess I was not poking around hard enough so that their focus would shift from the problem to the constraints.&lt;/p&gt;
+&lt;p&gt;Thanks a lot for your feedback, I&#039;m looking forward to our next session!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi, Tim,
+This isn&#039;t an uncomm…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:10442"/>
+                                        <id>tag:coderetreat.org,2012-06-25:6456126:Comment:10442</id>
+                                        <updated>2012-06-25T15:50:34.700Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi, Tim,&lt;/p&gt;
+&lt;p&gt;This isn&#039;t an uncommon response. There are two things I think cause this. Although I don&#039;t know if these are your reasons, they definitely are ones that can come up. Perhaps some other experience facilitators can chime in, as well.&lt;/p&gt;
+&lt;p&gt;- Having too few sessions.&lt;/p&gt;
+&lt;p&gt;3 sessions isn&#039;t enough, especially if this is the first time. The day of coderetreat builds itself up over the 5-6 sessions. Each session builds upon the previous sessions, so that, by the end of the day,…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi, Tim,&lt;/p&gt;
+&lt;p&gt;This isn&#039;t an uncommon response. There are two things I think cause this. Although I don&#039;t know if these are your reasons, they definitely are ones that can come up. Perhaps some other experience facilitators can chime in, as well.&lt;/p&gt;
+&lt;p&gt;- Having too few sessions.&lt;/p&gt;
+&lt;p&gt;3 sessions isn&#039;t enough, especially if this is the first time. The day of coderetreat builds itself up over the 5-6 sessions. Each session builds upon the previous sessions, so that, by the end of the day, the &#039;frustration&#039; people feel doesn&#039;t take on a negative bent, but rather a desire to continue thinking about it. This is one of the reasons that I&#039;m not a support of &quot;mini-coderetreat&quot; as a large group activity, especially for people who are experiencing it for the first time.&lt;/p&gt;
+&lt;p&gt;- Not introducing different constraints for each session.&lt;/p&gt;
+&lt;p&gt;What sort of variation did you provide for each session? As developers, we have spent our careers focused on &#039;getting things done&#039; and &#039;going faster,&#039; so it is difficult to break out of this mentality. By introducing different constraints, each session takes on a different feel. Over the course of the day, the problem is approached in a different manner. This creates something that can be focused on during each session.&lt;/p&gt;
+&lt;p&gt;It is tough for people to just focus on an abstract idea of &quot;the code and its beauty.&quot; &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I&#039;ve run into this as well. T…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:10439"/>
+                                        <id>tag:coderetreat.org,2012-06-25:6456126:Comment:10439</id>
+                                        <updated>2012-06-25T14:59:45.956Z</updated>
+                    
+                                            <author>
+                            <name>Matt Steele</name>
+                            <uri>http://coderetreat.org/profile/MattSteele</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I&#039;ve run into this as well. This seemed to happen less when the group was self-selected (i.e. we did it over a weekend) than when we tried with a bigger group during a workday. Not sure why this was. Maybe the fact that you weren&#039;t eating into work time made people relax a bit more?&lt;/p&gt;
+&lt;p&gt;I don&#039;t have a great solution, though I think framing the day way can help. The &lt;a href=&quot;http://coderetreat-omaha.heroku.com/&quot; target=&quot;_blank&quot;&gt;slide deck&lt;/a&gt; I used at the start of my last Code Retreat…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I&#039;ve run into this as well. This seemed to happen less when the group was self-selected (i.e. we did it over a weekend) than when we tried with a bigger group during a workday. Not sure why this was. Maybe the fact that you weren&#039;t eating into work time made people relax a bit more?&lt;/p&gt;
+&lt;p&gt;I don&#039;t have a great solution, though I think framing the day way can help. The &lt;a href=&quot;http://coderetreat-omaha.heroku.com/&quot; target=&quot;_blank&quot;&gt;slide deck&lt;/a&gt; I used at the start of my last Code Retreat spent a fair amount of time explaining that you *will* delete your code, and the session is *designed* to keep you from finishing. This helped some people get into the right mindset.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

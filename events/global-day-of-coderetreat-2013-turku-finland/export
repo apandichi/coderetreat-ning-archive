@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26320
+DTSTAMP:20170129T115831Z
+SUMMARY:Global Day of Coderetreat 2013 - Turku, Finland
+DESCRIPTION:Turku will join the fun again.\nTogether with thousands of
+  highly passionate developers, we're going to have fun\nRegistration s
+ tarts on Oct 14th here\n\nFor more information visit http://coderetrea
+ t.org/events/global-day-of-coderetreat-2013-turku-finland
+DTSTART:20131214T083000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:To be defined, Turku somewhere
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Aki Salmi":http://coderetreat.org/profile/AkiSalmi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

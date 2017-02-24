@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2012 - Chandler, AZ / USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A16692&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:43:26Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A16692&amp;xn_auth=no</id>
+                            <entry>
+                    <title>We&#039;ll be starting at 9am and…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17522"/>
+                                        <id>tag:coderetreat.org,2012-11-28:6456126:Comment:17522</id>
+                                        <updated>2012-11-28T14:27:35.559Z</updated>
+                    
+                                            <author>
+                            <name>Roy van de Water</name>
+                            <uri>http://coderetreat.org/profile/RoyvandeWater</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;We&#039;ll be starting at 9am and going through 5pm.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;We&#039;ll be starting at 9am and going through 5pm.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>&quot;All day&quot; is a little ambiguo…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17299"/>
+                                        <id>tag:coderetreat.org,2012-11-28:6456126:Comment:17299</id>
+                                        <updated>2012-11-28T07:51:29.238Z</updated>
+                    
+                                            <author>
+                            <name>Don Leatham</name>
+                            <uri>http://coderetreat.org/profile/DonLeatham</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&quot;All day&quot; is a little ambiguous... what time will this begin and end?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&quot;All day&quot; is a little ambiguous... what time will this begin and end?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

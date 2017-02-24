@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28391
+DTSTAMP:20170129T114902Z
+SUMMARY:Global Day of Coderetreat 2013 - Ourense, Spain
+DESCRIPTION:CodeRetreat 2013\nAula de libre acceso. En la ESEI, Edif. 
+ Politécnico, s/n Campus As Lagoas (Univ. de Vigo) Ourense 32004\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2013-orense-spain
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Campus As Lagoas, Ourense, España
+WEBSITE:https://www.google.com/maps/preview#!q=42%C2%B0+20.721'%2C+-7%
+ C2%B0+51.355'
+URL:https://www.google.com/maps/preview#!q=42%C2%B0+20.721'%2C+-7%C2%B
+ 0+51.355'
+CONTACT:+34 988 368891
+ORGANIZER;CN="Baltasar García Perez-Schofield":http://coderetreat.org
+ /profile/baltasarq
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/2Y4vv8KkoBmva
+ qdUG5V7BCih0NG5Eg97xGnTVx96pcSL03gQQmZbE0sBiAIiHH6dhe2Y*YkX6mD8c7al92b
+ TkxBkcul-eggp/esei_ourense88041.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pepe Dov
+ al":http://coderetreat.org/profile/PepeDoval
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Baltasar
+  García Perez-Schofield":http://coderetreat.org/profile/baltasarq
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Miguel R
+ eboiro Jato":http://coderetreat.org/profile/MiguelReboiroJato
+END:VEVENT
+END:VCALENDAR

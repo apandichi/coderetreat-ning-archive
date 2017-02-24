@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53402
+DTSTAMP:20170129T101048Z
+SUMMARY:Global Day of Coderetreat 2016 - Bern, Switzerland
+DESCRIPTION:very happy to announce the next level of the legendary glo
+ bal day of code retreat in bern. we invite coders from all over the wo
+ rld to have a day of fun.\nevent starts @ 10am and ends up 8 hours lat
+ er…. for food and drinks dvbern ag is taking care, so bring yourself
+ , your laptop and your free mind!\nwe are looking forward to meeting y
+ ou soon, don’t hesitate and register!\n\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-2016-bern-sw
+ itzerland
+DTSTART:20161022T100000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:DV Bern AG
+WEBSITE:https://www.google.com/maps?q=DV+Bern+AG
+URL:https://www.google.com/maps?q=DV+Bern+AG
+CONTACT:
+ORGANIZER;CN="Manuel Drieschmanns":http://coderetreat.org/profile/Manu
+ elDrieschmanns
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ZGfhtH4*NPQ2*
+ sFfYEt0u*0mPtbVx8smxXpRSvl8rHcuw93DXWF*iW8ZCYuKdywkrSzPFx4zMabHNYhxRSV
+ -jDWZLIFVnYBm/BERN075.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Manuel D
+ rieschmanns":http://coderetreat.org/profile/ManuelDrieschmanns
+END:VEVENT
+END:VCALENDAR

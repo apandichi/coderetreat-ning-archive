@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>David White&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DavidWhite</link>
+        <pubDate>Sun, 29 Jan 2017 14:06:18 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:06:18 +0000</lastBuildDate>
+        <image>
+            <title>David White&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DavidWhite</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b3c6f498571698af7707bbd</guid>
+               <title>David White posted a photo</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Photo:12072?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidWhite?xg_source=activity">David White</a> posted a photo</span><br/><div class="rich"><div class="rich-thumb"><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/dw-mar2011"><img src="http://api.ning.com/files/spynYIYpm8PfH7GS1ZGA-mD5T*XhruSU4iUNu0kdnAtZVnW51oMW-5vj8qfmkn11Ojq3NwBErb7uPJgZLVgHBqZ8MgczljAO/DW_Mar2011.png?height=128"  height="128" alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div></div><h3 class="feed-story-title"><a href="http://coderetreat.org/photo/dw-mar2011">DW_Mar2011</a></h3></div>]]></description>
+               <pubDate>Sun, 09 Sep 2012 11:19:15 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b3c6f49c902c765eccd2b42</guid>
+               <title>David White is attending Ian Randall&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidWhite?xg_source=activity">David White</a> is attending <a href="http://coderetreat.org/profile/IanRandall?xg_source=activity">Ian Randall's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">Auckland Coderetreat</a> at Bizdojo Makerspace</h3><div class="rich-detail"><div class="rich-date">October 27, 2012 all day</div><div class="rich-excerpt">Corey will be in town, so we're doing a coderetreat!Please register on meetup.com at <a href="http://www.meetup.com/Auckland-Code-retreat/events/85963422/">http://www.meetup.com/Auckland-Code-retreat/events/85963422/</a> Massive thanks to our sponsors:Primary sponsor <a href="http://datacom.co.nz" target="_blank">Datacom</a> who are funding lunch! (Yay)also <a href="http://codemania.co.nz/#events">codemania</a> and <a href="http://www.telerik.com/">Telerik</a> who are paying for the breakfast/coffee and venue.We couldn't put on coderetreat without their support.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 09 Sep 2012 04:29:51 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b3c6f495f8fab71eb8e7aac</guid>
+               <title>David White is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/DavidWhite?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidWhite?xg_source=activity">David White</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Sun, 09 Sep 2012 04:26:37 +0000</pubDate>
+               </item>    </channel>
+</rss>

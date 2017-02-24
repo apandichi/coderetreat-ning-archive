@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26925
+DTSTAMP:20170129T115846Z
+SUMMARY:Global Day of Coderetreat 2013 - Wellington, New Zealand
+DESCRIPTION:Global Day of Coderetreat 2013 - Wellington, New Zealand\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-2013-wellington-new-zealand
+DTSTART:20131214T083000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Wellington, New Zealand
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Martin Holman":http://coderetreat.org/profile/MartinHolm
+ an
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin H
+ olman":http://coderetreat.org/profile/MartinHolman
+END:VEVENT
+END:VCALENDAR

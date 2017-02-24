@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:21008
+DTSTAMP:20170129T133407Z
+SUMMARY:Coderetreat May 2013 - Haarlem, The Netherlands
+DESCRIPTION:Join us on May 25, 2013 for a wonderful day of coderetreat
+  in Haarlem.\nRSVP at http://coderetreat-haarlem-may-2013.eventbrite.
+ nl/?ref=estw\n\nFor more information visit http://coderetreat.org/even
+ ts/coderetreat-may-2013-haarlem-the-netherlands
+DTSTART:20130525T090000Z
+DTEND:20130525T170000Z
+CATEGORIES:coderetreat
+LOCATION:Haarlem, The Netherlands
+WEBSITE:http://coderetreat-haarlem-may-2013.eventbrite.nl/
+URL:http://coderetreat-haarlem-may-2013.eventbrite.nl/
+CONTACT:
+ORGANIZER;CN="Bart Bakker":http://coderetreat.org/profile/bjpbakker
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/e86-46o09AwSw
+ e9yljw*JhfT7kxjmcMhqEvNPqbrhBCsxQzJyebiU-tICJZwuxOJdM9*VIfPiKWlZRVDQJW
+ 8bNM6mNp8XDix/iPROFSbuilding.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bart Bak
+ ker":http://coderetreat.org/profile/bjpbakker
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Saqib Hussain&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SaqibHussain</link>
+        <pubDate>Sun, 29 Jan 2017 11:32:08 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:32:08 +0000</lastBuildDate>
+        <image>
+            <title>Saqib Hussain&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SaqibHussain</link>
+            <url>http://api.ning.com:80/files/U7JnYe6VCEhDaBuWniH8gonEZIq8fVFk41mlrdInc3peRuhZQVYBOH4EyKVmK0i*4EStG6g*vT65PukZrsabwL3jPna2SEA0/1236470096.jpeg?xgip=0%3A0%3A346%3A346%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012b05d3c6a0faebccce75a47</guid>
+               <title>Saqib Hussain posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54976?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SaqibHussain?xg_source=activity">Saqib Hussain</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:54976?xg_source=activity" ><img src="http://api.ning.com/files/iwncuNArSGAqTFt4SplMlDysHs1VFGHu25Ug7MvquoAfxFn6zoZI3qLhx6tPcALYb-Wml7V0T-0V1Ix9MaZQseAqJv59QVij/Elsevieroutside.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54976?xg_source=activity">Global Day Of CodeRetreat 2016 - (Learn, Practice &amp; Master the techniques)</a> at Oxford</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9:30am to 5:30pm</div><div class="rich-excerpt">When it comes to practicing and mastering programming skills, it’s not practice that makes perfect, but perfect practice that makes perfect. That is the thinking behind the Code Retreat, which provides developers with the opportunity to take part in focused practice. The aim, for attendees, is to learn, practice and master coding techniques with the express intent of becoming better at their craft, and improving their ability to produce high-quality product.Please register yourself here: https://www.meetup.com/Agile-Software-Development-Oxfordshire/events/234142930/<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54976?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 15 Sep 2016 09:32:34 +0000</pubDate>
+               </item>    </channel>
+</rss>

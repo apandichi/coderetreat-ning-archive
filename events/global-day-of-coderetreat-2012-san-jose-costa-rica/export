@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15332
+DTSTAMP:20170129T134255Z
+SUMMARY:Global Day of Coderetreat 2012 - San Jose / Costa Rica
+DESCRIPTION:Enrique Comba is leading the code retreat in Costa RIca.\
+ nRegistration @\nhttps://cr-gdcr.eventwax.com/global-day-of-coderetrea
+ t-2012-costa-rica …\n\nFor more information visit http://coderetrea
+ t.org/events/global-day-of-coderetreat-2012-san-jose-costa-rica
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:code, retreat
+LOCATION:Pernix Curridabat
+WEBSITE:http://maps.google.com/maps?q=9.920898,+-84.036425&num=1&vpsrc
+ =0&ie=UTF8&t=m&z=19&iwloc=A
+URL:http://maps.google.com/maps?q=9.920898,+-84.036425&num=1&vpsrc=0&i
+ e=UTF8&t=m&z=19&iwloc=A
+CONTACT:+506 88230938
+ORGANIZER:Pernix
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Esteban 
+ Soto Madriz":http://coderetreat.org/profile/EstebanSotoMadriz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Enrique 
+ Comba Riepenhausen":http://coderetreat.org/profile/EnriqueCombaRiepenh
+ ausen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos S
+ irias":http://coderetreat.org/profile/CarlosSirias
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brayan Z
+ úñiga":http://coderetreat.org/profile/BrayanZuniga
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Ávalos Mendieta":http://coderetreat.org/profile/JonathanAvalosMendie
+ ta
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin F
+ lores":http://coderetreat.org/profile/MartinFlores
+END:VEVENT
+END:VCALENDAR

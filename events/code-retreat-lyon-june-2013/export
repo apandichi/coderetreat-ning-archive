@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:23859
+DTSTAMP:20170129T124701Z
+SUMMARY:Code Retreat Lyon - June 2013
+DESCRIPTION:Code Retreat Lyon\nco-organized with: CARA Lyon, Lyon.rb, 
+ Mix-IT\nSponsored by: MailJet\nRegister here\n\nFor more information v
+ isit http://coderetreat.org/events/code-retreat-lyon-june-2013
+DTSTART:20130601T083000Z
+DTEND:20130601T160000Z
+CATEGORIES:code, retreat
+LOCATION:La Cordée Charpennes
+WEBSITE:http://goo.gl/maps/UDjJC
+URL:http://goo.gl/maps/UDjJC
+CONTACT:
+ORGANIZER;CN="Haïkel Guémar":http://coderetreat.org/profile/HaikelGu
+ emar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Haïkel 
+ Guémar":http://coderetreat.org/profile/HaikelGuemar
+END:VEVENT
+END:VCALENDAR

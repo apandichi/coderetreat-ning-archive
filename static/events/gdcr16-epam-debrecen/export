@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56219
+DTSTAMP:20170129T112929Z
+SUMMARY:GDCR16 - Epam Debrecen
+DESCRIPTION:Global Day of Coderetreat 2016 at Debrecen\nEpam Systems h
+ appy to join the coderetreat community and spread the craft among loca
+ l software engineers\nRegistration at https://epa.ms/gdcr-debrecen\n\
+ nFor more information visit http://coderetreat.org/events/gdcr16-epam-
+ debrecen
+DTSTART:20161022T083000Z
+DTEND:20161022T160000Z
+CATEGORIES:gdcr16, gdcr, coderetreat
+LOCATION:Epam Debrecen
+WEBSITE:https://www.google.com/maps/place/EPAM+Systems/@47.532255,21.6
+ 186432,17z/data=!3m1!4b1!4m5!3m4!1s0x47470e0b8fadcb63:0xfb3e6ce89211af
+ 8b!8m2!3d47.532255!4d21.6208319?hl=en
+URL:https://www.google.com/maps/place/EPAM+Systems/@47.532255,21.61864
+ 32,17z/data=!3m1!4b1!4m5!3m4!1s0x47470e0b8fadcb63:0xfb3e6ce89211af8b!8
+ m2!3d47.532255!4d21.6208319?hl=en
+CONTACT:
+ORGANIZER:Epam Systems
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/SMDQUmJgBD96j
+ Z*4SwqlQT1ZtUouSB08ydOa5NAnEcbCw6cW3nmrziqNX0QYdti-wJkAu8xOAg0LDBhKZeK
+ z1cA9Fe4M9Zvi/EPAM_LOGO_Small_Square_Color_RGB.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bertalan
+  Kis":http://coderetreat.org/profile/BertalanKis
+END:VEVENT
+END:VCALENDAR

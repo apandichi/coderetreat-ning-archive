@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49456
+DTSTAMP:20170129T122345Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:https://plus.google.com/u/0/events/cni7v1ampolbbf16s6on2kl
+ tovg  This training is for facilitators. Anybody interested in facilit
+ ating a Coderetreat is invited to attend at least one training session
+ . This training will be delivered online on Google Plus Events. Make s
+ ure you will be online five minutes before the training starts.   Lik
+ e last year we will have two different types of trainings for Global D
+ ay of Coderetreat: for hosts and for facilitators.   The job of the h
+ ost is to make sure the Coderetreat runs smoothly by making sure every
+ thing is arranged. Hosts find a venue with all the necessary equipment
+ , find a company to sponsor lunch, give away the prizes at the end of 
+ the day, organize video chats with other locations, etc.   The job of
+  the facilitator is to help participants learn from each other. Facili
+ tators understand the Coderetreat format, choose and explain the const
+ raints, and try to keep a learning atmosphere during the day.  Find yo
+ ur time below in one of these common time zones: ---------------------
+ ----------------------------------------------------------------------
+ ----- 11/10 11:00 AM UTC-8 America/Los_Angeles (PST) 11/10 12:00 PM UT
+ C-7 America/Denver (MST) 11/10 01:00 PM UTC-6 America/Chicago (CST) 11
+ /10 02:00 PM UTC-5 America/New_York (EST) 11/10 08:00 PM UTC+1 Europe/
+ Berlin (CET) 11/10 10:00 PM UTC+3 Europe/Bucharest (EET) 11/10 09:00 P
+ M UTC+2 Africa/Johannesburg (CAT) 11/10 11:00 PM UTC+4 Europe/Moscow (
+ MSK) 11/11 12:30 AM UTC+5.5 Asia/Kolkata (IST) 11/11 03:00 AM UTC+8 As
+ ia/Shanghai (ACT) 11/11 04:00 AM UTC+9 Asia/Tokyo (JST) 11/11 06:00 AM
+  UTC+11 Australia/Sydney (AEDT) 11/11 08:00 AM UTC+13 Pacific/Auckland
+  (NZDT)\n\nFor more information visit http://coderetreat.org/events/fa
+ cilitator-training-session-305
+DTSTART:20151110T110000Z
+DTEND:20151110T120000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/u/0/events/cni7v1ampolbbf16s6on2kltov
+ g
+WEBSITE:https://plus.google.com/u/0/events/cni7v1ampolbbf16s6on2kltovg
+URL:https://plus.google.com/u/0/events/cni7v1ampolbbf16s6on2kltovg
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alexandr
+ u Codreanu":http://coderetreat.org/profile/AlexandruCodreanu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

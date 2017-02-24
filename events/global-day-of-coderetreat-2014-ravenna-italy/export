@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39964
+DTSTAMP:20170129T120526Z
+SUMMARY:Global Day of Coderetreat 2014 - Ravenna, Italy
+DESCRIPTION:My 1st Global Day of Code retreat \n\nFor more informatio
+ n visit http://coderetreat.org/events/global-day-of-coderetreat-2014-r
+ avenna-italy
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Ravenna, Italy
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Mario Alsini":http://coderetreat.org/profile/MarioAlsini
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mario Al
+ sini":http://coderetreat.org/profile/MarioAlsini
+END:VEVENT
+END:VCALENDAR

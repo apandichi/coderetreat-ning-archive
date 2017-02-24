@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Miguel Ángel García Martínez&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MiguelAngelGarciaMartinez</link>
+        <pubDate>Sun, 29 Jan 2017 11:11:41 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:11:41 +0000</lastBuildDate>
+        <image>
+            <title>Miguel Ángel García Martínez&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MiguelAngelGarciaMartinez</link>
+            <url>http://api.ning.com:80/files/kAYh-M0ij9MOOyJLQT4t6ycsi45ou-pLFk9GaCMgnTbC38kVQ0rABNTKGNreCGGw0UuP6MhXDrfvlxOCJx2OdYCeP*pZH4O2/1046141364.png?xgip=0%3A19%3A275%3A275%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009d2bb643b662549fbb33689</guid>
+               <title>Miguel Ángel García Martínez posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:4651?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MiguelAngelGarciaMartinez?xg_source=activity">Miguel &Aacute;ngel Garc&iacute;a Mart&iacute;nez</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:4651?xg_source=activity">Code Retreat Global Day: Retrospective</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:4651">Yesterday was the day.I had been waiting for it for a long time. Lots of people join together all around the world to improve their skills as Developers.I had the chance of attending the Madrid meeting. It was carried on by Enrique Comba. There I found a lot of people that I met first time in another Code Retreat, a year ago. I met new people too.My first thought was that I must not to be there. I already have been practising the 'kata' and I already knew the result. But some time later, realize that the solution doesn't matter. It is the people who matters. It is more important to speak with them, to think with them. It doesn't matters if you get the answer. The real important thing is that you met another people, and each of them allows you to see the same problem from another perspective.I learnt a lot. I realize I was trying to solve the problem by my own, without my mate. In another team, we didn't write a lot of code, but we could think about the mistery of life. In another one, the same happened, but about the abstraction of the problem.It was a very short day, and it was a very important opportunity to meet some people who does mind about our job, about computer programming.And I feel lucky for having been there.Thank you all, organization teams, mates, friends. Thank you for your comments or your thoughts, for your your words.See you soon.NOTE: This article is a copy <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC-BY-NC-SA</a>. You can see the original one at <a href="http://magmax9.blogspot.com/2011/12/code-retreat-global-day-retrospective.html">http://magmax9.blogspot.com/2011/12/code-retreat-global-day-retrospective.html</a> . Thank you.<a class="continue-link" href="http://coderetreat.org/profiles/blogs/code-retreat-global-day-retrospective">See More</a></div></div></div></div>]]></description>
+               <pubDate>Mon, 05 Dec 2011 06:36:59 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d2bb641960e1c7cfda64c8</guid>
+               <title>Miguel Ángel García Martínez is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/MiguelAngelGarciaMartinez?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MiguelAngelGarciaMartinez?xg_source=activity">Miguel &Aacute;ngel Garc&iacute;a Mart&iacute;nez</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Mon, 05 Dec 2011 06:33:05 +0000</pubDate>
+               </item>    </channel>
+</rss>

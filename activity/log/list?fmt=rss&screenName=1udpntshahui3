@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Stacja IT&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/StacjaIT</link>
+        <pubDate>Sun, 29 Jan 2017 11:31:31 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:31:31 +0000</lastBuildDate>
+        <image>
+            <title>Stacja IT&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/StacjaIT</link>
+            <url>http://api.ning.com:80/files/crXYYahgnZoTYdwTWSZcLHsQ7ZdBCdAPqtHYhZ97queFdY-5qvrX-n4Jd-MmIh4JBjTYJKc9bBF0PFOCniF5L-PIyRYo*QrI/1239019164.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012b6a1d80c5e0bbb3c6e7439</guid>
+               <title>Stacja IT posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55281?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/StacjaIT?xg_source=activity">Stacja IT</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55281?xg_source=activity">Global Day of Coderetreat 2016 - Warsaw, Poland</a> at Sages Sp. z o.o.</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div><div class="rich-excerpt">Global Day of Coderetreat 2015 - Warsaw, Poland, co-hosted with Stacja IT.Organized by <a href="http://www.pragmatists.pl" target="_blank">Pragmatists</a> and <a href="http://www.sages.com.pl" target="_blank">Sages</a>.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55281?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 28 Sep 2016 11:33:50 +0000</pubDate>
+               </item>    </channel>
+</rss>

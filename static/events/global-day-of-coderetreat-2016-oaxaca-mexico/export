@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56019
+DTSTAMP:20170129T131124Z
+SUMMARY:Global Day of Coderetreat 2016 - Oaxaca, Mexico
+DESCRIPTION:http://globalday.coderetreat.org/\n\nhttps://www.eventbrit
+ e.com/e/global-day-of-coderetreat-oaxaca-2016-tickets-28394284068\n\n\
+ nFor more information visit http://coderetreat.org/events/global-day-o
+ f-coderetreat-2016-oaxaca-mexico
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:gdcr, coderetreat, gdcr2016, gdcr16
+LOCATION:COCyT Oaxaca
+WEBSITE:https://goo.gl/maps/nZ3S7KV25fE2
+URL:https://goo.gl/maps/nZ3S7KV25fE2
+CONTACT:
+ORGANIZER:oaxaca.rb
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/sncWs2jh2LJUs
+ c6h6*Fq74xtaAdrBPMQmPKCJzwEkuT91gJ3VSy4NtPjwDTee1JNGkWUE4f6L47j5s4p07Y
+ lHR1av4w46uGi/logo_coderetreat.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ruby Oax
+ aca":http://coderetreat.org/profile/oaxacarb
+END:VEVENT
+END:VCALENDAR

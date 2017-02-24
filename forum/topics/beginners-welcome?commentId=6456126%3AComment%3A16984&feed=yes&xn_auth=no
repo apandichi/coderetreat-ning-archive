@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Beginners Welcome? - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/beginners-welcome?commentId=6456126%3AComment%3A16984&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:33:26Z</updated>
+                        <id>http://coderetreat.org/forum/topics/beginners-welcome?commentId=6456126%3AComment%3A16984&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jim,
+
+Thanks for the reply. G…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17253"/>
+                                        <id>tag:coderetreat.org,2012-11-27:6456126:Comment:17253</id>
+                                        <updated>2012-11-27T00:58:52.777Z</updated>
+                    
+                                            <author>
+                            <name>Zane Prickett</name>
+                            <uri>http://coderetreat.org/profile/ZanePrickett</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        Jim,&lt;br /&gt;
+&lt;br /&gt;
+Thanks for the reply. Good to see that you can get value out of the event as an observer as well. I will definitely try to make the event&lt;br /&gt;
+&lt;br /&gt;
+Zane                    </summary>
+
+                                            <content type="html">
+                            Jim,&lt;br /&gt;
+&lt;br /&gt;
+Thanks for the reply. Good to see that you can get value out of the event as an observer as well. I will definitely try to make the event&lt;br /&gt;
+&lt;br /&gt;
+Zane                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hello Zane,
+I think it depend…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:16984"/>
+                                        <id>tag:coderetreat.org,2012-11-26:6456126:Comment:16984</id>
+                                        <updated>2012-11-26T20:30:59.510Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hello Zane,&lt;/p&gt;
+&lt;p&gt;I think it depends entirely on how &quot;beginner&quot; you are. If you&#039;ve only been writing code for a few weeks, then you probably won&#039;t get much out of a coderetreat. If you&#039;ve gotten to the point where you are writing unit tests or have tried Test-Driven Development before, then you will almost certainly get something out of attending a coderetreat (that&#039;s not to say that TDD experience is a requirement, but it is a good indicator as to whether or not you are ready for a…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hello Zane,&lt;/p&gt;
+&lt;p&gt;I think it depends entirely on how &quot;beginner&quot; you are. If you&#039;ve only been writing code for a few weeks, then you probably won&#039;t get much out of a coderetreat. If you&#039;ve gotten to the point where you are writing unit tests or have tried Test-Driven Development before, then you will almost certainly get something out of attending a coderetreat (that&#039;s not to say that TDD experience is a requirement, but it is a good indicator as to whether or not you are ready for a coderetreat).&lt;/p&gt;
+&lt;p&gt;I think it also depends on what programming languages you are working with. I suspect a beginner in Ruby or Python would be able to participate much earlier than a beginner in Java or C#.&lt;/p&gt;
+&lt;p&gt;Instead of making a decision on whether or not to go, you could also decide at what level you want to participate. For example, I&#039;ve facilitated a few coderetreats where a beginner signs up, but then decide they can learn more just by observing everyone else rather than trying to participate directly. In each case, the beginner methioned to me afterwards that they learned a lot and it was well worth their time.&lt;/p&gt;
+&lt;p&gt;I&#039;ve also facilitated a few coderetreats where someone thought they were a beginner, but after a session of observing others, they decided to try participating in full. In that case, the beginner was impressed with how much they actually knew and could contribute to the group.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

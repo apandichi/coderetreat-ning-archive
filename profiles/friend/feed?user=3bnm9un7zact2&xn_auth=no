@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3bnm9un7zact2&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:20:57Z</updated>
+                            <author>
+                    <name>Kurt Griffiths</name>
+                    <uri>http://coderetreat.org/profile/KurtGriffiths</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/8sPkf37rP6U38Xhkl10*KarKITm1QKfrlv*dSfVQCXkxQS6SYbxDlRjX6xe2NYi49zXStP0iPDHlpduUWwkrcGiOcoADQHHL/595361985.png?xgip=0%3A0%3A269%3A269%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3bnm9un7zact2&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Alejandro Cabrera</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AlejandroCabrera"/>
+                                        <id>tag:coderetreat.org,2012-09-21:6456126:User:12737</id>
+                                        <updated>2012-09-21T19:55:15.681Z</updated>
+                    
+                                            <author>
+                            <name>Kurt Griffiths</name>
+                            <uri>http://coderetreat.org/profile/KurtGriffiths</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/fYX619a-81l7cOQTeEWNUaQm6FIJlJJlx9Uirt4ZsQ3AUSRNluM6Yn6Uz34qjdoYW1Voam6dDRwiQjEmMteJn-1Sr4eGl5Sj/917329299.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alejandro Cabrera&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/fYX619a-81l7cOQTeEWNUaQm6FIJlJJlx9Uirt4ZsQ3AUSRNluM6Yn6Uz34qjdoYW1Voam6dDRwiQjEmMteJn-1Sr4eGl5Sj/917329299.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alejandro Cabrera&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Highgroove Studios</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/HighgrooveStudios"/>
+                                        <id>tag:coderetreat.org,2012-09-07:6456126:User:11993</id>
+                                        <updated>2012-09-07T13:33:26.658Z</updated>
+                    
+                                            <author>
+                            <name>Kurt Griffiths</name>
+                            <uri>http://coderetreat.org/profile/KurtGriffiths</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/USJ-8nmBjwkkW2uWPzdYl*F6UUSQiYkOdgtKC7-CcQtqR*D6ngRqoE-7-iGFwpqZYKK82K9SC4fyOWSkldqYcmr5e3icSB5r/607862374.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Highgroove Studios&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/USJ-8nmBjwkkW2uWPzdYl*F6UUSQiYkOdgtKC7-CcQtqR*D6ngRqoE-7-iGFwpqZYKK82K9SC4fyOWSkldqYcmr5e3icSB5r/607862374.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Highgroove Studios&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

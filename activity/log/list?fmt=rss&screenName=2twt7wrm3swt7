@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Ariejan from CodeRetreat.nl&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AriejanfromCodeRetreatnl</link>
+        <pubDate>Sun, 29 Jan 2017 11:48:22 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:48:22 +0000</lastBuildDate>
+        <image>
+            <title>Ariejan from CodeRetreat.nl&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AriejanfromCodeRetreatnl</link>
+            <url>http://api.ning.com:80/files/HD0RdVTwp0C5xrhVpYJrgWnnMMr7c96cOwwEHJkkNrhn10pfv3A2Mm2Lv61yFB8c3NZW*y8mZ0kvxO6EKbBTs-h4yFWoFcux/1138737419.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011dbfbcb2bd57561d8c7ef01</guid>
+               <title>Ariejan from CodeRetreat.nl posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:45933?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AriejanfromCodeRetreatnl?xg_source=activity">Ariejan from CodeRetreat.nl</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:45933?xg_source=activity" ><img src="http://api.ning.com/files/BKb27P3JwiGz95ni4KdR2RlmrnPTx3ApsAShnWScKqOu3saGwpqIF94S7tDoABv13KaoSFxna2-r68QtAPq59W*qhdHa-wPT/code_retreat.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:45933?xg_source=activity">CodeRetreat.nl - Mini Code Retreat</a> at Kabisa, Weert, The Netherlands</h3><div class="rich-detail"><div class="rich-date">September 24, 2015 from 5:30pm to 9pm</div><div class="rich-excerpt">This is a Mini Code Retreat, sponsored (including dinner) by Kabisa. There's space for up to 16 participants.For details and registration (free), see the <a href="http://www.coderetreat.nl" target="_blank">CodeRetreat.nl website</a>.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:45933?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 27 Aug 2015 12:31:32 +0000</pubDate>
+               </item>    </channel>
+</rss>

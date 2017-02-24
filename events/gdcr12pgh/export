@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11893
+DTSTAMP:20170129T134532Z
+SUMMARY:Global Day of Coderetreat 2012 - Pittsburgh / USA
+DESCRIPTION:Pittsburgh, PA is participating in the Global Day of Coder
+ etreat 2012!\nRegistration is now open!\n\nCoderetreat is a day-long, 
+ intensive practice event focused on the fundamentals of software devel
+ opment and design.The unique coderetreat format (which eliminates the 
+ pressure of 'getting things done' and focuses on practicing basic prin
+ ciples of good design) has proven to be a highly effective (and fun) m
+ eans of skill improvement.   On December 8th, Coderetreats will be hel
+ d at cities all over the world. To celebrate this significant event, w
+ e'll be participating in some global activities in addition to our nor
+ mal Coderetreat activities.\nYou only need to bring a laptop with the 
+ development tools you require to write code using your chosen programm
+ ing languages.  A continental breakfast and lunch will be provided.\n
+ Check out coderetreat.org for further details on what to expect.\nRefu
+ ndable Deposit\nThe $15.00 registration deposit will be refunded in fu
+ ll when:\n\nyou attend the event\nyou notify Jim Hurne by Sunday, Dece
+ mber 2nd that you are unable to attend\n\nAny funds not refunded will 
+ be used to fund future local Coderetreats.\nSponsors\n\n \n\nFor more
+  information visit http://coderetreat.org/events/gdcr12pgh
+DTSTART:20121208T083000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:Pittsburgh Technical Institute - North Fayette Campus
+WEBSITE:http://gdcr12pgh.eventbrite.com/
+URL:http://gdcr12pgh.eventbrite.com/
+CONTACT:
+ORGANIZER:Coderetreat Pittsburgh
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/A-O3-ddfZs3gi
+ Uaxf0vQgFfSkpJYCOQhY8uJc8U3ao392I4AWA7n*OKeSSPELMNIeXFK0CoAG-Mt*OIVET0
+ MjeRB5CKixpwu/Pittsburgh.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

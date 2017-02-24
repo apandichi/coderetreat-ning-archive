@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54304
+DTSTAMP:20170129T110211Z
+SUMMARY:Global Day of Coderetreat 2016 - Brno, CZ
+DESCRIPTION:Global Day of Coderetreat in Brno, Czech Republic.\nregist
+ ration is here:http://srazy.info/coderetreat/6753\n\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-br
+ no-2016
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Impact Hub
+WEBSITE:
+URL:
+CONTACT:420774679612
+ORGANIZER:Vladimir Kopso, Martin Spanko, Jakub Fojtl
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/j5BEQWmInn0GV
+ 3d6M3474384OPnOwIGppl8bAOsGHR88vwRO4mq9RVEyEO*pZ*xtQ2KK5iIwywBte8e3*Cc
+ OEJb0jMIYil0w/Coderetreatlogo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vladimir
+  Kopso":http://coderetreat.org/profile/VladimirKopso
+END:VEVENT
+END:VCALENDAR

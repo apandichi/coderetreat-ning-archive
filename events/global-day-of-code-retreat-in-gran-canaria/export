@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46621
+DTSTAMP:20170129T121721Z
+SUMMARY:Global Day of Coderetreat 2015 - Gran Canaria, Spain
+DESCRIPTION:The code retreat will be hosted by Facultad de Informatica
+  ULPGC. \nFacilitated by Peter Kofler and Carlos Ble. It will be faci
+ litated in English.\nPlease register here:\nhttp://gdcrlaspalmas.weebl
+ y.com/\n\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-code-retreat-in-gran-canaria
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Facultad de Informatica, ULPGC
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Gran Canaria Agil
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos B
+ le":http://coderetreat.org/profile/CarlosBle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rubén D
+ íaz Martínez":http://coderetreat.org/profile/RubenDiazMartinez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Johan S.
+  Cortes":http://coderetreat.org/profile/JohanSCortes
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+END:VEVENT
+END:VCALENDAR

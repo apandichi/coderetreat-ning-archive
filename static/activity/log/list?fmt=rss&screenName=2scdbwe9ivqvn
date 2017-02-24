@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Randall Britten&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/RandallBritten</link>
+        <pubDate>Sun, 29 Jan 2017 11:28:36 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:28:36 +0000</lastBuildDate>
+        <image>
+            <title>Randall Britten&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/RandallBritten</link>
+            <url>http://api.ning.com:80/files/lKbBlv0*8rWlY-xXuPFRMpzeR7VDSAVuBfxLKC5dnxE1HCuDbzhIW9sb0ackz3pSyUGaiA2v4ntD3GT2IF*IL5x5z9HccTS2/1155254025.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012104b6dfbfcc84eb9e0202a</guid>
+               <title>Randall Britten posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54604?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/RandallBritten?xg_source=activity">Randall Britten</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54604?xg_source=activity">Global Day of Coderetreat - Auckland (Movio)</a> at Movio</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 8:30am to 5:30pm</div><div class="rich-excerpt">Global Day of Coderetreat - Auckland, New ZealandPlease register over at: <a href="http://www.meetup.com/kiwi-code-retreat/events/233810105/">http://www.meetup.com/kiwi-code-retreat/events/233810105/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54604?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 02 Sep 2016 01:45:50 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000001243501f951a5fa01779e54b</guid>
+               <title>james peterson left a comment for Randall Britten</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52425?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52425?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/RandallBritten?xg_source=activity">Randall Britten</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:31:17 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012104b6d4d855df0c01bb124</guid>
+               <title>Randall Britten posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:50633?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/RandallBritten?xg_source=activity">Randall Britten</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:50633?xg_source=activity">Kiwi Code Retreat - Functional Style</a> at Movio</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Emphasis on FP, Pair programming, TDD, refactoringHosted by <a href="http://www.movio.co" target="_blank">Movio</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:50633?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 14 Nov 2015 00:41:43 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29202
+DTSTAMP:20170129T115450Z
+SUMMARY:Global Day of Coderetreat 2013 - Cleveland, OH, USA
+DESCRIPTION:A group of developers gathering to improve their craft and
+  make some new friends. This event is being hosted as part of the Glob
+ al Day of Code Retreat!\n\nFor more information visit http://coderetre
+ at.org/events/global-day-of-coderetreat-2013-cleveland-oh-usa
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:LeanDog Studio
+WEBSITE:http://gdcrcle2013.eventbrite.com
+URL:http://gdcrcle2013.eventbrite.com
+CONTACT:(216) 236-4705
+ORGANIZER;CN="Joel Byler":http://coderetreat.org/profile/JoelByler
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joel Byl
+ er":http://coderetreat.org/profile/JoelByler
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Sam Jon
+ es":http://coderetreat.org/profile/SamJones
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Patrick
+  Kelly":http://coderetreat.org/profile/PatrickKelly
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Bob Allen @CuriousAgilist&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3p96rdb7mkyur&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:39:43Z</updated>
+                            <author>
+                    <name>Bob Allen @CuriousAgilist</name>
+                    <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3p96rdb7mkyur&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Three Simulations in One 45 Min Sprint</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:47505"/>
+                                        <id>tag:coderetreat.org,2015-10-13:6456126:BlogPost:47505</id>
+                                        <updated>2015-10-13T23:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;div&gt;We run 45 minute &quot;sprints&quot; where pairs choose a kata to work on using ping-pong or pilot-navigator pairing, and follow each sprint with a short retrospective. For this exercise I ask everyone to agree on a single language, or choose from among two languages that everyone is OK with, and a single non-trivial kata, i.e. everyone solving the same problem. We also use cyber-dojo.org to level the playing field for all as regards an IDE.&lt;/div&gt;
+&lt;div&gt;1. Start a timer after everyone has sorted…&lt;/div&gt;                    </summary>
+
+                    <content type="html">
+&lt;div&gt;We run 45 minute &quot;sprints&quot; where pairs choose a kata to work on using ping-pong or pilot-navigator pairing, and follow each sprint with a short retrospective. For this exercise I ask everyone to agree on a single language, or choose from among two languages that everyone is OK with, and a single non-trivial kata, i.e. everyone solving the same problem. We also use cyber-dojo.org to level the playing field for all as regards an IDE.&lt;/div&gt;
+&lt;div&gt;1. Start a timer after everyone has sorted themselves out (paired and begun). Set the timer for 10 minutes.&lt;/div&gt;
+&lt;div&gt;2. At the end of ten minutes (remember, they were expecting to have 45 minutes), ask everyone to stand and each pair move together to the next station to their right. They are now taking over the other pair&#039;s code base.&lt;/div&gt;
+&lt;div&gt;3. Start a timer, again for 10 minutes. At the end of ten minutes, repeat the instructions exactly; everyone rotates, moving with their original pair to the next workstation/laptop. &lt;/div&gt;
+&lt;div&gt;-- &lt;u&gt;Purpose&lt;/u&gt;: These two rotation obviously give participants a sense of what it means to take responsibility for a new-in-every-sense code base.&lt;/div&gt;
+&lt;div&gt;4. Start a timer once again for 10 minutes. When it expires have everyone return to &lt;i&gt;where they started&lt;/i&gt;. &lt;/div&gt;
+&lt;div&gt;-- &lt;u&gt;Purpose&lt;/u&gt;: This simulates the &quot;What have they do to our/my code?&quot; &lt;br/&gt; 5. As timer expires, have &lt;i&gt;just 1 member of each pair &lt;/i&gt;move to any workstation/laptop where they have not been previously.&lt;/div&gt;
+&lt;div&gt;-- &lt;u&gt;Purpose&lt;/u&gt;: This simulates having to explain to a new team member how everything works, even when not all of the code is yours, sort of a joint discovery, complete with some exposed vulnerability.&lt;/div&gt;
+&lt;div&gt;I&#039;ve used variations of the above many times, and used it exactly as described just last weekend. The retrospective revealed exactly what you would expect: the long-time developers and consultants totally got it. The newer folks had their eyes forced wide open. Craftsmanship isn&#039;t all unicorns and rainbows.&lt;/div&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>&quot;Enabling constraints&quot;</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:45744"/>
+                                        <id>tag:coderetreat.org,2015-09-02:6456126:BlogPost:45744</id>
+                                        <updated>2015-09-02T17:22:04.000Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Reading a tweet by @mattbarcomb led me to this post: &quot;&lt;a href=&quot;http://dancingwithelephants.ca/tag/enabling-constraints/&quot; target=&quot;_blank&quot;&gt;Enabling constraints are about opening possibilities by limiting choices.&lt;/a&gt;&quot; a short read. #CodeRetreat facilitators use this, and &lt;em&gt;have fun&lt;/em&gt; doing it!&lt;/p&gt;
+&lt;p&gt;Also, &quot;&lt;a href=&quot;https://vimeo.com/128934608&quot; target=&quot;_blank&quot;&gt;Constraints that Enable Innovation - Alicia Juarrero&quot;&lt;/a&gt;Alicia Juarrero, Professor Emerita of Philosophy at Prince George’s…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Reading a tweet by @mattbarcomb led me to this post: &quot;&lt;a href=&quot;http://dancingwithelephants.ca/tag/enabling-constraints/&quot; target=&quot;_blank&quot;&gt;Enabling constraints are about opening possibilities by limiting choices.&lt;/a&gt;&quot; a short read. #CodeRetreat facilitators use this, and &lt;em&gt;have fun&lt;/em&gt; doing it!&lt;/p&gt;
+&lt;p&gt;Also, &quot;&lt;a href=&quot;https://vimeo.com/128934608&quot; target=&quot;_blank&quot;&gt;Constraints that Enable Innovation - Alicia Juarrero&quot;&lt;/a&gt;Alicia Juarrero, Professor Emerita of Philosophy at Prince George’s Community College (MD) on &quot;enabling&quot; innovation. Overflowing with great stuff on the fundamentals of natural learning.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;Notable quote:&lt;br/&gt;&quot;Take the system far from equilibrium. Nothing interesting ever happens at equilibrium.&quot;&lt;/p&gt;
+&lt;p&gt;Texas version: &quot;There&#039;s Nothing in the Middle of the Road but Yellow Stripes and Dead Armadillos.&quot; I&#039;ll leave the sourcing as an excise for the reader.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Self Orgnizing Team #2 - Footballs</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:45037"/>
+                                        <id>tag:coderetreat.org,2015-07-20:6456126:BlogPost:45037</id>
+                                        <updated>2015-07-20T23:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Below is a handout that was given at the beginning of the day. A second handout was given just after lunch. Together they define an exercise designed to require teams to work out and demonstrate these skills:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Self organization of teams when given full reign (and full responsibility).&lt;/li&gt;
+&lt;li&gt;How to work with what you&#039;re given, even when extremely sparse.&lt;/li&gt;
+&lt;li&gt;How to deliver &lt;em&gt;iteratively (MVP)&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;How to keep parts of the solution decoupled from one…&lt;/li&gt;
+&lt;/ol&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Below is a handout that was given at the beginning of the day. A second handout was given just after lunch. Together they define an exercise designed to require teams to work out and demonstrate these skills:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Self organization of teams when given full reign (and full responsibility).&lt;/li&gt;
+&lt;li&gt;How to work with what you&#039;re given, even when extremely sparse.&lt;/li&gt;
+&lt;li&gt;How to deliver &lt;em&gt;iteratively (MVP)&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;How to keep parts of the solution decoupled from one another.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;lt;Handout #1 - Morning session&amp;gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot; style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Welcome to the BBC - Part I&lt;/b&gt;&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;Welcome to the BBC - The “Bouncy Ball Company”. You have been selected to join the newly formed Super Hot Automation Facilitation Team, SHAFT for short.&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;The focus of this team is to outcompete &lt;em&gt;every other manufacturer&lt;/em&gt; by building software that will automate every step in the manufacture of most any sort of ball, starting with the most popular product here in the northeast; the football (American NFL football).&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;Manufacturing overview reference: &lt;a href=&quot;http://www.madehow.com/Volume-3/Football.html&quot;&gt;http://www.madehow.com/Volume-3/Football.html&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;For the bill of materials and manufacturing steps, see the link above:&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;Forms teams, possibly based on the stages of the manufacturing process, and be sure to remain agile. More news later.&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;The first half of the day (pre-lunch) will be devoted to &lt;span class=&quot;s1&quot;&gt;&lt;b&gt;&lt;i&gt;iterating&lt;/i&gt;&lt;/b&gt;&lt;/span&gt; and improving the process with at least three deliveries, each accompanied by a customer review and feedback.&lt;/p&gt;
+&lt;p&gt;&amp;lt;end Handout #1 - Morning session&amp;gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;LUNCH&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;Handout #2 - Afternoon session&amp;gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot; style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Welcome to the BBC - Part II&lt;/b&gt;&lt;/p&gt;
+&lt;p class=&quot;p2&quot;&gt;Start manufacturing soccer balls. The requirement is to apply all the learning that went into making footballs to now making soccer balls, maximizing the automation by maximizing parameterization, and minimizing waste of the raw materials.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Manufacturing overview reference: &lt;a href=&quot;http://www.madehow.com/Volume-5/Soccer-Ball.html&quot;&gt;&lt;span class=&quot;s2&quot;&gt;http://www.madehow.com/Volume-5/Soccer-Ball.html&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;As you may have surmised by now, the &lt;i&gt;real&lt;/i&gt; exercise is about teamwork, both within teams and &lt;i&gt;across&lt;/i&gt; teams, and &lt;i&gt;rapidly&lt;/i&gt; finding out what works for the people who show up.&lt;/p&gt;
+&lt;p&gt;&amp;lt;end Handout #2 - Afternoon session&amp;gt;&lt;/p&gt;
+&lt;p&gt;Here&#039;s what happened:&lt;/p&gt;
+&lt;p&gt;The morning was predictably defined by lots of questions -&lt;br/&gt; -- What constitutes &quot;acceptance&quot;?.&lt;br/&gt; -- How will we divide the work up?&quot;&lt;br/&gt; -- How will me track progress?&lt;/p&gt;
+&lt;p&gt;The answers were much simpler than attendees imagined:&lt;br/&gt; -- Ask the customer what is acceptable, and a rank-ordered list of what comes first, second, etc.&lt;br/&gt; -- Organization is entirely up to the team(s).&lt;br/&gt; -- Deliver working (acceptable) software.&lt;/p&gt;
+&lt;p&gt;The afternoon session raised the bar on agility at both the testing and implementation levels:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Similarities&lt;/span&gt;: Both balls have an inner bladder, are inflated with a given quantity of air, required a valve to inflate the bladder, and require a stitched-together outer skin of n faces which has to be printed on (e.g. the logo, serial #, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Differences&lt;/span&gt;: The specification (diameter, width, length, lacing or not, number of outer layer faces, shapes of the faces, number of different face shapes, weight, etc.) varied.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The outcomes I was most pleased with were that 18 peoples who do not work together, all of who met at this monthly workshop ...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;collaborated rather than competing,&lt;/li&gt;
+&lt;li&gt;natural leaders emerged quickly and at different points during the day,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;everyone&lt;/em&gt; participated and remained engaged for the entire day.&lt;/li&gt;
+&lt;/ul&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Self Organizing Team(s) Exercise</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:45016"/>
+                                        <id>tag:coderetreat.org,2015-07-09:6456126:BlogPost:45016</id>
+                                        <updated>2015-07-09T19:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;The following are instructions handed out to participants at a recent workshop I ran. The &lt;em&gt;stated&lt;/em&gt; goals of the exercise are to create a micro-service based calculator, a patently &lt;em&gt;absurd&lt;/em&gt; goal. The real purpose of the exercise is the allow the attendees to learn for themselves how to self organize, providing only as much guidance as proves necessary. The results are described below the handout.&lt;/p&gt;
+&lt;p&gt;&amp;lt;begin handout&amp;gt;&lt;br&gt;&lt;/br&gt; Welcome to ICC, Incremental Calculator Corp.…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;The following are instructions handed out to participants at a recent workshop I ran. The &lt;em&gt;stated&lt;/em&gt; goals of the exercise are to create a micro-service based calculator, a patently &lt;em&gt;absurd&lt;/em&gt; goal. The real purpose of the exercise is the allow the attendees to learn for themselves how to self organize, providing only as much guidance as proves necessary. The results are described below the handout.&lt;/p&gt;
+&lt;p&gt;&amp;lt;begin handout&amp;gt;&lt;br/&gt; Welcome to ICC, Incremental Calculator Corp. Today you are going to build the first ever micro-service based massively scalable calculator.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Features&lt;/span&gt; - in value rank order:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add two positive integers in the range 0 to 10^6 and show the result (rudimentary addition function). &lt;/li&gt;
+&lt;li&gt;Add two opposite signed integer numbers and show the result (rudimentary subtraction function). &lt;/li&gt;
+&lt;li&gt;Add two fractional numbers and show the result (full addition and subtraction function, range 10 to minus 6th, to 10 to the 6th)  &lt;/li&gt;
+&lt;li&gt;Multiply one number by another and show the result. &lt;/li&gt;
+&lt;li&gt;Divide one number by another and show the result. &lt;/li&gt;
+&lt;li&gt;Bonus: Provide the ability to perform all of the above operations when entering and displaying hexadecimal numbers. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Constraints&lt;/span&gt; – ICC’s CEO recently subscribed to a trade journal and has been reading up on all the latest trends. As a result, he has mandated the following constraints: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The calculator will be built using the latest Web based client-server architecture.  &lt;/li&gt;
+&lt;li&gt;The calculator must have separated display and data entry means (i.e. the ability to enter numbers and operators must reside on a different computer than the computer that manages the display).  &lt;/li&gt;
+&lt;li&gt;Entering a number or operator must inform the display of what’s been entered via a RESTful interface and the display must confirm the receipt of anything it is asked to display. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definition-of-done&lt;/span&gt; for each feature after the first sprint must include unit tests and Behavior Driven Development tests running green. The tests must assert expected behavior for both success conditions as well as failure handling. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bonuses&lt;/em&gt; are offered for each of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first working demo&lt;/li&gt;
+&lt;li&gt;The second working demo&lt;/li&gt;
+&lt;li&gt;The most demos that are accepted&lt;/li&gt;
+&lt;li&gt;The most complete implementation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The “rules” are described as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We will work together for 45 minute sprints, and then do an open retro (everyone together).&lt;/li&gt;
+&lt;li&gt;Beyond that, &lt;em&gt;there are no rules&lt;/em&gt;.  Vote with your feet. If you feel you are neither contributing nor getting value, then by all means find another team (table) to work with.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;end of handout&amp;gt;&lt;/p&gt;
+&lt;p&gt;What I intentionally did &lt;em&gt;not&lt;/em&gt; do was give specific direction on &lt;em&gt;how&lt;/em&gt; the teams should be organized, formed, or anything else that self-organizing teams should figure out for themselves. I was richly rewarded by the results.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;&quot;Bonuses&quot;&lt;/em&gt; were a deliberate attempt to lure the teams into competition vs. collaboration.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Results from 4/11/15 workshop:&lt;/span&gt; &lt;br/&gt; Sprint #1: By the end of the sprint (45 minutes) the attendees&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;had figured out that they &lt;em&gt;need not&lt;/em&gt; compete, but would benefit from collaborating and dividing their effort along different types of work; e.g. server-side vs. client-side. &lt;/li&gt;
+&lt;li&gt;they had a working github repo, &lt;/li&gt;
+&lt;li&gt;had agreed on an architecture, and&lt;/li&gt;
+&lt;li&gt;realized they needed to stand up a server, and were working on it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In sprint one&#039;s retro it was brought out that a lot of time was spent getting everyone to the same place in terms of MVP. For instance a lot of time was wasted trying to work out session management to accommodate multiple clients. YAGNI.&lt;/p&gt;
+&lt;p&gt;What they ultimately &lt;em&gt;did not do&lt;/em&gt; (yet) was show any working code. The reason offered was that the other parts they were reliant on were not ready yet. It was pointed out that each team mocking the part they were dependent on from another team would have allowed some/all to show demonstrable progress.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Quotable moment:&lt;/span&gt; One participant observed that in a single 45 minute period they have accomplished what large companies are often unable to do after a months time. &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Sprint #2:&lt;/span&gt; By the end of the sprint the attendees …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Showed a working server.&lt;/li&gt;
+&lt;li&gt;Two teams had a working testing framework and at least one working test.&lt;/li&gt;
+&lt;li&gt;They had started merging work into the repo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some struggling with github and git was observed. Made it clear participants must reach out when they are stuck. We talked about time-boxing a problem to prevent it’s becoming a sinkhole.&lt;/p&gt;
+&lt;p&gt;Advised teams that they needed to be planning for integration by actually talking across teams. All communication after they split up into teams had been entirely intra-team. Lunch was used as an opportunity to bridge the gaps between teams.&lt;/p&gt;
+&lt;p&gt;==== Lunch ===&lt;br/&gt; &lt;br/&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt;Sprint #3&lt;/span&gt;: Breakthrough – some exchange of APIs and subsequent learning and adjustments. Also demo-able code (a single operator button and two input fields) worked locally but did not have a working network connection feature yet.&lt;/p&gt;
+&lt;p&gt;Also saw some learning about the mechanics of sharing a repo among teams, e.g. jars that were unfit on any system other than where they were created.&lt;/p&gt;
+&lt;p&gt;Pull requests were offered as one method for managing the repo, along with much more inter-team communication in general. Agreeing on conventions/policies for what constituted acceptable packaging for a pull-request was discussed.&lt;/p&gt;
+&lt;p&gt;Notable learning: Using a virtual card wall (Trello) was attempted, to manage the work and to report bugs. What &lt;em&gt;actually happened&lt;/em&gt; when a “bug” was reported (verbally): the participants instead walked over and talked to one another and quickly &lt;em&gt;eliminated&lt;/em&gt; the problem. No problem remained to track. This resulted in a retro discussion about the priority of “bugs”.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Sprint #4&lt;/span&gt;: Big jump in demo-able code – all four operators worked locally, on the client; only one operation was wired up to invoke the server connection. The communication succeeded at a network layer but apparently not at the application layer. An unexpected reply was received.&lt;/p&gt;
+&lt;p&gt;All four operations passed local BDD function tests on the server. Problems with round pegs and square holes persisted in the exchange of code. More getting up and moving to another table to talk other teams, was reiterated as not only allowable but highly desired.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Sprint #5&lt;/span&gt;: &lt;br/&gt; Getting closer, and cross team communication is now common. Network communication is working a now the server code returns http response codes as well as messages to indicate results or complain about what’s wrong.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Sprint #6&lt;/span&gt;: &lt;br/&gt; It’s 5:10 (we started at 8am) and &lt;em&gt;I can’t get these people to leave&lt;/em&gt;; they really want to show results (which was &lt;em&gt;never&lt;/em&gt; the objective). I’m feeling very good about how the day went. The participants seem to share that feeling.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Permissions:&lt;br/&gt;&lt;/span&gt; If you feel any of the above has value for your training/workshops, &lt;span style=&quot;text-decoration: underline;&quot;&gt;please&lt;/span&gt; feel free to copy all or any part. I would ask only hat you give attribution and reference this post.&lt;/p&gt;
+&lt;p&gt;Thank you, Bob Allen&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Revisiting Rescue Refactoring</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:34904"/>
+                                        <id>tag:coderetreat.org,2014-03-08:6456126:BlogPost:34904</id>
+                                        <updated>2014-03-08T20:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;For our March event we returned to Cyber-Dojo and discovered a very useful feature on &lt;a href=&quot;https://github.com/emilybache/Refactoring-Katas&quot;&gt;Emily Bache&#039;s Refactoring Katas on Github&lt;/a&gt;. Way down at the bottom of each kata&#039;s explanation is a set of links (one for &lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;each of several languages) &lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;that create a &lt;/font&gt;&lt;i&gt;new…&lt;/i&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;For our March event we returned to Cyber-Dojo and discovered a very useful feature on &lt;a href=&quot;https://github.com/emilybache/Refactoring-Katas&quot;&gt;Emily Bache&#039;s Refactoring Katas on Github&lt;/a&gt;. Way down at the bottom of each kata&#039;s explanation is a set of links (one for &lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;each of several languages) &lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;that create a &lt;/font&gt;&lt;i&gt;new&lt;/i&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt; Cyber-Dojo for that kata. This was a huge help. Thank you Emily once again.  We again stuck to the Tennis scoring and Yahtzee scoring katas for the morning sprints, and moved on to Gilded Rose after lunch. &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;Because the Gilded Rose kata contains many aspects encountered in real-life, we had some deep conversations, some inspired by watching Jim Weirich do &lt;a href=&quot;https://www.youtube.com/watch?v=WBJ3hdcM7G8&quot;&gt;a masterful Roman Numerals kata&lt;/a&gt;. Jim&#039;s elegant teaching style will be missed. The video is highly recommended for illustrating how elegant solutions can emerge from careful application of TDD practices.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;Knowing where to start on a large legacy code base got us talking about the &quot;heat map&quot; technique. This is not related to UX eye-tracking but instead focusses on seeing where the largest number of source repo check-ins are occurring. A lot of activity focused on a single module is often for one (&lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;or both) &lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;of two reasons. Either the module that&#039;s getting the most attention is the center of the universe and fails to uphold the &lt;/font&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Single_responsibility_principle&quot;&gt;Single Responsibility Principle&lt;/a&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;, or reported bugs too frequently require changes in that module&#039;s code. Both conditions are code smells that make the module a candidate for refactoring.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;So the question of an easy way to identify where your heaviest &lt;span&gt;repo &lt;/span&gt;activity is came up. Attendee Steven Coffman worked out a pipeline of shell commands that does a great job of surfacing candidates:&lt;/font&gt;&lt;/p&gt;
+&lt;div class=&quot;p1&quot;&gt;&lt;p&gt;&lt;font face=&quot;Courier New, Courier, monospace&quot;&gt;git log --since=&#039;last month&#039; --pretty=format: --name-only | sort | uniq -c | sort -rg | head -10&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p2&quot;&gt;&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt; &lt;/font&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 13px;&quot;&gt;You can replace the &#039;last month&#039; with &#039;1 week ago&#039;, &#039;yesterday&#039;, &#039;1 year ago&#039;, &#039;3 months ago&#039;, &#039;1/20/2009&#039;. Or you can omit the --since=&#039;last month&#039; to have no time limit.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p1&quot;&gt;&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;Thanks Steve!&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Randori Fish-bowl Experiment</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:34485"/>
+                                        <id>tag:coderetreat.org,2014-02-24:6456126:BlogPost:34485</id>
+                                        <updated>2014-02-24T02:54:57.000Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;For the first of our monthly code retreats, we had 6 brave soles who were not deterred by snowmagedon. At this event&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 13px;&quot;&gt;, we experimented with a Randori fish-bowl for the first time. Here&#039;s what we did:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;Three chairs are setup at a small table with a shared laptop connected to the overhead projector. After an initial pair volunteered to start us off, the remainder of…&lt;/font&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;For the first of our monthly code retreats, we had 6 brave soles who were not deterred by snowmagedon. At this event&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 13px;&quot;&gt;, we experimented with a Randori fish-bowl for the first time. Here&#039;s what we did:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;Three chairs are setup at a small table with a shared laptop connected to the overhead projector. After an initial pair volunteered to start us off, the remainder of the attendees setup chairs positioned so they could watch both the overhead screen and the current pair.  &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 13px;&quot;&gt;What made it a &quot;fish-bowl&quot; Randori was the &lt;/span&gt;&lt;i style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 13px;&quot;&gt;3rd chair&lt;/i&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 13px;&quot;&gt;, initially empty. The rule is that there must always be a pair working, and that they were to do ping-pong pairing. The audience gets to cheer the pair on, offer suggestions, or heckle, as they chose. But the risk to a heckler is that too much heckling could result in a current pair member stepping away and putting the heckler on the spot by inviting them to step up, which they are obliged to do. The other way to refresh the makeup of the current pair is that any audience member can occupy the vacant third chair, obligating one of the pair to give up his/her seat. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 13px;&quot;&gt;We ran this configuration for a 45 minute sprint on the prime factors kata and got an unexpected outcome.  At the end of 45 minutes, even with a group of mostly seasoned developers, they had failed to complete the kata, When asked why they thought this was one observation offered provided the best insight: it&#039;s really really hard to allow the code to tell you what it needs when working on a problem if you think you already know how to solve it. Specifically, participants couldn&#039;t agree on at what point to stop doing the simplest thing that met the test and dive headlong into writing the regression they knew would be required for the ultimate solution.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;In hind site, I&#039;ll add a new rule next time we do the fish-bowl Randori: the audience can only address the active pair, i.e. no side conversations.  Side conversations introduce way to much chatter and detract from the focus on the pair and what they are doing.  Also, the group came up with an alternate approach for rotating the pair: time-box how long the pair remained in place.  We may give that a shot in the future.&lt;/font&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Thank you Emily for The Legacy Code Retreat Collection</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:27150"/>
+                                        <id>tag:coderetreat.org,2013-10-06:6456126:BlogPost:27150</id>
+                                        <updated>2013-10-06T05:33:45.000Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;In 2012, Emily Bache started a collection on GitHub of three katas specifically selected for use in a Legacy Code Retreat (Tennis, Yahtzee, and Gilded Rose) and invited others to contribute, and contribute they did. The result, in at least 5 languages, can be found &lt;a href=&quot;https://github.com/emilybache/Refactoring-Katas/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.  Although that work included links over to Cyber-Dojo, those links no longer work. &lt;/p&gt;
+&lt;p&gt;So, I re-ported the work over to Cyber-Dojo, added…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;In 2012, Emily Bache started a collection on GitHub of three katas specifically selected for use in a Legacy Code Retreat (Tennis, Yahtzee, and Gilded Rose) and invited others to contribute, and contribute they did. The result, in at least 5 languages, can be found &lt;a href=&quot;https://github.com/emilybache/Refactoring-Katas/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.  Although that work included links over to Cyber-Dojo, those links no longer work. &lt;/p&gt;
+&lt;p&gt;So, I re-ported the work over to Cyber-Dojo, added attribution and a link back to the github repo at the bottom of the instructions pages, and renamed the code and test sources to reflect the exercises. Here are the keys on Cyber-Dojo:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: &#039;courier new&#039;, courier;&quot;&gt;{&lt;br/&gt;Lang:   [&quot;Tennis&quot;, &quot;G Rose&quot;, &quot;Yahtzy&quot;],&lt;br/&gt;CSharp: [&quot;53C59C&quot;, &quot;294BBB&quot;, &quot;D08160&quot;],&lt;br/&gt;CPP:    [&quot;3DA231&quot;, &quot;77146E&quot;, &quot;FE4865&quot;],&lt;br/&gt;Java:   [&quot;876748&quot;, &quot;19E971&quot;, &quot;7FD3B4&quot;],&lt;br/&gt;JS:     [&quot;14DFAF&quot;, &quot;E9C44B&quot;,    nill ], &lt;br/&gt;Python: [&quot;461D9A&quot;, &quot;C38077&quot;, &quot;0EB11E&quot;],&lt;br/&gt;Ruby:   [&quot;239135&quot;,     nill, &quot;1C1D6A&quot;]&lt;br/&gt;}&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;re. the nill values: Yahtzy wasn&#039;t on the repo in JavaScript, and &lt;span&gt;Gilded Rose in Ruby I just didn&#039;t re-port (ran out of time)&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;There&#039;s even &lt;em&gt;more&lt;/em&gt; on Emily&#039;s Github repo, but Cyber-Dojo doesn&#039;t offer SmallTalk (&lt;em&gt;unless&lt;/em&gt; someone has forked CD somewhere so that it does&lt;em&gt;?!&lt;/em&gt;).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Thank you Emily.  These made for a GREAT legacy code retreat.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Bob&lt;/span&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

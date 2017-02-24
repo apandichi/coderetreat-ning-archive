@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56056
+DTSTAMP:20170129T101455Z
+SUMMARY:Global Day of Coderetreat 2016 - Pune, India
+DESCRIPTION:Enjoy a day long of programming hosted and facilitated by 
+ the software craftsmen of Red Panda Innovation Labs Pvt Ltd. Experienc
+ e stunning retrospectives and new challenges. This event is supported 
+ by Nelkinda Software Craft Pvt Ltd.\n\nFor more information visit http
+ ://coderetreat.org/events/global-day-of-coderetreat-pune-red-panda
+DTSTART:20161022T100000Z
+DTEND:20161022T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Red Panda Innovation Labs Pune
+WEBSITE:https://www.meetup.com/Codewords-Pune/events/234747733/
+URL:https://www.meetup.com/Codewords-Pune/events/234747733/
+CONTACT:
+ORGANIZER:Christian Hujer, Nelkinda, Red Panda, Rahul Katariya, Tushar
+  Jarhad, Sukant Saxena
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Hujer":http://coderetreat.org/profile/ChristianHujer
+END:VEVENT
+END:VCALENDAR

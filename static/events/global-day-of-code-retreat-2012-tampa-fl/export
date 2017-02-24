@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12278
+DTSTAMP:20170129T134422Z
+SUMMARY:Global Day of Coderetreat 2012 - Tampa, FL / USA
+DESCRIPTION:WooHoo! Tampa is back in the house for GDCR 2012! This sho
+ uld be another awesome time! We'll be hosting it in the Tampa side of 
+ the bay at the 8th Light offices in Carrollwood. It will be facilitate
+ d by the ever awesome Gavin Stark of Tampa.rb fame, and hosted by Cory
+  Foy and 8th Light! Registration is now open at http://tampagdcr2012.e
+ ventbrite.com\n\nFor more information visit http://coderetreat.org/eve
+ nts/global-day-of-code-retreat-2012-tampa-fl
+DTSTART:20121208T080000Z
+DTEND:20121208T160000Z
+CATEGORIES:coderetreat
+LOCATION:8th Light Tampa Offices
+WEBSITE:https://maps.google.com/maps?q=10012+N+Dale+Mabry+Hwy,+Tampa,+
+ FL&hl=en&client=firefox-a&hnear=10012+N+Dale+Mabry+Hwy,+Tampa,+Florida
+ +33618&gl=us&t=h&z=16
+URL:https://maps.google.com/maps?q=10012+N+Dale+Mabry+Hwy,+Tampa,+FL&h
+ l=en&client=firefox-a&hnear=10012+N+Dale+Mabry+Hwy,+Tampa,+Florida+336
+ 18&gl=us&t=h&z=16
+CONTACT:813-352-0233
+ORGANIZER:8th Light / Cory Foy
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/O8HZwV0MPA90j
+ iPf-jllo*5CtNSyThARct*y*tbzlY1baJ0q4H1VDPtlp*uKNnn2ojJEpuBYJqWhSSnnUvs
+ V-Zfuqgjw5uPc/small8thLightLogo.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cory Foy
+ ":http://coderetreat.org/profile/CoryFoy
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Geoff La
+ notte":http://coderetreat.org/profile/GeoffLanotte
+END:VEVENT
+END:VCALENDAR

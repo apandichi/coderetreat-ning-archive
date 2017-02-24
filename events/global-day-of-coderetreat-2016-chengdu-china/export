@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55286
+DTSTAMP:20170129T101530Z
+SUMMARY:Global Day of Coderetreat 2016 - Chengdu, China
+DESCRIPTION:As part of Global day of code retreat 2015, this is one da
+ y long\nintensive practice for software design and development. A grea
+ t way to improve your skills and meet new friends.\nRegistration at he
+ re: http://d.eqxiu.com/s/XsJBRmSr\n报名链接：http://d.eqxiu.com/
+ s/XsJBRmSr\n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-coderetreat-2016-chengdu-china
+DTSTART:20161022T100000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Tianfu Software Park A4
+WEBSITE:https://www.google.com/maps/place/NOKIA+Siemens+Communication/
+ @30.550643,104.0790538,13.5z/data=!4m5!3m4!1s0x0:0x7ad0344d98683167!8m
+ 2!3d30.5475247!4d104.06986
+URL:https://www.google.com/maps/place/NOKIA+Siemens+Communication/@30.
+ 550643,104.0790538,13.5z/data=!4m5!3m4!1s0x0:0x7ad0344d98683167!8m2!3d
+ 30.5475247!4d104.06986
+CONTACT:
+ORGANIZER:Nokia Chengdu Technology Center - Xirui Wang, Brian Liu, Har
+ ry Chen
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Xirui Wa
+ ng":http://coderetreat.org/profile/XiruiWang
+END:VEVENT
+END:VCALENDAR

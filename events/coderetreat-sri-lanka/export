@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9540
+DTSTAMP:20170129T133614Z
+SUMMARY:Coderetreat Sri Lanka
+DESCRIPTION:Sri Lanka's very first coderetreat experience. More detail
+ s coming soon \n\nFor more information visit http://coderetreat.org/e
+ vents/coderetreat-sri-lanka
+DTSTART:20120602T090000Z
+DTEND:20120602T170000Z
+CATEGORIES:coderetreat
+LOCATION:Galadari Hotel
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Shiran Ginige":http://coderetreat.org/profile/SajeewaShi
+ ranGinige
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nishan M
+ ills":http://coderetreat.org/profile/NishanMills
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Asrij Si
+ raj":http://coderetreat.org/profile/AsrijSiraj
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Johannes
+  Brodwall":http://coderetreat.org/profile/JohannesBrodwall
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=lasanthas
+ ridinesh:http://coderetreat.org/profile/lasanthasridinesh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=wagaarach
+ chi:http://coderetreat.org/profile/wagaarachchi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Shiran G
+ inige":http://coderetreat.org/profile/SajeewaShiranGinige
+END:VEVENT
+END:VCALENDAR

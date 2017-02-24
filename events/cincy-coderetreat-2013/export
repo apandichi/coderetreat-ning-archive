@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:20559
+DTSTAMP:20170129T124220Z
+SUMMARY:Cincy Coderetreat 2013
+DESCRIPTION:Coderetreat\n\nFor more information visit http://coderetre
+ at.org/events/cincy-coderetreat-2013
+DTSTART:20130413T083000Z
+DTEND:20130413T170000Z
+CATEGORIES:coderetreat
+LOCATION:Pinnacle Solutions Group, Inc.
+WEBSITE:http://cincycoderetreat2013.eventbrite.com
+URL:http://cincycoderetreat2013.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Mark Haskamp":http://coderetreat.org/profile/MarkHaskamp
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/VaoWvw2h1rsfu
+ b3Bspp5Dgl3P0YLSAvdhv04QtzW2YmvSW5FI5SpVFeMNC8zF-jAIuDp1T6ejTUlLLGXOPj
+ fPR0g68bRR9*d/cincy_skyline.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Al
+ len":http://coderetreat.org/profile/JamesAllen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Dil
+ lion":http://coderetreat.org/profile/MikeDillion
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Guantonio":http://coderetreat.org/profile/MichaelGuantonio
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Curtis S
+ chumacher":http://coderetreat.org/profile/CurtisSchumacher
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark Has
+ kamp":http://coderetreat.org/profile/MarkHaskamp
+END:VEVENT
+END:VCALENDAR

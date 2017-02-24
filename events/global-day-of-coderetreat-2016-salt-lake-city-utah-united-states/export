@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56254
+DTSTAMP:20170129T114937Z
+SUMMARY:Global Day of Coderetreat 2016 - Salt Lake City, Utah, United 
+ States of America (USA)
+DESCRIPTION:\nPlease RSVP via EventBrite\n\na day to celebrate passion
+  and software craftsmanship\nEach year there’s a Saturday set aside 
+ where developers around the world gather in person or online to medita
+ te on their coding. It’s one of those global vibration gigs where yo
+ u can feel the focus and concentration bouncing back and forth from In
+ dia to Indiana. Our meditation is code, and we set aside this day to m
+ erge intention with practice.\nCode Retreat is a “repeatable, day lo
+ ng event focused on practicing the fundamentals of software developmen
+ t.\" It’s an opportunity to learn (and re-learn) best practices, thi
+ ngs like pairing with other developers and doing behavior driven devel
+ opment. Participants get together in some convenient location and go t
+ hrough a series of exercises that teach and reinforce various aspects 
+ of working together on a problem and writing tests.\nFor each exercise
+ , the problem is always the same: work on solving Conway’s Game of L
+ ife. Sometimes, rarely, it actually gets solved, but that’s beside t
+ he point. In fact, at the end of each exercise, participants are suppo
+ sed to delete their code and start over.\nCode Retreats can happen any
+  time, anywhere, but they’re best experienced on a Global Day of Cod
+ e Retreat. This year, it’ll be October 22, 2016, and there will be m
+ ore than 115 Code Retreats world wide. In Salt Lake City, we're hostin
+ g one at O.C. Tanner Company.\nIn addition to hosting, O.C. Tanner wil
+ l also sponsor food and beverages. We'll have morning snacks, a nice l
+ unch (something that's not pizza), and afternoon snacks.  You're just
+  responsible for bringing yourself and your computer.\nThis event will
+  be facilitated by Sean Duncan, organizer of SLC JS Learners and SLC I
+ ron Yard instructor, and Rob Martin, co-organizer of SLC Software Craf
+ tsmanship, speaker, and trainer.\nPark at the south end of the main bu
+ ilding, and enter through the main entrance.\n\nPlease RSVP via EventB
+ rite\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2016-salt-lake-city-utah-united-states
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:O.C. Tanner Company
+WEBSITE:https://www.eventbrite.com/e/slc-global-day-of-code-retreat-20
+ 16-tickets-28614627120
+URL:https://www.eventbrite.com/e/slc-global-day-of-code-retreat-2016-t
+ ickets-28614627120
+CONTACT:
+ORGANIZER:Rob Martin and Sean Duncan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sean Dun
+ can":http://coderetreat.org/profile/MetaSean
+END:VEVENT
+END:VCALENDAR

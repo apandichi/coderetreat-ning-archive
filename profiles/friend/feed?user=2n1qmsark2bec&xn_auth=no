@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2n1qmsark2bec&amp;xn_auth=no"/>
+            <updated>2017-01-29T14:03:05Z</updated>
+                            <author>
+                    <name>Riccardo Franconi</name>
+                    <uri>http://coderetreat.org/profile/RiccardoFranconi</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/VekLkVe6jw92BUDBem96muwMJHfpqAAQt2lgTc*SIRWnyvEAz7166SmceF*m*fCbx9MKNp17fatMdDXYS-iW-mb7OWap4ZOH/1044480155.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2n1qmsark2bec&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Gabriele Lana</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/GabrieleLana"/>
+                                        <id>tag:coderetreat.org,2011-11-24:6456126:User:2004</id>
+                                        <updated>2011-11-24T07:55:35.869Z</updated>
+                    
+                                            <author>
+                            <name>Riccardo Franconi</name>
+                            <uri>http://coderetreat.org/profile/RiccardoFranconi</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/GWF0Pf2vNMHN59Gw7m9j2gfVTyPXGiceggapCM3BTXLkqWWzswWqIZL4wIwtE95RGfciV0zvACltA04Mi3bvmMiCF7ynAg0L/780833304.png?xgip=1%3A6%3A256%3A256%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gabriele Lana&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/GWF0Pf2vNMHN59Gw7m9j2gfVTyPXGiceggapCM3BTXLkqWWzswWqIZL4wIwtE95RGfciV0zvACltA04Mi3bvmMiCF7ynAg0L/780833304.png?xgip=1%3A6%3A256%3A256%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gabriele Lana&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

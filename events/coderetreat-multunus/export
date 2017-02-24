@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53716
+DTSTAMP:20170129T132628Z
+SUMMARY:Coderetreat @ Multunus, Bangalore, India
+DESCRIPTION:We are conducting a coderetreat at Multunus Software, Bang
+ alore, India, on May 28, 2016 (Saturday). Join us: http://multunuscod
+ eretreat2016.doattend.com/\n\nFor more information visit http://codere
+ treat.org/events/coderetreat-multunus
+DTSTART:20160528T080000Z
+DTEND:20160528T170000Z
+CATEGORIES:coderetreat
+LOCATION:Multunus Software
+WEBSITE:https://www.google.co.in/maps/place/Multunus+Software+Pvt+Ltd/
+ @12.9104944,77.5889206,17z/data=!4m12!1m6!3m5!1s0x3bae150d8a6e03b1:0xc
+ 88ebcfe41394a8a!2sMultunus+Software+Pvt+Ltd!8m2!3d12.9104944!4d77.5889
+ 206!3m4!1s0x3bae150d8a6e03b1:0xc88ebcfe41394a8a!8m2!3d12.9104944!4d77.
+ 5889206?hl=en
+URL:https://www.google.co.in/maps/place/Multunus+Software+Pvt+Ltd/@12.
+ 9104944,77.5889206,17z/data=!4m12!1m6!3m5!1s0x3bae150d8a6e03b1:0xc88eb
+ cfe41394a8a!2sMultunus+Software+Pvt+Ltd!8m2!3d12.9104944!4d77.5889206!
+ 3m4!1s0x3bae150d8a6e03b1:0xc88ebcfe41394a8a!8m2!3d12.9104944!4d77.5889
+ 206?hl=en
+CONTACT:
+ORGANIZER:Multunus Software
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yedhu Kr
+ ishnan":http://coderetreat.org/profile/YedhuKrishnan
+END:VEVENT
+END:VCALENDAR

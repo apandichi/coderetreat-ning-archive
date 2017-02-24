@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:7417
+DTSTAMP:20170129T124908Z
+SUMMARY:Code retreat Romania-Sibiu
+DESCRIPTION:Lovers of clean code, pair programming and TDD, we are ple
+ ased to announce a Code Retreat event for you.\nWe will focus on writi
+ ng beautiful code without the pressure of a solution delivery. Here 
+ are more details about what Code Retreat means.\nTo help us in organiz
+ ing the event, those willing to participate, please confirm at costi
+ n.morariu@yahoo.com.\n\nFor more information visit http://coderetreat.
+ org/events/code-retreat-romania-sibiu
+DTSTART:20120128T083000Z
+DTEND:20120128T173000Z
+CATEGORIES:coderetreat
+LOCATION:iQuest (Business Center B, flor 3)
+WEBSITE:http://iquestint.com
+URL:http://iquestint.com
+CONTACT:+40726276307
+ORGANIZER:Costin Morariu, Andrei Olar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rosenfel
+ d Eugen":http://coderetreat.org/profile/RosenfeldEugen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=calinuswo
+ rk:http://coderetreat.org/profile/calinuswork
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrei T
+ ara":http://coderetreat.org/profile/AndreiTara
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gaspar C
+ onstantin Lucian":http://coderetreat.org/profile/GasparConstantinLucia
+ n
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrei N
+ eagu":http://coderetreat.org/profile/AndreiNeagu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Costin M
+ orariu":http://coderetreat.org/profile/CostinMorariu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ovidiu B
+ echeş-Puia":http://coderetreat.org/profile/OvidiuBechesPuia
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adrian N
+ istor":http://coderetreat.org/profile/AdrianNistor
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="octavia
+ n sfetcu":http://coderetreat.org/profile/octaviansfetcu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Natea N
+ icolae":http://coderetreat.org/profile/NateaNicolae
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Ion Ceb
+ an":http://coderetreat.org/profile/IonCeban
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Alex Io
+ nica":http://coderetreat.org/profile/AlexIonica
+END:VEVENT
+END:VCALENDAR

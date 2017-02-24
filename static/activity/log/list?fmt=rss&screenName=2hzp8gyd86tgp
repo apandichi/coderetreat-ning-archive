@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Rafał Roppel&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/RafalRoppel</link>
+        <pubDate>Sun, 29 Jan 2017 13:47:34 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:47:34 +0000</lastBuildDate>
+        <image>
+            <title>Rafał Roppel&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/RafalRoppel</link>
+            <url>http://api.ning.com:80/files/RU-BxEuC-r4SQXbgeT95D5xNJ3LK1vq0wcfQ-310nmiekArqc4XgGMmVsQIxR1Y6mSuCeS5BD6SU--XS9CbuP0eUXJZ8IF7-/1152147544.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501f4277be78ac5d4445</guid>
+               <title>james peterson left a comment for Rafał Roppel</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52673?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52673?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/RafalRoppel?xg_source=activity">Rafał Roppel</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:45:37 +0000</pubDate>
+               </item>    </channel>
+</rss>

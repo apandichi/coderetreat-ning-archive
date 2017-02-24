@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3enpym5qvv8or&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:35:35Z</updated>
+                            <author>
+                    <name>Jeff Whitmire</name>
+                    <uri>http://coderetreat.org/profile/JeffWhitmire</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/jDVD6OcwyOII7kJ0A*RUIeTHfz0dXuDFpMOA6S6we3hnjEAgGTPhQtstei0yEB1dcv8wSn4nrCbfWyY2Kunuh*72hJfLc0Mc/1040655219.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3enpym5qvv8or&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Chris Horn</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ChrisHorn"/>
+                                        <id>tag:coderetreat.org,2013-09-24:6456126:User:26768</id>
+                                        <updated>2013-09-24T03:15:17.386Z</updated>
+                    
+                                            <author>
+                            <name>Jeff Whitmire</name>
+                            <uri>http://coderetreat.org/profile/JeffWhitmire</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/FIt*ZFe6wNjjl59LKFU7haPWkE6g49nf2Yv2b54*5y3YHsyUl3Qf8sD7PJ*NEn5UShhgR7k7TFKh9kLOw5OT18Ey07MXGFFx/1039639144.png?xgip=0%3A0%3A239%3A239%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Chris Horn&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/FIt*ZFe6wNjjl59LKFU7haPWkE6g49nf2Yv2b54*5y3YHsyUl3Qf8sD7PJ*NEn5UShhgR7k7TFKh9kLOw5OT18Ey07MXGFFx/1039639144.png?xgip=0%3A0%3A239%3A239%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Chris Horn&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jim Hurne</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JimHurne"/>
+                                        <id>tag:coderetreat.org,2011-11-05:6456126:User:202</id>
+                                        <updated>2011-11-05T18:20:59.171Z</updated>
+                    
+                                            <author>
+                            <name>Jeff Whitmire</name>
+                            <uri>http://coderetreat.org/profile/JeffWhitmire</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/FTtWH8-RZI3nheGeA1zX9gE2Yf4tzd8J-IvZWB7zwPgJCFffMm0jSRTPFREHbtvody1rHqwSyibuhLDSwK40Xf16u8nhIvRo/949881480.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jim Hurne&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/FTtWH8-RZI3nheGeA1zX9gE2Yf4tzd8J-IvZWB7zwPgJCFffMm0jSRTPFREHbtvody1rHqwSyibuhLDSwK40Xf16u8nhIvRo/949881480.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jim Hurne&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

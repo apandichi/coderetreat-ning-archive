@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46894
+DTSTAMP:20170129T121546Z
+SUMMARY:Global Day of Coderetreat 2015 - Erlangen, Germany
+DESCRIPTION:Global Day of Coderetreat 2015 in Erlangen\nRegistration: 
+ info@mathema.de\nSponsor: MATHEMA Software GmbH\n\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2015
+ -erlangen-germany-1
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:MATHEMA Software GmbH
+WEBSITE:https://goo.gl/maps/8BJXusRiymH2
+URL:https://goo.gl/maps/8BJXusRiymH2
+CONTACT:+49 9131 8903-0
+ORGANIZER:Thomas Bertz & Timothée Bourguignon
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/AI-C-DD*hSdBE
+ RjdUQTIQddz6aRLdA82DhPVvaQw1-5U0x51g0FPV5KxJ*v3MLAdUhAT3Jx3IUi11TLm-Ud
+ 9BBdIzt2jGVmv/Bauarbeiterbeans_173x173_mathema.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thomas B
+ ertz":http://coderetreat.org/profile/ThomasBertz
+END:VEVENT
+END:VCALENDAR

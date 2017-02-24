@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0v3pxgzl1t8h2&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:48:58Z</updated>
+                            <author>
+                    <name>Alcides Flores Pineda</name>
+                    <uri>http://coderetreat.org/profile/AlcidesFloresPineda</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/BGFE84IJT1u7QstqrhXrdWX*Xt820OETpE94PyoGCGcvg597cZXpUbFNZGTklCoIi5vEhw9yAcoxYX4SP-Wvcga9npHZ-ASm/429952626.jpeg?xgip=36%3A1%3A272%3A272%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0v3pxgzl1t8h2&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Daniel Ramos</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/DanielRamos"/>
+                                        <id>tag:coderetreat.org,2012-08-24:6456126:User:11465</id>
+                                        <updated>2012-08-24T01:55:46.285Z</updated>
+                    
+                                            <author>
+                            <name>Alcides Flores Pineda</name>
+                            <uri>http://coderetreat.org/profile/AlcidesFloresPineda</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/3YnG4IYlItt*6VvxC5TuQRRviOkbwuXdilmoydOMkq0sJqIuDhm0KOlG0Yb5NcvhGVtqK2IGZsIRfMUz3bSvMY2mCLgT6We9/999596573.jpeg?xgip=76%3A8%3A471%3A471%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Daniel Ramos&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/3YnG4IYlItt*6VvxC5TuQRRviOkbwuXdilmoydOMkq0sJqIuDhm0KOlG0Yb5NcvhGVtqK2IGZsIRfMUz3bSvMY2mCLgT6We9/999596573.jpeg?xgip=76%3A8%3A471%3A471%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Daniel Ramos&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

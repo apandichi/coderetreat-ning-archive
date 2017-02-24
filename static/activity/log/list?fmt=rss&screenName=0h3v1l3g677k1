@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Josh Barrett&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JoshBarrett</link>
+        <pubDate>Sun, 29 Jan 2017 12:32:04 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:32:04 +0000</lastBuildDate>
+        <image>
+            <title>Josh Barrett&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JoshBarrett</link>
+            <url>http://api.ning.com:80/files/8e0m82BHkpkVzxtqry38gh8G2k55zmfvemYVwgU9-uGEhktX4cj*nq45gWJ*RVisqwDgNOqdtG0Ew0rmtcCto7-N2VUuEOAT/1150828101.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

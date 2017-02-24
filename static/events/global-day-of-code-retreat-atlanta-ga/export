@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11997
+DTSTAMP:20170129T100006Z
+SUMMARY:Global Day of Coderetreat 2012 - Atlanta, GA / USA
+DESCRIPTION:Join us for the Global Day of Code Retreat on December 8. 
+ Led by Stafford Brooke, the Atlanta code retreat is a gathering of dev
+ elopers improving their craft.\nThe event will be free*. To RSVP, sign
+  up here.\n* Sign-up fee will be refunded once your attendance is conf
+ irmed.\n \n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-code-retreat-atlanta-ga
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Highgroove Studios
+WEBSITE:http://www.highgroove.com
+URL:http://www.highgroove.com
+CONTACT:
+ORGANIZER:
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/heJpMabx6qWrV
+ zndHIlcEYWzhaUg2IeRfK5-hQWJ6ju91l083FERslVtLUDzRgMyiPjCBJpImmy4f9UlxEF
+ Xq2ssdc2V1kej/coderetreat.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Highgroo
+ ve Studios":http://coderetreat.org/profile/HighgrooveStudios
+END:VEVENT
+END:VCALENDAR

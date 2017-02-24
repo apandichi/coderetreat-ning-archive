@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55996
+DTSTAMP:20170129T112917Z
+SUMMARY:Global Day of Coderetreat 2016 - Bend, OR, USA
+DESCRIPTION:Global Day of Coderetreat 2016 - Bend, OR, USA. Free. Open
+  to the public. Held at Central Oregon Community College. Coffee and l
+ unch sponsored by PacificSource Health Plans. Register at https://www
+ .eventbrite.com/e/global-day-of-code-retreat-bend-or-usa-tickets-28511
+ 104481\n\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2016-bend-or-usa
+DTSTART:20161022T083000Z
+DTEND:20161022T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Central Oregon Community College
+WEBSITE:
+URL:
+CONTACT:541.815.0635
+ORGANIZER;CN="Gene Hyde":http://coderetreat.org/profile/GeneHyde
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gene Hyd
+ e":http://coderetreat.org/profile/GeneHyde
+END:VEVENT
+END:VCALENDAR

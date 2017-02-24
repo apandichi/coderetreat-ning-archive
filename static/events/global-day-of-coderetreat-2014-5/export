@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55171
+DTSTAMP:20170129T100756Z
+SUMMARY:Global Day of Coderetreat 2016 - Arlington, VA
+DESCRIPTION:Baltimore-Washington area code retreat day in Arlington, V
+ A. \nStand by for details.\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2014-5
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr16, gdcr, gdcr2016
+LOCATION:Excella Consulting
+WEBSITE:https://goo.gl/maps/1RTsQkf9Gky
+URL:https://goo.gl/maps/1RTsQkf9Gky
+CONTACT:2025185792
+ORGANIZER;CN="Vlad Korolev":http://coderetreat.org/profile/VladKorolev
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vlad Kor
+ olev":http://coderetreat.org/profile/VladKorolev
+END:VEVENT
+END:VCALENDAR

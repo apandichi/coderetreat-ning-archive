@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topic/listForContributor?user=1g5516bulelqj&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:42:55Z</updated>
+                            <author>
+                    <name>Jon Jagger</name>
+                    <uri>http://coderetreat.org/profile/JonJagger</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/forum/topic/listForContributor?user=1g5516bulelqj&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>ScratchRetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:53712"/>
+                                        <id>tag:coderetreat.org,2016-05-18:6456126:Topic:53712</id>
+                                        <updated>2016-05-18T15:47:49.109Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hello, Dear Codretreat Founders!&lt;br&gt;&lt;/br&gt;I&#039;m one of the team of the volunteer&#039;s Scratch educational program E-Kids from EPAM Systems. &lt;br&gt;&lt;/br&gt;We are excited to share the experience of Coderetreat adaptation for children on Scratch - &quot;ScratchRetreat&quot;.&lt;br&gt;&lt;/br&gt;You can find more details here…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hello, Dear Codretreat Founders!&lt;br/&gt;I&#039;m one of the team of the volunteer&#039;s Scratch educational program E-Kids from EPAM Systems. &lt;br/&gt;We are excited to share the experience of Coderetreat adaptation for children on Scratch - &quot;ScratchRetreat&quot;.&lt;br/&gt;You can find more details here &lt;a href=&quot;https://medium.com/@ikolupaev/coderetreat-to-scratch-adaptation-experience-44a44535b40a#.bsx2jwadr&quot;&gt;https://medium.com/@ikolupaev/coderetreat-to-scratch-adaptation-experience-44a44535b40a#.bsx2jwadr&lt;/a&gt;&lt;br/&gt;We are going to participate in the MIT Scratch Conference 2016 with the topic about applying coderetreat practice to Scratch.&lt;br/&gt;This is our first time on the conference, and we have submitted 90-minute “Poster/demonstration&quot; proposal and trying to submit 5-minute Ignite Talk session simultaneously. It would be great if you could suggest anything regarding coderetreat, and if it is possible and make sense to you to collaborate together during the conference.&lt;/p&gt;
+&lt;p&gt;Kind regards,&lt;/p&gt;
+&lt;p&gt;Aliaksandr Kavaliou&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Global Day of Coderetreat 2015 - Which was your favorite constraint?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:51240"/>
+                                        <id>tag:coderetreat.org,2015-11-21:6456126:Topic:51240</id>
+                                        <updated>2015-11-21T12:23:47.974Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;please vote your favorite constraint at &lt;a href=&quot;https://drieschmanns.wordpress.com&quot; target=&quot;_blank&quot;&gt;https://drieschmanns.wordpress.com&lt;/a&gt;. I enjoed &quot;no conditional&quot; constraint most and I regard that we did not choose a mob session.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Greets,&lt;/p&gt;
+&lt;p&gt;Manuel&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;please vote your favorite constraint at &lt;a href=&quot;https://drieschmanns.wordpress.com&quot; target=&quot;_blank&quot;&gt;https://drieschmanns.wordpress.com&lt;/a&gt;. I enjoed &quot;no conditional&quot; constraint most and I regard that we did not choose a mob session.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Greets,&lt;/p&gt;
+&lt;p&gt;Manuel&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Article about how to arrange a coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:50671"/>
+                                        <id>tag:coderetreat.org,2015-11-16:6456126:Topic:50671</id>
+                                        <updated>2015-11-16T06:13:17.639Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;after I facilitated the Global Day of Coderetreat @ Bern I just wrote an article about how to arrange (host, facilitate) a code retreat. The article is written in german, so if you understand pleace, please feel free to read and comment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&quot;&gt;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Greets,&lt;/p&gt;
+&lt;p&gt;Manuel&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;after I facilitated the Global Day of Coderetreat @ Bern I just wrote an article about how to arrange (host, facilitate) a code retreat. The article is written in german, so if you understand pleace, please feel free to read and comment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&quot;&gt;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Greets,&lt;/p&gt;
+&lt;p&gt;Manuel&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>RSVP?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:47284"/>
+                                        <id>tag:coderetreat.org,2015-10-16:6456126:Topic:47284</id>
+                                        <updated>2015-10-16T13:04:52.881Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;What does the acromy RSVP mean that I see in the event detail page?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;bye&lt;/p&gt;
+&lt;p&gt;Thomas&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;What does the acromy RSVP mean that I see in the event detail page?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;bye&lt;/p&gt;
+&lt;p&gt;Thomas&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Looking for a Code Retreat facilitator in South Wales</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:47194"/>
+                                        <id>tag:coderetreat.org,2015-10-13:6456126:Topic:47194</id>
+                                        <updated>2015-10-13T11:56:54.552Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi All,&lt;/p&gt;
+&lt;p&gt;I am looking to set up semi regular code retreats in South Wales, I am keen to attend one on November the 14th, but there were none on in the area. So I decided to try and set one up.&lt;/p&gt;
+&lt;p&gt;I have a venue based in Swansea and a sponsor, but I lack any experience in running these events so we would really need a facilitator to show us the ropes.&lt;/p&gt;
+&lt;p&gt;If anyone with experience running a code retreat is available to come to  Swansea, South Wales, please get in touch and let me…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi All,&lt;/p&gt;
+&lt;p&gt;I am looking to set up semi regular code retreats in South Wales, I am keen to attend one on November the 14th, but there were none on in the area. So I decided to try and set one up.&lt;/p&gt;
+&lt;p&gt;I have a venue based in Swansea and a sponsor, but I lack any experience in running these events so we would really need a facilitator to show us the ropes.&lt;/p&gt;
+&lt;p&gt;If anyone with experience running a code retreat is available to come to  Swansea, South Wales, please get in touch and let me know your requirements.&lt;/p&gt;
+&lt;p&gt;Thanks&lt;/p&gt;
+&lt;p&gt;Simon Gould&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Events coming up in Amsterdam ?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:44448"/>
+                                        <id>tag:coderetreat.org,2015-06-22:6456126:Topic:44448</id>
+                                        <updated>2015-06-22T14:27:42.444Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hello all,&lt;/p&gt;
+&lt;p&gt;Will there be any events being organised in Amsterdam ? I have taken part twice in the past years. Conway&#039;s Game of Life is still intriguing to me.&lt;/p&gt;
+&lt;p&gt;There must be other mathematical puzzles that we turn into computer code. Thanks in advance...&lt;/p&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;Erik&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hello all,&lt;/p&gt;
+&lt;p&gt;Will there be any events being organised in Amsterdam ? I have taken part twice in the past years. Conway&#039;s Game of Life is still intriguing to me.&lt;/p&gt;
+&lt;p&gt;There must be other mathematical puzzles that we turn into computer code. Thanks in advance...&lt;/p&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;Erik&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>This site is mostly unusable</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:44100"/>
+                                        <id>tag:coderetreat.org,2015-03-11:6456126:Topic:44100</id>
+                                        <updated>2015-03-11T12:45:55.524Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Am I the only one that is having issues with this site?&lt;/p&gt;
+&lt;p&gt;I can&#039;t create a new user account, I can&#039;t login with an existing one, can&#039;t use the login with google function ....&lt;/p&gt;
+&lt;p&gt;Is the code open sourced? I think the community can really improve on the website experience.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Am I the only one that is having issues with this site?&lt;/p&gt;
+&lt;p&gt;I can&#039;t create a new user account, I can&#039;t login with an existing one, can&#039;t use the login with google function ....&lt;/p&gt;
+&lt;p&gt;Is the code open sourced? I think the community can really improve on the website experience.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Rails version for the Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:32650"/>
+                                        <id>tag:coderetreat.org,2013-12-13:6456126:Topic:32650</id>
+                                        <updated>2013-12-13T18:11:08.040Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi, currently I have rails 3.2.14 installed on my laptop. Should I install rails 4.0 for the Coderetreat?&lt;/p&gt;
+&lt;p&gt;thank you&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi, currently I have rails 3.2.14 installed on my laptop. Should I install rails 4.0 for the Coderetreat?&lt;/p&gt;
+&lt;p&gt;thank you&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Host training session November 22nd - Link not working</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:29291"/>
+                                        <id>tag:coderetreat.org,2013-11-15:6456126:Topic:29291</id>
+                                        <updated>2013-11-15T17:27:13.396Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;I would like to attend the host training session on November 22nd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://coderetreat.org/events/host-training-session-7&quot; target=&quot;_self&quot;&gt;http://coderetreat.org/events/host-training-session-7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;But it seems the Google+ Event link is not working... does anybody knows the correct link?&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;Jose Luis.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;I would like to attend the host training session on November 22nd&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://coderetreat.org/events/host-training-session-7&quot; target=&quot;_self&quot;&gt;http://coderetreat.org/events/host-training-session-7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;But it seems the Google+ Event link is not working... does anybody knows the correct link?&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;Jose Luis.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Game of Life rules-poster</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:23671"/>
+                                        <id>tag:coderetreat.org,2013-05-06:6456126:Topic:23671</id>
+                                        <updated>2013-05-06T12:11:06.296Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Everyone,&lt;/p&gt;
+&lt;p&gt;I made poster with the rules of Game of Life. Print it in DIN A1 and hang it to a wall during your next codereatreat. It acts as a nice reminder. Find the latest version (svg &amp;amp; png) at my github account: &lt;a href=&quot;https://github.com/marcoemrich/game-of-life-rules&quot;&gt;https://github.com/marcoemrich/game-of-life-rules&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I hope you find it useful. Suggestions and pull request are highly appreciated. &lt;/p&gt;
+&lt;p&gt;Thanks to Martin Close for the idea (he always kept a hand…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Everyone,&lt;/p&gt;
+&lt;p&gt;I made poster with the rules of Game of Life. Print it in DIN A1 and hang it to a wall during your next codereatreat. It acts as a nice reminder. Find the latest version (svg &amp;amp; png) at my github account: &lt;a href=&quot;https://github.com/marcoemrich/game-of-life-rules&quot;&gt;https://github.com/marcoemrich/game-of-life-rules&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I hope you find it useful. Suggestions and pull request are highly appreciated. &lt;/p&gt;
+&lt;p&gt;Thanks to Martin Close for the idea (he always kept a hand drawn version around) and Peter Zsaldos for suggestions.&lt;/p&gt;
+&lt;p&gt;cheers,&lt;br/&gt;Marco&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

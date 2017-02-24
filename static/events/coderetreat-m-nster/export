@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11698
+DTSTAMP:20170129T114555Z
+SUMMARY:Coderetreat Münster
+DESCRIPTION:This going to be the first coderetreat in Münster.\nPleas
+ e register using the registration form.\n\nFor more information visit
+  http://coderetreat.org/events/coderetreat-m-nster
+DTSTART:20120922T090000Z
+DTEND:20120922T173000Z
+CATEGORIES:coderetreat
+LOCATION:Leo 18
+WEBSITE:http://goo.gl/maps/GffWL
+URL:http://goo.gl/maps/GffWL
+CONTACT:
+ORGANIZER:Andreas Simon and Jan Ernsting
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Erns
+ ting":http://coderetreat.org/profile/JanErnsting
+END:VEVENT
+END:VCALENDAR

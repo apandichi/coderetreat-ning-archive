@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56656
+DTSTAMP:20170129T093312Z
+SUMMARY:Global Day of Coderetreat in Ukhta
+DESCRIPTION:We are an Ukhta State University IT department and this is
+  our first try to organize a Coderetreat event. For all information pl
+ ease write to mail2sergk@gmail.com\n\nFor more information visit http:
+ //coderetreat.org/events/coderetreat-day-in-ukhta
+DTSTART:20161022T110000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, day
+LOCATION:Russia, Ukhta
+WEBSITE:https://www.google.ru/maps/@63.5680113,53.6923352,17z
+URL:https://www.google.ru/maps/@63.5680113,53.6923352,17z
+CONTACT:+79129434002
+ORGANIZER;CN="Sergey Kudelin":http://coderetreat.org/profile/SergeyKud
+ elin
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sergey K
+ udelin":http://coderetreat.org/profile/SergeyKudelin
+END:VEVENT
+END:VCALENDAR

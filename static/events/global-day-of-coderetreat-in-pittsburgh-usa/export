@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:1762
+DTSTAMP:20170129T123532Z
+SUMMARY:Global Day of Coderetreat in Pittsburgh, USA
+DESCRIPTION:Pittsburgh, PA is participating in the Global Day of Coder
+ etreat 2011!\n \nCoderetreat is a day-long, intensive practice event 
+ focused on the fundamentals of software development and design.The uni
+ que coderetreat format (which eliminates the pressure of 'getting thin
+ gs done' and focuses on practicing basic principles of good design) ha
+ s proven to be a highly effective (and fun) means of skill improvement
+ .On December 3rd, Coderetreats will be held at cities all over the wor
+ ld. To celebrate this significant event, we'll be participating in som
+ e global activities in addition to our normal Coderetreat activities.\
+ nYou only need to bring a laptop with the development tools you requir
+ e to write code using your chosen programming languages. A continental
+  breakfast and lunch will be provided.\nCo-hosted and co-sponsored by:
+ \n \n\nM*Modal and Vivisimo are located in the same building. See thi
+ s Google Map for directions and Parking suggestions.\n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-coderetreat-i
+ n-pittsburgh-usa
+DTSTART:20111203T083000Z
+DTEND:20111203T180000Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:Vivisimo, Inc
+WEBSITE:http://globalcoderetreat2011pittsburgh.eventbrite.com/
+URL:http://globalcoderetreat2011pittsburgh.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Jim Hurne":http://coderetreat.org/profile/JimHurne
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/A-O3-ddfZs3gi
+ Uaxf0vQgFfSkpJYCOQhY8uJc8U3ao392I4AWA7n*OKeSSPELMNIeXFK0CoAG-Mt*OIVET0
+ MjeRB5CKixpwu/Pittsburgh.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew C
+ ox":http://coderetreat.org/profile/AndrewCox
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="samuel s
+ anchez":http://coderetreat.org/profile/samuelsanchez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Demeng C
+ hen":http://coderetreat.org/profile/DemengChen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joe Espo
+ sito":http://coderetreat.org/profile/JoeEsposito
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chris Wi
+ nters":http://coderetreat.org/profile/ChrisWinters
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anthony 
+ Mastrean":http://coderetreat.org/profile/AnthonyMastrean
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matthew 
+ Flint":http://coderetreat.org/profile/MatthewFlint
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Heath J 
+ Lilley":http://coderetreat.org/profile/HeathJLilley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Franklin
+  Chen":http://coderetreat.org/profile/FranklinChen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Rat
+ ana":http://coderetreat.org/profile/AdamRatana
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gerald E
+ hlers II":http://coderetreat.org/profile/GeraldEhlersII
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joseph K
+ ramer":http://coderetreat.org/profile/JosephKramer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="irwin hu
+ rst":http://coderetreat.org/profile/irwinhurst
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=toddkaufm
+ ann:http://coderetreat.org/profile/toddkaufmann
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jordan M
+ essina":http://coderetreat.org/profile/JordanMessina
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Justin P
+ ihony":http://coderetreat.org/profile/JustinPihony
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dana Sil
+ er":http://coderetreat.org/profile/DanaSiler
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kiran Pe
+ dda":http://coderetreat.org/profile/KiranPedda
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Hoffman":http://coderetreat.org/profile/MichaelHoffman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jared Wi
+ lkerson":http://coderetreat.org/profile/JaredWilkerson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Höltje":http://coderetreat.org/profile/ChristianHoeltje
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brian Gr
+ ay":http://coderetreat.org/profile/BrianGray
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bruce Ad
+ ams":http://coderetreat.org/profile/BruceAdams
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Emily Ma
+ tthews":http://coderetreat.org/profile/EmilyMatthews
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Keeling":http://coderetreat.org/profile/MichaelKeeling
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nicholas
+  McClay":http://coderetreat.org/profile/NicholasMcClay
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=mschlegel
+ :http://coderetreat.org/profile/mschlegel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carol Ni
+ chols":http://coderetreat.org/profile/CarolNichols
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sai Gudi
+ gundla":http://coderetreat.org/profile/SaiGudigundla
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Macklin 
+ Stanley":http://coderetreat.org/profile/MacklinStanley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ariadna 
+ (Ari) Font":http://coderetreat.org/profile/AriadnaAriFont
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jake Gou
+ lding":http://coderetreat.org/profile/JakeGoulding
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steve Kl
+ abnik":http://coderetreat.org/profile/SteveKlabnik
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jon Dani
+ el":http://coderetreat.org/profile/jondaniel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

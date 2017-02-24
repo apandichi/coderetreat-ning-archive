@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2013 - Cambridge, UK - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A26249&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:50:04Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A26249&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Yes, please sign up at http:/…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29613"/>
+                                        <id>tag:coderetreat.org,2013-11-18:6456126:Comment:29613</id>
+                                        <updated>2013-11-18T13:01:38.879Z</updated>
+                    
+                                            <author>
+                            <name>Alastair Smith</name>
+                            <uri>http://coderetreat.org/profile/AlastairSmith</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Yes, please sign up at &lt;a href=&quot;http://www.meetup.com/Cambridge-Software-Craftsmanship/events/149179582/&quot;&gt;http://www.meetup.com/Cambridge-Software-Craftsmanship/events/149179582/&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Yes, please sign up at &lt;a href=&quot;http://www.meetup.com/Cambridge-Software-Craftsmanship/events/149179582/&quot;&gt;http://www.meetup.com/Cambridge-Software-Craftsmanship/events/149179582/&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Do I need to register for thi…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29611"/>
+                                        <id>tag:coderetreat.org,2013-11-18:6456126:Comment:29611</id>
+                                        <updated>2013-11-18T11:32:00.181Z</updated>
+                    
+                                            <author>
+                            <name>Martin Thornalley</name>
+                            <uri>http://coderetreat.org/profile/MartinThornalley</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Do I need to register for this?  If so, how?  Thanks.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Do I need to register for this?  If so, how?  Thanks.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

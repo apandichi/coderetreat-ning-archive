@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Pravin Jain&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PravinJain</link>
+        <pubDate>Sun, 29 Jan 2017 10:19:11 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:19:11 +0000</lastBuildDate>
+        <image>
+            <title>Pravin Jain&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PravinJain</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ac6ae1bc29bdb54124cdfed</guid>
+               <title>Pravin Jain posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:38173?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PravinJain?xg_source=activity">Pravin Jain</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:38173?xg_source=activity">Global Day of Coderetreat 2014</a> at &quot;Zen class of JAVA&quot;</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 10am to 3:30pm</div><div class="rich-excerpt">Java User Group Vadodara,<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:38173?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 12 Sep 2014 17:53:14 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ac6ae1beb8671cd76de3668</guid>
+               <title>Pravin Jain posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:31866?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PravinJain?xg_source=activity">Pravin Jain</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:31866?xg_source=activity">Global Day of Coderetreat 2013 - Vadodara, India</a> at Signature Plaza,</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 10am to 3:30pm</div><div class="rich-excerpt">Java User Group Vadodara, is hosting the Global day of Coderetreat.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:31866?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 10 Dec 2013 10:41:14 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ac6ae1b34028bcfe8e28523</guid>
+               <title>Pravin Jain is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/PravinJain?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PravinJain?xg_source=activity">Pravin Jain</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Fri, 01 Jun 2012 16:42:10 +0000</pubDate>
+               </item>    </channel>
+</rss>

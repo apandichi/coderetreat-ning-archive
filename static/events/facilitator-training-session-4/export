@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27389
+DTSTAMP:20170129T103856Z
+SUMMARY:[Cancelled] Facilitator Training Session
+DESCRIPTION:Please RSVP here!    This training is for facilitators. An
+ ybody interested in facilitating a coderetreat is invited to attend at
+  least one training session. This training will be delivered online on
+  Google Plus Hangouts. Make sure you will be online five minutes befor
+ e the training starts.\nThis year we will have several types of traini
+ ngs for Global Day of Coderetreat hosts and facilitators.\nThe job of 
+ the host is to make sure the coderetreat runs smoothly by making sure 
+ everything is arranged. Hosts find a venue with all the necessary equi
+ pment, find a company to sponsor lunch, give away the prizes at the en
+ d of the day, organize video chats with other locations, etc.\nThe job
+  of the facilitator is to help participants learn from each other. Fac
+ ilitators understand the coderetreat format, choose and explain the co
+ nstraints, and try to keep a learning atmosphere during the day\n \nI
+ mportant: All the times are in UTC. Do one of the following to view tr
+ aining times in your time zone:\n\nAdd the GDCR Calendar to your Googl
+ e Calendar account\nUse this tool to convert the time from UTC to your
+  time zone\nFind your time below in one of these common time zones:\n1
+ 1/27 10:30 AM UTC-8 America/Los_Angeles (PST)\n11/27 11:30 AM UTC-7 Am
+ erica/Denver (MST)\n11/27 12:30 PM UTC-6 America/Chicago (CST)\n11/27 
+ 01:30 PM UTC-5 America/New_York (EST)\n11/27 07:30 PM UTC+1 Europe/Par
+ is (CET)\n11/27 08:30 PM UTC+2 Europe/Bucharest (EET)\n11/27 08:30 PM 
+ UTC+2 Africa/Johannesburg (CAT)\n11/27 09:30 PM UTC+3 Europe/Moscow (M
+ SK)\n11/28 12:00 AM UTC+5.5 Asia/Kolkata (IST)\n11/28 02:30 AM UTC+8 A
+ sia/Shanghai (ACT)\n11/28 03:30 AM UTC+9 Asia/Tokyo (JST)\n11/28 04:30
+  AM UTC+10 Australia/Sydney (AEST)\n11/28 07:30 AM UTC+13 Pacific/Auck
+ land (NZDT)\n\n\n\n\nFor more information visit http://coderetreat.org
+ /events/facilitator-training-session-4
+DTSTART:20131127T183000Z
+DTEND:20131127T193000Z
+CATEGORIES:training, facilitator_training
+LOCATION:Google Events
+WEBSITE:https://plus.google.com/events/cifo3u5hlo2lckat2qdbdinhka8
+URL:https://plus.google.com/events/cifo3u5hlo2lckat2qdbdinhka8
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

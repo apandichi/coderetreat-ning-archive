@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55828
+DTSTAMP:20170129T093258Z
+SUMMARY:Global Day of Coderetreat 2016 - Newbury, UK
+DESCRIPTION:Silicon Canal Newbury hosts the Global Day of Coderetreat.
+  Here the link to the event of the meetup Silicon Canal Newbury \n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2016-newbury-uk
+DTSTART:20161022T000000Z
+DTEND:20161023T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Exonar
+WEBSITE:https://goo.gl/maps/mnFQhtyPxkA2
+URL:https://goo.gl/maps/mnFQhtyPxkA2
+CONTACT:
+ORGANIZER;CN="vittorio scibetta":http://coderetreat.org/profile/vittor
+ ioscibetta
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/G834pRjVCIGrt
+ 0Jzs2vKZoRjc6klkNqwtO9Uxqmj*MInCXdwOCkyKlVEzkl2k-85pH-U6oh06H9LNTDnB2Q
+ HniMhuiLt1m-H/ExonarLocation.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="vittorio
+  scibetta":http://coderetreat.org/profile/vittorioscibetta
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27138
+DTSTAMP:20170129T115146Z
+SUMMARY:Global Day of Coderetreat 2013 - Bromsgrove, UK
+DESCRIPTION:We will be running a Legacy Code Retreat for .Net devs in 
+ Bromsgrove, Worcestershire, UK.\n\nFor more information visit http://c
+ oderetreat.org/events/legacy-code-retreat-1
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Bromsgrove, UK
+WEBSITE:http://www.craftycoders.net
+URL:http://www.craftycoders.net
+CONTACT:
+ORGANIZER;CN="Ian Russell":http://coderetreat.org/profile/IanRussell
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ian Russ
+ ell":http://coderetreat.org/profile/IanRussell
+END:VEVENT
+END:VCALENDAR

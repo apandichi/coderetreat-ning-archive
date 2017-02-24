@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:4727
+DTSTAMP:20170129T123011Z
+SUMMARY:Global Day of Code Retreat 2011 - Durban, South Africa
+DESCRIPTION:Global Day of Coderetreat is a world-wide event celebrati
+ ng passion and software craftsmanship. We will spend the day practicin
+ g the craft of software development using the coderetreat format.\nCod
+ eretreat is a day-long, intensive practice event, focusing on the fund
+ amentals of software development and design. By providing developers t
+ he opportunity to take part in focused practice, away from the pressur
+ es of ‘getting things done’, the coderetreat format has proven its
+ elf to be a highly effective means of skill improvement. Practicing th
+ e basic principles of modular and object-oriented design, developers c
+ an improve their ability to write code that minimizes the cost of chan
+ ge over time.\nThis is a language-agnostic event. Each session, the pa
+ ir chooses what language they want to work in. So, no matter what your
+  language of choice, you are welcome. We practice the fundamentals: T
+ DD and the 4 rules of simple design ; these are applicable regardle
+ ss of language.\n \nThe idea of day long practice sessions for progra
+ mmers was formalized by Corey Haines.\nRead more on his blog about H
+ ow does Code Retreat work?\n\nDetails:\n\nWe start at 9am with a Skype
+  call to Kent Beck for a few minutes so please come a little earlier a
+ t 8:45am.\nWe will finish around 5pm\nBring your own laptop*\nOur spon
+ sors provide coffee and snacks + lunch!\nYou should know theory of TDD
+ , Clean Code, refactoring and be ready to practice.\n\n* Laptop should
+  be ready for development, with everything You need installed (IDE, un
+ it testing framework). Consider bringing external keyboard.\nWe practi
+ ce, by working on Game of Life problem. Our goal is not to implement
+  a complete solution for this game, but rather to focus on some aspect
+  of our craft (simple names, removing duplication etc).\nHashtag: #gd
+ cr11\nTwitter: @coderetreat\n\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-code-retreat-durban-south-africa
+DTSTART:20111203T084500Z
+DTEND:20111203T170000Z
+CATEGORIES:gdcr11
+LOCATION:Durban, South Africa
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN=Carlo:http://coderetreat.org/profile/Carlo
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Carlo:htt
+ p://coderetreat.org/profile/Carlo
+END:VEVENT
+END:VCALENDAR

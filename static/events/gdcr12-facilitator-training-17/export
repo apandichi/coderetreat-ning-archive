@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15175
+DTSTAMP:20170129T133818Z
+SUMMARY:Facilitator Training
+DESCRIPTION:UPDATE: Due to popular demand and due to Google Hangout li
+ mitations, we will be using two Google Hangouts: one lead by Adi and o
+ ne lead by Jim. A link to the assigned hangout will be emailed to each
+  registered facilitator.\nJoin us to learn about how to facilitate a C
+ oderetreat!\nNOTE: All times are listed in UTC\nThis event was created
+  for first-time facilitators who will be facilitating a Coderetreat as
+  part of the Global Day of Coderetreat, but anyone interested in learn
+ ing to facilitate is welcome. This training will be lead by coderetre
+ at extraordinaires Adi Bolboaca and Jim Hurne\nTo attend the training:
+ \n\nRSVP to this event. Note: You will need to log into or sign-up in 
+ order to RSVP.\nSend Jim Hurne your Google Account email address (if 
+ it is different from the email address you use with coderetreat.org). 
+ Jim will give you access to the Google Hangout.\nIf you have never use
+ d Google Hangout before, try joining the hangout ahead of time to work
+  through any technical issues you may encounter. See this help page i
+ f you run into technical issues with the Hangout.\nJoin the Hangout at
+  the scheduled time for the training.\n\n\nFor more information visit 
+ http://coderetreat.org/events/gdcr12-facilitator-training-17
+DTSTART:20121203T170000Z
+DTEND:20121203T190000Z
+CATEGORIES:training
+LOCATION:Google Hangout
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Adi Bolboaca
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/*8D9740yuLVtl
+ i7PkCBvwXk*rvKB7UH5uuAmTZLNpL90oSV598Phqs4TyIT3XSaFgKK4OzqfVkQEb7L2Gyt
+ -0vzx9Zct2tzF/clipboardwhistlemd.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Luigi Bo
+ zzo":http://coderetreat.org/profile/LuigiBozzo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Juan Jos
+ é Fuchs Cerdeña":http://coderetreat.org/profile/JuanJoseFuchsCerdena
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=ggalmazor
+ :http://coderetreat.org/profile/ggalmazor
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dawn Hew
+ itson":http://coderetreat.org/profile/DawnHewitson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rasmus K
+ romann-Larsen":http://coderetreat.org/profile/RasmusKromannLarsen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier C
+ ervantes":http://coderetreat.org/profile/JavierCervantes
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tom Ordo
+ nez":http://coderetreat.org/profile/TomOrdonez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Culley S
+ mith":http://coderetreat.org/profile/0ilftmjm5itqb
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Richard 
+ Paul":http://coderetreat.org/profile/RichardPaul
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pablo Li
+ schinsky":http://coderetreat.org/profile/PabloLischinsky
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Demián 
+ Gutierrez":http://coderetreat.org/profile/DemianGutierrez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Janco Wo
+ lmarans":http://coderetreat.org/profile/JancoWolmarans
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anthony 
+ Brew":http://coderetreat.org/profile/AnthonyBrew
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Israel S
+ halom":http://coderetreat.org/profile/IsraelShalom
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Led
+ ger":http://coderetreat.org/profile/MattLedger
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

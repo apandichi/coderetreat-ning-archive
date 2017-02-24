@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54604
+DTSTAMP:20170129T112835Z
+SUMMARY:Global Day of Coderetreat - Auckland, New Zealand
+DESCRIPTION:Global Day of Coderetreat - Auckland, New Zealand\nPlease 
+ register over at: http://www.meetup.com/kiwi-code-retreat/events/23381
+ 0105/\n\nFor more information visit http://coderetreat.org/events/glob
+ al-day-of-coderetreat-auckland-movio
+DTSTART:20161022T083000Z
+DTEND:20161022T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Movio
+WEBSITE:https://www.google.com/maps?f=q&hl=en&q=2.4+-+30+St+Benedicts+
+ St,+Auckland,+nz
+URL:https://www.google.com/maps?f=q&hl=en&q=2.4+-+30+St+Benedicts+St,+
+ Auckland,+nz
+CONTACT:
+ORGANIZER;CN="Randall Britten":http://coderetreat.org/profile/RandallB
+ ritten
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Randall 
+ Britten":http://coderetreat.org/profile/RandallBritten
+END:VEVENT
+END:VCALENDAR

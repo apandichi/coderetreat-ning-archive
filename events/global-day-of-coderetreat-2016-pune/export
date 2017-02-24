@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56065
+DTSTAMP:20170129T122723Z
+SUMMARY:Global Day of CodeRetreat 2016, Pune
+DESCRIPTION:Imagine a day writing code just for the love of writing it
+  beautifully! A day without the office pressures of \"getting things 
+ done\"; a day just focused on practicing the art of writing clean, lea
+ n, modular and test driven code. \nWelcome to the Global Day of CodeR
+ etreat, an annual global event where passionate programmers come toget
+ her to hone their skills. Red Panda is proud to host the Pune chapter 
+ of GDCR 2016 on October 22, 2016. \nThis link gives an idea of what 
+ a typical Coderetreat Day looks like, and we will be following a simil
+ ar structure on the day.\n• Bring your laptop with your favourite l
+ anguage and IDE installed.\n• Code in any language of your choice
+ .\n• We will be taking care of lunch and evening snacks.  \n\nWhy
+  should I attend CodeRetreat?\nCoderetreat gets you away from the ever
+ yday environment where you normally work. This allows you to focus on 
+ deliberate learning. While you may certainly learn and practice ways o
+ f improving in your normal work, Coderetreat allows you to improve, le
+ arn, practice & master:\n ● Pair programming (Driver <--> Navigator
+  technique)\n ● TDD (Ping <--> Pong technique)\n● How to write cl
+ ean code \n● Refactoring \n● Do things differently \n● Solid 
+ Principles \n● DRY Principles \n● KISS Priniciples \n● Diffe
+ rent 'Design Patterns' techniques\n\nOur awesome facilitators for the 
+ event:\nRahul and Tushar, our software craftsmen for full stack develo
+ pment with a passion for clean code. \n\nShoot at us any questions yo
+ u may have. Feel free to share the event link on Facebook. We look f
+ orward to seeing you there! \n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2016-pune
+DTSTART:20161010T100000Z
+DTEND:20161010T173000Z
+CATEGORIES:codathon
+LOCATION:Magarpatta City, Pune
+WEBSITE:
+URL:
+CONTACT:9205254370
+ORGANIZER;CN="Sukant Saxena":http://coderetreat.org/profile/SukantSaxe
+ na
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sukant S
+ axena":http://coderetreat.org/profile/SukantSaxena
+END:VEVENT
+END:VCALENDAR

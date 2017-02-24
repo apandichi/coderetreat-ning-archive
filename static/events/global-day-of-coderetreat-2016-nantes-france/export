@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56120
+DTSTAMP:20170129T105033Z
+SUMMARY:Global Day of Coderetreat 2016 - Nantes, France
+DESCRIPTION:Pour la première fois, le code retreat aura lieu à Nante
+ s. Ne manquez pas cette occasion en vous inscrivant au meetup du group
+ e Software Crafts(wo)manship Nantes:https://goo.gl/RNIzzf\n\n\nFor mor
+ e information visit http://coderetreat.org/events/global-day-of-codere
+ treat-2016-nantes-france
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Nantes
+WEBSITE:https://goo.gl/RNIzzf
+URL:https://goo.gl/RNIzzf
+CONTACT:
+ORGANIZER:Software Crafts(wo)manship Nantes
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fauvel S
+ ébastien":http://coderetreat.org/profile/FauvelSebastien
+END:VEVENT
+END:VCALENDAR

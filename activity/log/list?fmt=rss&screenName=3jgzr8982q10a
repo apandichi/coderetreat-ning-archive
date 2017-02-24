@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Andrea Francia&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AndreaFrancia</link>
+        <pubDate>Sun, 29 Jan 2017 14:03:15 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:03:15 +0000</lastBuildDate>
+        <image>
+            <title>Andrea Francia&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AndreaFrancia</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ba9ce06b1825988c8c04745</guid>
+               <title>Andrea Francia is attending Gabriele Lana&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:12001?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndreaFrancia?xg_source=activity">Andrea Francia</a> is attending <a href="http://coderetreat.org/profile/GabrieleLana?xg_source=activity">Gabriele Lana's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:12001?xg_source=activity">Global Day of Coderetreat 2012 - Milan / Italy</a> at FractalGarden</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9:30am to 5:30pm</div><div class="rich-excerpt">Following the last year success, we are happy to announce that Milano is going to host the Global Day of Code Retreat 2012, this is going to be fun, if you are in the area, don't miss it!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:12001?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 20 Nov 2012 12:52:47 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba9ce06ff08c813437e7784</guid>
+               <title>Andrea Francia is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/AndreaFrancia?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndreaFrancia?xg_source=activity">Andrea Francia</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 20 Nov 2012 12:52:40 +0000</pubDate>
+               </item>    </channel>
+</rss>

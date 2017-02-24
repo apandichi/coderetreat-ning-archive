@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39605
+DTSTAMP:20170129T120947Z
+SUMMARY:Global Day of Coderetreat 2014 - Poznań, Poland
+DESCRIPTION:TBD\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2014-pozna-poland
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBD
+WEBSITE:http://jug.poznan.pl
+URL:http://jug.poznan.pl
+CONTACT:
+ORGANIZER:Poznań JUG
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Łukasz 
+ Stachowiak":http://coderetreat.org/profile/LukaszStachowiak
+END:VEVENT
+END:VCALENDAR

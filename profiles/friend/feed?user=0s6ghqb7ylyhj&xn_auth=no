@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0s6ghqb7ylyhj&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:24:17Z</updated>
+                            <author>
+                    <name>mrugen deshmukh</name>
+                    <uri>http://coderetreat.org/profile/mrugendeshmukh</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/4dMiOnT9lEdHvq-LRq20FWJ1IekulCPLbJTM*1QdpqomcCO2F-6h97U7zUMBax31Ym2xihHkvnMWZZ6kcDIkjEQK3*DRhFwV/559904592.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0s6ghqb7ylyhj&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Elena Yankova</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ElenaYankova"/>
+                                        <id>tag:coderetreat.org,2014-05-20:6456126:User:35312</id>
+                                        <updated>2014-05-20T08:26:52.479Z</updated>
+                    
+                                            <author>
+                            <name>mrugen deshmukh</name>
+                            <uri>http://coderetreat.org/profile/mrugendeshmukh</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Elena Yankova&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Elena Yankova&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2gq9iwn8ha27j&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:40:13Z</updated>
+                            <author>
+                    <name>Gabriele Lana</name>
+                    <uri>http://coderetreat.org/profile/GabrieleLana</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/GWF0Pf2vNMHN59Gw7m9j2gfVTyPXGiceggapCM3BTXLkqWWzswWqIZL4wIwtE95RGfciV0zvACltA04Mi3bvmMiCF7ynAg0L/780833304.png?xgip=1%3A6%3A256%3A256%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2gq9iwn8ha27j&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Thomas Wener</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ThomasWener"/>
+                                        <id>tag:coderetreat.org,2013-11-17:6456126:User:29606</id>
+                                        <updated>2013-11-17T08:50:51.096Z</updated>
+                    
+                                            <author>
+                            <name>Gabriele Lana</name>
+                            <uri>http://coderetreat.org/profile/GabrieleLana</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Thomas Wener&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Thomas Wener&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Riccardo Franconi</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RiccardoFranconi"/>
+                                        <id>tag:coderetreat.org,2013-11-10:6456126:User:28975</id>
+                                        <updated>2013-11-10T10:15:48.843Z</updated>
+                    
+                                            <author>
+                            <name>Gabriele Lana</name>
+                            <uri>http://coderetreat.org/profile/GabrieleLana</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/VekLkVe6jw92BUDBem96muwMJHfpqAAQt2lgTc*SIRWnyvEAz7166SmceF*m*fCbx9MKNp17fatMdDXYS-iW-mb7OWap4ZOH/1044480155.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Riccardo Franconi&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/VekLkVe6jw92BUDBem96muwMJHfpqAAQt2lgTc*SIRWnyvEAz7166SmceF*m*fCbx9MKNp17fatMdDXYS-iW-mb7OWap4ZOH/1044480155.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Riccardo Franconi&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Nicola Moretto</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/NicolaMoretto"/>
+                                        <id>tag:coderetreat.org,2013-10-23:6456126:User:28138</id>
+                                        <updated>2013-10-23T20:56:05.229Z</updated>
+                    
+                                            <author>
+                            <name>Gabriele Lana</name>
+                            <uri>http://coderetreat.org/profile/GabrieleLana</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/pCC3UkZfemaoA5zHgbPYbFs0xx3TfpmpU-aqPjzbuOi1UBM*XfbX3wHHQWMdkR79IPQUvzNKMfM22FBEslM*cbBPxlGjQdHG/1042480001.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nicola Moretto&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/pCC3UkZfemaoA5zHgbPYbFs0xx3TfpmpU-aqPjzbuOi1UBM*XfbX3wHHQWMdkR79IPQUvzNKMfM22FBEslM*cbBPxlGjQdHG/1042480001.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nicola Moretto&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

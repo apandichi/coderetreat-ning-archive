@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3arzdzjz6vg2b&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:43:00Z</updated>
+                            <author>
+                    <name>Greg Dziemidowicz</name>
+                    <uri>http://coderetreat.org/profile/GregDziemidowicz</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/oi9gpDqtJqnA4qgRBCjJQ8Wf9jmz9mIzyuRZymPwYN*sujLLkZ95LhS1pYvMBxsDbXgPIv0jIIBNXpXHaR8jZOLfAynxQeeh/476589867.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3arzdzjz6vg2b&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Davide Baj</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/davide"/>
+                                        <id>tag:coderetreat.org,2014-08-17:6456126:User:37809</id>
+                                        <updated>2014-08-17T23:07:45.527Z</updated>
+                    
+                                            <author>
+                            <name>Greg Dziemidowicz</name>
+                            <uri>http://coderetreat.org/profile/GregDziemidowicz</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/jPrLLXuRuu4KqXjcIwRMbpqBdbrrJcLaexNEwxs*ZgTMGsUdvqzC-rkzJnS6srgxUcL*5dINUOjdi3LoY5aZt*FcgWEMMJ18/1077190520.jpeg?xgip=0%3A0%3A239%3A239%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Davide Baj&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/jPrLLXuRuu4KqXjcIwRMbpqBdbrrJcLaexNEwxs*ZgTMGsUdvqzC-rkzJnS6srgxUcL*5dINUOjdi3LoY5aZt*FcgWEMMJ18/1077190520.jpeg?xgip=0%3A0%3A239%3A239%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Davide Baj&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Keith Jaska (Riverstone ES)</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/KeithJaskaRiverstoneES"/>
+                                        <id>tag:coderetreat.org,2012-11-04:6456126:User:15191</id>
+                                        <updated>2012-11-04T02:48:31.188Z</updated>
+                    
+                                            <author>
+                            <name>Greg Dziemidowicz</name>
+                            <uri>http://coderetreat.org/profile/GregDziemidowicz</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Keith Jaska (Riverstone ES)&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Keith Jaska (Riverstone ES)&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jan Hartung</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/egga"/>
+                                        <id>tag:coderetreat.org,2012-11-04:6456126:User:15186</id>
+                                        <updated>2012-11-04T00:46:29.138Z</updated>
+                    
+                                            <author>
+                            <name>Greg Dziemidowicz</name>
+                            <uri>http://coderetreat.org/profile/GregDziemidowicz</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/x93ABI42iFVCzm2OM2iGEb-wqt3y69mWmyS9HKyeTN2NUqyESzu9Ufv7JC2zeZhvpg8q2AzTx2DgpS0j3p-Bu*E-ZbYnUXuS/1144094489.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jan Hartung&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/x93ABI42iFVCzm2OM2iGEb-wqt3y69mWmyS9HKyeTN2NUqyESzu9Ufv7JC2zeZhvpg8q2AzTx2DgpS0j3p-Bu*E-ZbYnUXuS/1144094489.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jan Hartung&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

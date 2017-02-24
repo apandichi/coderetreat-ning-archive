@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Alexander Marek&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=2321e95tmbsci&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:42:26Z</updated>
+                            <author>
+                    <name>Alexander Marek</name>
+                    <uri>http://coderetreat.org/profile/AlexanderMarek</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/coNOgheACEgQSat-R9S1Ic4y49JcuRgOue9ZOl2UVfg6opK8*fck-2yFyZ8M33RtELkW-VJ51K-speoQ3w9Ev7ARIXZGjOhG/526177048.jpeg?xgip=120%3A0%3A416%3A416%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=2321e95tmbsci&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Code Retreat - Vienna</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5417"/>
+                                        <id>tag:coderetreat.org,2011-12-09:6456126:BlogPost:5417</id>
+                                        <updated>2011-12-09T07:08:33.000Z</updated>
+                    
+                                            <author>
+                            <name>Alexander Marek</name>
+                            <uri>http://coderetreat.org/profile/AlexanderMarek</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;In Vienna, we had 15 participants (of the 25 that registered).&lt;/p&gt;
+&lt;p&gt;In the first session, we did not induce any challanges, as expected. But, although I had a very clear plan about which exercises should be done in which session, I needed to change it for the simple reason, that the skill level of the participants varied a lot:&lt;/p&gt;
+&lt;p&gt;While some still had a problem in understanding GoL after the second &lt;br&gt;&lt;/br&gt;session, others already ping-pong&#039;ed in the first one. Additionally, &lt;br&gt;&lt;/br&gt;they used…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;In Vienna, we had 15 participants (of the 25 that registered).&lt;/p&gt;
+&lt;p&gt;In the first session, we did not induce any challanges, as expected. But, although I had a very clear plan about which exercises should be done in which session, I needed to change it for the simple reason, that the skill level of the participants varied a lot:&lt;/p&gt;
+&lt;p&gt;While some still had a problem in understanding GoL after the second &lt;br/&gt;session, others already ping-pong&#039;ed in the first one. Additionally, &lt;br/&gt;they used a variety of different languages like:  Java, C#, PHP, &lt;br/&gt;Javascript, Scala, Python, Haskell.&lt;/p&gt;
+&lt;p&gt;All the more we were happy to see, that they had no problem whatsoever in pairing with someone, dev&#039;ing at a totally different level and unsing some language they haven&#039;t used before.&lt;/p&gt;
+&lt;p&gt;So what we did was proposing them exercises instead of imposing. We asked them what they wanted to learn in the next session (like improving or at least gaining some TDD skills, getting better with polymorphy, etc.) and told them some suitable exercises. In our retrospections that was no problem either. Only, that we had one guy talking only english, and the rest of us being no native speakers, made several retrospections a bit quiet at the start, as no one dared to try to speak english. Well, I had to... ;-)&lt;/p&gt;
+&lt;p&gt;Things we could improve:&lt;/p&gt;
+&lt;p&gt;-) One of the guys did not know that he needed to bring his laptop with him. So next time we might declare that more popular.&lt;/p&gt;
+&lt;p&gt;-) In session 4 I introduced the missing tool exerciese with &quot;use not &lt;br/&gt;contidionals&quot;. The mistake that I did was to tell everyone that this &lt;br/&gt;ought to be the hardest exercise. As I could have known, nearly all of them concentrated on that problem in session 4, leaving all other &lt;br/&gt;principles out of mind (especially verb-based design, 4 rules), just to prove themselves that they COULD do it. However, I believe they would have had more of the session, if they&#039;d concentrated on the more important ones: 4 rules and verb-based.&lt;/p&gt;
+&lt;p&gt;-) we started out in some kind of cateferia with low desks. That was no perfect place to code, as many of our participants had a backake after the second session. So we moved into another room with real &quot;working desks&quot; (sorry - as already written I&#039;m no native speaker) --&amp;gt; make sure you have appripriate seats and desks for your participants!&lt;/p&gt;
+&lt;p&gt;-) 14 participants means 14 different laptops means 14 different keyboard layouts. A lot of time was lost by getting used to the keyboard of someone elses laptop. Some participants however brought their own external keyboard with them. I think that is a great idea, because almost everyone can type with a usual standard non- notebook&#039;ish one. --&amp;gt; Either tell your participants to bring one with them, or try to find some sponsor. (Our company could have at least lended us dozends of keyboards if we had just asked for it)&lt;/p&gt;
+&lt;p&gt;So - that&#039;s about it. :)&lt;/p&gt;
+&lt;p&gt;All-in-all I think we had a great day. Special thanks goes to Jim for answering all of my questions in the skype call! You made my day ;-)&lt;/p&gt;
+&lt;p&gt;Cheers :-)&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

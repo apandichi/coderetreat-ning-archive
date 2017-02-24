@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Fengxiang Zhu&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/FengxiangZhu</link>
+        <pubDate>Sun, 29 Jan 2017 12:03:29 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:03:29 +0000</lastBuildDate>
+        <image>
+            <title>Fengxiang Zhu&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/FengxiangZhu</link>
+            <url>http://api.ning.com:80/files/v3DYtXKaFNrkV7dFybr4uY1sxPnWDR8raVzl0rI0yRUgKqWkfWxxr*XJ-SDkvKTNRUwO4ufkzM-gbV7au7leAcLco2hgjAU1/1081864593.jpeg?xgip=0%3A0%3A1021%3A1021%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010bb2218efe28987901f3253</guid>
+               <title>Fengxiang Zhu updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46831?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/FengxiangZhu?xg_source=activity">Fengxiang Zhu</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46831?xg_source=activity">Global Day of Coderetreat 2015 - Shanghai, China</a> at Not sure</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Let's celebrate Global Day of Coderetreat with a coderetreat in Shanghai!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46831?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 13 Oct 2015 15:48:14 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010bb221849b8960d9f50e528</guid>
+               <title>Fengxiang Zhu posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46831?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/FengxiangZhu?xg_source=activity">Fengxiang Zhu</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46831?xg_source=activity">Global Day of Coderetreat 2015 - Shanghai , China</a> at Not sure</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Let's celebrate Global Day of Coderetreat with a coderetreat in Shanghai!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46831?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 07 Oct 2015 06:23:36 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010bb22186ed8c625f9dc0f3c</guid>
+               <title>Fengxiang Zhu posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:38313?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/FengxiangZhu?xg_source=activity">Fengxiang Zhu</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:38313?xg_source=activity">Global Day of Coderetreat 2014 - Shanghai, China</a> at Shanghai,Jingan</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Let's celebrate Global Day of Coderetreat with a coderetreat in Shanghai!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:38313?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 16 Sep 2014 02:29:32 +0000</pubDate>
+               </item>    </channel>
+</rss>

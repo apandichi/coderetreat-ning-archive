@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11736
+DTSTAMP:20170129T134417Z
+SUMMARY:Global Day of Coderetreat 2012 - Manchester / UK
+DESCRIPTION:Following last year's sell-out success, XP-Manchester are 
+ pleased to host and facilitate another GDCR this year.\n\nFor more inf
+ ormation visit http://coderetreat.org/events/gdcr-manchester
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Salford Uni
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Kevin Rutherford":http://coderetreat.org/profile/KevinRu
+ therford
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Ru
+ therford":http://coderetreat.org/profile/KevinRutherford
+END:VEVENT
+END:VCALENDAR

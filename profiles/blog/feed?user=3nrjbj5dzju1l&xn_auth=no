@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Alexandru Bolboaca&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3nrjbj5dzju1l&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:12:22Z</updated>
+                            <author>
+                    <name>Alexandru Bolboaca</name>
+                    <uri>http://coderetreat.org/profile/AlexandruBolboaca</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/P7eVLsVGQ0vZqE7MCgYFk5wTmRNwzfLaNnsTrX1*uq0u470*-VHq1vp1q5BfzGIewBY9hyXEC1SKcR7ov7B*IHyTaKbNlYiD/998647493.jpeg?xgip=0%3A0%3A252%3A252%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3nrjbj5dzju1l&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Don&#039;t Let Your Methods Look Like This!</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:6791"/>
+                                        <id>tag:coderetreat.org,2012-01-09:6456126:BlogPost:6791</id>
+                                        <updated>2012-01-09T16:50:55.000Z</updated>
+                    
+                                            <author>
+                            <name>Alexandru Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/AlexandruBolboaca</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/04/DontLetYourMethodLookLikeMe-e1302082426239.jpg&quot;&gt;&lt;img alt=&quot;Don&#039;t Let Your method look like me!&quot; class=&quot;alignleft size-medium wp-image-456&quot; height=&quot;300&quot; src=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/04/DontLetYourMethodLookLikeMe-e1302082426239-225x300.jpg&quot; title=&quot;DontLetYourMethodLookLikeMe&quot; width=&quot;225&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I drew this picture with Corey Haines at the Krakow April 2011 Code Retreat. I started with the overall silhouette of the method, and Corey added the eye and the comment. In the end, I think we got an excellent motivational poster. So, developers, don&#039;t let your methods look like this!&lt;/p&gt;
+&lt;p&gt;The right bottom corner is about another thing you should…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/04/DontLetYourMethodLookLikeMe-e1302082426239.jpg&quot;&gt;&lt;img src=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/04/DontLetYourMethodLookLikeMe-e1302082426239-225x300.jpg&quot; alt=&quot;Don&#039;t Let Your method look like me!&quot; title=&quot;DontLetYourMethodLookLikeMe&quot; class=&quot;alignleft size-medium wp-image-456&quot; width=&quot;225&quot; height=&quot;300&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I drew this picture with Corey Haines at the Krakow April 2011 Code Retreat. I started with the overall silhouette of the method, and Corey added the eye and the comment. In the end, I think we got an excellent motivational poster. So, developers, don&#039;t let your methods look like this!&lt;/p&gt;
+&lt;p&gt;The right bottom corner is about another thing you should remember: at least know the name of your pair before starting to program. It&#039;s funny how many times I&#039;ve seen developers jumping right into the problem and forget this simple thing.&lt;/p&gt;
+&lt;p&gt;In the end, many thanks to the people who made the Code Retreat Krakow such an amazing experience. Pair facilitating with Corey is always an awesome experience, and I&#039;d love to do it more often. I loved the energy of the participants and I&#039;m really proud of the T-Shirt. Corey, Krakow, see you again soon!&lt;/p&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/04/DontLetYourMethodLookLikeMe-e1302082426239.jpg" type="image/jpeg"/>                </entry>
+                            <entry>
+                    <title>10 Reasons To Attend A Code Retreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:6792"/>
+                                        <id>tag:coderetreat.org,2012-01-09:6456126:BlogPost:6792</id>
+                                        <updated>2012-01-09T16:30:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Alexandru Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/AlexandruBolboaca</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/11/Global-Day-of-Code-Retreat_v2.jpg&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignleft size-medium wp-image-653&quot; height=&quot;300&quot; src=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/11/Global-Day-of-Code-Retreat_v2-212x300.jpg&quot; title=&quot;Global Day of Code Retreat&quot; width=&quot;212&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Initially published &lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/articles/10-reasons-to-attend-a-code-retreat&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1. You will love programming again&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; 2. You relive the first moments of programming (unless you started with Cobol)&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; 3. You will see how other people write code&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; 4. You will write and…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/11/Global-Day-of-Code-Retreat_v2.jpg&quot;&gt;&lt;img src=&quot;http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/11/Global-Day-of-Code-Retreat_v2-212x300.jpg&quot; alt=&quot;&quot; title=&quot;Global Day of Code Retreat&quot; class=&quot;alignleft size-medium wp-image-653&quot; width=&quot;212&quot; height=&quot;300&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Initially published &lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/articles/10-reasons-to-attend-a-code-retreat&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1. You will love programming again&lt;br/&gt; &lt;br/&gt; 2. You relive the first moments of programming (unless you started with Cobol)&lt;br/&gt; &lt;br/&gt; 3. You will see how other people write code&lt;br/&gt; &lt;br/&gt; 4. You will write and speak about code all day long. You&#039;re between friends, accept that&#039;s the one thing you could do for days&lt;br/&gt; &lt;br/&gt; 5. You come as an expert and leave like a novice&lt;br/&gt; &lt;br/&gt; 6. To live a paradox: it couldn&#039;t possibly work but it does&lt;br/&gt; &lt;br/&gt; 7. You experience 3-4 programming languages you never tried before&lt;br/&gt; &lt;br/&gt; 8. There&#039;s beer after it&lt;br/&gt; &lt;br/&gt; 9. You could use it to find a new job&lt;br/&gt; &lt;br/&gt; 10. Pair programming, TDD, clean code, refactoring&lt;br/&gt; &lt;br/&gt; 10 bis. For Romanians: Romania was the second country in the world to host one&lt;/p&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://www.alexbolboaca.ro/wordpress/wp-content/uploads/2011/11/Global-Day-of-Code-Retreat_v2.jpg" type="image/jpeg"/>                </entry>
+                            <entry>
+                    <title>How to Organize A Code Retreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:6789"/>
+                                        <id>tag:coderetreat.org,2012-01-09:6456126:BlogPost:6789</id>
+                                        <updated>2012-01-09T15:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Alexandru Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/AlexandruBolboaca</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;em&gt;This article was initially published &lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/articles/how-to-organize-a-code-retreat&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; on 14 August 2010. It refers to the code retreats organized in Romania between June 2009-August 2010, tipically co-facilitated by Maria Diaconu and me.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Here are some of the things we’ve learned about running a code retreat. We’ve facilitated about 10 code retreats, including one with Corey Haines.The smallest one was with…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;em&gt;This article was initially published &lt;a href=&quot;http://www.alexbolboaca.ro/wordpress/articles/how-to-organize-a-code-retreat&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; on 14 August 2010. It refers to the code retreats organized in Romania between June 2009-August 2010, tipically co-facilitated by Maria Diaconu and me.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Here are some of the things we’ve learned about running a code retreat. We’ve facilitated about 10 code retreats, including one with Corey Haines.The smallest one was with two (yes, two) people and the largest with about 20. Here are some of the things we learned.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;Don’t try to convince people&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many developers who took part in code retreats tried to talk to their colleagues or friends and many times their answer was one of “it’s a buzzword”, “it’s not during work hours”, “it’s plain silly” etc. They were disappointed, but it’s ok. One of the core ideas about a code retreat is that the people that come choose to come. It’s on a Saturday, it starts in the morning, it takes all day long, you need to write code and it’s tiring. People coming there really want to come.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #1: Code retreats are for a self-selecting group&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;However, we talk about code retreats whenever we get the chance. We explain what it is, how it’s done, why it’s interesting. Then if someone invites us to facilitate one, we happily do it. If not, that’s ok. Not all people like code retreats; this doesn’t mean they’re worse professionals or that they don’t want to learn, it just means that code retreats might not bring them the value they need.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not all people who register come, develop or stay the whole day&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The worst thing that happened with a code retreat was when we had 14 registered participants and only one of them came, after we traveled for a long time to get there. It was annoying, but at least we learned something.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #2: If you want to organize a code retreat in another city, partner with someone local&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Local partners will help you find a proper location, promote the event and ensure that everything goes smoothly.&lt;/p&gt;
+&lt;p&gt;Some of the people register but don’t write code, just come to see what it’s about. That’s ok, but it’s better to know it beforehand. Usually, we knew who will develop because we know the community.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #3: Know your community. If you don’t, ask participants if they want to develop and stay all day&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In order to compensate for these things, we always pair-facilitated and one of us is ready to pair with a participant, if they are in an odd number.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #4: Pair facilitate. It’s easier and it allows you to pair with odd number participants.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Make sure people delete the code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Developers don’t like to delete their code. Yet, that’s an essential part of a code retreat.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #5: Always insist that developers delete the code after each session&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Even so, some of them won’t. That’s fine, you’re not in a police line of work, you’re just facilitating. Explain that deleting code is important and useful. If they don’t delete the code, they will find it themselves – since they swap pairs, they will rarely get the occasion to reuse it. We bet most of them don’t look at it after the code retreat. So, either ways, you’ve done your job if you insisted enough.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;Try to make participants define what they want to practice before each session&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During the first code retreats we facilitated, we had to explain that each pair needs to choose something to practice, and we gave some examples: writing methods of max 8/6/4 lines of code, using no ifs, using no cycles, name everything precisely etc. After a while, most people were practicing TDD, and sometimes participants think that code retreats are about TDD. That’s wrong.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #6: Explain to participants that they choose what to practice&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The best example we have is when a pair had a very bad time working together during one session and they decided to stick together for the next session and practice communication. We thought that was awesome.&lt;/p&gt;
+&lt;p&gt;On another occasion, someone showed up for the code retreat and kept bragging all through the day and at the end he said that he learned nothing on that day. Our answer was that he lost his time, because he chose what to do with that day.&lt;/p&gt;
+&lt;p&gt;There are always things to practice and to improve. For example, suggest participants to avoid using the mouse at all for a session, see where that takes them. Code retreats are for participants about what they choose to do; the facilitators are just ensuring that there’s a good environment for that.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;Walk around the room during sessions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Part of the facilitator’s job is to gather information that he or she can use to create meaningful discussions during the retrospective. Look around you and see what you notice.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #7: Watch out for pairing, code and communication smells&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Usually, one of the following happen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A pair switches after more than 10-15 minutes&lt;/li&gt;
+&lt;li&gt;The variable, methods, classes names are not clear enough&lt;/li&gt;
+&lt;li&gt;Developers don’t use abstractions – the usual one is that they use arrays to represent the board in Conway’s Game of Life (hint: if you changed the board to be in 3D, or hexagons, or pentagons, what would happen to the code?)&lt;/li&gt;
+&lt;li&gt;The pair starts the session by drawing a diagram and then don’t have time to write code&lt;/li&gt;
+&lt;li&gt;The code doesn’t work at the end of the session&lt;/li&gt;
+&lt;li&gt;… and probably some more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re a beginner in facilitating code retreats, you will learn those in time. We noticed some of them ourselves and learned others from Corey. Facilitation is an art in itself, and it also requires practice.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;Do a retrospective after each session&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’ve seen two kinds of retrospectives: one in which everybody talks about what happened during the session and what they learned and the other one in which the facilitator talks about the things he saw. We prefer the first one, while Corey seemed to prefer the second, but he may have changed since we paired with him.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #8: The session retrospective helps realizing the lessons learned during the session&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;No matter how you do it, it’s very important because it makes people think about what they did and learn from that session as much as possible – as long as they’re open to it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don’t compete with lunch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We never even tried to do that, but it’s important enough to mention. Development takes energy, and you just can’t do it without eating well.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #9: Have a nice, relaxed, rich lunch when people get hungry&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, even if you’re behind schedule (it happens), don’t compete with lunch. You’re there to ensure that participants have everything they need to practice. Lunch is probably one of the most important things they need.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;Don’t give indications, just throw remarks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The natural tendency of any developer trying to facilitate a code retreat is to sit down and program with a pair when they don’t do what they should.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #10: People are there to practice for themselves&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Don’t do that. Tell them what you think it’s wrong and let them be. After all, they decide what they practice. You can pair with each of them on the next sessions if they ask you to.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;End with a retrospective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ending is important.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #11: We usually end by asking three questions to each participant:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;How did you feel?&lt;/li&gt;
+&lt;li&gt;What have you learned?&lt;/li&gt;
+&lt;li&gt;What will you apply starting Monday?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This makes people commit to themselves to something. After this, it’s their choice.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;The success of a code retreat is in quality, not in numbers&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson #12: The indicator of a successful code retreat is when at least one person tells you that programming is fun again&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It doesn’t matter how many people they are, what they learned during the day or if they will come back. If at least one person thinks programming is fun again, that’s excellent. Learning only starts at code retreats, everyone should keep practicing afterwards.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;strong&gt;Always make a retrospective of your facilitation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At the end of each code retreat, we discuss about what was good and what we could do better.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson 13: Facilitators need to learn too&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This allowed us to improve and refine over time. This is much better when there are two facilitators, because you have who to discuss your performance with and decide what to change.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson 14: The result of the retrospective can be a refinement or an experiment&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We tried different things in the code retreats we facilitated. We used the poker hands problem for a couple of them, ended one with a dojo, started another one with a dojo and so on. Some of the experiments were a success, some of them allowed us to refine our ways. You cannot learn if you don’t experiment, so as long as you change only one thing and you make sure it doesn’t affect the whole event, you’re fine.&lt;/p&gt;
+&lt;p&gt;We however advise you to organize the first few code retreats by the book. It’s better to know the drill before trying to improve it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In the end&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After you organize a code retreat, celebrate.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lesson 15: Feel good about yourself. You’ve done something great.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If at least one person learned something during the event, you should congratulate yourself. And people always learn something. That’s your moment; enjoy it.&lt;/p&gt;
+&lt;p&gt;We hope this helps anyone who wants to organize a code retreat.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

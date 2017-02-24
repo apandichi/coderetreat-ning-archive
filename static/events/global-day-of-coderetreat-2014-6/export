@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39589
+DTSTAMP:20170129T135426Z
+SUMMARY:Global Day of Coderetreat 2014 - Quito, Ecuador
+DESCRIPTION:Este año el Día Mundial para el Retiro de Programación 
+ estará nuevamente en la oficina deThoughtWorks y contará con la cola
+ boración del Buen Trip Hub.\nAquí una reseña del retiro del año pa
+ sado http://www.thoughtworks.com/es/insights/blog/gdcr13-retrospectiv
+ es\nRegístrate aquí http://info.thoughtworks.com/GDCR.html\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2014-6
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Quito
+WEBSITE:https://www.google.co.uk/maps/place/Av+República+de+El+Salvad
+ or+N34-127+Y+SUIZA.+EDI.+MURANO+PLAZA+PISO+3+SUITE+34.,+Quito+170135,+
+ Ecuador/@-0.1857994,-78.4819464,17z/data=!3m1!4b1!4m2!3m1!1s0x91d59a7c
+ 33dffd81:0xbe9cfb16d4836049?hl=en
+URL:https://www.google.co.uk/maps/place/Av+República+de+El+Salvador+N
+ 34-127+Y+SUIZA.+EDI.+MURANO+PLAZA+PISO+3+SUITE+34.,+Quito+170135,+Ecua
+ dor/@-0.1857994,-78.4819464,17z/data=!3m1!4b1!4m2!3m1!1s0x91d59a7c33df
+ fd81:0xbe9cfb16d4836049?hl=en
+CONTACT:+593 (2) 2274906
+ORGANIZER;CN="Ivan Pazmino":http://coderetreat.org/profile/IvanPazmino
+ 126
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/-3i3rVffQH01o
+ ZjvI9fMnLbGcym1NDJor5JxN14tilvy2bkgujJvQwwF7vwUcDSQgEoVi*R2Q9bG8zUJd*S
+ jlEMGK0A-Pknx/CoderetreatLogo.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ivan Paz
+ mino":http://coderetreat.org/profile/IvanPazmino126
+END:VEVENT
+END:VCALENDAR

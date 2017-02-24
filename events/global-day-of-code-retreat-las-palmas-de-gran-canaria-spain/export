@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56782
+DTSTAMP:20170129T093305Z
+SUMMARY:Global Day of Code Retreat - Las Palmas de Gran Canaria, Spain
+DESCRIPTION:Yet another great GDCR !! You'll need to register in the m
+ eetup in order to assist. See you there!http://www.meetup.com/es-ES/SP
+ EGC-Sociedad-de-Promocion-Economica-de-Gran-Canaria/events/234937853/?
+ rv=cr1&_af=event&_af_eid=234937853&https=off\n\nFor more information v
+ isit http://coderetreat.org/events/global-day-of-code-retreat-las-palm
+ as-de-gran-canaria-spain
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Edificio IncubeGC en Infecar
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Software Craftsmanship GC":http://coderetreat.org/profil
+ e/SoftwareCraftsmanshipGC
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Software
+  Craftsmanship GC":http://coderetreat.org/profile/SoftwareCraftsmanshi
+ pGC
+END:VEVENT
+END:VCALENDAR

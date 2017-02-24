@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39895
+DTSTAMP:20170129T120652Z
+SUMMARY:Global Day of Coderetreat 2014 - Medellin, Colombia
+DESCRIPTION:Coderetreat is a day-­long, intensive practice event focu
+ sing on the fundamentals of software development and design. \nYou ca
+ n find out more information about the day on the 2014 global day anno
+ uncement.\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-2014-medellin-colombia
+DTSTART:20141115T080000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, hack, gdcr, gdcr14
+LOCATION:Probablemente en AtomHouse
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Oscar Rendon":http://coderetreat.org/profile/orendon
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/TzObvhxOuad5S
+ Ijw-jmJy4uICIcMOqwr5tlTSVpUJleXB4cr5dnLYO9Plo3ZM9leBswH*h0Cc63i4HN5Z5i
+ Di8SNt-05*TbH/medellin_hdr_by_cheduardo2kd509arh.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Oscar Re
+ ndon":http://coderetreat.org/profile/orendon
+END:VEVENT
+END:VCALENDAR

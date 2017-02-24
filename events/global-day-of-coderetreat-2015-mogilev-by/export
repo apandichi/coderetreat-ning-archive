@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48010
+DTSTAMP:20170129T102528Z
+SUMMARY:Global Day of Coderetreat 2015 - Mogilev, Belarus
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the code retreat format ha
+ s proven itself to be a highly effective means of skill improvement. P
+ racticing the basic principles of modular and object-oriented design, 
+ developers can improve their ability to write code that minimizes the 
+ cost of change over time.   More specifically,  individuals are are 
+ grouped into teams of two and each team “solves” a common problem,
+  ‘The Game of Life’.  There are 6 sessions throughout the day and
+  for each session the groups are reorganized and the code deleted.  A
+ fter each session there are session reflections to help with the  int
+ ernalization of lessons. \nPlease join us for a full day of hands-on 
+ coding practice to improve your craft.\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-coderetreat-2015-mogilev-by
+DTSTART:20151114T100000Z
+DTEND:20151114T200000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Mogilev
+WEBSITE:https://events.epam.com/events/coderetreat-mogilev
+URL:https://events.epam.com/events/coderetreat-mogilev
+CONTACT:+375 33 3503567
+ORGANIZER:Yauheni Razhkou
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=roygkov:h
+ ttp://coderetreat.org/profile/roygkov
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11416
+DTSTAMP:20170129T140656Z
+SUMMARY:1. Coderetreat Softwerkskammer Düsseldorf
+DESCRIPTION:Nach dem erfolgreichen Auftakt mit der ersten Open Space K
+ onferenz derSoftwerkskammer Düsseldorf, organisieren wir nun einen Co
+ deretreat!\nAnmeldungen bitte unter: http://coderetreat-dus-1.eventbri
+ te.de/\n Ein Coderetreat ist ein Workshop für Softwareentwickler, be
+ i dem im Rahmen von 6 Sessions à 45 Minuten eine Programmieraufgabe 
+ mit unterschiedlichen Constraints bearbeitet wird. Die Programmierspra
+ che ist dabei frei wählbar; entwickelt wird grundsätzlich zu zweit
+  (Pair Programming) mit wechselnden Partnern und üblicherweise testge
+ trieben (TDD). Nach einer Session gibt es immer eine kurze Retrospekti
+ ve in der man sichüber das Gelernte austauschen kann.\n Mehr Lesestof
+ f: http://coderetreat.org/facilitating/structure-of-a-coderetreat Waru
+ m sollte ich dahin gehen?\num moderne Softwareentwicklung zu erleben\n
+ um bekannte Techniken zu vertiefen und zu hinterfragen\num sich mit an
+ deren Entwicklern auszutauschen\num alte Tools besser kennen zu lernen
+  oder sich neue anzusehen\num Spaß zu haben!\n\n Bitte bring einen La
+ ptop mit funktionierender und getesteter Entwicklungsumgebungen für d
+ eine Programmiersprache(n) inklusive Framework für Unit-Tests mit. Wi
+ r wollen keine Zeit für Einrichtung\nverlieren. Solltest du kein Lapt
+ op haben, so kannst du vermutlich dann mit am Laptop deines Pairs sitz
+ en. Das klappt natürlich nur,solange mehr als die Hälfte der Teilneh
+ mer ein Laptop mit bringt.\nAblauf:  Samstag, 01.09.2012 von 9:00-17:
+ 30 Uhr  ab 8:30 Uhr gibt es Kaffee,  ca. 13:00 Uhr gemeinsames koste
+ nfreies Mittagessen  ca. 17:15 Uhr Abschlussplenum  anschließend Ne
+ tworking bei einem gemütlichen Bierchen  organisiert wird das Codere
+ treat durch die Softwerkskammer Düsseldorf  Ort: google maps  innoQ
+  Deutschland GmbH  Krischerstr. 100 D-40789 Monheim\nDie Location li
+ egt leider etwas abseits des ÖPNV, sollte dies ein Hinderungsgrund se
+ in, können wir evtl. eine Mitfahrgelegenheit organisieren. Bitte einf
+ ach melden und wir schauen, was sich machen lässt!  mit freundlicher
+  Unterstützung durch :  innoQ und orchit\n\nFor more information vis
+ it http://coderetreat.org/events/1-coderetreat-softwerkskammer-d-sseld
+ orf
+DTSTART:20120901T083000Z
+DTEND:20120901T173000Z
+CATEGORIES:coderetreat
+LOCATION:InnoQ Deutschland GmbH
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Patrick Cornelißen (Softwerkskammer Düsseldorf)
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/cYfOKkqt5I0S6
+ g5Z03XjjWom4VfVh7m9HI-FhQw1pX2IDPU8uww-HpxgWqEftIkArpC2CqrG5qVxsCDRmzA
+ hkR8Xkpdt9ZMz/Softwerkskammer.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Mattes:ht
+ tp://coderetreat.org/profile/Mattes
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patrick 
+ Cornelißen":http://coderetreat.org/profile/PatrickCornelissen
+END:VEVENT
+END:VCALENDAR

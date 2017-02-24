@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28683
+DTSTAMP:20170129T115417Z
+SUMMARY:Global Day of Coderetreat 2013 - Quito, Ecuador
+DESCRIPTION:Bienvenidos todos al segundo GDCR en la cuidad de Quito!\n
+ Esta vez el Día Mundial para el Retiro de Programación tendrá lugar
+  en ThoughtWorks Ecuador y además contará con el patrocinio de viejo
+ s y nuevos amigos del evento en Quito:\n\nLevelap\nbluelizardgames\n\n
+ Tendremos además facilitadores en varios paradigmas y en varios lengu
+ ajes de programación.\nPara quienes les gustaría tener una idea de c
+ omo es el evento, en este enlace está una memoria del año pasado.\n\
+ nFor more information visit http://coderetreat.org/events/global-day-o
+ f-code-retreat-2013-quito-ecuador
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:ThoughtWorks Ecuador
+WEBSITE:http://www.thoughtworks.com/es
+URL:http://www.thoughtworks.com/es
+CONTACT:+593 (2) 2274906
+ORGANIZER;CN="Iván Pazmiño":http://coderetreat.org/profile/IvanPazmi
+ no
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Iván Pa
+ zmiño":http://coderetreat.org/profile/IvanPazmino
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Seaborn Lee&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SeabornLee</link>
+        <pubDate>Sun, 29 Jan 2017 11:56:58 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:56:58 +0000</lastBuildDate>
+        <image>
+            <title>Seaborn Lee&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SeabornLee</link>
+            <url>http://api.ning.com:80/files/poTC6m2b82qists0psuq4shcrmd*ixWVK5IrZ5EGuOpEXmoOKE5AbB02ivnUFwswBb*g-UyE-56*sbn6VMGFFmrcP-AT6CWz/1047341171.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ff2081e4fcdb9b922205ad2</guid>
+               <title>Seaborn Lee posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48139?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SeabornLee?xg_source=activity">Seaborn Lee</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48139?xg_source=activity">Global Day of Coderetreat 2015 - Shenzhen, China</a> at Shenzhen</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">The global day of CodeRetreat in Shenzhen, this is the third time.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48139?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 27 Oct 2015 04:25:23 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ff2081e9986f09ff197e1ee</guid>
+               <title>Seaborn Lee posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:38328?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SeabornLee?xg_source=activity">Seaborn Lee</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:38328?xg_source=activity">Global Day of Coderetreat 2014 - Shenzhen, China</a> at TBD</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 9:30am to 6pm</div><div class="rich-excerpt">The second GDCR event in Shenzhen.It must be awesome.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:38328?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 17 Sep 2014 14:57:35 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ff2081eb9dfe33462e00ea5</guid>
+               <title>Seaborn Lee posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:32147?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SeabornLee?xg_source=activity">Seaborn Lee</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:32147?xg_source=activity">Global Day of Coderetreat 2013 - Shenzhen, China</a> at Malata Science and Technology Mansion</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">First GDCR in Shenzhen, coming join us.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:32147?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 11 Dec 2013 01:22:17 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=273pnzkrslit2&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:09:01Z</updated>
+                            <author>
+                    <name>Ravindra Jaju</name>
+                    <uri>http://coderetreat.org/profile/RavindraJaju</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/HfIXzVrPfI1eQnnWN624C56wxctCJ5CeEDeyS2-FGX-2*d7ZZNgOmMIbZTKGlGUpfIU8dX-2Ebzam8xFPWO1IIZD5r1w8vNC/1147153466.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=273pnzkrslit2&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Dhaval Dalal</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/DhavalDalal"/>
+                                        <id>tag:coderetreat.org,2012-10-23:6456126:User:14519</id>
+                                        <updated>2012-10-23T04:03:02.998Z</updated>
+                    
+                                            <author>
+                            <name>Ravindra Jaju</name>
+                            <uri>http://coderetreat.org/profile/RavindraJaju</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/HfIXzVrPfI0X45yqdp5AsboiGq9wF8iF6rn2h7fuwtJgmFsjugNe-cawrLulfLuIXe7Y75cGtv-UbrC6N1YCrAPtgI8ES9w1/1147146363.jpeg?xgip=1%3A206%3A610%3A610%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Dhaval Dalal&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/HfIXzVrPfI0X45yqdp5AsboiGq9wF8iF6rn2h7fuwtJgmFsjugNe-cawrLulfLuIXe7Y75cGtv-UbrC6N1YCrAPtgI8ES9w1/1147146363.jpeg?xgip=1%3A206%3A610%3A610%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Dhaval Dalal&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

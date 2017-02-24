@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54607
+DTSTAMP:20170129T112844Z
+SUMMARY:Global Day of Coderetreat 2016 - Zielona Góra, Poland
+DESCRIPTION:Long but cool day, intensive practice event, focusing on t
+ he fundamentals of software development and design.\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 16-zielona-g-ra-poland
+DTSTART:20161022T083000Z
+DTEND:20161022T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:UZ -> Wydział Fizyki i Astronomii, sala 106 (A-29)
+WEBSITE:https://www.google.pl/maps/place/Szafrana+4A,+Zielona+G%C3%B3r
+ a/@51.9422231,15.5267832,17z/data=!4m13!1m7!3m6!1s0x470613cde3bfeca5:0
+ x105d2381224a8789!2sSzafrana+4A,+Zielona+G%C3%B3ra!3b1!8m2!3d51.942219
+ 8!4d15.5289719!3m4!1s0x470613cde3bfeca5:0x105d2381224a8789!8m2!3d51.94
+ 22198!4d15.5289719?hl=en
+URL:https://www.google.pl/maps/place/Szafrana+4A,+Zielona+G%C3%B3ra/@5
+ 1.9422231,15.5267832,17z/data=!4m13!1m7!3m6!1s0x470613cde3bfeca5:0x105
+ d2381224a8789!2sSzafrana+4A,+Zielona+G%C3%B3ra!3b1!8m2!3d51.9422198!4d
+ 15.5289719!3m4!1s0x470613cde3bfeca5:0x105d2381224a8789!8m2!3d51.942219
+ 8!4d15.5289719?hl=en
+CONTACT:
+ORGANIZER;CN="Aleksandra Sołtysik":http://coderetreat.org/profile/Ale
+ ksandraSoltysik
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/H5BhlPfjXdJZG
+ pdNXFADISNmDBIqCCNRtM00-4NKcD2I6BgXisclVUAqg-rLX5vtaw-ctdNgcJ*GdXxZqMq
+ 7qEzULlhe7NDP/GDoCR.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksand
+ ra Sołtysik":http://coderetreat.org/profile/AleksandraSoltysik
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jacek Ra
+ czykowski":http://coderetreat.org/profile/JacekRaczykowski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paweł �
+ �alejko":http://coderetreat.org/profile/PawelZalejko
+END:VEVENT
+END:VCALENDAR

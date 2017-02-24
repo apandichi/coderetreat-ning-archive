@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:5608
+DTSTAMP:20170129T133210Z
+SUMMARY:Code Retreat Lille #2
+DESCRIPTION:Les inscriptions sont gérées sur cette page.\n\nFor more
+  information visit http://coderetreat.org/events/code-retreat-lille-2
+DTSTART:20120114T083000Z
+DTEND:20120114T190000Z
+CATEGORIES:code, retreat
+LOCATION:ProxiAD
+WEBSITE:http://maps.google.com/maps?q=19+Avenue+le+Corbusier,+Lille,+F
+ rance&hl=fr&ll=50.637248,3.070292&spn=0.005192,0.011072&sll=37.0625,-9
+ 5.677068&sspn=52.550571,90.703125&vpsrc=6&hnear=19+Avenue+le+Corbusier
+ ,+59800+Lille,+Nord,+Nord-Pas-de-Calais,+France&t=h&z=17
+URL:http://maps.google.com/maps?q=19+Avenue+le+Corbusier,+Lille,+Franc
+ e&hl=fr&ll=50.637248,3.070292&spn=0.005192,0.011072&sll=37.0625,-95.67
+ 7068&sspn=52.550571,90.703125&vpsrc=6&hnear=19+Avenue+le+Corbusier,+59
+ 800+Lille,+Nord,+Nord-Pas-de-Calais,+France&t=h&z=17
+CONTACT:+33328040600
+ORGANIZER:Jérémie HATTAT et Adrian BOLBOACA
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/5-3bsza-hv44h
+ HcUrVD--m33XyHz5z3ttf1yH35chkbvxKsv1ZiAtLh3tbKcYYbNK6yXSa-vvxgRq5c9nzP
+ lf0xT3JpNVYD2/life6b.gif
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jérémi
+ e HATTAT":http://coderetreat.org/profile/JeremieHATTAT
+END:VEVENT
+END:VCALENDAR

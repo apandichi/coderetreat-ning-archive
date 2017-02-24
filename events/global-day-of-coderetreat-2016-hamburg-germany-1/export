@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56478
+DTSTAMP:20170129T100705Z
+SUMMARY:Global Day of Coderetreat 2016 - Hamburg, Germany
+DESCRIPTION:We from freiheit.com invite everyone to celebrate the Glo
+ bal Day of Coderetreat 2016 with us in our beautiful office in the hea
+ rt of St. Pauli.\nIf you're interested in test-driven development, pai
+ r programming  and learning together with others who share your passi
+ on for programming, you shouldn't miss this event!\nFree soft drinks, 
+ coffee, snacks, and pizza are waiting for you :-)\nPlease register via
+  https://goo.gl/forms/LPiVA2VRTugjsK5t2\nWe will start at 10am.\nThe 
+ address is: Budapester Str. 45 20359 Hamburg\nGoogle Maps link\nPlease
+  bring your laptop with prepared development environments for the lang
+ uages you're comfortable with.\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2016-hamburg-germany-1
+DTSTART:20161022T100000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:freiheit.com technologies gmbh
+WEBSITE:http://freiheit.com
+URL:http://freiheit.com
+CONTACT:+49 40 890584 0
+ORGANIZER;CN="Olaf Gunkel":http://coderetreat.org/profile/OlafGunkel
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/G834pRjVCIH8i
+ pmgUFARtHDObKyoHCh8pC71tGhHu-dPTgrS2SkBMfoiq04*2PAyrAeifyWRdCKETEMIRq2
+ NJ3mvZTFiWbex/ScreenShot20161018at10.39.00am.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Olaf Gun
+ kel":http://coderetreat.org/profile/OlafGunkel
+END:VEVENT
+END:VCALENDAR

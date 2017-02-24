@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8754
+DTSTAMP:20170129T122727Z
+SUMMARY:Code Retreat Lyon
+DESCRIPTION:Le 31 mars 2012 de 8h30 à 18h30, EPITECH hébergera le pr
+ emier Code Retreat lyonnais, un évènement proposé par le CARA Lyon
+ , le Lyon JUG et le Ruby UG Lyon.\nPour faciliter cette journée, n
+ ous aurons le privilège d'être coachés par Antoine Vernois etFran
+ ck Verrot, 2 Software Craftsman et développeurs engagés.\nSi vous
+  savez déjà ce qu'est un Code Retreat, allez directement vous inscri
+ re ici (nombre de places limitées à 30) : http://www.weezevent.com/
+ Code-Retreat-Lyon.\nLe site de l'évènement : http://talondagile.fr/
+ blog/2012/02/code-retreat-a-lyon-le-31-mars-2012/\n\nFor more informat
+ ion visit http://coderetreat.org/events/code-retreat-lyon
+DTSTART:20120331T080000Z
+DTEND:20120331T183000Z
+CATEGORIES:1st, code, retreat, in, lyon
+LOCATION:Lyon, France
+WEBSITE:http://maps.google.fr/maps?f=q&source=s_q&hl=fr&geocode=&q=86+
+ Boulevard+Marius+Vivier+Merle,+69003+Lyon&sll=45.7547626,4.8590824&ie=
+ UTF8&hq=&hnear=86+Boulevard+Marius+Vivier+Merle,+69003+Lyon&view=map
+URL:http://maps.google.fr/maps?f=q&source=s_q&hl=fr&geocode=&q=86+Boul
+ evard+Marius+Vivier+Merle,+69003+Lyon&sll=45.7547626,4.8590824&ie=UTF8
+ &hq=&hnear=86+Boulevard+Marius+Vivier+Merle,+69003+Lyon&view=map
+CONTACT:
+ORGANIZER:CARA Lyon, Lyon JUG, Ruby UG Lyon
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Franck V
+ errot":http://coderetreat.org/profile/FranckVerrot
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="couturie
+ r.romain":http://coderetreat.org/profile/couturierromain
+END:VEVENT
+END:VCALENDAR

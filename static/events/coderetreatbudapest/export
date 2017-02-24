@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:7891
+DTSTAMP:20170129T133425Z
+SUMMARY:CoderetreatBudapest
+DESCRIPTION:Coderetreat in Budapest\n\nFacebook event: https://www.fac
+ ebook.com/events/211279395634564/\n\nFor more information visit http:/
+ /coderetreat.org/events/coderetreatbudapest
+DTSTART:20120225T100000Z
+DTEND:20120225T180000Z
+CATEGORIES:coderetreat
+LOCATION:Krisztina krt. 32., Budapest, Hungary (MyCorporation)
+WEBSITE:http://www.mycorporation.hu/
+URL:http://www.mycorporation.hu/
+CONTACT:+36202306404
+ORGANIZER;CN="Marton Meszaros":http://coderetreat.org/profile/MartonMe
+ szaros
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marton M
+ eszaros":http://coderetreat.org/profile/MartonMeszaros
+END:VEVENT
+END:VCALENDAR

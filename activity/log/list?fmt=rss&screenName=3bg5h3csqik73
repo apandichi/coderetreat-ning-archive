@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Arthur Almeida&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ArthurAlmeida</link>
+        <pubDate>Sun, 29 Jan 2017 09:47:06 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:47:06 +0000</lastBuildDate>
+        <image>
+            <title>Arthur Almeida&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ArthurAlmeida</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010f3ef6497c9d5e7d11c9bad</guid>
+               <title>Arthur Almeida added a discussion to the group Organizers/Hosts</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:39716?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ArthurAlmeida?xg_source=activity">Arthur Almeida</a> added a discussion to the group <a href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">Organizers/Hosts</a></span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity" ><img src="http://api.ning.com/files/7uH9-Cl0KpQdomnxYhydiaUG3pnz60-2Iqsij1QBtTPy5UQPglfaawIcNQFmNNYCasz95-iLFAVkNzP76U8jtNh49jh5onjp/engineermd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:39716?xg_source=activity">Documentation about Coderetreat</a></h3><div class="rich-detail"><div class="rich-excerpt">Hi everyone!  My name is Arthur and I'm from Brasília, Brasil!  I decided last Friday that I will host the GDCR this year so I'm running behind to find a local and a sponsorship.    I want to send some e-mails to some companies that I have in mind to running the coderetreat but I need a document to introduce what is the Coderetreat, your goals, etc.  Is there any existing document like that? Or Do I need to create one?<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:39716?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 14 Oct 2014 00:00:52 +0000</pubDate>
+               </item>    </channel>
+</rss>

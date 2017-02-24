@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9807
+DTSTAMP:20170129T105205Z
+SUMMARY:A Global Day of Coderetreat 2012
+DESCRIPTION:Going to be a HUGE DAY!\nCan we get 200 cities this year?\
+ nFor more information, check out our announcement and official web pa
+ ge.\nInterested in hosting an event for your city? Let us know!\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2012
+DTSTART:20121208T083000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat
+LOCATION:EVERYWHERE
+WEBSITE:http://gdcr.coderetreat.org
+URL:http://gdcr.coderetreat.org
+CONTACT:
+ORGANIZER;CN="corey haines":http://coderetreat.org/profile/128952ghvkc
+ vj
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="corey ha
+ ines":http://coderetreat.org/profile/128952ghvkcvj
+END:VEVENT
+END:VCALENDAR

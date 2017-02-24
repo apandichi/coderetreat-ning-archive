@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11814
+DTSTAMP:20170129T124057Z
+SUMMARY:Global Day of Coderetreat 2012 - Ghent / Belgium
+DESCRIPTION:We will be joining in as we did last year as the Belgian d
+ elegation ;-)\n\nFor more information visit http://coderetreat.org/eve
+ nts/global-day-of-coderetreat-ghent-belgium
+DTSTART:20121208T090000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat
+LOCATION:Mechelen
+WEBSITE:http://www.co-learning.be
+URL:http://www.co-learning.be
+CONTACT:
+ORGANIZER;CN="Erik Talboom":http://coderetreat.org/profile/ErikTalboom
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jo Van E
+ yck":http://coderetreat.org/profile/JoVanEyck
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erik Tal
+ boom":http://coderetreat.org/profile/ErikTalboom
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=YvesHanou
+ lle:http://coderetreat.org/profile/YvesHanoulle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Olaf Ba
+ eyens":http://coderetreat.org/profile/OlafBaaeyens
+END:VEVENT
+END:VCALENDAR

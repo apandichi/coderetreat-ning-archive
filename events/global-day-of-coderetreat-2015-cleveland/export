@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46842
+DTSTAMP:20170129T121543Z
+SUMMARY:Global Day of Coderetreat 2015 - Cleveland, OH, USA
+DESCRIPTION:We're celebrating the Global Day of Coderetreat at Leandog
+  Software!\nCome for a great day of practice!\nCoderetreat is a day-lo
+ ng, intensive practice event, focusing on the fundamentals of software
+  development and design. By providing developers the opportunity to ta
+ ke part in focused practice, away from the pressures of 'getting thing
+ s done', the coderetreat format has proven itself to be a highly effec
+ tive means of skill improvement. Practicing the basic principles of mo
+ dular and object-oriented design, developers can improve their ability
+  to write code that minimizes the cost of change over time.\n \n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2015-cleveland
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:LeanDog Boat
+WEBSITE:http://gdcrcle2015.eventbrite.com
+URL:http://gdcrcle2015.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Joel Byler":http://coderetreat.org/profile/JoelByler
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joel Byl
+ er":http://coderetreat.org/profile/JoelByler
+END:VEVENT
+END:VCALENDAR

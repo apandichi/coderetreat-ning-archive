@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0vm47hgms2goc&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:12:24Z</updated>
+                            <author>
+                    <name>Gary Bernhardt</name>
+                    <uri>http://coderetreat.org/profile/GaryBernhardt</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ZPYydpSOEAIVHt7Fgy7dK*6EQwGbx*0HQW65oOm4tnG8ov5p51EQazUhZomgvyq7GTnS-MDdc0FXvY6GJ**YFbFfehSpmnbL/849148779.png?xgip=0%3A0%3A235%3A235%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0vm47hgms2goc&amp;xn_auth=no</id>
+                            <entry>
+                    <title>corey haines</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/128952ghvkcvj"/>
+                                        <id>tag:coderetreat.org,2011-11-05:6456126:User:1</id>
+                                        <updated>2011-11-05T02:05:01.167Z</updated>
+                    
+                                            <author>
+                            <name>Gary Bernhardt</name>
+                            <uri>http://coderetreat.org/profile/GaryBernhardt</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/2gDAPWNgZcGa1C6SYGGRnHnuTTMEwU4edMXca9kKfqhwt8rdQoLj84ZFIcAwC1MPsTicq7-nDgnkwjwMNCC0MySL*tVTOyvI/677738517.jpeg?xgip=0%3A0%3A477%3A477%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;corey haines&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/2gDAPWNgZcGa1C6SYGGRnHnuTTMEwU4edMXca9kKfqhwt8rdQoLj84ZFIcAwC1MPsTicq7-nDgnkwjwMNCC0MySL*tVTOyvI/677738517.jpeg?xgip=0%3A0%3A477%3A477%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;corey haines&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+<head data-layout-view="default" class="xj_layout_head">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5W4WQ');</script>
+<!-- End Google Tag Manager -->
+    <script>(function(){var d={date:8,app:"s",host:"s",ip:4,ua:"s",user:"s",url:"s",html:4,css:4,render:4,js:4,nlr:4,nlr_eval:4,img:4,embed:4,obj:4,mcc:4,mcr:4,mct:4,nac:4,pac:4,l_t:"s"},h=document,e="getElementsByTagName",i=window,c=function(){return(new Date).getTime()},f=c(),g={},b={},a={},j=i.bzplcm={listen:{},start:function(k){b[k]=c();return j},stop:function(k){g[k]=c()-b[k];return j},ts:function(k){g[k]=c()-f;return j},abs_ts:function(k){g[k]=c();return j},add:function(l){for(var k in l){if("function"!=typeof l[k]){a[k]=l[k]}}},send:function(){if(!g.he){j.ts("he")}a.date=["xdate"];a.host=["xhost"];a.ip=["xip"];a.ua=["xua"];a.url=["xpath"];a.html=g.he-g.hb;a.css=g.ca-g.cb;a.render=g.jb-g.hb;a.js=g.ja-g.jb;a.nlr=g.nr-g.ns;a.nlr_eval=g.ni+g.ne;a.img=h[e]("img").length;a.embed=h[e]("embed").length;a.obj=h[e]("object").length;if(i.xg&&i.xg.xnTrackEvent){i.xg.xnTrackEvent(d,"BazelCSPerfLite",a)}}}})();</script><script>if(window.bzplcm)window.bzplcm.ts('hb')</script>    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Coderetreat - Honing the craft together worldwide</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="SHORTCUT ICON" href="favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Coderetreat is a social network" />
+    <meta name="keywords" content="" />
+<meta name="title" content="Coderetreat" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://coderetreat.org/" />
+<meta property="og:title" content="Coderetreat" />
+<link rel="image_src" href="http://api.ning.com/icons/appatar/6456126?default=6456126&amp;width=90&amp;height=90" />
+<script type="text/javascript">
+    djConfig = { baseScriptUri: 'http://coderetreat.org/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/6456126?default=6456126&width=64&height=64","url":"http:\/\/coderetreat-community.ning.com","domains":["coderetreat.org"],"online":true,"privateSource":true,"id":"coderetreat-community","appId":"6456126","description":"","name":"Coderetreat","owner":"128952ghvkcvj","createdDate":"2011-11-05T02:05:01.167Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":5};
+        (function(){
+            if (!window.ning) { return; }
+
+            var age, gender, rand, obfuscated, combined;
+
+            obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+            if (obfuscated) {
+                var offset = 100000;
+                obfuscated = parseInt(obfuscated[1]);
+                rand = obfuscated / offset;
+                combined = (obfuscated % offset) ^ rand;
+                age = combined % 1000;
+                gender = (combined / 1000) & 3;
+                gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+                ning.viewer = {"age":age,"gender":gender};
+            }
+        })();
+
+        if (window.location.hash.indexOf('#!/') == 0) {
+        window.location.replace(window.location.hash.substr(2));
+    }
+    window.xg = window.xg || {};
+xg.captcha = {
+    'shouldShow': false,
+    'siteKey': '6Ldf3AoUAAAAALPgNx2gcXc8a_5XEcnNseR6WmsT'
+};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg.addOnFacebookLoad = function (f) { xg.addOnFacebookLoad.functions.push(f); };
+xg.addOnFacebookLoad.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) { this.p++; },
+    onLoad: function(set) {
+        this.p--;
+        if (this.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
+        }
+    }
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
+}
+xg._loader.onDone = function() {
+        if(window.bzplcm)window.bzplcm.start('ni');
+        xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { _globals: { screen_name: null, subdomain: "coderetreat-community", is_owner: false, is_admin: false, is_member: false, join_date: 0, request_method: "GET", trace: "92c4b318-b2f5-498d-bc8b-48fe9cf543aa"}, event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; }, _trackingHost: "coll.ning.com", _jsDebug: false } };</script>
+<link rel="alternate" type="application/atom+xml" title="Blog Posts - Coderetreat" href="profiles/blog/feed?xn_auth=no" /><link rel="alternate" type="application/rss+xml" title="Latest Activity - Coderetreat" href="activity/log/list?fmt=rss" /><link rel="alternate" type="application/atom+xml" title="Forum - Coderetreat" href="forum/topic/list?feed=yes&amp;xn_auth=no" /><script>if(window.bzplcm)window.bzplcm.ts('cb')</script>
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common-982.min.css?xn_version=3408449514);
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/wide-sidebar.min.css?xn_version=1327369422);
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/component.min.css?xn_version=3166809551);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIXYaqKgGd0KBZicBBAhfDYj2Aa4s8f5nvPfAF-VYObMp0rAmgQw1ZhPhrL8x7sGJRoU6IovphedJCS5U4-yfae/1249016504.css?xn_version=201701120951);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIgyDAElZlBJ1Awn*XfVWcD2dDlwyjePoNWSlDmjGd8UlGhL3I8xAQsZekh6xVJbAhSECHot0nK97Q3PD*PcfV3/1249038261.css?xn_version=201701120951);
+
+</style>
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=1394342931" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<![endif]-->
+<script>if(window.bzplcm)window.bzplcm.ts('ca')</script><link rel="EditURI" type="application/rsd+xml" title="RSD" href="profiles/blog/rsd" />
+<script type="text/javascript">(function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,'http://coderetreat.org/m');</script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5W4WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="xj_before_content">        <div id="xn_bar">
+            <div id="xn_bar_menu">
+                <div id="xn_bar_menu_branding" >
+                                    </div>
+
+                <div id="xn_bar_menu_more">
+                    <form id="xn_bar_menu_search" method="GET" action="http://coderetreat.org/main/search/search">
+                        <fieldset>
+                            <input type="text" name="q" id="xn_bar_menu_search_query" value="Search Coderetreat" _hint="Search Coderetreat" accesskey="4" class="text xj_search_hint" />
+                            <a id="xn_bar_menu_search_submit" href="index.html#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+                        </fieldset>
+                    </form>
+                </div>
+
+                            <ul id="xn_bar_menu_tabs">
+                                            <li><a href="http://coderetreat.org/main/authorization/signUp?">Sign Up</a></li>
+                                                <li><a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2F">Sign In</a></li>
+                                    </ul>
+                        </div>
+        </div>
+            <script src="http://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
+    <script>
+        try {
+            GlamCreateSlot("183770529", "728x90", "Ning_Top_Leaderboard");
+            GlamSetSlotData("Ning_Top_Leaderboard", "ningid=6456126");
+            GlamCreateSlot("183770529", "300x250", "Ning_Top_Right");
+            GlamSetSlotData("Ning_Top_Right", "ningid=6456126");
+            GlamTrack("183770529");
+        } catch (e) {}
+    </script>
+    </div>
+    <div class="xg_theme" data-layout-pack="romeo">
+        <div id="xg_themebody">
+            <div id="xg_ad_above_header" class="xg_ad xj_ad_above_header dy-displaynone">
+                
+            </div>
+            <div id="xg_head">
+                <div id="xg_masthead">
+                    <h1 id="xg_sitename" class="xj_site_name"><a id="application_name_header_link" href="index.html"><img src="http://api.ning.com:80/files/2vzV35vB8k5SPm92v9bGA0ng9DP2h-ONIcgPoDUThiIk1roHMF4eVjzlN2o3z9S5aU*wKgn9jZpdxEekNQCYvnOumr-beV44/cnlogo.png" alt="Coderetreat"></a></h1>
+                    <p id="xg_sitedesc" class="xj_site_desc">Honing the craft together worldwide</p>
+                </div>
+                <div id="xg_navigation" class="xj_navigation"><ul>
+    <li dojoType="SubTabHover" id="xg_tab_xn3" class="xg_subtab"><a href="about"><span>About</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="about" style="float:none;"><span>About Coderetreat</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="about/community-network" style="float:none;"><span>About Community Network</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="history" style="float:none;"><span>History</span></a></li></ul></div></li><li id="xg_tab_events" class="xg_subtab"><a href="events"><span>Events</span></a></li><li dojoType="SubTabHover" id="xg_tab_groups" class="xg_subtab"><a href="groups"><span>Groups</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="group/facilitators" style="float:none;"><span>Facilitators</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="group/organizers-hosts" style="float:none;"><span>Organizers/Hosts</span></a></li></ul></div></li><li id="xg_tab_xn17" class="xg_subtab"><a href="hosting"><span>Hosting</span></a></li><li dojoType="SubTabHover" id="xg_tab_xn10" class="xg_subtab"><a href="facilitating"><span>Facilitating</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="facilitating/structure-of-a-coderetreat" style="float:none;"><span>Structure</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="gol" style="float:none;"><span>Conway&#039;s Game of Life</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="facilitating/activity-catalog" style="float:none;"><span>Activity Catalog</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="profiles/blogs/on-the-role-of-the-coderetreat-facilitator" target="_blank" style="float:none;"><span>Role of the Facilitator</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="group/facilitators" style="float:none;"><span>Facilitator&#039;s Group</span></a></li></ul></div></li><li dojoType="SubTabHover" id="xg_tab_xn0" class="xg_subtab"><a href="media"><span>Media</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="photo" style="float:none;"><span>Photos</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="video" style="float:none;"><span>Video</span></a></li></ul></div></li><li id="xg_tab_blogs" class="xg_subtab"><a href="profiles/blog/list"><span>Blogs</span></a></li><li id="xg_tab_forum" class="xg_subtab"><a href="forum.1"><span>Forum</span></a></li><li id="xg_tab_profile" class="xg_subtab"><a href="profiles.1"><span>My Page</span></a></li></ul>
+</div>
+            </div>
+            <div id="xg_ad_below_header" class="xg_ad xj_ad_below_header dy-displaynone">
+						
+					</div>
+            <div id="xg" class="xg_widget_main xg_widget_main_index xg_widget_main_index_index">
+                	
+                <div id="xg_body">
+                    <div class="xj_notifications"></div>
+                    <div class="xg_column xg_span-14" id="column1">
+                        <div id="xg_canvas" class="xj_canvas">
+                            <div  class='xg_colgroup first-child last-child'>
+<div _maxEmbedWidth="718" _columnCount="3"  class='xg_3col first-child'>
+<div  class='xg_colgroup first-child last-child'>
+<div _maxEmbedWidth="650" _columnCount="3"  class='xg_3col first-child last-child'>
+<div class="xg_module   html_module module_text xg_reset" data-module_name="text"
+        >
+        <div class="xg_module_head"><h2>Welcome to the Community</h2></div>
+        <div class="xg_module_body xg_user_generated">
+            <p><b>The Global Day Of Coderetreat 2016 takes place on Oct 22nd all over the world!<br />
+<br /></b><a href="http://gdcr.coderetreat.org/" target="_blank">Click here</a>&#160;to find an event near you or to register your event so you can be part of it!</p>
+<p></p>
+<p>A <strong>Coderetreat</strong> is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice away from the pressures of 'getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement <a href="about">more...</a></p>
+<p>Anyone can <strong>host</strong> a coderetreat <a href="hosting">more...</a></p>
+<p>An important aspect of a coderetreat is how it is <strong>facilitated</strong> <a href="facilitating">more...</a></p>
+        </div>
+        </div>
+<div class="xg_module module_blog indented_content" data-module_name="blog">
+    <div class="xg_module_head">
+        <h2>Blog Posts</h2>
+    </div>
+    <div class="xg_module_body body_detail">
+            <div class="blogpost vcard" data-contentId="6456126:BlogPost:55239">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="profile/RaimoRadczewski"  title="Raimo Radczewski"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/jSNhDxbJzkjB-sm1qN5F1ZZMuh8GcmiyRSS-PbN99sDTWgyfZ*J572vsfQr4dQp61RrCDPoHw30gcg5wz1udaUsl2mZi3yns/1237772870.jpeg?xgip=0%3A0%3A541%3A541%3B%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="profiles/blogs/celebrating-100-gdcr-events-all-over-the-world-with-a-special-sur" _snid="6456126:BlogPost:55239">Celebrating 100 GDCR Events all over the world with a special surprise</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted by <a href="profile/RaimoRadczewski">Raimo Radczewski</a> on September 21, 2016 at 8:00pm                            <span class="reactions">
+                    <a href="profiles/blogs/celebrating-100-gdcr-events-all-over-the-world-with-a-special-sur#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="profiles/blogs/celebrating-100-gdcr-events-all-over-the-world-with-a-special-sur" data-content-id="6456126:BlogPost:55239" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                    </div>
+            </div>
+                <div class="blogpost vcard" data-contentId="6456126:BlogPost:53835">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="profile/IvanKusalic"  title="Ivan Kusalic"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/IEglRQdE0-*EzRdTtIuIKkYoWCXwwr8mf7NyaKHdGIBzOn01ebwgvgclF7c7JyXfQavukBwg*Nuv4XXfIls2I8MVl1qpTWnb/1193824711.jpeg?xgip=0%3A0%3A1069%3A1069%3B%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="profiles/blogs/how-to-participate-in-the-global-day-of-coderetreat-2016" _snid="6456126:BlogPost:53835">How to participate in the Global Day of Coderetreat 2016</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted by <a href="profile/IvanKusalic">Ivan Kusalic</a> on July 23, 2016 at 4:11pm                            <span class="reactions">
+                    <a href="profiles/blogs/how-to-participate-in-the-global-day-of-coderetreat-2016#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="profiles/blogs/how-to-participate-in-the-global-day-of-coderetreat-2016" data-content-id="6456126:BlogPost:53835" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    2 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                    </div>
+            </div>
+                <div class="blogpost vcard" data-contentId="6456126:BlogPost:54036">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="profile/StaffordBrooke"  title="Stafford Brooke"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/YOAV6t1l*NZCJhDMMa*I9FGDwud73zlc9m3XMYfsVS6xLYtFc9TYa-ZEE9Tg7bQAQ33w1u4LZCulIP8Uj7Uz4Q1MHX8r0uy7/630400328.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="profiles/blogs/gcdr-2016-call-for-sponsors" _snid="6456126:BlogPost:54036">GCDR 2016 - Call for Sponsors</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted by <a href="profile/StaffordBrooke">Stafford Brooke</a> on June 9, 2016 at 11:00pm                            <span class="reactions">
+                    <a href="profiles/blogs/gcdr-2016-call-for-sponsors#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="profiles/blogs/gcdr-2016-call-for-sponsors" data-content-id="6456126:BlogPost:54036" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                    </div>
+            </div>
+                <div class="blogpost vcard" data-contentId="6456126:BlogPost:53062">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="profile/LiaoChunbo"  title="Liao Chunbo"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/Y05Evaa5liEakQm*BedMH1Ign620wP2thf99*yrMjx5*VJ7VfNa6QFXRpPkZCyb1peSw5wuK-wahRQ8IZJCoRtOUp0xyfR54/1190409707.png?width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="profiles/blogs/the-first-global-day-of-coderetreat-in-nokia-cd-site" _snid="6456126:BlogPost:53062">2016 Q1 Nokia Chengdu TC Code Retreat Day</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted by <a href="profile/LiaoChunbo">Liao Chunbo</a> on April 25, 2016 at 1:00am                            <span class="reactions">
+                    <a href="profiles/blogs/the-first-global-day-of-coderetreat-in-nokia-cd-site#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="profiles/blogs/the-first-global-day-of-coderetreat-in-nokia-cd-site" data-content-id="6456126:BlogPost:53062" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    2 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                    </div>
+            </div>
+                <div class="blogpost vcard" data-contentId="6456126:BlogPost:53322">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="profile/IvanKusalic"  title="Ivan Kusalic"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/IEglRQdE0-*EzRdTtIuIKkYoWCXwwr8mf7NyaKHdGIBzOn01ebwgvgclF7c7JyXfQavukBwg*Nuv4XXfIls2I8MVl1qpTWnb/1193824711.jpeg?xgip=0%3A0%3A1069%3A1069%3B%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="profiles/blogs/announcing-global-day-of-coderetreat-2016" _snid="6456126:BlogPost:53322">Global Day of Coderetreat 2016</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted by <a href="profile/IvanKusalic">Ivan Kusalic</a> on April 9, 2016 at 4:30pm                            <span class="reactions">
+                    <a href="profiles/blogs/announcing-global-day-of-coderetreat-2016#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="profiles/blogs/announcing-global-day-of-coderetreat-2016" data-content-id="6456126:BlogPost:53322" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    2 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                    </div>
+            </div>
+    </div>
+    <div class="xg_module_foot">
+        <ul>
+            <li class="left"><a href="profiles/blog/new" class="xg_sprite xg_sprite-add">Add a Blog Post</a></li>
+            <li class="right"><a href="profiles/blog/list">View All</a></li>        </ul>
+    </div>
+</div>
+<div class="xg_module module_photo" data-module_name="photo">
+    <div class="xg_module_head">
+        <h2>Photos</h2>
+    </div>
+    <div class="xg_module_body body_slideshow xj_slideshow_body xj_embed_container" _embedCode="&lt;embed class=&quot;xg_slideshow xj_photo_embed&quot; src=&quot;http://static.ning.com/socialnetworkmain/widgets/photo/slideshowplayer/slideshowplayer.swf?xn_version=3150304127&quot; quality=&quot;high&quot; bgcolor=&quot;#&quot;
+    width=&quot;650&quot;
+    height=&quot;510&quot;
+    allowFullScreen=&quot;true&quot;
+    allowScriptAccess=&quot;always&quot;
+    scale=&quot;noscale&quot;
+    wmode=&quot;opaque&quot;
+    FlashVars=&quot;feed_url=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2FslideshowFeed%3Fxn_auth%3Dno%26random%3D1%26mtime%3D1477380191%26x%3D4bnw4p30QIvTBEeMD2dyPZDgbOOMNreU&amp;autoplay=1&amp;loop=1&amp;hideWatermark=1&amp;hideVisit=1&amp;config_url=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2FshowPlayerConfig%3Fx%3D4bnw4p30QIvTBEeMD2dyPZDgbOOMNreU%26feed_url%3Dhttp%253A%252F%252Fcoderetreat.org%252Fphoto%252Fphoto%252FslideshowFeed%253Fxn_auth%253Dno%2526random%253D1%2526mtime%253D1477380191%2526x%253D4bnw4p30QIvTBEeMD2dyPZDgbOOMNreU%26version%3DDEP-9365%253A3cf2104_2_2_7%26theme982Version%3D55&amp;layout=within_app&amp;slideshow_title=&amp;fullsize_url=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2Fslideshow%3Ffeed_url%3Dhttp%253A%252F%252Fcoderetreat.org%252Fphoto%252Fphoto%252FslideshowFeed%253Fxn_auth%253Dno%2526random%253D1%2526mtime%253D1477380191%26back_url%3Dhttp%253A%252F%252Fcoderetreat.org%252F&quot;
+    type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;
+&lt;/embed&gt;">
+                Loading…            </div>
+                <div class="xg_module_foot">
+        <ul>
+                            <li class="left"><a href="http://coderetreat.org/photo/photo/chooseUploader" class="xg_sprite xg_sprite-add">Add Photos</a></li>
+                                        <li class="right"><a href="http://coderetreat.org/photo/photo/list">View All</a></li>
+                                <li class="right photo-facebook-share" style="display:none; margin-right:10px;" ><a target="_blank"
+                        href="http://www.facebook.com/share.php?u=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2Flist%3Ffrom%3Dfb"><img src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/icon/facebook.gif?xn_version=2156446720" alt="Facebook" /></a></li>
+                    <script>
+                        xg.addOnRequire(function () {
+                            x$('.module_photo').mouseover(function () { x$(this).find('.photo-facebook-share').show(); })
+                                    .mouseout(function () { x$(this).find('.photo-facebook-share').hide(); });
+                        });
+                    </script>
+                    </ul>
+    </div></div>
+<div id="xg_network_activity"
+    class="xg_module xg_module_activity indented_content  column_2"
+    dojotype="ActivityModule"
+    data-module_name="activity"
+    _isProfile=""
+    _isAdmin=""
+    _activityOptionsAvailable="1"
+    _columnCount="2"
+    _maxEmbedWidth="650"
+    _embedLocatorId="110/homepage/index"
+    _refreshUrl="http://coderetreat.org/activity/embed/refresh?id=110%2Fhomepage%2Findex&amp;xn_out=json"
+    _activitynum="16"
+    data-owner-name=""
+    data-excerpt-length="0"
+    data-get-items-url="http://coderetreat.org/activity/index/getActivityItems?xn_out=json"
+
+ >
+
+    <div class="xg_module_head">
+        <h2>Latest Activity</h2>
+    </div>
+    <div class="xg_module_body ">
+            <div class="xg_new_activity_items_container dy-displaynone">
+            <button class="xj-new-feed-items xg_show_activity_items">
+                <span class="xg_more_activity_arrow"></span>
+                <span class="xj-new-item-text"></span>
+            </button>
+        </div>
+        <div class="module module-feed">
+            <div id="feed-854e3197cbd80889e132a166fafabbe3" class="feed-story  xg_separator xj_activity_item" ><a href="profile/AnuarNurmakanov?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/Flg-lHiuL4dsrTVUwj5CnrEUZ4C*JmXa2-Q5ovyFc0naQs0FFaFWWZofiFzOjtTLu3W0rVNiCgKpatDeYOYUKWtuPHs0kj9H/1147672283.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/AnuarNurmakanov?xg_source=activity">Anuar Nurmakanov</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:57234?xg_source=activity">Astana CodeRetreat 2016</a> at Astana, Kazakhstan</h3><div class="rich-detail"><div class="rich-date">December 24, 2016 from 10:30am to 7pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Tue, 20 Dec 2016 14:26:18 +0000">Dec 20, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/astana-coderetreat-2016/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:57234" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/astana-coderetreat-2016/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:57234"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-d6491ffe740a92a42f37bc3ca3740e95" class="feed-story  xg_separator xj_activity_item" ><a href="profile/AdomasGreicius?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/AdomasGreicius?xg_source=activity">Adomas Greicius</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:54197?xg_source=activity">Global Day of Coderetreat 2016 - Kaunas, Lithuania</a> at KTU StartupSpace</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 6pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Mon, 07 Nov 2016 19:30:27 +0000">Nov 7, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-kaunas/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:54197" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-kaunas/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:54197"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-0973335bab2b5eb47e5fa2717c46d0ba" class="feed-story  xg_separator xj_activity_item" ><a href="profile/AltugBAltintas?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/dy3vmM5JGAON7hOWJ08JHF27*b7M2JpOfXiHBgKhhw9tHLT8eg2aLFSvzWV7uXTAXFNz-bqrjU17t-EzDmWPyY7f62*Oh-JS/1145654465.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/AltugBAltintas?xg_source=activity">Altuğ B. Altıntaş</a> posted photos</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumbs rich-thumbs-3456"><div class=" dy-content-thumb-link xg_lightborder"> <a  href="photo/coderetreat-2016-istanbul-1"><img src="http://api.ning.com/files/7j71GRa9aZKjXOQw2c4PCuL9PvICGPWJby3qDOZ5GFh2PUXn1L0S5kQggSzUYyXjBgD9A1YPRcGxbql9OkxgsFVYkLYWDS7q/IMG_0646min2.JPG?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder"> <a  href="photo/coderetreat-2016-istanbul"><img src="http://api.ning.com/files/7j71GRa9aZK94ZrkB1bYT2TcY3wTX7Qwt5bM6gW961OaTUHA4e2fy96f0GcUFHP2XOF1MG4dhntRQXsX9HlntbEFyewgid2q/IMG_0623min1.JPG?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder last-thumb"> <a  href="photo/coderetreat-2016-istanbul-2"><img src="http://api.ning.com/files/7j71GRa9aZIn-LsLUSLIFHG*d*nazFftYcc7mlgdMuvnRMHJjPZN0h*d9EMEZz1Ypt30WHuYEIPqYOJsk1D5eVgqCl9PUq1Y/IMG_0651min1.JPG?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div></div></div><div class="feed-more"><a href="photo/album/show?id=6456126%253AAlbum%253A57203&amp;xg_source=activity">3 more…</a></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Tue, 25 Oct 2016 07:39:34 +0000">Oct 25, 2016</span></div></div><div id="feed-0bfbcd89956d6684411f45c3ba5c9f2a" class="feed-story  xg_separator xj_activity_item" ><a href="profile/Arolla?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/YxYnLeciMY5c9Si-4fcR-8WCG8f-FA5mOKmMsMR-q8r6cpvINwK3x*GRnBgOuXRvAgI1tKXbRnT2PNkwthgD1UtvfQdpvUJ8/934970600.jpeg?xgip=513%3A0%3A2472%3A2472%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/Arolla?xg_source=activity">Arolla</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56871?xg_source=activity">Global Day of Coderetreat 2016 - Paris, France by Ladies of Code Paris (at Arolla)</a> at Paris 1er</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Fri, 21 Oct 2016 20:30:26 +0000">Oct 21, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-paris-france-by-ladies-of-code/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:56871" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-paris-france-by-ladies-of-code/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56871"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-bbcb1aca04d0b22ee1f553057700c92e" class="feed-story  xg_separator xj_activity_item" ><a href="profile/vittorioscibetta?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/cjKbLN5hhpAnKODmTaan3HRImioM33oPlG80Z*L5mykLoPV9R-UtpOsx-6geA0J4L2EFoTO9fMQFV71PZhY8D-6DAj0RLKQD/1240249895.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/vittorioscibetta?xg_source=activity">vittorio scibetta</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumb"><a  href="xn/detail/6456126:Event:55828?xg_source=activity" ><img src="http://api.ning.com/files/G834pRjVCIGrt0Jzs2vKZoRjc6klkNqwtO9Uxqmj*MInCXdwOCkyKlVEzkl2k-85pH-U6oh06H9LNTDnB2QHniMhuiLt1m-H/ExonarLocation.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:55828?xg_source=activity">Global Day of Coderetreat 2016 - Newbury, UK</a> at Exonar</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 to October 23, 2016</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Fri, 21 Oct 2016 17:38:48 +0000">Oct 21, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-newbury-uk/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:55828" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-newbury-uk/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:55828"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-5c7118f54e41e234c0209dfa2d95d5ff" class="feed-story  xg_separator xj_activity_item" ><a href="profile/SoftwareCraftsmanshipGC?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/G834pRjVCIGdyI1YyWc2rZHqgKFykFrCpM5Rr-HOrzPLfvsz8P4WPqWWgTb*rBTBZigbM5BN7zctaW32v9ooQurjmsPxkiQ2/1242980968.png?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/SoftwareCraftsmanshipGC?xg_source=activity">Software Craftsmanship GC</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56782?xg_source=activity">Global Day of Code Retreat - Las Palmas de Gran Canaria, Spain</a> at Edificio IncubeGC en Infecar</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Fri, 21 Oct 2016 14:18:47 +0000">Oct 21, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-code-retreat-las-palmas-de-gran-canaria-spain#comments" data-page-type="main" data-contentid="6456126:Event:56782" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-code-retreat-las-palmas-de-gran-canaria-spain" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56782"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-7f2aa764352f90357051c62064a72b3f" class="feed-story  xg_separator xj_activity_item" ><a href="profile/SergeyKudelin?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/G834pRjVCIFHprhZ5ID*G6NNi0wv7mvr1W6hNdqvu6nTkTBuHQS1EwBKPfFdQOJknTQet0fulNYzqKPbW9oPbeh3ZILiFMsp/1242960977.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/SergeyKudelin?xg_source=activity">Sergey Kudelin</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56656?xg_source=activity">Global Day of Coderetreat in Ukhta</a> at Russia, Ukhta</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 11am to 5pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Fri, 21 Oct 2016 08:09:27 +0000">Oct 21, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/coderetreat-day-in-ukhta/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:56656" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/coderetreat-day-in-ukhta/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56656"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-e7369fa34db35e82e502f99483c84e7f" class="feed-story  xg_separator xj_activity_item" ><a href="profile/Arolla?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/YxYnLeciMY5c9Si-4fcR-8WCG8f-FA5mOKmMsMR-q8r6cpvINwK3x*GRnBgOuXRvAgI1tKXbRnT2PNkwthgD1UtvfQdpvUJ8/934970600.jpeg?xgip=513%3A0%3A2472%3A2472%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/Arolla?xg_source=activity">Arolla</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumb"><a  href="xn/detail/6456126:Event:53966?xg_source=activity" ><img src="http://api.ning.com/files/QYd7mNwhlPQRwyBIbM1qcNdC2MYckby2Fs*SyJIfFfnGhhX3DJw7QPZIDZ7Iqh-UoFBsvkzZwjzyoMAvdWC7AICuAkiL9AZd/05_twitter_kc_pair_prog.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:53966?xg_source=activity">Global Day of Coderetreat 2016 - Paris, France</a> at AROLLA</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Wed, 19 Oct 2016 16:50:58 +0000">Oct 19, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-paris-france/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:53966" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-paris-france/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:53966"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-231f84d1ddb5078780773cfbed6ba5e8" class="feed-story  xg_separator xj_activity_item" ><a href="profile/SergeyKudelin?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/G834pRjVCIFHprhZ5ID*G6NNi0wv7mvr1W6hNdqvu6nTkTBuHQS1EwBKPfFdQOJknTQet0fulNYzqKPbW9oPbeh3ZILiFMsp/1242960977.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/SergeyKudelin?xg_source=activity">Sergey Kudelin</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56656?xg_source=activity">Coderetreat Day in Ukhta</a> at Ukhta</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 11am to 5pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Wed, 19 Oct 2016 11:27:51 +0000">Oct 19, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/coderetreat-day-in-ukhta/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:56656" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/coderetreat-day-in-ukhta/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56656"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-7bd813765a2c49b396288fdfa622b1e2" class="feed-story  xg_separator xj_activity_item" ><a href="profile/ArleneParaiso?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/hIm8akmQXcHvZG0WcODIgEpRiSDKmI4nHhjQ0*YPlhZ28ATDT8L6b0mb841uh7AGvnODen*r4TeYhtdsXrvviISTMPCU6pOk/1146930062.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/ArleneParaiso?xg_source=activity">Arlene Paraiso</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumb"><a  href="xn/detail/6456126:Event:54267?xg_source=activity" ><img src="http://api.ning.com/files/yq-y3g9ashyiVqFVSgGW1PcY8pYjJeOGu6-MtEYG93m5aU1TaC7cADzq8Fz1E3gI56O5SIVcLlIRqhonFttsIXRlFmRz2qZ3/pluralsightsquarelogo1446140473122.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:54267?xg_source=activity">Global Day of Code Retreat - San Diego, USA</a> at Symphony Towers - Suite #1800 Pluralsight Office</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Tue, 18 Oct 2016 23:55:31 +0000">Oct 18, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-code-retreat-hosted-by-pluralsight-san-diego/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:54267" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>1</span>
+                    <span class='details'>Comment</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-code-retreat-hosted-by-pluralsight-san-diego/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:54267"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-748979146a7145120cadab5a136ef06c" class="feed-story  xg_separator xj_activity_item" ><a href="profile/VladKorolev?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/j5WbzQSo3h9ubjGddyfsPZkhI3DS6TsvBQqb3B06JZdthCe7DyZ7qnZ4RlZNz-DyvL4SDgrSKxvfqiVjj7b98IYNh5gBlD3j/1086436577.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/VladKorolev?xg_source=activity">Vlad Korolev</a> added a discussion to the group <a href="xn/detail/6456126:Group:901?xg_source=activity">Facilitators</a></span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumb"><a  href="xn/detail/6456126:Group:901?xg_source=activity" ><img src="http://api.ning.com/files/tXC9NVcibxBrQW7y0F8i8zLWw*tuZMoWXP10eCrY-GD-XTqQLNOECsXEssfykcwMMIkQlNYj6*SNa1G2QvZztmLMPPbNFlOu/clipboardwhistlemd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="xn/detail/6456126:Topic:56807?xg_source=activity">So quiet this year</a></h3></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Tue, 18 Oct 2016 19:10:56 +0000">Oct 18, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="http://coderetreat.org/group/facilitators/forum/topics/so-quiet-this-year#comments" data-page-type="main" data-contentid="6456126:Topic:56807" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>1</span>
+                    <span class='details'>Comment</span>
+                </span>
+                </a>
+                            <a href="http://coderetreat.org/group/facilitators/forum/topics/so-quiet-this-year" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Topic:56807"
+                        data-content-type="Topic"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-264c2deea1c74f18f255c96e1efb8100" class="feed-story  xg_separator xj_activity_item" ><a href="profile/MichalGruca800?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/jSNhDxbJzkhc3Af49z*bOMiOxMWSM9wTLmUt274eN68PnhuhF2wq4Ow-8487S0Jn9NLWpSZpt7jk81JWUSOzju*UpLHwAqeL/1237702604.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/MichalGruca800?xg_source=activity">Michał Gruca</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:55321?xg_source=activity">Global Day of Coderetreat 2016 - Gdansk, Poland</a> at Gdańsk, Olivia 6, 7 floor</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 10am to 6pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Tue, 18 Oct 2016 12:45:38 +0000">Oct 18, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-gdansk-poland#comments" data-page-type="main" data-contentid="6456126:Event:55321" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-gdansk-poland" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:55321"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-29be0e1daee0cd79e876b952bb518966" class="feed-story  xg_separator xj_activity_item" ><a href="profile/TomasLatal?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/pezQEPsid2jOFrfpKK10kSfF1IIWJ6dz1UVYKAWCy0LoollHcwn*mATproIESh2LmZn-Iv*BqibPcADXSJ1MHYNsqOKTBiaB/1145763070.png?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/TomasLatal?xg_source=activity">Tomas Latal</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56049?xg_source=activity">Global Day of Coderetreat 2016 - Olomouc, Czech Republic</a> at Pr.F Univerzity Palackeho</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 8am to 5pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Tue, 18 Oct 2016 10:04:25 +0000">Oct 18, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-olomouc-czech-republic#comments" data-page-type="main" data-contentid="6456126:Event:56049" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-olomouc-czech-republic" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56049"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-927b3334e38625dd9af80ef72967dcc6" class="feed-story  xg_separator xj_activity_item" ><a href="profile/NexeoFinance?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/G834pRjVCIF7Eyj0v5ZjuoXPg*UxU06U-ztS06OChwf79RACUo0NCXU-nSnqMxzV5Yx8KoU8SBOjqEtNuyqzHI2Apfk3JqFI/1242961980.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/NexeoFinance?xg_source=activity">Nexeo Finance</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56627?xg_source=activity">Global Day of Coderetreat 2016 - Paris, France</a> at Paris</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Tue, 18 Oct 2016 08:11:44 +0000">Oct 18, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-paris-france-1/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:56627" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-paris-france-1/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56627"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    1 <span class='details'>Like</span>
+                </a>
+                            </div>
+            </div><div id="feed-ca722a822513a205337fd301bd0a76c2" class="feed-story  xg_separator xj_activity_item" ><a href="profile/JasonLPerry?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/x93ABI42iFUQR4lJxPy9DwwtaU*tnPxDvJssQnOZlWKkVbXDCqqb3QFYg4y93i*RmX6kTtyLO9TC5sRhmB27E0z2vH1lguJF/1144092362.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/JasonLPerry?xg_source=activity">Jason L Perry</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumb"><a  href="xn/detail/6456126:Event:56559?xg_source=activity" ><img src="http://api.ning.com/files/G834pRjVCIEnk1MxTbK43NuBVFjxBYBuETAaOvxGapWhqRbvZxufuTM9pLtpaqoyoRIx9DlXpiitYEMNrLIgGgVx-WKZN88H/highres_433364832.jpeg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56559?xg_source=activity">Global Day of Coderetreat 2016 - St Petersburg, Florida</a> at The Iron Yard</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 4pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Tue, 18 Oct 2016 03:05:23 +0000">Oct 18, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-coderetreat-2016-st-petersburg-florida/showAttendees?status=not_attending#comments" data-page-type="main" data-contentid="6456126:Event:56559" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-coderetreat-2016-st-petersburg-florida/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56559"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-af7e1af3740621ce207ff7473f32a2f8" class="feed-story  xg_separator xj_activity_item" ><a href="profile/LAFK?xg_source=activity"><span class="dy-avatar dy-avatar-48 feed-avatar"><img  class="photo " src="http://api.ning.com:80/files/1Q*fTOyGxIDMDINJ9zJetk-rHckaMS5G6B03*YoyC7bWKJiVkjwzyUcDvsytYqj-2JDMGPoR*4wX73PsEVW68*2n*2QBGtzl/1046061217.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a><span class="feed-story-header dy-clearfix"><a href="profile/LAFK?xg_source=activity">LAFK</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumb"><a  href="xn/detail/6456126:Event:56554?xg_source=activity" ><img src="http://api.ning.com/files/G834pRjVCIELFfCLvcwXFfpA*JOMTAbZz*tavFwM2oLpT2Y4HFSi8vv7-ftV6JAonIIdrR6epXbe4CMvc*kIEt5YxuQefLM1/sckrk_cr.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="xn/detail/6456126:Event:56554?xg_source=activity">Global Day of Code Retreat Krak&oacute;w 2016!</a> at Krak&oacute;w, Buma Quattro C</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Mon, 17 Oct 2016 19:29:00 +0000">Oct 17, 2016</span></div>                <div class="feed-reactions">
+                                    <a href="events/global-day-of-code-retreat-krak-w-2016#comments" data-page-type="main" data-contentid="6456126:Event:56554" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="events/global-day-of-code-retreat-krak-w-2016" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:56554"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?"
+                        data-page-type="main">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div>        </div>
+    </div>
+
+    <div class="xg_module_foot">
+                    <button class="xj_see_more xg_show_activity_items">
+                More...            </button>
+                <ul class="feed_foot_icons">
+                    <li class="left"><a class="xg_icon xg_icon-rss" href="activity/log/list?fmt=rss">RSS</a></li>
+         </ul>
+        </div></div>
+&nbsp;</div>
+</div>
+&nbsp;</div>
+<div _maxEmbedWidth="320" _columnCount="1"  class='xg_1col last-child'>
+&nbsp;</div>
+</div>
+<script>xg_quickadd_forceReload = true /* enable the quick add refreshing. */ </script>
+
+                        </div>
+                    </div>                
+                    <div class="xg_column xg_span-7 xg_last" id="column2">
+                        <div class="xj_user_info">    <div class="xg_module" id="xg_module_account">
+        <div class="xg_module_body xg_signup xg_lightborder">
+            <p>Welcome to<br />Coderetreat</p>
+                        <p class="last-child"><big><strong><a href="http://coderetreat.org/main/authorization/signUp?">Sign Up</a></strong></big><br/>or <a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2F" style="white-space:nowrap">Sign In</a></p>
+                            <div class="xg_external_signup xg_lightborder xj_signup">
+                    <p class="dy-small">Or sign in with:</p>
+                    <ul class="providers">
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F%26source%3DsignUp%26close%3D1%26provider%3Dfacebook', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F%26source%3DsignUp%26close%3D0%26provider%3Dfacebook">
+                            <span class="mini-service mini-service-facebook" title="Facebook"></span>
+                    </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F%26source%3DsignUp%26close%3D1%26provider%3Dtwitter', null, 'width=860,height=440,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F%26source%3DsignUp%26close%3D0%26provider%3Dtwitter">
+            <span class="mini-service mini-service-twitter" title="Twitter"></span>
+        </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F%26source%3DsignUp%26close%3D1%26provider%3Dyahoo', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F%26source%3DsignUp%26close%3D0%26provider%3Dyahoo">
+            <span class="mini-service mini-service-yahoo" title="Yahoo!"></span>
+        </a></li>
+    </ul>
+                </div>
+                    </div>
+    </div>
+</div>
+                        <div class="xj_sidebar_content">    <div class="xg_module module_events" data-module_name="events">
+    <div class="xg_module_head">
+        <h2>Events</h2>
+    </div>
+    <div class="xg_module_foot">
+        <ul>
+                            <li class="left"><a href="events/event/new?cancelTarget=http%253A%252F%252Fcoderetreat.org%252F" class="xg_sprite xg_sprite-add">Add an Event</a></li>
+                        </ul>
+    </div>
+</div>
+<div class="xg_module module_groups">
+    <div class="xg_module_head">
+        <h2>Groups</h2>
+    </div>
+            <div class="xg_module_body body_list">
+                            <ul class="clist">
+                        <li class="xg_lightborder ">
+        <div class="ib">
+                        <a href="group/facilitators"><img  src="http://api.ning.com:80/files/tXC9NVcibxBrQW7y0F8i8zLWw*tuZMoWXP10eCrY-GD-XTqQLNOECsXEssfykcwMMIkQlNYj6*SNa1G2QvZztmLMPPbNFlOu/clipboardwhistlemd.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="Facilitators" /></a>
+        </div>
+        <div class="tb">
+            <h3><a href="group/facilitators">Facilitators</a></h3>
+            <p class="xg_lightfont">218 members</p>
+                <span class="reactions">
+                                <a href="group/facilitators" data-content-id="6456126:Group:901" data-content-type="Group" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    14 <span class='details'>Likes</span>
+                </a>
+                </span>
+        </div>
+    </li>    <li class="xg_lightborder ">
+        <div class="ib">
+                        <a href="group/organizers-hosts"><img  src="http://api.ning.com:80/files/7uH9-Cl0KpQdomnxYhydiaUG3pnz60-2Iqsij1QBtTPy5UQPglfaawIcNQFmNNYCasz95-iLFAVkNzP76U8jtNh49jh5onjp/engineermd.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="Organizers/Hosts" /></a>
+        </div>
+        <div class="tb">
+            <h3><a href="group/organizers-hosts">Organizers/Hosts</a></h3>
+            <p class="xg_lightfont">124 members</p>
+                <span class="reactions">
+                                <a href="group/organizers-hosts" data-content-id="6456126:Group:801" data-content-type="Group" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    6 <span class='details'>Likes</span>
+                </a>
+                </span>
+        </div>
+    </li>                </ul>
+                            <ul class="clist">
+                        <li class="xg_lightborder last-child">
+        <div class="ib">
+                        <a href="group/website-admins"><img  src="http://api.ning.com:80/files/tnxYQrTbjFoE1iBJL1BNZZFjJQvFewVZkbuSkoflVljBLO3n*dpAB*dvmBsAlUfPaXEc-WfWEkxuiSzQNoxn7Emp-k*gjfd4/redrocketmd.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="Website Admins" /></a>
+        </div>
+        <div class="tb">
+            <h3><a href="group/website-admins">Website Admins</a></h3>
+            <p class="xg_lightfont">8 members</p>
+                    </div>
+    </li>                </ul>
+                    </div>
+                <div class="xg_module_foot">
+                <ul>
+                                            <li class="right"><a href="groups">View All</a></li>
+                                    </ul>
+            </div>
+        </div>
+<div class="xg_module module_members">
+    <div class="xg_module_head">
+        <h2>Members</h2>
+    </div>
+    <div class="xg_module_body body_small" data-module_name="members">
+    <ul class="clist">
+        <li>
+        <span class="xg_avatar"><a class="fn url" href="profile/PeterKoller"  title="Peter Koller"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/GZs8qdvnOuEsMhLuAqcLoGxUgKIsaBwfN9N4MLkFD4iNEluYEN6nwNoZLVNCychTwkVnI-N9P*bqKtR8eyoGqS4IyAMES4yr/1250091475.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/wanglei"  title="王磊"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/ow6WJwgqPYUtlIltvEfc9G3PODkRBG5nre0NQX1Mz-DyggfipClbPlFjKt6eXYLehuPw4VakGuyrImIKMindWYyKFjrwFq6Y/1249936641.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/jixiang"  title="吉翔"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/hbW5*gkw2MiglWo58ULQIwkUMR87ZQkm02liB2jMibvHATH*eLn3tXHCSui7Ae*zVFYABcJ8f2IghKzUeC7GMlQ8Dx4ZM*Rz/1247660319.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/DanielKirmse"  title="Daniel Kirmse"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/tELt8V-QL1AVH8skdssldaD19*xA8D8hQjGOHZtRWBaHp8atn60W4B4JLMeKbrydQ*i8doU594FZyoqTRSZNHH9Fn5AhMgnP/1247275352.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/HoussemGasmi"  title="Houssem Gasmi"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/dM9WbuK-4RZS*w00fd6QXTf-SuNtt7K30T1MBxD8y5E*chyOywvNLX5DP9U0dloOKVTXubXdBQwKKbEYs-yEWsj17rKp0rw5/1247376759.jpeg?xgip=0%3A67%3A234%3A234%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/NitinSharma"  title="Nitin Sharma"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/LacygCl0qQK*PP*-ZTwdIQ33NLhz0ZrvSKYCIwxMAM3*TSWHEQXKB1*HF5jC2wQXkFBKZxQnKVD6xC6LuT9e1texKdpfsqZi/1246689457.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/JackDinh"  title="Jack Dinh"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/V0BiFi-tkRsI0N0liKvrcNs4Kjd3Uvr6o1edcvfDWbp-TXi8u-Kz*M*dsUxxdBW9L0ai2-FLygFnqxC3rOhHEfC3thmjB52w/1246515666.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/MartijnDurnez"  title="Martijn Durnez"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/noNLDbauUJBO20387PTateG9fFOMMe7NOAeEDs9zqN8Nb1*Xg8uNmR2e576UkvS7OWnEf9fb1ku4eS4J2fb-WwHz*Hcp7Q8E/1246241749.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/TkachBogdan"  title="Tkach Bogdan"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/3QCA0XbBBMwtNrt6bjgCubk*2KxBWdd3G0pjaemm8FihUc1BD9-OFf6JaVLZbTrWzk8FQo2UXXTWg4MWQ-d*nwOiaDaIsBJ7/1245535021.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/AndreaCappalunga"  title="Andrea Cappalunga"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/2DwxeRmxZZEmkb04b5ZbIeqg8q5JCN2GNT7l3U7bCuxcBg8pl4yeBQcZuzAVkFLSMpvCDZgZuXIdCfb91JXbtoQrI7r6G2j*/1245343273.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/NkululekoMakhubu"  title="Nkululeko Makhubu"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/2DwxeRmxZZEBiwT4sJsyH20OnHi7jzT01r0zkXR97HZjnu9grQWrBnFLwt1pLLDokoc2Jp-ziWQ*1OAh5OmV4Xs*2wkun8QE/1245310040.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+<li>
+        <span class="xg_avatar"><a class="fn url" href="profile/NathanSyfrig"  title="Nathan Syfrig"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/YmEteape79sISUZoeVAMgV3yy2c*zlKkJgQtBiQRSRloSWrOwGdxe8NA71ejn5ZVmpNQhFA59o4BYeOPelrRMh9lcTjqpTjv/1245246670.jpeg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span></li>
+
+    </ul>
+</div>
+<div class="xg_module_foot">
+    <ul>
+                    <li class="right"><a href="profiles/members/index.html">View All</a></li>
+            </ul>
+</div>
+</div>    <div class="xg_module module_forum indented_content" data-module_name="forum">
+            <div class="xg_module_head">
+            <h2>Forum</h2>
+        </div>
+        <div class="xg_module_body">
+                <div class="vcard">
+                    <div class="author"><span class="xg_avatar"><a class="fn url" href="profile/AliaksandrKavaliou"  title="Aliaksandr Kavaliou"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/6XUuZcXwzdrcpTNBOL-FsLAml7SiWbAkMPGoLaS05xy60lEqji6go-M-X0Ngc9kPQPOU4B80yDZDPeWsJKb06Y5KcY0jwkyy/1208128301.jpeg?width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span></div>
+                <div class="topic indent">
+            <h3>
+                <a href="forum/topics/scratchretreat" _snid="6456126:Topic:53712">ScratchRetreat</a>
+                            </h3>
+                        <p class="dy-small xg_lightfont indent ">
+                    Started by Aliaksandr Kavaliou May 18, 2016.    <span class="reactions">
+                    <a href="forum/topics/scratchretreat#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Replies</span></a>
+                                <a href="forum/topics/scratchretreat" data-content-id="6456126:Topic:53712" data-content-type="Topic" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+            </p>
+            <p class="indent">Hello, Dear Codretreat Founders!I'm one of the team of the volunteer's Scratch educational program E-Kids from EPAM Systems. We are excited to share the experience of Coderetreat adaptation for…<a href="forum/topics/scratchretreat" class="xj_expandable continue-link">Continue</a></p><p>Tags: <a href="forum/topic/listForTag?tag=%2523ScratchRetreat">#ScratchRetreat</a></p>        </div>
+    </div>
+    <div class="vcard">
+                    <div class="author"><span class="xg_avatar"><a class="fn url" href="profile/ErikHarperink"  title="Erik Harperink"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/OHyYCm7KjoDSOdXWE6WqIM5QJOjz3T5-1CNucL*vs6g7N9K6*QICF*ronbcnSA5cdUQWtekU2u-ndpRMGgZ4x4Hzoy7nBxk4/900794339.jpeg?width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span></div>
+                <div class="topic indent">
+            <h3>
+                <a href="forum/topics/events-coming-up-in-amsterdam" _snid="6456126:Topic:44448">Events coming up in Amsterdam ?</a>
+                            </h3>
+                        <p class="dy-small xg_lightfont indent ">
+                    Started by Erik Harperink. <a href="forum/topics/events-coming-up-in-amsterdam/showLastReply">Last reply</a> by Erik Harperink May 17, 2016.    <span class="reactions">
+                    <a href="forum/topics/events-coming-up-in-amsterdam#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">2 <span class='details'>Replies</span></a>
+                                <a href="forum/topics/events-coming-up-in-amsterdam" data-content-id="6456126:Topic:44448" data-content-type="Topic" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+            </p>
+            <p class="indent">Hello all,Will there be any events being organised in Amsterdam ? I have taken part twice in the past years. Conway's Game of Life is still intriguing to me.There must be other mathematical puzzles…<a href="forum/topics/events-coming-up-in-amsterdam" class="xj_expandable continue-link">Continue</a></p>        </div>
+    </div>
+    <div class="vcard">
+                    <div class="author"><span class="xg_avatar"><a class="fn url" href="profile/ManuelDrieschmanns"  title="Manuel Drieschmanns"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/eGJdezr2p4W6Jktl6KvAYCI7lQsNi1e7I2BsMYnuJKfep*0vgduCaXtTql-Bt0a0qe-s9u-y1hJsSMvRvWZamE8zdPFmuC2u/1133216217.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span></div>
+                <div class="topic indent">
+            <h3>
+                <a href="forum/topics/global-day-of-coderetreat-2015-which-was-your-favorite-constraint" _snid="6456126:Topic:51240">Global Day of Coderetreat 2015 - Which was your favorite constraint?</a>
+                            </h3>
+                        <p class="dy-small xg_lightfont indent ">
+                    Started by Manuel Drieschmanns Nov 21, 2015.    <span class="reactions">
+                    <a href="forum/topics/global-day-of-coderetreat-2015-which-was-your-favorite-constraint#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Replies</span></a>
+                                <a href="forum/topics/global-day-of-coderetreat-2015-which-was-your-favorite-constraint" data-content-id="6456126:Topic:51240" data-content-type="Topic" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+            </p>
+            <p class="indent">Hi,please vote your favorite constraint at <a rel=nofollow href="https://drieschmanns.wordpress.com" target="_blank">https://drieschmanns.wordpress.com</a>. I enjoed "no conditional" constraint most and I regard…<a href="forum/topics/global-day-of-coderetreat-2015-which-was-your-favorite-constraint" class="xj_expandable continue-link">Continue</a></p><p>Tags: <a href="forum/topic/listForTag?tag=Coderetreaet">Coderetreaet</a>, <a href="forum/topic/listForTag?tag=of">of</a>, <a href="forum/topic/listForTag?tag=Day">Day</a>, <a href="forum/topic/listForTag?tag=Global">Global</a>, <a href="forum/topic/listForTag?tag=Constraits">Constraits</a></p>        </div>
+    </div>
+    <div class="vcard">
+                    <div class="author"><span class="xg_avatar"><a class="fn url" href="profile/ManuelDrieschmanns"  title="Manuel Drieschmanns"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/eGJdezr2p4W6Jktl6KvAYCI7lQsNi1e7I2BsMYnuJKfep*0vgduCaXtTql-Bt0a0qe-s9u-y1hJsSMvRvWZamE8zdPFmuC2u/1133216217.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span></div>
+                <div class="topic indent">
+            <h3>
+                <a href="forum/topics/article-about-how-to-arrange-a-coderetreat" _snid="6456126:Topic:50671">Article about how to arrange a coderetreat</a>
+                            </h3>
+                        <p class="dy-small xg_lightfont indent ">
+                    Started by Manuel Drieschmanns Nov 16, 2015.    <span class="reactions">
+                    <a href="forum/topics/article-about-how-to-arrange-a-coderetreat#comments" data-page-type="main" class="xg_sprite xg_sprite-comment">0 <span class='details'>Replies</span></a>
+                                <a href="forum/topics/article-about-how-to-arrange-a-coderetreat" data-content-id="6456126:Topic:50671" data-content-type="Topic" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?" data-page-type="main" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+            </p>
+            <p class="indent">Hi,after I facilitated the Global Day of Coderetreat @ Bern I just wrote an article about how to arrange (host, facilitate) a code retreat. The article is written in german, so if you understand…<a href="forum/topics/article-about-how-to-arrange-a-coderetreat" class="xj_expandable continue-link">Continue</a></p><p>Tags: <a href="forum/topic/listForTag?tag=Faciliate">Faciliate</a>, <a href="forum/topic/listForTag?tag=Host">Host</a></p>        </div>
+    </div>
+        </div>
+            <div class="xg_module_foot">
+            <ul>
+                                    <li class="left"><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopic%2Fnew%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopic%2Fnew%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252F" class="xg_sprite xg_sprite-add xj_new_topic_link">Add a Discussion</a></li>
+                                <li class="right"><a href="forum.1">View All</a></li>
+            </ul>
+        </div>    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div id="xg_foot">
+                <div id="xg_footcontent">
+                    <div class="xj_foot_content"><p class="left">
+    © 2017             &nbsp; Created by <a href="xn/detail/u_128952ghvkcvj">corey haines</a>.            &nbsp;
+    Powered by<a class="poweredBy-logo" href="https://www.ning.com/" rel="dofollow"><img class="poweredbylogo" width="87" height="15" src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/Ning_MM_footer_wht@2x.png?xn_version=242216045" title
+="Ning Website Builder" alt="Website builder | Create website | Ning.com" target="_blank"></a>    </p>
+    <p class="right xg_lightfont">
+                    <a href="main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fcoderetreat.org%2F">Terms of Service</a>
+            </p>
+</div>
+                </div>
+            </div>
+			<div id="xg_ad_below_footer" class="xg_ad xj_ad_below_footer dy-displaynone">
+				
+			</div>
+        </div>
+    </div>
+    <div class="xj_after_content"><div id="xj_baz17246" class="xg_theme"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use Coderetreat.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="xn_resources/widgets/index/gfx/jstrk_off.gif" alt="" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script>if(window.bzplcm)window.bzplcm.ts('jb')</script><script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=2765273374"></script>        <script>
+            var sources = ["http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.autoResize.js?xn_version=201701120951","https:\/\/www.google.com\/recaptcha\/api.js","http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.jsonp.min.js?xn_version=1071124156","http:\/\/api.ning.com:80\/files\/-q6tvS*EPsKouV2no1yS1Z44orlQXrgrn6cdJ97JZM9VH4co81cvbscnFg1OIeCEAERmoD0shDB*lmRNzNJ6T8IsQXkDhnlA\/set_common_min.js?r=1483433098","http:\/\/api.ning.com:80\/files\/DBD4PE5EidX8bMye8TF3Vgj*wiN1CMUqlGOsiUfmbWhad9XqIDQvhcK9YvdKTfykhVIjZ5Y8bMTz5GvWMwpWLXWeJZt1vhvK\/set_sidebar_u_min.js?r=1406592884","http:\/\/api.ning.com:80\/files\/-q6tvS*EPsJob*Mm4E3ZoqrG7lnqh9rH5EkG-Husl0QhDcF0BIHiquUnYCvk0x*FIDFv4Rg*x6vGWTh22S9asd69mI3tdrJh\/set_mainindeinde_u_min.js?r=1483433324"];
+            var numSources = sources.length;
+            var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            var onloadFunctionsObj = {};
+
+            var createScriptTagFunc = function(source) {
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                                var currentOnLoad = function() {xg._loader.onLoad(source);};
+                if (script.readyState) { //for IE (including IE9)
+                    script.onreadystatechange = function() {
+                        if (script.readyState == 'complete' || script.readyState == 'loaded') {
+                            script.onreadystatechange = null;
+                            currentOnLoad();
+                        }
+                    }
+                } else {
+                   script.onerror = script.onload = currentOnLoad;
+                }
+
+                script.src = source;
+                node.appendChild(script);
+            };
+
+            for (var i = 0; i < numSources; i++) {
+                xg._loader.loading(sources[i]);
+                createScriptTagFunc(sources[i]);
+            }
+        </script>
+    <script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2017-01-29T08:39:47+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201701120951'; // DEP-9365:3cf2104 33
+djConfig.parseWidgets = false;
+</script>
+<script>if(window.bzplcm)window.bzplcm.ts('ja')</script><script>window.bzplcm.add({"app":"coderetreat-community","user":null,"l_t":"homepage","mcr":4,"mct":4});</script>    <script type="text/javascript">
+        xg.token = '';
+xg.canTweet = false;
+xg.cdnHost = 'static.ning.com';
+xg.version = '201701120951';
+xg.useMultiCdn = true;
+xg.staticRoot = 'socialnetworkmain';
+xg.xnTrackHost = "coll.ning.com";
+    xg.cdnDefaultPolicyHost = 'static';
+    xg.cdnPolicy = [];
+xg.global = xg.global || {};
+xg.global.currentMozzle = 'main';
+xg.global.userCanInvite = false;
+xg.global.requestBase = '';
+xg.global.locale = 'en_US';
+xg.num_thousand_sep = ",";
+xg.num_decimal_sep = ".";
+(function() {
+    dojo.addOnLoad(function() {
+        if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+            });
+            xg._loader.onLoad('xnloader');
+    })();    </script>
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
+<script>if(window.bzplcm)window.bzplcm.ts('he')</script>
+</div>
+</body>
+</html>

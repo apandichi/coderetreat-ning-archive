@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>François Perron&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/FrancoisPerron</link>
+        <pubDate>Sun, 29 Jan 2017 12:07:23 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:07:23 +0000</lastBuildDate>
+        <image>
+            <title>François Perron&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/FrancoisPerron</link>
+            <url>http://api.ning.com:80/files/j-DiiE-nbb-0q5UnKfPp1-9y7VvtbT2zJy89oCHGtMyLVwppTuecmWOdwFe4X8T*bkBh9D*cvbK4LSB0*eYMy59jTjGMqi7C/1093456002.png?xgip=0%3A0%3A289%3A289%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e00000000110eb98e038ae922fac022d6</guid>
+               <title>François Perron posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:41488?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/FrancoisPerron?xg_source=activity">Fran&ccedil;ois Perron</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:41488?xg_source=activity">Global Day of Coderetreat 2014 - Montr&eacute;al, Qc, Canada</a> at Aire ouverte du Pavillon Judith-Jasmin de l&#039;UQAM</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 8am to 4pm</div><div class="rich-excerpt">Global Day of Coderetreat in Montréal!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:41488?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 13 Nov 2014 17:56:44 +0000</pubDate>
+               </item>    </channel>
+</rss>

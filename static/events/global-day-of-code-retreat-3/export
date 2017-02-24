@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46425
+DTSTAMP:20170129T121417Z
+SUMMARY:Global Day of Coderetreat 2015 - Ashburn, VA, USA
+DESCRIPTION:This will be a Legacy Code Retreat, hosted by BTI-360. Se
+ e the EventBrite page for details or to register\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-code-retreat-3
+DTSTART:20151114T080000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:BTI360
+WEBSITE:https://www.eventbrite.com/e/global-day-of-coderetreat-tickets
+ -18856883446
+URL:https://www.eventbrite.com/e/global-day-of-coderetreat-tickets-188
+ 56883446
+CONTACT:
+ORGANIZER;CN="Andrew Wagner":http://coderetreat.org/profile/AndrewWagn
+ er
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew W
+ agner":http://coderetreat.org/profile/AndrewWagner
+END:VEVENT
+END:VCALENDAR

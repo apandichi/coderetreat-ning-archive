@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54340
+DTSTAMP:20170129T112513Z
+SUMMARY:Global Day of Coderetreat 2016 - Minsk, Belarus
+DESCRIPTION:GDCR16 in Minsk, Belarus If you have any questions, please
+  contact: \nemail: sergey.sergyenko@gmail.com\nskype: sergey.sergyenk
+ o\n\nFor more information visit http://coderetreat.org/events/global-d
+ ay-of-coderetreat-2016-minsk-belarus
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:TBD:
+WEBSITE:
+URL:
+CONTACT:+375-29-5537812
+ORGANIZER;CN="Sergey Sergyenko":http://coderetreat.org/profile/SergeyS
+ ergyenko
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nikolay 
+ Cherevatenko":http://coderetreat.org/profile/NikolayCherevatenko
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sergey S
+ ergyenko":http://coderetreat.org/profile/SergeySergyenko
+END:VEVENT
+END:VCALENDAR

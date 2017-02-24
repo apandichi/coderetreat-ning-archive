@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+<head data-layout-view="default" class="xj_layout_head">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5W4WQ');</script>
+<!-- End Google Tag Manager -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Code Retreat Roundup: GitHub Toolbox - Coderetreat</title>
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+    <link rel="SHORTCUT ICON" href="../../favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Original post can be found at http://seesparkbox.com/foundry/code_retreat_roundup_github_toolbox
+
+Last Saturday, Rob and I went down to Cincinnati for the Glob…" />
+<meta name="title" content="Code Retreat Roundup: GitHub Toolbox" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://coderetreat.org/profiles/blogs/code-retreat-roundup-github-toolbox" />
+<meta property="og:title" content="Code Retreat Roundup: GitHub Toolbox" />
+<link rel="image_src" href="http://seesparkbox.com/uploads/article_uploads/111209-Code-Retreat-Toolkit.jpg" />
+<script type="text/javascript">
+    djConfig = { baseScriptUri: 'http://coderetreat.org/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/6456126?default=6456126&width=64&height=64","url":"http:\/\/coderetreat-community.ning.com","domains":["coderetreat.org"],"online":true,"privateSource":true,"id":"coderetreat-community","appId":"6456126","description":"","name":"Coderetreat","owner":"128952ghvkcvj","createdDate":"2011-11-05T02:05:01.167Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":5};
+        (function(){
+            if (!window.ning) { return; }
+
+            var age, gender, rand, obfuscated, combined;
+
+            obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+            if (obfuscated) {
+                var offset = 100000;
+                obfuscated = parseInt(obfuscated[1]);
+                rand = obfuscated / offset;
+                combined = (obfuscated % offset) ^ rand;
+                age = combined % 1000;
+                gender = (combined / 1000) & 3;
+                gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+                ning.viewer = {"age":age,"gender":gender};
+            }
+        })();
+
+        if (window.location.hash.indexOf('#!/') == 0) {
+        window.location.replace(window.location.hash.substr(2));
+    }
+    window.xg = window.xg || {};
+xg.captcha = {
+    'shouldShow': false,
+    'siteKey': '6Ldf3AoUAAAAALPgNx2gcXc8a_5XEcnNseR6WmsT'
+};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg.addOnFacebookLoad = function (f) { xg.addOnFacebookLoad.functions.push(f); };
+xg.addOnFacebookLoad.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) { this.p++; },
+    onLoad: function(set) {
+        this.p--;
+        if (this.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
+        }
+    }
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
+}
+xg._loader.onDone = function() {
+        if(window.bzplcm)window.bzplcm.start('ni');
+        xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { _globals: { screen_name: null, subdomain: "coderetreat-community", is_owner: false, is_admin: false, is_member: false, join_date: 0, request_method: "GET", trace: "8cb8a4e0-b343-4253-b368-69de07df39e7"}, event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; }, _trackingHost: "coll.ning.com", _jsDebug: false } };</script>
+<meta name="medium" content="blog" /><link rel="alternate" type="application/atom+xml" title="Rob Tarr&#039;s Posts - Coderetreat" href="../blog/feed?user=1y1vxt79fgdgj&amp;xn_auth=no" /><link rel="alternate" type="application/atom+xml" title="Comments - Code Retreat Roundup: GitHub Toolbox - Coderetreat" href="../comment/feed?attachedTo=6456126%253ABlogPost%253A5563&amp;xn_auth=no" />
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common-982.min.css?xn_version=3408449514);
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/wide-sidebar.min.css?xn_version=1327369422);
+@import url(http://static.ning.com/socialnetworkmain/widgets/profiles/css/component.min.css?xn_version=2871767745);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIXYaqKgGd0KBZicBBAhfDYj2Aa4s8f5nvPfAF-VYObMp0rAmgQw1ZhPhrL8x7sGJRoU6IovphedJCS5U4-yfae/1249016504.css?xn_version=201701120951);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIgyDAElZlBJ1Awn*XfVWcD2dDlwyjePoNWSlDmjGd8UlGhL3I8xAQsZekh6xVJbAhSECHot0nK97Q3PD*PcfV3/1249038261.css?xn_version=201701120951);
+
+</style>
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=1394342931" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../blog/rsd" />
+<script type="text/javascript">(function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,'http://coderetreat.org/m/blogpost?id=6456126%3ABlogPost%3A5563');</script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5W4WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="xj_before_content">        <div id="xn_bar">
+            <div id="xn_bar_menu">
+                <div id="xn_bar_menu_branding" >
+                                    </div>
+
+                <div id="xn_bar_menu_more">
+                    <form id="xn_bar_menu_search" method="GET" action="http://coderetreat.org/main/search/search">
+                        <fieldset>
+                            <input type="text" name="q" id="xn_bar_menu_search_query" value="Search Coderetreat" _hint="Search Coderetreat" accesskey="4" class="text xj_search_hint" />
+                            <a id="xn_bar_menu_search_submit" href="code-retreat-roundup-github-toolbox#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+                        </fieldset>
+                    </form>
+                </div>
+
+                            <ul id="xn_bar_menu_tabs">
+                                            <li><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox">Sign Up</a></li>
+                                                <li><a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox">Sign In</a></li>
+                                    </ul>
+                        </div>
+        </div>
+            <script src="http://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
+    <script>
+        try {
+            GlamCreateSlot("183770529", "728x90", "Ning_Top_Leaderboard");
+            GlamSetSlotData("Ning_Top_Leaderboard", "ningid=6456126");
+            GlamCreateSlot("183770529", "300x250", "Ning_Top_Right");
+            GlamSetSlotData("Ning_Top_Right", "ningid=6456126");
+            GlamTrack("183770529");
+        } catch (e) {}
+    </script>
+    </div>
+    <div class="xg_theme" data-layout-pack="romeo">
+        <div id="xg_themebody">
+            <div id="xg_ad_above_header" class="xg_ad xj_ad_above_header dy-displaynone">
+                
+            </div>
+            <div id="xg_head">
+                <div id="xg_masthead">
+                    <h1 id="xg_sitename" class="xj_site_name"><a id="application_name_header_link" href="../../index.html"><img src="http://api.ning.com:80/files/2vzV35vB8k5SPm92v9bGA0ng9DP2h-ONIcgPoDUThiIk1roHMF4eVjzlN2o3z9S5aU*wKgn9jZpdxEekNQCYvnOumr-beV44/cnlogo.png" alt="Coderetreat"></a></h1>
+                    <p id="xg_sitedesc" class="xj_site_desc">Honing the craft together worldwide</p>
+                </div>
+                <div id="xg_navigation" class="xj_navigation"><ul>
+    <li dojoType="SubTabHover" id="xg_tab_xn3" class="xg_subtab"><a href="../../about"><span>About</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about" style="float:none;"><span>About Coderetreat</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about/community-network" style="float:none;"><span>About Community Network</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../history" style="float:none;"><span>History</span></a></li></ul></div></li><li id="xg_tab_events" class="xg_subtab"><a href="../../events"><span>Events</span></a></li><li dojoType="SubTabHover" id="xg_tab_groups" class="xg_subtab"><a href="../../groups"><span>Groups</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitators</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/organizers-hosts" style="float:none;"><span>Organizers/Hosts</span></a></li></ul></div></li><li id="xg_tab_xn17" class="xg_subtab"><a href="../../hosting"><span>Hosting</span></a></li><li dojoType="SubTabHover" id="xg_tab_xn10" class="xg_subtab"><a href="../../facilitating"><span>Facilitating</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/structure-of-a-coderetreat" style="float:none;"><span>Structure</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../gol" style="float:none;"><span>Conway&#039;s Game of Life</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/activity-catalog" style="float:none;"><span>Activity Catalog</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="on-the-role-of-the-coderetreat-facilitator" target="_blank" style="float:none;"><span>Role of the Facilitator</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitator&#039;s Group</span></a></li></ul></div></li><li dojoType="SubTabHover" id="xg_tab_xn0" class="xg_subtab"><a href="../../media"><span>Media</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../photo" style="float:none;"><span>Photos</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../video" style="float:none;"><span>Video</span></a></li></ul></div></li><li id="xg_tab_blogs" class="xg_subtab this"><a href="../blog/list"><span>Blogs</span></a></li><li id="xg_tab_forum" class="xg_subtab"><a href="../../forum.1"><span>Forum</span></a></li><li id="xg_tab_profile" class="xg_subtab"><a href="../../profiles.1"><span>My Page</span></a></li></ul>
+</div>
+            </div>
+            <div id="xg_ad_below_header" class="xg_ad xj_ad_below_header dy-displaynone">
+						
+					</div>
+            <div id="xg" class="xg_widget_profiles xg_widget_profiles_blog xg_widget_profiles_blog_show">
+                	
+                <div id="xg_body">
+                    <div class="xj_notifications"></div>
+                    <div class="xg_column xg_span-14" id="column1">
+                        <div id="xg_canvas" class="xj_canvas">
+                            <ul class="navigation easyclear"><li><a href="../blog/list">All Blog Posts</a></li><li><a href="../blog/list?my=1">My Blog</a></li><li class="right  xg_lightborder navbutton"><a href="../blog/new" class="xg_sprite xg_sprite-add">Add</a></li></ul>
+<div class="xg_module xg_blog xg_blog_detail xg_blog_mypage xg_module_with_dialog">
+        <div class="xg_headline xg_headline-img xg_headline-2l">
+    <div class="ib"><span class="xg_avatar"><a class="fn url" href="../../profile/RobTarr"  title="Rob Tarr"><span class="dy-avatar dy-avatar-64 "><img  class="photo photo" src="http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=64&amp;height=64&amp;crop=1%3A1" alt="" /></span></a></span></div>
+<div class="tb"><h1>Code Retreat Roundup: GitHub Toolbox</h1>
+        <ul class="navigation byline">
+            <li><a class="nolink">Posted by </a><a href="../../profile/RobTarr">Rob Tarr</a><a class="nolink"> on December 9, 2011 at 9:30pm</a></li>
+            <li><a class="xg_sprite xg_sprite-view" href="../blog/list?user=1y1vxt79fgdgj">View Blog</a></li>
+        </ul>
+    </div>
+</div>
+    <div class="xg_module_body">
+        <div class="postbody">
+                    <div class="xg_user_generated">
+                <p>Original post can be found at <a rel=nofollow href="http://seesparkbox.com/foundry/code_retreat_roundup_github_toolbox">http://seesparkbox.com/foundry/code_retreat_roundup_github_toolbox</a></p>
+<p><img class="featured-image" src="http://seesparkbox.com/uploads/article_uploads/111209-Code-Retreat-Toolkit.jpg" alt="Code Retreat Roundup: GitHub Toolbox"/></p>
+<p>Last Saturday, <a rel=nofollow href="http://seesparkbox.com/foundry/author/rob_harr">Rob</a> and <a rel=nofollow href="http://seesparkbox.com/foundry/author/rob_tarr">I</a> went down to Cincinnati for the <a rel=nofollow href="http://blog.coderetreat.com/global-day-of-coderetreat">Global Day of Code Retreat</a>. We spent the entire day practicing code. Yes, that’s right – practicing. We wrote and tested code for 45 minutes, talked about what we had done, deleted our code, and then started over. It was a very useful exercise which Rob will be blogging about very soon.</p>
+<p>Since Rob is going to write about how incredibly beneficial the day was for us, I wanted to highlight some of the cool tools that I discovered while I was there. The day was centered around developing using <a rel=nofollow href="http://en.wikipedia.org/wiki/Test-driven_development">TDD</a>, so there’s definitely a testing slant to my list. Now, I’ll be the first to say that I definitely fall into the camp of wanting to write tests for my code; but not having done it on a project, I wasn’t sure where to start. After the Code Retreat, I feel much more confident in my ability to write good tests, and I think that these tools will help me to do just that.</p>
+<h2><br/> <a rel=nofollow href="https://github.com/jimweirich/rspec-given">rspec-given</a></h2>
+<p>I had the opportunity to pair with <a rel=nofollow href="https://twitter.com/#!/pkananen">@pkananen</a> on some Ruby, using RSpec for testing. As I was trying to figure out how to start writing the tests, Peter suggested we try given. It’s basically a simple syntax for quickly writing very clear, readable tests.</p>
+<p>The first RSpec test I wrote looked something like this:</p>
+<div id="gist-1445259" class="gist"><div class="gist-file"><div class="gist-data gist-syntax"><div class="gist-highlight"><div class="line" id="LC1"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">1</div>
+describe "conways" do</div>
+<div class="line" id="LC2"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">2</div>
+  cell = Cell.new</div>
+<div class="line" id="LC3"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">3</div>
+  </div>
+<div class="line" id="LC4"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">4</div>
+  it "should live" do</div>
+<div class="line" id="LC5"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">5</div>
+    cell.lives?(0).should be_false</div>
+<div class="line" id="LC6"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">6</div>
+    cell.lives?(1).should be_false</div>
+<div class="line" id="LC7"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">7</div>
+    cell.lives?(2).should be_true</div>
+<div class="line" id="LC8"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">8</div>
+    cell.lives?(3).should be_true</div>
+<div class="line" id="LC9"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">9</div>
+    cell.lives?(4).should be_false</div>
+<div class="line" id="LC10"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">10</div>
+  end</div>
+<div class="line" id="LC11"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">11</div>
+<br/></div>
+<div class="line" id="LC12"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">12</div>
+end</div>
+</div>
+</div>
+<div class="gist-meta"><a rel=nofollow href="https://gist.github.com/raw/7e1651f6f3e7fb79cbfe/aa1709b8c1cf0fda07e0608b420641111361d0fc/ruby-rspec" style="float:right;">view raw</a> <a rel=nofollow href="https://gist.github.com/7e1651f6f3e7fb79cbfe#file_ruby_rspec" style="float:right;margin-right:10px;color:#666">ruby-rspec</a> <a rel=nofollow href="https://gist.github.com/7e1651f6f3e7fb79cbfe">This Gist</a> brought to you by <a rel=nofollow href="http://github.com">GitHub</a>.</div>
+</div>
+</div>
+<p> </p>
+<p>This is an interpretation of this same test using given:</p>
+<div id="gist-1445259" class="gist"><div class="gist-file"><div class="gist-data gist-syntax"><div class="gist-highlight"><div class="line" id="LC1"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">1</div>
+describe Cell do</div>
+<div class="line" id="LC2"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">2</div>
+  Given(:cell) { cell = Cell.new }</div>
+<div class="line" id="LC3"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">3</div>
+  </div>
+<div class="line" id="LC4"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">4</div>
+  context "with 0 neighbors" do</div>
+<div class="line" id="LC5"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">5</div>
+    Then { cell.lives?(0) == false }</div>
+<div class="line" id="LC6"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">6</div>
+  end</div>
+<div class="line" id="LC7"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">7</div>
+<br/></div>
+<div class="line" id="LC8"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">8</div>
+  context "with 1 neighbor" do</div>
+<div class="line" id="LC9"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">9</div>
+    Then { cell.lives?(1) == false }</div>
+<div class="line" id="LC10"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">10</div>
+  end</div>
+<div class="line" id="LC11"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">11</div>
+<br/></div>
+<div class="line" id="LC12"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">12</div>
+  context "with 2 neighbors" do</div>
+<div class="line" id="LC13"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">13</div>
+    Then { cell.lives?(2) == true }</div>
+<div class="line" id="LC14"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">14</div>
+  end</div>
+<div class="line" id="LC15"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">15</div>
+<br/></div>
+<div class="line" id="LC16"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">16</div>
+  context "with 3 neighbors" do</div>
+<div class="line" id="LC17"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">17</div>
+    Then { cell.lives?(3) == true }</div>
+<div class="line" id="LC18"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">18</div>
+  end</div>
+<div class="line" id="LC19"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">19</div>
+<br/></div>
+<div class="line" id="LC20"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">20</div>
+  context "with 4 neighbors" do</div>
+<div class="line" id="LC21"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">21</div>
+    Then { cell.lives?(4).should be_false }</div>
+<div class="line" id="LC22"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">22</div>
+  end</div>
+<div class="line" id="LC23"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">23</div>
+end</div>
+</div>
+</div>
+<div class="gist-meta"><a rel=nofollow href="https://gist.github.com/raw/7e1651f6f3e7fb79cbfe/012d67002d9eff46c20090e54241f30cd699c8a3/ruby-given" style="float:right;">view raw</a> <a rel=nofollow href="https://gist.github.com/7e1651f6f3e7fb79cbfe#file_ruby_given" style="float:right;margin-right:10px;color:#666">ruby-given</a> <a rel=nofollow href="https://gist.github.com/7e1651f6f3e7fb79cbfe">This Gist</a> brought to you by <a rel=nofollow href="http://github.com">GitHub</a>.</div>
+</div>
+</div>
+<p> </p>
+<p>I haven’t played with these a lot, but I feel like the rspec-given tests may be more expressive than the straight RSpec tests. It provides a simple syntax that I think most people could read and understand what the test results should be.</p>
+<h2><br/> <a rel=nofollow href="https://github.com/guard/guard">Guard</a></h2>
+<p>During another session, I paired with <a rel=nofollow href="https://twitter.com/#!/mattbrewer">@MattBrewer</a> and saw another really cool tool – Guard. During my first two sessions, the process was something like this:</p>
+<ol>
+<li>Write test.</li>
+<li>Write code.</li>
+<li>Save code.</li>
+<li>Switch to terminal.</li>
+<li>Run tests.</li>
+<li>Switch back to TextMate.</li>
+<li>Fix code.</li>
+<li>Repeat as necessary.</li>
+<li>Move on to next test.</li>
+</ol>
+<p>Working with Matt, however, that workflow changed:</p>
+<ol>
+<li>Write test.</li>
+<li>Write code.</li>
+<li>Save code.</li>
+<li>Watch tests run in background.</li>
+<li>Fix code.</li>
+<li>Repeat as necessary.</li>
+<li>Move on to next test.</li>
+</ol>
+<p>Step 4 here was the frosting on the cake. Every time we saved a file, Guard ran the tests. With a terminal window open off to the side, we could instantly see the results of the tests. Seeing as we only had 45 minutes to get as much of the problem solved as we could, this was a very useful thing to have running.</p>
+<p>Setting up Guard was pretty easy, and I found that it will also do things such as rebuilding your gem set if you update your gemfile. I also installed a growl gem, so I now get test/gemfile build results in growl notifications. I’m sure it does a lot more, and I’m anxious to spend more time finding out what it can do.</p>
+<h2><br/> <a rel=nofollow href="https://github.com/achiu/consular">Consular</a></h2>
+<p>While I was setting up Guard (with a few pointers from <a rel=nofollow href="https://twitter.com/#!/cromwellryan">@cromwellryan</a>), Ryan told me about this little app. Between running multiple Rails apps and other miscellaneous things, it’s not uncommon for me to have Terminal running with multiple tabs open for each project I'm working on. Consular provides a way to define sets of windows/tabs and provides a way to execute commands in those windows/tabs at start up. So, I’m setting up consular files to open up work spaces for my projects and launch the server and any other appropriate files for those projects. AWESOME!</p>
+<p>I wrote a quick little consular script for starting up my Rails projects:</p>
+<p> </p>
+<div id="gist-1445259" class="gist"><div class="gist-file"><div class="gist-data gist-syntax"><div class="gist-highlight"><div class="line" id="LC1"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">1</div>
+window do</div>
+<div class="line" id="LC2"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">2</div>
+  run 'echo -n -e "\033]0; Project Name - Rails Server \0007"'</div>
+<div class="line" id="LC3"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">3</div>
+<br/></div>
+<div class="line" id="LC4"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">4</div>
+  before { run 'cd projects/project-folder' }</div>
+<div class="line" id="LC5"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">5</div>
+ </div>
+<div class="line" id="LC6"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">6</div>
+  run "rails s"</div>
+<div class="line" id="LC7"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">7</div>
+<br/></div>
+<div class="line" id="LC8"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">8</div>
+  tab "named test" do</div>
+<div class="line" id="LC9"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">9</div>
+    run 'echo -n -e "\033]0; Project Name - Tests \0007"'</div>
+<div class="line" id="LC10"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">10</div>
+    run "guard"</div>
+<div class="line" id="LC11"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">11</div>
+  end</div>
+<div class="line" id="LC12"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">12</div>
+<br/></div>
+<div class="line" id="LC13"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">13</div>
+  tab "named project" do</div>
+<div class="line" id="LC14"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">14</div>
+    run 'echo -n -e "\033]0; Project Name - Files \0007"'</div>
+<div class="line" id="LC15"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">15</div>
+    run "ls"</div>
+<div class="line" id="LC16"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">16</div>
+  end</div>
+<div class="line" id="LC17"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">17</div>
+end</div>
+<div class="line" id="LC18"><div style="float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);">18</div>
+<br/></div>
+</div>
+</div>
+<div class="gist-meta"><a rel=nofollow href="https://gist.github.com/raw/7e1651f6f3e7fb79cbfe/6e4c032a09ffa4e2d66a82debc6585637ba306c0/Consular" style="float:right;">view raw</a> <a rel=nofollow href="https://gist.github.com/7e1651f6f3e7fb79cbfe#file_consular" style="float:right;margin-right:10px;color:#666">Consular</a> <a rel=nofollow href="https://gist.github.com/7e1651f6f3e7fb79cbfe">This Gist</a> brought to you by <a rel=nofollow href="http://github.com">GitHub</a>.</div>
+</div>
+</div>
+<p> </p>
+<h2><br/> <a rel=nofollow href="http://www.tryjasmine.com/">tryjasmine.com</a></h2>
+<p>This was another thing I picked up from <a rel=nofollow href="https://twitter.com/#!/pkananen">@pkananen</a>. If you want to try your hand at writing tests for JavaScript (or CoffeeScript) then this might be a great place to start. It gives you a place to write your code and tests side by side. You can easily convert between CoffeeScript and JavaScript and it gives you a few built in macros to get started or just to quickly stub out tests.</p>
+<h2><br/> What other tools are you using?</h2>
+<p>Today, there are so many tools to help us build things faster and more efficiently that it is sometimes hard to keep up with them. Frankly, these tools solved some problems that I didn’t even really know that I had. I am getting the feeling that after using these for a little while some of them will quickly become essential parts of my development toolbox.</p>
+<p>I would love to know of other cool things I can add to my toolbox. Leave me some comments below or on Twitter.</p>
+<p>And if you haven't checked out GitHub's <a rel=nofollow href="http://octodex.github.com/">Octodex</a>, you should. The Octocat is waiting.</p>
+<p> </p>
+<p> </p>            </div>
+        </div>
+        <div class="left-panel">
+                          <script>xg.addOnRequire(function () { xg.post('/main/viewcount/update?xn_out=json', {key: '6456126:BlogPost:5563', x: '5710a6d'}); });</script>                <p class="small dy-clear view-count-container">
+    <span class="view-count-label">Views:</span> <span class="view-count">59</span></p>
+
+                            <p class="small object-detail" id="tagsList" style="display:none">Tags:<br/></p>
+            <div class="likebox likebox-ning">
+    <div class="ning-like">
+                <div class="xg_lightborder like-button like-button-1">
+            <a data-content-id="6456126:BlogPost:5563"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox"
+                        data-like-url="/main/like/like"
+                        data-unlike-url="/main/like/unlike"
+                        data-page-type="detail" class="xg_sprite" href="code-retreat-roundup-github-toolbox#">
+                Like            </a>
+        </div>
+                <div class="like-count dy-displaynone">
+            <a href="code-retreat-roundup-github-toolbox#" class="view-liked" _id="6456126:BlogPost:5563">0 members like this</a>
+        </div>
+    </div>
+</div>
+<p class="share-links clear"><a class="xg_sprite xg_sprite-share" href="../../main/sharing/share?id=6456126%25253ABlogPost%25253A5563">Share</a>            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    <span class="xg_tweet">
+        <a href="https://twitter.com/share" class="post_to_twitter twitter-share-button" target="_blank"
+            data-text="Checking out &quot;Code Retreat Roundup: GitHub Toolbox&quot; on Coderetreat:" data-url="http://coderetreat.org/profiles/blogs/code-retreat-roundup-github-toolbox" data-count="none" data-dnt="true">Tweet</a>
+        </span>
+        <span class="google-plusone" data-content-type="BlogPost" data-content-id="6456126:BlogPost:5563" data-page-type="detail">
+    <g:plusone callback="xg_index_googlePlusOne_onPlusOne" size="medium" count="false" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5563"></g:plusone>
+</span>
+
+        <a class="post_to_facebook xj_post_to_facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox%3Fxg_source%3Dfacebookshare&amp;t=" _url="http://coderetreat.org/profiles/blogs/code-retreat-roundup-github-toolbox?xg_source=facebookshare" _title="" _log="{&quot;module&quot;:&quot;profiles&quot;,&quot;page&quot;:&quot;blog&quot;,&quot;action&quot;:&quot;show&quot;}">Facebook</a>
+    </p>        </div>
+            </div>
+</div>
+
+        <div class="xg_module">
+                                <div class="xg_module_body" id="comments" style="display: none" _numComments="0" _scrollTo="">
+                    </div>
+                    <div class="xg_module_body">
+                    <p id="add-comment">Comment</p>
+                                            <div class="comment-join">
+                            <h3>You need to be a member of Coderetreat to add comments!</h3>
+                                                <p><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox">Join Coderetreat</a></p>
+                                                </div>
+                                                        </div>
+                            <div class="xg_module_foot" id="xj_comments_footer" style="display:none">
+                                            <p class="left">
+                            <a class="xg_icon xg_icon-rss" href="../comment/feed?attachedTo=6456126%253ABlogPost%253A5563&amp;xn_auth=no">RSS</a>
+                        </p>
+                                    </div>
+                    </div>
+    
+      <input type="hidden" id="incrementViewCountEndpoint" value="http://coderetreat.org/profiles/blog/incrementViewCount?id=6456126%3ABlogPost%3A5563&amp;xn_out=json" />
+
+                        </div>
+                    </div>                
+                    <div class="xg_column xg_span-7 xg_last" id="column2">
+                        <div class="xj_user_info">    <div class="xg_module" id="xg_module_account">
+        <div class="xg_module_body xg_signup xg_lightborder">
+            <p>Welcome to<br />Coderetreat</p>
+                        <p class="last-child"><big><strong><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox">Sign Up</a></strong></big><br/>or <a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox" style="white-space:nowrap">Sign In</a></p>
+                            <div class="xg_external_signup xg_lightborder xj_signup">
+                    <p class="dy-small">Or sign in with:</p>
+                    <ul class="providers">
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fblogs%252Fcode-retreat-roundup-github-toolbox%26source%3DsignUp%26close%3D1%26provider%3Dfacebook', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fblogs%252Fcode-retreat-roundup-github-toolbox%26source%3DsignUp%26close%3D0%26provider%3Dfacebook">
+                            <span class="mini-service mini-service-facebook" title="Facebook"></span>
+                    </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fblogs%252Fcode-retreat-roundup-github-toolbox%26source%3DsignUp%26close%3D1%26provider%3Dtwitter', null, 'width=860,height=440,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fblogs%252Fcode-retreat-roundup-github-toolbox%26source%3DsignUp%26close%3D0%26provider%3Dtwitter">
+            <span class="mini-service mini-service-twitter" title="Twitter"></span>
+        </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fblogs%252Fcode-retreat-roundup-github-toolbox%26source%3DsignUp%26close%3D1%26provider%3Dyahoo', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fblogs%252Fcode-retreat-roundup-github-toolbox%26source%3DsignUp%26close%3D0%26provider%3Dyahoo">
+            <span class="mini-service mini-service-yahoo" title="Yahoo!"></span>
+        </a></li>
+    </ul>
+                </div>
+                    </div>
+    </div>
+</div>
+                        <div class="xj_sidebar_content"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="xg_foot">
+                <div id="xg_footcontent">
+                    <div class="xj_foot_content"><p class="left">
+    © 2017             &nbsp; Created by <a href="../../xn/detail/u_128952ghvkcvj">corey haines</a>.            &nbsp;
+    Powered by<a class="poweredBy-logo" href="https://www.ning.com/" rel="dofollow"><img class="poweredbylogo" width="87" height="15" src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/Ning_MM_footer_wht@2x.png?xn_version=242216045" title
+="Ning Website Builder" alt="Website builder | Create website | Ning.com" target="_blank"></a>    </p>
+    <p class="right xg_lightfont">
+                    <a href="../../main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fblogs%2Fcode-retreat-roundup-github-toolbox">Terms of Service</a>
+            </p>
+</div>
+                </div>
+            </div>
+			<div id="xg_ad_below_footer" class="xg_ad xj_ad_below_footer dy-displaynone">
+				
+			</div>
+        </div>
+    </div>
+    <div class="xj_after_content"><div id="xj_baz17246" class="xg_theme"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use Coderetreat.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="../../xn_resources/widgets/index/gfx/jstrk_off.gif" alt="" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=2765273374"></script>        <script>
+            var sources = ["http:\/\/api.ning.com:80\/files\/-q6tvS*EPsKouV2no1yS1Z44orlQXrgrn6cdJ97JZM9VH4co81cvbscnFg1OIeCEAERmoD0shDB*lmRNzNJ6T8IsQXkDhnlA\/set_common_min.js?r=1483433098","http:\/\/api.ning.com:80\/files\/-q6tvS*EPsIDglm6XsIHQnF2C5cvq6sQSH4BHo3lPwjLzXAiTz*xwSh3Nzo35JTe3HQ8zazA0QhfOXKw*zEFJVns6LI05tM3\/set_shared_c0_min.js?r=1483433458","http:\/\/api.ning.com:80\/files\/DBD4PE5EidX8bMye8TF3Vgj*wiN1CMUqlGOsiUfmbWhad9XqIDQvhcK9YvdKTfykhVIjZ5Y8bMTz5GvWMwpWLXWeJZt1vhvK\/set_sidebar_u_min.js?r=1406592884"];
+            var numSources = sources.length;
+            var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            var onloadFunctionsObj = {};
+
+            var createScriptTagFunc = function(source) {
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                                var currentOnLoad = function() {xg._loader.onLoad(source);};
+                if (script.readyState) { //for IE (including IE9)
+                    script.onreadystatechange = function() {
+                        if (script.readyState == 'complete' || script.readyState == 'loaded') {
+                            script.onreadystatechange = null;
+                            currentOnLoad();
+                        }
+                    }
+                } else {
+                   script.onerror = script.onload = currentOnLoad;
+                }
+
+                script.src = source;
+                node.appendChild(script);
+            };
+
+            for (var i = 0; i < numSources; i++) {
+                xg._loader.loading(sources[i]);
+                createScriptTagFunc(sources[i]);
+            }
+        </script>
+    <script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2017-01-29T09:57:19+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201701120951'; // DEP-9365:3cf2104 33
+djConfig.parseWidgets = false;
+</script>
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+        <script type="text/javascript">
+        xg.token = '';
+xg.canTweet = false;
+xg.cdnHost = 'static.ning.com';
+xg.version = '201701120951';
+xg.useMultiCdn = true;
+xg.staticRoot = 'socialnetworkmain';
+xg.xnTrackHost = "coll.ning.com";
+    xg.cdnDefaultPolicyHost = 'static';
+    xg.cdnPolicy = [];
+xg.global = xg.global || {};
+xg.global.currentMozzle = 'profiles';
+xg.global.userCanInvite = false;
+xg.global.requestBase = '';
+xg.global.locale = 'en_US';
+xg.num_thousand_sep = ",";
+xg.num_decimal_sep = ".";
+(function() {
+    dojo.addOnLoad(function() {
+        if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+            });
+            ning.loader.require('xg.profiles.blog.show', 'xg.index.like.likeButton', 'xg.index.googlePlusOne', 'xg.shared.PostToFacebookLink', function() { xg._loader.onLoad('xnloader'); });
+    })();    </script>
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
+
+</div>
+</body>
+</html>

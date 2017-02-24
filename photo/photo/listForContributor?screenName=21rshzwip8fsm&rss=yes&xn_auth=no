@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Wallis Buchan&#039;s Photos</title>
+        <description>Wallis Buchan&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=21rshzwip8fsm</link>
+        <pubDate>Sun, 29 Jan 2017 10:53:04 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:53:04 +0000</lastBuildDate>
+        <image>
+            <title>Wallis Buchan&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=21rshzwip8fsm</link>
+            <url>http://api.ning.com:80/files/fvhmnqdXYcT3DQMeYmlj2RX6ikMQkQYID-ckcs1cf4LvqTPqrdfjykfPBVhr3vZV7051d5E8nZvAv3GjzVvQ37YN56OfKI3l/781807515.jpeg?xgip=0%3A22%3A249%3A249%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:11168</guid>             <title>Coderetreat Durban, July 2012.</title>
+            <link>http://coderetreat.org/photo/coderetreat-durban-july-2012</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/hmHlZOxsRQJNhpwutyZE7Juq1Rh9Dx4nZ70R32stVl9X7y4DVfPkEn8FpANnnRkWDDoT*JYa2vrF*ToKWD8ruTxFSDv9dVfZ/CRphoto.jpg?width=800&amp;amp;height=600&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/hmHlZOxsRQJNhpwutyZE7Juq1Rh9Dx4nZ70R32stVl9X7y4DVfPkEn8FpANnnRkWDDoT*JYa2vrF*ToKWD8ruTxFSDv9dVfZ/CRphoto.jpg?width=240&amp;height=180&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Wallis Buchan </description>                <pubDate>Tue, 31 Jul 2012 11:21:46 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/hmHlZOxsRQJNhpwutyZE7Juq1Rh9Dx4nZ70R32stVl9X7y4DVfPkEn8FpANnnRkWDDoT*JYa2vrF*ToKWD8ruTxFSDv9dVfZ/CRphoto.jpg?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/hmHlZOxsRQJNhpwutyZE7Juq1Rh9Dx4nZ70R32stVl9X7y4DVfPkEn8FpANnnRkWDDoT*JYa2vrF*ToKWD8ruTxFSDv9dVfZ/CRphoto.jpg?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/hmHlZOxsRQJNhpwutyZE7Juq1Rh9Dx4nZ70R32stVl9X7y4DVfPkEn8FpANnnRkWDDoT*JYa2vrF*ToKWD8ruTxFSDv9dVfZ/CRphoto.jpg?width=240&amp;height=180&amp;format=jpg" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Wallis Buchan</media:credit>
+	                        <atom:author>
+                <atom:name>Wallis Buchan</atom:name>
+                <atom:uri>http://coderetreat.org/profile/WallisBuchan</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

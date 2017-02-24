@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Paul Wilson&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PaulWilson627</link>
+        <pubDate>Sun, 29 Jan 2017 11:53:49 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:53:49 +0000</lastBuildDate>
+        <image>
+            <title>Paul Wilson&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PaulWilson627</link>
+            <url>http://api.ning.com:80/files/S7hsBCvqKXGtBRg0l1S18mJFGZRTk8vbjwVlEAn31dOAFnUmHmh3lUk07UdJs3r6buppznuvi7c5u6J*ZBZ8PKLWXfi-ziNJ/1042607368.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fd130cd6d0ec7cf1277f80e</guid>
+               <title>Paul Wilson updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28243?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PaulWilson627?xg_source=activity">Paul Wilson</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:28243?xg_source=activity" ><img src="http://api.ning.com/files/S7hsBCvqKXFAx9Sco3-F0iW9WNU5dF8sZ3CmcBMGQWrfA3tglm8E14EbY9auj8Ql9Qn6eIB-vJ-VXAtjGBlUg*uaxPO4BZcW/DSC_3563.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28243?xg_source=activity">Global Day of Coderetreat 2013 - Edinburgh, Scotland</a> at Scotland</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">Global Day of Code Retreat, hosted and sponsored by <a href="http://neo.com" target="_blank">Neo</a> at Edinburgh's world-famous <a href="http://techcu.be" target="_blank">TechCube</a>.You should sign up <a href="https://tito.io/neouk/edinburgh-global-day-of-code-retreat/admin/settings/basics" target="_blank">here</a>.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28243?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 13 Nov 2013 13:37:51 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fd130cdbb31ea34d4440ef7</guid>
+               <title>Paul Wilson posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28243?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PaulWilson627?xg_source=activity">Paul Wilson</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28243?xg_source=activity">Global Day of Coderetreat 2013 - Edinburgh, Scotland</a> at Scotland</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">Global Day of Code Retreat, hosted and sponsored by <a href="http://neo.com" target="_blank">Neo</a> at Edinburgh's world-famous <a href="http://techcu.be" target="_blank">TechCube</a>.You should sign up <a href="https://tito.io/neouk/edinburgh-global-day-of-code-retreat/admin/settings/basics" target="_blank">here</a>.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28243?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 25 Oct 2013 07:17:35 +0000</pubDate>
+               </item>    </channel>
+</rss>

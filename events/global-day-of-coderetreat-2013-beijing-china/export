@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27716
+DTSTAMP:20170129T115255Z
+SUMMARY:Global Day of Coderetreat 2013 - Beijing, China
+DESCRIPTION:This will be the third year that Beijing has participated 
+ in the Global Day of Coderetreat.\n\nFor more information visit http:/
+ /coderetreat.org/events/global-day-of-coderetreat-2013-beijing-china
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TBA
+WEBSITE:http://www.meetup.com/BeijingSoftwareCraftsmanship/events/1459
+ 78022/
+URL:http://www.meetup.com/BeijingSoftwareCraftsmanship/events/14597802
+ 2/
+CONTACT:
+ORGANIZER;CN="Mike Long":http://coderetreat.org/profile/MikeLong
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="光 陈"
+ :http://coderetreat.org/profile/guangchen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Lon
+ g":http://coderetreat.org/profile/MikeLong
+END:VEVENT
+END:VCALENDAR

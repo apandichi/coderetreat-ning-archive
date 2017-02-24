@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9663
+DTSTAMP:20170129T140440Z
+SUMMARY:Coderetreat Bielefeld 19th of May 2012
+DESCRIPTION:please register via : http://coderetreat-bielefeld.de\n\nF
+ or more information visit http://coderetreat.org/events/coderetreat-bi
+ elefeld-19th-of-may-2012
+DTSTART:20120519T090000Z
+DTEND:20120519T173000Z
+CATEGORIES:coderetreat
+LOCATION:Lynx-Consulting GmbH
+WEBSITE:http://coderetreat-bielefeld.de
+URL:http://coderetreat-bielefeld.de
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/q1pFLgiZZQtr5
+ FfFuX860J*uCM17IhetBs-UlcQ1qSN2kXPdFODrOOppirXVE8iTKqW5ex7hl7oYSV0b2O9
+ lkkRBBijkYlD1/200pxWappen_Bielefeld_reasonably_small.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

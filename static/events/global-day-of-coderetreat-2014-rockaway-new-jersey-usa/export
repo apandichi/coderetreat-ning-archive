@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39548
+DTSTAMP:20170129T123218Z
+SUMMARY:Global Day of Coderetreat 2014 - Rockaway, NJ, USA
+DESCRIPTION:Please join us for an exciting Code Retreat in Northern Ne
+ w Jersey. We'll bring the food and wifi, you bring your laptop and des
+ ire to practice coding! \nRegistration is now open! Please register h
+ ere:\nhttp://globalcodingrockaway.eventbrite.com/\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2014
+ -rockaway-new-jersey-usa
+DTSTART:20141115T090000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:100 Enterprise Drive Rockaway, NJ 07866
+WEBSITE:https://www.google.com/maps/place/Enterprise+Dr,+Dover,+NJ+078
+ 01/@40.906532,-74.5633639,17z/data=!3m1!4b1!4m2!3m1!1s0x89c30ae5df68c6
+ 3b:0x5630c58849a1ce00
+URL:https://www.google.com/maps/place/Enterprise+Dr,+Dover,+NJ+07801/@
+ 40.906532,-74.5633639,17z/data=!3m1!4b1!4m2!3m1!1s0x89c30ae5df68c63b:0
+ x5630c58849a1ce00
+CONTACT:9736257721
+ORGANIZER;CN="Jason Jolley":http://coderetreat.org/profile/JasonJolley
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jason Jo
+ lley":http://coderetreat.org/profile/JasonJolley
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13077
+DTSTAMP:20170129T134431Z
+SUMMARY:Global Day of Coderetreat 2012 - Columbus, Ohio / USA
+DESCRIPTION:We're doing it again! Plans are still in flux, but we're p
+ lanning to have it in Pillar's new (yet-unopened) studio space in down
+ town C-bus. \nPlease RSVP at gathers.us (not here on the coderetreat 
+ site)\nhttp://gathers.us/events/global-day-of-coderetreat-2012-columbu
+ s-ohio-usa\n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-coderetreat-2012-columbus-ohio
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:The Forge, 580 N 4th St., Columbus, OH, USA
+WEBSITE:https://maps.google.com/maps?q=580+N+4th+St.,+Columbus,+OH,+US
+ A&ll=39.974629,-82.998115&spn=0.002442,0.003433&client=safari&oe=UTF-8
+ &hnear=580+N+4th+St,+Columbus,+Franklin,+Ohio+43215&gl=us&t=m&z=18
+URL:https://maps.google.com/maps?q=580+N+4th+St.,+Columbus,+OH,+USA&ll
+ =39.974629,-82.998115&spn=0.002442,0.003433&client=safari&oe=UTF-8&hne
+ ar=580+N+4th+St,+Columbus,+Franklin,+Ohio+43215&gl=us&t=m&z=18
+CONTACT:
+ORGANIZER;CN="Justin Searls":http://coderetreat.org/profile/JustinSear
+ ls
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Justin S
+ earls":http://coderetreat.org/profile/JustinSearls
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alyssa D
+ iaz":http://coderetreat.org/profile/AlyssaDiaz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Tim Sch
+ reiber":http://coderetreat.org/profile/TimSchreiber
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Chris C
+ handler":http://coderetreat.org/profile/ChrisChandler
+END:VEVENT
+END:VCALENDAR

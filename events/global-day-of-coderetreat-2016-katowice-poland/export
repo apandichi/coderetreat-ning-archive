@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55091
+DTSTAMP:20170129T101525Z
+SUMMARY:Global Day of Coderetreat 2016 - Katowice, Poland
+DESCRIPTION:Code Retreat Workshop - more information soon!\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-coderet
+ reat-2016-katowice-poland
+DTSTART:20161022T100000Z
+DTEND:20161022T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Hackerspace Silesia
+WEBSITE:https://hs-silesia.pl/place/
+URL:https://hs-silesia.pl/place/
+CONTACT:
+ORGANIZER:Hackerspace Silesia
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anna Kra
+ wczyk":http://coderetreat.org/profile/AnnaKrawczyk
+END:VEVENT
+END:VCALENDAR

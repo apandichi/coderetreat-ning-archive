@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13196
+DTSTAMP:20170129T134437Z
+SUMMARY:Global Day of Coderetreat 2012 - Cambridge, MA / USA
+DESCRIPTION:Global Day of Code Retreat Cambridge MA\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-code-retreat-c
+ ambridge-ma
+DTSTART:20121208T080000Z
+DTEND:20121208T190000Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Zach Shaw":http://coderetreat.org/profile/ZachShaw
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Jennifer:
+ http://coderetreat.org/profile/Jennifer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zach Sha
+ w":http://coderetreat.org/profile/ZachShaw
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Diane W
+ illiams":http://coderetreat.org/profile/DianeWilliams
+END:VEVENT
+END:VCALENDAR

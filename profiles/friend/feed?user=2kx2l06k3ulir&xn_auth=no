@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2kx2l06k3ulir&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:30:19Z</updated>
+                            <author>
+                    <name>Raimo Radczewski</name>
+                    <uri>http://coderetreat.org/profile/RaimoRadczewski</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/jSNhDxbJzkjB-sm1qN5F1ZZMuh8GcmiyRSS-PbN99sDTWgyfZ*J572vsfQr4dQp61RrCDPoHw30gcg5wz1udaUsl2mZi3yns/1237772870.jpeg?xgip=0%3A0%3A541%3A541%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2kx2l06k3ulir&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Holger Woltersdorf</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/HolgerWoltersdorf"/>
+                                        <id>tag:coderetreat.org,2016-10-04:6456126:User:55824</id>
+                                        <updated>2016-10-04T11:51:08.998Z</updated>
+                    
+                                            <author>
+                            <name>Raimo Radczewski</name>
+                            <uri>http://coderetreat.org/profile/RaimoRadczewski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/sb0MFra59lH9fVlLJxn6RgttG*BOnzGSNrPnw6uRf-We8VIjZXix-uiMwiZZ2QK7dJ0K3-ahZoWL4VTA7gYNtyHWPea7gfn3/1240304295.png?xgip=0%3A0%3A498%3A498%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Holger Woltersdorf&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/sb0MFra59lH9fVlLJxn6RgttG*BOnzGSNrPnw6uRf-We8VIjZXix-uiMwiZZ2QK7dJ0K3-ahZoWL4VTA7gYNtyHWPea7gfn3/1240304295.png?xgip=0%3A0%3A498%3A498%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Holger Woltersdorf&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Matt Plavcan</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MattPlavcan"/>
+                                        <id>tag:coderetreat.org,2012-10-19:6456126:User:13858</id>
+                                        <updated>2012-10-19T18:37:28.360Z</updated>
+                    
+                                            <author>
+                            <name>Raimo Radczewski</name>
+                            <uri>http://coderetreat.org/profile/RaimoRadczewski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/vd2qEaKWT2f6dTtHNWuajaEM2W9KxcfU3CxzC8B0YTNgmsIg8maSTXPOy0gpQR12z68Ech73eJzCL4*0MkZE225w2YpqTjEu/1212297038.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Matt Plavcan&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/vd2qEaKWT2f6dTtHNWuajaEM2W9KxcfU3CxzC8B0YTNgmsIg8maSTXPOy0gpQR12z68Ech73eJzCL4*0MkZE225w2YpqTjEu/1212297038.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Matt Plavcan&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

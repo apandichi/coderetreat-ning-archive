@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Rux&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/Rux</link>
+        <pubDate>Sun, 29 Jan 2017 10:27:46 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:27:46 +0000</lastBuildDate>
+        <image>
+            <title>Rux&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/Rux</link>
+            <url>http://api.ning.com:80/files/2VGrzzXedu1N8iBmf-6Q26fS1ajRmBr35qMn79xywZAUYBaA*I0glzAsHGr06gbo3N283GNeGfNgWZM2tFTAy6CMgolxEGK2/1085688208.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010f397ca0595084565fec25c</guid>
+               <title>Rux updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:41713?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Rux?xg_source=activity">Rux</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:41713?xg_source=activity">Global Day of Coderetreat 2014 - Bucharest, Romania</a> at Luxoft Romania, Novopark, E building</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 10am to 3pm</div><div class="rich-excerpt">Global Day of Coderetreat held in Luxoft Romania.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:41713?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 14 Nov 2014 17:47:34 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010f397ca65c789159758c85d</guid>
+               <title>Rux posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:41713?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Rux?xg_source=activity">Rux</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:41713?xg_source=activity">Global Day of Coderetreat 2014 - LUXOFT BUCHAREST, ROMANIA</a> at Luxoft Romania, Novopark, E building</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 10am to 6pm</div><div class="rich-excerpt">Global Day of Coderetreat held in Luxoft Romania.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:41713?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 12 Nov 2014 11:17:45 +0000</pubDate>
+               </item>    </channel>
+</rss>

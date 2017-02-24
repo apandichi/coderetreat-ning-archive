@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=30qyo4z2aspof&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:15:18Z</updated>
+                            <author>
+                    <name>Csaba Trucza</name>
+                    <uri>http://coderetreat.org/profile/CsabaTrucza</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/TARUKDkBK7rjFfJyxik9mhEhljbPFXFnGoWRfHuDDb6WtbHZfwV0y8EdL21oTfmTFAOM1NA7BwWAqySsyLHD8bGGl9qTm6sQ/1090793052.jpeg?xgip=125%3A0%3A747%3A747%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=30qyo4z2aspof&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Alexandru Calinoiu</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AlexandruCalinoiu"/>
+                                        <id>tag:coderetreat.org,2014-11-06:6456126:User:40994</id>
+                                        <updated>2014-11-06T13:42:59.767Z</updated>
+                    
+                                            <author>
+                            <name>Csaba Trucza</name>
+                            <uri>http://coderetreat.org/profile/CsabaTrucza</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TARUKDkBK7pFNMhADyPHU-CWxxfS0uvI2uSBGWgxX8KwgLp-jLMNqC0a1mkmeI1GtsChJSnkG-c8AMMAndqYdE7kGC9rHuno/1090797223.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alexandru Calinoiu&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TARUKDkBK7pFNMhADyPHU-CWxxfS0uvI2uSBGWgxX8KwgLp-jLMNqC0a1mkmeI1GtsChJSnkG-c8AMMAndqYdE7kGC9rHuno/1090797223.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alexandru Calinoiu&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

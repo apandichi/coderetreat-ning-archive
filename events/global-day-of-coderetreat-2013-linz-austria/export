@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26191
+DTSTAMP:20170129T115815Z
+SUMMARY:Global Day of Coderetreat 2013 - Linz, Austria
+DESCRIPTION:This year Linz will take part at the GDCR! Let's have a gr
+ eat day of coding, learning and sharing experiences. Objectbay is prou
+ d sponsor of the GDCR in Linz.\nRegister at http://www.objectbay.at/e
+ vents\n\nFor more information visit http://coderetreat.org/events/glob
+ al-day-of-coderetreat-2013-linz-austria
+DTSTART:20131214T083000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Objectbay Office
+WEBSITE:http://www.objectbay.com
+URL:http://www.objectbay.com
+CONTACT:
+ORGANIZER;CN="Daniel Haslinger":http://coderetreat.org/profile/DanielH
+ aslinger
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel H
+ aslinger":http://coderetreat.org/profile/DanielHaslinger
+END:VEVENT
+END:VCALENDAR

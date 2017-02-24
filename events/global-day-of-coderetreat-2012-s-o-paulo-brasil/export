@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13683
+DTSTAMP:20170129T113435Z
+SUMMARY:Global Day of Coderetreat 2012 - São Paulo / Brasil
+DESCRIPTION:This is the first time we are doing a coderetreat event in
+  Brazil. We are happy to see everybody showing interest. We are counti
+ ng with Globalcode sponsor.\n\nÉ a primeira vez que o evento acontece
+  no Brasil. Nos estamos felizes por ver várias pessoas mostrando inte
+ resse.\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2012-s-o-paulo-brasil
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Globalcode São Paulo
+WEBSITE:http://coderetreatbrazil.eventbrite.pt
+URL:http://coderetreatbrazil.eventbrite.pt
+CONTACT:
+ORGANIZER;CN="Diego de Oliveira":http://coderetreat.org/profile/Diegod
+ eOliveira
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Diego de
+  Oliveira":http://coderetreat.org/profile/DiegodeOliveira
+END:VEVENT
+END:VCALENDAR

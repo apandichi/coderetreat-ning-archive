@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55429
+DTSTAMP:20170129T112758Z
+SUMMARY:Global Day of Coderetreat 2016 - Cape Town, South Africa
+DESCRIPTION:Coderetreating in Cape Town!\nRSVP on meetup:\nhttp://www.
+ meetup.com/Cape-Town-Software-Developers/events/234522152/\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-coderet
+ reat-2016-cape-town-south-africa
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Cape Town
+WEBSITE:https://thinkrise.com/cape-town
+URL:https://thinkrise.com/cape-town
+CONTACT:+27828297212
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jacek Raczykowski&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JacekRaczykowski</link>
+        <pubDate>Sun, 29 Jan 2017 13:53:30 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:53:30 +0000</lastBuildDate>
+        <image>
+            <title>Jacek Raczykowski&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JacekRaczykowski</link>
+            <url>http://api.ning.com:80/files/H5BhlPfjXdInrcVwMzvc5I*C4fTxg8n1bOYVchF7laOniEynJrUP5hzahMq2WTKw68Th1TGT7bvigwCOHxrQq9k6lDGNzL3V/1233575511.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012ade893bdaa3459daad336e</guid>
+               <title>Marika Lynch left a comment for Jacek Raczykowski</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:54819?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarikaLynch?xg_source=activity">Marika Lynch</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:54819?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/JacekRaczykowski?xg_source=activity">Jacek Raczykowski</a></span><br/>]]></description>
+               <pubDate>Thu, 08 Sep 2016 06:58:56 +0000</pubDate>
+               </item>    </channel>
+</rss>

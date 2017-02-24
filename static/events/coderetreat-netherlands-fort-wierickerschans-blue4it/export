@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:35077
+DTSTAMP:20170129T124120Z
+SUMMARY:Coderetreat - Netherlands - Fort Wierickerschans (Blue4IT)
+DESCRIPTION:I'm very happy to announce that Blue4IT organises this cod
+ eretreat and sponsors location, food and drinks!\nThis coderetreat is 
+ facilitated by Bart Bakker and myself (Stefan Hendriks).\nWe start at 
+ 9:00 with a cup of coffee, introduction, etc. It ends at 17:00.\n\nFor
+  more information visit http://coderetreat.org/events/coderetreat-neth
+ erlands-fort-wierickerschans-blue4it
+DTSTART:20140906T090000Z
+DTEND:20140906T170000Z
+CATEGORIES:coderetreat
+LOCATION:Fort Wierickerschans in Bodegraven
+WEBSITE:https://www.google.com/maps/place/Zuidzijde+130/@52.0829223,4.
+ 7826173,588m/data=!3m2!1e3!4b1!4m2!3m1!1s0x47c5d791e71cf7bf:0x5305d395
+ 048fa5d9
+URL:https://www.google.com/maps/place/Zuidzijde+130/@52.0829223,4.7826
+ 173,588m/data=!3m2!1e3!4b1!4m2!3m1!1s0x47c5d791e71cf7bf:0x5305d395048f
+ a5d9
+CONTACT:
+ORGANIZER;CN="Stefan Hendriks":http://coderetreat.org/profile/stefanhe
+ ndriks
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/dUBGrCUuK8RZK
+ B-bX3xT5JFlhbt0HS1pVTK0JFZw6aoD0y9kWHN9O*hIYM8Mm1VQbi6qeEciNsyc7LWncUA
+ gHUAHFxwFUaog/Wierickerschans_luchtfoto1.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Caroline:
+ http://coderetreat.org/profile/Caroline
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chiman S
+ achdeva":http://coderetreat.org/profile/ChimanSachdeva
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robert S
+ paan":http://coderetreat.org/profile/RobertSpaan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark van
+  Straten":http://coderetreat.org/profile/MarkvanStraten
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeroen N
+ ijs":http://coderetreat.org/profile/JeroenNijs
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Koen Aal
+ ders":http://coderetreat.org/profile/KoenAalders
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Denny Le
+ ung":http://coderetreat.org/profile/DennyLeung
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andre va
+ n der Ark":http://coderetreat.org/profile/AndrevanderArk
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bart Bot
+ tenberg":http://coderetreat.org/profile/BartBottenberg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marcel v
+ an Oosterhout":http://coderetreat.org/profile/MarcelvanOosterhout
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michel v
+ an Dongen":http://coderetreat.org/profile/MichelvanDongen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Deepa Ka
+ rra":http://coderetreat.org/profile/DeepaKarra
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anne Bom
+  Van Der":http://coderetreat.org/profile/AnneBomVanDer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Remco Ca
+ ts":http://coderetreat.org/profile/RemcoCats
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="pieter m
+ andemaker":http://coderetreat.org/profile/pietermandemaker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Hellmar_B
+ ecker:http://coderetreat.org/profile/HellmarBecker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Key Fey 
+ Wong":http://coderetreat.org/profile/KeyFeyWong
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ton van 
+ Bart":http://coderetreat.org/profile/TonvanBart
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robert K
+ erkhoven":http://coderetreat.org/profile/RobertKerkhoven
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rene van
+  Reeuwijk":http://coderetreat.org/profile/RenevanReeuwijk
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Gl
+ as":http://coderetreat.org/profile/PeterGlas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Enrique:h
+ ttp://coderetreat.org/profile/Enrique
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marin Ta
+ pnoi":http://coderetreat.org/profile/MarinTapnoi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="steven k
+ ok":http://coderetreat.org/profile/stevenkok
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jurrian 
+ Fahner":http://coderetreat.org/profile/juppie7780
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dave Wee
+ rnink":http://coderetreat.org/profile/DaveWeernink
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vincent 
+ Dundas":http://coderetreat.org/profile/VincentDundas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rob van 
+ der Ouderaa":http://coderetreat.org/profile/RobvanderOuderaa
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erik Ker
+ khoven":http://coderetreat.org/profile/ErikKerkhoven
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bert Ver
+ helst":http://coderetreat.org/profile/BertVerhelst
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joost-Ja
+ n van Houten":http://coderetreat.org/profile/JoostJanvanHouten
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jos Abra
+ hams":http://coderetreat.org/profile/JosAbrahams
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan van 
+ den Berg":http://coderetreat.org/profile/JanvandenBerg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Maarten 
+ Bosma":http://coderetreat.org/profile/MaartenBosma
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brian Ve
+ rmeer":http://coderetreat.org/profile/BrianVermeer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michiel 
+ van den Nieuwenhuijzen":http://coderetreat.org/profile/MichielvandenNi
+ euwenhuijzen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patrick 
+ van Dissel":http://coderetreat.org/profile/pvdissel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Din
+ gemans":http://coderetreat.org/profile/PaulDingemans
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ahmed Ba
+ nnany":http://coderetreat.org/profile/AhmedBannany
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick Sto
+ lwijk":http://coderetreat.org/profile/NickStolwijk
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Derk Duk
+ ker":http://coderetreat.org/profile/DerkDukker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Frans W.
+  van den Berg":http://coderetreat.org/profile/FransWvandenBerg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marc de 
+ Graaff":http://coderetreat.org/profile/MarcdeGraaff
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jankees 
+ van Woezik":http://coderetreat.org/profile/JankeesvanWoezik
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ronald R
+ otteveel":http://coderetreat.org/profile/RonaldRotteveel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bart Bak
+ ker":http://coderetreat.org/profile/bjpbakker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan H
+ endriks":http://coderetreat.org/profile/stefanhendriks
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jaap Ou
+ dejans":http://coderetreat.org/profile/JaapOudejans
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28099
+DTSTAMP:20170129T115315Z
+SUMMARY:Global Day of Coderetreat 2013 - Dresden, Germany
+DESCRIPTION:Saxonia Systems AG is hosting the Global Day Coderetreat 
+ 2013. \nRegistration Open: http://gdcr13-dresden.eventbrite.de\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2013-dresden-germany
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Saxonia Systems AG
+WEBSITE:https://maps.google.de/maps?q=Saxonia+Systems+AG,+Fritz-Foerst
+ er-Platz,+Dresden&hl=de&ll=51.030964,13.730164&spn=0.01004,0.022724&sl
+ l=51.030736,13.730121&sspn=0.01004,0.022724&oq=saxonia+&hq=Saxonia+Sys
+ tems+AG,&hnear=Fritz-Foerster-Platz,+01069+Dresden&t=m&z=16
+URL:https://maps.google.de/maps?q=Saxonia+Systems+AG,+Fritz-Foerster-P
+ latz,+Dresden&hl=de&ll=51.030964,13.730164&spn=0.01004,0.022724&sll=51
+ .030736,13.730121&sspn=0.01004,0.022724&oq=saxonia+&hq=Saxonia+Systems
+ +AG,&hnear=Fritz-Foerster-Platz,+01069+Dresden&t=m&z=16
+CONTACT:
+ORGANIZER;CN="Matthias Baumgart":http://coderetreat.org/profile/Matthi
+ asBaumgart
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matthias
+  Baumgart":http://coderetreat.org/profile/MatthiasBaumgart
+END:VEVENT
+END:VCALENDAR

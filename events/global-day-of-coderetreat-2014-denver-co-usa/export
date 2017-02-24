@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37873
+DTSTAMP:20170129T120217Z
+SUMMARY:Global Day of Coderetreat 2014 - Denver, CO, USA
+DESCRIPTION:Pivotal Labs will be hosting a Denver instance of Code Ret
+ reat as others around the world do the same. We'll meet at 8am at Pivo
+ tal's office within Galvanize and spend the day practicing our craft o
+ f programming.\nPair programming, test-driven development, and conscio
+ us practice are the main themes of the day, which we will explore thro
+ ugh the lens of a single programming problem in six 45 minute sessions
+ . When a session is over, we'll talk about how we approached the probl
+ em: how our choices of language, paradigm, and vocabulary shaped the s
+ olution. We'll also think about how our approach to pairing affected t
+ he kind of solution that was developed. At the end of the hour, we'll 
+ delete our code, find a new pair, and explore the problem again.\nEver
+ yone is welcome - beginner, intermediate, expert - and everyone will l
+ earn something new, likely something unexpected, about the craft of pr
+ ogramming. You'll need only a few things: a laptop with your favorite 
+ development tools, an open mind, and a sense of humor for when we dele
+ te our code.\nFood and drink (coffee, tea, soda-pop, but no alcohol) 
+ will be provided for both breakfast and lunch. Once we're done, some m
+ ight decide to socialize at a nearby pub.\nIf you will attend, please 
+ register - there's a link to Eventbrite below - to help us ensure ther
+ e is enough food for everyone to be happy.\nSee you in November!\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2014-denver-co-usa
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Pivotal Labs
+WEBSITE:https://www.eventbrite.com/e/global-day-of-code-retreat-ticket
+ s-13292800123
+URL:https://www.eventbrite.com/e/global-day-of-code-retreat-tickets-13
+ 292800123
+CONTACT:
+ORGANIZER;CN="Sean Duckett":http://coderetreat.org/profile/SeanDuckett
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sean Duc
+ kett":http://coderetreat.org/profile/SeanDuckett
+END:VEVENT
+END:VCALENDAR

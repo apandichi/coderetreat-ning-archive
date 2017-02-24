@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1fd1n092bo05f&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:59:02Z</updated>
+                            <author>
+                    <name>Holger Woltersdorf</name>
+                    <uri>http://coderetreat.org/profile/HolgerWoltersdorf</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/sb0MFra59lH9fVlLJxn6RgttG*BOnzGSNrPnw6uRf-We8VIjZXix-uiMwiZZ2QK7dJ0K3-ahZoWL4VTA7gYNtyHWPea7gfn3/1240304295.png?xgip=0%3A0%3A498%3A498%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1fd1n092bo05f&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Raimo Radczewski</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RaimoRadczewski"/>
+                                        <id>tag:coderetreat.org,2016-08-24:6456126:User:54155</id>
+                                        <updated>2016-08-24T14:42:53.833Z</updated>
+                    
+                                            <author>
+                            <name>Holger Woltersdorf</name>
+                            <uri>http://coderetreat.org/profile/HolgerWoltersdorf</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/jSNhDxbJzkjB-sm1qN5F1ZZMuh8GcmiyRSS-PbN99sDTWgyfZ*J572vsfQr4dQp61RrCDPoHw30gcg5wz1udaUsl2mZi3yns/1237772870.jpeg?xgip=0%3A0%3A541%3A541%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Raimo Radczewski&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/jSNhDxbJzkjB-sm1qN5F1ZZMuh8GcmiyRSS-PbN99sDTWgyfZ*J572vsfQr4dQp61RrCDPoHw30gcg5wz1udaUsl2mZi3yns/1237772870.jpeg?xgip=0%3A0%3A541%3A541%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Raimo Radczewski&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

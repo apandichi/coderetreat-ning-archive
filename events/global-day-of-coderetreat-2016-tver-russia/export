@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55841
+DTSTAMP:20170129T100810Z
+SUMMARY:Global Day of Coderetreat 2016 - Tver, Russia
+DESCRIPTION:22 октября - мы ждем тебя на coderetrea
+ t! Идея мероприятия - отвлечься от ежед�
+ �евных задач и полностью сосредоточит�
+ �ся на искусстве написания кода. Узнат�
+ � больше подробностей и зарегистриров�
+ �ться можно здесь: https://events.epam.com/events/global
+ -day-of-coderetreat-tver  Приходи, забудь о дедлай
+ нах, просто пиши код!\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2016-tver-russia
+DTSTART:20161022T110000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Кафе «На крыше»
+WEBSITE:https://goo.gl/maps/Fg9pVRRvewk
+URL:https://goo.gl/maps/Fg9pVRRvewk
+CONTACT:+7 920 692 57 75
+ORGANIZER:EPAM
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Igor Dro
+ zdov":http://coderetreat.org/profile/IgorDrozdov
+END:VEVENT
+END:VCALENDAR

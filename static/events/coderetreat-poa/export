@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:17993
+DTSTAMP:20170129T113451Z
+SUMMARY:CodeRetreat POA
+DESCRIPTION:The first CodeRetreat in Porto Alegre, Brazil\n\nFor more 
+ information visit http://coderetreat.org/events/coderetreat-poa
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:global, day, of, coderetreat
+LOCATION:ThoughtWorks Office
+WEBSITE:
+URL:
+CONTACT:51 82511971
+ORGANIZER;CN="Marcos Castilho":http://coderetreat.org/profile/MarcosCa
+ stilho
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thiago C
+ olucci":http://coderetreat.org/profile/ThiagoColucci
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="César H
+ enrique Vortmann":http://coderetreat.org/profile/CesarHenriqueVortmann
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jesús M
+ iguel Mercado Murillo":http://coderetreat.org/profile/JesusMiguelMerca
+ doMurillo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Leandro 
+ Moreira":http://coderetreat.org/profile/LeandroMoreira
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tainã T
+ c Caetano":http://coderetreat.org/profile/TainaTcCaetano
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael P
+ ortela":http://coderetreat.org/profile/RafaelPortela
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marcos C
+ astilho":http://coderetreat.org/profile/MarcosCastilho
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Reinald
+ o Jr":http://coderetreat.org/profile/ReinaldoJr
+END:VEVENT
+END:VCALENDAR

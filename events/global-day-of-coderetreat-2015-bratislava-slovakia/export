@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47065
+DTSTAMP:20170129T121937Z
+SUMMARY:Global Day of Coderetreat 2015 - Bratislava, Slovakia
+DESCRIPTION:Máš záujem zlepšiť si svoje písanie kódu?Rád by si
+  bol pri tom v kolektíve podobných ľudí?Coderetreat je zaujímavou
+  možnosťou. Je to svetový deň, ktorý spája developerov. Udalosť
+  zameraná na vývoj a dizajn softvéru založená na programovaní v 
+ pároch. Celý deň je rozdelený do 6-tich workshopov, počas ktorýc
+ h riešime \"Conway’s Game of Life\". Páry sa menia každý worksho
+ p pre maximalizovanie odovzdania svojich zručností. Po každom works
+ hope je kód vymazaný, čo dáva nasledovnému páru možnosť zača�
+ � bez ovplyvnenia predchádzajúcim párom.Minulý rok sa v tento dát
+ um realizovalo okolo 150 Coderetreat udalostí a participovalo 2000 ú
+ častníkov po celom svete Na stretnutie sa môžete sa prihlásiť ce
+ z: http://coderetreat.org/events/global-day-of-coderetreat-2015-bratis
+ lava-slovakia.Počet účastníkov je limitovaný na 25. Obed bude k d
+ ispozícii zdarma. Čo potrebujete:- Notebook s vývojárskym prostre
+ dím- Prečítať pravidlá Conway’s Game of Life (Wikipédia Game o
+ f Life) Tešíme sa.Global Day of Coderetreat is an event held around
+  the world to bring together developers to practice in advanced softwa
+ re development. Last year more than 2,000 developers from 150 cities a
+ ll around the world joined the event. What is CoderetreatCodeRetreat 
+ is a one-day event based on TDD practices and pair programming.The com
+ bination of pair programming with an emphasis on writing perfect code,
+  not the solution to the problem, provides an excellent opportunity to
+  gain and improve your programming skills in a company of other develo
+ pers.The whole day is divided into 6 sessions, 45 minutes each.During 
+ the sessions we solve Conway’s Game of Life. Pairs are changing afte
+ r each session to maximize the knowledge transfer. After each session 
+ written code will be deleted. This gives a chance in each subsequent s
+ ession to start again, not to be limited by previous decisions.Partici
+ pation is free of charge with preliminary registration on Coderetreat 
+ web-site or here. LimitationNumber of participants is limited to 25. 
+ The rest will be in a waiting list. To participate you need:— Lapto
+ p with configured development environment (possibly one for two).— K
+ now and understand TDD basics.— Read Conway’s Game of Life rules (
+ Wikipedia on Game_of_Life). The event is supported by Itera - an inte
+ rnational company specializing in communication and technology\nRegist
+ ration\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2015-bratislava-slovakia
+DTSTART:20151114T100000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Itera Slovakia
+WEBSITE:https://www.google.no/maps/place/TNS+Slovakia,+s.r.o./@48.1463
+ 898,17.1401646,18z/data=!4m5!1m2!2m1!1sPrievozsk%C3%A1+4d,+Bratislava,
+ +Slovakia!3m1!1s0x0000000000000000:0x03d1f04c1f62b2ac
+URL:https://www.google.no/maps/place/TNS+Slovakia,+s.r.o./@48.1463898,
+ 17.1401646,18z/data=!4m5!1m2!2m1!1sPrievozsk%C3%A1+4d,+Bratislava,+Slo
+ vakia!3m1!1s0x0000000000000000:0x03d1f04c1f62b2ac
+CONTACT:+421918887403
+ORGANIZER;CN="Michael Dyrda":http://coderetreat.org/profile/MichaelDyr
+ da
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Dyrda":http://coderetreat.org/profile/MichaelDyrda
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pavol Ra
+ jzák":http://coderetreat.org/profile/PavolRajzak
+END:VEVENT
+END:VCALENDAR

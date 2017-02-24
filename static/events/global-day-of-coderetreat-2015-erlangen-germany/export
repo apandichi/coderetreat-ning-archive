@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46178
+DTSTAMP:20170129T121147Z
+SUMMARY:Global Day of Coderetreat 2015 - Erlangen, Germany
+DESCRIPTION:Global Day of Coderetreat 2015 - Erlangen, Germany\nDetail
+ s auf der Softwerkskammer-Eventseite.\n\n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-coderetreat-2015-erlangen-
+ germany
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Method Park Holding AG, Wetterkreuz 19a, 91058 Erlangen
+WEBSITE:https://www.google.de/maps/dir/Wetterkreuz%2019a,91058%20Erlan
+ gen/
+URL:https://www.google.de/maps/dir/Wetterkreuz%2019a,91058%20Erlangen/
+CONTACT:
+ORGANIZER;CN="Stefan Clepce":http://coderetreat.org/profile/StefanClep
+ ce966
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan C
+ lepce":http://coderetreat.org/profile/StefanClepce966
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55231
+DTSTAMP:20170129T122321Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:Facilitator training session with @martinklose September 2
+ 1, 10:00 PM GMT+2https://plus.google.com/events/c59ccfpq6l4lp4s3jj19fa
+ ong10\n\nGlobal Day of Coderetreat is happening on Saturday, October 2
+ 2nd 2016. Find out more at http://gdcr.coderetreat.org/\nThis training
+  is for facilitators. Anybody interested in facilitating a coderetreat
+  is invited to attend at least one training session. This training wil
+ l be delivered online on Google Plus Events. Make sure you will be onl
+ ine five minutes before the training starts.\nLike last year we will h
+ ave two different types of trainings for Global Day of Coderetreat: fo
+ r hosts and for facilitators.\nThe job of the host is to make sure the
+  coderetreat runs smoothly by making sure everything is arranged. Host
+ s find a venue with all the necessary equipment, find a company to spo
+ nsor lunch, give away the prizes at the end of the day, organize video
+  chats with other locations, etc.\nThe job of the facilitator is to he
+ lp participants learn from each other. Facilitators understand the cod
+ eretreat format, choose and explain the constraints, and try to keep a
+  learning atmosphere during the day.\n\nFor more information visit htt
+ p://coderetreat.org/events/facilitator-training-session-67
+DTSTART:20160921T220000Z
+DTEND:20160921T230000Z
+CATEGORIES:training, facilitator_training
+LOCATION:Google Plus Hangouts
+WEBSITE:https://plus.google.com/events/c59ccfpq6l4lp4s3jj19faong10
+URL:https://plus.google.com/events/c59ccfpq6l4lp4s3jj19faong10
+CONTACT:
+ORGANIZER:Martin Klose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/iTmAuSUr3ri49
+ IxK57rq0wLU-oXqj38k8ZjqA9OONvXKXf5*TEXjJBdRxdxRWgwXl2UZaLSAd7kF2kEdg*M
+ pe7hQtOg*yTGJ/facilitatortrainingbanner.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pandichi
+  Alin-Ionut":http://coderetreat.org/profile/PandichiAlinIonut
+END:VEVENT
+END:VCALENDAR

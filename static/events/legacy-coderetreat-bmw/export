@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28841
+DTSTAMP:20170129T114332Z
+SUMMARY:Legacy Coderetreat @ BMW
+DESCRIPTION:please register here:\nhttp://legacycoderetreat-bmw.eventb
+ rite.com/\n\nFor more information visit http://coderetreat.org/events/
+ legacy-coderetreat-bmw
+DTSTART:20131119T083000Z
+DTEND:20131119T173000Z
+CATEGORIES:coderetreat, legacy
+LOCATION:BMW-Vierzylinder (Headquarters)
+WEBSITE:http://legacycoderetreat-bmw.eventbrite.com/
+URL:http://legacycoderetreat-bmw.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

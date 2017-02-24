@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=33pds3rl73chq&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:11:57Z</updated>
+                            <author>
+                    <name>Martin Klose</name>
+                    <uri>http://coderetreat.org/profile/MartinKlose</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/PvKuR6k4OyKX5IY83jKXwl2ZJ7rJfF*b*UNbj*AEw*ERdK5OZ5qLzMJwCMd89Q5i96t7BGPMOsTeHBSeQZINbUjCp-PCuZ*q/492587840.png?xgip=0%3A7%3A235%3A235%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=33pds3rl73chq&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Sina Scheuplein</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/SinaScheuplein"/>
+                                        <id>tag:coderetreat.org,2013-12-09:6456126:User:31673</id>
+                                        <updated>2013-12-09T07:17:10.163Z</updated>
+                    
+                                            <author>
+                            <name>Martin Klose</name>
+                            <uri>http://coderetreat.org/profile/MartinKlose</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Sina Scheuplein&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Sina Scheuplein&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Josef Scherer</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JosefScherer"/>
+                                        <id>tag:coderetreat.org,2012-10-26:6456126:User:14579</id>
+                                        <updated>2012-10-26T10:12:41.910Z</updated>
+                    
+                                            <author>
+                            <name>Martin Klose</name>
+                            <uri>http://coderetreat.org/profile/MartinKlose</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/DiPG1lX-O2h8ZaK*HqI-7Y5BImYnJALti6vvJ8VApHb9-PWKxx0qsG-kXDsljbfejuk0s30R896X9TJm6RP84va2vVv721wV/577117528.jpeg?xgip=0%3A1%3A320%3A320%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Josef Scherer&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/DiPG1lX-O2h8ZaK*HqI-7Y5BImYnJALti6vvJ8VApHb9-PWKxx0qsG-kXDsljbfejuk0s30R896X9TJm6RP84va2vVv721wV/577117528.jpeg?xgip=0%3A1%3A320%3A320%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Josef Scherer&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>YvesHanoulle</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/YvesHanoulle"/>
+                                        <id>tag:coderetreat.org,2012-10-24:6456126:User:14855</id>
+                                        <updated>2012-10-24T10:52:20.849Z</updated>
+                    
+                                            <author>
+                            <name>Martin Klose</name>
+                            <uri>http://coderetreat.org/profile/MartinKlose</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/5Y-VDX4IZn69WiaREdzBwPZAz9mm4yk4dk6544A1RG3oORW2T-itKCKdbty0dggb3sL3eY8844CNf1FKpJHKbjINOestdr5f/560551444.png?xgip=0%3A-21%3A183%3A183%3B%3B183&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;YvesHanoulle&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/5Y-VDX4IZn69WiaREdzBwPZAz9mm4yk4dk6544A1RG3oORW2T-itKCKdbty0dggb3sL3eY8844CNf1FKpJHKbjINOestdr5f/560551444.png?xgip=0%3A-21%3A183%3A183%3B%3B183&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;YvesHanoulle&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Rolf Hemmerling</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RolfHemmerling"/>
+                                        <id>tag:coderetreat.org,2012-07-18:6456126:User:11015</id>
+                                        <updated>2012-07-18T18:44:26.639Z</updated>
+                    
+                                            <author>
+                            <name>Martin Klose</name>
+                            <uri>http://coderetreat.org/profile/MartinKlose</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/LM5YzyCw7E7KE3CinuktVSOjLaxYehxRZKBlX6HLOViw8uLDAaQR3aZC2EDRw*k651mm32nUywk1Ro7ugzxvZI2udaofssTq/867398235.jpeg?xgip=0%3A39%3A299%3A299%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rolf Hemmerling&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/LM5YzyCw7E7KE3CinuktVSOjLaxYehxRZKBlX6HLOViw8uLDAaQR3aZC2EDRw*k651mm32nUywk1Ro7ugzxvZI2udaofssTq/867398235.jpeg?xgip=0%3A39%3A299%3A299%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rolf Hemmerling&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Peter Kofler</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/codecop"/>
+                                        <id>tag:coderetreat.org,2012-04-17:6456126:User:9539</id>
+                                        <updated>2012-04-17T20:51:42.397Z</updated>
+                    
+                                            <author>
+                            <name>Martin Klose</name>
+                            <uri>http://coderetreat.org/profile/MartinKlose</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/miiiDxz4dLvUBZRhz5u*8j5lsu9Mm4dq5U5XDH0*1jxpdjxKeUMRubQvXg0e40kfqbTWrwEG8pjbYJvTCkP2aSHObhqH-zbr/998980358.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Peter Kofler&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/miiiDxz4dLvUBZRhz5u*8j5lsu9Mm4dq5U5XDH0*1jxpdjxKeUMRubQvXg0e40kfqbTWrwEG8pjbYJvTCkP2aSHObhqH-zbr/998980358.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Peter Kofler&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

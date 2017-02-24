@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Thank you Emily for The Legacy Code Retreat Collection - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A27150&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:34:16Z</updated>
+                        <id>http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A27150&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Indeed this collection is gre…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:28769"/>
+                                        <id>tag:coderetreat.org,2013-11-09:6456126:Comment:28769</id>
+                                        <updated>2013-11-09T17:37:00.702Z</updated>
+                    
+                                            <author>
+                            <name>Peter Kofler</name>
+                            <uri>http://coderetreat.org/profile/codecop</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Indeed this collection is great. I used Tennis and Gilded Rose on several Dojos.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif;&quot;&gt;Thank you Emily.  These made for GREAT legacy code Dojos.&lt;/span&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Indeed this collection is great. I used Tennis and Gilded Rose on several Dojos.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif;&quot;&gt;Thank you Emily.  These made for GREAT legacy code Dojos.&lt;/span&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

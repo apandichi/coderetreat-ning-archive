@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28057
+DTSTAMP:20170129T115307Z
+SUMMARY:Global Day of Coderetreat 2013 - Trento, Italy
+DESCRIPTION:The first Coderetreat in Trento Italy by XPUG sponsored JU
+ G, GDG and trenta3dev :)\n\nFor more information visit http://coderetr
+ eat.org/events/code-retreat-by-xpug-trento
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Trento, Italy
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Nicola Moretto":http://coderetreat.org/profile/NicolaMor
+ etto
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nicola M
+ oretto":http://coderetreat.org/profile/NicolaMoretto
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Tan Duong&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/TanDuong</link>
+        <pubDate>Sun, 29 Jan 2017 13:45:06 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:45:06 +0000</lastBuildDate>
+        <image>
+            <title>Tan Duong&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/TanDuong</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000bab2868fb7810e8b83bd277</guid>
+               <title>Tan Duong updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:16832?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TanDuong?xg_source=activity">Tan Duong</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:16832?xg_source=activity">Global Day of Coderetreat 2012 - Hanoi / Vietnam</a> at FPT-Aptech Computer Education, 2nd Floor of D Building, inside Hacinco Student Village, Thanh Xuan District</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8am to 5pm</div><div class="rich-excerpt">Code Retreat Hanoi 8 Dec 2012<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:16832?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 26 Nov 2012 17:17:01 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000bab2868ed896aa695db2332</guid>
+               <title>Tan Duong posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:16832?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TanDuong?xg_source=activity">Tan Duong</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:16832?xg_source=activity">Code Retreat 8 Dec 2012</a> at TBD</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8am to 5pm</div><div class="rich-excerpt">Code Retreat Hanoi 8 Dec 2012<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:16832?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 21 Nov 2012 16:30:12 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000bab28682b49426e3ba312e0</guid>
+               <title>Tan Duong is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/TanDuong?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TanDuong?xg_source=activity">Tan Duong</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Wed, 21 Nov 2012 16:29:00 +0000</pubDate>
+               </item>    </channel>
+</rss>

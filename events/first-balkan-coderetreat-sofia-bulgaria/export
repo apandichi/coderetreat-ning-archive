@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13602
+DTSTAMP:20170129T140624Z
+SUMMARY:First Balkan coderetreat, Sofia, Bulgaria
+DESCRIPTION:Stefan Kanev had the idea to organize a coderetreat where 
+ people from the countries neighbouring Bulgaria could attend. It's not
+  just about passionate people honing their craft, but also about passi
+ onate people travelling from other countries to Sofia for one day of m
+ agnificence.  Here is the link where you can register: http://balkan-c
+ oderetreat.com/  If this event goes well we want to start organizing i
+ t in different countries in the Balkans, one every couple of months.  
+ If you have any questions or just want to get in touch, please email u
+ s at questions@balkan-coderetreat.com.\n\nFor more information visit h
+ ttp://coderetreat.org/events/first-balkan-coderetreat-sofia-bulgaria
+DTSTART:20121027T083000Z
+DTEND:20121027T173000Z
+CATEGORIES:coderetreat
+LOCATION:Telerik Academy
+WEBSITE:https://maps.google.bg/maps?ie=UTF8&cid=11371354355546699809&q
+ =Telerik+Academy&iwloc=A&gl=BG&hl=bg
+URL:https://maps.google.bg/maps?ie=UTF8&cid=11371354355546699809&q=Tel
+ erik+Academy&iwloc=A&gl=BG&hl=bg
+CONTACT:
+ORGANIZER:Stefan Kanev, Adi Bolboaca
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

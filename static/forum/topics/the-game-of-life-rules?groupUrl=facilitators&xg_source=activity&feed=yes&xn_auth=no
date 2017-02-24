@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>The Game of Life rules - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/the-game-of-life-rules?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:36:09Z</updated>
+                        <id>http://coderetreat.org/forum/topics/the-game-of-life-rules?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I showed the rules on a slide…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:4281"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:Comment:4281</id>
+                                        <updated>2011-12-04T03:38:52.737Z</updated>
+                    
+                                            <author>
+                            <name>Michael Hunger</name>
+                            <uri>http://coderetreat.org/profile/MichaelHunger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I showed the rules on a slide side by side with the John Conway video. All attendees remembered them, no one asked about it.&lt;/p&gt;
+&lt;p&gt;But I like Greg&#039;s idea and will do something similar next time.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I showed the rules on a slide side by side with the John Conway video. All attendees remembered them, no one asked about it.&lt;/p&gt;
+&lt;p&gt;But I like Greg&#039;s idea and will do something similar next time.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Last time in Berlin we have p…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:2549"/>
+                                        <id>tag:coderetreat.org,2011-11-30:6456126:Comment:2549</id>
+                                        <updated>2011-11-30T21:19:12.133Z</updated>
+                    
+                                            <author>
+                            <name>Greg Dziemidowicz</name>
+                            <uri>http://coderetreat.org/profile/GregDziemidowicz</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Last time in Berlin we have printed them out for everyone. On Saturday, we are probably going to do the same.&lt;/p&gt;
+&lt;p&gt;On the printout we have rules, map to a pub where there will be after-party and maybe sponsors logos and agenda for a day. I think for the first time I seen this idea in Krakow&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Last time in Berlin we have printed them out for everyone. On Saturday, we are probably going to do the same.&lt;/p&gt;
+&lt;p&gt;On the printout we have rules, map to a pub where there will be after-party and maybe sponsors logos and agenda for a day. I think for the first time I seen this idea in Krakow&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I make sure to have the wikip…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:2419"/>
+                                        <id>tag:coderetreat.org,2011-11-28:6456126:Comment:2419</id>
+                                        <updated>2011-11-28T23:03:14.340Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I make sure to have the wikipedia page open on a projector, generally to the rules. I find that most people have memorized the rules by the third session, so I usually scroll the page down to some of the example patterns (block, blinker, etc).&lt;/p&gt;
+&lt;p&gt;If there is internet access at the venue, then I see people occasionally jumping to the wikipedia page on their own computer.&lt;/p&gt;
+&lt;p&gt;One of the great things about GoL is that the rules are simple enough to memorize with just a little of time…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I make sure to have the wikipedia page open on a projector, generally to the rules. I find that most people have memorized the rules by the third session, so I usually scroll the page down to some of the example patterns (block, blinker, etc).&lt;/p&gt;
+&lt;p&gt;If there is internet access at the venue, then I see people occasionally jumping to the wikipedia page on their own computer.&lt;/p&gt;
+&lt;p&gt;One of the great things about GoL is that the rules are simple enough to memorize with just a little of time thinking about them.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I like to bring up the Wikipe…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:2164"/>
+                                        <id>tag:coderetreat.org,2011-11-28:6456126:Comment:2164</id>
+                                        <updated>2011-11-28T17:38:08.992Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I like to bring up the Wikipedia page for the Game of Life and project it on the wall during the sessions. I also encourage pairs to pull up the Wikipedia page on one of their laptops.&lt;/p&gt;
+&lt;p&gt;If nether of those options will work, you could print the rules out and hand them out to each pair.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I like to bring up the Wikipedia page for the Game of Life and project it on the wall during the sessions. I also encourage pairs to pull up the Wikipedia page on one of their laptops.&lt;/p&gt;
+&lt;p&gt;If nether of those options will work, you could print the rules out and hand them out to each pair.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

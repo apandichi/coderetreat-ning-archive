@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37501
+DTSTAMP:20170129T122248Z
+SUMMARY:Global Day of Coderetreat 2014 - Osnabrück, Germany
+DESCRIPTION:Nach einem erfolgreichen GDCR letzten Jahres, wird auch in
+  im Jahr 2014 der GDCR in Osnabrück durchgeführt! Es wartet ein span
+ nender und unterhaltsamer Tag auf die Teilnehmer, an dem bewährte Tec
+ hniken der Softwareentwicklung verbessert und neue erlernt werden kön
+ nen. Studenten sind ebenso wie berufstätige Softwareentwickler herzli
+ ch eingeladen, ihre Erfahrungen auszutauschen und ihr Programmierhandw
+ erk aufzubessern. Die Teilnahme ist kostenlos – für einen Snack wir
+ d gesorgt. Für die Teilnahme ist das Mitbringen eines Notebooks inkl
+ . eingerichteter Entwicklungsumgebung für die gewählte Programmiersp
+ rache erforderlich!\n\nFor more information visit http://coderetreat.o
+ rg/events/global-day-of-coderetreat-2014-osnabr-ck-germany
+DTSTART:20141115T100000Z
+DTEND:20141115T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Hochschule Osnabrück
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Ingo Lücker":http://coderetreat.org/profile/IngoLuecker
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/DBD4PE5EidUuc
+ srG4L1a5UogSFH8*YPPoy72U1rBnRrOFm7Mwo2muYOSiS8LQ6QYc4JM-jDa8X232KfwAA1
+ K4sWucJpJDT*2/LMISHS_gelb.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ingo Lü
+ cker":http://coderetreat.org/profile/IngoLuecker
+END:VEVENT
+END:VCALENDAR

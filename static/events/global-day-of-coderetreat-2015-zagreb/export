@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47920
+DTSTAMP:20170129T103713Z
+SUMMARY:Global Day of Coderetreat 2015 - Zagreb, Croatia
+DESCRIPTION:Zagreb 2015 GDCR.\nRegister at https://www.entrio.hr/even
+ t/global-day-of-coderetreat-2015-2771 and follow coderetreatzg on tw
+ itter\n\nFor more information visit http://coderetreat.org/events/glob
+ al-day-of-coderetreat-2015-zagreb
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Floating point, Zagreb, Croatia
+WEBSITE:https://www.entrio.hr/event/global-day-of-coderetreat-2015-277
+ 1
+URL:https://www.entrio.hr/event/global-day-of-coderetreat-2015-2771
+CONTACT:
+ORGANIZER:Zeljko Filipin/Aljosa Mohorovic/Péter Zsoldos
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Péter Z
+ soldos":http://coderetreat.org/profile/PeterZsoldos
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Beckie Santos&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/BeckieSantos</link>
+        <pubDate>Sun, 29 Jan 2017 12:44:16 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:44:16 +0000</lastBuildDate>
+        <image>
+            <title>Beckie Santos&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/BeckieSantos</link>
+            <url>http://api.ning.com:80/files/Kjksah5NWojRVUHsTo64YZ0XVq8u8S4HcQxMCoN9EJ8ahFXGPTzwAPU9Af938aPRNoB5p7-OrGXrDnMYovy1J1OfUS5pV09F/849834823.jpeg?xgip=0%3A0%3A598%3A598%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ad73f081016a27d8c4ec9f5</guid>
+               <title>Beckie Santos is attending corey haines&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:9305?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/BeckieSantos?xg_source=activity">Beckie Santos</a> is attending <a href="http://coderetreat.org/profile/128952ghvkcvj?xg_source=activity">corey haines's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:9305?xg_source=activity">Coderetreat Agile Roots</a> at TBD</h3><div class="rich-detail"><div class="rich-date">June 23, 2012 from 8:30am to 5:30pm</div><div class="rich-excerpt">This is a coderetreat associated right after the Agile Roots conference. More details coming soon.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:9305?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 14 Jun 2012 15:57:30 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ad73f0810f771b87787b110</guid>
+               <title>Beckie Santos is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/BeckieSantos?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/BeckieSantos?xg_source=activity">Beckie Santos</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Thu, 14 Jun 2012 15:56:51 +0000</pubDate>
+               </item>    </channel>
+</rss>

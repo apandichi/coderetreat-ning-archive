@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:42457
+DTSTAMP:20170129T122803Z
+SUMMARY:DWX 2015
+DESCRIPTION:Developer Week 2014 from 14 - 17 July 2014 in Nuremberg\n1
+  event for all software developers\nIn one week and one place, the Dev
+ eloper Week (DWX) focusses the established events WDC (Web Developer C
+ onference), MDC (Mobile Developer Conference) and DDC (.NET Developer 
+ Conference).\nOn 4 days renowned experts introduce to you the latest t
+ echnology and fundamental – by experience for developers’ everyday
+  life. Workshops allow deepening and consolidating knowledge from the 
+ conference sessions. During evening fringe events attendees have the p
+ ossibility to network and share knowledge and views.\n \nDWX addresse
+ s Developers of web applications, Content and Online Managers, Webmast
+ ers and agencies, and developers for .NET, Visual Basic, C++, VBA and 
+ mobile applications.\n \nThe DWX is presented by the specialist magaz
+ ines “dotnetpro” and “web & mobile developer” published by Neu
+ e Mediengesellschaft Ulm mbH. \n \nWe are a partner of the Developer
+  Week! Take advantage of special conditions by entering the code DWX14
+ mom at the online registration!\n \nMore information at http://www.de
+ veloper-week.de/\n\nFor more information visit http://coderetreat.org/
+ events/dwx-2015
+DTSTART:20150615T000000Z
+DTEND:20150618T235900Z
+CATEGORIES:developer, week
+LOCATION:Nuremberg
+WEBSITE:https://www.google.de/maps/place/NCC+Ost/@49.420005,11.12038,1
+ 7z/data=!3m1!4b1!4m2!3m1!1s0x479f59e846d77f81:0x775c7395ba5daf68
+URL:https://www.google.de/maps/place/NCC+Ost/@49.420005,11.12038,17z/d
+ ata=!3m1!4b1!4m2!3m1!1s0x479f59e846d77f81:0x775c7395ba5daf68
+CONTACT:
+ORGANIZER:Florian Bender
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/YRV3Lv4YkEJ*L
+ 2JzQCJAQPDKHX-TEMXGpz-WNVTXAZahg3XHVNIBqMjxKLiiK25sgyefj*vb4k*D85a*7-o
+ SoH1LZw-aLu3Z/DeveloperWeek2015.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peggy Pa
+ schold":http://coderetreat.org/profile/PeggyPaschold
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2012 - Atlanta, GA / USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A11997&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:00:01Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A11997&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Awesome. Unfortunately someth…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:15818"/>
+                                        <id>tag:coderetreat.org,2012-11-09:6456126:Comment:15818</id>
+                                        <updated>2012-11-09T21:47:00.286Z</updated>
+                    
+                                            <author>
+                            <name>Kurt Griffiths</name>
+                            <uri>http://coderetreat.org/profile/KurtGriffiths</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Awesome. Unfortunately something came up and I won&#039;t be able to make it, but I&#039;m seeing if someone else from the Rackspace Atlanta office is up for it.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Awesome. Unfortunately something came up and I won&#039;t be able to make it, but I&#039;m seeing if someone else from the Rackspace Atlanta office is up for it.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Kurt,
+We are opening signu…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:13389"/>
+                                        <id>tag:coderetreat.org,2012-10-11:6456126:Comment:13389</id>
+                                        <updated>2012-10-11T20:35:47.201Z</updated>
+                    
+                                            <author>
+                            <name>Stafford Brooke</name>
+                            <uri>http://coderetreat.org/profile/StaffordBrooke</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Kurt,&lt;/p&gt;
+&lt;p&gt;We are opening signups on Nov. 8th.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Kurt,&lt;/p&gt;
+&lt;p&gt;We are opening signups on Nov. 8th.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi guys. Can you comment here…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:12643"/>
+                                        <id>tag:coderetreat.org,2012-09-21:6456126:Comment:12643</id>
+                                        <updated>2012-09-21T19:28:02.408Z</updated>
+                    
+                                            <author>
+                            <name>Kurt Griffiths</name>
+                            <uri>http://coderetreat.org/profile/KurtGriffiths</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi guys. Can you comment here when signups open, or is there another way I can be notified?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi guys. Can you comment here when signups open, or is there another way I can be notified?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

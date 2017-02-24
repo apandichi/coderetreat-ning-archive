@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:52915
+DTSTAMP:20170129T105326Z
+SUMMARY:Bangalore Coderetreat
+DESCRIPTION:On 2 April 2016 @ Bangalore we are going to celebrate soft
+ ware craftsmanship by engaging ourselves in a coderetreat. All code lo
+ vers are invited to this event .More details @  http://www.meetup.com
+ /Agile-Technical-Group/events/229713779/\n\nFor more information visit
+  http://coderetreat.org/events/bangalore-coderetreat
+DTSTART:20160402T081500Z
+DTEND:20160402T123000Z
+CATEGORIES:coderetreat
+LOCATION:Malleswaram ,
+WEBSITE:http://www.meetup.com/Agile-Technical-Group/events/229713779/
+URL:http://www.meetup.com/Agile-Technical-Group/events/229713779/
+CONTACT:
+ORGANIZER:SolutionsIQ
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ranjith 
+ Tharayil":http://coderetreat.org/profile/RanjithTharayil
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Vidyasa
+ gar Velur":http://coderetreat.org/profile/VidyasagarVelur
+END:VEVENT
+END:VCALENDAR

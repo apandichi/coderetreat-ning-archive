@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48302
+DTSTAMP:20170129T121319Z
+SUMMARY:Global Day of Coderetreat 2015 - Brest, Belarus
+DESCRIPTION:November, 14 is the day when any engineer can get away fro
+ m the pressure of “getting things done” and retreat to the softwar
+ e craftsmanship harbor. This year 20+ EPAM offices are officially join
+ ing the Global Day of Coderetreat and we are inviting you to master yo
+ ur coding skills together with other EPAMers.\nRegister Me!\n\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2015-brest-belarus
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Brest, Belarus
+WEBSITE:https://www.google.com/maps/@52.097358,23.6920496,16.75z
+URL:https://www.google.com/maps/@52.097358,23.6920496,16.75z
+CONTACT:
+ORGANIZER:Ilya Lapitan
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Y8Xf2kBXWFmOt
+ tylBDnwngB3ar6oD4X7EYjcdg6RjRum9syyhr6XeC8bVbEQ6qpB9XcGRG6dGNy9uLC1XDX
+ cqsrDLHvGP0rD/brest.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ilia Lap
+ itan":http://coderetreat.org/profile/IliaLapitan
+END:VEVENT
+END:VCALENDAR

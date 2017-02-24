@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28468
+DTSTAMP:20170129T135634Z
+SUMMARY:Global Day of Coderetreat 2013 - Lima, Perú
+DESCRIPTION:Location: UPC MonterricoStreet: Av. Primavera 2390City/To
+ wn: LimaWebsite or Map:https://maps.google.com/maps?…Event Type: c
+ oderetreat, gdcr, gdcr13Organized By: ITP_JAVA (@itp_java)\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2013-lima-per-1
+DTSTART:20131214T090000Z
+DTEND:20131214T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:UPC Monterrico
+WEBSITE:http://www.upc.edu.pe
+URL:http://www.upc.edu.pe
+CONTACT:987500273
+ORGANIZER;CN="Jose Diaz Diaz":http://coderetreat.org/profile/JoseDiazD
+ iaz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cesar Ap
+ aico Espinoza":http://coderetreat.org/profile/CesarApaicoEspinoza
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Luis Fel
+ ipe Vega Calle":http://coderetreat.org/profile/LuisFelipeVegaCalle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Luiggi M
+ endoza":http://coderetreat.org/profile/LuiggiMendoza
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jose Dia
+ z Diaz":http://coderetreat.org/profile/JoseDiazDiaz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Aldave":http://coderetreat.org/profile/JonathanAldave
+END:VEVENT
+END:VCALENDAR

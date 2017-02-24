@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Other idea to run the GDCR2013 - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/other-idea-to-run-the-gdcr2013?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:42:25Z</updated>
+                        <id>http://coderetreat.org/forum/topics/other-idea-to-run-the-gdcr2013?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Hi,
+Thanks for the replies :)…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:30153"/>
+                                        <id>tag:coderetreat.org,2013-11-22:6456126:Comment:30153</id>
+                                        <updated>2013-11-22T23:53:36.836Z</updated>
+                    
+                                            <author>
+                            <name>Jarosław Stadnicki</name>
+                            <uri>http://coderetreat.org/profile/JaroslawStadnicki</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Thanks for the replies :) We discussed it a bit and decided to go with GOL and save the hackathon idea for next time, so decembre 14 get ready for Wroclaw!&lt;br/&gt;Thanks :)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Thanks for the replies :) We discussed it a bit and decided to go with GOL and save the hackathon idea for next time, so decembre 14 get ready for Wroclaw!&lt;br/&gt;Thanks :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Agree with Gabriele
+The impor…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29898"/>
+                                        <id>tag:coderetreat.org,2013-11-22:6456126:Comment:29898</id>
+                                        <updated>2013-11-22T17:48:15.867Z</updated>
+                    
+                                            <author>
+                            <name>Matt Plavcan</name>
+                            <uri>http://coderetreat.org/profile/MattPlavcan</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Agree with Gabriele&lt;/p&gt;
+&lt;p&gt;The important question you should ask is: &#039;What is the goal/outcome of the the event?&#039;  A hackathon can be an amazing event, but it has a different goal  (and drives different behavior) than code retreat.  In particular, everyone being under time pressure to deliver functioning apps and each group working in a different problem domain tends to reduce opportunities for shared learning.&lt;/p&gt;
+&lt;p&gt;Regarding Conway&#039;s being &#039;solved&#039;: Code Retreat has used GOL for four…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Agree with Gabriele&lt;/p&gt;
+&lt;p&gt;The important question you should ask is: &#039;What is the goal/outcome of the the event?&#039;  A hackathon can be an amazing event, but it has a different goal  (and drives different behavior) than code retreat.  In particular, everyone being under time pressure to deliver functioning apps and each group working in a different problem domain tends to reduce opportunities for shared learning.&lt;/p&gt;
+&lt;p&gt;Regarding Conway&#039;s being &#039;solved&#039;: Code Retreat has used GOL for four years, and many have raised similar questions. I&#039;ll refer you to this Stack Exchange thread:&lt;/p&gt;
+&lt;p&gt;    &lt;a rel=&quot;nofollow&quot; href=&quot;http://programmers.stackexchange.com/questions/121001/why-is-conways-game-of-life-used-for-code-retreats&quot; target=&quot;_blank&quot;&gt;tdd - Why s Conway&#039;s &quot;Gafe of Life&quot; used for code retreats?&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I think the point of CR is to…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:30115"/>
+                                        <id>tag:coderetreat.org,2013-11-22:6456126:Comment:30115</id>
+                                        <updated>2013-11-22T06:07:53.699Z</updated>
+                    
+                                            <author>
+                            <name>Gabriele Lana</name>
+                            <uri>http://coderetreat.org/profile/GabrieleLana</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I think the point of CR is to teach how to practice by doing it. To do that, to practice, the problem you are trying to solve must disappear. The problem it&#039;s an excuse to practice one or more of the programming core skills. That&#039;s why we always use the same problem, that&#039;s why we delete our code at the end of each session. As a host/facilitator/coach I&#039;m happy when they go home knowing why they need to practice and how to practice. As long as you keep the focus on learning how to practice I…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I think the point of CR is to teach how to practice by doing it. To do that, to practice, the problem you are trying to solve must disappear. The problem it&#039;s an excuse to practice one or more of the programming core skills. That&#039;s why we always use the same problem, that&#039;s why we delete our code at the end of each session. As a host/facilitator/coach I&#039;m happy when they go home knowing why they need to practice and how to practice. As long as you keep the focus on learning how to practice I don&#039;t see a real problem. Only one advice, if you want/need to change the problem don&#039;t choose a &quot;too interesting&quot; problem :-) The GOL is well tuned because it&#039;s interesting/challenging enough to not be boring, but it&#039;s boring enough to let the attendees to focus on practicing :-)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

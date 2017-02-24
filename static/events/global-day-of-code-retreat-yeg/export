@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13498
+DTSTAMP:20170129T104413Z
+SUMMARY:Global Day of Coderetreat 2012 - Edmonton / Canada
+DESCRIPTION:The Edmonton chapter of Global Day of Code Retreat!\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ de-retreat-yeg
+DTSTART:20121208T084500Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:DevFacto Technologies
+WEBSITE:http://coderetreatyeg2012.eventbrite.com/
+URL:http://coderetreatyeg2012.eventbrite.com/
+CONTACT:17809374443
+ORGANIZER;CN="Curtis Badke":http://coderetreat.org/profile/CurtisBadke
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Curtis B
+ adke":http://coderetreat.org/profile/CurtisBadke
+END:VEVENT
+END:VCALENDAR

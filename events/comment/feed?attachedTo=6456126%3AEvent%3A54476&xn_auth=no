@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Facilitator Training Session - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A54476&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:23:31Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A54476&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Thanks for the hint, glad the…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:55940"/>
+                                        <id>tag:coderetreat.org,2016-10-06:6456126:Comment:55940</id>
+                                        <updated>2016-10-06T07:01:58.450Z</updated>
+                    
+                                            <author>
+                            <name>infinitary</name>
+                            <uri>http://coderetreat.org/profile/infinitary</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks for the hint, glad the fix helped!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks for the hint, glad the fix helped!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>For some reason you link does…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:56016"/>
+                                        <id>tag:coderetreat.org,2016-10-05:6456126:Comment:56016</id>
+                                        <updated>2016-10-05T22:22:19.940Z</updated>
+                    
+                                            <author>
+                            <name>Vlad Korolev</name>
+                            <uri>http://coderetreat.org/profile/VladKorolev</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;For some reason you link does not work.&lt;/p&gt;
+&lt;p&gt;Maybe because of &lt;a href=&quot;http://stackoverflow.com/questions/26797765/google-hangout-url-returning-404&quot; target=&quot;_blank&quot;&gt;this issue&lt;/a&gt; ? &lt;/p&gt;
+&lt;p&gt;At least the work around described by stack overflow works.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;For some reason you link does not work.&lt;/p&gt;
+&lt;p&gt;Maybe because of &lt;a href=&quot;http://stackoverflow.com/questions/26797765/google-hangout-url-returning-404&quot; target=&quot;_blank&quot;&gt;this issue&lt;/a&gt; ? &lt;/p&gt;
+&lt;p&gt;At least the work around described by stack overflow works.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

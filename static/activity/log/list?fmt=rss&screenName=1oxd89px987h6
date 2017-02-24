@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Manuel Küblböck&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ManuelKueblboeck</link>
+        <pubDate>Sun, 29 Jan 2017 13:05:13 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:05:13 +0000</lastBuildDate>
+        <image>
+            <title>Manuel Küblböck&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ManuelKueblboeck</link>
+            <url>http://api.ning.com:80/files/SIdK1byUS2EKnNY2EhOHmWcaGnkpbBJs4RzlprWJGvICJU2GF6a7MVpipL*5E7YyEoEB-honGu4ytz4hHS3BWd2nxRSFxXgS/949995326.jpeg?xgip=0%3A0%3A234%3A234%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

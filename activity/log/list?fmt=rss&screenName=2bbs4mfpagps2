@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Grant Austin&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/GrantAustin</link>
+        <pubDate>Sun, 29 Jan 2017 11:17:38 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:17:38 +0000</lastBuildDate>
+        <image>
+            <title>Grant Austin&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/GrantAustin</link>
+            <url>http://api.ning.com:80/files/18X2qcxpLSwRWe93P1K3WpIq9UZCTkpnPsAhbbOBCUoMZ0hidAZOgWVO3yxd17hYQgaDQE-aTcK*rgOt7FQ0lBCvBOL0p0GE/544515919.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ba916d9ec69d6fabc579b42</guid>
+               <title>Grant Austin posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28182?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/GrantAustin?xg_source=activity">Grant Austin</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28182?xg_source=activity">Global Day of Code Retreat - Helena, MT</a> at Helena, MT</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">Helena, MT is participating in the <a href="http://globalday.coderetreat.org/" target="_blank">Global Day of Coderetreat 2013</a>!<a href="http://coderetreat.org/" target="_blank">Coderetreat</a> is a day-long, intensive practice event focused on the fundamentals of software development and design.The unique coderetreat format (which eliminates the pressure of 'getting things done' and focuses on practicing basic principles of good design) has proven to be a highly effective (and fun) means of skill improvement.  On December 14th, Coderetreats will be held at cities all over the world. To celebrate this significant event, we'll be participating in some global activities in addition to our normal Coderetreat activities.You only need to bring a laptop with the development tools you require to write code using your chosen programming languages. Check out <a href="http://coderetreat.org/" target="_blank">coderetreat.org</a> for further details on what to expect.Register: <a href="http://www.meetup.com/Montana-Programmers/events/143208412/">http://www.meetup.com/Montana-Programmers/events/143208412/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28182?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 25 Oct 2013 20:55:22 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba916d9774838cff708236b</guid>
+               <title>Grant Austin posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:16611?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/GrantAustin?xg_source=activity">Grant Austin</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:16611?xg_source=activity">Helena Code Retreat</a> at iKuw Solutions Office</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8:30am to 5pm</div><div class="rich-excerpt">Organized on Meetup.com: <a href="http://www.meetup.com/Montana-Programmers/events/84027972/" target="_blank">http://www.meetup.com/Montana-Programmers/events/84027972/</a>We are at capacity for the venue, but feel free to join the waitlist.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:16611?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 19 Nov 2012 19:55:39 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba916d9716c828608ede18c</guid>
+               <title>Grant Austin is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/GrantAustin?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/GrantAustin?xg_source=activity">Grant Austin</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Mon, 19 Nov 2012 19:52:44 +0000</pubDate>
+               </item>    </channel>
+</rss>

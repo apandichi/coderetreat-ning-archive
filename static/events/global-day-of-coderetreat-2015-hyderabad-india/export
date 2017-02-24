@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45759
+DTSTAMP:20170129T105127Z
+SUMMARY:Global Day of Coderetreat 2015 - Hyderabad, India
+DESCRIPTION:TBD\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2015-hyderabad-india
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:+917680936123
+ORGANIZER;CN="Rajmahendra Hegde":http://coderetreat.org/profile/rajmah
+ endra
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rajmahen
+ dra Hegde":http://coderetreat.org/profile/rajmahendra
+END:VEVENT
+END:VCALENDAR

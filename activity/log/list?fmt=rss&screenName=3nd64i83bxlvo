@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jnardiello&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/Jnardiello</link>
+        <pubDate>Sun, 29 Jan 2017 10:33:29 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:33:29 +0000</lastBuildDate>
+        <image>
+            <title>Jnardiello&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/Jnardiello</link>
+            <url>http://api.ning.com:80/files/NfZBQ8g66NTVYI06iygvecr07d7NcXaC4JAu13Suh1-0hyKXNFOZhCpI4CBC209DUOW5djznXDCgLXN*gLKasnjE9WX9Rla*/1086979348.png?xgip=13%3A0%3A529%3A529%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009c5d09a70c12a4fd279104c</guid>
+               <title>Jnardiello posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47277?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Jnardiello?xg_source=activity">Jnardiello</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47277?xg_source=activity">Global Day of Coderetreat 2015 - London, UK</a> at DHI Group, Inc.</h3><div class="rich-detail"><div class="rich-date">October 15, 2015 from 9am to 6pm</div><div class="rich-excerpt">This event is going to be hosted and facilitated by DHI Group and 8th Light.   Make sure to RSVP with Eventbrite. <a href="https://www.eventbrite.co.uk/e/global-day-of-coderetreat-hosted-by-dhi-group-and-8th-light-tickets-19059104294">https://www.eventbrite.co.uk/e/global-day-of-coderetreat-hosted-by-dhi-group-and-8th-light-tickets-19059104294</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47277?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 15 Oct 2015 13:07:05 +0000</pubDate>
+               </item>    </channel>
+</rss>

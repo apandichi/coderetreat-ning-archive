@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3w0ac2argoaz4&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:57:32Z</updated>
+                            <author>
+                    <name>Thilko Richter</name>
+                    <uri>http://coderetreat.org/profile/ThilkoRichter</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/swLlbX5ug5Z210EjZhrAEQ1vZgD0JW8kjPw1dXVmP3hGER8PVlGw2aI-7I09wXi-8LzH3ZJDnKhUaG8tChnuYqezswRIAKBH/1040847074.jpeg?xgip=3%3A0%3A1529%3A1529%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3w0ac2argoaz4&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Erdbeervogel</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/Erdbeervogel"/>
+                                        <id>tag:coderetreat.org,2011-12-03:6456126:User:3319</id>
+                                        <updated>2011-12-03T12:04:36.731Z</updated>
+                    
+                                            <author>
+                            <name>Thilko Richter</name>
+                            <uri>http://coderetreat.org/profile/ThilkoRichter</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/2*Phht-MsJBW4Efah7gdwWqnsIQ2rece6mC*y6f1ykhLmSQ21hUVOYPQT-0XULFBbnfaHhVjzNLXWN3-7doK6s2mY3zmCQSt/709820659.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erdbeervogel&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/2*Phht-MsJBW4Efah7gdwWqnsIQ2rece6mC*y6f1ykhLmSQ21hUVOYPQT-0XULFBbnfaHhVjzNLXWN3-7doK6s2mY3zmCQSt/709820659.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Erdbeervogel&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

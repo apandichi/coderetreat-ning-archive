@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16667
+DTSTAMP:20170129T134325Z
+SUMMARY:Global Day of Coderetreat 2012 - Portland, OR / USA
+DESCRIPTION:Join in the Global Day of Code Retreat\nSign up at eventbr
+ ite.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2012-portland-or-usa
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Puppet Labs
+WEBSITE:https://maps.google.com/maps?q=926+NW+13th+Ave+%23+210+Portlan
+ d,+OR+&hl=en&sll=45.543408,-122.654422&sspn=0.539576,1.398697&t=h&hnea
+ r=926+NW+13th+Ave+%23210,+Portland,+Multnomah,+Oregon+97209&z=17
+URL:https://maps.google.com/maps?q=926+NW+13th+Ave+%23+210+Portland,+O
+ R+&hl=en&sll=45.543408,-122.654422&sspn=0.539576,1.398697&t=h&hnear=92
+ 6+NW+13th+Ave+%23210,+Portland,+Multnomah,+Oregon+97209&z=17
+CONTACT:
+ORGANIZER;CN="Andrew Parker":http://coderetreat.org/profile/AndrewPark
+ er
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew P
+ arker":http://coderetreat.org/profile/AndrewParker
+END:VEVENT
+END:VCALENDAR

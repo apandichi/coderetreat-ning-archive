@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39866
+DTSTAMP:20170129T112158Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!\n\n This training is for facilitators. A
+ nybody interested in facilitating a coderetreat is invited to attend a
+ t least one training session. This training will be delivered online o
+ n Google Plus Hangouts. Make sure you will be online five minutes befo
+ re the training starts.\nLike last year we will have two different typ
+ es of trainings for Global Day of Coderetreat: for hosts and for facil
+ itators.\nThe job of the host is to make sure the coderetreat runs smo
+ othly by making sure everything is arranged. Hosts find a venue with a
+ ll the necessary equipment, find a company to sponsor lunch, give away
+  the prizes at the end of the day, organize video chats with other loc
+ ations, etc.\nThe job of the facilitator is to help participants learn
+  from each other. Facilitators understand the coderetreat format, choo
+ se and explain the constraints, and try to keep a learning atmosphere 
+ during the day\n\nImportant: All the times are in UTC. Do one of the f
+ ollowing to view training times in your time zone:\n\nAdd the GDCR Cal
+ endar to your Google Calendar account\nUse this tool to convert the ti
+ me from UTC to your time zone\n\n\nFor more information visit http://c
+ oderetreat.org/events/facilitator-training-session-23
+DTSTART:20141029T190000Z
+DTEND:20141029T200000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/events/ctjjcbvq4bj0b47o4g2i8pm65q0
+WEBSITE:https://plus.google.com/events/ctjjcbvq4bj0b47o4g2i8pm65q0
+URL:https://plus.google.com/events/ctjjcbvq4bj0b47o4g2i8pm65q0
+CONTACT:
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/2Tkrz8bmcYhvv
+ HD0CfMPpKqV58CvKn-DPL0Ku8td7GU4zUo10ilSmQ9dYnhEKGwon5m*2YrCkeMr5A1a5NF
+ *zTtDgOZMjIYy/facilitatortrainingbanner.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+END:VEVENT
+END:VCALENDAR

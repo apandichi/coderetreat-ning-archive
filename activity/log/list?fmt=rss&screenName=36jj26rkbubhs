@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Erik Jõgi&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ErikJogi</link>
+        <pubDate>Sun, 29 Jan 2017 12:30:53 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:30:53 +0000</lastBuildDate>
+        <image>
+            <title>Erik Jõgi&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ErikJogi</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000c16e13c4b611a447bb54d1d</guid>
+               <title>Erik Jõgi posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:20378?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ErikJogi?xg_source=activity">Erik J&otilde;gi</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:20378?xg_source=activity">Code Retreat @ Agile Saturday</a> at Hotel Euroopa</h3><div class="rich-detail"><div class="rich-date">February 2, 2013 from 10am to 5pm</div><div class="rich-excerpt">ABOUT<a href="http://coderetreat.org/about">About Coderetreat</a><a href="http://coderetreat.org/about/c3f">About c3f</a><a href="http://coderetreat.org/about/community-network">About Community Network</a><a href="http://coderetreat.org/history">History</a>Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:20378?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 23 Jan 2013 20:28:25 +0000</pubDate>
+               </item>    </channel>
+</rss>

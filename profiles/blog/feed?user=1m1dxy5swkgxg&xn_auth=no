@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Israel Shalom&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1m1dxy5swkgxg&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:13:45Z</updated>
+                            <author>
+                    <name>Israel Shalom</name>
+                    <uri>http://coderetreat.org/profile/IsraelShalom</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/X1*WmomqWiDgcI491RJgMrKemmXcm*LDud25*skP1QpeQnssIXh7oucUzYb9tvCl4rmmbIa04nuHCHKDw9dgM0JEKuTjU-hl/647507619.jpeg?xgip=0%3A0%3A1154%3A1154%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1m1dxy5swkgxg&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Summary of Code Retreat w/ Corey</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:7889"/>
+                                        <id>tag:coderetreat.org,2012-01-29:6456126:BlogPost:7889</id>
+                                        <updated>2012-01-29T21:30:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Israel Shalom</name>
+                            <uri>http://coderetreat.org/profile/IsraelShalom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;(Cross post from &lt;a href=&quot;http://srulix.wordpress.com/2012/01/29/code-retreat-summary/&quot; target=&quot;_blank&quot;&gt;Srulix&#039; Pit&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Last Thursday, I participated in a &lt;a href=&quot;http://coderetreat.org/&quot;&gt;Code Retreat&lt;/a&gt; event with &lt;a href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&lt;/a&gt; (courtesy of the &lt;a href=&quot;http://www.linkedin.com/groups?home=&amp;amp;gid=2578449&quot;&gt;Software Craftmanship in Israel&lt;/a&gt; group), and I want to sum up the insights for whoever is interested, but mostly for future…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;(Cross post from &lt;a href=&quot;http://srulix.wordpress.com/2012/01/29/code-retreat-summary/&quot; target=&quot;_blank&quot;&gt;Srulix&#039; Pit&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Last Thursday, I participated in a &lt;a href=&quot;http://coderetreat.org/&quot;&gt;Code Retreat&lt;/a&gt; event with &lt;a href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&lt;/a&gt; (courtesy of the &lt;a href=&quot;http://www.linkedin.com/groups?home=&amp;amp;gid=2578449&quot;&gt;Software Craftmanship in Israel&lt;/a&gt; group), and I want to sum up the insights for whoever is interested, but mostly for future self.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Code Retreat?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ll quickly explain the layout: 20-30 coders start the day together. At the beginning of the day, you get a simple problem (&quot;Programming Kata&quot;), in our case &lt;a href=&quot;http://en.wikipedia.org/wiki/Conway&#039;s_Game_of_Life&quot;&gt;Conway&#039;s Game of Life&lt;/a&gt;. Then you pair up and attempt to solve this problem in 45 minutes. Then you erase all the code and have a 5-10 minute discussion in the group. Then you repeat this with different pairs and different restrictions, five to six times.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;mceWPmore&quot; title=&quot;More...&quot; src=&quot;http://srulix.wordpress.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif&quot; alt=&quot;&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;When I explain this, people usually raise an eyebrow, thinking it would be mundane or wouldn&#039;t contribute to day-to-day coding. The first concern is easy to answer. This was my second Code Retreat, and the 10th attempt at Game of Life was just as educative as the first one. If you enjoy coding, you&#039;ll love code retreat, period. The second concern is a bit tougher, since as opposed to some Oracle training, it&#039;s hard to compile a list of &quot;stuff you&#039;ve learned&quot;. I can make an articulate argument on the intangibles of this day, but I feel like it&#039;ll be preaching to the choir if you&#039;re reading this post. So if you have your doubts, sound them off at comments and we&#039;ll go from there.&lt;/p&gt;
+&lt;p&gt;So these are a few anecdotes from my Code Retreat, not in any particular order.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My First Date With Ruby&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I never programmed in Ruby before, but being a Python guy, I was pretty sure we&#039;d hit it up, so I was actively seeking to pair up with a Ruby person. I had two Ruby sessions, and while 2x45 minutes is a short time span, here are three things that I liked about Ruby:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They use an awesome Unittest framework called &lt;a href=&quot;http://rspec.info/&quot;&gt;rspec&lt;/a&gt;. The syntax pushes you to write beautifully-read tests, which Ruby devs call &quot;specs&quot;.&lt;/li&gt;
+&lt;li&gt;We needed to write a comparison operator for our class, and we were going to search how to exactly do that when I said, &quot;if ruby is so cool, let&#039;s just try &#039;def ==&#039;&quot;. And it worked!&lt;/li&gt;
+&lt;li&gt;We needed to make an array of all integers between 0 and 8 except those that were in another array, let&#039;s say ARR. So I asked &quot;will [0..8] - ARR work&quot;? My partner said, &quot;I don&#039;t know, but I don&#039;t see any reason for it not to&quot;. Yup, that worked too!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenges&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As the day went on, Corey ramped up the game, and imposed more and more restrictions on our coding. Here are some of the stuff he threw at us:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lines of code per method &amp;lt;= 3.&lt;/li&gt;
+&lt;li&gt;No if or conditionals of any sort*&lt;/li&gt;
+&lt;li&gt;No primitives!&lt;/li&gt;
+&lt;li&gt;No passing of &quot;naked&quot; native data structures (array, vector) between methods.&lt;/li&gt;
+&lt;li&gt;No explicit loops.&lt;/li&gt;
+&lt;li&gt;Mute pairing (see below).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The surprising thing is that every single one of these restrictions actually made the code better. Instead of throwing an &quot;if&quot; and implementing one behavior for live cells and one for dead cells, we had to use polymorphism. Instead of tossing around x and y, we had to use a Location class. It was actually pretty incredible to see how much cleaner the code looked when we imposed the seemingly ridiculous restrictions on it.&lt;/p&gt;
+&lt;p&gt;* My team at Google really broke my balls about this one when I gave them a short lecture about it. You do need &lt;strong&gt;one &lt;/strong&gt;if (but no else) to take the boolean and make a LiveCell or DeadCell out of it. I don&#039;t see a way around it, let me know if you do :)&lt;/p&gt;
+&lt;div&gt;&lt;p&gt;&lt;strong&gt;Pairing&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The usual pairing paradigm is Driver-Navigator. Corey raised a true concern that the Navigator most of the time ends up checking Twitter in his smartphone and losing interest. And suggested two different paradigms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alice writes a Test, Bob writes the Production code that makes Alice&#039;s test pass. Repeat.&lt;/li&gt;
+&lt;li&gt;Alice writes a Test, Bob writes the Production code that makes Alice&#039;s test pass. Bob then writes a Test, and Alice writes the Production code that makes Bob&#039;s test pass. Repeat.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;In one of the sessions, we experimented the first in a &quot;mute session&quot;, meaning the pairs could not talk, meaning that all communication was to be done through test. This beautifully simulates what happens when someone who doesn&#039;t know the code sees your code thinks.&lt;/div&gt;
+&lt;div&gt;&lt;p&gt;&lt;strong&gt;More Food for Thought&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Between different sessions, Corey would take 5-15 minutes to address different coding situations. I jotted down a few of his gems (some are quotes by other gurus).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Think of DRY (Don&#039;t Repeat Yourself) not in terms of code and documentation, but in terms of knowledge. At the end of the first session we were told, &quot;oh, and I forgot to tell you - this all happens in 3D, not in 2D&quot;. Then we realized that the knowledge of the fact that we&#039;re in a 2D board existed everywhere. Each function that receives int x, int y as parameters, for instance.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/#!/unclebobmartin&quot;&gt;Uncle Bob&lt;/a&gt; says private is where classes go to hide. If you find yourself itching to test the private methods or members of a class, then this might be indicating that a new class is needed.&lt;/li&gt;
+&lt;li&gt;Comments are never a thing to be proud of.&lt;/li&gt;
+&lt;li&gt;Cleverness in code is never a thing to be proud of.&lt;/li&gt;
+&lt;li&gt;Four principles of simple design by &lt;a href=&quot;https://twitter.com/#!/kentbeck&quot;&gt;Kent Beck&lt;/a&gt;: (1) Tests pass, (2) Exposed intent (good names), (3) DRY and (4) Small.&lt;/li&gt;
+&lt;li&gt;Say you estimated a task to be done in four days. Let&#039;s say that after the first day, you&#039;re right on track, 25% done. What would happen if at the end of the first day, you just threw away the code you wrote that day? Surely, you&#039;d be able to do the same thing in 2-3 hours the next day, with better design, since you learned some lessons. Now you&#039;re a couple of hours behind, but even if you improved your velocity just by 10% for the remaining time, you&#039;ll return this investment. What if you deleted not a day&#039;s worth of code, but an hour&#039;s worth?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The point of Code Retreat is not to make you a pain-in-the-butt coder that gets nothing done because he&#039;s too busy polishing his code and erasing it every day. The point is to elevate your consciousness about the choices you&#039;re making every day with your code. In the real world we all cut corners, and the point is to make these decisions &lt;em&gt;responsibly&lt;/em&gt; and &lt;em&gt;consciously&lt;/em&gt;. And at least for me, the point is to enjoy coding and appreciate once again how fucking rad it is that we get paid to solve riddles and build stuff every day. Next time you get a chance, you should totally go for a &lt;a href=&quot;http://coderetreat.com&quot;&gt;Code Retreat&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/srulix&quot;&gt;&lt;img class=&quot;aligncenter wp-image-228&quot; title=&quot;yuno&quot; src=&quot;http://srulix.files.wordpress.com/2012/01/yuno.jpg?w=300&quot; alt=&quot;y u no follo me on twitter?!&quot; width=&quot;240&quot; height=&quot;180&quot;/&gt;&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

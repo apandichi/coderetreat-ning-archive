@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44302
+DTSTAMP:20170129T114749Z
+SUMMARY:Albuquerque Code Retreat
+DESCRIPTION:The RubiABQ Meetup group and Ideas and Coffee Coworking Sp
+ ace are sponsoring our first Code Retreat. It's on Pi Day (Mar 14, 201
+ 5). \n\nFor more information visit http://coderetreat.org/events/albu
+ querque-code-retreat
+DTSTART:20150314T083000Z
+DTEND:20150314T173000Z
+CATEGORIES:code, retreat
+LOCATION:Ideas & Coffee Coworking Space
+WEBSITE:http://www.ideasandcoffee.com
+URL:http://www.ideasandcoffee.com
+CONTACT:5052327992
+ORGANIZER:Jamii Corley, Ben Cates, Cliff Matthews
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jamii Co
+ rley":http://coderetreat.org/profile/JamiiCorley
+END:VEVENT
+END:VCALENDAR

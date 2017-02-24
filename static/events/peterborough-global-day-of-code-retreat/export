@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38615
+DTSTAMP:20170129T105215Z
+SUMMARY:Global Day of Coderetreat 2014 - Peterborough, UK
+DESCRIPTION:Our 3rd Global Day of Code retreat sponsored by comparethe
+ market.com and Agile Peterborough\nRSVP here:\nhttp://www.meetup.com/A
+ gile-Peterborough/events/200259212/\n\n\nFor more information visit ht
+ tp://coderetreat.org/events/peterborough-global-day-of-code-retreat
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Saxon House
+WEBSITE:http://www.meetup.com/Agile-Peterborough/events/200259212/
+URL:http://www.meetup.com/Agile-Peterborough/events/200259212/
+CONTACT:
+ORGANIZER:
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Sha
+ w":http://coderetreat.org/profile/AlexShaw
+END:VEVENT
+END:VCALENDAR

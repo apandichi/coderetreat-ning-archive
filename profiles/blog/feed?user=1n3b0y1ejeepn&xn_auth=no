@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Cristina&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1n3b0y1ejeepn&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:49:20Z</updated>
+                            <author>
+                    <name>Cristina</name>
+                    <uri>http://coderetreat.org/profile/Cristina</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/fvqxMmghhxHuWK-6H3PjjCJ9VFoTGlHDWaVLiny8G018yZxJqHEXKJFsNJ*yLfUno7Eq5fr-i4PapOPvMvxXbhL8aHeaOUMr/933398291.jpeg?xgip=0%3A0%3A389%3A389%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1n3b0y1ejeepn&amp;xn_auth=no</id>
+                            <entry>
+                    <title>GDCR SF Coderetreat 2011</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5473"/>
+                                        <id>tag:coderetreat.org,2011-12-12:6456126:BlogPost:5473</id>
+                                        <updated>2011-12-12T01:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Cristina</name>
+                            <uri>http://coderetreat.org/profile/Cristina</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Of the 50 participants that rsvp&#039;ed to the event, about 25 showed up:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/sfcoderetreat&quot;&gt;www.meetup.com/sfcoderetreat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We started at 9:30 am and our general plan for the day was the following:&lt;/p&gt;
+&lt;div&gt;&lt;p&gt;1: get our feet wet and try to understand the problems&lt;/p&gt;
+&lt;p&gt;2: maybe try something other than 2D array?&lt;/p&gt;
+&lt;div&gt;3: focus on names during this session&lt;/div&gt;
+&lt;div&gt;4: think about working on exercises either super TDD or super OO.&lt;/div&gt;
+&lt;div&gt;5: go…&lt;/div&gt;
+&lt;/div&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Of the 50 participants that rsvp&#039;ed to the event, about 25 showed up:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/sfcoderetreat&quot;&gt;www.meetup.com/sfcoderetreat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We started at 9:30 am and our general plan for the day was the following:&lt;/p&gt;
+&lt;div&gt;&lt;p&gt;1: get our feet wet and try to understand the problems&lt;/p&gt;
+&lt;p&gt;2: maybe try something other than 2D array?&lt;/p&gt;
+&lt;div&gt;3: focus on names during this session&lt;/div&gt;
+&lt;div&gt;4: think about working on exercises either super TDD or super OO.&lt;/div&gt;
+&lt;div&gt;5: go nuts and try something totally different&lt;/div&gt;
+&lt;div&gt;6: power went out around 5 pm so everyone went home&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Mostly everyone worked on Ruby on Rails or Javascript.  One guy tried using Dart and another tried Matlab during one of the sessions. &lt;/p&gt;
+&lt;div&gt;I missed my Skype call with Samir for 9:30 because we initially had problems accessing the wifi at Engine Yard (sorry Samir!)  We were able to make our 10 am Skype Call with Cincinnati and seems like everything over there was going great.  We also had a Skype call with Corey later on in the day while he was in Honolulu and that was exciting. &lt;br/&gt; &lt;br/&gt; After each 45 minute session, we had a 15 minute introspective talk.  We were able to take videos of most of these wrap ups and lots of photos, which we are going to post soon.&lt;/div&gt;
+&lt;div&gt;&lt;br/&gt; Beverages and beer were provided by Engine Yard and there was much rejoicing.  We had plenty of breakfast items and snacks but went out to grab lunch.  Next Coderetreat, I plan on purchasing less breakfast items and instead purchase simple sandwiches for everyone in case people would rather stay at the office during the break.&lt;br/&gt; &lt;br/&gt; One of our participants brought us shirts, stickers and wrestling head gears from the Mexico Coderetreat.  &lt;br/&gt; &lt;br/&gt; People started trickling out/getting tired around 4 pm.  Power went out around 5 and people were pretty tired so we wrapped it up.&lt;br/&gt; &lt;br/&gt; Some of the feedback we received included having more than one problem set (other than Conway&#039;s Game of Life) as the participants were mostly able to figure out the code by the 4th session.  Second feedback was having pre-assigned partners for the 1st session and then letting everyone choose whoever they wanted to pair with after that.  &lt;br/&gt; &lt;br/&gt; Overall, everyone really enjoyed the event and said they would come back to it again.  I met up with one participant to return him his charger and he told me that he was looking forward to the next one!&lt;br/&gt; &lt;br/&gt; Thank you Corey for making all of this happen and for the help and thank you Jim for guiding me in the right direction.&lt;br/&gt; &lt;br/&gt; Cristina&lt;/div&gt;
+&lt;div&gt;SF Coderetreat Hostess&lt;/div&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

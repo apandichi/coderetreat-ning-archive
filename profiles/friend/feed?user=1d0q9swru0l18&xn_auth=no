@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1d0q9swru0l18&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:51:07Z</updated>
+                            <author>
+                    <name>Nishanth Lawrence</name>
+                    <uri>http://coderetreat.org/profile/NishanthLawrence</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/JYC2mJd5NlFqNGvcNNG8jHbGomp09m6oMcAyuL5tvtZ8SJQVbfuQusjgdUDj-ymltqm3LtQ9ssJHCKHuEF6PuLz2bHcYTZmN/1043921662.jpeg?xgip=0%3A13%3A243%3A243%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1d0q9swru0l18&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Rajmahendra Hegde</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/rajmahendra"/>
+                                        <id>tag:coderetreat.org,2012-01-29:6456126:User:8204</id>
+                                        <updated>2012-01-29T08:41:38.076Z</updated>
+                    
+                                            <author>
+                            <name>Nishanth Lawrence</name>
+                            <uri>http://coderetreat.org/profile/NishanthLawrence</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/VQZDHldz7na3cyQ8vi9yVwADnhNm1f2ncDHMNJv8xOkUNANg5iVYx6Lk5RkaSPSAWT4gwognyB3JiYeequmR3*goQuAm98rX/866667973.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rajmahendra Hegde&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/VQZDHldz7na3cyQ8vi9yVwADnhNm1f2ncDHMNJv8xOkUNANg5iVYx6Lk5RkaSPSAWT4gwognyB3JiYeequmR3*goQuAm98rX/866667973.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Rajmahendra Hegde&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

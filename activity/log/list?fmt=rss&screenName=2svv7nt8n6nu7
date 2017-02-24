@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jon McCain&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JonMcCain</link>
+        <pubDate>Sun, 29 Jan 2017 13:35:16 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:35:16 +0000</lastBuildDate>
+        <image>
+            <title>Jon McCain&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JonMcCain</link>
+            <url>http://api.ning.com:80/files/y8kHSFBahkCbrsaYAH1vnLMSvrFcm7ElpQ3-2FzgM3MaJzOmAXICt8A*phi8U*pXLLadaT2RnLuoTez9ND-huBRcoW*Y-e5q/542366416.jpeg?xgip=0%3A0%3A820%3A820%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009d175536fe107d0029efb4a</guid>
+               <title>Jon McCain liked Aaron Lerch&#039;s event Global Day of Coderetreat in Indianapolis</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:2423?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JonMcCain?xg_source=activity">Jon McCain</a> liked <a href="http://coderetreat.org/profile/AaronLerch?xg_source=activity">Aaron Lerch's</a> event <a href="http://coderetreat.org/xn/detail/6456126:Event:2423?xg_source=activity">Global Day of Coderetreat in Indianapolis</a></span><br/>]]></description>
+               <pubDate>Sun, 04 Dec 2011 02:39:09 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d17553b5eb6158a62a102d</guid>
+               <title>Jon McCain is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/JonMcCain?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JonMcCain?xg_source=activity">Jon McCain</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Sun, 04 Dec 2011 02:00:58 +0000</pubDate>
+               </item>    </channel>
+</rss>

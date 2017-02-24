@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Nuno Marques&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/NunoMarques</link>
+        <pubDate>Sun, 29 Jan 2017 11:49:42 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:49:42 +0000</lastBuildDate>
+        <image>
+            <title>Nuno Marques&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/NunoMarques</link>
+            <url>http://api.ning.com:80/files/offRlRpFlkhc1hWQrU0Jaisni*1QTH9HY7cHBwUusC5xqvH-ZgdR0iLlXrmMn0I5SPFsBuBvv-HKRcK2n0d4ZoRO*ymLUAic/1242027179.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012bc4c74ac619c59c708a70e</guid>
+               <title>Nuno Marques posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:56527?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/NunoMarques?xg_source=activity">Nuno Marques</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56527?xg_source=activity">EE Global code retreat day - 2016</a> at LIsbon</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div><div class="rich-excerpt">EE has been using TDD and pairing on a daily basis since its inception in 2007, we in EE Portugal are no exception.We hope that engineers wanting to try or hone these practices in a super fun environment shouldn't miss this event.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:56527?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 16 Oct 2016 06:06:27 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28488
+DTSTAMP:20170129T115925Z
+SUMMARY:Global Day of Code Retreat 2013 - Portland, OR
+DESCRIPTION:Global Day of Code Retreat 2013\nSponsored by Puppet Labs,
+  Intel\n\nFor more information visit http://coderetreat.org/events/pdx
+ -code-retreat-gdcr-2013
+DTSTART:20131214T083000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Puppet Labs
+WEBSITE:https://www.eventbrite.com/event/8695425251
+URL:https://www.eventbrite.com/event/8695425251
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/z*snRdi7rtFUE
+ 7KfSAAql3O2qBlUUpSK4IJqY31g8VgurnrnWnEpAeqhDdtKuOdWIZ3mhpCS2QqDI672C7f
+ MRIWbjJqrZpCc/CodeRetreatAnimation_small.gif
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

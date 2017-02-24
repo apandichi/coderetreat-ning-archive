@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Daan van Berkel&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DaanvanBerkel</link>
+        <pubDate>Sun, 29 Jan 2017 10:18:57 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:18:57 +0000</lastBuildDate>
+        <image>
+            <title>Daan van Berkel&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DaanvanBerkel</link>
+            <url>http://api.ning.com:80/files/JYC2mJd5NlFOs1oplzO55fHOpjuhKujgWbKHZaIl8QQoit3vM7wNKP95QSbP92iAKt9Ji1KtDLJzqhHPgO2aDs9SPTz938cu/1043944478.jpeg?xgip=152%3A0%3A597%3A597%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fd8eac1c150a09511bdb9c1</guid>
+               <title>Daan van Berkel updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28905?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DaanvanBerkel?xg_source=activity">Daan van Berkel</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28905?xg_source=activity">Global Day of Coderetreat 2013 - Arnhem, Netherlands</a> at Luminis Arnhem</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 10am to 8pm</div><div class="rich-excerpt"><a href="http://www.luminis.eu/" target="_blank">Luminis Arnhem</a> is a host for the Global Day of Coderetreat 2013.If you are interested in participating contact <a href="mailto:daan.vanberkel@luminis.eu?Subject=gdcr13" target="_blank">Daan van Berkel</a> at daan.vanberkel@luminis.eu<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28905?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 07 Nov 2013 08:29:25 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fd8eac1c9a2b6e2a85f58e3</guid>
+               <title>Daan van Berkel posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28905?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DaanvanBerkel?xg_source=activity">Daan van Berkel</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28905?xg_source=activity">Global Day of Coderetreat 2013 - Arnhem, Netherlands</a> at Luminis Arnhem</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 10am to 8pm</div><div class="rich-excerpt"><a href="http://www.luminis.eu/" target="_blank">Luminis Arnhem</a> is a host for the Global Day of Coderetreat 2013.If you are interested in participating contact <a href="mailto:daan.vanberkel@luminis.eu?Subject=gdcr13" target="_blank">Daan van Berkel</a> at daan.vanberkel@luminis.eu<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28905?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 04 Nov 2013 13:58:04 +0000</pubDate>
+               </item>    </channel>
+</rss>

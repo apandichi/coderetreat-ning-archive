@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11745
+DTSTAMP:20170129T114405Z
+SUMMARY:Global Day of Coderetreat 2012 - Budapest / Hungary
+DESCRIPTION:Budapest event of GDCR12.\nCodeRetreat Community on facebo
+ ok\n\nFor more information visit http://coderetreat.org/events/global-
+ day-of-coderetreat-2012-budapest-hungary
+DTSTART:20121208T093000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat, budapest, "/", hungary
+LOCATION:Emarsys Technologies Ltd
+WEBSITE:https://maps.google.com/maps?q=Budapest,+%C3%81rp%C3%A1d+%C3%B
+ At+51,+Hungary&hl=hu&ie=UTF8&sll=37.0625,-95.677068&sspn=54.753001,88.
+ 681641&t=h&hnear=1042+Budapest,+Budapest+IV.+ker%C3%BClete,+%C3%81rp%C
+ 3%A1d+%C3%BAt+51,+Magyarorsz%C3%A1g&z=16
+URL:https://maps.google.com/maps?q=Budapest,+%C3%81rp%C3%A1d+%C3%BAt+5
+ 1,+Hungary&hl=hu&ie=UTF8&sll=37.0625,-95.677068&sspn=54.753001,88.6816
+ 41&t=h&hnear=1042+Budapest,+Budapest+IV.+ker%C3%BClete,+%C3%81rp%C3%A1
+ d+%C3%BAt+51,+Magyarorsz%C3%A1g&z=16
+CONTACT:
+ORGANIZER:Attila M. Magyar & Dr. Rafael Ordog
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/G0exFUZEPlRsc
+ NmRXUfzI629ShzC0Gxi97r6ER*E2B25FdoTDLglgx-1zEgQzvK54HLOKK-Mhm2vtrUcjR2
+ tWZRWGGdxNR7I/crlogo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attila M
+ . Magyar":http://coderetreat.org/profile/AttilaMMagyar
+END:VEVENT
+END:VCALENDAR

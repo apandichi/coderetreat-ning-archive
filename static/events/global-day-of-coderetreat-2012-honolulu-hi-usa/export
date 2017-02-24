@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27082
+DTSTAMP:20170129T123159Z
+SUMMARY:Global Day of Coderetreat 2013 - Honolulu, HI, USA
+DESCRIPTION:Hawaii is participating in the Global Day of Coderetreat o
+ nce again!  Come join us on December 14th for focused practice of you
+ r programming skills.\nPlease RSVP and send all inquiries through the 
+ Aloha.rb meetup page  \nLocation and exact time are still TBD.\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2012-honolulu-hi-usa
+DTSTART:20131214T090000Z
+DTEND:20131214T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Honolulu, HI
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Christopher Sass":http://coderetreat.org/profile/Christo
+ pherSass
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ her Sass":http://coderetreat.org/profile/ChristopherSass
+END:VEVENT
+END:VCALENDAR

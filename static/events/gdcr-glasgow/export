@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2131
+DTSTAMP:20170129T133725Z
+SUMMARY:GDCR Glasgow
+DESCRIPTION:Global Day of Code Retreat event in Glasgow, UK\n\nFor mor
+ e information visit http://coderetreat.org/events/gdcr-glasgow
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:coderetreat
+LOCATION:The Old Hairdressers, Opposite Stereo
+WEBSITE:http://maps.google.com/maps?q=renfield+lane&hl=en&sll=55.87301
+ 2,-4.304132&sspn=0.013266,0.0421&vpsrc=0&hnear=Renfield+Ln,+Glasgow,+G
+ lasgow+City+G2+6,+United+Kingdom&t=h&z=16
+URL:http://maps.google.com/maps?q=renfield+lane&hl=en&sll=55.873012,-4
+ .304132&sspn=0.013266,0.0421&vpsrc=0&hnear=Renfield+Ln,+Glasgow,+Glasg
+ ow+City+G2+6,+United+Kingdom&t=h&z=16
+CONTACT:
+ORGANIZER;CN="Adrian Mowat":http://coderetreat.org/profile/AdrianMowat
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/oVnX4qXRTn4gw
+ B3gJQ7Y9YcXtZ3UzjkzDFN7pXiDlJl8XWu*2kAgqab1vgLD9-IziDDHFQdsGLNE6zfraE0
+ vtWu3WoVp2AFd/ukglasgow.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adrian M
+ owat":http://coderetreat.org/profile/AdrianMowat
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phil Har
+ vey":http://coderetreat.org/profile/PhilHarvey
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49907
+DTSTAMP:20170129T121902Z
+SUMMARY:Global Day of Coderetreat 2015 - Malmö, Sweden
+DESCRIPTION:Øresund Software Craftsmanship Group welcomes you to the 
+ Global Day of Code Retreat 2015 - A day to celebrate passion and softw
+ are craftsmanship.\n We will start with breakfast and introductions at
+  9:30am. The first session starts at 10:00am. Lunch break will be at 1
+ :00pm. To make sure we have plenty of time to socialise and talk we wi
+ ll not start the afternoon sessions until 2:30pm. Expect to finish at 
+ about 6:00pm.\n\nFor more information visit http://coderetreat.org/eve
+ nts/global-day-of-coderetreat-2015-malm-sweden
+DTSTART:20151114T093000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:FooCafe
+WEBSITE:http://www.foocafe.org/event/global-day-of-code-retreat
+URL:http://www.foocafe.org/event/global-day-of-code-retreat
+CONTACT:
+ORGANIZER:Øresund Software Craftsmanship Group
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven R
+ . Baker":http://coderetreat.org/profile/StevenRBaker
+END:VEVENT
+END:VCALENDAR

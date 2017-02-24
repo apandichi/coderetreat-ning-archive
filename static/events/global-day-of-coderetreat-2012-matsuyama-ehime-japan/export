@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15580
+DTSTAMP:20170129T134609Z
+SUMMARY:Global Day of Coderetreat 2012 - Matsuyama, Ehime / Japan
+DESCRIPTION:Hello there,\nThis is the first time having coderetreat ev
+ ent.\nI'm hosting the GDCR12 for the first time in Matsuyama Ehime Jap
+ an.\nIt's so excited.\nWe are happy to join the Global Day of Coderet
+ reat 2012.\n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-coderetreat-2012-matsuyama-ehime-japan
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Matsuyama, Ehime Prefecture
+WEBSITE:http://goo.gl/maps/dt6cY
+URL:http://goo.gl/maps/dt6cY
+CONTACT:+81-89-968-2062
+ORGANIZER;CN="kazuaki ueda":http://coderetreat.org/profile/kazuakiueda
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="kazuaki 
+ ueda":http://coderetreat.org/profile/kazuakiueda
+END:VEVENT
+END:VCALENDAR

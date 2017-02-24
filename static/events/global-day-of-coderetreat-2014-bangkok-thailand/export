@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38707
+DTSTAMP:20170129T122559Z
+SUMMARY:Global Day of Coderetreat 2014 - Bangkok, Thailand
+DESCRIPTION:Global Day of Coderetreat is a world-wide event celebratin
+ g passion and software craftsmanship. \n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-coderetreat-2014-bangkok-t
+ hailand
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:geeky, party
+LOCATION:Geeky Base
+WEBSITE:http://www.sprint3r.com/contact/
+URL:http://www.sprint3r.com/contact/
+CONTACT:66897753337
+ORGANIZER;CN="Twin Panichsombat":http://coderetreat.org/profile/TwinPa
+ nichsombat
+ATTACH;FMTTYPE="image/jpeg":
+END:VEVENT
+END:VCALENDAR

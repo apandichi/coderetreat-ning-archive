@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54808
+DTSTAMP:20170129T113039Z
+SUMMARY:Global Day of Coderetreat 2016 - Jihlava, Czech Republic
+DESCRIPTION:Coderetreat je jednodenní intenzivní cvičení zaměřen
+ é na základy vývoje softwaru. Díky tomu, že vývojáři nejsou po
+ d tlakem rychlého doručování výsledků, poskytuje Coderetreat mo�
+ �nost cíleně se soustředit na zlepšování svých dovedností. Pro
+ cvičováním základních principů modulárního a objektově-orient
+ ovaného návrhu mohou účastníci zlepšit své schopnosti psát kó
+ d, který minimalizuje náročnost implementace dalších změn.\nNa a
+ kci se prosím registrujte na https://www.meetup.com/gdgjihlava/event
+ s/233949957/\n\nFor more information visit http://coderetreat.org/even
+ ts/global-day-of-coderetreat-2016-jihlava-czech-republic
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Vysoká škola polytechnická Jihlava
+WEBSITE:https://www.meetup.com/gdgjihlava/events/233949957/
+URL:https://www.meetup.com/gdgjihlava/events/233949957/
+CONTACT:
+ORGANIZER;CN="Milan Lempera":http://coderetreat.org/profile/MilanLempe
+ ra
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Milan Le
+ mpera":http://coderetreat.org/profile/MilanLempera
+END:VEVENT
+END:VCALENDAR

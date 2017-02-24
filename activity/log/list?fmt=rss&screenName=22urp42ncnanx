@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>José Mota&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JoseMota</link>
+        <pubDate>Sun, 29 Jan 2017 11:46:17 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:46:17 +0000</lastBuildDate>
+        <image>
+            <title>José Mota&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JoseMota</link>
+            <url>http://api.ning.com:80/files/91sWIvke6YnDkGTxmE8RSCUn9qfRX2snfOfmq6kJPm5iVD3qZ1XAL5B6iR5nJEInKq4Lwgi-bvVKPa*dR1hsH1B67mDWvsQK/695502809.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b5e3558df1bf5b27fea6df3</guid>
+               <title>José Mota posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:15767?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JoseMota?xg_source=activity">Jos&eacute; Mota</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:15767?xg_source=activity">2nd Code Retreat Portugal</a> at ISCTE, Lisbon</h3><div class="rich-detail"><div class="rich-date">November 17, 2012 from 10am to 6pm</div><div class="rich-excerpt">This will be the second edition a code retreat in Portugal. Everyone is invited to attend, just RSVP in the website above.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:15767?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 13 Nov 2012 18:50:42 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5e35585446def621e98e77</guid>
+               <title>José Mota commented on corey haines&#039;s blog post Global Day of Coderetreat 2012</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:12784?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JoseMota?xg_source=activity">Jos&eacute; Mota</a> <a href="http://coderetreat.org/xn/detail/6456126:Comment:12784?xg_source=activity">commented</a> on <a href="http://coderetreat.org/profile/128952ghvkcvj?xg_source=activity">corey haines's</a> blog post <a href="http://coderetreat.org/xn/detail/6456126:BlogPost:11278?xg_source=activity">Global Day of Coderetreat 2012</a></span><br/>]]></description>
+               <pubDate>Thu, 27 Sep 2012 18:30:00 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5e3558de14c69816f85c2b</guid>
+               <title>José Mota posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:12692?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JoseMota?xg_source=activity">Jos&eacute; Mota</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:12692?xg_source=activity">Code Retreat Portugal</a> at FEUP, Porto, Portugal</h3><div class="rich-detail"><div class="rich-date">September 29, 2012 from 9am to 7pm</div><div class="rich-excerpt">Just wanted to let know of the code retreat event happening this Saturday in Oporto, Portugal.Check the details at <a href="http://agilept.org/meetups/coderetreat2012">http://agilept.org/meetups/coderetreat2012</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:12692?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 27 Sep 2012 18:21:44 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5e3558c9c3cd428f481411</guid>
+               <title>José Mota is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/JoseMota?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JoseMota?xg_source=activity">Jos&eacute; Mota</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Thu, 27 Sep 2012 18:19:43 +0000</pubDate>
+               </item>    </channel>
+</rss>

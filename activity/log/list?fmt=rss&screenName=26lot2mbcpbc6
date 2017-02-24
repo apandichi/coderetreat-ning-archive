@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Kaufland Informationssysteme&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/KauflandInformationssysteme</link>
+        <pubDate>Sun, 29 Jan 2017 12:14:39 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:14:39 +0000</lastBuildDate>
+        <image>
+            <title>Kaufland Informationssysteme&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/KauflandInformationssysteme</link>
+            <url>http://api.ning.com:80/files/Y8Xf2kBXWFmOlLEop*hJXA-zhh-tCynXv6lzsGLpUVOISAMtKQmRD9FbDx8AdgtiQGe5poD9fl07QTncewIo-Rxie8fmbmwD/1150531409.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001205c24e54bfabb94cbf8170</guid>
+               <title>Kaufland Informationssysteme posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48164?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/KauflandInformationssysteme?xg_source=activity">Kaufland Informationssysteme</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48164?xg_source=activity">Global Day of Code Retreat Weinsberg</a> at Kaufland Informationssysteme GmbH &amp; Co. KG</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8am to 5pm</div><div class="rich-excerpt">Global Day of Code RetreatKaufland Informationssysteme Registration: Please send an email to informationssysteme@kaufland.de<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48164?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 28 Oct 2015 14:09:45 +0000</pubDate>
+               </item>    </channel>
+</rss>

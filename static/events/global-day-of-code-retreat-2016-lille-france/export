@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55339
+DTSTAMP:20170129T105009Z
+SUMMARY:Global Day of Code Retreat 2016 - Lille, France
+DESCRIPTION:Vous voulez perfectionner votre manière d’écrire du co
+ de, améliorer le design de vos applications, découvrir des pratiques
+  permettant d’améliorer la qualité de votre logiciel ? Nord Agile 
+ vous propose de participer à la Code Retreat 2016 organisée dans le 
+ cadre duGlobal Day of Code Retreat.\nLa Code Retreat est un espace pou
+ r nous permettre de lever la tête de nos projets et découvrir d’au
+ tres voies. L’idée est simple : un problème, des portables, des ID
+ E et des binômes.\nPlusieurs itérations vous permettront de résoudr
+ e des exercices en codant et en échangeant avec vos pairs avec l’ob
+ jectif de perfectionner votre art. Au programme : pair-programming, TD
+ D, etc…\nLa journée s’organisera en sessions de 45 minutes. Chacu
+ ne sera suivie d’une rétrospective pour échanger les approches, st
+ ratégies, trouvailles.\nIl est à noter que les participants doivent 
+ ramener leur portable, sur lequel ils auront installé leur(s) environ
+ nement(s) préféré(s). Toute technologie est intéressante, du momen
+ t qu’on puisse coder quelques lignes !\nL’évènement se déroule 
+ le samedi 22 octobre de 9h à 17h au WebCenter AXA.L’inscription e
+ st obligatoire et gratuite, sur Meetup.\nMerci de ne pas vous inscri
+ re sur coderetreat.org mais sur Meetup.\nA bientôt,\nL’équipe de N
+ ord Agile\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-code-retreat-2016-lille-france
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:France
+WEBSITE:https://maps.google.com/maps?f=q&hl=en&q=+839+Avenue+de+la+R%C
+ 3%A9publique%2C+Marcq-en-Bar%C5%93ul%2C+fr
+URL:https://maps.google.com/maps?f=q&hl=en&q=+839+Avenue+de+la+R%C3%A9
+ publique%2C+Marcq-en-Bar%C5%93ul%2C+fr
+CONTACT:
+ORGANIZER;CN="Julien Jakubowski":http://coderetreat.org/profile/Julien
+ Jakubowski
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Julien J
+ akubowski":http://coderetreat.org/profile/JulienJakubowski
+END:VEVENT
+END:VCALENDAR

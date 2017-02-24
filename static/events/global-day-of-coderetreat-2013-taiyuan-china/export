@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26326
+DTSTAMP:20170129T115008Z
+SUMMARY:Global Day of Coderetreat 2013 - Taiyuan, China
+DESCRIPTION:Global Day of Coderetreat 2013 - Taiyuan, China\n\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2013-taiyuan-china
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Taiyuan
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Chai Feng":http://coderetreat.org/profile/ChaiFeng
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chai Fen
+ g":http://coderetreat.org/profile/ChaiFeng
+END:VEVENT
+END:VCALENDAR

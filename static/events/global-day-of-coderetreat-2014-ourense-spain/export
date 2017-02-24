@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40352
+DTSTAMP:20170129T102728Z
+SUMMARY:Global Day of Coderetreat 2014 - Ourense, Spain
+DESCRIPTION:GDCR14\nCoderetreat is a day-long, intensive practice even
+ t, focusing on the fundamentals of software development and design. By
+  providing developers the opportunity to take part in focused practice
+ , away from the pressures of 'getting things done', the coderetreat fo
+ rmat has proven itself to be a highly effective means of skill improve
+ ment. Practicing the basic principles of modular and object-oriented d
+ esign, developers can improve their ability to write code that minimiz
+ es the cost of change over time.\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-coderetreat-2014-ourense-spain
+DTSTART:20141115T100000Z
+DTEND:20141115T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:E.S. Enxeñaría Informática. Universidade de Vigo.
+WEBSITE:http://webs.uvigo.es/eseidojos/GDCR14
+URL:http://webs.uvigo.es/eseidojos/GDCR14
+CONTACT:+34988387027
+ORGANIZER:Miguel Reboiro Jato
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/6ovfEf3pFLfrp
+ V8zpF3TKuO9cUSVGhcpd8L-YABhIjOXBxGigj5LMPFfQTNX3vjkFSVY5Phb5Q1lDkA19bR
+ UFiJ-NZxNcaRu/10003862_713174082074697_7102045471779961738_o.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pepe Dov
+ al":http://coderetreat.org/profile/PepeDoval
+END:VEVENT
+END:VCALENDAR

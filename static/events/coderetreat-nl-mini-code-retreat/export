@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45933
+DTSTAMP:20170129T114818Z
+SUMMARY:CodeRetreat.nl - Mini Code Retreat
+DESCRIPTION:This is a Mini Code Retreat, sponsored (including dinner) 
+ by Kabisa. There's space for up to 16 participants.\nFor details and r
+ egistration (free), see the CodeRetreat.nl website.\n\nFor more inform
+ ation visit http://coderetreat.org/events/coderetreat-nl-mini-code-ret
+ reat
+DTSTART:20150924T173000Z
+DTEND:20150924T210000Z
+CATEGORIES:mini, code, retreat
+LOCATION:Kabisa, Weert, The Netherlands
+WEBSITE:http://www.coderetreat.nl
+URL:http://www.coderetreat.nl
+CONTACT:
+ORGANIZER;CN="Ariejan from CodeRetreat.nl":http://coderetreat.org/prof
+ ile/AriejanfromCodeRetreatnl
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/BKb27P3JwiEBS
+ yHpLghFsNtzsFS78iIJGlhN6rZbrBqVdX-Fg9w7GzAiqJiCwFM0pvrE6Qh0zJk4BSCBAIR
+ k7B1IyPvfRNHN/crbot_hug.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ariejan 
+ from CodeRetreat.nl":http://coderetreat.org/profile/AriejanfromCodeRet
+ reatnl
+END:VEVENT
+END:VCALENDAR

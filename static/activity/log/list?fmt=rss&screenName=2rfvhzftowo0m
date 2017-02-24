@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Pavel Batashov&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PavelBatashov</link>
+        <pubDate>Sun, 29 Jan 2017 12:18:12 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:18:12 +0000</lastBuildDate>
+        <image>
+            <title>Pavel Batashov&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PavelBatashov</link>
+            <url>http://api.ning.com:80/files/e94-*Sv1fqqSW61PQeo-d8DxpMISydVvr3KXLC3uyzSvAJq703-1Djc*AFarU8DGs4oUfb4FB9e7VKlS5r4ynCdQKtZnzs1j/1152683987.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501f0f5130501a637607</guid>
+               <title>james peterson left a comment for Pavel Batashov</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52471?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52471?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/PavelBatashov?xg_source=activity">Pavel Batashov</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:44:53 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000120ae5a456202654e2e836db</guid>
+               <title>Pavel Batashov posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:49163?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PavelBatashov?xg_source=activity">Pavel Batashov</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:49163?xg_source=activity" ><img src="http://api.ning.com/files/OxyEFcGSM-PkXR9xM8EZgTcBUfECVAFe*zaWcy1i-YW*pbC2Q7jGnkR-QuHADGf1XY33BweVADxMoXy39vHlt35gnd0H6xrx/_0.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:49163?xg_source=activity">Global Day of Coderetreat 2015 - Grodno, Belarus</a> at Grodno, Belarus</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 10am to 6pm</div><div class="rich-excerpt">November, 14 is the day when any engineer can get away from the pressure of “getting things done” and retreat to the software craftsmanship harbor. This year 20+ EPAM offices are officially joining the Global Day of Coderetreat and we are inviting you to master your coding skills together with other EPAMers.Checkout more details here: https://events.epam.com/events/coderetreat-grodno<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:49163?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 04 Nov 2015 17:11:19 +0000</pubDate>
+               </item>    </channel>
+</rss>

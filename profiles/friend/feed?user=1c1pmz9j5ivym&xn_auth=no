@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1c1pmz9j5ivym&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:27:46Z</updated>
+                            <author>
+                    <name>Rux</name>
+                    <uri>http://coderetreat.org/profile/Rux</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/2VGrzzXedu1N8iBmf-6Q26fS1ajRmBr35qMn79xywZAUYBaA*I0glzAsHGr06gbo3N283GNeGfNgWZM2tFTAy6CMgolxEGK2/1085688208.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1c1pmz9j5ivym&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Alexandra Sufanu</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AlexandraSufanu"/>
+                                        <id>tag:coderetreat.org,2014-11-12:6456126:User:41721</id>
+                                        <updated>2014-11-12T15:54:59.149Z</updated>
+                    
+                                            <author>
+                            <name>Rux</name>
+                            <uri>http://coderetreat.org/profile/Rux</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alexandra Sufanu&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Alexandra Sufanu&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Adelina Stanciu</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AdelinaStanciu628"/>
+                                        <id>tag:coderetreat.org,2014-10-10:6456126:User:39516</id>
+                                        <updated>2014-10-10T10:54:53.615Z</updated>
+                    
+                                            <author>
+                            <name>Rux</name>
+                            <uri>http://coderetreat.org/profile/Rux</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/2VGrzzXedu01WncqAu0uYfrdtC9yUuNhnh6eRwEpyeKRw*fKedokLEtP-9*Et4IIX0al5EiSweJg3mONkA-JAyWab-GUWBxE/1085689364.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adelina Stanciu&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/2VGrzzXedu01WncqAu0uYfrdtC9yUuNhnh6eRwEpyeKRw*fKedokLEtP-9*Et4IIX0al5EiSweJg3mONkA-JAyWab-GUWBxE/1085689364.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adelina Stanciu&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

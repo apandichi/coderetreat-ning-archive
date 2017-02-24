@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Self Organizing Team(s) Exercise - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A45016&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:55:15Z</updated>
+                        <id>http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A45016&amp;xn_auth=no</id>
+                            <entry>
+                    <title>This looks awesome!
+I&#039;m looki…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:45408"/>
+                                        <id>tag:coderetreat.org,2015-08-13:6456126:Comment:45408</id>
+                                        <updated>2015-08-13T13:39:54.552Z</updated>
+                    
+                                            <author>
+                            <name>Ron Quartel</name>
+                            <uri>http://coderetreat.org/profile/RonQuartel</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;This looks awesome!&lt;/p&gt;
+&lt;p&gt;I&#039;m looking for an exercise on self-organization to go with a training class I&#039;m trying to put together for FAST Agile. I think I may have just found it. Thank you for sharing Bob and I will be sure give attribution.&lt;/p&gt;
+&lt;p&gt;Ron Quartel&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fast-agile.com&quot; target=&quot;_blank&quot;&gt;fast-agile.com&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;This looks awesome!&lt;/p&gt;
+&lt;p&gt;I&#039;m looking for an exercise on self-organization to go with a training class I&#039;m trying to put together for FAST Agile. I think I may have just found it. Thank you for sharing Bob and I will be sure give attribution.&lt;/p&gt;
+&lt;p&gt;Ron Quartel&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fast-agile.com&quot; target=&quot;_blank&quot;&gt;fast-agile.com&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

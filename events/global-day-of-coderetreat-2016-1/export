@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54203
+DTSTAMP:20170129T112510Z
+SUMMARY:Global Day of Coderetreat 2016 - Erlangen, Germany
+DESCRIPTION:Join us for a full day dedicated to software engineering, 
+ craftsmanship and tons of fun!\n \nFor more information, please visit
+  the event’s website.\n\nFor more information visit http://coderetre
+ at.org/events/global-day-of-coderetreat-2016-1
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Method Park
+WEBSITE:https://www.softwerkskammer.org/activities/gdcr2016-erlangen
+URL:https://www.softwerkskammer.org/activities/gdcr2016-erlangen
+CONTACT:
+ORGANIZER:Christian Hoffmann and Stefan Clepce
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan C
+ lepce":http://coderetreat.org/profile/StefanClepce966
+END:VEVENT
+END:VCALENDAR

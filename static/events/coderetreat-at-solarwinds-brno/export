@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53351
+DTSTAMP:20170129T110217Z
+SUMMARY:Coderetreat at SolarWinds, Brno
+DESCRIPTION:Coderetreat event for the programmers' public at SolarWind
+ s office\n\nFor more information visit http://coderetreat.org/events/c
+ oderetreat-at-solarwinds-brno
+DTSTART:20160528T000000Z
+DTEND:20160528T235900Z
+CATEGORIES:public, coderetreat
+LOCATION:SolarWinds Brno Office
+WEBSITE:https://www.solarwindsmeetup.com/event/coderetreat_2016/
+URL:https://www.solarwindsmeetup.com/event/coderetreat_2016/
+CONTACT:774679612
+ORGANIZER;CN="Vladimir Kopso":http://coderetreat.org/profile/VladimirK
+ opso
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/V5ldIftI51LPR
+ 9ypWRJt7g2R3fcOClqpViZe3dOnejSHr3VuqbCjJ-olkBTIv1Ei91TWjpyLkt*Eyi7CYmy
+ 77rapb-cG1iFZ/Coderetreatletter03.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vladimir
+  Kopso":http://coderetreat.org/profile/VladimirKopso
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47005
+DTSTAMP:20170129T103716Z
+SUMMARY:Global Day of Coderetreat 2015 - Bucharest, Romania
+DESCRIPTION:As we did last year, we’ll join programmers from all ove
+ r the world. We’ll meet, code and have fun for sure during the day!\
+ nThe event will be organized by AgileWorks community and hosted by Moz
+ aicLabs. Alexandru Bolboca will facilitate. \nIf you want to join us
+ , please register on the event meetup page: http://www.meetup.com/The-
+ Bucharest-Agile-Software-Meetup-Group/events/225840111/.\n\nFor more i
+ nformation visit http://coderetreat.org/events/global-day-of-coderetre
+ at-2015-bucharest-romania
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:MozaicWorks
+WEBSITE:https://www.google.com/maps?f=q&hl=en&q=Blv.+Carol+I,+Nr.+26,+
+ Et.1,+Sector+3,+Bucharest,+ro
+URL:https://www.google.com/maps?f=q&hl=en&q=Blv.+Carol+I,+Nr.+26,+Et.1
+ ,+Sector+3,+Bucharest,+ro
+CONTACT:
+ORGANIZER;CN="Claudia Rosu":http://coderetreat.org/profile/ClaudiaRosu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Claudia 
+ Rosu":http://coderetreat.org/profile/ClaudiaRosu
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46943
+DTSTAMP:20170129T121427Z
+SUMMARY:Global Day of Coderetreat 2015 - Boston, MA, USA
+DESCRIPTION:Boston's Global Day of Code Retreat will be hosted and spo
+ nsored by Zipcar.\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-code-retreat-2015-boston-ma
+DTSTART:20151114T080000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Zipcar Home Office
+WEBSITE:https://goo.gl/maps/vZzXHyj61CB2
+URL:https://goo.gl/maps/vZzXHyj61CB2
+CONTACT:
+ORGANIZER;CN="Stephen Vance":http://coderetreat.org/profile/StephenVan
+ ce
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Giorgio 
+ Natili":http://coderetreat.org/profile/GiorgioNatili
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Richard 
+ Mpanga":http://coderetreat.org/profile/RichardMpanga
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stephani
+ e Meckel":http://coderetreat.org/profile/StephanieMeckel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tim Jone
+ s":http://coderetreat.org/profile/TimJones
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stephen 
+ Vance":http://coderetreat.org/profile/StephenVance
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Jennifer:
+ http://coderetreat.org/profile/Jennifer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Michael
+  Au":http://coderetreat.org/profile/MichaelAu
+END:VEVENT
+END:VCALENDAR

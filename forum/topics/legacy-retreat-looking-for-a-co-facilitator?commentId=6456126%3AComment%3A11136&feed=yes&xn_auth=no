@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Legacy Retreat - Looking for a co-facilitator - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/legacy-retreat-looking-for-a-co-facilitator?commentId=6456126%3AComment%3A11136&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:37:33Z</updated>
+                        <id>http://coderetreat.org/forum/topics/legacy-retreat-looking-for-a-co-facilitator?commentId=6456126%3AComment%3A11136&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Hi Dennis
+Jeff got there firs…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:11136"/>
+                                        <id>tag:coderetreat.org,2012-07-26:6456126:Comment:11136</id>
+                                        <updated>2012-07-26T08:41:00.880Z</updated>
+                    
+                                            <author>
+                            <name>Adrian Mowat</name>
+                            <uri>http://coderetreat.org/profile/AdrianMowat</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Dennis&lt;/p&gt;
+&lt;p&gt;Jeff got there first - but yes, it was the trivia example we used.&lt;/p&gt;
+&lt;p&gt;All I can say is WOW!  That&#039;s some very smelly code.&lt;/p&gt;
+&lt;p&gt;Adrian&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Dennis&lt;/p&gt;
+&lt;p&gt;Jeff got there first - but yes, it was the trivia example we used.&lt;/p&gt;
+&lt;p&gt;All I can say is WOW!  That&#039;s some very smelly code.&lt;/p&gt;
+&lt;p&gt;Adrian&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Dennis,
+JB is JB Rainsberg…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:10953"/>
+                                        <id>tag:coderetreat.org,2012-07-25:6456126:Comment:10953</id>
+                                        <updated>2012-07-25T01:42:52.575Z</updated>
+                    
+                                            <author>
+                            <name>Jeff Hoover</name>
+                            <uri>http://coderetreat.org/profile/JeffHoover</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Dennis,&lt;/p&gt;
+&lt;p&gt;JB is JB Rainsberger. He started the &lt;em&gt;legacy&lt;/em&gt; code retreat practice. He has a legacy code base here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.github.com/jbrains/trivia&quot; rel=&quot;nofollow&quot;&gt;http://www.github.com/jbrains/trivia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;that can be used for an event, and you can read about running a legacy code retreat here:…&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Dennis,&lt;/p&gt;
+&lt;p&gt;JB is JB Rainsberger. He started the &lt;em&gt;legacy&lt;/em&gt; code retreat practice. He has a legacy code base here:&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.github.com/jbrains/trivia&quot;&gt;http://www.github.com/jbrains/trivia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;that can be used for an event, and you can read about running a legacy code retreat here:&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html&quot; target=&quot;_blank&quot;&gt;http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Adrian,
+This is a bit off…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:10867"/>
+                                        <id>tag:coderetreat.org,2012-07-24:6456126:Comment:10867</id>
+                                        <updated>2012-07-24T14:24:18.852Z</updated>
+                    
+                                            <author>
+                            <name>Dennis McCracken</name>
+                            <uri>http://coderetreat.org/profile/DennisMcCracken</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Adrian,&lt;/p&gt;
+&lt;p&gt;This is a bit off topic but what is &quot;J.B.&#039;s canned trivia example? &lt;/p&gt;
+&lt;p&gt;I am considering organizing a retreat here at my company and we mostly do brownfield development.  I&#039;m wondering if this is a good activity for our purposes.&lt;/p&gt;
+&lt;p&gt;Thanks in advance...&lt;/p&gt;
+&lt;p&gt;-Dennis-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Adrian,&lt;/p&gt;
+&lt;p&gt;This is a bit off topic but what is &quot;J.B.&#039;s canned trivia example? &lt;/p&gt;
+&lt;p&gt;I am considering organizing a retreat here at my company and we mostly do brownfield development.  I&#039;m wondering if this is a good activity for our purposes.&lt;/p&gt;
+&lt;p&gt;Thanks in advance...&lt;/p&gt;
+&lt;p&gt;-Dennis-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Adrian,
+It sounds like it…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:11048"/>
+                                        <id>tag:coderetreat.org,2012-07-23:6456126:Comment:11048</id>
+                                        <updated>2012-07-23T12:23:35.181Z</updated>
+                    
+                                            <author>
+                            <name>Jeff Hoover</name>
+                            <uri>http://coderetreat.org/profile/JeffHoover</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Adrian,&lt;/p&gt;
+&lt;p&gt;It sounds like it was a great engagement. I&#039;m glad you had such success!&lt;/p&gt;
+&lt;p&gt;Jeff&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Adrian,&lt;/p&gt;
+&lt;p&gt;It sounds like it was a great engagement. I&#039;m glad you had such success!&lt;/p&gt;
+&lt;p&gt;Jeff&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Jeff
+Thanks for you reply…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:11045"/>
+                                        <id>tag:coderetreat.org,2012-07-23:6456126:Comment:11045</id>
+                                        <updated>2012-07-23T09:36:26.522Z</updated>
+                    
+                                            <author>
+                            <name>Adrian Mowat</name>
+                            <uri>http://coderetreat.org/profile/AdrianMowat</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Jeff&lt;/p&gt;
+&lt;p&gt;Thanks for you reply - and well done for spotting my deliberate mistake :-)&lt;/p&gt;
+&lt;p&gt;The company were actually in Germany. We went there the week before last for a 2 day event.  We used Conways in the coderetreat format on day 1 to introduce TDD, refactoring and pairing and get them used to having tests before.  On day 2 we got in to some legacy code issues using J.B.&#039;s canned trivia example to introduce some key concepts (introducing tests, moving in small steps even though the…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Jeff&lt;/p&gt;
+&lt;p&gt;Thanks for you reply - and well done for spotting my deliberate mistake :-)&lt;/p&gt;
+&lt;p&gt;The company were actually in Germany. We went there the week before last for a 2 day event.  We used Conways in the coderetreat format on day 1 to introduce TDD, refactoring and pairing and get them used to having tests before.  On day 2 we got in to some legacy code issues using J.B.&#039;s canned trivia example to introduce some key concepts (introducing tests, moving in small steps even though the problem is very large) and then they started working on refactoring some of their more challenging legacy code in the afternoon.&lt;/p&gt;
+&lt;p&gt;All in all, it was a great success.  By the end of the event they were all finding lots of interesting new ways to break up code that no-one had dared touch for ages!&lt;/p&gt;
+&lt;p&gt;Cheers&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Adrian &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Adrian,
+You didn&#039;t say whe…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:11110"/>
+                                        <id>tag:coderetreat.org,2012-07-20:6456126:Comment:11110</id>
+                                        <updated>2012-07-20T15:23:20.684Z</updated>
+                    
+                                            <author>
+                            <name>Jeff Hoover</name>
+                            <uri>http://coderetreat.org/profile/JeffHoover</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Adrian,&lt;/p&gt;
+&lt;p&gt;You didn&#039;t say where the company is. UK I presume?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Jeff&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Adrian,&lt;/p&gt;
+&lt;p&gt;You didn&#039;t say where the company is. UK I presume?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Jeff&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

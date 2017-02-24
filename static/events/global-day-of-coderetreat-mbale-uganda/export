@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38454
+DTSTAMP:20170129T120616Z
+SUMMARY:Global Day of Coderetreat 2014 - Mbale, Uganda
+DESCRIPTION:This will be a day-long, intensive practice event, focusin
+ g on the fundamentals of software development and design. By providing
+  developers the opportunity to take part in focused practice away from
+  the pressures of 'getting things done.\n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-coderetreat-mbale-uganda
+DTSTART:20141115T080000Z
+DTEND:20141115T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Almaz Mbale
+WEBSITE:https://www.google.com/maps/place/Almaz/@1.0977913,34.1785955,
+ 15z/data=!4m2!3m1!1s0x0:0x8ad29ab162abc721
+URL:https://www.google.com/maps/place/Almaz/@1.0977913,34.1785955,15z/
+ data=!4m2!3m1!1s0x0:0x8ad29ab162abc721
+CONTACT:+256773101481
+ORGANIZER;CN="Nsubuga Hassan":http://coderetreat.org/profile/NsubugaHa
+ ssan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nsubuga 
+ Hassan":http://coderetreat.org/profile/NsubugaHassan
+END:VEVENT
+END:VCALENDAR

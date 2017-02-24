@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10901
+DTSTAMP:20170129T134910Z
+SUMMARY:Code retreat Sibiu, Romania
+DESCRIPTION:For details and RSVP please go here: http://www.meetup.com
+ /The-Sibiu-Agile-Lean-Software-Meetup-Group/\n\nFor more information v
+ isit http://coderetreat.org/events/code-retreat-sibiu-romania
+DTSTART:20120818T083000Z
+DTEND:20120818T173000Z
+CATEGORIES:coderetreat
+LOCATION:Central Hub, Sibiu
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

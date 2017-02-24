@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26863
+DTSTAMP:20170129T115834Z
+SUMMARY:Global Day of Coderetreat 2013 - Frankfurt am Main, Germany
+DESCRIPTION:Global Day of Coderetreat 2013 - Frankfurt am Main, German
+ y\nWeitere Informationen und Anmeldung: GDCR13\nSponsors: itemis,  Na
+ mics\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2013-frankfurt-am-main-germany
+DTSTART:20131214T083000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Frankfurt am Main
+WEBSITE:http://www.itemis.de/itemis-ag/unternehmen/standorte/language=
+ de/35736/frankfurt
+URL:http://www.itemis.de/itemis-ag/unternehmen/standorte/language=de/3
+ 5736/frankfurt
+CONTACT:
+ORGANIZER;CN="Sven Lange":http://coderetreat.org/profile/svenlange
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/to50592nIFhU0
+ apcAOuhq9RDedsZj95XS*xfehT99cJXWC1dl22m-qVtMRNOnrllZsH9Q1R4twP1w8s6lhP
+ gfmN*qR84jFLe/Frankfurt_skyline.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sven Lan
+ ge":http://coderetreat.org/profile/svenlange
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Amitai 
+ Schleier":http://coderetreat.org/profile/schmonz
+END:VEVENT
+END:VCALENDAR

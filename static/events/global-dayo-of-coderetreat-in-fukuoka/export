@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:18633
+DTSTAMP:20170129T114401Z
+SUMMARY:Global Dayo of Coderetreat in Fukuoka
+DESCRIPTION:This is the first coderetreat event in fukuoka.\n\n\nFor m
+ ore information visit http://coderetreat.org/events/global-dayo-of-cod
+ eretreat-in-fukuoka
+DTSTART:20121208T084500Z
+DTEND:20121208T170000Z
+CATEGORIES:coadretreat
+LOCATION:Fukuoka, Japan
+WEBSITE:https://www.google.co.jp/maps?q=33.5903171,130.4238947&z=17
+URL:https://www.google.co.jp/maps?q=33.5903171,130.4238947&z=17
+CONTACT:+81-92-452-3868
+ORGANIZER;CN="Go Takahashi":http://coderetreat.org/profile/GoTakahashi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Go Takah
+ ashi":http://coderetreat.org/profile/GoTakahashi
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10833
+DTSTAMP:20170129T114446Z
+SUMMARY:Auckland Coderetreat
+DESCRIPTION:Corey will be in town, so we're doing a coderetreat!\n\nPl
+ ease register on meetup.com at http://www.meetup.com/Auckland-Code-ret
+ reat/events/85963422/\n \n\nMassive thanks to our sponsors:\nPrimary 
+ sponsor Datacom who are funding lunch! (Yay)\nalso codemania and Te
+ lerik who are paying for the breakfast/coffee and venue.\nWe couldn't
+  put on coderetreat without their support.\n\nFor more information vis
+ it http://coderetreat.org/events/auckland-coderetreat
+DTSTART:20121027T090000Z
+DTEND:20121027T170000Z
+CATEGORIES:coderetreat
+LOCATION:Bizdojo Makerspace
+WEBSITE:http://bit.ly/PDwUQ5
+URL:http://bit.ly/PDwUQ5
+CONTACT:
+ORGANIZER;CN="Ian Randall":http://coderetreat.org/profile/IanRandall
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tanya Gr
+ ay":http://coderetreat.org/profile/TanyaGray
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Piran Ta
+ ta":http://coderetreat.org/profile/PiranTata
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Amy Pala
+ mountain":http://coderetreat.org/profile/AmyPalamountain
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin H
+ olman":http://coderetreat.org/profile/MartinHolman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Mc
+ Intosh":http://coderetreat.org/profile/JamesMcIntosh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Josh Rob
+ b":http://coderetreat.org/profile/JoshRobb
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Tja
+ hjana":http://coderetreat.org/profile/AlexTjahjana
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Wh
+ ite":http://coderetreat.org/profile/DavidWhite
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Is
+ om":http://coderetreat.org/profile/KevinIsom
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Pollmeier":http://coderetreat.org/profile/MichaelPollmeier
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kalman B
+ ekesi":http://coderetreat.org/profile/KalmanBekesi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Richard 
+ Paul":http://coderetreat.org/profile/RichardPaul
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Darren H
+ all":http://coderetreat.org/profile/DarrenHall
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ian Rand
+ all":http://coderetreat.org/profile/IanRandall
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jeremy 
+ Nicholls":http://coderetreat.org/profile/JeremyNicholls
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Walter 
+ Rumsby":http://coderetreat.org/profile/WalterRumsby
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Tom Isa
+ acson":http://coderetreat.org/profile/TomIsaacson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="George 
+ Pollard":http://coderetreat.org/profile/GeorgePollard
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Mathew 
+ Hartley":http://coderetreat.org/profile/MathewHartley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="John Br
+ istowe":http://coderetreat.org/profile/JohnBristowe
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Roger B
+ arraud":http://coderetreat.org/profile/RogerBarraud
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Mark Yo
+ ung":http://coderetreat.org/profile/MarkYoung
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Chris W
+ erry":http://coderetreat.org/profile/ChrisWerry
+END:VEVENT
+END:VCALENDAR

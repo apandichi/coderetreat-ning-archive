@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54087
+DTSTAMP:20170129T113211Z
+SUMMARY:Global Day of Coderetreat Pune 2016 - Pune, India
+DESCRIPTION:Enjoy a day long of programming hosted and facilitated by 
+ the software craftsmen of Nelkinda Software Craft Pvt Ltd. Experience 
+ stunning retrospectives and new challenges.\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-coderetreat-pune-2016
+DTSTART:20161022T100000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Nelkinda Software Craft Pvt Ltd
+WEBSITE:http://nelkinda.com/events/2016-10-22-Global-Day-of-Coderetrea
+ t-Pune/
+URL:http://nelkinda.com/events/2016-10-22-Global-Day-of-Coderetreat-Pu
+ ne/
+CONTACT:+917720036661
+ORGANIZER:Nelkinda Software Craft Pvt Ltd
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Hujer":http://coderetreat.org/profile/ChristianHujer
+END:VEVENT
+END:VCALENDAR

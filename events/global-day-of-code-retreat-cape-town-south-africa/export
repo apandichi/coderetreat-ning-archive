@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13120
+DTSTAMP:20170129T134434Z
+SUMMARY:Global Day of Coderetreat 2012 - Cape Town / South Africa
+DESCRIPTION:http://coderetreat.org/profiles/blogs/announcing-global-da
+ y-of-coderetreat-2012\nIt's happening again! Throw away your code! For
+  more awesome.\nWorldwide.\nWill host it at IL -- if attendees are few
+ er than 12. If we get bigger... will find somewhere great.\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-code-re
+ treat-cape-town-south-africa
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Cape Town
+WEBSITE:http://www.meetup.com/Cape-Town-Software-Developers/events/791
+ 69682/
+URL:http://www.meetup.com/Cape-Town-Software-Developers/events/7916968
+ 2/
+CONTACT:+27828297212
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/jj2vWgXZDD7LW
+ bwzny6FlOdJgXb7cBZZ5uV-8HKGUsWgF1Cj1gbVL3q8eMwSq6REb0hNeSR0r2px7lvwKo6
+ q9d6AptfcIa33/600_67407932.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

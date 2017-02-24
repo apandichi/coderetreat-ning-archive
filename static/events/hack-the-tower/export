@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:18708
+DTSTAMP:20170129T123058Z
+SUMMARY:Hack the Tower
+DESCRIPTION:A hackathon for technical communities around London to com
+ e together and build interesting apps and discover great technology.\n
+ \nFor more information visit http://coderetreat.org/events/hack-the-to
+ wer
+DTSTART:20121208T100000Z
+DTEND:20121208T170000Z
+CATEGORIES:hackathon
+LOCATION:Tower42
+WEBSITE:http://www.meetup.com/LondonSalesforceDevelopers/events/913433
+ 52/
+URL:http://www.meetup.com/LondonSalesforceDevelopers/events/91343352/
+CONTACT:07411 383613
+ORGANIZER;CN="John Stevenson":http://coderetreat.org/profile/JohnSteve
+ nson
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="John Ste
+ venson":http://coderetreat.org/profile/JohnStevenson
+END:VEVENT
+END:VCALENDAR

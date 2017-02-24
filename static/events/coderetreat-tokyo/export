@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8676
+DTSTAMP:20170129T124343Z
+SUMMARY:Coderetreat Tokyo
+DESCRIPTION:The second coderetreat in Tokyo will be on April 14th.\nPl
+ ease see the event page linked from here.\nhttp://kokucheese.com/event
+ /index/28931/\n\nIf you have problems registering the event,  please 
+ contact me.\n\nFor more information visit http://coderetreat.org/event
+ s/coderetreat-tokyo
+DTSTART:20120414T000000Z
+DTEND:20120414T235900Z
+CATEGORIES:coderetreat
+LOCATION:Growth xPartners Inc.
+WEBSITE:http://www.gxp.co.jp/company/index.html
+URL:http://www.gxp.co.jp/company/index.html
+CONTACT:
+ORGANIZER;CN="Kiro HARADA":http://coderetreat.org/profile/KiroHARADA
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kiro HAR
+ ADA":http://coderetreat.org/profile/KiroHARADA
+END:VEVENT
+END:VCALENDAR

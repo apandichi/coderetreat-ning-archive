@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40277
+DTSTAMP:20170129T120535Z
+SUMMARY:Global Day of Coderetreat 2014 - London, UK
+DESCRIPTION:Sky is hosting a Global Day of Code Retreat at their East 
+ London offices on Braham Street.\nWe invite all keen Software Engineer
+ s to join us to practice our craft, learn from each other and have a f
+ un day!\nBreakfast and Lunch will be provided, bring your own equipmen
+ t (laptop, etc).\nWe'll be limited to 20 people. Go to EventBrite pag
+ e of the event to confirm your attendance.\n\n\nFor more information v
+ isit http://coderetreat.org/events/global-day-of-coderetreat-2014-lond
+ on-uk-2
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:1 Braham Street, London, E1 8EP
+WEBSITE:http://www.eventbrite.com/e/skys-global-day-of-code-retreat-lo
+ ndon-tickets-13959738955
+URL:http://www.eventbrite.com/e/skys-global-day-of-code-retreat-london
+ -tickets-13959738955
+CONTACT:
+ORGANIZER;CN="Joffrey Tourret":http://coderetreat.org/profile/joffreyt
+ ourret
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/LB6l9Yyl8LCMS
+ o8GdvaU5r8ee*nq-uUVsGspqLO4jQFCOh58tvJjovrcb*NkFb7-va9XAKNSY8bZeC7NNCO
+ 5q*qHCaA0YKfa/sky_logo.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joffrey 
+ Tourret":http://coderetreat.org/profile/joffreytourret
+END:VEVENT
+END:VCALENDAR

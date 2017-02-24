@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47412
+DTSTAMP:20170129T100452Z
+SUMMARY:Global Day of Coderetreat 2015 - Istanbul, Turkey
+DESCRIPTION:Also Istanbul JUG will host Global Day of Coderetreat at I
+ stanbul, Turkey. \nAll the details will be announced soon at http://
+ istanbul-jug.org/\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-coderetreat-2015-istanbul-turkey-1
+DTSTART:20151114T150000Z
+DTEND:20151114T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Koç Üniversitesi Kuluçka Merkezi
+WEBSITE:http://istanbul-jug.org/
+URL:http://istanbul-jug.org/
+CONTACT:+905336333777
+ORGANIZER;CN="Altuğ B. Altıntaş":http://coderetreat.org/profile/Alt
+ ugBAltintas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/AI-C-DD*hSfST
+ PIkw5QcoWJKkvj5li9i*0mlCuuiTpsiY770pKPaEDDyNdg-9Mv6KPvZDqdbXvKXmj1dQ9a
+ Qx7Ja3B0ViyOH/JUG_Button.gif
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Altuğ B
+ . Altıntaş":http://coderetreat.org/profile/AltugBAltintas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rahman U
+ sta":http://coderetreat.org/profile/RahmanUsta
+END:VEVENT
+END:VCALENDAR

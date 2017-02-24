@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48178
+DTSTAMP:20170129T103620Z
+SUMMARY:Global Day of Coderetreat 2015 - Gdańsk, Poland
+DESCRIPTION:Global day of code retreat in Gdansk\nRegistration at: ht
+ tps://events.epam.com/events/coderetreat-gdansk\nSponsored by Epam Sys
+ tems\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-gdansk-poland
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Olivia Business Center, Epam
+WEBSITE:https://events.epam.com/events/coderetreat-gdansk
+URL:https://events.epam.com/events/coderetreat-gdansk
+CONTACT:
+ORGANIZER;CN="Michał Gruca":http://coderetreat.org/profile/MichalGruc
+ a
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michał 
+ Gruca":http://coderetreat.org/profile/MichalGruca
+END:VEVENT
+END:VCALENDAR

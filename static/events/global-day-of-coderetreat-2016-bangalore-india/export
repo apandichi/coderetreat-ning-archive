@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54013
+DTSTAMP:20170129T112432Z
+SUMMARY:Global Day of Coderetreat 2016 - Bangalore, India
+DESCRIPTION:We are back and we're excited to host another GDCR in Bang
+ alore!\nWe'll be updating event information here, so stay tuned.\nTha
+ nks,\nAgile Bangalore\n\nFor more information visit http://coderetreat
+ .org/events/global-day-of-coderetreat-2016-bangalore-india
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Bangalore
+WEBSITE:
+URL:
+CONTACT:9886382983
+ORGANIZER:Agile Bangalore
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yedhu Kr
+ ishnan":http://coderetreat.org/profile/YedhuKrishnan977
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vinay Kr
+ ishna":http://coderetreat.org/profile/VinayKrishna
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Praveen
+  Kanakarajan":http://coderetreat.org/profile/PraveenKanakarajan
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=12ukszndzyayo&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:52:26Z</updated>
+                            <author>
+                    <name>Karl Hofmann</name>
+                    <uri>http://coderetreat.org/profile/KarlHofmann</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=12ukszndzyayo&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jim Dewitt</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JimDewitt"/>
+                                        <id>tag:coderetreat.org,2014-12-08:6456126:User:42450</id>
+                                        <updated>2014-12-08T18:18:58.461Z</updated>
+                    
+                                            <author>
+                            <name>Karl Hofmann</name>
+                            <uri>http://coderetreat.org/profile/KarlHofmann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/oj4MhhoM4fRmUM5JYhTb4xBUh9Jbe4bU8WPiAIAxtk5UMzXl1*BpDP19Dw3ymtk6*zauEQP4QIVFryjJzZN0Wj8vONFo1WTk/1097325963.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jim Dewitt&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/oj4MhhoM4fRmUM5JYhTb4xBUh9Jbe4bU8WPiAIAxtk5UMzXl1*BpDP19Dw3ymtk6*zauEQP4QIVFryjJzZN0Wj8vONFo1WTk/1097325963.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jim Dewitt&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Dan Gribbin</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/DanGribbin"/>
+                                        <id>tag:coderetreat.org,2014-11-03:6456126:User:40665</id>
+                                        <updated>2014-11-03T15:03:54.609Z</updated>
+                    
+                                            <author>
+                            <name>Karl Hofmann</name>
+                            <uri>http://coderetreat.org/profile/KarlHofmann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/06WphArD*Ms8wy3Nfs3T1KPrGJuqjvS4wY23lTbIztUuxSIREdCOzs8-z9xOQAKRnA3tv18JbX4Avf2tLLZNL5UE8i0FlUxS/1089578925.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Dan Gribbin&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/06WphArD*Ms8wy3Nfs3T1KPrGJuqjvS4wY23lTbIztUuxSIREdCOzs8-z9xOQAKRnA3tv18JbX4Avf2tLLZNL5UE8i0FlUxS/1089578925.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Dan Gribbin&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Roberta Jean Oare</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RobertaJeanOare"/>
+                                        <id>tag:coderetreat.org,2014-10-30:6456126:User:40492</id>
+                                        <updated>2014-10-30T18:38:06.207Z</updated>
+                    
+                                            <author>
+                            <name>Karl Hofmann</name>
+                            <uri>http://coderetreat.org/profile/KarlHofmann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/6ovfEf3pFLfRjGx5sRMfJGzcnFRQdPsavlv7yVzrGoJ6OzLKZ5r*ZsDzXqN8M7knCSaYdjjI3zYBQOGt9qt28KAlhn8KstQS/1088882241.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Roberta Jean Oare&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/6ovfEf3pFLfRjGx5sRMfJGzcnFRQdPsavlv7yVzrGoJ6OzLKZ5r*ZsDzXqN8M7knCSaYdjjI3zYBQOGt9qt28KAlhn8KstQS/1088882241.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Roberta Jean Oare&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Elliot Vos</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ElliotVos"/>
+                                        <id>tag:coderetreat.org,2014-10-30:6456126:User:40560</id>
+                                        <updated>2014-10-30T18:33:26.149Z</updated>
+                    
+                                            <author>
+                            <name>Karl Hofmann</name>
+                            <uri>http://coderetreat.org/profile/KarlHofmann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/6ovfEf3pFLfvSBXSc-F4ZXqKXNpBYKh8G7RDUkf0Ny2KhVAyFTOLd6j2PKTTvuyGPpzLO9yZac-K21hBYYbO8nhxUWTPbJaq/1088881565.jpeg?xgip=0%3A0%3A510%3A510%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Elliot Vos&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/6ovfEf3pFLfvSBXSc-F4ZXqKXNpBYKh8G7RDUkf0Ny2KhVAyFTOLd6j2PKTTvuyGPpzLO9yZac-K21hBYYbO8nhxUWTPbJaq/1088881565.jpeg?xgip=0%3A0%3A510%3A510%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Elliot Vos&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Mike Schneider</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MikeSchneider"/>
+                                        <id>tag:coderetreat.org,2014-10-30:6456126:User:40557</id>
+                                        <updated>2014-10-30T18:27:27.690Z</updated>
+                    
+                                            <author>
+                            <name>Karl Hofmann</name>
+                            <uri>http://coderetreat.org/profile/KarlHofmann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/6ovfEf3pFLfq3iJ3a1aAG5umVq8sQwVQNLaDx*M3Oy-7C9LuvlGY9ATFuwewLgf2iSeDk8q3eHNu1JL74YRlah*W1Ge7OqU9/1088880642.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Mike Schneider&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/6ovfEf3pFLfq3iJ3a1aAG5umVq8sQwVQNLaDx*M3Oy-7C9LuvlGY9ATFuwewLgf2iSeDk8q3eHNu1JL74YRlah*W1Ge7OqU9/1088880642.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Mike Schneider&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

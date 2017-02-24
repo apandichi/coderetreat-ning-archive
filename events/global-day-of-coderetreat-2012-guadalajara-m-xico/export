@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11910
+DTSTAMP:20170129T101306Z
+SUMMARY:Global Day of Coderetreat 2012 - Guadalajara / Mexico
+DESCRIPTION:We'll be joining this global event.\n\nFor more informatio
+ n visit http://coderetreat.org/events/global-day-of-coderetreat-2012-g
+ uadalajara-m-xico
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Wowzer (Parque tecnológico del ITESO)
+WEBSITE:http://@ruby_gdl
+URL:http://@ruby_gdl
+CONTACT:
+ORGANIZER:Ruby GDL Community
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier C
+ ervantes":http://coderetreat.org/profile/JavierCervantes
+END:VEVENT
+END:VCALENDAR

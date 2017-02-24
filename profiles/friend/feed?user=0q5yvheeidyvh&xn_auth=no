@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0q5yvheeidyvh&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:55:33Z</updated>
+                            <author>
+                    <name>Katharina Saridza</name>
+                    <uri>http://coderetreat.org/profile/KatharinaSaridza</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/rnXnbo8QfWsJQISq5**acmpVovifPO*N1ywBaYLyFr-S9W7biVd1XLKoq1wU7uKL37JO55F-68hNkGZiMI9ulh-3pTyD1iqO/1242258367.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0q5yvheeidyvh&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Bert Radke</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/BertRadke"/>
+                                        <id>tag:coderetreat.org,2016-09-05:6456126:User:54540</id>
+                                        <updated>2016-09-05T07:44:20.201Z</updated>
+                    
+                                            <author>
+                            <name>Katharina Saridza</name>
+                            <uri>http://coderetreat.org/profile/KatharinaSaridza</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/jSNhDxbJzkgpxNS*0Ngxabpr3jdrly-fshY-5MqYgrIvhA02jLoxYlx2*rPVzfhVHau*z5ywBhoLNnqtMm*-nujvMTzNQdzV/1237721698.png?xgip=0%3A0%3A379%3A379%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bert Radke&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/jSNhDxbJzkgpxNS*0Ngxabpr3jdrly-fshY-5MqYgrIvhA02jLoxYlx2*rPVzfhVHau*z5ywBhoLNnqtMm*-nujvMTzNQdzV/1237721698.png?xgip=0%3A0%3A379%3A379%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bert Radke&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

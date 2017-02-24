@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0zmxmgkf3qca9&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:45:12Z</updated>
+                            <author>
+                    <name>Michael Kolakowski</name>
+                    <uri>http://coderetreat.org/profile/MichaelKolakowski</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/NqquuF5qeCof5lNzau8*GsRX3qlvtM4Rj5sy04d-clQYtRTPyUJw8TH*vrAp1HfXfYP-lyKlpiQvqDNYn9oDFZqBu*5Cxz8b/1147995419.jpeg?xgip=0%3A46%3A346%3A346%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0zmxmgkf3qca9&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Pandichi Alin-Ionut</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PandichiAlinIonut"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:User:39929</id>
+                                        <updated>2014-10-21T09:55:00.237Z</updated>
+                    
+                                            <author>
+                            <name>Michael Kolakowski</name>
+                            <uri>http://coderetreat.org/profile/MichaelKolakowski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jessica Codr</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JessicaCodr"/>
+                                        <id>tag:coderetreat.org,2011-12-20:6456126:User:6059</id>
+                                        <updated>2011-12-20T17:39:14.955Z</updated>
+                    
+                                            <author>
+                            <name>Michael Kolakowski</name>
+                            <uri>http://coderetreat.org/profile/MichaelKolakowski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/Kjjr4frf0T7TFFICW7TSiqYUQ4MigR4JU1pfmm*kTFc6iJyFDVeZ3AkNXbuHTn4dBchrlWBmw43vyNPphV7hsgx8f4cp5gd5/410365179.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jessica Codr&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/Kjjr4frf0T7TFFICW7TSiqYUQ4MigR4JU1pfmm*kTFc6iJyFDVeZ3AkNXbuHTn4dBchrlWBmw43vyNPphV7hsgx8f4cp5gd5/410365179.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jessica Codr&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Matt Steele</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MattSteele"/>
+                                        <id>tag:coderetreat.org,2011-12-20:6456126:User:6051</id>
+                                        <updated>2011-12-20T17:26:24.776Z</updated>
+                    
+                                            <author>
+                            <name>Michael Kolakowski</name>
+                            <uri>http://coderetreat.org/profile/MichaelKolakowski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/hEKH7*3UMxKPw*bOLKhk5h3UzfeA9psfLC8yB0iPe6cyjRwAgM-Q8u6mBqXbUOm1w4P0tzTJ7K9jJCsLPLt1iNczm2D92z6h/833037408.jpeg?xgip=0%3A0%3A495%3A495%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Matt Steele&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/hEKH7*3UMxKPw*bOLKhk5h3UzfeA9psfLC8yB0iPe6cyjRwAgM-Q8u6mBqXbUOm1w4P0tzTJ7K9jJCsLPLt1iNczm2D92z6h/833037408.jpeg?xgip=0%3A0%3A495%3A495%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Matt Steele&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56214
+DTSTAMP:20170129T114929Z
+SUMMARY:Global Day of Coderetreat 2016 - Hamburg, Germany
+DESCRIPTION:To RSVP please visit our meetup page: https://www.meetup.c
+ om/de-DE/sokahh/events/233037628/\n\nFor more information visit http:/
+ /coderetreat.org/events/global-day-of-coderetreat-2016-hamburg-germany
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Holisticon AG
+WEBSITE:https://goo.gl/maps/fnkXFpegFBo
+URL:https://goo.gl/maps/fnkXFpegFBo
+CONTACT:
+ORGANIZER;CN="Sven Bunge":http://coderetreat.org/profile/SvenBunge
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sven Bun
+ ge":http://coderetreat.org/profile/SvenBunge
+END:VEVENT
+END:VCALENDAR

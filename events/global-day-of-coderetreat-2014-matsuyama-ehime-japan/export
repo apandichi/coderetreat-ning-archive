@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39545
+DTSTAMP:20170129T120818Z
+SUMMARY:Global Day of Coderetreat 2014 - Matsuyama, Ehime, Japan
+DESCRIPTION:Hello there,\nWe are happy to join the Global Day of Coder
+ etreat 2014.\nEvent page(doorkeeper)\n\nFor more information visit htt
+ p://coderetreat.org/events/global-day-of-coderetreat-2014-matsuyama-eh
+ ime-japan
+DTSTART:20141115T083000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Matsuyama, Ehime
+WEBSITE:https://www.google.co.jp/maps/preview?q=33.8384521,132.7688749
+ (%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E4%B8%89%E7%95
+ %AA%E7%94%BA3-9-3)&z=17
+URL:https://www.google.co.jp/maps/preview?q=33.8384521,132.7688749(%E6
+ %84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E4%B8%89%E7%95%AA%
+ E7%94%BA3-9-3)&z=17
+CONTACT:
+ORGANIZER;CN="junya hayase":http://coderetreat.org/profile/junyahayase
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="junya ha
+ yase":http://coderetreat.org/profile/junyahayase
+END:VEVENT
+END:VCALENDAR

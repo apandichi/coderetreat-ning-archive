@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37537
+DTSTAMP:20170129T120733Z
+SUMMARY:Global Day of Coderetreat 2014 - Portland, OR, USA
+DESCRIPTION:Portland's third annual GDCR:\n\n\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2014-por
+ tland-or-usa
+DTSTART:20141115T083000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:ACME Business Consulting LLC
+WEBSITE:https://www.eventbrite.com/e/pdx-global-day-of-code-retreat-20
+ 14-tickets-11470688137
+URL:https://www.eventbrite.com/e/pdx-global-day-of-code-retreat-2014-t
+ ickets-11470688137
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

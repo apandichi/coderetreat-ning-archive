@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:20718
+DTSTAMP:20170129T125409Z
+SUMMARY:Code Retreat Madison
+DESCRIPTION:Full day code retreat in Madison, Wisconsin, USA.\nSign up
+  here.\n\nFor more information visit http://coderetreat.org/events/co
+ de-retreat-madison
+DTSTART:20130309T090000Z
+DTEND:20130309T170000Z
+CATEGORIES:code, retreat
+LOCATION:Downtown Madison
+WEBSITE:https://maps.google.com/?ll=43.074389,-89.380676&spn=0.011442,
+ 0.024719&t=m&z=16
+URL:https://maps.google.com/?ll=43.074389,-89.380676&spn=0.011442,0.02
+ 4719&t=m&z=16
+CONTACT:
+ORGANIZER;CN="Stephen Anderson":http://coderetreat.org/profile/Stephen
+ Anderson
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stephen 
+ Anderson":http://coderetreat.org/profile/StephenAnderson
+END:VEVENT
+END:VCALENDAR

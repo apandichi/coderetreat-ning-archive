@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26149
+DTSTAMP:20170129T135438Z
+SUMMARY:Global Day of Coderetreat 2013 - Barcelona, Spain
+DESCRIPTION:After participate in 2011 and 2012, Barcelona wants to jo
+ in GDCR initiative one more year. One more time, Runroom offer us thei
+ r office to make it happen, thanks Runroom!\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-coderetreat-2013-barce
+ lona-spain
+DTSTART:20131214T090000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Runroom
+WEBSITE:http://agile-barcelona.org
+URL:http://agile-barcelona.org
+CONTACT:
+ORGANIZER:Agile-Barcelona
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/TROotLSon3n3D
+ xqcRm8GjJDSwrmQbTP*XGSBcyMGhGH5AlFvFMQ1B-2Dqyfr0Ogg5b5PICXnQmgD9pPh3rp
+ s3GVXR4JhNbgB/427659573.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Leandro 
+ Stasi":http://coderetreat.org/profile/LeandroStasi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="José Ca
+ rlos Gil Zambrana":http://coderetreat.org/profile/JoseCarlosGilZambran
+ a
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dani Lat
+ orre":http://coderetreat.org/profile/DaniLatorre
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ignasi M
+ arimon-Clos":http://coderetreat.org/profile/IgnasiMarimonClos
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=teknopaul
+ :http://coderetreat.org/profile/teknopaul
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mateu Ad
+ suara Sabater":http://coderetreat.org/profile/MateuAdsuaraSabater
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arnau Qu
+ intana":http://coderetreat.org/profile/ArnauQuintana
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=jotape:ht
+ tp://coderetreat.org/profile/jotape
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jordi Fa
+ lguera":http://coderetreat.org/profile/JordiFalguera
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Viktor F
+ arcic":http://coderetreat.org/profile/ViktorFarcic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaume Jo
+ rnet":http://coderetreat.org/profile/JaumeJornet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="José E.
+  Rodríguez":http://coderetreat.org/profile/JoseERodriguez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrea D
+ e Pirro":http://coderetreat.org/profile/AndreaDePirro
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Carlos 
+ Báez":http://coderetreat.org/profile/CarlosBaez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Christi
+ an Soronellas":http://coderetreat.org/profile/ChristianSoronellas
+END:VEVENT
+END:VCALENDAR

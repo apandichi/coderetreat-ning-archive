@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50015
+DTSTAMP:20170129T135420Z
+SUMMARY:Global Day of Coderetreat 2015 - Quito, Ecuador
+DESCRIPTION:Este año el Día Mundial para el Retiro de Programación 
+ estará nuevamente en la oficina deThoughtWorks\n\nFor more informatio
+ n visit http://coderetreat.org/events/global-day-of-coderetreat-2015-q
+ uito-ecuador
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:ThoughtWorks Ecuador
+WEBSITE:https://www.thoughtworks.com
+URL:https://www.thoughtworks.com
+CONTACT:
+ORGANIZER;CN="Ivan Pazmino":http://coderetreat.org/profile/IvanPazmino
+ 126
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ivan Paz
+ mino":http://coderetreat.org/profile/IvanPazmino126
+END:VEVENT
+END:VCALENDAR

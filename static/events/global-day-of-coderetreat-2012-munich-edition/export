@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15804
+DTSTAMP:20170129T112056Z
+SUMMARY:Global Day of Coderetreat 2012 - Munich / Germany
+DESCRIPTION:For more info see: http://www.coderetreat-munich.de\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2012-munich-edition
+DTSTART:20121208T081500Z
+DTEND:20121208T190000Z
+CATEGORIES:coderetreat
+LOCATION:E.S.R. Labs
+WEBSITE:http://Global Day of Coderetreat 2012 -
+URL:http://Global Day of Coderetreat 2012 -
+CONTACT:
+ORGANIZER;CN="Sebastian Benz":http://coderetreat.org/profile/Sebastian
+ Benz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sebastia
+ n Benz":http://coderetreat.org/profile/SebastianBenz
+END:VEVENT
+END:VCALENDAR

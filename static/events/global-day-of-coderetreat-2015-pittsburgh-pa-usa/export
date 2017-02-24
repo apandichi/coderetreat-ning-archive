@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48446
+DTSTAMP:20170129T103635Z
+SUMMARY:Global Day of Coderetreat 2015 - Pittsburgh, PA, USA
+DESCRIPTION:Pittsburgh, PA is participating in the Global Day of Coder
+ etreat 2015\nThis year, Code & Supply is organizing the coderetreat in
+  Pittsburgh as part of the Code & Supply End of Year Bash.\nPlease reg
+ ister through Code & Supply's Meetup Event.\nThis year, the Pittsburgh
+  Carnegie Museum of Art is hosting the coderetreat, a truly unique ve
+ nue.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-pittsburgh-pa-usa
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Carnegie Museum of Art
+WEBSITE:http://www.meetup.com/Pittsburgh-Code-Supply/events/226400251/
+URL:http://www.meetup.com/Pittsburgh-Code-Supply/events/226400251/
+CONTACT:
+ORGANIZER:Pittsburgh Code & Supply
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/hNvgaLS7D47es
+ gYjP3JkjK9sIC9R0SAVEZ1uJEA48oJUmJr*Nm5Df6RY2CilgVkLOVEUHW9tzETFnsCRN1T
+ AfOkQY*OaihEq/global_360209592.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

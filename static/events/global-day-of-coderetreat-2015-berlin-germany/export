@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46174
+DTSTAMP:20170129T121531Z
+SUMMARY:Global Day of Coderetreat 2015 - Berlin, Germany
+DESCRIPTION:Please register via Eventbrite: http://gdcr15-berlin.even
+ tbrite.de\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-2015-berlin-germany
+DTSTART:20151114T083000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Wooga GmBh
+WEBSITE:https://www.google.com/maps?q=52.529074,13.416154+(Wooga+GmbH)
+URL:https://www.google.com/maps?q=52.529074,13.416154+(Wooga+GmbH)
+CONTACT:+49 163 234 23 05
+ORGANIZER;CN="Jan Hartung":http://coderetreat.org/profile/egga
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/x93ABI42iFUtF
+ VivqEl*DlWMQG4HTGswXY3fPP4wNDTa*ZCt5Rdv612AsR7OBvrNBQ5eLdj2jchZJL1*qqt
+ BiSbhBUllR0DO/crberlinklein.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Hart
+ ung":http://coderetreat.org/profile/egga
+END:VEVENT
+END:VCALENDAR

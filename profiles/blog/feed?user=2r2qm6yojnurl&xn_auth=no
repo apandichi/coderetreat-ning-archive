@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Aki Salmi&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=2r2qm6yojnurl&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:09:03Z</updated>
+                            <author>
+                    <name>Aki Salmi</name>
+                    <uri>http://coderetreat.org/profile/AkiSalmi</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/xakZ7IyOB*FMRLC5FyjEnFhU7VzBCSjPpLg3nAai1Fd96QMGWr5EC3py328pQWB3ZD*GGuExMK8RAM5mymbMajkZLP504emM/664585888.jpeg?xgip=400%3A482%3A2617%3A2617%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=2r2qm6yojnurl&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Facilitators note on coderetreat in Joensuu</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:20824"/>
+                                        <id>tag:coderetreat.org,2013-03-07:6456126:BlogPost:20824</id>
+                                        <updated>2013-03-07T19:49:34.000Z</updated>
+                    
+                                            <author>
+                            <name>Aki Salmi</name>
+                            <uri>http://coderetreat.org/profile/AkiSalmi</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I wrote a blog post on my company site:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.ambientia.fi/2013/03/07/facilitators-notes-on-coderetreat-in-joensuu/?lang=en&quot; target=&quot;_blank&quot;&gt;Facilitator&#039;s notes on coderetreat in Joensuu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;I wrote a blog post on my company site:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.ambientia.fi/2013/03/07/facilitators-notes-on-coderetreat-in-joensuu/?lang=en&quot; target=&quot;_blank&quot;&gt;Facilitator&#039;s notes on coderetreat in Joensuu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

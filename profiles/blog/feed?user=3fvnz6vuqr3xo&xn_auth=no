@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Markus Örebrand&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3fvnz6vuqr3xo&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:12:39Z</updated>
+                            <author>
+                    <name>Markus Örebrand</name>
+                    <uri>http://coderetreat.org/profile/MarkusOrebrand</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/1Q3**abF*4RLIDai6ZQeUGsDQkM6MjqwjhyTpydp2sXYJq96mrRVN2Cxs5PX3ZtxwFGz8mnRHBnsaU-Wl8v*tDR7Tq8JWD-U/665030623.jpeg?xgip=7%3A0%3A423%3A423%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3fvnz6vuqr3xo&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Insights from Sweden/Umeå</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:19703"/>
+                                        <id>tag:coderetreat.org,2012-12-10:6456126:BlogPost:19703</id>
+                                        <updated>2012-12-10T21:33:06.000Z</updated>
+                    
+                                            <author>
+                            <name>Markus Örebrand</name>
+                            <uri>http://coderetreat.org/profile/MarkusOrebrand</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;When Umeå Java User Group participated in GDCR2012, it was our third Code Retreat setup. This time we feel we have got the hang of it!&lt;/p&gt;
+&lt;p&gt;There were twelve participants with quite diverse programming backgrounds, and during the day we got to stretch our minds to identify the weak and strong spots of our individual crafts.&lt;/p&gt;
+&lt;p&gt;At the last retrospective we discussed a number of more or less personal insights gained during the day.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The craft of programming is not only…&lt;/li&gt;
+&lt;/ul&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;When Umeå Java User Group participated in GDCR2012, it was our third Code Retreat setup. This time we feel we have got the hang of it!&lt;/p&gt;
+&lt;p&gt;There were twelve participants with quite diverse programming backgrounds, and during the day we got to stretch our minds to identify the weak and strong spots of our individual crafts.&lt;/p&gt;
+&lt;p&gt;At the last retrospective we discussed a number of more or less personal insights gained during the day.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The craft of programming is not only technical, but relies to a large degree on social skills. This manifested itself clearly when a junior programmer paired with a senior, and during the &quot;Mute&quot; session where discussion sometimes did not occur.&lt;/li&gt;
+&lt;li&gt;An automated test verifies that a system answers correctly to a question. For the verification to make sense, &lt;em&gt;you have to know the correct answer to the question&lt;/em&gt; or at least some special part of the answer.&lt;/li&gt;
+&lt;li&gt;Keyboard shortcuts and advanced features of an IDE (such as refactoring, code generation, visualisation and so on) makes you a lot faster. It&#039;s &lt;em&gt;totally&lt;/em&gt; not that hard to learn either!&lt;/li&gt;
+&lt;li&gt;TDD can be used to describe the behaviour of a system from the client&#039;s point of view.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beyond that, ideas on code style, design patterns and domain modelling/requirements interpretation were exchanged among the participants, and we all had a really good time!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Markus Örebrand&lt;/em&gt;, &lt;em&gt;facilitator&lt;/em&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

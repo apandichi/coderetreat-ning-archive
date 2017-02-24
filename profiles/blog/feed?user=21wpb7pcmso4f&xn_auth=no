@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Bart Bakker&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=21wpb7pcmso4f&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:10:12Z</updated>
+                            <author>
+                    <name>Bart Bakker</name>
+                    <uri>http://coderetreat.org/profile/bjpbakker</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/iFktKrOWxtqvEy7Rm82agoQdNy48pKBBQnLhT8RsgEyZ3-49BT9nzofZB39qvaWnD9Jdqf3KuHeR6OxTf1nVaCHsYLTLb11n/935179881.jpeg?xgip=0%3A75%3A1044%3A1044%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=21wpb7pcmso4f&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day 2012</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:19298"/>
+                                        <id>tag:coderetreat.org,2012-12-09:6456126:BlogPost:19298</id>
+                                        <updated>2012-12-09T23:30:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Bart Bakker</name>
+                            <uri>http://coderetreat.org/profile/bjpbakker</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&lt;em&gt;This post is cross-posted from &lt;a href=&quot;http://blog.thesoftwarecraft.com&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;color: #808080;&quot;&gt;http://blog.thesoftwarecraft.com&lt;/span&gt;&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Yesterday, Saturday December 8th, the Global Day of Coderetreat 2012 was finally there. As facilitator of the event in Haarlem (The Netherlands) I was quite excited about this event, and think we it was great and much fun.&lt;/p&gt;
+&lt;p&gt;Even though we had an event with only 5 people,…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;span style=&quot;color: #808080;&quot;&gt;&lt;em&gt;This post is cross-posted from &lt;a href=&quot;http://blog.thesoftwarecraft.com&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;color: #808080;&quot;&gt;http://blog.thesoftwarecraft.com&lt;/span&gt;&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Yesterday, Saturday December 8th, the Global Day of Coderetreat 2012 was finally there. As facilitator of the event in Haarlem (The Netherlands) I was quite excited about this event, and think we it was great and much fun.&lt;/p&gt;
+&lt;p&gt;Even though we had an event with only 5 people, we really had an awesome day. Throughout the day we did 5 implementations of Conway&#039;s Game of Life, each with different constraints. The constraint for all session was that the universe is infinite (so two-dimensional arrays are probably not the best option).&lt;/p&gt;
+&lt;p&gt;The constraints in a coderetreat are extreme. This is the purpose of a coderetreat. By taking practices into the extreme you&#039;ll learn when they can be useful and when to avoid them. On each coderetreat people are strongly suggested &lt;i&gt;not&lt;/i&gt; to write code like that on the job.&lt;/p&gt;
+&lt;p&gt;Each session is 45 minutes. When a session ends the code &lt;i&gt;must&lt;/i&gt; be deleted. After each session there&#039;s a short retrospective.&lt;/p&gt;
+&lt;h3&gt;Warming up&lt;/h3&gt;
+&lt;p&gt;To get everyone started the warming up didn&#039;t have much constraints. The Game of Life must be implemented using clean code and TDD - like usual. This allowed people to get set and into the mood for the rest of the day.&lt;/p&gt;
+&lt;p&gt;After 40 minutes I communicated a little change in the requirements. The universe must be 3 dimensional rather than 2d. The remaining few minutes in the session were for each pair to figure out and discuss in how many places they would need to make a change.&lt;/p&gt;
+&lt;h3&gt;Baby Steps&lt;/h3&gt;
+&lt;div&gt;&lt;p&gt;The second session was constrained with taking baby steps. Each pair had to set a timer on 2 minutes, write a failing test and implement it (make it green) before the timer rings. Then they commit, reset the timer, and refactor their code before the timer rings. If they didn&#039;t finish within the timer they had to roll back their changes and start over - taking a smaller step.&lt;/p&gt;
+&lt;p&gt;To be able to commit changes but still delete the code after the session ends each pair set up a local git repository. As it turned out the pairs struggled a little with git as they weren&#039;t familiar with it. Next time I&#039;ll give more introduction into git, if needed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;Silent Ping-Pong&lt;/h3&gt;
+&lt;div&gt;&lt;p&gt;After a nice lunch, the third session focused on how you document your code using tests. Future-you may not fully understand your test while current-you think it&#039;s fine.&lt;/p&gt;
+&lt;p&gt;As pairing with future-you is rather hard - or probably impossible if you don&#039;t owe a Delorean (and none of the attendees did) - we used the ping-pong pairing technique. One writes a test (tester) and the other implements it (implementer). As you cannot communicate with future-you other than through code, the pairs may only communicate through code in this session. To make the test suite a little more interesting the implementer had the role of evil coder (try to find loop-holes in the tests).&lt;/p&gt;
+&lt;p&gt;It&#039;s interesting how the pairs had the same experience I had when I did this session on a coderetreat. You get really far without talking to each other. You won&#039;t be discussing design. You just code. One drives the design, the other implements and refactors.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;No return values&lt;/h3&gt;
+&lt;div&gt;&lt;p&gt;The fourth session constrains the use of return values: it&#039;s lambda&#039;s all the way down.&lt;/p&gt;
+&lt;p&gt;People were using Java all day long, which is really quite awful at this exercise because of Java&#039;s lack of lambda&#039;s. For those programming only in Java this really is a great exercise as it helps them understand what callbacks are about and when they can be useful.&lt;/p&gt;
+&lt;p&gt;On a side note: if you only know how program in Java, learn another language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;Cooling Down&lt;/h3&gt;
+&lt;div&gt;&lt;p&gt;For the cooling down we did a fish-bowl session. One pair was programming on the big screen, the others were watching. Each 2 minutes one of the pair was replaced. No constraints were applied in this session.&lt;/p&gt;
+&lt;p&gt;This session was a really fun and interesting way to finish the day.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;Closing Circle&lt;/h3&gt;
+&lt;div&gt;&lt;p&gt;At the end of the day we all joined together in the closing circle to each tell briefly about their view on the day. For me it was really interesting to hear how people experienced the day, that they learned, what surprised them and what they&#039;ll take with them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;Next year&lt;/h3&gt;
+&lt;div&gt;&lt;p&gt;Global Day 2012 was an awesome day that takes place in an amazing community. Special thanks goes out to Corey Haines and Jim Hurne for all their hard work on raising the bar for coderetreat events and making sure every location in the world could host an awesome event!&lt;/p&gt;
+&lt;p&gt;The most important thing I&#039;ll take with me to next year is to get more people to attend. Even though coderetreat scales down well it is even better with more people.&lt;/p&gt;
+&lt;p&gt;That said, yes, I plan to facilitate Global Day 2013 too. Hope to see you next year!&lt;/p&gt;
+&lt;/div&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

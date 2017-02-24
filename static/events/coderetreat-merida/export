@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:32093
+DTSTAMP:20170129T124452Z
+SUMMARY:Coderetreat Merida
+DESCRIPTION:Merida, Mexico is participating in the Global Day of Code
+ retreat 2013!\nCoderetreat is a day-long, intensive practice event fo
+ cused on the fundamentals of software development and design.The uniqu
+ e coderetreat format (which eliminates the pressure of 'getting things
+  done' and focuses on practicing basic principles of good design) has 
+ proven to be a highly effective (and fun) means of skill improvement. 
+  On December 14th, Coderetreats will be held at cities all over the wo
+ rld. To celebrate this significant event, we'll be participating in so
+ me global activities in addition to our normal Coderetreat activities.
+ \nYou only need to bring a laptop with the development tools you requi
+ re to write code using your chosen programming languages. \nCheck out
+  coderetreat.org for further details on what to expect.\n\nFor more 
+ information visit http://coderetreat.org/events/coderetreat-merida
+DTSTART:20131214T090000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat
+LOCATION:Holiday Inn Hotel
+WEBSITE:http://coderetreatmerida.org
+URL:http://coderetreatmerida.org
+CONTACT:
+ORGANIZER:The Hybrid Group
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Julio Go
+ mez":http://coderetreat.org/profile/JulioGomez
+END:VEVENT
+END:VCALENDAR

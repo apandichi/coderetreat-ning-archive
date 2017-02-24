@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47149
+DTSTAMP:20170129T120657Z
+SUMMARY:Global Day of Coderetreat 2015 - Skopje, Macedonia
+DESCRIPTION:We’re glad to be celebrating the Global Day of Coderetre
+ at in Macedonia for the fifth time!\nPlease join us for an exciting d
+ ay where not only we would practice OO software design by applying the
+  4 rules of simple design by Kent Beck but we would also have fun toge
+ ther, push ourselves to be better and learn from one another.\nCoderet
+ reat is a one day event that provides developers the opportunity for s
+ kills improvement by focusing on software development and design funda
+ mentals. By practicing the basic principles of modular and object-orie
+ nted design, participants can improve their ability to write code that
+  minimizes the cost of change over time. It aims to shrink the gap bet
+ ween the code we write under pressure of needing to deliver on time an
+ d the perfect code.\nThe agenda is as follows:\n- Solve the Conway's G
+ ame of Life - Pair programming - Each session lasts for 45 min - Sm
+ all break of 15 min allowing time for retrospective - Change of pairs
+  and new session\nSnacks and pizza will be provided by the host.\nPlea
+ se bring your personal laptop.\nSponsor:\n\n\n\n=====\n\nNote: Registr
+ ations on this site are manually approved by admins (not organizer) to
+  prevent spam. Please be patient and report to us if your registration
+  is not approved within a day.\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2015-skopje-macedonia
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Skopje, Macedonia
+WEBSITE:https://www.google.mk/maps/place/Endava/@41.9986738,21.4316691
+ ,17z/data=!3m1!4b1!4m2!3m1!1s0x135415b1869665dd:0xdac5f6f557071191
+URL:https://www.google.mk/maps/place/Endava/@41.9986738,21.4316691,17z
+ /data=!3m1!4b1!4m2!3m1!1s0x135415b1869665dd:0xdac5f6f557071191
+CONTACT:+38970795844
+ORGANIZER;CN="Dalibor Nasevic":http://coderetreat.org/profile/DaliborN
+ asevic
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Vwc9YSHjxM5sr
+ jiAwqcuWVO46YYnJoPovYBhGD9719nb3CfMzzP9ulmiTChHmBZASmjOiaJ9Si5nIqrFhlE
+ AkraSrIMSHo6T/gdrc2015.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Damjan D
+ imitrioski":http://coderetreat.org/profile/DamjanDimitrioski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nikola K
+ adiev":http://coderetreat.org/profile/NikolaKadiev
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Katerina
+  Miteva":http://coderetreat.org/profile/KaterinaMiteva
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Игор
+  Стојановски":http://coderetreat.org/profile/IgorStojanovsk
+ i723
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marjan P
+ . Ilievski":http://coderetreat.org/profile/MarjanPIlievski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zivko La
+ zarov":http://coderetreat.org/profile/ZivkoLazarov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robert A
+ tanasoski":http://coderetreat.org/profile/RobertAtanasoski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kristina
+  Hristoska":http://coderetreat.org/profile/KristinaHristoska
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Viktor G
+ rozdanovski":http://coderetreat.org/profile/ViktorGrozdanovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Monika A
+ rsenovska":http://coderetreat.org/profile/MonikaArsenovska
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksand
+ ar Trajanovski":http://coderetreat.org/profile/AleksandarTrajanovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Visar Ze
+ jnullahu":http://coderetreat.org/profile/VisarZejnullahu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksand
+ ar Nakinov":http://coderetreat.org/profile/AleksandarNakinov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ristovsk
+ i Vlatko":http://coderetreat.org/profile/RistovskiVlatko
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Filip Ko
+ stovski":http://coderetreat.org/profile/FilipKostovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Milan Na
+ sevic":http://coderetreat.org/profile/MilanNasevic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ile Efti
+ mov":http://coderetreat.org/profile/Ile
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marko Pa
+ loski":http://coderetreat.org/profile/MarkoPaloski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dalibor 
+ Nasevic":http://coderetreat.org/profile/DaliborNasevic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Dejan P
+ opovski":http://coderetreat.org/profile/DejanPopovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Aleksan
+ dra Despotovska":http://coderetreat.org/profile/AleksandraDespotovska
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Stojan 
+ Pesov":http://coderetreat.org/profile/StojanPesov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN=Frosina:
+ http://coderetreat.org/profile/Frosina
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Ediz Ka
+ raatli":http://coderetreat.org/profile/EdizKaraatli
+END:VEVENT
+END:VCALENDAR

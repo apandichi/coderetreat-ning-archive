@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1fj7s5weclrgy&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:33:36Z</updated>
+                            <author>
+                    <name>EricMinio</name>
+                    <uri>http://coderetreat.org/profile/EricMinio</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/EFTeIYxsysz4FqETJdZr1pT7OAvv4Ko*yJveRXCYe8IrtljhzABQkHbXk16y55VadcliFF9iujjERcvYq-JPKCMBwIO0yaOZ/834507454.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1fj7s5weclrgy&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Pablo Lischinsky</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PabloLischinsky"/>
+                                        <id>tag:coderetreat.org,2012-11-19:6456126:User:16534</id>
+                                        <updated>2012-11-19T23:29:06.933Z</updated>
+                    
+                                            <author>
+                            <name>EricMinio</name>
+                            <uri>http://coderetreat.org/profile/EricMinio</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/FZN-lhtJCBuFPQjacuwJumFNXt9SN7UBOcQXeQAqdLb31CKERdHHpBGaAs050Dyx8V*guujfc46k0NpXDLX4knIcw10QV-4p/649176823.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pablo Lischinsky&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/FZN-lhtJCBuFPQjacuwJumFNXt9SN7UBOcQXeQAqdLb31CKERdHHpBGaAs050Dyx8V*guujfc46k0NpXDLX4knIcw10QV-4p/649176823.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pablo Lischinsky&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

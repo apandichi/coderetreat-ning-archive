@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>edwin.cruz&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/edwincruz</link>
+        <pubDate>Sun, 29 Jan 2017 12:36:05 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:36:05 +0000</lastBuildDate>
+        <image>
+            <title>edwin.cruz&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/edwincruz</link>
+            <url>http://api.ning.com:80/files/yc9aOYoosDkjLJpfVDXD9xAT1zzENq*ApaM-9q4DWXRLxv1dC8SOVwU4WB4GavCiMnxmK--W3mwnxlSQSnMjFF6HYRBUUKU1/899484869.jpeg?xgip=96%3A0%3A479%3A479%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009cb594bede61791ca137c37</guid>
+               <title>edwin.cruz posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48192?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/edwincruz?xg_source=activity">edwin.cruz</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48192?xg_source=activity">Global Day of Coderetreat 2015 - Aguascalientes, M&eacute;xico</a> at Universidad Aut&oacute;noma de Aguascalientes</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 6pm</div><div class="rich-excerpt">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular design and clean code, developers can improve their ability to write code that minimizes the cost of change over time. More information about what it is you can find here: <a href="http://coderetreat.org/about">http://coderetreat.org/about</a>Don't forget to BRING YOUR OWN PC! Power and Wi-Fi as well as atmosphere of community will be provided.Show your attendance on official website, <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48192?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 29 Oct 2015 21:57:34 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cb594b86f7afc8dd44142d</guid>
+               <title>edwin.cruz liked edwin.cruz&#039;s event Code Retreat Leon, México</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:10813?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/edwincruz?xg_source=activity">edwin.cruz</a> liked <a href="http://coderetreat.org/profile/edwincruz?xg_source=activity">edwin.cruz's</a> event <a href="http://coderetreat.org/xn/detail/6456126:Event:10813?xg_source=activity">Code Retreat Leon, M&eacute;xico</a></span><br/>]]></description>
+               <pubDate>Sat, 14 Jul 2012 15:00:20 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009cb594bac91a36a64c8df33</guid>
+               <title>edwin.cruz posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:10813?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/edwincruz?xg_source=activity">edwin.cruz</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:10813?xg_source=activity">Code Retreat Leon, M&eacute;xico</a> at Leon, Guanajuato, Mexico</h3><div class="rich-detail"><div class="rich-date">July 14, 2012 all day</div><div class="rich-excerpt">Seguimos en nuestra labor de evangelización de mejores practicas, esta vez en Leon Guanajuato!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:10813?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 14 Jul 2012 14:59:04 +0000</pubDate>
+               </item>    </channel>
+</rss>

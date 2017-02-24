@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45412
+DTSTAMP:20170129T121126Z
+SUMMARY:Global Day of Coderetreat 2015 - Atlanta, GA, USA
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time.\nMore specifically, individuals are are group
+ ed into teams of two and each team “solves” a common problem, ‘T
+ he Game of Life’. There are 6 sessions throughout the day and for ea
+ ch session the groups are reorganized and the code deleted. After each
+  session there are session reflections to help with the internalizatio
+ n of lessons.\nSnacks and lunches will be provided and it is guarantee
+ d to be something other than pizza. Sorry pizza lovers :)\nRegister fo
+ r our event here!\n\nFor more information visit http://coderetreat.or
+ g/events/gdcr-atlanta-ga-us
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Big Nerd Ranch
+WEBSITE:https://drive.google.com/file/d/0Bzbd_hqsXO-_WGhVSHM4VTQzNUU/v
+ iew
+URL:https://drive.google.com/file/d/0Bzbd_hqsXO-_WGhVSHM4VTQzNUU/view
+CONTACT:
+ORGANIZER:Stafford Brooke, Kylie Stradley
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kylie St
+ radley":http://coderetreat.org/profile/KylieStradley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mallory 
+ B.":http://coderetreat.org/profile/MalloryB
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Loren Cr
+ awford":http://coderetreat.org/profile/LorenCrawford
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bruce Ke
+ llerman":http://coderetreat.org/profile/BruceKellerman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Cecili 
+ Reid":http://coderetreat.org/profile/CeciliReid
+END:VEVENT
+END:VCALENDAR

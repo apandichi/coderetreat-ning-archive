@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39467
+DTSTAMP:20170129T122236Z
+SUMMARY:Global Day of Coderetreat 2014 - Arnhem, Netherlands
+DESCRIPTION:Global Day of Code Retreat 2014, November 15 at Luminis Ar
+ nhem\nNovember 15, 2014, is this year's Global Day of Code Retreat. Th
+ is is a day for us, as developers, to hone our skills, share knowledge
+ , and honor the craft of software engineering.\nLuminis Arnhem will fa
+ cilitate a coderetreat at our offices in Arnhem. We will provide you w
+ ith both the facilities and the necessary guidance to get the most out
+  of this day. While we will provide you with exercises and training fo
+ rms, we remain technology agnostics: you can do your training in any l
+ anguage and tool chain you--and your pair--like.\nWhat is a coderetrea
+ t?\nCoderetreat is a day-­long, intensive practice event focusing on 
+ the fundamentals of software development and design. The coderetreat 
+ format has proven itself to be a highly effective means of skill impro
+ vement by providing developers the opportunity to take part in focuse
+ d practice away from the pressures of 'getting things done.'\nProgram\
+ n09:30 Welcome & introduction\n10:00 3 training sessions: 45m of exerc
+ ise, 10m retrospective, 5m break\n13:00 Lunch\n14:00 3 training sessio
+ ns: 45m of exercise, 10m retrospective, 5m break\n16:45 Closing ceremo
+ ny\n17:00 End\nContact\nTo sign up for this coderetreat, RVSP on this 
+ page.\nFor anything we should know about (for instance, you're a vegan
+ ), email kim.rouwenhorst@luminis.eu .\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2014-arnhem-neth
+ erlands
+DTSTART:20141115T093000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Luminis Arnhem, IPKW
+WEBSITE:http://www.luminis.eu/events/global-day-code-retreat-2/
+URL:http://www.luminis.eu/events/global-day-code-retreat-2/
+CONTACT:
+ORGANIZER:Luminis Arnhem
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Dy9ynGgwNlQU4
+ vMCNKDDxXdMhQuKLiY6S95KTJtKMCLPDfhpWbUYDiE7ysMuWogGYiW2zNNJFs12Vikn--y
+ OBsb7eXwDjeZk/luminissquare.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Angelo v
+ an der Sijpt":http://coderetreat.org/profile/AngelovanderSijpt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robin va
+ n Kaathoven":http://coderetreat.org/profile/RobinvanKaathoven
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daan van
+  Berkel":http://coderetreat.org/profile/DaanvanBerkel912
+END:VEVENT
+END:VCALENDAR

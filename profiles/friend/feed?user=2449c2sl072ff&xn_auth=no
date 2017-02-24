@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2449c2sl072ff&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:36:50Z</updated>
+                            <author>
+                    <name>Junyu Teoh</name>
+                    <uri>http://coderetreat.org/profile/JunyuTeoh</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/TBvd9QqIhszRKIZA-y4f6bxsjh1vxmZuzUWbbrk4FMa4qXfXGKmMFU7vO-p0u*6izKF4kMfAVGJe2OJnmZM6qG7Pd*DJ37Oh/1151299547.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2449c2sl072ff&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jun-Kai Teoh</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JunKaiTeoh"/>
+                                        <id>tag:coderetreat.org,2015-10-27:6456126:User:48241</id>
+                                        <updated>2015-10-27T15:56:28.707Z</updated>
+                    
+                                            <author>
+                            <name>Junyu Teoh</name>
+                            <uri>http://coderetreat.org/profile/JunyuTeoh</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/Y8Xf2kBXWFmiePGUaK9p9jZO8qdb8naRFSsv*KvnwtQi0joL0yCKq9yGUzhrrvfnIM*JlmlKXoQIlPwcQT062i4gbylhFFs-/1150591354.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jun-Kai Teoh&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/Y8Xf2kBXWFmiePGUaK9p9jZO8qdb8naRFSsv*KvnwtQi0joL0yCKq9yGUzhrrvfnIM*JlmlKXoQIlPwcQT062i4gbylhFFs-/1150591354.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jun-Kai Teoh&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

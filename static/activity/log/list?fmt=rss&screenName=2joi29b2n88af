@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Peter Lind&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PeterLind</link>
+        <pubDate>Sun, 29 Jan 2017 09:49:25 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:49:25 +0000</lastBuildDate>
+        <image>
+            <title>Peter Lind&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PeterLind</link>
+            <url>http://api.ning.com:80/files/fSw89Cxue8oi8TOe9gX*S0GsoACVEBU*K*YtKcD11YnHUR6*iQGuvAG4xUVTSBYLL21nIk2zb6x1xLzfFrubZwEP5noxmJN1/526159219.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009c9b005343413bc8e7b1808</guid>
+               <title>Peter Lind replied to Matt Steele&#039;s discussion How do you show a twitter stream during the event? in the group Organizers/Hosts</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:7868?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PeterLind?xg_source=activity">Peter Lind</a> <a href="http://coderetreat.org/xn/detail/6456126:Comment:7868?xg_source=activity">replied</a> to <a href="http://coderetreat.org/profile/MattSteele?xg_source=activity">Matt Steele's</a> discussion <a href="http://coderetreat.org/xn/detail/6456126:Topic:7754?xg_source=activity">How do you show a twitter stream during the event?</a> in the group <a href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">Organizers/Hosts</a></span><br/>]]></description>
+               <pubDate>Thu, 26 Jan 2012 09:35:35 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009c9b005f17d2d6480b05365</guid>
+               <title>Peter Lind posted photos</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Photo:3275?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PeterLind?xg_source=activity">Peter Lind</a> posted photos</span><br/><div class="rich"><div class="rich-thumbs rich-thumbs-2592"><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/gdcr-stockholm-6"><img src="http://api.ning.com/files/wvRkYqvAdefaskxHHGb8lIDIUBZQuPbGKse7AvBygqAuNvonb-E9bhdkQPMsxsBigNtuzzed0pcHFi0AIGFRfb1czRSSvAWe/IMG_0859.JPG?transform=rotate%2890%29&amp;width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/gdcr-stockholm-5"><img src="http://api.ning.com/files/Ts84jkLu7ju8zmjV9sMfMmy-WJHmI2XeD*FghbTGR0CKqRszZBIAdEHhCbnwaLS74AI56GLjzHRmmJ9U4mipieIyl51Vwl5Q/IMG_0858.JPG?transform=rotate%2890%29&amp;width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder last-thumb"> <a  href="http://coderetreat.org/photo/gdcr-stockholm-4"><img src="http://api.ning.com/files/EVcWQPH*s0ITQEQG9bbmg*dX*7BsxBaExVvI-VWE1u7qmi6JB3Hq1ipc-mYljLmJuqAfh8SacBcShvLZdy0Lxs9BpXFfxRJx/IMG_0857.JPG?transform=rotate%2890%29&amp;width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div></div></div><div class="feed-more"><a href="http://coderetreat.org/photo/album/show?id=6456126%3AAlbum%3A3277&xg_source=activity">6 more…</a></div>]]></description>
+               <pubDate>Sat, 03 Dec 2011 14:06:30 +0000</pubDate>
+               </item>    </channel>
+</rss>

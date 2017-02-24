@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16968
+DTSTAMP:20170129T124719Z
+SUMMARY:SoCal GDCR
+DESCRIPTION:Southern California joins the Global Day of Code Retreat\n
+ \nFor more information visit http://coderetreat.org/events/socal-gdcr
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:code, retreat
+LOCATION:Irvine, CA
+WEBSITE:http://socalgdcr.eventbrite.com/#
+URL:http://socalgdcr.eventbrite.com/#
+CONTACT:
+ORGANIZER;CN="Paul Moore":http://coderetreat.org/profile/PaulMoore
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="John S. 
+ Ryan":http://coderetreat.org/profile/JohnSRyan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Moo
+ re":http://coderetreat.org/profile/PaulMoore
+END:VEVENT
+END:VCALENDAR

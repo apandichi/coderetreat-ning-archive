@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Jonathan Wallace&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0a38zen0j6592&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:13:11Z</updated>
+                            <author>
+                    <name>Jonathan Wallace</name>
+                    <uri>http://coderetreat.org/profile/JonathanWallace</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0a38zen0j6592&amp;xn_auth=no</id>
+                            <entry>
+                    <title>you must teach to be taught</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:8469"/>
+                                        <id>tag:coderetreat.org,2012-02-16:6456126:BlogPost:8469</id>
+                                        <updated>2012-02-16T19:58:28.000Z</updated>
+                    
+                                            <author>
+                            <name>Jonathan Wallace</name>
+                            <uri>http://coderetreat.org/profile/JonathanWallace</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;*******************************************************************************************************************&lt;/p&gt;
+&lt;p&gt;This post is cross-posted from Highgroove Studio&#039;s blog: &lt;a href=&quot;http://highgroove.com/blog&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;http://highgroove.com/blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;*******************************************************************************************************************…&lt;/p&gt;
+&lt;div style=&quot;width: 260px; float: right;&quot;&gt;&lt;br&gt;&lt;/br&gt;&lt;/div&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;*******************************************************************************************************************&lt;/p&gt;
+&lt;p&gt;This post is cross-posted from Highgroove Studio&#039;s blog: &lt;a rel=&quot;nofollow&quot; href=&quot;http://highgroove.com/blog&quot; target=&quot;_blank&quot;&gt;http://highgroove.com/blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;*******************************************************************************************************************&lt;/p&gt;
+&lt;div style=&quot;width: 260px; float: right;&quot;&gt;&lt;br/&gt; &lt;a title=&quot;Athens Code Retreat&quot; href=&quot;https://img.skitch.com/20120215-bs3cr5ewana1mbgqxrfbkbxn7p.png&quot;&gt;&lt;br/&gt; &lt;img src=&quot;https://img.skitch.com/20120215-bs3cr5ewana1mbgqxrfbkbxn7p.png&quot; width=&quot;240&quot; height=&quot;207&quot; alt=&quot;Athens Code Retreat&quot;/&gt;&lt;br/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Waaaayyy back in December, I had the pleasure of &lt;a href=&quot;http://highgroove.com/articles/2011/12/13/lessons-learned-at-global-day-of-coderetreat.html&quot;&gt;attending a code retreat&lt;/a&gt;. In that post, I discussed what I learned.&lt;/p&gt;
+&lt;p&gt;This month, I had the pleasure of facilitating a &lt;a href=&quot;http://coderetreat.org&quot;&gt;code retreat&lt;/a&gt; &lt;a href=&quot;http://www.eventbrite.com/event/2604969534&quot;&gt;a few weeks ago&lt;/a&gt;. Thanks to &lt;a href=&quot;http://highgroove.com&quot;&gt;Highgroove&lt;/a&gt;, &lt;a href=&quot;https://www.tapjoy.com/&quot;&gt;TapJoy&lt;/a&gt;, &lt;a href=&quot;http://www.fourathens.com/&quot;&gt;FourAthens&lt;/a&gt;, and my co-coordinator &lt;a href=&quot;https://twitter.com/#!/travisdouce&quot;&gt;Travis Douce&lt;/a&gt;, the Athens Code Retreat was a resounding success.&lt;/p&gt;
+&lt;p&gt;Also, a special shout out to our &lt;a href=&quot;http://coderetreat.org/events/coderetreat-rubyfuza-cape-town&quot;&gt;Code Retreat homies in South Africa&lt;/a&gt; led by &lt;a href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&lt;/a&gt;, who handed off the baton to us late in their day but early in ours.&lt;/p&gt;
+&lt;p&gt;Read on to find out how lessons learned from facilitating compares to attending, how the general &quot;You&quot; actually means &quot;I&quot; in the blog title, and how many times it takes (me) to learn the four rules of simple design.&lt;/p&gt;
+&lt;p&gt;The purpose of a Code Retreat is to get better, to practice one&#039;s craft in a setting without the pressure of &quot;getting it done, yesterday(tm).&quot; Throughout the Code Retreat, we emphasize the &lt;a href=&quot;http://c2.com/cgi/wiki?XpSimplicityRules&quot;&gt;4 rules of simple design&lt;/a&gt;. Another way to paraphrase them:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tests pass.&lt;/li&gt;
+&lt;li&gt;Good naming.&lt;/li&gt;
+&lt;li&gt;No duplication / Don&#039;t repeat yourself (DRY).&lt;/li&gt;
+&lt;li&gt;Small.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To facilitate self-improvement, we dedicate the last session of the day to the closing circle. In the closing circle, three questions are asked of every participant.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What did you learn?&lt;/li&gt;
+&lt;li&gt;What most surprised you?&lt;/li&gt;
+&lt;li&gt;What are you going to do differently going forward?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In my original &lt;a href=&quot;http://highgroove.com/articles/2011/12/13/lessons-learned-at-global-day-of-coderetreat.html&quot;&gt;blog post&lt;/a&gt;, I boldly claimed that one could code the Game of Life in 45 minutes if and only if they practice four or five times and skimp on tests. Oh, how wrong I was!&lt;/p&gt;
+&lt;p&gt;One pair, which included &lt;a href=&quot;http://highgroove.com/about/andy.html&quot;&gt;Andy&lt;/a&gt;, managed to write a completely functional version in 30 minutes. They even had time to invent their own spaceship. How is this even possible? Other groups took the fast and loose approach. &quot;We know the problem domain. We have the technology. Tests? Where we&#039;re going, we don&#039;t need no stinkin&#039; tests!&quot;&lt;/p&gt;
+&lt;p&gt;What was the first pair&#039;s secret sauce? TESTS! GOOD NAMES! DRY! SMALL METHODS! SMALL CODE BASE! Amazing!&lt;/p&gt;
+&lt;p&gt;I learned magnitudes more facilitating than I did attending. I saw novel approaches that impressed and stretched my understanding of the problem domain. I saw good coding practices win out over the quick and dirty style again and again.&lt;/p&gt;
+&lt;p&gt;What have you learned when teaching that you didn&#039;t learn as the student?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="https://img.skitch.com/20120215-bs3cr5ewana1mbgqxrfbkbxn7p.png" type="image/png"/>                </entry>
+                    </feed>
+        

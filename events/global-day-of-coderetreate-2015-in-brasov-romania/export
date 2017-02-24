@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46514
+DTSTAMP:20170129T121717Z
+SUMMARY:Global Day Of Coderetreat 2015 - Brasov, Romania
+DESCRIPTION:For the 3rd time in Brasov, we’ll join programmers from 
+ all over the world. We’ll meet, code and have fun for sure during th
+ e day! \n\nFor more information visit http://coderetreat.org/events/gl
+ obal-day-of-coderetreate-2015-in-brasov-romania
+DTSTART:20151114T090000Z
+DTEND:20151114T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Brasov
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Barbu Andreea-Ruxandra":http://coderetreat.org/profile/B
+ arbuAndreeaRuxandra
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Barbu An
+ dreea-Ruxandra":http://coderetreat.org/profile/BarbuAndreeaRuxandra
+END:VEVENT
+END:VCALENDAR

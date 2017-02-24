@@ -1,0 +1,1693 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+<head data-layout-view="default" class="xj_layout_head">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5W4WQ');</script>
+<!-- End Google Tag Manager -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Events - Coderetreat</title>
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+    <link rel="SHORTCUT ICON" href="../../favicon.ico" type="image/x-icon" />
+    <meta name="description" content="All Events on Saturday, November 14, 2015 | Coderetreat is a social network" />
+    <meta name="keywords" content="" />
+<meta name="title" content="Events" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://coderetreat.org/events/event/listByDate?date=2015-11-14" />
+<meta property="og:title" content="Events" />
+<link rel="image_src" href="http://api.ning.com/icons/appatar/6456126?default=6456126&amp;width=90&amp;height=90" />
+<script type="text/javascript">
+    djConfig = { baseScriptUri: 'http://coderetreat.org/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/6456126?default=6456126&width=64&height=64","url":"http:\/\/coderetreat-community.ning.com","domains":["coderetreat.org"],"online":true,"privateSource":true,"id":"coderetreat-community","appId":"6456126","description":"","name":"Coderetreat","owner":"128952ghvkcvj","createdDate":"2011-11-05T02:05:01.167Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":5};
+        (function(){
+            if (!window.ning) { return; }
+
+            var age, gender, rand, obfuscated, combined;
+
+            obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+            if (obfuscated) {
+                var offset = 100000;
+                obfuscated = parseInt(obfuscated[1]);
+                rand = obfuscated / offset;
+                combined = (obfuscated % offset) ^ rand;
+                age = combined % 1000;
+                gender = (combined / 1000) & 3;
+                gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+                ning.viewer = {"age":age,"gender":gender};
+            }
+        })();
+
+        if (window.location.hash.indexOf('#!/') == 0) {
+        window.location.replace(window.location.hash.substr(2));
+    }
+    window.xg = window.xg || {};
+xg.captcha = {
+    'shouldShow': false,
+    'siteKey': '6Ldf3AoUAAAAALPgNx2gcXc8a_5XEcnNseR6WmsT'
+};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg.addOnFacebookLoad = function (f) { xg.addOnFacebookLoad.functions.push(f); };
+xg.addOnFacebookLoad.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) { this.p++; },
+    onLoad: function(set) {
+        this.p--;
+        if (this.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
+        }
+    }
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
+}
+xg._loader.onDone = function() {
+        if(window.bzplcm)window.bzplcm.start('ni');
+        xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { _globals: { screen_name: null, subdomain: "coderetreat-community", is_owner: false, is_admin: false, is_member: false, join_date: 0, request_method: "GET", trace: "16c98f44-fe4d-4e25-929b-04db30835cfd"}, event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; }, _trackingHost: "coll.ning.com", _jsDebug: false } };</script>
+
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common-982.min.css?xn_version=3408449514);
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/wide-sidebar.min.css?xn_version=1327369422);
+@import url(http://static.ning.com/socialnetworkmain/widgets/events/css/component.min.css?xn_version=2963051006);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIXYaqKgGd0KBZicBBAhfDYj2Aa4s8f5nvPfAF-VYObMp0rAmgQw1ZhPhrL8x7sGJRoU6IovphedJCS5U4-yfae/1249016504.css?xn_version=201701120951);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIgyDAElZlBJ1Awn*XfVWcD2dDlwyjePoNWSlDmjGd8UlGhL3I8xAQsZekh6xVJbAhSECHot0nK97Q3PD*PcfV3/1249038261.css?xn_version=201701120951);
+
+</style>
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=1394342931" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../profiles/blog/rsd" />
+<script type="text/javascript">(function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,'http://coderetreat.org/m?id=6456126%3AMobilePage%3A10688');</script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5W4WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="xj_before_content">        <div id="xn_bar">
+            <div id="xn_bar_menu">
+                <div id="xn_bar_menu_branding" >
+                                    </div>
+
+                <div id="xn_bar_menu_more">
+                    <form id="xn_bar_menu_search" method="GET" action="http://coderetreat.org/main/search/search">
+                        <fieldset>
+                            <input type="text" name="q" id="xn_bar_menu_search_query" value="Search Coderetreat" _hint="Search Coderetreat" accesskey="4" class="text xj_search_hint" />
+                            <a id="xn_bar_menu_search_submit" href="listByDate?date=2015-11-14#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+                        </fieldset>
+                    </form>
+                </div>
+
+                            <ul id="xn_bar_menu_tabs">
+                                            <li><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2015-11-14">Sign Up</a></li>
+                                                <li><a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2015-11-14">Sign In</a></li>
+                                    </ul>
+                        </div>
+        </div>
+            <script src="http://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
+    <script>
+        try {
+            GlamCreateSlot("183770529", "728x90", "Ning_Top_Leaderboard");
+            GlamSetSlotData("Ning_Top_Leaderboard", "ningid=6456126");
+            GlamCreateSlot("183770529", "300x250", "Ning_Top_Right");
+            GlamSetSlotData("Ning_Top_Right", "ningid=6456126");
+            GlamTrack("183770529");
+        } catch (e) {}
+    </script>
+    </div>
+    <div class="xg_theme" data-layout-pack="romeo">
+        <div id="xg_themebody">
+            <div id="xg_ad_above_header" class="xg_ad xj_ad_above_header dy-displaynone">
+                
+            </div>
+            <div id="xg_head">
+                <div id="xg_masthead">
+                    <h1 id="xg_sitename" class="xj_site_name"><a id="application_name_header_link" href="../../index.html"><img src="http://api.ning.com:80/files/2vzV35vB8k5SPm92v9bGA0ng9DP2h-ONIcgPoDUThiIk1roHMF4eVjzlN2o3z9S5aU*wKgn9jZpdxEekNQCYvnOumr-beV44/cnlogo.png" alt="Coderetreat"></a></h1>
+                    <p id="xg_sitedesc" class="xj_site_desc">Honing the craft together worldwide</p>
+                </div>
+                <div id="xg_navigation" class="xj_navigation"><ul>
+    <li dojoType="SubTabHover" id="xg_tab_xn3" class="xg_subtab"><a href="../../about"><span>About</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about" style="float:none;"><span>About Coderetreat</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about/community-network" style="float:none;"><span>About Community Network</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../history" style="float:none;"><span>History</span></a></li></ul></div></li><li id="xg_tab_events" class="xg_subtab this"><a href="../../events"><span>Events</span></a></li><li dojoType="SubTabHover" id="xg_tab_groups" class="xg_subtab"><a href="../../groups"><span>Groups</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitators</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/organizers-hosts" style="float:none;"><span>Organizers/Hosts</span></a></li></ul></div></li><li id="xg_tab_xn17" class="xg_subtab"><a href="../../hosting"><span>Hosting</span></a></li><li dojoType="SubTabHover" id="xg_tab_xn10" class="xg_subtab"><a href="../../facilitating"><span>Facilitating</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/structure-of-a-coderetreat" style="float:none;"><span>Structure</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../gol" style="float:none;"><span>Conway&#039;s Game of Life</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/activity-catalog" style="float:none;"><span>Activity Catalog</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../profiles/blogs/on-the-role-of-the-coderetreat-facilitator" target="_blank" style="float:none;"><span>Role of the Facilitator</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitator&#039;s Group</span></a></li></ul></div></li><li dojoType="SubTabHover" id="xg_tab_xn0" class="xg_subtab"><a href="../../media"><span>Media</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../photo" style="float:none;"><span>Photos</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../video" style="float:none;"><span>Video</span></a></li></ul></div></li><li id="xg_tab_blogs" class="xg_subtab"><a href="../../profiles/blog/list"><span>Blogs</span></a></li><li id="xg_tab_forum" class="xg_subtab"><a href="../../forum.1"><span>Forum</span></a></li><li id="xg_tab_profile" class="xg_subtab"><a href="../../profiles.1"><span>My Page</span></a></li></ul>
+</div>
+            </div>
+            <div id="xg_ad_below_header" class="xg_ad xj_ad_below_header dy-displaynone">
+						
+					</div>
+            <div id="xg" class="xg_widget_events xg_widget_events_event xg_widget_events_event_listByDate">
+                	
+                <div id="xg_body">
+                    <div class="xj_notifications"></div>
+                    <div class="xg_column xg_span-14" id="column1">
+                        <div id="xg_canvas" class="xj_canvas">
+                            <ul class="navigation easyclear">
+	<li><a href="listUpcoming">Upcoming Events</a></li>
+	<li><a href="listArchive">Past Events</a></li>
+	<li><a href="listUserEvents?">My Events</a></li>
+			<li class="right xg_lightborder navbutton"><a href="new?cancelTarget=http%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2015-11-14" class="xg_sprite xg_sprite-add">Add</a></li>
+	</ul>
+<div class="xg_headline">
+<div class="tb"><h1>Saturday, November 14, 2015</h1>
+    </div>
+</div>
+<div class="xg_column xg_span-12">
+    <div class="xg_module module_searchbar">
+    <div class="xg_module_body">
+        <form action="http://coderetreat.org/events/event/search">
+            <p class="left">
+                                <input name="q" type="text" class="textfield" value=""  />
+                                <a class="xg_icon xg_icon-search" title="Search Events" onclick="x$(this).parents('form').submit();" href="listByDate?date=2015-11-14#">Search Events</a>
+                            </p>
+                    </form>
+            </div>
+</div>
+        <div class="xg_module">
+	<div class="xg_module_body body_events_main">
+<ul class="clist noDate"><li>
+  <div class="ib>">
+    <a href="../gdcr-peterborough-2015/showAttendees?status=might_attend">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../gdcr-peterborough-2015/showAttendees?status=might_attend">Global Day of Coderetreat 2015 - Peterborough, UK</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Peterborough">Peterborough</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat Peterborough 
+
+Please sign up here
+GDCR Peterborough 2015
+</span>                <span class="item_contributor">Organized by <a href="../../profile/AlexShaw">Alex Shaw</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-riga-latvia">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/x7p0yuCwu9uj8dOOpaSFm0KLUGti52-QkGfIjc515PULkRNtoqG9yzx3P5nbzT5z64yBr8SDtuil7P*vEZnk*ElhUMbdx4D-/gdcr15.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-riga-latvia">Global Day of Coderetreat 2015 - Riga, Latvia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Albert+hotel">Albert hotel</a>			</span>
+			                <span class="item_info">Yet again, Latvian Developers Network together with Accenture Latvia will host the Global Day of Coderetreat 2015 in Riga, Latvia.
+Coderetreat is a day-long, intensive practice event, focusing on the<a href="../global-day-of-coderetreat-2015-riga-latvia">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/LatvianDevsNetwork">Latvian Devs Network</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-barcelona-spain">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-barcelona-spain">Global Day of Coderetreat 2015 - Barcelona, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Magento+Commerce">Magento Commerce</a>			</span>
+			                <span class="item_info">One more year, at Barcelona we will participate in the GDCR. We will add details about venue as dates get closer.
+You can found all info and register at http://www.meetup.com/Agile-Barcelona-Meetup/e<a href="../global-day-of-coderetreat-2015-barcelona-spain">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/JaumeJornet">Jaume Jornet</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-frankfurt-am-main-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/YoqhN--8jZeaCnjzJ7vGjUl5bnpQzRKa3GRRcAevGuE03Wn94C4JPLiXy9iF5JMcEuTqLNb78FhkDzZGpZZM9r05QevhkSG2/TS_Skyline2009.JPG?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-frankfurt-am-main-germany">Global Day of Coderetreat 2015 - Frankfurt am Main, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Steigenberger+Hotel+Metropolitan">Steigenberger Hotel Metropolitan</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 in Frankfurt am Main
+Registration: http://www.eventbrite.de/e/global-day-of-coderetreat-in-frankfurt-tickets-18095325606
+Sponsor: itemis AG</span>                <span class="item_contributor">Organized by Ali Kazmi | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-istanbul-turkey">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/cxNDsYnHlWRWWGCSDXLKdm3WBd04ubGTxqbopHcYag20rSkKP9rg5*NQaL7nfalieDQev9NeOJcoWx3F3Wontoz46EZY2emb/agileturkey.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-istanbul-turkey">Global Day of Coderetreat 2015 - Istanbul, Turkey</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Istanbul">Istanbul</a>			</span>
+			                <span class="item_info">As in the previous years, Agile Turkey will host Global Day of Coderetreat at Istanbul, Turkey. 
+All the details will be announced soon at agileturkey.org.</span>                <span class="item_contributor">Organized by Agile Turkey | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../gdcr-atlanta-ga-us">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../gdcr-atlanta-ga-us">Global Day of Coderetreat 2015 - Atlanta, GA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Big+Nerd+Ranch">Big Nerd Ranch</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../gdcr-atlanta-ga-us">…</a></span>                <span class="item_contributor">Organized by Stafford Brooke, Kylie Stradley | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-in-wroclaw-poland">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-in-wroclaw-poland">Global Day of Coderetreat 2015 - Wroclaw, Poland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Infusion+Office%252C+Wroclaw">Infusion Office, Wroclaw</a>			</span>
+			                <span class="item_info">Registration is about to open soon at: http://coderetreat-2015-wroclaw.eventbrite.com</span>                <span class="item_contributor">Organized by <a href="../../profile/MaciejTalaska">Maciej Talaśka</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-bangalore-india">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-bangalore-india">Global Day of Coderetreat 2015 - Bangalore, India</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Bellandur">Bellandur</a>			</span>
+			                <span class="item_info">The event is hosted at JDA office.
+JDA is sponsoring this event. 
+Address: Tower A, Mantri Commercio, Near Sakra World Hospital, Kariyammana Agrahara, Bellandur, Bengaluru, Karnataka 560103</span>                <span class="item_contributor">Organized by Agile Bangalore | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-hyderabad-india/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-hyderabad-india/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Hyderabad, India</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=TBD">TBD</a>			</span>
+			                <span class="item_info">TBD</span>                <span class="item_contributor">Organized by <a href="../../xn/detail/u_0uvy0dnzzzyiq">Rajmahendra Hegde</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-minsk-belarus">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-minsk-belarus">Global Day of Coderetreat 2015 - Minsk, Belarus</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=High+Tech+Park%252C+Kuprevicha+st">High Tech Park, Kuprevicha st</a>			</span>
+			                <span class="item_info">GDCR15 in Minsk, Belarus
+If you have any questions, please contact: OrgCoderetreat@epam.com
+Checkout more details here:https://events.epam.com/events/coderetreat-minsk</span>                <span class="item_contributor">Organized by <a href="../../profile/SergeySergyenko">Sergey Sergyenko</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-erlangen-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-erlangen-germany">Global Day of Coderetreat 2015 - Erlangen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Method+Park+Holding+AG%252C+Wetterkreuz+19a%252C+91058+Erlangen">Method Park Holding AG, Wetterkreuz 19a, 91058 Erlangen</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 - Erlangen, Germany
+Details auf der Softwerkskammer-Eventseite.
+</span>                <span class="item_contributor">Organized by <a href="../../profile/StefanClepce966">Stefan Clepce</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-cluj-napoca-romania/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/FbzLmqb7FY7bXshXuiAXo0efciAv7zUIn7SLs*L5jUqepFkYdr*2EAqcNbbG-AMLhunat56L*Th8ueTiwvO1ZpAr0xVd3FBC/logo_reasonably_small.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-cluj-napoca-romania/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Cluj-Napoca, Romania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Cluj+Hub">Cluj Hub</a>			</span>
+			                <span class="item_info">We invite you to the Global Day of Coderetreat in Cluj-Napoca! Please register for this event using the RABS website.
+Coderetreat is a day-long, intensive practice event, focusing on the fundamentals<a href="../global-day-of-coderetreat-2015-cluj-napoca-romania/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/HoreaHopartean">Horea Hopartean</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-zaragoza-spain">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/JgWHSTt60etQcx05UgBDeySAVEfVluqdtAHJsQ0VGSpI0aut8pM7UCnkaLi-WVrh46zVKY*CIb4uqu*jeHaYxLsMSdonbGay/agile.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-zaragoza-spain">Global Day of Coderetreat 2015 - Zaragoza, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Hispalinux">Hispalinux</a>			</span>
+			                <span class="item_info">From Agile Aragon  we are happy to join the Global Day of Coderetreat 2015.
+
+Please sign up here
+
+GDCR'15 Zaragoza</span>                <span class="item_contributor">Organized by <a href="../../profile/PedroLafuente">Pedro Lafuente</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-costa-rica">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/ZhVsrLD0Lnjq*u6JCuOzPAuNG9Wi-lMeOxjgQ7XwvvKy6fplqx5wA87z2i5yjY9gbOlsNQoJVULNoOgDJfn6ie80ve7QymZ9/pernix.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-costa-rica">Global Day of Coderetreat 2015 - Tres R&iacute;os, Costa Rica</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Terracampus%252C+Tres+R%25C3%25ADos%252C+Costa+Rica">Terracampus, Tres R&iacute;os, Costa Rica</a>			</span>
+			                <span class="item_info">Global day of code retreat Costa Rica, this time it will be hosted by Chris McAvoy from QuickLeft.</span>                <span class="item_contributor">Organized by Pernix Solutions | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-calgary-canada/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-calgary-canada/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Calgary, Canada</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Calgary%252C+Alberta%252C+Canada">Calgary, Alberta, Canada</a>			</span>
+			                <span class="item_info">- Code retreat in Calgary</span>                <span class="item_contributor">Organized by <a href="../../profile/TonyTrungThanhVo">Tony Trung Thanh Vo</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-4/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-4/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Kaunas, Lithuania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=KTU+StartupSpace+67+Student%25C5%25B3+gatv%25C4%2597++51392+Kaunas+Lithuania">KTU StartupSpace 67 Studentų gatvė  51392 Kaunas Lithuania</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../global-day-of-code-retreat-4/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by Vaidas Pilkauskas, Simonas Pinevičius, Adomas Greicius | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-prague-czech-republic">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-prague-czech-republic">Global Day of Coderetreat 2015 - Prague, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Prague">Prague</a>			</span>
+			                <span class="item_info">Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustř<a href="../global-day-of-coderetreat-2015-prague-czech-republic">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/AlesRoubicek">Ale&scaron; Roub&iacute;ček</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-shanghai-china">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-shanghai-china">Global Day of Coderetreat 2015 - Shanghai, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Not+sure">Not sure</a>			</span>
+			                <span class="item_info">Let's celebrate Global Day of Coderetreat with a coderetreat in Shanghai!</span>                <span class="item_contributor">Organized by Fengxiang Zhu, Yiqing Ma | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gcdr">gcdr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-fortaleza-brazil">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-fortaleza-brazil">Global Day of Coderetreat 2015 - Fortaleza, Brazil</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Faculdade+Farias+Brito">Faculdade Farias Brito</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat é um evento mundial gratuito cujo objetivo é unir desenvolvedores para praticarem suas habilidades sem as pressões do dia-a-dia. Ele adota o formato de coderetreat, evento d<a href="../global-day-of-coderetreat-2015-fortaleza-brazil">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/PauloBenetyMendesdeLima">Paulo Benety Mendes de Lima</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-brno-czech-republic">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/A3IzgjbOqn2XseZHPa0zGWaT4pjCQioyRWz5LEAb7CuCHxVui-vTu3kDGUtIo*UN1Bt6SVtJ1c1m9pT5VIxs93k4JOYoaf3o/coderetreat_big.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-brno-czech-republic">Global Day of Coderetreat 2015 - Brno, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Brno">Brno</a>			</span>
+			                <span class="item_info">Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustř<a href="../global-day-of-coderetreat-2015-brno-czech-republic">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/JakubFojtl">Jakub Fojtl</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-1">Global Day of Coderetreat 2015 - Bogot&aacute;, Colombia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Universidad+Piloto+de+Colombia">Universidad Piloto de Colombia</a>			</span>
+			                <span class="item_info">Celebraremos el Global Day of Coderetreat en Bogotá.
+
+Más información sobre el Global Day of Code Retreat</span>                <span class="item_contributor">Organized by Carlos Obreg&oacute;n, Yamit Cardenas, Sebastian Ortiz V, Omar Duque, Stella Miranda | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-mumbai-india">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/HfIXzVrPfI1UmwB-IxmSCq7TzQFUJjtEfbuQUT4I3UoktEl3mXDbdSxO9uctRXbaiundPemu1oqdJN7H5Q0pHZrnECd49K5L/Mumbai_India_Bridge.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-mumbai-india">Global Day of Coderetreat 2015 - Mumbai, India</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Direction+Software+Solutions">Direction Software Solutions</a>			</span>
+			                <span class="item_info">This event is sponsored by Direction Software Solutions www.direction.biz</span>                <span class="item_contributor">Organized by Talk to Mr. Laxmikant Purohit (L.PUROHIT@DIRECTION.BIZ) | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-arlington-va-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-arlington-va-usa">Global Day of Coderetreat 2015 - Arlington, VA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Hobsons">Hobsons</a>			</span>
+			                <span class="item_info">Code retreat in Arlington, VA.  Hosted by Hobsons.
+We are metro accessible at the Clarendon metro stop, from Washington DC and Maryland.
+Please register through our Eventbrite page:  https://www.even<a href="../global-day-of-coderetreat-2015-arlington-va-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/KevinShaw">Kevin Shaw</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-lille-france-2015">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-lille-france-2015">Global Day of Coderetreat 2015 - Lille, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Salto+Consulting">Salto Consulting</a>			</span>
+			                <span class="item_info">Nord Agile participe au Global Day Of Code Retreat.
+Suivez le lien pour les inscriptions.
+Salto Consulting nous accompagne pour cette journée.</span>                <span class="item_contributor">Organized by J&eacute;r&eacute;mie HATTAT - Nord AGile | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-karaganda-kazakhstan/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/pip6g4jx0scCgoojDLSAmQzTFMEO7z1ZkOSVHCGM2bZIJukB-1nTsTYXOxXh*z*E3Z83yjXdUupEfqvDVLjYlVAij4GQotpf/black_belt400x242.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-karaganda-kazakhstan/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Karaganda, Kazakhstan</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=EPAM+KZ+office">EPAM KZ office</a>			</span>
+			                <span class="item_info">GDCR15 in Karaganda, Kazakhstan.
+Le'ts do it together.</span>                <span class="item_contributor">Organized by <a href="../../profile/AnuarNurmakanov">Anuar Nurmakanov</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../sibiu-global-day-of-code-retreat">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../sibiu-global-day-of-code-retreat">Global Day of Coderetreat 2015 - Sibiu, Romania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Sibiu">Sibiu</a>			</span>
+			                <span class="item_info">Imagine a group of people gathering in a room and coding all day. Just for fun. 
+More information about code retreat can be found here
+To help us in organizing the event, those willing to participate<a href="../sibiu-global-day-of-code-retreat">…</a></span>                <span class="item_contributor">Organized by Calinoiu Alexandru Nicolae | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../lscc-code-retreats">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../lscc-code-retreats">Global Day of Coderetreat 2015 - London, UK</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=London">London</a>			</span>
+			                <span class="item_info">The LSCC is hosting three coderetreats. Find out more on:
+http://www.meetup.com/london-software-craftsmanship/</span>                <span class="item_contributor">Organized by London Software Craftsmanship Community | Type: <a href="listByType?type=gdcr15">gdcr15</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=coderetreat">coderetreat</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-toronto-canada">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/WLDrVkQ1qFXmV2Ei2Pah2uxl4fu5-pr-aGjrpHggBVA0Me-eR1kXctGZ1-y1CBqaFIBxO13nDiEb55xBLtWQ2hz*le81Bc6j/TO_small.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-toronto-canada">Global Day of Coderetreat 2015 - Toronto, Canada</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=LoyaltyOne">LoyaltyOne</a>			</span>
+			                <span class="item_info">Come to LoyaltyOne's downtown Toronto offices to join developers all around the world in a day-long, intensive practice event, focusing on the fundamentals of software development and design.
+Please<a href="../global-day-of-coderetreat-2015-toronto-canada">…</a></span>                <span class="item_contributor">Organized by LoyaltyOne / Fernando A. Cuenca | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-xi-an-china">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-xi-an-china">Global Day of Coderetreat 2015 - Xi&#039;an, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=XI%2527AN%252C+CHINA">XI&#039;AN, CHINA</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../global-day-of-coderetreat-2015-xi-an-china">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/GuoqingZhao">Guoqing Zhao</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-vitebsk-belarus">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-vitebsk-belarus">Global Day of Coderetreat 2015 - Vitebsk, Belarus</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=11-a%252C+308">11-a, 308</a>			</span>
+			                <span class="item_info">If you have any questions, please contact: OrgCoderetreat@epam.com Checkout more details here: https://events.epam.com/events/coderetreat-vitebsk</span>                <span class="item_contributor">Organized by <a href="../../profile/YauhenTrehubenkau">Yauhen Trehubenkau</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-london-uk-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-london-uk-1">Global Day of Coderetreat 2015 - London, UK</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=London">London</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat 2015 London for Epamers and anyone who'd like to join us!
+Please sign up here
+https://events.epam.com/events/coderetreat-london</span>                <span class="item_contributor">Organized by <a href="../../profile/DennisAlexander">Dennis Alexander</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-shenzhen-china">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-shenzhen-china">Global Day of Coderetreat 2015 - Shenzhen, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Shenzhen">Shenzhen</a>			</span>
+			                <span class="item_info">The global day of CodeRetreat in Shenzhen, this is the third time.</span>                <span class="item_contributor">Organized by <a href="../../profile/SeabornLee">Seaborn Lee</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-brest-belarus">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/Y8Xf2kBXWFmOttylBDnwngB3ar6oD4X7EYjcdg6RjRum9syyhr6XeC8bVbEQ6qpB9XcGRG6dGNy9uLC1XDXcqsrDLHvGP0rD/brest.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-brest-belarus">Global Day of Coderetreat 2015 - Brest, Belarus</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Brest%252C+Belarus">Brest, Belarus</a>			</span>
+			                <span class="item_info">November, 14 is the day when any engineer can get away from the pressure of “getting things done” and retreat to the software craftsmanship harbor. This year 20+ EPAM offices are officially joining t<a href="../global-day-of-coderetreat-2015-brest-belarus">…</a></span>                <span class="item_contributor">Organized by Ilya Lapitan | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-taiyuan-china/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-taiyuan-china/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Taiyuan, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Xuefu+Part+%2528West+Gate%2529">Xuefu Part (West Gate)</a>			</span>
+			                <span class="item_info">Global Day of CodeRetreat - Taiyuan China.
+It will be hosted by Chai Feng from Odd-e.
+Local Sponsor: 素业学府茶文化馆 感谢本地赞助商: 素业学府茶文化馆  之前的沟通出现一些误解，原本以为同学介绍过来的这个场地会是免费的，而且在当天茶馆老板也没有提任何关于费用的事情。直到周四早上，茶馆老板联系我<a href="../global-day-of-coderetreat-taiyuan-china/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/ChaiFeng">Chai Feng</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-lima-per">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-lima-per">Global Day of Coderetreat 2015 - Lima, Per&uacute;</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=San+Isidro">San Isidro</a>			</span>
+			                <span class="item_info">Location: Por Determinar  Street: Pronto City/Town: Lima Website or Map:  Event Type: coderetreat, gdcr, gdcr15 Organized By: PERU JUG (@itp_java) con el apoyo de JoeDayz</span>                <span class="item_contributor">Organized by <a href="../../profile/JoseDiazDiaz">Jose Diaz Diaz</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-lehi-ut-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-lehi-ut-usa">Global Day of Coderetreat 2015 - Lehi, UT, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Thanksgiving+Point">Thanksgiving Point</a>			</span>
+			                <span class="item_info">Pluralsight is hosting a Global Day of Coderetreat event at our Lehi office.  
+Tickets are available on eventbrite.  Please RSVP there so we can have an accurate count for catering.
+https://www.event<a href="../global-day-of-coderetreat-2015-lehi-ut-usa">…</a></span>                <span class="item_contributor">Organized by  | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-dresden-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-dresden-germany">Global Day of Coderetreat 2015 - Dresden, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=CoFab">CoFab</a>			</span>
+			                <span class="item_info">http://www.cofab.de/aktuell/14-11-15-global-day-of-coderetreat/</span>                <span class="item_contributor">Organized by <a href="../../profile/SteffenGemkow">Steffen Gemkow</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-hangzhou-2015">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/e94-*Sv1fqrUGYdlkmqLPchoReKFTohZ1*fsCf90hSlWU1Duq2K2W7OO6S5RbGo2D5jgfxE*s-15mhcVh*AhAt9wdIBrP4Fo/2015112174125.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-hangzhou-2015">Global Day of Coderetreat 2015 - Hangzhou, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Hangzhou%252C+China">Hangzhou, China</a>			</span>
+			                <span class="item_info">As a person who loves programming, have you ever regretted not crafting your source code into a beautiful one piece, due to schedule pressure? Or have you had trouble  in finding the right person for<a href="../global-day-of-coderetreat-hangzhou-2015">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/LiaoYuanZhang">Liao-Yuan Zhang</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-3">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-3">Global Day of Coderetreat 2015 - Dhaka, Bangladesh</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Moar">Moar</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat [1] is an international event for developers across the world. The purpose is to practice better coding without the pressure of "getting things done". This year, Hackers and<a href="../global-day-of-coderetreat-2015-3">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/WasikMursalin">Wasik Mursalin</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-beijing-china-1/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-beijing-china-1/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Beijing, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Beijing%252C+China">Beijing, China</a>			</span>
+			                <span class="item_info">This is the fifth year in a row, Beijing is participating in the Global Day of Coderetreat 2015!
+Join us, and have fun with it!</span>                <span class="item_contributor">Organized by <a href="../../profile/ZilongChen">Zilong Chen</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-gomel-belarus">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-gomel-belarus">Global Day of Coderetreat 2015 - Gomel, Belarus</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Belarus%252C+Gomel%252C+Rechitsky%252C+80+EPAM">Belarus, Gomel, Rechitsky, 80 EPAM</a>			</span>
+			                <span class="item_info">GDCR15 in Gomel, Belarus
+If you have any questions, please contact: OrgCoderetreat@epam.com
+Checkout more details here:https://events.epam.com/events/coderetreat-gomel</span>                <span class="item_contributor">Organized by Aliaksei Lud | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-manizales-colombia">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-manizales-colombia">Global Day of Coderetreat 2015 - Manizales, Colombia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Manizales">Manizales</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat at Manizales, Colombia</span>                <span class="item_contributor">Organized by <a href="../../profile/MauricioMunoz">Mauricio Mu&ntilde;oz</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../kiwi-code-retreat-functional-style">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/lKbBlv0*8rV6ae-nPVIzBqBVB-xTxxag2sIYkCI-yh4hGbTnWtqn8T1HPFciZUS*NDMt2LKL85NTweV6rBzo-v30QncPk*A*/GDoCR.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../kiwi-code-retreat-functional-style">Global Day of Coderetreat 2015 - Auckland, New Zealand</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Movio">Movio</a>			</span>
+			                <span class="item_info">Emphasis on FP, Pair programming, TDD, refactoring
+Hosted by Movio</span>                <span class="item_contributor">Organized by  | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-izhevsk-russia/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-izhevsk-russia/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Izhevsk, Russia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> all day – <a href="listByLocation?location=Izhevsk%252C+Russia">Izhevsk, Russia</a>			</span>
+			                <span class="item_info"> 
+ </span>                <span class="item_contributor">Organized by <a href="../../profile/PavelLasarev">Pavel  Lasarev</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-austin-tx-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-austin-tx-usa">Global Day of Coderetreat 2015 - Austin, TX, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=TBD">TBD</a>			</span>
+			                <span class="item_info">Once again we will participate in the Global Day of Code Retreat for 2015 in Austin, TX.
+Register here: https://gdcr-austin-2015.eventbrite.com
+Coderetreat is a day-long, intensive practice event, fo<a href="../global-day-of-coderetreat-2015-austin-tx-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/EricStewart">Eric Stewart</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2015-columbus-oh">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/7fSVyjXLzVj5XdsOzHyq3tUVMz7IlClC5omq5VmkMnAkpdCAhvpLf39RIgKpnbbXIt*mdnXp9ls-48WLfxzLDyF-jyGeCY55/forge_web011.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2015-columbus-oh">Global Day of Coderetreat 2015 - Columbus, OH, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=The+Forge+in+the+Smith+Brothers%2527+Hardware+Building">The Forge in the Smith Brothers&#039; Hardware Building</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../global-day-of-code-retreat-2015-columbus-oh">…</a></span>                <span class="item_contributor">Organized by Jim Kirkbride | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-cape-town-south-africa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-cape-town-south-africa">Global Day of Coderetreat 2015 - Cape Town, South Africa</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 4pm – <a href="listByLocation?location=Cape+Town">Cape Town</a>			</span>
+			                <span class="item_info">Coderetreating in Cape Town!
+RSVP on meetup:
+http://www.meetup.com/coderetreat/events/225347328/</span>                <span class="item_contributor">Organized by <a href="../../profile/DavidCampey">David Campey</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-3">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-3">Global Day of Coderetreat 2015 - Ashburn, VA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=BTI360">BTI360</a>			</span>
+			                <span class="item_info">This will be a Legacy Code Retreat, hosted by BTI-360. See the EventBrite page for details or to register</span>                <span class="item_contributor">Organized by <a href="../../profile/AndrewWagner">Andrew Wagner</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/dy3vmM5JGAPc5wpN1RzEHKAAqrN3LyYDf73uvpePym2fFO24Vy6x86qzQqwlirC2juZYkBCTOCgA5InakIift7r0LnzNsJTS/436921737_2c8d15501b.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015">Global Day of Coderetreat 2015 - Melbourne, Australia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5:30pm – <a href="listByLocation?location=REA+Group">REA Group</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 in Melbourne
+Sponsor: realestate.com.au
+Address: 511 Church St, Richmond, VIC 3121
+Start: 8AM
+Registration open on Eventbrite
+https://www.eventbrite.com.au/e/global-day<a href="../global-day-of-coderetreat-2015">…</a></span>                <span class="item_contributor">Organized by Greg Dziemidowicz, Tomasz Janowski, Supriya Joshi, Ilya Paripsa | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2015-boston-ma">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2015-boston-ma">Global Day of Coderetreat 2015 - Boston, MA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=Zipcar+Home+Office">Zipcar Home Office</a>			</span>
+			                <span class="item_info">Boston's Global Day of Code Retreat will be hosted and sponsored by Zipcar.</span>                <span class="item_contributor">Organized by <a href="../../profile/StephenVance">Stephen Vance</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-olomouc-czech-republic">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-olomouc-czech-republic">Global Day of Coderetreat 2015 - Olomouc, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 6pm – <a href="listByLocation?location=P%25C5%2599%25C3%25ADrodov%25C4%259Bdeck%25C3%25A1+fakulta+Univerzity+Palack%25C3%25A9ho+v+Olomouci">Př&iacute;rodovědeck&aacute; fakulta Univerzity Palack&eacute;ho v Olomouci</a>			</span>
+			                <span class="item_info">This year we will celebrate Global Day of Coderetreat for the first time in Olomouc, Czech Republic. 
+Join us for a full day of hands-on coding practice to improve your craft.
+Bring your computer and<a href="../global-day-of-coderetreat-2015-olomouc-czech-republic">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/TomasLatal">Tomas Latal</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-valencia-spain">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-valencia-spain">Global Day of Coderetreat 2015 - Valencia, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 7pm – <a href="listByLocation?location=Geekshubs">Geekshubs</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 - Valencia, Spain</span>                <span class="item_contributor">Organized by Devscola, GeeksHubs and FlyWire | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-weinsberg">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-weinsberg">Global Day of Coderetreat 2015 - Weinsberg, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=Kaufland+Informationssysteme+GmbH+%2526+Co.+KG">Kaufland Informationssysteme GmbH &amp; Co. KG</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat
+Kaufland Informationssysteme Registration: Please send an email to informationssysteme@kaufland.de</span>                <span class="item_contributor">Organized by <a href="../../profile/KauflandInformationssysteme">Kaufland Informationssysteme</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2015">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2015">Global Day of Coderetreat 2015 - Ł&oacute;dź, Poland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5:15pm – <a href="listByLocation?location=Fujitsu+Rnd+Center">Fujitsu Rnd Center</a>			</span>
+			                <span class="item_info">Plese visit meetup page for details http://www.meetup.com/Java-User-Group-Lodz/events/226169070/</span>                <span class="item_contributor">Organized by <a href="../../profile/JugLodz">Jug Ł&oacute;dź</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a>, <a href="listByType?type=gdcr2015">gdcr2015</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2014-l-beck-germany-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0R-13GP06WleZjVglGwr-fEmx6RiL4NZt7Q3cOo9mcCIZKmG91v3B8V3OP8pOM3CEALIyQ0cXBIoXZMr4mJsvB63nm7uOL0-/SoftwerkskammerWappenLinks.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2014-l-beck-germany-1">Global Day of Coderetreat 2015 - L&uuml;beck, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=Chaotikum+L%25C3%25BCbeck">Chaotikum L&uuml;beck</a>			</span>
+			                <span class="item_info">We will celebrate the Global day of code retreat in Lübeck!  During normal work we don´t have much time to work on our core skills as developer. Under time pressure we often use known technics or hab<a href="../global-day-of-coderetreat-2014-l-beck-germany-1">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/ThilkoRichter">Thilko Richter</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../durban-global-code-retreat">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../durban-global-code-retreat">Global Day of Coderetreat 2015 - Durban, South Africa</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=The+Green+Door">The Green Door</a>			</span>
+			                <span class="item_info">Global code retreat in Durban, YAY</span>                <span class="item_contributor">Organized by <a href="../../profile/BrendonPage929">Brendon Page</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-4">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-4">Global Day of Coderetreat 2015 - Charlottetown, PEI, Canada</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8am to 5pm – <a href="listByLocation?location=Atlantic+Technology+Centre">Atlantic Technology Centre</a>			</span>
+			                <span class="item_info">The Global Day of Coderetreat in Charlottetown PEI.
+Join us for our third annual code retreat hosted by PEI-Devs.  It's a great chance to work on good programming practices and hang out with some int<a href="../global-day-of-coderetreat-2015-4">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/DerekCampbell">Derek Campbell</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-denver-co-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/WLDrVkQ1qFUCiECNkEzICMDY5N7SjIaaoNPsvufBhSafNrM-RVGhYehl-K*PfSRA72XU7bfikppOnqMbw2eO-bNx5VmbDzXM/CityParkDen.jpeg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-denver-co-usa">Global Day of Coderetreat 2015 - Denver, CO, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=Rally+Software">Rally Software</a>			</span>
+			                <span class="item_info">Come practice the art of problem solvers with a group of software-oriented folk in Denver, CO. Register here: http://gdcr15-denver.eventbrite.com</span>                <span class="item_contributor">Organized by <a href="../../profile/SeanDuckett">Sean Duckett</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-zurich-switzerland">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/GlhbBvgh3mgBDi07Lsehd3zTlZDAThehLuqyT*5P38cIyxU2xfNg25p0W7rHD-2ppnaXrjX0zC46NflKIVVyJr2etQ*yj-pE/gdcr15.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-zurich-switzerland">Global Day of Coderetreat 2015 - Zurich, Switzerland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 6pm – <a href="listByLocation?location=Namics+AG">Namics AG</a>			</span>
+			                <span class="item_info">For the fourth time, we're glad to be part of GDCR in Zurich!
+Our hosts, as per tradition, are the friendliest and coolest IT shop in town: Namics AG.
+Registrations open mid-October - put yourselves<a href="../global-day-of-coderetreat-2015-zurich-switzerland">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/infinitary">infinitary</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-des-moines-ia-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-des-moines-ia-usa">Global Day of Coderetreat 2015 - Des Moines, IA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=Gravitate+Bullpen+%25283rd+Floor%2529">Gravitate Bullpen (3rd Floor)</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat at Gravitate in Des Moines compliments of Pillar Technology.</span>                <span class="item_contributor">Organized by <a href="../../profile/KevinKnowles">Kevin Knowles</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-ann-arbor-mi-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-ann-arbor-mi-usa">Global Day of Coderetreat 2015 - Ann Arbor, MI, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=The+Forge%252C+7th+floor">The Forge, 7th floor</a>			</span>
+			                <span class="item_info">Developers at every level gather monthly in Ann Arbor MI to learn together, but in November, we gather on a GLOBAL scale. Join Code Craftsman Saturdays and Pillar Technology for the annual GLOBAL DAY<a href="../global-day-of-coderetreat-2015-ann-arbor-mi-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/BobAllenCuriousAgilist">Bob Allen @CuriousAgilist</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-honolulu-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-honolulu-usa">Global Day of Coderetreat 2015 - Honolulu, HI, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 4pm – <a href="listByLocation?location=Honolulu%252C+Hawaii">Honolulu, Hawaii</a>			</span>
+			                <span class="item_info">Honolulu and Aloha.rb are participating for the fifth time this year in the Global of Coderetreat!
+Location is still to be determined. For more info and to RSVP, please visit http://www.meetup.com/al<a href="../global-day-of-coderetreat-2015-honolulu-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/ChristopherSass">Christopher Sass</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-coderetreat-2015">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-coderetreat-2015">Global Day of Coderetreat 2015 - Winnipeg, Canada</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=Bold+Innovation+Group">Bold Innovation Group</a>			</span>
+			                <span class="item_info">Join us on a full day exercise coding and TDD like you mean it!
+Any language, pair programming, great company and awesome food to keep you the whole day going!
+Please register here wpggdcr2015.eventb<a href="../global-day-coderetreat-2015">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/abarylko">abarylko</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-columbia-maryland-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-columbia-maryland-usa">Global Day of Coderetreat 2015 - Columbia, MD, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=Columbia%252C+Maryland+USA">Columbia, Maryland USA</a>			</span>
+			                <span class="item_info">Maryland is hosting a Global Day of Cod Retreat
+Register here: http://www.meetup.com/Baltimore-Code-Craftsmanship/events/225535757/
+Code Retreat is a day long fun way to improve your software craftsm<a href="../global-day-of-coderetreat-2015-columbia-maryland-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/CamilleBell">Camille Bell</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-karlsruhe-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-karlsruhe-germany">Global Day of Coderetreat 2015 - Karlsruhe, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5:30pm – <a href="listByLocation?location=Fiducia+%2526+GAD+IT+AG">Fiducia &amp; GAD IT AG</a>			</span>
+			                <span class="item_info">Local instance of the Global Day of Coderetreat.
+Register here (Limited to 30 attendees)
+Sponsored by Fiducia &amp; GAD IT AG.
+Hosted by Softwerkskammer Karlsruhe</span>                <span class="item_contributor">Organized by Softwerkskammer Karlsruhe | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-berlin-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/x93ABI42iFUtFVivqEl*DlWMQG4HTGswXY3fPP4wNDTa*ZCt5Rdv612AsR7OBvrNBQ5eLdj2jchZJL1*qqtBiSbhBUllR0DO/crberlinklein.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-berlin-germany">Global Day of Coderetreat 2015 - Berlin, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 6pm – <a href="listByLocation?location=Wooga+GmBh">Wooga GmBh</a>			</span>
+			                <span class="item_info">Please register via Eventbrite: http://gdcr15-berlin.eventbrite.de</span>                <span class="item_contributor">Organized by <a href="../../profile/egga">Jan Hartung</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-3">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/JgWHSTt60et6uCNsPtvOVe9LwjAGFGUvqV*P6y7OfzmMsHoge7AMJLECNjbDD2oCc21F2iAVFSg7H8utou2x2q9vdy1ByyRW/SIQChicletonwhite.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-3">Global Day of Coderetreat 2015 - Redmond, WA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=SolutionsIQ">SolutionsIQ</a>			</span>
+			                <span class="item_info">SolutionsIQ, a center of code excellence, is happy to host this CodeRetreat for Global Day of Code Retreat!
+Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of softwa<a href="../global-day-of-coderetreat-3">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/SteveKuo">Steve Kuo</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-cleveland">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-cleveland">Global Day of Coderetreat 2015 - Cleveland, OH, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=LeanDog+Boat">LeanDog Boat</a>			</span>
+			                <span class="item_info">We're celebrating the Global Day of Coderetreat at Leandog Software!
+Come for a great day of practice!
+Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software de<a href="../global-day-of-coderetreat-2015-cleveland">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/JoelByler">Joel Byler</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-erlangen-germany-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/AI-C-DD*hSdBERjdUQTIQddz6aRLdA82DhPVvaQw1-5U0x51g0FPV5KxJ*v3MLAdUhAT3Jx3IUi11TLm-Ud9BBdIzt2jGVmv/Bauarbeiterbeans_173x173_mathema.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-erlangen-germany-1">Global Day of Coderetreat 2015 - Erlangen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=MATHEMA+Software+GmbH">MATHEMA Software GmbH</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 in Erlangen
+Registration: info@mathema.de
+Sponsor: MATHEMA Software GmbH
+</span>                <span class="item_contributor">Organized by Thomas Bertz &amp; Timoth&eacute;e Bourguignon | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-munich-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/SryUG9vl6-08-g3xmVTUrUwRKZQgqziiF7uj0DAmJBYB52CPteMNA2MVswBOJu8aKz53ZWULEODYIsL87C9zVHbwg3el8J*Z/munich.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-munich-germany">Global Day of Coderetreat 2015 - Munich, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=codecentric+AG+Office">codecentric AG Office</a>			</span>
+			                <span class="item_info">We organize the event here.</span>                <span class="item_contributor">Organized by <a href="../../profile/DavidVoelkel">David V&ouml;lkel</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-portland-or-us">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-portland-or-us">Global Day of Coderetreat 2015 - Portland, OR, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=NorthHighland+Consulting%252C+LLC">NorthHighland Consulting, LLC</a>			</span>
+			                <span class="item_info">On Saturday, November 14th, Coderetreats will be held all around the world as part of the Global Day of Coderetreat, bringing people together from all over the globe.   Portland continues its strong<a href="../global-day-of-coderetreat-2015-portland-or-us">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/MattPlavcan">Matt Plavcan</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-n-rnberg-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/pip6g4jx0sdTXBSQo4-b2fh8b6Ue7Y6DgTkWbxRqIdpTi22X0*hMs515Y4exEtFPYH9HILwcdNKIyb3yRa1LIU6bVlywuijx/nuernberg_logo.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-n-rnberg-germany">Global Day of Coderetreat 2015 - N&uuml;rnberg, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5:30pm – <a href="listByLocation?location=Coworking+Space+Nuremberg">Coworking Space Nuremberg</a>			</span>
+			                <span class="item_info">Global Day of CodeRetreat Nürnberg, Germany
+For detailed description and registration have a look at 
+https://www.softwerkskammer.org/activities/GDCR_Nuernberg_2015</span>                <span class="item_contributor">Organized by <a href="../../profile/MarcoEmrich">Marco Emrich</a> | Type: <a href="listByType?type=gdcr15">gdcr15</a>, <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-lyon-france">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-lyon-france">Global Day of Coderetreat 2015 - Lyon, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 7pm – <a href="listByLocation?location=Lyon%252C+France">Lyon, France</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat Lyon</span>                <span class="item_contributor">Organized by CARA Lyon - Coding Dojo | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-bend-oregon/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-bend-oregon/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Bend, OR, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=COCC+Campus">COCC Campus</a>			</span>
+			                <span class="item_info">On COCC campus, room TDB. 8:30am to 5pm. Coffee and lunch provided by sponsors. Register with EventBrite here: https://gdcr2015-bend.eventbrite.com</span>                <span class="item_contributor">Organized by <a href="../../profile/GeneHyde">Gene Hyde</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-pittsburgh-pa-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/hNvgaLS7D47esgYjP3JkjK9sIC9R0SAVEZ1uJEA48oJUmJr*Nm5Df6RY2CilgVkLOVEUHW9tzETFnsCRN1TAfOkQY*OaihEq/global_360209592.jpeg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-pittsburgh-pa-usa">Global Day of Coderetreat 2015 - Pittsburgh, PA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 5pm – <a href="listByLocation?location=Carnegie+Museum+of+Art">Carnegie Museum of Art</a>			</span>
+			                <span class="item_info">Pittsburgh, PA is participating in the Global Day of Coderetreat 2015
+This year, Code &amp; Supply is organizing the coderetreat in Pittsburgh as part of the Code &amp; Supply End of Year Bash.
+Pleas<a href="../global-day-of-coderetreat-2015-pittsburgh-pa-usa">…</a></span>                <span class="item_contributor">Organized by Pittsburgh Code &amp; Supply | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-toulouse-france">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-toulouse-france">Global Day of Coderetreat 2015 - Toulouse, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 6pm – <a href="listByLocation?location=Toulouse+%252F+France">Toulouse / France</a>			</span>
+			                <span class="item_info">Global Day of CodeRetreat in Toulouse, France.
+The event will be hosted by Etincelle coworking &amp; sponsorized by @occitech.
+It will be facilitated by Antoine Vernois and Ludovic Pradel.
+Details an<a href="../global-day-of-coderetreat-2015-toulouse-france">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/LudoPradel">Ludo Pradel</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-wellington-new-zealand">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-wellington-new-zealand">Global Day of Coderetreat 2015 - Wellington, New Zealand</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:30am to 4:30pm – <a href="listByLocation?location=Xero">Xero</a>			</span>
+			                <span class="item_info">We're very happy to invite everyone interested in improving their software craftsmanship skills to Auckland edition of Global Code Retreat 2015.You can register here: http://www.meetup.com/kiwi-code-<a href="../global-day-of-coderetreat-2015-wellington-new-zealand">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/MarkClearwater">Mark Clearwater</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-stockholm">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-stockholm">Global Day Of Coderetreat 2015 - Stockholm, Sweden</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 8:45am to 5pm – <a href="listByLocation?location=Valtech+Stockholm">Valtech Stockholm</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat, hosted by Valtech Stockholm
+Please signup at https://valtech.se/events/global-day-of-code-retreat/</span>                <span class="item_contributor">Organized by <a href="../../profile/MarcusAhnve398">Marcus Ahnve</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-thessaloniki-greece">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/zcg5CJIee49S7rn0BNErN46srfEE-fTvqrXwWGkUH3UIX3Eq29GONl6AbnreCzXNRpX4WYcbJj0i*Um7ycdgiLrB-ks11N4K/79327241.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-thessaloniki-greece">Global Day of Coderetreat 2015 - Thessaloniki, Greece</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 6pm – <a href="listByLocation?location=TBA">TBA</a>			</span>
+			                <span class="item_info">For the first time, we're excited to host GDCR in Thessaloniki!
+We'll be sending information using our Java meetup and twitter accounts so stay tuned </span>                <span class="item_contributor">Organized by <a href="../../profile/PapapetrouPatroklos">Papapetrou Patroklos</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-st-gallen-switzerland">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/bt5BWlmh0GbMz8IVnVuEt1A3MGZMl1ak6jhBpvXaxgON4S7WBkWeHt2OuUBX6JHKt7fpHfMu-vEyt1NUcs7felh6vYInzP-c/1024pxStiftskirche_St.Gallen_side.JPG?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-st-gallen-switzerland">Global Day of Coderetreat 2015 - St. Gallen, Switzerland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 6pm – <a href="listByLocation?location=Namics+AG">Namics AG</a>			</span>
+			                <span class="item_info">It's the first time, we are running GDCR in St. Gallen!
+Our hosts, as per tradition in Zurich, is the friendliest and coolest IT shop in town: Namics AG.
+Registration is open here - http://42talents.<a href="../global-day-of-coderetreat-2015-st-gallen-switzerland">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/patbaumgartner">Patrick Baumgartner</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-paris-france/showAttendees?status=might_attend">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/GlhbBvgh3mj58-RWI6gS5jOMzJXV8J-Vpm8ukRsj5fxWouYLDQhDLbaIiQ*dJPLpoXq-dbS4BUCOxDtzEUiMFrafJLp9QD3H/TourEiffel.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-paris-france/showAttendees?status=might_attend">Global Day of Coderetreat 2015 - Paris, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 6pm – <a href="listByLocation?location=Arolla">Arolla</a>			</span>
+			                <span class="item_info">Pour la 4e année consécutive, Arolla accueillera le Global Day of Coderetreat... avec des glaces :)
+Interphone 9316
+2ème étage</span>                <span class="item_contributor">Organized by <a href="../../profile/Arolla">Arolla</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-parsippany-nj-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/HfIXzVrPfI3IHBCGWTW2vrFDuVXQT72d9Q7mJwnTuwgPimxo65yFhDHygwpDC39S1775XX-YAmz1fpCimyvzrtwXmSGLIYrv/small_logo2.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-parsippany-nj-usa">Global Day of Coderetreat 2015 - Parsippany, NJ, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 6pm – <a href="listByLocation?location=Micro+Strategies">Micro Strategies</a>			</span>
+			                <span class="item_info">Please join us for an exciting Coderetreat in Northern New Jersey. We'll bring the food and wifi, you bring your laptop and desire to practice coding! 
+This is our second time hosting the Global Day<a href="../global-day-of-coderetreat-2015-parsippany-nj-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/JasonJolley">Jason Jolley</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-auckland-new-zealand">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/SDhgST2Am3Ww0FR9-GAzOPJEmVo-ZJvmviKhFNfVaNmnjm*VWgcbh6-50OpKw8ICAuCuG9mlrEtfCdqS*7GLOTHyPaZmcpgB/IMG_9790.JPG?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-auckland-new-zealand">Global Day of Coderetreat 2015 - Auckland, New Zealand</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=Orion+Health+Office">Orion Health Office</a>			</span>
+			                <span class="item_info">We're very happy to invite everyone interested in improving their software craftsmanship skills to Auckland edition of Global Code Retreat 2015.You can register here: https://www.eventbrite.com/e/glo<a href="../global-day-of-coderetreat-2015-auckland-new-zealand">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/JakubJurkiewicz">Jakub Jurkiewicz</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-glasgow">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-glasgow">Global Day of Coderetreat 2015 - Glasgow, UK</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=RookieOven">RookieOven</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat event in Glasgow. For more details and to sign up, see here: https://www.eventbrite.co.uk/e/global-day-of-coderetreat-2015-glasgow-tickets-18375007141</span>                <span class="item_contributor">Organized by  | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-gothenburg-sweden">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-gothenburg-sweden">Global Day of Coderetreat 2015 - Gothenburg, Sweden</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=Gothenburg">Gothenburg</a>			</span>
+			                <span class="item_info">Meltwater will host and sponsor the Global Day of Coderetreat 2015 in Gothenburg, Sweden at our office on Kungsportsavenyen 33
+Faciltator: Fredrik Wendt (https://twitter.com/wendtse)
+Register/RSVP he<a href="../global-day-of-coderetreat-2015-gothenburg-sweden">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/PerBergland">Per Bergland</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-essen-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/dm99ly9wi67dNKcoMOmE2Ty303qPads9IPOC02*gNABxPEWlT7PDcQ8LEcKUT1Ud48SgfU-O0ZuzwsgKDAJQ6UKMXlFMJGfk/standort_essen_150.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-essen-germany">Global Day of Coderetreat 2015 - Essen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=OPITZ+CONSULTING+Deutschland+GmbH+Essen">OPITZ CONSULTING Deutschland GmbH Essen</a>			</span>
+			                <span class="item_info">OPITZ CONSULTING Deutschland GmbH is hosting the Global Day of Code Retreat 2015 in Essen.
+ // German //
+Ein "Coderetreat" ist eine ganztägige Veranstaltung zum Üben und Verbessern der Fähigkeiten zu<a href="../global-day-of-coderetreat-2015-essen-germany">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/RolandSchneider">Roland Schneider</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-in-osnabr-ck">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/7KfVtj4CX6gCHZPb6dZkHjnS-YpYBsCZqjLuT1-lRsrQt8A0isB7j9ro*wisylOpQfmlwePcWFjHqopXgQufx4-BhWfhuhVb/GDCR2015.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-in-osnabr-ck">Global Day of Coderetreat 2015 - Osnabr&uuml;ck, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=LMIS+AG">LMIS AG</a>			</span>
+			                <span class="item_info">Die LMIS AG lädt in Kooperation mit Universität und Hochschule Osnabrück alle interessierten Softwareentwickler/innen aus der Region zum »Global Day of Coderetreat« am 14. November 2015 ein.  Student<a href="../global-day-of-coderetreat-2015-in-osnabr-ck">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/KatharinaWuttke">Katharina Wuttke</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-jihlava-czech-republic">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-jihlava-czech-republic">Global Day of Coderetreat 2015 - Jihlava, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 6pm – <a href="listByLocation?location=Vysok%25C3%25A1+%25C5%25A1kola+polytechnick%25C3%25A1+Jihlava">Vysok&aacute; &scaron;kola polytechnick&aacute; Jihlava</a>			</span>
+			                <span class="item_info">registraci na akci najdete na http://www.eventbrite.com/e/global-day-of-coderetreat-2015-jihlava-czech-republic-tickets-18570159848</span>                <span class="item_contributor">Organized by GDG Jihlava | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-chicago-il-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/MN6ZNqVOIKP-4U3j-cGoKz*24hzeWeJsbxAob7Nqb3vRsF9cO10loGDxyKz4ZMaC74lg6Op89jZD2nbHJciV2hNq-01AXV1U/8thLightlogotransparent.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-chicago-il-usa">Global Day of Coderetreat 2015 - Chicago, IL, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 4:30pm – <a href="listByLocation?location=Chicago">Chicago</a>			</span>
+			                <span class="item_info">8th Light is once again hosting the Global Day of Code Retreat. This time at our new office!
+Please RSVP using the Eventbrite page.</span>                <span class="item_contributor">Organized by <a href="../../profile/EricMeyer">Eric Meyer</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-vienna-austria">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/XxTpnQx1hfAyhl4dZZ77RPjNbQlwLBgBMNUMYrlgzOebQIs*eqQG7M6pUUTFzQ1zBwt3uP5d63i50nnk9YULM3*eMFZu7Y2F/RathausWiena21432132.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-vienna-austria">Global Day of Coderetreat 2015 - Vienna, Austria</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 7:30pm – <a href="listByLocation?location=FREQUENTIS">FREQUENTIS</a>			</span>
+			                <span class="item_info">For the third time in a row, FREQUENTIS will host the GDCR in Vienna, Austria!
+To register for this event, get a ticket on Eventbrite on this page.</span>                <span class="item_contributor">Organized by <a href="../../profile/ChristianHaas">Christian Haas</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreate-2015-in-brasov-romania">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreate-2015-in-brasov-romania">Global Day Of Coderetreat 2015 - Brasov, Romania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 4pm – <a href="listByLocation?location=Brasov">Brasov</a>			</span>
+			                <span class="item_info">For the 3rd time in Brasov, we’ll join programmers from all over the world. We’ll meet, code and have fun for sure during the day! </span>                <span class="item_contributor">Organized by <a href="../../profile/BarbuAndreeaRuxandra">Barbu Andreea-Ruxandra</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-in-gran-canaria">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-in-gran-canaria">Global Day of Coderetreat 2015 - Gran Canaria, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=Facultad+de+Informatica%252C+ULPGC">Facultad de Informatica, ULPGC</a>			</span>
+			                <span class="item_info">The code retreat will be hosted by Facultad de Informatica ULPGC. 
+Facilitated by Peter Kofler and Carlos Ble. It will be facilitated in English.
+Please register here:
+http://gdcrlaspalmas.weebly.com<a href="../global-day-of-code-retreat-in-gran-canaria">…</a></span>                <span class="item_contributor">Organized by Gran Canaria Agil | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-corrientes-argentina/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/*Rq2xzdEfo7wfjq-Ca3DQiNmAd2D2n4ruBTR1ZSSypCL5vYDyRqxQvbkHMVsloHmjWMJoDj-PaPYoLLpX0w4KonMPjm*Jxmp/photo202092853276551090.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-corrientes-argentina/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Corrientes, Argentina</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 7pm – <a href="listByLocation?location=FACENA-UNNE">FACENA-UNNE</a>			</span>
+			                <span class="item_info">El Sábado 14 de Noviembre de 2015 se celebra el día mundial de los CodeRetreat desde ComunidadTIC te queremos invitar a unirte a la iniciativa de desarrolladores para desarrolladores.
+
+¿Qué debo llev<a href="../global-day-of-coderetreat-2015-corrientes-argentina/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/MatiasMascazzini">Matias Mascazzini</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-vilnius-lithuania">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/kYkWoLTW4g8A01YqtYI2WmIbWrp2dbrTyLu5EvpHOu-8H5mV-jvvcRRtSlMFx5dJGu8tjXnV3RQ0B7AbiH-l8NXaVliikngV/Vilnius_Gediminas_tower.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-vilnius-lithuania">Global Day of Coderetreat 2015 - Vilnius, Lithuania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=Inventi">Inventi</a>			</span>
+			                <span class="item_info">Register here: http://gdcr2015-vilnius.eventbrite.com</span>                <span class="item_contributor">Organized by <a href="../../profile/OsvaldasGrigas">Osvaldas Grigas</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-san-jose-ca">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/nkLEPVQ6s9f4qUFp6iw4mV841CZAitBe0BH*nPPnOJHZNNRm*gxbHdZ17H*AbzUCtxJ1MJn32Gr-zfj3jJ9MPhbNFSpUo-bv/gdcr.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-san-jose-ca">Global Day of Coderetreat 2015 - San Jose, CA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=PayPal">PayPal</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat at PayPal in San Jose, CA
+Sign up at https://www.eventbrite.com/e/global-day-of-code-coderetreat-2015-san-jose-ca-tickets-18967352863
+Space is limited!
+</span>                <span class="item_contributor">Organized by PayPal | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-fulda-germany-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/TJP9R5X7WnfctavmAliot1*rfJzJsPjO1SC3*gMqqE3t9H-WbUUeDjIBKz*At3NjWrCbIeaphW4Wp9AagWniFipKNdUAC-AF/fbai_swlab_1.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-fulda-germany-1">Global Day of Coderetreat 2015 - Fulda, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=University+of+applied+Sciences+Fulda">University of applied Sciences Fulda</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 in Fulda
+This is the first time that GDCR is hosted in Fulda organised by the university of fulda.
+The trainer Thomas Papendieck will lead through the program.
+Please r<a href="../global-day-of-coderetreat-2015-fulda-germany-1">…</a></span>                <span class="item_contributor">Organized by Martine Herpers and Thomas Papendieck | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-bucharest-romania/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-bucharest-romania/showAttendees?status=not_attending">Global Day of Coderetreat 2015 - Bucharest, Romania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 6pm – <a href="listByLocation?location=MozaicWorks">MozaicWorks</a>			</span>
+			                <span class="item_info">As we did last year, we’ll join programmers from all over the world. We’ll meet, code and have fun for sure during the day!
+The event will be organized by AgileWorks community and hosted by MozaicLab<a href="../global-day-of-coderetreat-2015-bucharest-romania/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/ClaudiaRosu">Claudia Rosu</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-singapore">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-singapore">Global Day of Coderetreat 2015 - Singapore, Singapore</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 6pm – <a href="listByLocation?location=PayPal+Singapore">PayPal Singapore</a>			</span>
+			                <span class="item_info">RSVP at DevFest.asia
+Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focu<a href="../global-day-of-coderetreat-2015-singapore">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/ChernJieLim">Chern Jie Lim</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-solingen-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-solingen-germany">Global Day of Coderetreat 2015 - Solingen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=codecentric+HQ">codecentric HQ</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 at codecentric AG in Solingen!
+Come and improve your programming skills together with peers, explore new technology or methods, and learn, learn, learn - all without th<a href="../global-day-of-coderetreat-2015-solingen-germany">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/tobiasgoeschel">Tobias Goeschel</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-johannesburg-south-africa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-johannesburg-south-africa">Global Day of Coderetreat 2015 - Johannesburg, South Africa</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2015-11-14">November 14, 2015</a> from 9am to 5pm – <a href="listByLocation?location=Helderfontein+Conference+Center">Helderfontein Conference Center</a>			</span>
+			                <span class="item_info">Come and join us on the Global Day of Code Retreat at the lovely Helderfontein Conference Center in Fourways. This CodeRetreat will be a special event as it will be run side by side with a MobRetreat<a href="../global-day-of-coderetreat-2015-johannesburg-south-africa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/StevenMcDonald">Steven McDonald</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr15">gdcr15</a></span>
+                            </p>
+    </div></li>
+</ul><ul class="pagination smallpagination">
+	<li class="left"><a href="listByDate?date=2015-11-13">&lt; Previous</a></li>
+	<li class="right"><a href="listByDate?date=2015-11-21">Next &gt;</a></li>
+</ul>
+    </div>
+    </div>
+</div>
+<div class="xg_column xg_span-4 xg_last">
+    <div class="xg_module eventmodule">
+    <div class="xg_module_head">
+        <h2>Popular Event Types</h2>
+    </div>
+    <div class="xg_module_body">
+        <ul class="nobullets">
+            <li><a href="listByType?type=coderetreat">coderetreat</a> (888)</li><li><a href="listByType?type=gdcr">gdcr</a> (606)</li><li><a href="listByType?type=gdcr13">gdcr13</a> (166)</li><li><a href="listByType?type=gdcr15">gdcr15</a> (157)</li><li><a href="listByType?type=gdcr14">gdcr14</a> (143)</li>        </ul>
+                    <p class="right"><small><a href="listAllTypes">View All</a></small></p>
+            </div>
+</div><div class="calendarWrap">
+  <div dojoType="Scroller"
+      _buttonContainer="evt_cal_btn_container"
+      _nextButton="evt_cal_next"
+      _prevButton="evt_cal_last"
+      _prevSeqId="2015-10"
+      _nextSeqId="2016-01"
+      _scrollBy="1"
+      _threshold="2"
+  	_url="http://coderetreat.org/events/event/getCalendar?">
+  <div class="xg_module nopad"> <div class="xg_module_body">		<div class="calendar">
+			<div>
+			  <span class="calendar_head xg_module_head">
+			    <span class="month">November</span>&nbsp;<span class="year">2015</span>
+			  </span>
+				<table>
+					<thead>
+						<tr><th title="Sunday">S</th><th title="Monday">M</th><th title="Tuesday">T</th><th title="Wednesday">W</th><th title="Thursday">T</th><th title="Friday">F</th><th title="Saturday">S</th></tr>
+					</thead>
+					<tbody>
+<tr><td class="past xg_lightfont">1</td><td class="past xg_lightfont">2</td><td class="past xg_lightfont">3</td><td class="past xg_lightfont">4</td><td class="past xg_lightfont"><a href="listByDate?date=2015-11-5">5</a></td><td class="past xg_lightfont"><a href="listByDate?date=2015-11-6">6</a></td><td class="past xg_lightfont"><a href="listByDate?date=2015-11-7">7</a></td></tr><tr><td class="past xg_lightfont">8</td><td class="past xg_lightfont">9</td><td class="past xg_lightfont"><a href="listByDate?date=2015-11-10">10</a></td><td class="past xg_lightfont">11</td><td class="past xg_lightfont">12</td><td class="past xg_lightfont"><a href="listByDate?date=2015-11-13">13</a></td><td class="past xg_lightfont"><a href="listByDate?date=2015-11-14">14</a></td></tr><tr><td class="past xg_lightfont">15</td><td class="past xg_lightfont">16</td><td class="past xg_lightfont">17</td><td class="past xg_lightfont">18</td><td class="past xg_lightfont">19</td><td class="past xg_lightfont">20</td><td class="past xg_lightfont"><a href="listByDate?date=2015-11-21">21</a></td></tr><tr><td class="past xg_lightfont">22</td><td class="past xg_lightfont">23</td><td class="past xg_lightfont">24</td><td class="past xg_lightfont">25</td><td class="past xg_lightfont">26</td><td class="past xg_lightfont">27</td><td class="past xg_lightfont">28</td></tr><tr><td class="past xg_lightfont">29</td><td class="past xg_lightfont">30</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>					</tbody>
+				</table>
+			</div>
+		</div>
+</div></div><div class="xg_module nopad"> <div class="xg_module_body">		<div class="calendar">
+			<div>
+			  <span class="calendar_head xg_module_head">
+			    <span class="month">December</span>&nbsp;<span class="year">2015</span>
+			  </span>
+				<table>
+					<thead>
+						<tr><th title="Sunday">S</th><th title="Monday">M</th><th title="Tuesday">T</th><th title="Wednesday">W</th><th title="Thursday">T</th><th title="Friday">F</th><th title="Saturday">S</th></tr>
+					</thead>
+					<tbody>
+<tr><td></td><td></td><td class="past xg_lightfont">1</td><td class="past xg_lightfont">2</td><td class="past xg_lightfont">3</td><td class="past xg_lightfont">4</td><td class="past xg_lightfont">5</td></tr><tr><td class="past xg_lightfont">6</td><td class="past xg_lightfont">7</td><td class="past xg_lightfont">8</td><td class="past xg_lightfont">9</td><td class="past xg_lightfont">10</td><td class="past xg_lightfont">11</td><td class="past xg_lightfont"><a href="listByDate?date=2015-12-12">12</a></td></tr><tr><td class="past xg_lightfont">13</td><td class="past xg_lightfont">14</td><td class="past xg_lightfont">15</td><td class="past xg_lightfont">16</td><td class="past xg_lightfont">17</td><td class="past xg_lightfont">18</td><td class="past xg_lightfont">19</td></tr><tr><td class="past xg_lightfont">20</td><td class="past xg_lightfont">21</td><td class="past xg_lightfont">22</td><td class="past xg_lightfont">23</td><td class="past xg_lightfont">24</td><td class="past xg_lightfont">25</td><td class="past xg_lightfont">26</td></tr><tr><td class="past xg_lightfont">27</td><td class="past xg_lightfont">28</td><td class="past xg_lightfont">29</td><td class="past xg_lightfont">30</td><td class="past xg_lightfont">31</td><td></td><td></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>					</tbody>
+				</table>
+			</div>
+		</div>
+</div></div>  </div>
+  <div id="evt_cal_btn_container" class="xg_module_foot" style="display:none">
+      <p class="left"><a id="evt_cal_last" href="listByDate?date=2015-11-14#" style="display:none">Last Month</a></p>
+      <p class="right"><a id="evt_cal_next" href="listByDate?date=2015-11-14#" style="display:none">Next Month</a></p>
+  </div>
+</div></div>
+
+                        </div>
+                    </div>                
+                    <div class="xg_column xg_span-7 xg_last" id="column2">
+                        <div class="xj_user_info">    <div class="xg_module" id="xg_module_account">
+        <div class="xg_module_body xg_signup xg_lightborder">
+            <p>Welcome to<br />Coderetreat</p>
+                        <p class="last-child"><big><strong><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2015-11-14">Sign Up</a></strong></big><br/>or <a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2015-11-14" style="white-space:nowrap">Sign In</a></p>
+                            <div class="xg_external_signup xg_lightborder xj_signup">
+                    <p class="dy-small">Or sign in with:</p>
+                    <ul class="providers">
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2015-11-14%26source%3DsignUp%26close%3D1%26provider%3Dfacebook', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2015-11-14%26source%3DsignUp%26close%3D0%26provider%3Dfacebook">
+                            <span class="mini-service mini-service-facebook" title="Facebook"></span>
+                    </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2015-11-14%26source%3DsignUp%26close%3D1%26provider%3Dtwitter', null, 'width=860,height=440,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2015-11-14%26source%3DsignUp%26close%3D0%26provider%3Dtwitter">
+            <span class="mini-service mini-service-twitter" title="Twitter"></span>
+        </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2015-11-14%26source%3DsignUp%26close%3D1%26provider%3Dyahoo', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2015-11-14%26source%3DsignUp%26close%3D0%26provider%3Dyahoo">
+            <span class="mini-service mini-service-yahoo" title="Yahoo!"></span>
+        </a></li>
+    </ul>
+                </div>
+                    </div>
+    </div>
+</div>
+                        <div class="xj_sidebar_content"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="xg_foot">
+                <div id="xg_footcontent">
+                    <div class="xj_foot_content"><p class="left">
+    © 2017             &nbsp; Created by <a href="../../xn/detail/u_128952ghvkcvj">corey haines</a>.            &nbsp;
+    Powered by<a class="poweredBy-logo" href="https://www.ning.com/" rel="dofollow"><img class="poweredbylogo" width="87" height="15" src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/Ning_MM_footer_wht@2x.png?xn_version=242216045" title
+="Ning Website Builder" alt="Website builder | Create website | Ning.com" target="_blank"></a>    </p>
+    <p class="right xg_lightfont">
+                    <a href="../../main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2015-11-14">Terms of Service</a>
+            </p>
+</div>
+                </div>
+            </div>
+			<div id="xg_ad_below_footer" class="xg_ad xj_ad_below_footer dy-displaynone">
+				
+			</div>
+        </div>
+    </div>
+    <div class="xj_after_content"><div id="xj_baz17246" class="xg_theme"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use Coderetreat.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="../../xn_resources/widgets/index/gfx/jstrk_off.gif" alt="" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=2765273374"></script>        <script>
+            var sources = ["http:\/\/api.ning.com:80\/files\/-q6tvS*EPsKouV2no1yS1Z44orlQXrgrn6cdJ97JZM9VH4co81cvbscnFg1OIeCEAERmoD0shDB*lmRNzNJ6T8IsQXkDhnlA\/set_common_min.js?r=1483433098","http:\/\/api.ning.com:80\/files\/DBD4PE5EidX8bMye8TF3Vgj*wiN1CMUqlGOsiUfmbWhad9XqIDQvhcK9YvdKTfykhVIjZ5Y8bMTz5GvWMwpWLXWeJZt1vhvK\/set_sidebar_u_min.js?r=1406592884"];
+            var numSources = sources.length;
+            var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            var onloadFunctionsObj = {};
+
+            var createScriptTagFunc = function(source) {
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                                var currentOnLoad = function() {xg._loader.onLoad(source);};
+                if (script.readyState) { //for IE (including IE9)
+                    script.onreadystatechange = function() {
+                        if (script.readyState == 'complete' || script.readyState == 'loaded') {
+                            script.onreadystatechange = null;
+                            currentOnLoad();
+                        }
+                    }
+                } else {
+                   script.onerror = script.onload = currentOnLoad;
+                }
+
+                script.src = source;
+                node.appendChild(script);
+            };
+
+            for (var i = 0; i < numSources; i++) {
+                xg._loader.loading(sources[i]);
+                createScriptTagFunc(sources[i]);
+            }
+        </script>
+    <script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2017-01-29T09:37:29+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201701120951'; // DEP-9365:3cf2104 33
+djConfig.parseWidgets = false;
+</script>
+    <script type="text/javascript">
+        xg.token = '';
+xg.canTweet = false;
+xg.cdnHost = 'static.ning.com';
+xg.version = '201701120951';
+xg.useMultiCdn = true;
+xg.staticRoot = 'socialnetworkmain';
+xg.xnTrackHost = "coll.ning.com";
+    xg.cdnDefaultPolicyHost = 'static';
+    xg.cdnPolicy = [];
+xg.global = xg.global || {};
+xg.global.currentMozzle = 'events';
+xg.global.userCanInvite = false;
+xg.global.requestBase = '';
+xg.global.locale = 'en_US';
+xg.num_thousand_sep = ",";
+xg.num_decimal_sep = ".";
+(function() {
+    dojo.addOnLoad(function() {
+        if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+            });
+            xg._loader.onLoad('xnloader');
+    })();    </script>
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
+
+</div>
+</body>
+</html>

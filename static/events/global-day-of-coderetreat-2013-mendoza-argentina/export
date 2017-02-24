@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28402
+DTSTAMP:20170129T101849Z
+SUMMARY:Global Day of Coderetreat 2013 - Mendoza, Argentina
+DESCRIPTION:Coderetreat, Mendoza Argentina.\nOrganizado por Belatrix S
+ oftware.\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2013-mendoza-argentina
+DTSTART:20131214T100000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Belatrix Software - Chacras de Coria Office
+WEBSITE:https://coderetreat-mendoza-2013.eventbrite.com/
+URL:https://coderetreat-mendoza-2013.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Belatrix Software":http://coderetreat.org/profile/Belatr
+ ixSoftware
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ariel Pa
+ rra":http://coderetreat.org/profile/ArielParra
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Belatrix
+  Software":http://coderetreat.org/profile/BelatrixSoftware
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46103
+DTSTAMP:20170129T121414Z
+SUMMARY:Global Day of Coderetreat 2015 - Cape Town, South Africa
+DESCRIPTION:Coderetreating in Cape Town!\nRSVP on meetup:\nhttp://www.
+ meetup.com/coderetreat/events/225347328/\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-2015-cape-tow
+ n-south-africa
+DTSTART:20151114T080000Z
+DTEND:20151114T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Cape Town
+WEBSITE:http://informationlogistics.co.za/place
+URL:http://informationlogistics.co.za/place
+CONTACT:+27828297212
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

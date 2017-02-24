@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8619
+DTSTAMP:20170129T122826Z
+SUMMARY:JUGChennai First Code Retreat
+DESCRIPTION:Organized by JUGChennai http://jugchennai.in \nFacilitato
+ r: Dr. Venkat Subramaniam Date: 14 Apr 2012 Time: 8.30am to 5 or 6p
+ m Venue: Tenth Planet Technologies Private Limited Type: Limited parti
+ cipant and Free and open Programming Language : Any Language\n\nhttp:
+ //jugchennai.in/coderetreat/\n\n\nFor more information visit http://co
+ deretreat.org/events/jugchennai-code-retreat
+DTSTART:20120414T090000Z
+DTEND:20120414T180000Z
+CATEGORIES:first, code, retreat
+LOCATION:Tenth Planet Technologies Private Limited
+WEBSITE:http://jugchennai.in/coderetreat/
+URL:http://jugchennai.in/coderetreat/
+CONTACT:+919790967809
+ORGANIZER;CN="Rajmahendra Hegde":http://coderetreat.org/profile/rajmah
+ endra
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/hVXDObuNLQ3YI
+ X*W8y0jlteZZ0wecaF3UmJpiCWW0eEPRKlshoQRiNRToijODkPWJ8YQkLlDgX4vZKHKNNd
+ CmmBaNwVBXQDO/CODERETREAT.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rajmahen
+ dra Hegde":http://coderetreat.org/profile/rajmahendra
+END:VEVENT
+END:VCALENDAR

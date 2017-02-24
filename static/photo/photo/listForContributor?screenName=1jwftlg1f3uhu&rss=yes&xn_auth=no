@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Mattias Sällström&#039;s Photos</title>
+        <description>Mattias Sällström&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=1jwftlg1f3uhu</link>
+        <pubDate>Sun, 29 Jan 2017 13:36:45 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:36:45 +0000</lastBuildDate>
+        <image>
+            <title>Mattias Sällström&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=1jwftlg1f3uhu</link>
+            <url>http://api.ning.com:80/files/iOZmzSvjnfiqidVHOVK7uaWPSGLKsHtlsR1HGepXmryGnXyrF49ZW7LAMLpn*6JIDF3S-X4M5w*2nG-9bb-1XUiVxnDolHHN/542328624.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:3096</guid>             <title>GDCR Umeå</title>
+            <link>http://coderetreat.org/photo/gdcr-ume-3</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/2*Phht-MsJAV-44suPm*16fNFbIsgeQ1lpcy3i0zfxwE17XXTbKxPbMfFoO3lOe3hS*irVyRoNY5RKgIHo-aWmTQc2cbd3IB/GDCR_Umea_4.JPG?width=800&amp;amp;height=600&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/2*Phht-MsJAV-44suPm*16fNFbIsgeQ1lpcy3i0zfxwE17XXTbKxPbMfFoO3lOe3hS*irVyRoNY5RKgIHo-aWmTQc2cbd3IB/GDCR_Umea_4.JPG?width=240&amp;height=180&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Mattias Sällström </description>                <pubDate>Sat, 03 Dec 2011 15:02:46 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/2*Phht-MsJAV-44suPm*16fNFbIsgeQ1lpcy3i0zfxwE17XXTbKxPbMfFoO3lOe3hS*irVyRoNY5RKgIHo-aWmTQc2cbd3IB/GDCR_Umea_4.JPG?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/2*Phht-MsJAV-44suPm*16fNFbIsgeQ1lpcy3i0zfxwE17XXTbKxPbMfFoO3lOe3hS*irVyRoNY5RKgIHo-aWmTQc2cbd3IB/GDCR_Umea_4.JPG?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/2*Phht-MsJAV-44suPm*16fNFbIsgeQ1lpcy3i0zfxwE17XXTbKxPbMfFoO3lOe3hS*irVyRoNY5RKgIHo-aWmTQc2cbd3IB/GDCR_Umea_4.JPG?width=240&amp;height=180&amp;format=jpg" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Mattias Sällström</media:credit>
+	                        <atom:author>
+                <atom:name>Mattias Sällström</atom:name>
+                <atom:uri>http://coderetreat.org/profile/MattiasSaellstroem</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:3183</guid>             <title>GDCR Umeå</title>
+            <link>http://coderetreat.org/photo/gdcr-ume-2</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/Ts84jkLu7jskjWVSdCdxqFLKesZQw-mOyoBU5DHd1T-OoXnb-488iQEQrw7XSLbbrUHVuCdn2khC4JDIXAJO-xnvBkqO55lw/GDCR_Umea_3.JPG?width=450&amp;amp;height=600&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/Ts84jkLu7jskjWVSdCdxqFLKesZQw-mOyoBU5DHd1T-OoXnb-488iQEQrw7XSLbbrUHVuCdn2khC4JDIXAJO-xnvBkqO55lw/GDCR_Umea_3.JPG?width=180&amp;height=240&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Mattias Sällström </description>                <pubDate>Sat, 03 Dec 2011 15:02:25 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/Ts84jkLu7jskjWVSdCdxqFLKesZQw-mOyoBU5DHd1T-OoXnb-488iQEQrw7XSLbbrUHVuCdn2khC4JDIXAJO-xnvBkqO55lw/GDCR_Umea_3.JPG?width=450&amp;height=600&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/Ts84jkLu7jskjWVSdCdxqFLKesZQw-mOyoBU5DHd1T-OoXnb-488iQEQrw7XSLbbrUHVuCdn2khC4JDIXAJO-xnvBkqO55lw/GDCR_Umea_3.JPG?width=450&amp;height=600&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/Ts84jkLu7jskjWVSdCdxqFLKesZQw-mOyoBU5DHd1T-OoXnb-488iQEQrw7XSLbbrUHVuCdn2khC4JDIXAJO-xnvBkqO55lw/GDCR_Umea_3.JPG?width=180&amp;height=240&amp;format=jpg" width="180" height="240" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Mattias Sällström</media:credit>
+	                        <atom:author>
+                <atom:name>Mattias Sällström</atom:name>
+                <atom:uri>http://coderetreat.org/profile/MattiasSaellstroem</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:3181</guid>             <title>GDCR Umeå</title>
+            <link>http://coderetreat.org/photo/gdcr-ume-1</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/yc9aOYoosDmQ3F*lBaS33PV3ag3NeYicpkr56IPdiuz*fk9e2PzhU6ryRzQBTtNUzHRaisNMuxK1a2nYo8Ll5mbyHWD80KWO/GDCR_Umea_2.JPG?width=800&amp;amp;height=600&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/yc9aOYoosDmQ3F*lBaS33PV3ag3NeYicpkr56IPdiuz*fk9e2PzhU6ryRzQBTtNUzHRaisNMuxK1a2nYo8Ll5mbyHWD80KWO/GDCR_Umea_2.JPG?width=240&amp;height=180&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Mattias Sällström </description>                <pubDate>Sat, 03 Dec 2011 15:02:05 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/yc9aOYoosDmQ3F*lBaS33PV3ag3NeYicpkr56IPdiuz*fk9e2PzhU6ryRzQBTtNUzHRaisNMuxK1a2nYo8Ll5mbyHWD80KWO/GDCR_Umea_2.JPG?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/yc9aOYoosDmQ3F*lBaS33PV3ag3NeYicpkr56IPdiuz*fk9e2PzhU6ryRzQBTtNUzHRaisNMuxK1a2nYo8Ll5mbyHWD80KWO/GDCR_Umea_2.JPG?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/yc9aOYoosDmQ3F*lBaS33PV3ag3NeYicpkr56IPdiuz*fk9e2PzhU6ryRzQBTtNUzHRaisNMuxK1a2nYo8Ll5mbyHWD80KWO/GDCR_Umea_2.JPG?width=240&amp;height=180&amp;format=jpg" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Mattias Sällström</media:credit>
+	                        <atom:author>
+                <atom:name>Mattias Sällström</atom:name>
+                <atom:uri>http://coderetreat.org/profile/MattiasSaellstroem</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:3093</guid>             <title>GDCR Umeå</title>
+            <link>http://coderetreat.org/photo/gdcr-ume</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/sM9v0lF8lRStiSSiYTyzM4YtHRjFZSszsgvQgbI7p0gN8yN-rqUNjYt29OhIOl6pMQBK-1*TVkK8CXg7hQ4Ha9Dj8GcEQAIK/GDCRUmea_1.JPG?width=800&amp;amp;height=600&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/sM9v0lF8lRStiSSiYTyzM4YtHRjFZSszsgvQgbI7p0gN8yN-rqUNjYt29OhIOl6pMQBK-1*TVkK8CXg7hQ4Ha9Dj8GcEQAIK/GDCRUmea_1.JPG?width=240&amp;height=180&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Mattias Sällström Watching Heroko video</description>                <pubDate>Sat, 03 Dec 2011 15:01:45 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/sM9v0lF8lRStiSSiYTyzM4YtHRjFZSszsgvQgbI7p0gN8yN-rqUNjYt29OhIOl6pMQBK-1*TVkK8CXg7hQ4Ha9Dj8GcEQAIK/GDCRUmea_1.JPG?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/sM9v0lF8lRStiSSiYTyzM4YtHRjFZSszsgvQgbI7p0gN8yN-rqUNjYt29OhIOl6pMQBK-1*TVkK8CXg7hQ4Ha9Dj8GcEQAIK/GDCRUmea_1.JPG?width=800&amp;height=600&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description>Watching Heroko video</media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/sM9v0lF8lRStiSSiYTyzM4YtHRjFZSszsgvQgbI7p0gN8yN-rqUNjYt29OhIOl6pMQBK-1*TVkK8CXg7hQ4Ha9Dj8GcEQAIK/GDCRUmea_1.JPG?width=240&amp;height=180&amp;format=jpg" width="240" height="180" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Mattias Sällström</media:credit>
+	                        <atom:author>
+                <atom:name>Mattias Sällström</atom:name>
+                <atom:uri>http://coderetreat.org/profile/MattiasSaellstroem</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

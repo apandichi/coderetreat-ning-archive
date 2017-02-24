@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27086
+DTSTAMP:20170129T103940Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!\n This training is for facilitators. An
+ ybody interested in facilitating a coderetreat is invited to attend at
+  least one training session. This training will be delivered online on
+  Google Plus Hangouts. Make sure you will be online five minutes befor
+ e the training starts.\nThis year we will have several types of traini
+ ngs for Global Day of Coderetreat hosts and facilitators.\nThe job of 
+ the host is to make sure the coderetreat runs smoothly by making sure 
+ everything is arranged. Hosts find a venue with all the necessary equi
+ pment, find a company to sponsor lunch, give away the prizes at the en
+ d of the day, organize video chats with other locations, etc.\nThe job
+  of the facilitator is to help participants learn from each other. Fac
+ ilitators understand the coderetreat format, choose and explain the co
+ nstraints, and try to keep a learning atmosphere during the day\n \nI
+ mportant: All the times are in UTC. Do one of the following to view tr
+ aining times in your time zone:\n\nAdd the GDCR Calendar to your Googl
+ e Calendar account\nUse this tool to convert the time from UTC to you
+ r time zone\nFind your time below in one of these common time zones:\n
+ UTC-8 America/Los_Angeles PST\nUTC-7 America/Denver MST\nUTC-6 America
+ /Chicago CST\nUTC-5 America/New_York EST\nUTC+1 Europe/Paris CET\nUTC+
+ 2 Europe/Bucharest EET\nUTC+2 Africa/Johannesburg CAT\nUTC+3 Europe/Mo
+ scow MSK\nUTC+5.5 Asia/Kolkata IST\nUTC+8 Asia/Shanghai ACT\nUTC+9 Asi
+ a/Tokyo JST\nUTC+10 Australia/Sydney AEST\nUTC+13 Pacific/Auckland ZDT
+ \n\n\n\n\nFor more information visit http://coderetreat.org/events/fac
+ ilitator-training-session
+DTSTART:20131009T163000Z
+DTEND:20131009T173000Z
+CATEGORIES:coderetreat, facilitator, training
+LOCATION:Google Plus
+WEBSITE:https://plus.google.com/events/ccloet31ucmo4250579mb0jeqco?aut
+ hkey=CKWOr42VkqTo-AE
+URL:https://plus.google.com/events/ccloet31ucmo4250579mb0jeqco?authkey
+ =CKWOr42VkqTo-AE
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

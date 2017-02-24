@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13718
+DTSTAMP:20170129T134227Z
+SUMMARY:Global Day Of Coderetreat 2012 - Bilbao / Spain
+DESCRIPTION:To celebrate the GDCR12, we will be code retreating for a 
+ full day at Bilbao.\n\nFor more information visit http://coderetreat.o
+ rg/events/global-day-of-coderetreat-2012-bilbao-spain
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Consultec (Autonomia)
+WEBSITE:http://www.eventbis.com/code-retreat-2012-bilbao
+URL:http://www.eventbis.com/code-retreat-2012-bilbao
+CONTACT:
+ORGANIZER:Jorge Uriarte, Iñaki Elcoro
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Iñaki E
+ lcoro":http://coderetreat.org/profile/ielcoro
+END:VEVENT
+END:VCALENDAR

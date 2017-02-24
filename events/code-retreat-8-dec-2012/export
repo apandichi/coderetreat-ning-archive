@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16832
+DTSTAMP:20170129T134501Z
+SUMMARY:Global Day of Coderetreat 2012 - Hanoi / Vietnam
+DESCRIPTION:Code Retreat Hanoi 8 Dec 2012\n\nFor more information visi
+ t http://coderetreat.org/events/code-retreat-8-dec-2012
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:FPT-Aptech Computer Education, 2nd Floor of D Building, insid
+ e Hacinco Student Village, Thanh Xuan District
+WEBSITE:http://hanoiscrum.net
+URL:http://hanoiscrum.net
+CONTACT:
+ORGANIZER;CN="Tan Duong":http://coderetreat.org/profile/TanDuong
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ka
+ ye":http://coderetreat.org/profile/DavidKaye
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phạm A
+ nh Đới":http://coderetreat.org/profile/PhamAnhDoi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Do Nhu V
+ y":http://coderetreat.org/profile/DoNhuVy
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Đào Th
+ ế Nam":http://coderetreat.org/profile/DaoTheNam
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nguyễn
+  Xuân Sinh":http://coderetreat.org/profile/NguyenXuanSinh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nhân Tr
+ í Vũ":http://coderetreat.org/profile/NhanTriVu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tan Duon
+ g":http://coderetreat.org/profile/TanDuong
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Khoa Ngu
+ yen Viet":http://coderetreat.org/profile/KhoaNguyenViet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tuyen Ng
+ uyen Trung":http://coderetreat.org/profile/TuyenNguyenTrung
+END:VEVENT
+END:VCALENDAR

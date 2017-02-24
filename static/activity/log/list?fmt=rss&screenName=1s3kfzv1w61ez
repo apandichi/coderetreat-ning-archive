@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Rohit Vaidya&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/RohitVaidya</link>
+        <pubDate>Sun, 29 Jan 2017 11:26:33 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:26:33 +0000</lastBuildDate>
+        <image>
+            <title>Rohit Vaidya&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/RohitVaidya</link>
+            <url>http://api.ning.com:80/files/a5kYpi8WX58b3buCBAH4rCWcNqE5JT*S2R0RDHicBMV8PEW*Afs08fTtAFpPK*iTOsubGfx6aoI3AvRbcJm-YgV94oFX2CDH/1238885478.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012b63caab2c1144c1ab3cbf1</guid>
+               <title>Rohit Vaidya posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55194?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/RohitVaidya?xg_source=activity">Rohit Vaidya</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55194?xg_source=activity">Global Day of CodeRetreat</a> at EPAM Systems Hyderabad</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">Java User Group Hyderabad celebrates Global Day of Code Retreat. This is "a day to celebrate passion and Software Craftsmanship"It's a day long event. It's a time to dojo/practice. It's a time to have some fun.  <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55194?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 27 Sep 2016 18:21:54 +0000</pubDate>
+               </item>    </channel>
+</rss>

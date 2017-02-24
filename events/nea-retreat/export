@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30903
+DTSTAMP:20170129T101902Z
+SUMMARY:Global Day of Coderetreat 2013 - Corrientes, Argentina
+DESCRIPTION:\nEl 14 de Diciembre se celebra el día mundial de los cod
+ eretreat desde ComunidadTIC, BarCampNEA, PoloIT Chaco, PoloIT Corrient
+ es, GDG Corrientes y NEAValley te queremos invitar a unirte a la inici
+ ativa.\n¿Necesito saber qué es TDD?\nNo es necesario, puedes venir a
+  aprender. Con que disfrutes con el código es suficiente!\n¿Qué deb
+ o llevar?\nUn portátil con los entornos instalados y configurados y s
+ us librerías xUnit (phpUnit, nUnit, jUnit, jasmine, rspec, qUnit...) 
+ del lenguaje que planees usar. Zapatilla, alargador.\n¡Registrate!\nE
+ s totalmente gratuito, sólo necesitas un portátil (con el software q
+ ue necesitas para tu lenguaje, o lo descargas ese mismo día) y ganas 
+ de pasarlo bien.\nPara saber cuanto espacio vamos a necesitar ¡necesi
+ tamos que te inscribas!\nhttps://eventioz.com.ar/coderetreat-corriente
+ s\n\nFor more information visit http://coderetreat.org/events/nea-retr
+ eat
+DTSTART:20131214T100000Z
+DTEND:20131214T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Universidad de la cuenca del plata
+WEBSITE:https://eventioz.com.ar/coderetreat-corrientes
+URL:https://eventioz.com.ar/coderetreat-corrientes
+CONTACT:
+ORGANIZER:Comunidad TIC, NEA Valley, PoloIT Chaco, NEAExtends, GDG Cor
+ rientes.
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/-TI4uM2ffQio7
+ fDWFlIdDjQ52V5krM7M2LEvYN*o51GOWt89saQ7KgGx3FV9ymoE8cvssrU5zpSZ0ZsE00b
+ teMfgNUplrCVb/banner2.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matias M
+ ascazzini":http://coderetreat.org/profile/MatiasMascazzini
+END:VEVENT
+END:VCALENDAR

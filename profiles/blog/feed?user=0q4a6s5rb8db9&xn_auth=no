@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Michael DiBernardo&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0q4a6s5rb8db9&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:09:58Z</updated>
+                            <author>
+                    <name>Michael DiBernardo</name>
+                    <uri>http://coderetreat.org/profile/MichaelDiBernardo</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0q4a6s5rb8db9&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Coderetreat 2012: Toronto edition</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:19775"/>
+                                        <id>tag:coderetreat.org,2012-12-11:6456126:BlogPost:19775</id>
+                                        <updated>2012-12-11T16:09:02.000Z</updated>
+                    
+                                            <author>
+                            <name>Michael DiBernardo</name>
+                            <uri>http://coderetreat.org/profile/MichaelDiBernardo</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;(originally posted at &lt;a href=&quot;http://mikedebo.ca/toronto-global-day-of-coderetreat-2012/&quot;&gt;http://mikedebo.ca/toronto-global-day-of-coderetreat-2012/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;My first coderetreat experience was in 2009. I became involved in the &lt;a href=&quot;http://scna.softwarecraftsmanship.org/&quot;&gt;Software Craftsmanship&lt;/a&gt; community through an effort called the &lt;a href=&quot;http://programmingtour.blogspot.ca/2009/07/wandering-book.html&quot;&gt;Wandering Book&lt;/a&gt;, in which a little Moleskine journal was physically…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;(originally posted at &lt;a href=&quot;http://mikedebo.ca/toronto-global-day-of-coderetreat-2012/&quot;&gt;http://mikedebo.ca/toronto-global-day-of-coderetreat-2012/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;My first coderetreat experience was in 2009. I became involved in the &lt;a href=&quot;http://scna.softwarecraftsmanship.org/&quot;&gt;Software Craftsmanship&lt;/a&gt; community through an effort called the &lt;a href=&quot;http://programmingtour.blogspot.ca/2009/07/wandering-book.html&quot;&gt;Wandering Book&lt;/a&gt;, in which a little Moleskine journal was physically mailed from member to member so that we could write out our ideas about the current state of maturity in the field, and where we were headed in the future. (I often wonder what happened to that book.)&lt;/p&gt;
+&lt;p&gt;At the time, there was a crazy fellow named &lt;a href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&lt;/a&gt; on the mailing list who was traveling from city to city, from software company to software company, never staying in one place for very long. He called himself a &quot;software journeyman&quot;, and was on a quest to improve his own skills by working with as many people and organizations as he could.&lt;/p&gt;
+&lt;p&gt;Early in 2009, &lt;a href=&quot;http://www.jbrains.ca/&quot;&gt;J.B. Rainsberger&lt;/a&gt; posted to the newsgroup stating that he and Corey would be coming to Toronto, and asking if anyone would be interested in organizing a &lt;a href=&quot;http://coderetreat.org&quot;&gt;Coderetreat&lt;/a&gt; for them to facilitate. Not having any idea what a Coderetreat was, I thought it would be a good idea to immediately agree to organize one. For the sake of brevity, I&#039;ll say that it went off without a hitch, and I was a convert.&lt;/p&gt;
+&lt;p&gt;By 2011, Coderetreat had become a global phenomenon. In celebration of this, over 1800 developers worldwide held 94 Coderetreats on the same day, which was appropriately titled the &lt;a href=&quot;http://globalday.coderetreat.org/&quot;&gt;Global Day of Coderetreat&lt;/a&gt;. Corey himself defied the constraints of time and space to facilitate_two_ Coderetreats on the Global Day, starting out in Sydney Australia and then flying to Honolulu, Hawaii to wrap up the day.&lt;/p&gt;
+&lt;p&gt;I was absent for most of this growth period, being knee-deep in startup-land from 2010 onwards. In 2012, however, I decided to get back into the Coderetreat habit. I organized a couple of events in Waterloo, and discovered the &lt;a href=&quot;http://www.meetup.com/Toronto-Code-Retreat/&quot;&gt;Toronto Coderetreat Meetup&lt;/a&gt; organized by &lt;a href=&quot;http://tazsingh.com&quot;&gt;Taz Singh&lt;/a&gt; and &lt;a href=&quot;http://kylehodgson.com/&quot;&gt;Kyle Hodgson&lt;/a&gt;. I was reading up on all the recent happenings on &lt;a href=&quot;http://coderetreat.org&quot;&gt;http://coderetreat.org&lt;/a&gt; when I discovered that the Global Day of Coderetreat was being held again, and I knew that I had to get involved.&lt;/p&gt;
+&lt;p&gt;Thus did ~70 Toronto developers converge on the &lt;a href=&quot;http://polarmobile.com&quot;&gt;Polar Mobile&lt;/a&gt; offices on Saturday, December 8th to practice their craft at GDCR 2012. The basic structure of coderetreat is simple: the day is split into several 45 minute sessions. In each session, participants select a partner and work together on a single problem, which is usually &lt;a href=&quot;http://en.wikipedia.org/wiki/Conway&#039;s_Game_of_Life&quot;&gt;Conway&#039;s Game of Life&lt;/a&gt;. The focus, however, is not on &lt;em&gt;solving&lt;/em&gt; the problem; rather, the goal is to promote learning by attempting the problem using a variety of different techniques or constraints.&lt;/p&gt;
+&lt;p&gt;Since developers tend to be very goal-focused individuals, there is an additional technique we use to ensure that everyone is starting afresh every session: At the end of each 45-minute segment, you must &lt;em&gt;throw away&lt;/em&gt; the code you have just written.&lt;/p&gt;
+&lt;p&gt;This simple structure -- working in 45-minute sessions, in pairs, and throwing away the code each time -- opens up all sorts of interesting possibilties for learning. I saw one pair attempt to solve the problem using Excel, for example. Several other pairs worked under some suggested constraints, such as &quot;don&#039;t use conditionals,&quot; or &quot;no getters and setters&quot;. Our entire group attempted the &quot;evil mute&quot; constraint in the fourth session of the day, where you aren&#039;t allowed to talk to your partner at all.&lt;/p&gt;
+&lt;p&gt;It was inspiring (and hilarious) to read the tweets throughout the day from coderetreats running all over the globe. However, while the global aspect of GDCR is exciting, it is the &lt;em&gt;local&lt;/em&gt; effect on our community that I find the most exciting. Several of our attendees left GDCR 2012 saying that they were going to organize coderetreats internally at their own organizations as soon as they got to the office on Monday, and that to me is the very best part of all of this.&lt;/p&gt;
+&lt;p&gt;Of course, none of this would have been possible without the support of our facilitators and sponsors. We had a couple of very experienced facilitators as well as a few newbies, and they did a fantastic job in challenging participants to work outside of their comfort zone and learn new things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://valuablecode.com/&quot;&gt;Alistair McKinnell&lt;/a&gt;, who I met at my very first code retreat in 2009&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tazsingh.com&quot;&gt;Taz Singh&lt;/a&gt;, co-organizer of the Toronto Coderetreat meetup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.danntoliver.com/&quot;&gt;Dann Toliver&lt;/a&gt;, of &lt;a href=&quot;http://bentobox.net/&quot;&gt;Bento Box&lt;/a&gt; and &lt;a href=&quot;http://bentomiso.com/&quot;&gt;Bento Miso&lt;/a&gt; fame&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://siraj.berhan.ca/&quot;&gt;Siraj Berhan&lt;/a&gt;, XP coach and Agile champion&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shradhagaikwad.com/&quot;&gt;Shradha Gaikwad&lt;/a&gt;, a budding entrepeneur and Pythonista&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can&#039;t host this many developers for a whole day without some financial support, and we couldn&#039;t have asked for better sponsors than &lt;a href=&quot;https://www.guidewire.com/&quot;&gt;Guidewire&lt;/a&gt; and &lt;a href=&quot;http://polarmobile.com&quot;&gt;Polar Mobile&lt;/a&gt;. Guidewire provided the funding for coffee and lunch, and Polar Mobile gave us access to their incredible office space. We had almost 70 people in there and it felt like we could have easily fit twice that number!&lt;/p&gt;
+&lt;p&gt;My favorite thing about our sponors is that they didn&#039;t just get involved financially -- they both had developers there on the ground participating in the event! Guidewire developers have been attending coderetreat since the very early days, while Polar is new and enthusiastic arrival to the coderetreat scene. I am looking forward to seeing more of both of them at future events!&lt;/p&gt;
+&lt;p&gt;As it stands so far, it looks like we were one head short of being the biggest code retreat in the world at GDCR 2012 (edged out slightly by our inexhaustible Romanian comrades). Let&#039;s see if we claim that honor at GDCR 2013, shall we?&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

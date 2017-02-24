@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Sven&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/Sven</link>
+        <pubDate>Sun, 29 Jan 2017 11:29:37 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:29:37 +0000</lastBuildDate>
+        <image>
+            <title>Sven&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/Sven</link>
+            <url>http://api.ning.com:80/files/t3ZSopUVDgauK0v7GM9VVE9-fXlmi4SsKPgNeErKJBh1yllHCTwfGD27XhQmuTQCrjZpou4kGW-4*8DkCpM93RhExyMU3H6P/1124104079.jpeg?xgip=0%3A0%3A374%3A374%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ad710a658b972d11d6cec24</guid>
+               <title>Sven updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:53830?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Sven?xg_source=activity">Sven</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:53830?xg_source=activity">Global Day of Code Retreat 2016 - Frankfurt, Germany</a> at itemis AG, Westendstra&szlig;e 28, 60325 Frankfurt am Main</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div><div class="rich-excerpt">Global Day of Code Retreat 2016Anmeldung: <a href="https://www.eventbrite.de/e/global-day-of-coderetreat-in-frankfurt-tickets-27930229067" target="_blank">https://www.eventbrite.de/e/global-day-of-coderetreat-in-frankfurt-tickets-27930229067</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:53830?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 28 Sep 2016 10:12:57 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ad710a649f60d383d1852dc</guid>
+               <title>Sven posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:53830?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Sven?xg_source=activity">Sven</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:53830?xg_source=activity">Global Day of Code Retreat 2016</a> at itemis AG, Westendstra&szlig;e 28, 60325 Frankfurt am Main</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div><div class="rich-excerpt">Global Day of Code Retreat 2016Anmeldung: <a href="https://www.eventbrite.de/e/global-day-of-coderetreat-in-frankfurt-tickets-27930229067" target="_blank">https://www.eventbrite.de/e/global-day-of-coderetreat-in-frankfurt-tickets-27930229067</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:53830?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 07 Jul 2016 11:59:20 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ad710a6bda34c45428ce896</guid>
+               <title>Sven posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:44632?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Sven?xg_source=activity">Sven</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:44632?xg_source=activity">Coderetreat Frankfurt am Main</a> at Die Zentrale</h3><div class="rich-detail"><div class="rich-date">July 4, 2015 from 9am to 5pm</div><div class="rich-excerpt">Anmeldung/Registration: <a href="https://www.xing.com/events/code-retreat-workshop-frankfurt-1564912">https://www.xing.com/events/code-retreat-workshop-frankfurt-1564912</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:44632?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 02 Jun 2015 18:07:30 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ad710a6eb858828c26705a2</guid>
+               <title>Sven is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/Sven?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Sven?xg_source=activity">Sven</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Thu, 14 Jun 2012 13:01:33 +0000</pubDate>
+               </item>    </channel>
+</rss>

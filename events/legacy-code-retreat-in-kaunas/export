@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:42554
+DTSTAMP:20170129T100141Z
+SUMMARY:Legacy code retreat in Kaunas
+DESCRIPTION:A free-of-charge whole-day workshop for developers based o
+ n the well-known Code Retreat format, only this time with an additiona
+ l twist - we'll be working on someone's already written code.\nPartici
+ pants will get their hands dirty in some old, messy, organically grown
+ , hard to understand implementation of a game in the chosen programmin
+ g language. The task is: using tests and best practices, raise the qua
+ lity of code step by step without breaking existing behavior. The leg
+ acy code has versions in Java, C#, Python, Ruby, C++, JavaScript and o
+ ther languages - see https://github.com/jbrains/trivia\nParticipants w
+ ill need to have laptop computers with prepared development environmen
+ ts. Number of seats are limited. You should also indicate your program
+ ming language of choice + what other languages you know (it may be nec
+ essary as we'll work in pairs).\n \nTickets   https://www.eventbrite
+ .com/e/legacy-code-retreat-tickets-15489541636http://\n\nFor more info
+ rmation visit http://coderetreat.org/events/legacy-code-retreat-in-kau
+ nas
+DTSTART:20150228T000000Z
+DTEND:20150228T235900Z
+CATEGORIES:legacy, code, retreat
+LOCATION:Intermedix
+WEBSITE:
+URL:
+CONTACT:861237238
+ORGANIZER:Austėja Karalevičiutė, Osvaldas Grigas, Vytautas Dagilis,
+  Vaidas Pilkauskas, Adomas Greičius
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adomas G
+ reicius":http://coderetreat.org/profile/AdomasGreicius
+END:VEVENT
+END:VCALENDAR

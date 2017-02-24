@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:32601
+DTSTAMP:20170129T113408Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:Please RSVP here! \n\nThis training is for facilitators. A
+ nybody interested in facilitating a coderetreat is invited to attend a
+ t least one training session. This training will be delivered online o
+ n Google Plus Hangouts. Make sure you will be online five minutes befo
+ re the training starts.\nThis year we will have several types of train
+ ings for Global Day of Coderetreat hosts and facilitators.\nThe job of
+  the host is to make sure the coderetreat runs smoothly by making sure
+  everything is arranged. Hosts find a venue with all the necessary equ
+ ipment, find a company to sponsor lunch, give away the prizes at the e
+ nd of the day, organize video chats with other locations, etc.\nThe jo
+ b of the facilitator is to help participants learn from each other. Fa
+ cilitators understand the coderetreat format, choose and explain the c
+ onstraints, and try to keep a learning atmosphere during the day\n \n
+ Important: All the times are in UTC. Do one of the following to view t
+ raining times in your time zone:\n\nAdd the GDCR Calendar to your Goog
+ le Calendar account\nUse this tool to convert the time from UTC to you
+ r time zone\nFind your time below in one of these common time zones:\n
+ \n12/13 07:00 AM UTC-8 America/Los_Angeles (PST)\n12/13 08:00 AM UTC-7
+  America/Denver (MST)\n12/13 09:00 AM UTC-6 America/Chicago (CST)\n12/
+ 13 10:00 AM UTC-5 America/New_York (EST)\n12/13 04:00 PM UTC+1 Europe/
+ Paris (CET)\n12/13 05:00 PM UTC+2 Europe/Bucharest (EET)\n12/13 05:00 
+ PM UTC+2 Africa/Johannesburg (CAT)\n12/13 06:00 PM UTC+3 Europe/Moscow
+  (MSK)\n12/13 08:30 PM UTC+5.5 Asia/Kolkata (IST)\n12/13 11:00 PM UTC+
+ 8 Asia/Shanghai (ACT)\n12/14 12:00 AM UTC+9 Asia/Tokyo (JST)\n12/14 02
+ :00 AM UTC+11 Australia/Sydney (AEDT)\n12/14 04:00 AM UTC+13 Pacific/A
+ uckland (NZDT)\n\n\nFor more information visit http://coderetreat.org/
+ events/facilitator-training-session-12
+DTSTART:20131213T150000Z
+DTEND:20131213T160000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/events/cljhqkbs52ivkg7sfu9i71amejs
+WEBSITE:https://plus.google.com/events/cljhqkbs52ivkg7sfu9i71amejs
+URL:https://plus.google.com/events/cljhqkbs52ivkg7sfu9i71amejs
+CONTACT:+27828297212
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

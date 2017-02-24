@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46922
+DTSTAMP:20170129T121425Z
+SUMMARY:Global Day of Coderetreat 2015 - Melbourne, Australia
+DESCRIPTION:Global Day of Coderetreat 2015 in Melbourne\nSponsor: rea
+ lestate.com.au\nAddress: 511 Church St, Richmond, VIC 3121\nStart: 8AM
+ \nRegistration open on Eventbrite\nhttps://www.eventbrite.com.au/e/glo
+ bal-day-of-coderetreat-melbourne-2015-tickets-19056859580\nThe $10 dep
+ osit will be refunded when you arrive at the venue for the event.\nWe 
+ made the tickets paid to minimise last minute cancellations & help us 
+ more accurately forecast the numbers. The tickets costs will be refund
+ ed (with an exception of $1.24 Eventbrite fee) to all who attend the e
+ vent. If you have to cancel, we will refund the ticket cost if you not
+ ify us by at least one week prior to the event.\n \n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 15
+DTSTART:20151114T080000Z
+DTEND:20151114T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:REA Group
+WEBSITE:http://www.rea-group.com/
+URL:http://www.rea-group.com/
+CONTACT:
+ORGANIZER:Greg Dziemidowicz, Tomasz Janowski, Supriya Joshi, Ilya Pari
+ psa
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/dy3vmM5JGAPc5
+ wpN1RzEHKAAqrN3LyYDf73uvpePym2fFO24Vy6x86qzQqwlirC2juZYkBCTOCgA5InakIi
+ ft7r0LnzNsJTS/436921737_2c8d15501b.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tomasz J
+ anowski":http://coderetreat.org/profile/TomaszJanowski
+END:VEVENT
+END:VCALENDAR

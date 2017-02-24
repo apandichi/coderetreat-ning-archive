@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15958
+DTSTAMP:20170129T134452Z
+SUMMARY:Global Day of Coderetreat 2012 - Kraków / Poland
+DESCRIPTION:Come and join us for the Kraków's edition of Global Day o
+ f Coderetreat.\nYou will find all of the details and the registration 
+ link here:\nhttp://coderetreat.sckrk.com/\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-in-krak-w-20
+ 12
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:ABB Information Systems Delivery Center, Pałac Pugetów, Sal
+ a C++,
+WEBSITE:https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&t=h&msid=2
+ 12171201882259476616.00049de683b5ce984a3b0&ll=50.057635,19.944203&spn=
+ 0.002941,0.008256&source=embed
+URL:https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&t=h&msid=21217
+ 1201882259476616.00049de683b5ce984a3b0&ll=50.057635,19.944203&spn=0.00
+ 2941,0.008256&source=embed
+CONTACT:
+ORGANIZER;CN="Adam Pohorecki":http://coderetreat.org/profile/AdamPohor
+ ecki
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Poh
+ orecki":http://coderetreat.org/profile/AdamPohorecki
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:52958
+DTSTAMP:20170129T122907Z
+SUMMARY:Coderetreat in Jena, Germany
+DESCRIPTION:We will facilitate a coding dojo consisting of a Codere
+ treat with 5 rounds and 1 hour of lighting talks with demos on TDD�
+ �concepts upfront, e.g. Unit testing with mock objects.\nAfter the tal
+ ks, there will be 3 groups in 3 rooms (with different katas, set of c
+ onstraints/skill levels, facilitators/tutors).\n\n2 Groups with Game 
+ of Life Kata: 2 Rounds before lunch and 3 Rounds after lunch, Pair Pro
+ gramming as usual.\n1 Group with Refractoring Kata: 2 Rounds until lun
+ ch for Beginners, MOB Programming via Beamer.\n\nFeel free to also sig
+ n up for the event at the Meetup or the Softwerkskammer platform.\n\
+ nFor more information visit http://coderetreat.org/events/coderetreat-
+ in-jena-germany
+DTSTART:20160521T091500Z
+DTEND:20160521T180000Z
+CATEGORIES:coderetreat, softwerkskammer
+LOCATION:Offices of ePages GmbH (Top Floor)
+WEBSITE:https://www.google.de/maps/place/Heinrich-Heine-Stra%C3%9Fe+1,
+ +07749+Jena/data=!4m2!3m1!1s0x47a6a8a8923ccc2f:0xe9ec0b246c1ccfe8?sa=X
+ &ved=
+URL:https://www.google.de/maps/place/Heinrich-Heine-Stra%C3%9Fe+1,+077
+ 49+Jena/data=!4m2!3m1!1s0x47a6a8a8923ccc2f:0xe9ec0b246c1ccfe8?sa=X&ved
+ =
+CONTACT:
+ORGANIZER;CN="Benjamin Nothdurft":http://coderetreat.org/profile/Benja
+ minNothdurft
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/it-PIxk6ICh2W
+ R9JgE2gYTx6GAuPCzC7tZQkSww9JAUY8FvdRyJeNSNz8*NAkir8*PLIQKXXr0yd0YFE0Pw
+ 1gFgpH96EkVyJ/Softwerkskammer_border.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Benjamin
+  Nothdurft":http://coderetreat.org/profile/BenjaminNothdurft
+END:VEVENT
+END:VCALENDAR

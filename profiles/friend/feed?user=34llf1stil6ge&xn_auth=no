@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=34llf1stil6ge&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:35:05Z</updated>
+                            <author>
+                    <name>Yuriy Mysak</name>
+                    <uri>http://coderetreat.org/profile/YuriyMysak</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/Vkr5AOZtf8JShb5udma13YgzdY-11ArYrlOeAt6Ol*v67-lZLAupdQbnvy1yfzX*zzodNtW92ajRkEpE4GXHJ9Pa6ZqTDMY0/1046515165.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=34llf1stil6ge&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Taras Budurovych</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/TarasBudurovych"/>
+                                        <id>tag:coderetreat.org,2013-09-04:6456126:User:26300</id>
+                                        <updated>2013-09-04T14:55:50.370Z</updated>
+                    
+                                            <author>
+                            <name>Yuriy Mysak</name>
+                            <uri>http://coderetreat.org/profile/YuriyMysak</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/GZDzX3ZqtQ7J38miL6N-o-k7zzX7kvYyaZbnkvrZAuiRqKCJ2zhdwfLrAOA7k5cdFxGFPCkQeiJt8**qC63jWpA8SnFrhLE1/1045823756.jpeg?xgip=829%3A0%3A1507%3A1507%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Taras Budurovych&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/GZDzX3ZqtQ7J38miL6N-o-k7zzX7kvYyaZbnkvrZAuiRqKCJ2zhdwfLrAOA7k5cdFxGFPCkQeiJt8**qC63jWpA8SnFrhLE1/1045823756.jpeg?xgip=829%3A0%3A1507%3A1507%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Taras Budurovych&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45051
+DTSTAMP:20170129T121113Z
+SUMMARY:Global Day of Coderetreat 2015 - Barcelona, Spain
+DESCRIPTION:One more year, at Barcelona we will participate in the GDC
+ R. We will add details about venue as dates get closer.\nYou can found
+  all info and register at http://www.meetup.com/Agile-Barcelona-Meetu
+ p/events/225735623/\n\nFor more information visit http://coderetreat.o
+ rg/events/global-day-of-coderetreat-2015-barcelona-spain
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Magento Commerce
+WEBSITE:https://www.google.com/maps?f=q&hl=en&q=Llacuna+56-70+-+Buildi
+ ng+A,+1st+floor.,+Barcelona,+es
+URL:https://www.google.com/maps?f=q&hl=en&q=Llacuna+56-70+-+Building+A
+ ,+1st+floor.,+Barcelona,+es
+CONTACT:
+ORGANIZER;CN="Jaume Jornet":http://coderetreat.org/profile/JaumeJornet
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaume Jo
+ rnet":http://coderetreat.org/profile/JaumeJornet
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37315
+DTSTAMP:20170129T120131Z
+SUMMARY:Global Day of Coderetreat 2014 - Des Moines, IA, USA
+DESCRIPTION:Global Day of Code Retreat - Complements of Pillar Technol
+ ogy.\nPlease register here\n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-2014-des-moines-ia
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Courtyard Des Moines West/Clive
+WEBSITE:https://www.google.com/maps/place/Courtyard+Des+Moines+West%2F
+ Clive,+1520+NW+114th+St,+Clive,+IA+50325/@41.603936,-93.775163,17z/dat
+ a=!4m2!3m1!1s0x87ec20dca08d71af:0xc4028e2798d42085
+URL:https://www.google.com/maps/place/Courtyard+Des+Moines+West%2FCliv
+ e,+1520+NW+114th+St,+Clive,+IA+50325/@41.603936,-93.775163,17z/data=!4
+ m2!3m1!1s0x87ec20dca08d71af:0xc4028e2798d42085
+CONTACT:
+ORGANIZER;CN="Kevin Knowles":http://coderetreat.org/profile/KevinKnowl
+ es
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Kn
+ owles":http://coderetreat.org/profile/KevinKnowles
+END:VEVENT
+END:VCALENDAR

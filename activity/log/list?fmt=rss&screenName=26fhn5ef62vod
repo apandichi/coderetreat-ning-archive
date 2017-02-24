@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jason Waack&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JasonWaack</link>
+        <pubDate>Sun, 29 Jan 2017 12:33:06 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:33:06 +0000</lastBuildDate>
+        <image>
+            <title>Jason Waack&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JasonWaack</link>
+            <url>http://api.ning.com:80/files/o5iH05zeIO68EsHTJjtp21Hug9sbUVMhoCep9mn*yuHhK*HIoswqjOyYmm96Rf1vSZmt7*NAxfEDZQBMrDHOtNgxVq93KS9E/867407804.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b013422b1eea138fb5b479a</guid>
+               <title>Jason Waack might attend Jeff Hoover&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:10495?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JasonWaack?xg_source=activity">Jason Waack</a> might attend <a href="http://coderetreat.org/profile/JeffHoover?xg_source=activity">Jeff Hoover's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:10495?xg_source=activity">Code Retreat at the Forge</a> at The Forge, at the Northern Brewery building</h3><div class="rich-detail"><div class="rich-date">August 11, 2012 from 9am to 4pm</div><div class="rich-excerpt">All software developers are invited to join Pillar at our new Ann Arbor facility, the Forge, located in the historic Northern Brewery building for a day of software development practice. There is no charge, and the day includes continental breakfast and a nice lunch.If possible, bring a laptop with your favorite software development tools. If you can't bring one, don't worry - we'll be pair programming so you will be able to work on someone else's computer.Read more about the Forge <a href="http://blog.jhoover.com/2012/03/what-is-forge-by-pillar.html" target="_blank">here</a> or follow it at <a href="https://twitter.com/forgea2" target="_blank">@forgea2</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:10495?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 20 Jul 2012 18:55:41 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b0134229892d35029a836bc</guid>
+               <title>Jason Waack is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/JasonWaack?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JasonWaack?xg_source=activity">Jason Waack</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Fri, 20 Jul 2012 18:55:11 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29024
+DTSTAMP:20170129T115435Z
+SUMMARY:Global Day of Coderetreat 2013 - Gdansk, Poland
+DESCRIPTION:Global Day of Coderetreat 2013 - Gdansk, Poland Hosted by 
+ Spartez, organised by http://trojmiasto.jug.pl\n\nFor more information
+  visit http://coderetreat.org/events/global-day-of-coderetreat-2013-gd
+ ansk-poland
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Spartez
+WEBSITE:http://trojmiasto.jug.pl
+URL:http://trojmiasto.jug.pl
+CONTACT:
+ORGANIZER;CN="Kuba Marchwicki":http://coderetreat.org/profile/KubaMarc
+ hwicki
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kuba Mar
+ chwicki":http://coderetreat.org/profile/KubaMarchwicki
+END:VEVENT
+END:VCALENDAR

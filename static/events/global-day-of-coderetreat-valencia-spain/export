@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13063
+DTSTAMP:20170129T134146Z
+SUMMARY:Global Day of Coderetreat 2012 - Valencia / Spain
+DESCRIPTION:Global Day of CodeRetreat held in Valencia, Spain\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-valencia-spain
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:peerTransfer Offices
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN=Emma:http://coderetreat.org/profile/Emma
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Emma:http
+ ://coderetreat.org/profile/Emma
+END:VEVENT
+END:VCALENDAR

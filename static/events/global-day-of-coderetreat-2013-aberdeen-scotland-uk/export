@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27622
+DTSTAMP:20170129T115851Z
+SUMMARY:Global Day of Coderetreat 2013 - Aberdeen, Scotland, UK
+DESCRIPTION:As part of the Global Day of Coderetreat we are holding 
+ a Coderetreat at the University of Aberdeen, Scotland on the 14th of D
+ ecember 2013.\nYou can sign up for the event on Eventbrite\n\nFor mor
+ e information visit http://coderetreat.org/events/global-day-of-codere
+ treat-2013-aberdeen-scotland-uk
+DTSTART:20131214T083000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Meston Building, University of Aberdeen
+WEBSITE:http://goo.gl/maps/P7ZCm
+URL:http://goo.gl/maps/P7ZCm
+CONTACT:+44 (0)1224 272193
+ORGANIZER;CN="Bruce Scharlau":http://coderetreat.org/profile/BruceScha
+ rlau
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bruce Sc
+ harlau":http://coderetreat.org/profile/BruceScharlau
+END:VEVENT
+END:VCALENDAR

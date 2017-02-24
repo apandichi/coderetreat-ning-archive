@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Navin K&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3e71zpxzuyuxk&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:12:11Z</updated>
+                            <author>
+                    <name>Navin K</name>
+                    <uri>http://coderetreat.org/profile/NavinK</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/8LZ1HLgJWwpiodN60xVUV-PPqZvJX-PmixQ9Lgz2VKry90s9Vje80Jc**VbjqzoaSsKmfJP2JxtMiVR7szcwLrSxkO2rFgMn/593470802.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3e71zpxzuyuxk&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Simple Design</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4558"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:BlogPost:4558</id>
+                                        <updated>2011-12-04T22:48:44.000Z</updated>
+                    
+                                            <author>
+                            <name>Navin K</name>
+                            <uri>http://coderetreat.org/profile/NavinK</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Cross post from my blog - original at &lt;a href=&quot;http://novemberkilo.com/2011/12/principle-of-simple-design/&quot;&gt;http://novemberkilo.com/2011/12/principle-of-simple-design/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yesterday I attended the &lt;a href=&quot;http://coderetreat.org/events/global-day-of-coderetreat-2011&quot;&gt;&lt;em&gt;Global Day of Code Retreat, 2011&lt;/em&gt;&lt;/a&gt; in Sydney. We were incredibly privileged to have the creator of Code Retreat, &lt;a href=&quot;http://twitter.com/coreyhaines&quot;&gt;Corey Haines&lt;/a&gt; facilitating.&lt;/p&gt;
+&lt;p&gt;I found the…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Cross post from my blog - original at &lt;a href=&quot;http://novemberkilo.com/2011/12/principle-of-simple-design/&quot;&gt;http://novemberkilo.com/2011/12/principle-of-simple-design/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yesterday I attended the &lt;a href=&quot;http://coderetreat.org/events/global-day-of-coderetreat-2011&quot;&gt;&lt;em&gt;Global Day of Code Retreat, 2011&lt;/em&gt;&lt;/a&gt; in Sydney. We were incredibly privileged to have the creator of Code Retreat, &lt;a href=&quot;http://twitter.com/coreyhaines&quot;&gt;Corey Haines&lt;/a&gt; facilitating.&lt;/p&gt;
+&lt;p&gt;I found the experience to be really very profound and recommend it without reserve to developers of all levels.&lt;/p&gt;
+&lt;p&gt;Here are some of the things I took from the day:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My C++/RUP based thinking of OO really needs a makeover&lt;/li&gt;
+&lt;li&gt;I thought I was practising Test Driven Development (TDD) but I now see how narrow my understanding of TDD was. The &lt;em&gt;evil coder&lt;/em&gt; or &lt;em&gt;Mute with Find the Loophole&lt;/em&gt; session of the retreat was simultaneously hilarious, frustrating and enlightening on how well tests actually serve as a specification for code&lt;/li&gt;
+&lt;li&gt;The principles of &lt;em&gt;Simple Design&lt;/em&gt; (attributed to the best of my knowledge to Kent Beck and Ron Jeffries in the Extreme Programming book)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’ve come across each of the 4 principles of simple design but when I heard Corey talk through them in sequence, it really made a difference to the way I understand them. I know that this understanding will change as I practice with them and I will not remember them as well when I am in the thick of the work day, so I’m writing them down here as a note to self:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Runs all the tests&lt;/li&gt;
+&lt;li&gt;Expresses every idea that we need to express&lt;/li&gt;
+&lt;li&gt;Says everything once and only once&lt;/li&gt;
+&lt;li&gt;Has no superfluous parts&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I look forward to practicing the principles I learned at code retreat. I have no doubt that I have had a step change in my perspective as a programmer - more power to Corey’s efforts at &lt;a href=&quot;http://coderetreat.org/&quot;&gt;coderetreat.org&lt;/a&gt; I say!&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

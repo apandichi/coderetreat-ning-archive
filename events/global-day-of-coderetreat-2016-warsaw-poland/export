@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55281
+DTSTAMP:20170129T105012Z
+SUMMARY:Global Day of Coderetreat 2016 - Warsaw, Poland
+DESCRIPTION:Global Day of Coderetreat 2015 - Warsaw, Poland, co-hosted
+  with Stacja IT.\nOrganized by Pragmatists and Sages.\n\nFor more in
+ formation visit http://coderetreat.org/events/global-day-of-coderetrea
+ t-2016-warsaw-poland
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Sages Sp. z o.o.
+WEBSITE:http://www.stacja.it/warsztaty/2016-10-22-Global-Day-of-Codere
+ treat-2016.html
+URL:http://www.stacja.it/warsztaty/2016-10-22-Global-Day-of-Coderetrea
+ t-2016.html
+CONTACT:
+ORGANIZER;CN="Stacja IT":http://coderetreat.org/profile/StacjaIT
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stacja I
+ T":http://coderetreat.org/profile/StacjaIT
+END:VEVENT
+END:VCALENDAR

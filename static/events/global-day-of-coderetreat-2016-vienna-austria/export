@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55069
+DTSTAMP:20170129T113101Z
+SUMMARY:Global Day of Coderetreat 2016 - Vienna, Austria
+DESCRIPTION:Proud to be hosting the Global Day of Coderetreat 2016.\nF
+ acilitation:\n\nHoussam Fakih (@houssamfakih, Paris)\nPeter \"CodeCop\
+ " Kofler (@codecopkofler, Vienna)\n\nPlease register here: https://www
+ .eventbrite.de/e/global-day-of-coderetreat-2016-vienna-austria-22-octo
+ ber-2016-tickets-28042883018\n\nFor more information visit http://code
+ retreat.org/events/global-day-of-coderetreat-2016-vienna-austria
+DTSTART:20161022T090000Z
+DTEND:20161022T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:TechTalk GmbH
+WEBSITE:http://techtalk.at/
+URL:http://techtalk.at/
+CONTACT:+4369914020045
+ORGANIZER;CN="Paul Rohorzka":http://coderetreat.org/profile/PaulRohorz
+ ka
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/rOQH5ikNACAYE
+ e0EaorJ62XYS62JbC11VFRkVFWkTgAzgsob*QMSGjkoggkhoBcv*zLbrRAy6vCiU34XT4J
+ GF6DyAKr8u*o9/PairWithFacilitator.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Houssam 
+ Fakih":http://coderetreat.org/profile/HoussamFakih
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Roh
+ orzka":http://coderetreat.org/profile/PaulRohorzka
+END:VEVENT
+END:VCALENDAR

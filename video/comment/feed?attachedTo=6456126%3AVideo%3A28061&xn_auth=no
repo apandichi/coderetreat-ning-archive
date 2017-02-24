@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Optimus Sez: Delete Your Code! - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/video/comment/feed?attachedTo=6456126%3AVideo%3A28061&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:54:18Z</updated>
+                        <id>http://coderetreat.org/video/comment/feed?attachedTo=6456126%3AVideo%3A28061&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I was afraid that would be th…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27981"/>
+                                        <id>tag:coderetreat.org,2013-10-24:6456126:Comment:27981</id>
+                                        <updated>2013-10-24T15:49:08.199Z</updated>
+                    
+                                            <author>
+                            <name>Ken Taylor</name>
+                            <uri>http://coderetreat.org/profile/KenTaylor</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I was afraid that would be the case (which is why I have the banner at the end of the video) -- I used the mic in the helmet when I should have just used the iMove effect on the voice. Live and learn! :)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I was afraid that would be the case (which is why I have the banner at the end of the video) -- I used the mic in the helmet when I should have just used the iMove effect on the voice. Live and learn! :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Cool. Its a bit hard to under…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:28234"/>
+                                        <id>tag:coderetreat.org,2013-10-24:6456126:Comment:28234</id>
+                                        <updated>2013-10-24T15:14:48.679Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Cool. Its a bit hard to understand what is said though.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Cool. Its a bit hard to understand what is said though.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thanks! I think the chiptune…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27970"/>
+                                        <id>tag:coderetreat.org,2013-10-24:6456126:Comment:27970</id>
+                                        <updated>2013-10-24T00:11:09.533Z</updated>
+                    
+                                            <author>
+                            <name>Ken Taylor</name>
+                            <uri>http://coderetreat.org/profile/KenTaylor</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        Thanks! I think the chiptune adds to it. :)                    </summary>
+
+                                            <content type="html">
+                            Thanks! I think the chiptune adds to it. :)                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Great video. I love the reto…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27968"/>
+                                        <id>tag:coderetreat.org,2013-10-24:6456126:Comment:27968</id>
+                                        <updated>2013-10-24T00:09:53.978Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Great video. I love the reto midi music!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Great video. I love the reto midi music!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

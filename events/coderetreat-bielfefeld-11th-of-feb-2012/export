@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8098
+DTSTAMP:20170129T140448Z
+SUMMARY:Coderetreat Bielefeld 11th of Feb 2012
+DESCRIPTION:\nplease register via : http://coderetreat-bielefeld.de\n\
+ nFor more information visit http://coderetreat.org/events/coderetreat-
+ bielfefeld-11th-of-feb-2012
+DTSTART:20120211T090000Z
+DTEND:20120211T170000Z
+CATEGORIES:coderetreat
+LOCATION:Technologiezentrum Bielefeld
+WEBSITE:http://coderetreat-bielefeld.de
+URL:http://coderetreat-bielefeld.de
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/sB6z14CQQipA7
+ VQHtxnxnjPcngtGAvFhFUWTrOuW5R4*pDyJqTwEEfeHowJQzVWz0ZJKfCkQUEgVdziNFmA
+ E2neu3oCepDy6/200pxWappen_Bielefeld_reasonably_small.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

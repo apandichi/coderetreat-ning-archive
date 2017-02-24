@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26204
+DTSTAMP:20170129T124733Z
+SUMMARY:Coderetreat Turku
+DESCRIPTION:First coderetreat of the autumn in Turku. \nWelcome to ho
+ ne our craft for a day-long fun.\n\nFor more information visit http://
+ coderetreat.org/events/coderetreat-turku-1
+DTSTART:20130928T000000Z
+DTEND:20130928T235900Z
+CATEGORIES:coderetreat
+LOCATION:Boost Turku startup farm
+WEBSITE:
+URL:
+CONTACT:+358 50 341 5620
+ORGANIZER;CN="Aki Salmi":http://coderetreat.org/profile/AkiSalmi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

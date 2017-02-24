@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Dalibor Nasevic&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0uhpf97kb52oe&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:27:11Z</updated>
+                            <author>
+                    <name>Dalibor Nasevic</name>
+                    <uri>http://coderetreat.org/profile/DaliborNasevic</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/Vwc9YSHjxM7wHKKjGfnGsl*Z3TTm3*UMMU5XTzPCkppYnHsEyUNVjwYpcYvsutLz9xTPGCG*bW0d-ZzfgHGlMQKQFNdE-kLe/1150678038.jpeg?xgip=0%3A0%3A598%3A598%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0uhpf97kb52oe&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Notes from Global Day of Coderetreat 2012 - Skopje (Macedonia)</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:20310"/>
+                                        <id>tag:coderetreat.org,2012-12-16:6456126:BlogPost:20310</id>
+                                        <updated>2012-12-16T22:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Dalibor Nasevic</name>
+                            <uri>http://coderetreat.org/profile/DaliborNasevic</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;You can find the original blog post &lt;a href=&quot;http://dalibornasevic.com/posts/36-global-day-of-coderetreat-2012-skopje-macedonia&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Last Saturday I hosted and facilitated &lt;a href=&quot;http://coderetreat.org/events/global-day-of-coderetreat-2012-skopje-macedonia&quot; title=&quot;Global Day Of Coderetreat event in Skopje (Macedonia)&quot;&gt;Global Day Of Coderetreat event in Skopje (Macedonia)&lt;/a&gt;. It is second year I&#039;m doing that, you can read the notes from last year here …&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;You can find the original blog post &lt;a href=&quot;http://dalibornasevic.com/posts/36-global-day-of-coderetreat-2012-skopje-macedonia&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Last Saturday I hosted and facilitated &lt;a href=&quot;http://coderetreat.org/events/global-day-of-coderetreat-2012-skopje-macedonia&quot; title=&quot;Global Day Of Coderetreat event in Skopje (Macedonia)&quot;&gt;Global Day Of Coderetreat event in Skopje (Macedonia)&lt;/a&gt;. It is second year I&#039;m doing that, you can read the notes from last year here &lt;a href=&quot;http://dalibornasevic.com/posts/31-global-day-of-coderetreat-in-skopje-macedonia&quot; title=&quot;Global Day of Coderetreat 2011 Skopje (Macedonia)&quot;&gt;GDCR 2011&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://dalibornasevic.com/system/attachments/5/original/coderetreat_skopje_2012.png&quot; title=&quot;Global Day Of Coderetreat T-shirt design&quot; alt=&quot;Global Day Of Coderetreat T-shirt design&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;At GDCR 2012 we had 10 participants at out event that were challenged to work outside of their comfort zone and learn new things. They had a great time pair programming with their fellow developers, practicing TDD and writing code that respects the &lt;a href=&quot;http://c2.com/cgi/wiki?XpSimplicityRules&quot; title=&quot;4 rules of simple design&quot;&gt;4 rules of simple design&lt;/a&gt;. They worked in few different languages like: Ruby, Python, Javascript, Coffeescript and C. Here are some &lt;a href=&quot;http://coderetreat.org/photo/albums/global-day-of-coderetreat-2012-skopje-macedonia&quot; title=&quot;Photos from Global Day Of Coderetreat 2012 - Skopje (Macedonia)&quot;&gt;photos&lt;/a&gt; from the event.&lt;/p&gt;
+&lt;p&gt;I would like to thank all &lt;a href=&quot;http://coderetreat.org/events/global-day-of-coderetreat-2012-skopje-macedonia&quot; title=&quot;GDRC 2012 Skopje (Macedonia) participants&quot;&gt;participants&lt;/a&gt; for attending the event, companies: &lt;a href=&quot;http://siyelo.com/&quot; title=&quot;Siyelo&quot;&gt;Siyelo&lt;/a&gt;, &lt;a href=&quot;http://www.ever-near.com/&quot; title=&quot;Ever Near&quot;&gt;Ever Near&lt;/a&gt; and &lt;a href=&quot;http://www.novp.com/&quot; title=&quot;NOVP&quot;&gt;NOVP&lt;/a&gt; for sponsoring lunch, T-shirts and hardware for &lt;a href=&quot;http://b10g.spodeli.org/&quot; title=&quot;Hacklab KIKA Blog&quot;&gt;Hacklab KIKA&lt;/a&gt; where the event was organized.&lt;/p&gt;
+&lt;p&gt;Also I would like to thank &lt;a href=&quot;https://twitter.com/coreyhaines&quot; title=&quot;Corey Haines&quot;&gt;Corey Haines&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jthurne&quot; title=&quot;Jim Hurne&quot;&gt;Jim Hurne&lt;/a&gt; and &lt;a href=&quot;http://blog.adrianbolboaca.ro/&quot; title=&quot;Adrian Bolboaca&quot;&gt;Adrian Bolboaca&lt;/a&gt; for global organization and facilitator sessions, and special thanks to &lt;a href=&quot;http://twitter.com/mnasevic&quot; title=&quot;Milan Nasevic&quot;&gt;Milan Nasevic&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/NaumKostovski&quot; title=&quot;Naum Kostovski&quot;&gt;Naum Kostovski&lt;/a&gt; for their help organize the event.&lt;/p&gt;
+&lt;p&gt;Coderetreat has been a great experience for me because even as a facilitator I&#039;ve learned a lot about software design, OO principles and I&#039;m looking forward to Global Day of Coderetreat 2013!&lt;/p&gt;
+&lt;div class=&quot;vimiumReset vimiumHUD&quot; style=&quot;right: 150px; opacity: 0; display: none;&quot;&gt;&lt;/div&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Notes from Global Day of Coderetreat 2011 - Skopje (Macedonia)</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5408"/>
+                                        <id>tag:coderetreat.org,2011-12-08:6456126:BlogPost:5408</id>
+                                        <updated>2011-12-08T17:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Dalibor Nasevic</name>
+                            <uri>http://coderetreat.org/profile/DaliborNasevic</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;You can find the original blog post &lt;a href=&quot;http://dalibornasevic.com/posts/31-global-day-of-coderetreat-2011-skopje-macedonia&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I want to share few thoughts about my experience facilitating the &lt;a href=&quot;../../events/global-day-of-coderetreat-in-skopje-macedonia&quot; title=&quot;Global Day of Coderetreat in Skopje (Macedonia)&quot;&gt;Global Day of Coderetreat event in Skopje (Macedonia)&lt;/a&gt; (photos available…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;You can find the original blog post &lt;a href=&quot;http://dalibornasevic.com/posts/31-global-day-of-coderetreat-2011-skopje-macedonia&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I want to share few thoughts about my experience facilitating the &lt;a title=&quot;Global Day of Coderetreat in Skopje (Macedonia)&quot; href=&quot;../../events/global-day-of-coderetreat-in-skopje-macedonia&quot;&gt;Global Day of Coderetreat event in Skopje (Macedonia)&lt;/a&gt; (photos available &lt;a title=&quot;Global Day of Coderetreat in Skopje (Macedonia): Photos&quot; href=&quot;../../photo/albums/skopje-coderetreat&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is Global Day of Coderetreat?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Global Day of Coderetreat&quot; href=&quot;http://globalday.coderetreat.org/&quot;&gt;Global Day of Coderetreat&lt;/a&gt; is a world-wide event celebrating passion and software craftsmanship. Over 2200 passionate software developers in 90 cities around the world spend the day practicing the craft of software development using the &lt;a title=&quot;Coderetreat format&quot; href=&quot;../../facilitating/structure-of-a-coderetreat&quot;&gt;Coderetreat format&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What went well?&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skopje was a part of the Global Day of Coderetreat (Global Coderetreat &lt;a title=&quot;Global Day of Coderetreat map&quot; href=&quot;http://globalday.coderetreat.org/&quot;&gt;map&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Pair programming knowledge transfer (participants worked in: Ruby, Python, Javascript, Java and some Erlang at the end)&lt;/li&gt;
+&lt;li&gt;Direct connect with the event in Barcelona (El Clásico discussion was fun! :) thanks to &lt;a title=&quot;Jaume Jornet&quot; href=&quot;https://twitter.com/#%21/jaumejornet&quot;&gt;Jaume Jornet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;3 local sponsors (big thanks to: &lt;a title=&quot;Siyelo&quot; href=&quot;http://siyelo.com/&quot;&gt;Siyelo&lt;/a&gt;, &lt;a title=&quot;Atomidata&quot; href=&quot;http://atomidata.com/&quot;&gt;Atomidata&lt;/a&gt; and &lt;a title=&quot;Ever-Near&quot; href=&quot;http://ever-near.com/&quot;&gt;Ever-Near&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;What could be improved?&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attendance (there were only 3 pairs - 6 developers; +2 or just +1 pair could have made a big difference)&lt;/li&gt;
+&lt;li&gt;Focus (we had only 4 good focused sessions practicing software design, and 2 freestyle sessions; with +1 pair it could have been better)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All in all, it was great experience for me organizing this Coderetreat event. I learned many new ideas about Software Design and Agile Coaching.&lt;/p&gt;
+&lt;p&gt;I want to say thanks to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&quot;Adrian Bolboaca&quot; href=&quot;http://www.agileminds.be/trainer/10&quot;&gt;Adrian Bolboaca&lt;/a&gt; for giving me the facilitator training session&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Jim Hurne&quot; href=&quot;https://twitter.com/#%21/jthurne&quot;&gt;Jim Hurne&lt;/a&gt; for spending much of his time in the mailing list organizing different events&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Corey Haines&quot; href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&lt;/a&gt; for the idea and global organization&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Naum Kostovski&quot; href=&quot;https://twitter.com/#%21/techn0g0at&quot;&gt;Naum Kostovski&lt;/a&gt; for helping me organize the event&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Global Day of Coderetreat in Skopje (Macedonia)&quot; href=&quot;../../events/global-day-of-coderetreat-in-skopje-macedonia&quot;&gt;All participants&lt;/a&gt; for participating&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Skopje Hacklab&quot; href=&quot;http://b10g.spodeli.org/&quot;&gt;Skopje Hacklab&lt;/a&gt; for logistics and space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

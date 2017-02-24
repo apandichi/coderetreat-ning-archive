@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55342
+DTSTAMP:20170129T113137Z
+SUMMARY:Global Day of Coderetreat 2016 - Milan, Italy
+DESCRIPTION:https://www.eventbrite.it/e/biglietti-global-day-of-codere
+ treat-2016-milan-27985125263\n\nFor more information visit http://code
+ retreat.org/events/global-day-of-coderetreat-2016-milan
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:gdcr16
+LOCATION:Mikamai/LinkMe
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:XPUG-MI
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gabriele
+  Tondi":http://coderetreat.org/profile/GabrieleTondi
+END:VEVENT
+END:VCALENDAR

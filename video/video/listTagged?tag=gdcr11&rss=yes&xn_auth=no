@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Videos Tagged gdcr11 (Coderetreat) - Coderetreat</title>
+            <link rel="self" href="listTagged?tag=gdcr11&amp;rss=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:08:31Z</updated>
+                        <id>http://coderetreat.org/video/video/listTagged?tag=gdcr11&amp;rss=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Hello From the Global Day of Code Retreat Coding Dresden, Germany</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:4413"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:Video:4413</id>
+                                        <updated>2011-12-04T09:50:24.378Z</updated>
+                    
+                                            <author>
+                            <name>Michael Hunger</name>
+                            <uri>http://coderetreat.org/profile/MichaelHunger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/hello-from-the-global-day-of-code-retreat-coding-dresden-germany&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/ir1I7s2k3gcq1LtKcsS8Z5KoqsgnTaKzNW5Nyz-XzagyWPNpZzRV9aVl11P84XQdpWKSXDN3p1lYDotN-GfV*r47iejYqT-c/815899378.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Hello from 8 people participating in the coderetreat in Dresden at die buchbar (http://die-buchbar.de)                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/hello-from-the-global-day-of-code-retreat-coding-dresden-germany&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/ir1I7s2k3gcq1LtKcsS8Z5KoqsgnTaKzNW5Nyz-XzagyWPNpZzRV9aVl11P84XQdpWKSXDN3p1lYDotN-GfV*r47iejYqT-c/815899378.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Hello from 8 people participating in the coderetreat in Dresden at die buchbar (http://die-buchbar.de)                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Global Day of Coderetreat - Tel Aviv</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:3151"/>
+                                        <id>tag:coderetreat.org,2011-12-03:6456126:Video:3151</id>
+                                        <updated>2011-12-03T13:52:19.151Z</updated>
+                    
+                                            <author>
+                            <name>Yonatan Bergman</name>
+                            <uri>http://coderetreat.org/profile/YonatanBergman</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/global-day-of-coderetreat-tel-aviv&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/5Zvv-Lo45Za7GpJPYSZX1n2XI*B2sONur16mdq0PZD7KEK9nucdPLoIeJg0kL0BOaMPXyhjwAELjApU7nCe6kUC-Qj5RKhlk/593468049.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Hello from the guys at Tel-Aviv&#039;s meeting of coderetreat.                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/global-day-of-coderetreat-tel-aviv&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/5Zvv-Lo45Za7GpJPYSZX1n2XI*B2sONur16mdq0PZD7KEK9nucdPLoIeJg0kL0BOaMPXyhjwAELjApU7nCe6kUC-Qj5RKhlk/593468049.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Hello from the guys at Tel-Aviv&#039;s meeting of coderetreat.                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

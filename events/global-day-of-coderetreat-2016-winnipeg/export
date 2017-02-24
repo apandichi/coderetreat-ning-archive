@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53735
+DTSTAMP:20170129T105029Z
+SUMMARY:Global Day of Coderetreat 2016 - Winnipeg, Canada
+DESCRIPTION:Join us in Winnipeg for the Global Day of Coderetreat on S
+ aturday, October 22nd.\nBold Commerce has generously offered to host 
+ us at their new space in the south end:\n\n50 Fultz Blvd, Winnipeg, MB
+  R3Y 0L6\n\n \n\nPlanning has begun for the Global Day of Coderetreat
+  2016 event in Winnipeg, Manitoba.\nStay tuned for details. \n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2016-winnipeg
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Winnipeg, Manitoba
+WEBSITE:https://www.google.ca/maps/place/50+Fultz+Blvd,+Winnipeg,+MB+R
+ 3Y+0L6/@49.8116081,-97.1916932,17z/data=!3m1!4b1!4m5!3m4!1s0x52ea75722
+ 1c1ded3:0xaaad23724fafbbbc!8m2!3d49.8116081!4d-97.1895045
+URL:https://www.google.ca/maps/place/50+Fultz+Blvd,+Winnipeg,+MB+R3Y+0
+ L6/@49.8116081,-97.1916932,17z/data=!3m1!4b1!4m5!3m4!1s0x52ea757221c1d
+ ed3:0xaaad23724fafbbbc!8m2!3d49.8116081!4d-97.1895045
+CONTACT:2042281336
+ORGANIZER;CN="David alpert":http://coderetreat.org/profile/Davidalpert
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David al
+ pert":http://coderetreat.org/profile/Davidalpert
+END:VEVENT
+END:VCALENDAR

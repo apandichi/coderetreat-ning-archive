@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39437
+DTSTAMP:20170129T120442Z
+SUMMARY:Global Day of Coderetreat 2014 - Munich, Germany
+DESCRIPTION:The Global Day of Coderetreat in Munich.\n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-coderetreat-i
+ n-munich
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Munich, ESR Labs
+WEBSITE:http://coderetreat-munich.de/
+URL:http://coderetreat-munich.de/
+CONTACT:
+ORGANIZER;CN="Sebastian Benz":http://coderetreat.org/profile/Sebastian
+ Benz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sebastia
+ n Benz":http://coderetreat.org/profile/SebastianBenz
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:31374
+DTSTAMP:20170129T115650Z
+SUMMARY:Global Day of Coderetreat 2013 - Ostrava, Czech Republic
+DESCRIPTION:Ostrava se připojuje ke globálnímu dni CodeRetreat! Pok
+ ud se chcete zúčastnit, zaregistrujte se prosím na http://srazy.in
+ fo/coderetreat/4107\n\nFor more information visit http://coderetreat.o
+ rg/events/global-day-of-coderetreat-2013-ostrava-czech-republic
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Vendavo Ostrava
+WEBSITE:http://srazy.info/coderetreat/4107
+URL:http://srazy.info/coderetreat/4107
+CONTACT:
+ORGANIZER;CN="Daniel Kolman":http://coderetreat.org/profile/DanielKolm
+ an
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel K
+ olman":http://coderetreat.org/profile/DanielKolman
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16156
+DTSTAMP:20170129T134318Z
+SUMMARY:Global Day of Coderetreat 2012 - İstanbul / Turkey
+DESCRIPTION:Coderetreat Istanbul\nLocation and Start Time: TBD\n\nFor 
+ more information visit http://coderetreat.org/events/global-day-of-cod
+ eretreat-2012-stanbul-turkey
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Parkyeri
+WEBSITE:http://www.parkyeri.com
+URL:http://www.parkyeri.com
+CONTACT:+902122969509
+ORGANIZER:Gokhan Gorali, Tayfun Öztemel, Barış Ala, Irmak Çakmak
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gokhan G
+ orali":http://coderetreat.org/profile/GokhanGorali
+END:VEVENT
+END:VCALENDAR

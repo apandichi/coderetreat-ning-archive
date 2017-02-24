@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12249
+DTSTAMP:20170129T134056Z
+SUMMARY:Global Day of Coderetreat 2012 - Pune / India
+DESCRIPTION:CodeRetreat\n\nFor more information visit http://coderetre
+ at.org/events/global-day-of-coderetreat-2012-pune-india
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Niranjan Paranjape":http://coderetreat.org/profile/Niran
+ janParanjape
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Niranjan
+  Paranjape":http://coderetreat.org/profile/NiranjanParanjape
+END:VEVENT
+END:VCALENDAR

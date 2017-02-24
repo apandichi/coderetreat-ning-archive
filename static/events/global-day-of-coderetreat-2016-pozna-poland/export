@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55404
+DTSTAMP:20170129T113142Z
+SUMMARY:Global Day of Coderetreat 2016 - POZNAŃ, POLAND
+DESCRIPTION:Registration and details: https://www.eventbrite.com/e/po
+ znan-code-retreat-2016-tickets-27566462030\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2016-pozna-
+ poland
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:PSI Polska Sp. z o.o.
+WEBSITE:https://www.eventbrite.com/e/poznan-code-retreat-2016-tickets-
+ 27566462030
+URL:https://www.eventbrite.com/e/poznan-code-retreat-2016-tickets-2756
+ 6462030
+CONTACT:
+ORGANIZER:Poznań JUG / PSI
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Łukasz 
+ Stachowiak":http://coderetreat.org/profile/LukaszStachowiak
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27098
+DTSTAMP:20170129T115143Z
+SUMMARY:Global Day of Coderetreat 2013 - Chicago, IL, USA
+DESCRIPTION:Chicago, IL is participating in the Global Day of Coderetr
+ eat 2013!\nCoderetreat is a day-long, intensive practice event focused
+  on the fundamentals of software development and design.The unique cod
+ eretreat format (which eliminates the pressure of 'getting things done
+ ' and focuses on practicing basic principles of good design) has prove
+ n to be a highly effective (and fun) means of skill improvement.\nOn 
+ December 14th, Coderetreats will be held at cities all over the world.
+  To celebrate this significant event, we'll be participating in some g
+ lobal activities in addition to our normal Coderetreat activities.\nYo
+ u only need to bring a laptop with the development tools you require t
+ o write code using your chosen programming languages. \nCheck out co
+ deretreat.org for further details on what to expect.\nRegister here: 
+  http://chicagogdcr13dbc.eventbrite.com/\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-2013-chicago
+ -us
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Dev Bootcamp
+WEBSITE:http://chicagogdcr13dbc.eventbrite.com/
+URL:http://chicagogdcr13dbc.eventbrite.com/
+CONTACT:3124889406
+ORGANIZER:Dev Bootcamp Instructors
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/TkhfUmQ5jQdz8
+ X6Pcwo8rO4OcUnPkyDvk9JqFGq7SR0vJEn0UR1reqNrU2zVjcOr5Ah*uKGYxDBnKZcPOUe
+ eUor80MzXpWWa/dbcclasspiczee.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tiffany 
+ Mikell":http://coderetreat.org/profile/TiffanyMikell
+END:VEVENT
+END:VCALENDAR

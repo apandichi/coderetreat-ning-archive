@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37540
+DTSTAMP:20170129T101957Z
+SUMMARY:Global Day of Coderetreat 2014 - Oslo, Norway
+DESCRIPTION:Let's celebrate Global Day of Coderetreat with a coderetre
+ at in Oslo!\n\nFor more information visit http://coderetreat.org/event
+ s/global-day-of-coderetreat-oslo
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14, gdcr13
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Mike Long":http://coderetreat.org/profile/MikeLong
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Lon
+ g":http://coderetreat.org/profile/MikeLong
+END:VEVENT
+END:VCALENDAR

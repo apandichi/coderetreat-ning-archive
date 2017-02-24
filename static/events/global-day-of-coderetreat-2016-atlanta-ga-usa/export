@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54527
+DTSTAMP:20170129T112720Z
+SUMMARY:Global Day of Coderetreat 2016 - Atlanta, GA, USA
+DESCRIPTION:RSVP at https://www.eventbrite.com/e/global-day-of-codere
+ treat-atlanta-tickets-27486343393\n\n\nFor more information visit http
+ ://coderetreat.org/events/global-day-of-coderetreat-2016-atlanta-ga-us
+ a
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Greater Sum
+WEBSITE:https://www.google.com/maps/place/Greater+Sum/@33.8078246,-84.
+ 3854664,17z/data=!3m1!4b1!4m5!3m4!1s0x88f505b3d2d48f5f:0x9b8ffac703ca7
+ 9d3!8m2!3d33.8078202!4d-84.3832777
+URL:https://www.google.com/maps/place/Greater+Sum/@33.8078246,-84.3854
+ 664,17z/data=!3m1!4b1!4m5!3m4!1s0x88f505b3d2d48f5f:0x9b8ffac703ca79d3!
+ 8m2!3d33.8078202!4d-84.3832777
+CONTACT:
+ORGANIZER:Mike Clement and Kylie Stradley
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Cle
+ ment":http://coderetreat.org/profile/MikeClement932
+END:VEVENT
+END:VCALENDAR

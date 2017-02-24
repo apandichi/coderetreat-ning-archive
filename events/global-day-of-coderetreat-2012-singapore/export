@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13418
+DTSTAMP:20170129T134215Z
+SUMMARY:Global Day of Coderetreat 2012 - Singapore
+DESCRIPTION:Global Day of Code Retreat\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-coderetreat-2012-singapore
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:Singapore
+WEBSITE:
+URL:
+CONTACT:90269386
+ORGANIZER:Odd-e & New Context
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stuart T
+ urner":http://coderetreat.org/profile/StuartTurner
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10115
+DTSTAMP:20170129T125515Z
+SUMMARY:Code Retreat Hamamatsu
+DESCRIPTION:A Code Retreat will be held as a part of a university clas
+ s.\nSorry this event is not public. Â Please contact theÂ facilitatorÂ
+  if you want to watch the event.\n\n\nFor more information visit http:
+ //coderetreat.org/events/code-retreat-hamamatsu
+DTSTART:20120616T090000Z
+DTEND:20120616T173000Z
+CATEGORIES:coderetreat
+LOCATION:Shizuoka University, Faculty of Informatics
+WEBSITE:http://www.inf.shizuoka.ac.jp/en/index.html
+URL:http://www.inf.shizuoka.ac.jp/en/index.html
+CONTACT:
+ORGANIZER;CN="Kiro HARADA":http://coderetreat.org/profile/KiroHARADA
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/MZoWF4vNrypn8
+ TG6intL4*wuW-3jYXZ0WEEtQGssvfYIfKrgR2ifDCus1knJE9BuUz89IxFHhvjMFl2Qbsu
+ mZSSuOecp5IV2/1957_daigakuLogoImage.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kiro HAR
+ ADA":http://coderetreat.org/profile/KiroHARADA
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28593
+DTSTAMP:20170129T121030Z
+SUMMARY:Global Day of Coderetreat 2013 - Atlanta, GA, USA
+DESCRIPTION:Join us for the Global Day of Code Retreat on December 14.
+  Led by Stafford Brooke, the Atlanta code retreat is a gathering of de
+ velopers improving their craft.\nThe event will be free*. RSVP here.\
+ n* Sign-up fee will be refunded once your attendance is confirmed.\n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2013-atlanta-ga-usa
+DTSTART:20131214T093000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Big Nerd Ranch HQ
+WEBSITE:http://bignerdranch.com
+URL:http://bignerdranch.com
+CONTACT:
+ORGANIZER;CN="Big Nerd Ranch":http://coderetreat.org/profile/BigNerdRa
+ nch
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Big Nerd
+  Ranch":http://coderetreat.org/profile/BigNerdRanch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Michael
+  Shemper":http://coderetreat.org/profile/MichaelShemper
+END:VEVENT
+END:VCALENDAR

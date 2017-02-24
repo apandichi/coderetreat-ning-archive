@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48903
+DTSTAMP:20170129T102604Z
+SUMMARY:Global Day of Coderetreat 2015 - Saint-Petersburg, Russia
+DESCRIPTION:Global day of code retreat in Saint-Petersburg\nRegistrat
+ ion at: https://events.epam.com/events/coderetreat-saint-petersburg/g
+ uest-registration\nSponsored by Epam Systems\n\nFor more information v
+ isit http://coderetreat.org/events/global-day-of-coderetreat-2015-sain
+ t-petersburg-russia
+DTSTART:20151114T113000Z
+DTEND:20151114T183000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:KOKON Space (http://kokonspace.ru)
+WEBSITE:https://events.epam.com/events/coderetreat-saint-petersburg
+URL:https://events.epam.com/events/coderetreat-saint-petersburg
+CONTACT:+7 (931) 362-49-29
+ORGANIZER:Polina Paniukova
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/LZfMsRt8tpkrM
+ EvoKdlSMUgtN77JhkxKvYuS09rk1wTsI0ji6PjBEJ3z-dN2Bri9GS2E0bUNMv4IwbiMDHx
+ lyJgORy8ceet5/content_new1.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roman Pr
+ avuk":http://coderetreat.org/profile/RomanPravuk
+END:VEVENT
+END:VCALENDAR

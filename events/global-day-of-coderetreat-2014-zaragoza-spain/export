@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38230
+DTSTAMP:20170129T120312Z
+SUMMARY:Global Day of Coderetreat 2014 - Zaragoza, Spain
+DESCRIPTION:From Agile Aragon  we are happy to join the Global Day of
+  Coderetreat 2014.\n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-coderetreat-2014-zaragoza-spain
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Zaragoza
+WEBSITE:http://www.eventbis.com/gdcrzgz
+URL:http://www.eventbis.com/gdcrzgz
+CONTACT:
+ORGANIZER:Agile Aragon
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/swLlbX5ug5Y1f
+ 8mEiPRTVv2HHTy9BBVZY4*N3L8W1ojCpwQstYTfPoTj1K9qAIzZlmisfxCYV4MwdzIoeU4
+ kjgzfw*OKK6fo/agile.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pedro La
+ fuente":http://coderetreat.org/profile/PedroLafuente
+END:VEVENT
+END:VCALENDAR

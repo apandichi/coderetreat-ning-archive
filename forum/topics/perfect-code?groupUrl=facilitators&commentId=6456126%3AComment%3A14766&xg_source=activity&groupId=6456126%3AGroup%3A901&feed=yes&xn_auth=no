@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Perfect Code - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/perfect-code?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A14766&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:40:11Z</updated>
+                        <id>http://coderetreat.org/forum/topics/perfect-code?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A14766&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I like the idea of not explic…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17378"/>
+                                        <id>tag:coderetreat.org,2012-11-30:6456126:Comment:17378</id>
+                                        <updated>2012-11-30T01:42:10.087Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I like the idea of not explicitly requiring TDD for the first session. In fact, when I facilitate, I very rarely put any sort of constraint on the group (including TDD). However, I also do not forbid it.&lt;/p&gt;
+&lt;p&gt;In addition to letting participants use Session 1 as a &quot;spike session,&quot; refraining from placing any constraints the first session gives you (the facilitator) an opportunity to observe the group&#039;s starting skills. It is always interesting (and helpful) to see which pairs use TDD right…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I like the idea of not explicitly requiring TDD for the first session. In fact, when I facilitate, I very rarely put any sort of constraint on the group (including TDD). However, I also do not forbid it.&lt;/p&gt;
+&lt;p&gt;In addition to letting participants use Session 1 as a &quot;spike session,&quot; refraining from placing any constraints the first session gives you (the facilitator) an opportunity to observe the group&#039;s starting skills. It is always interesting (and helpful) to see which pairs use TDD right away even though you didn&#039;t make it a requirement.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;br/&gt; &lt;cite&gt;Emily Bache said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/perfect-code?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A17624&amp;amp;xg_source=msg_com_gr_forum#6456126Comment17624&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I reacted to something you said, Alexander:&lt;/p&gt;
+&lt;p&gt;&quot;...But you should always tell your guys that having three beautiful lines of code is better than having the problem solved ugly.&quot;&lt;/p&gt;
+&lt;p&gt;I think if you want to write beautiful code, first write ugly code that works, then clean it. That is a very viable strategy, and it&#039;s one that Robert C. Martin talks about in his book on clean code (I think it was the chapter on &quot;Args&quot;). I think if you have no idea how to solve the problem or even a small part of the problem, then the focus on &quot;write perfect code&quot; isn&#039;t very helpful. You get hung up on it and don&#039;t write any code at all.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;I&#039;ve seen plenty of pairs produce code that not only doesn&#039;t work, but is using a design where I don&#039;t think it leads to a good solution to the problem. I wondered if it might help them to take away the constraint on always using TDD and just have them spike for the first session. I tried it in my most recent code retreat and I think it helped a little. The subsequent sessions when they were using TDD, they took a better design direction.&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I reacted to something you sa…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17624"/>
+                                        <id>tag:coderetreat.org,2012-11-28:6456126:Comment:17624</id>
+                                        <updated>2012-11-28T13:15:58.465Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I reacted to something you said, Alexander:&lt;/p&gt;
+&lt;p&gt;&quot;...But you should always tell your guys that having three beautiful lines of code is better than having the problem solved ugly.&quot;&lt;/p&gt;
+&lt;p&gt;I think if you want to write beautiful code, first write ugly code that works, then clean it. That is a very viable strategy, and it&#039;s one that Robert C. Martin talks about in his book on clean code (I think it was the chapter on &quot;Args&quot;). I think if you have no idea how to solve the problem or even a small…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I reacted to something you said, Alexander:&lt;/p&gt;
+&lt;p&gt;&quot;...But you should always tell your guys that having three beautiful lines of code is better than having the problem solved ugly.&quot;&lt;/p&gt;
+&lt;p&gt;I think if you want to write beautiful code, first write ugly code that works, then clean it. That is a very viable strategy, and it&#039;s one that Robert C. Martin talks about in his book on clean code (I think it was the chapter on &quot;Args&quot;). I think if you have no idea how to solve the problem or even a small part of the problem, then the focus on &quot;write perfect code&quot; isn&#039;t very helpful. You get hung up on it and don&#039;t write any code at all.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;I&#039;ve seen plenty of pairs produce code that not only doesn&#039;t work, but is using a design where I don&#039;t think it leads to a good solution to the problem. I wondered if it might help them to take away the constraint on always using TDD and just have them spike for the first session. I tried it in my most recent code retreat and I think it helped a little. The subsequent sessions when they were using TDD, they took a better design direction.&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Haha! Sounds reasonable - I&#039;l…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:16545"/>
+                                        <id>tag:coderetreat.org,2012-11-20:6456126:Comment:16545</id>
+                                        <updated>2012-11-20T08:59:49.253Z</updated>
+                    
+                                            <author>
+                            <name>Alexander Marek</name>
+                            <uri>http://coderetreat.org/profile/AlexanderMarek</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Haha! Sounds reasonable - I&#039;ll give the &quot;better code&quot; approach a try ;-)&lt;/p&gt;
+&lt;p&gt;Thanks&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;cite&gt;Jim Hurne said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/perfect-code?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A16623&amp;amp;xg_source=msg_com_gr_forum#6456126Comment16623&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I used to also ask participants to write &quot;Perfect Code,&quot; when I facilitated a coderetreat, but I&#039;ve since changed to asking participants to try…&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Haha! Sounds reasonable - I&#039;ll give the &quot;better code&quot; approach a try ;-)&lt;/p&gt;
+&lt;p&gt;Thanks&lt;br/&gt; &lt;br/&gt; &lt;cite&gt;Jim Hurne said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/perfect-code?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A16623&amp;amp;xg_source=msg_com_gr_forum#6456126Comment16623&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I used to also ask participants to write &quot;Perfect Code,&quot; when I facilitated a coderetreat, but I&#039;ve since changed to asking participants to try to write &quot;better code&quot; rather than &quot;Perfect Code.&quot;&lt;/p&gt;
+&lt;p&gt;I found asking people to write &quot;Perfect Code&quot; tended to discourage participants from experimenting with new techniques. Instead, participants tried to write what they thought was perfect code based on all of their existing experience and understanding of software development. When I started asking participants to work on writing &quot;better code&quot;, then they tended to become more creative and more willing to try new things.&lt;/p&gt;
+&lt;p&gt;In the context of codretreat, I also find it useful to define what &quot;better code&quot; is. Stealing directly from Corey Haines, &quot;better code&quot; is code that is less expensive to change.  After introducing this concept, I immediately introduce the 4 Rules of Simple Design and talk about how following the 4 Rules helps us write easy-to-change code (or &quot;better code&quot;).&lt;/p&gt;
+&lt;p&gt;This probably isn&#039;t what you were originally looking for, but I thought I would throw it out here. I think the point is subtle, but it can have a significant impact on how your coderetreats run.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I used to also ask participan…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:16623"/>
+                                        <id>tag:coderetreat.org,2012-11-20:6456126:Comment:16623</id>
+                                        <updated>2012-11-20T02:54:49.697Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I used to also ask participants to write &quot;Perfect Code,&quot; when I facilitated a coderetreat, but I&#039;ve since changed to asking participants to try to write &quot;better code&quot; rather than &quot;Perfect Code.&quot;&lt;/p&gt;
+&lt;p&gt;I found asking people to write &quot;Perfect Code&quot; tended to discourage participants from experimenting with new techniques. Instead, participants tried to write what they thought was perfect code based on all of their existing experience and understanding of software development. When I started…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I used to also ask participants to write &quot;Perfect Code,&quot; when I facilitated a coderetreat, but I&#039;ve since changed to asking participants to try to write &quot;better code&quot; rather than &quot;Perfect Code.&quot;&lt;/p&gt;
+&lt;p&gt;I found asking people to write &quot;Perfect Code&quot; tended to discourage participants from experimenting with new techniques. Instead, participants tried to write what they thought was perfect code based on all of their existing experience and understanding of software development. When I started asking participants to work on writing &quot;better code&quot;, then they tended to become more creative and more willing to try new things.&lt;/p&gt;
+&lt;p&gt;In the context of codretreat, I also find it useful to define what &quot;better code&quot; is. Stealing directly from Corey Haines, &quot;better code&quot; is code that is less expensive to change.  After introducing this concept, I immediately introduce the 4 Rules of Simple Design and talk about how following the 4 Rules helps us write easy-to-change code (or &quot;better code&quot;).&lt;/p&gt;
+&lt;p&gt;This probably isn&#039;t what you were originally looking for, but I thought I would throw it out here. I think the point is subtle, but it can have a significant impact on how your coderetreats run.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>no that is a misunderstanding…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:15064"/>
+                                        <id>tag:coderetreat.org,2012-11-01:6456126:Comment:15064</id>
+                                        <updated>2012-11-01T17:45:50.943Z</updated>
+                    
+                                            <author>
+                            <name>Alexander Marek</name>
+                            <uri>http://coderetreat.org/profile/AlexanderMarek</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;no that is a misunderstanding. we use to change pairs each session. However, you get a feeling about the skill level of your participants when you watch them during their sessions. When you see, that some pair is ready for more interesting exercises, ask them what they want to improve (like TDD skills, learning keyboard shortcuts to develop faster, etc.) and give them appropriate exercises. But do not overwhelm them with too hard ones. That&#039;s the hard part... :)&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;cite&gt;Pontus…&lt;/cite&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;no that is a misunderstanding. we use to change pairs each session. However, you get a feeling about the skill level of your participants when you watch them during their sessions. When you see, that some pair is ready for more interesting exercises, ask them what they want to improve (like TDD skills, learning keyboard shortcuts to develop faster, etc.) and give them appropriate exercises. But do not overwhelm them with too hard ones. That&#039;s the hard part... :)&lt;br/&gt; &lt;br/&gt; &lt;cite&gt;Pontus Bergöö said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/perfect-code?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A14642&amp;amp;xg_source=msg_com_gr_forum#6456126Comment14642&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;Thanks. It seems like you keep the same pairs througout the retreat. I had them swap peers each iteration. Maybe that was one reason for the fuzz.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thanks. It seems like you kee…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:14642"/>
+                                        <id>tag:coderetreat.org,2012-10-25:6456126:Comment:14642</id>
+                                        <updated>2012-10-25T17:40:08.607Z</updated>
+                    
+                                            <author>
+                            <name>Pontus Bergöö</name>
+                            <uri>http://coderetreat.org/profile/PontusBergoeoe</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        Thanks. It seems like you keep the same pairs througout the retreat. I had them swap peers each iteration. Maybe that was one reason for the fuzz.                    </summary>
+
+                                            <content type="html">
+                            Thanks. It seems like you keep the same pairs througout the retreat. I had them swap peers each iteration. Maybe that was one reason for the fuzz.                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Nobody writes perfect code.
+A…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:14766"/>
+                                        <id>tag:coderetreat.org,2012-10-25:6456126:Comment:14766</id>
+                                        <updated>2012-10-25T07:48:14.193Z</updated>
+                    
+                                            <author>
+                            <name>Alexander Marek</name>
+                            <uri>http://coderetreat.org/profile/AlexanderMarek</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Nobody writes perfect code.&lt;/p&gt;
+&lt;p&gt;And I am with you when you say you don&#039;t want to prepare testcases or a GUI as this definitely would hinder creativity.&lt;/p&gt;
+&lt;p&gt;In my retreats, I do not give any exercises in the first lesson, but only tell them to solve the problem in any way. So the first one is only for getting used to the problem domain.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;Thereafter I introduce exercises depending on the dev level of the pairs and start with simple ones like &quot;noun based vs verb based&quot;. When I…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Nobody writes perfect code.&lt;/p&gt;
+&lt;p&gt;And I am with you when you say you don&#039;t want to prepare testcases or a GUI as this definitely would hinder creativity.&lt;/p&gt;
+&lt;p&gt;In my retreats, I do not give any exercises in the first lesson, but only tell them to solve the problem in any way. So the first one is only for getting used to the problem domain.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;Thereafter I introduce exercises depending on the dev level of the pairs and start with simple ones like &quot;noun based vs verb based&quot;. When I see some pairs are struggling with the problem domain or their IDEs, i make notes and let them repeat the simpler exercises in the forthcoming sessions, while giving harder ones to the better pairs.&lt;/p&gt;
+&lt;p&gt;For me this has always worked.&lt;/p&gt;
+&lt;p&gt;Maybe the greates problem with your retreat was, that your participants hat the wrong mindset: they tried to get the problem &lt;strong&gt;done.&lt;/strong&gt; But that exactly is not what a retreat is about. In the opposite: the retreat is about writing &lt;strong&gt;perfect code&lt;/strong&gt; as you said. But you should always tell your guys that having three beautiful lines of code is better than having the problem solved ugly.&lt;/p&gt;
+&lt;p&gt;Maybe next time you watch your pairs during the session and when you see that their focus is on solving the problem and the code gets ugly, tell them to stop implementing any further, show them their design mistakes and tell them to fix those first. That might help. :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

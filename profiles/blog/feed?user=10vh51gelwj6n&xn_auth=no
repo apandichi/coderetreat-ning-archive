@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Adi Bolboaca&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=10vh51gelwj6n&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:41:23Z</updated>
+                            <author>
+                    <name>Adi Bolboaca</name>
+                    <uri>http://coderetreat.org/profile/adibolb</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/RcnmXRg3jI*12f7bW1yeJPd4arPqxK2L4saxCR5Oki9bgPHwbdlht8YtoFRvCMQA8x6xfel03gzWBFrDD8Zrqp6btPngJCBS/427726392.jpeg?xgip=0%3A35%3A346%3A346%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=10vh51gelwj6n&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Coderetreat: The toughest constraint</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:41989"/>
+                                        <id>tag:coderetreat.org,2014-11-19:6456126:BlogPost:41989</id>
+                                        <updated>2014-11-19T07:58:59.000Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;h3&gt;Ask the attendees what they want&lt;/h3&gt;
+&lt;p&gt;During the &lt;a href=&quot;globalday.coderetreat.org&quot;&gt;Global Day of Coderetreat 2014 (GDCR)&lt;/a&gt; I facilitated the event in Turku, Helsinki. That is when I presented the toughest constraint ever in any coderetreats I facilitated until now.&lt;/p&gt;
+&lt;p&gt;Since I have a lot of constraints in the list, some time ago I started to ask the attendees how difficult would they want the constraints to be. I am asking them on scale from 1 to 5, 1 being boring, and 5 being…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;h3&gt;Ask the attendees what they want&lt;/h3&gt;
+&lt;p&gt;During the &lt;a href=&quot;globalday.coderetreat.org&quot;&gt;Global Day of Coderetreat 2014 (GDCR)&lt;/a&gt; I facilitated the event in Turku, Helsinki. That is when I presented the toughest constraint ever in any coderetreats I facilitated until now.&lt;/p&gt;
+&lt;p&gt;Since I have a lot of constraints in the list, some time ago I started to ask the attendees how difficult would they want the constraints to be. I am asking them on scale from 1 to 5, 1 being boring, and 5 being extremely difficult, what would they want to do as difficulty.&lt;/p&gt;
+&lt;p&gt;Another thing I&#039;m doing, stealing the idea from &lt;a href=&quot;https://twitter.com/alexboly&quot;&gt;Alex&lt;/a&gt;, is to ask the attendees of the coderetreat about the expectations they have. They write one expectation on a sticky note and we look at them and they choose what they want to practice. I tell them about constraints that will generate the kind of learning they want.&lt;/p&gt;
+&lt;p&gt;Usually during coderetreats the attendees want constraints of the difficulty between 2 and 3. Probably because 1 seems boring and 5 seems scary.&lt;/p&gt;
+&lt;h3&gt;The constraint&lt;/h3&gt;
+&lt;p&gt;Now it was different. They wanted the scary constraints. And they insisted. So here is the constraint.&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://blog.adrianbolboaca.ro/wp-content/uploads/2014/11/universe-with-wormholes-799x1024.jpg&quot;&gt;&lt;img class=&quot;align-center&quot; src=&quot;http://blog.adrianbolboaca.ro/wp-content/uploads/2014/11/universe-with-wormholes-799x1024.jpg?width=200&quot; width=&quot;200&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Read more &lt;a href=&quot;http://blog.adrianbolboaca.ro/2014/11/coderetreat-toughest-constraint/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://blog.adrianbolboaca.ro/wp-content/uploads/2014/11/universe-with-wormholes-799x1024.jpg" type="image/jpeg"/>                </entry>
+                            <entry>
+                    <title>The History of &quot;Brutal Refactoring Game&quot;</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:23588"/>
+                                        <id>tag:coderetreat.org,2013-05-17:6456126:BlogPost:23588</id>
+                                        <updated>2013-05-17T07:26:26.000Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Last year I was thinking about a session during which attendees would learn how to focus on refactoring. I had some thoughts about this: we would need a list of coding smells, and have some cards to give the attendees that had that coding smells in their code. Now the obvious question was: how can you have coding smells if you do not have a code base? I thought about it, and then I figured it out: during coderetreats I anyway see legacy code after 10-15 minutes. So if this session would take…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Last year I was thinking about a session during which attendees would learn how to focus on refactoring. I had some thoughts about this: we would need a list of coding smells, and have some cards to give the attendees that had that coding smells in their code. Now the obvious question was: how can you have coding smells if you do not have a code base? I thought about it, and then I figured it out: during coderetreats I anyway see legacy code after 10-15 minutes. So if this session would take 90-120 minutes we would have no issue with finding coding smells.&lt;/p&gt;
+&lt;p&gt;The first thing was: of course I will ask people to do pair-programming. This is how you learn a lot!&lt;/p&gt;
+&lt;p&gt;I came with these basic thoughts to &lt;a href=&quot;https://twitter.com/alexboly&quot;&gt;Alex&lt;/a&gt;, and we had a chat about this session. Initially I had wanted to print one index card for each of the coding smells. But Alex helped me simplify the concept by creating a numbered list of coding smells that would be projected on a screen. Then we thought: we could use index cards just to write the number of the coding smell.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Refactor your code commrades or it s the gulags for you&quot; src=&quot;http://assets.diylol.com/hfs/49e/3dc/a26/resized/lenin-cat-meme-generator-refactor-your-code-commrades-or-it-s-the-gulags-for-you-5cb0e7.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;You can read more on my blog: &lt;a href=&quot;http://blog.adrianbolboaca.ro/2013/04/the-history-of-brutal-refactoring-game/&quot; target=&quot;_blank&quot;&gt;The History of &quot;Brutal Refactoring Game&quot;&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Taking Baby Steps</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:21014"/>
+                                        <id>tag:coderetreat.org,2013-03-11:6456126:BlogPost:21014</id>
+                                        <updated>2013-03-11T09:21:02.000Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I wrote a post on the history of &lt;em&gt;Taking Baby Steps&lt;/em&gt;, you can read it &lt;a href=&quot;http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now I would like to tell you more about the workshop and the technique itself. While coding, for me it is very important to be focused on one idea. Why? Because this is how &lt;em&gt;programmer mistakes&lt;/em&gt; appear in the code; some people tell them &lt;em&gt;bugs&lt;/em&gt;. The other thing I am interested in is to have an undo button…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;I wrote a post on the history of &lt;em&gt;Taking Baby Steps&lt;/em&gt;, you can read it &lt;a href=&quot;http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now I would like to tell you more about the workshop and the technique itself. While coding, for me it is very important to be focused on one idea. Why? Because this is how &lt;em&gt;programmer mistakes&lt;/em&gt; appear in the code; some people tell them &lt;em&gt;bugs&lt;/em&gt;. The other thing I am interested in is to have an undo button for every change. This is why I want to commit every 1-2 minutes.&lt;/p&gt;
+&lt;p&gt;The rules are the following:&lt;/p&gt;
+&lt;blockquote style=&quot;background-color: #efefd7; font-size: small;&quot;&gt;&lt;h4 dir=&quot;ltr&quot; id=&quot;internal-source-marker_0.906889546748257&quot;&gt;Steps&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Setup source control repository.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Setup a timer for 2 minutes interval when you start.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;margin-bottom: 0;&quot;&gt;Write exactly one test&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;If the &lt;strong&gt;timer rings&lt;/strong&gt; and the &lt;strong&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;test is red&lt;/span&gt;&lt;/strong&gt; then &lt;strong&gt;revert&lt;/strong&gt; and &lt;strong&gt;start over&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;If the &lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;test is green&lt;/strong&gt;&lt;/span&gt; before timer rings then &lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;commit&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Restart timer (no discussions in between timers)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;margin-bottom: 0;&quot;&gt;Refactor&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;If the &lt;strong&gt;timer rings&lt;/strong&gt; and the &lt;strong&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;refactoring is not complete&lt;/span&gt;&lt;/strong&gt; then &lt;strong&gt;revert&lt;/strong&gt; and &lt;strong&gt;start over&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;If the &lt;span style=&quot;color: #008000;&quot;&gt;&lt;strong&gt;refactoring is complete&lt;/strong&gt;&lt;/span&gt; before the timer rings then &lt;strong&gt;&lt;span style=&quot;color: #008000;&quot;&gt;commit&lt;/span&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Restart the timer (no discussions in between timers)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Go to 3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;When session time is up &lt;strong&gt;delete the code&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;You can read more on my blog: &lt;a href=&quot;http://blog.adrianbolboaca.ro/2013/03/taking-baby-steps/&quot; target=&quot;_blank&quot;&gt;Taking Baby Steps&lt;/a&gt;.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>The history of &quot;Taking Baby Steps&quot;</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:21111"/>
+                                        <id>tag:coderetreat.org,2013-01-16:6456126:BlogPost:21111</id>
+                                        <updated>2013-01-16T21:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Let me tell you a story on how I thought about teaching other programmers how to take small steps to help them minimize the mistakes by focusing on a small thought.&lt;/p&gt;
+&lt;p&gt;A couple of years ago I was working on a legacy project, meaning I did not know anything about the business, and it was written in Delphi .Net which was totally unknown to me. I needed to translate this medium-sized code-base from Delphi .Net into .Net / Silverlight.&lt;/p&gt;
+&lt;p&gt;All the team was using a centralized source…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Let me tell you a story on how I thought about teaching other programmers how to take small steps to help them minimize the mistakes by focusing on a small thought.&lt;/p&gt;
+&lt;p&gt;A couple of years ago I was working on a legacy project, meaning I did not know anything about the business, and it was written in Delphi .Net which was totally unknown to me. I needed to translate this medium-sized code-base from Delphi .Net into .Net / Silverlight.&lt;/p&gt;
+&lt;p&gt;All the team was using a centralized source control system, namely TFS. But I needed to be sure that the steps I take are safe in my routine of translating the code from Delphi .Net to Silverlight, so I put in place Git. It helped me ensure that the steps I do locally are the good ones. I had done this before, using Git or SVN as a local source control while my team was using SVN as a centralized repository for the source code.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;You can read more on my blog: &lt;a href=&quot;http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/&quot; target=&quot;_blank&quot;&gt;The history of &quot;Taking Baby Steps&quot;&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Kudos for the Global Day of Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:21109"/>
+                                        <id>tag:coderetreat.org,2012-12-11:6456126:BlogPost:21109</id>
+                                        <updated>2012-12-11T21:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;As last year I helped the coderetreat first-time facilitators to jump-in and organize their first coderetreat. I had some training sessions on Google Hangout during which I talked with a lot of passionate professionals from all over the world. Together with me &lt;a href=&quot;https://twitter.com/jthurne&quot;&gt;Jim Hurne&lt;/a&gt; had done the same effort to spread his knowledge about the way he facilitates a coderetreat.&lt;/p&gt;
+&lt;p&gt;Jim has done a lot of work for the Global Day, he added the sessions on the…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;As last year I helped the coderetreat first-time facilitators to jump-in and organize their first coderetreat. I had some training sessions on Google Hangout during which I talked with a lot of passionate professionals from all over the world. Together with me &lt;a href=&quot;https://twitter.com/jthurne&quot;&gt;Jim Hurne&lt;/a&gt; had done the same effort to spread his knowledge about the way he facilitates a coderetreat.&lt;/p&gt;
+&lt;p&gt;Jim has done a lot of work for the Global Day, he added the sessions on the &lt;a href=&quot;http://coderetreat.org&quot;&gt;coderetreat.org&lt;/a&gt; website created, the hangouts for all the registered attendees for each session, and a lot of other very useful things. He was full of energy and I want to thank him for all that effort, I don’t think the Global Day would have been that successful without his sustained effort.&lt;/p&gt;
+&lt;p&gt;I chose to go to Cluj-Napoca to facilitate the coderetreat on the Global Day. I had talked with the &lt;a href=&quot;http://cloudtroopers.ro/&quot;&gt;Cloud Troopers&lt;/a&gt; company about hosting a community event, and this was the time. They were kind enough to sponsor also the lunch. Out host was &lt;a href=&quot;https://twitter.com/gbtekkie&quot;&gt;Georgiana Gligor&lt;/a&gt;, and she was very keen to see what a coderetreat is all about.&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Read more on my blog: &lt;a href=&quot;http://blog.adrianbolboaca.ro/2012/12/kudos-for-theglobal-day-of-coderetreat-2012/&quot; target=&quot;_blank&quot;&gt;Kudos for the Global Day of Coderetreat&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Coderetreat Turku, Finland</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:15346"/>
+                                        <id>tag:coderetreat.org,2012-11-06:6456126:BlogPost:15346</id>
+                                        <updated>2012-11-06T16:47:07.000Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;span&gt;On 20 November &lt;/span&gt;&lt;a href=&quot;https://twitter.com/aksalmi&quot;&gt;Aki Salmi&lt;/a&gt;&lt;span&gt; gave me the the opportunity to meet a wonderful group of passionate programmers in Turku, Finland. My friend and dynamic facilitator &lt;/span&gt;&lt;a href=&quot;https://twitter.com/talboomerik&quot;&gt;Erik Talboom&lt;/a&gt;&lt;span&gt; was supposed to be there with us, but he could not make it this time. So I was on my own to facilitate a &lt;/span&gt;&lt;a href=&quot;http://coderetreat.org/about&quot;&gt;coderetreat&lt;/a&gt;&lt;span&gt; in a country and a city I have…&lt;/span&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;span&gt;On 20 November &lt;/span&gt;&lt;a href=&quot;https://twitter.com/aksalmi&quot;&gt;Aki Salmi&lt;/a&gt;&lt;span&gt; gave me the the opportunity to meet a wonderful group of passionate programmers in Turku, Finland. My friend and dynamic facilitator &lt;/span&gt;&lt;a href=&quot;https://twitter.com/talboomerik&quot;&gt;Erik Talboom&lt;/a&gt;&lt;span&gt; was supposed to be there with us, but he could not make it this time. So I was on my own to facilitate a &lt;/span&gt;&lt;a href=&quot;http://coderetreat.org/about&quot;&gt;coderetreat&lt;/a&gt;&lt;span&gt; in a country and a city I have never seen before.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To read more, visit this link: &lt;a href=&quot;http://blog.adrianbolboaca.ro/2012/11/coderetreat-turku-finland/&quot; target=&quot;_blank&quot;&gt;http://blog.adrianbolboaca.ro/2012/11/coderetreat-turku-finland/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

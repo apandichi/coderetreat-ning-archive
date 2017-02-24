@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11928
+DTSTAMP:20170129T124743Z
+SUMMARY:Coderetreat Turku
+DESCRIPTION:We are having the first coderetreat in Turku.\nIt is facil
+ itated by Adrian Bolboaca and Erik Talboom. \n\nFor more information 
+ visit http://coderetreat.org/events/coderetreat-turku
+DTSTART:20121020T083000Z
+DTEND:20121020T180000Z
+CATEGORIES:coderetreat
+LOCATION:Boost Turku startup farm
+WEBSITE:
+URL:
+CONTACT:+358 50 341 5620
+ORGANIZER;CN="Aki Salmi":http://coderetreat.org/profile/AkiSalmi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

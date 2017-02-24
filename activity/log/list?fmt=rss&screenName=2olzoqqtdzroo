@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>LAFK&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/LAFK</link>
+        <pubDate>Sun, 29 Jan 2017 09:34:15 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:34:15 +0000</lastBuildDate>
+        <image>
+            <title>LAFK&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/LAFK</link>
+            <url>http://api.ning.com:80/files/1Q*fTOyGxIDMDINJ9zJetk-rHckaMS5G6B03*YoyC7bWKJiVkjwzyUcDvsytYqj-2JDMGPoR*4wX73PsEVW68*2n*2QBGtzl/1046061217.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fe748ed2f4cec0a594786e4</guid>
+               <title>LAFK posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:56554?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/LAFK?xg_source=activity">LAFK</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:56554?xg_source=activity" ><img src="http://api.ning.com/files/G834pRjVCIELFfCLvcwXFfpA*JOMTAbZz*tavFwM2oLpT2Y4HFSi8vv7-ftV6JAonIIdrR6epXbe4CMvc*kIEt5YxuQefLM1/sckrk_cr.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56554?xg_source=activity">Global Day of Code Retreat Krak&oacute;w 2016!</a> at Krak&oacute;w, Buma Quattro C</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div><div class="rich-excerpt">Variously hindered 45-minute long sessions of Game of Life yet again in Kraków, thanks to Software Craftsmanship Kraków and our sponsors.Buma Quattro C, Kraków. Register / See more at our meetup page:<a href="http://www.meetup.com/sc-krk/events/234915215/">http://www.meetup.com/sc-krk/events/234915215/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:56554?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 17 Oct 2016 19:29:00 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fe748edf70f42b98d03a110</guid>
+               <title>LAFK posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47749?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/LAFK?xg_source=activity">LAFK</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:47749?xg_source=activity" ><img src="http://api.ning.com/files/poNlDA9JoO3uV-IhCTu91dZNaoOUc-dQxobYPGwIBsdvLE8NCXXdlvaRhjpwo70Qd-rSx6RPb-eIZPrrkrWRZGujLLidF03M/tomaszborek.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47749?xg_source=activity">Global Day of Coderetreat 2015 - Krak&oacute;w, Poland</a> at Ocado&#039;s office</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 5pm</div><div class="rich-excerpt">Join us for GDCR in Kraków, Poland!RSVP at <a href="http://sckrk.com" target="_blank">sckrk.com</a>! Bring your laptop with favourite programmer's setup, you will be coding, you have been warned!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47749?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 20 Oct 2015 14:37:40 +0000</pubDate>
+               </item>    </channel>
+</rss>

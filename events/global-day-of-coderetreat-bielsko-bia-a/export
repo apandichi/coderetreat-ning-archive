@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15786
+DTSTAMP:20170129T114735Z
+SUMMARY:Global Day of Coderetreat Bielsko-Biała
+DESCRIPTION:part of global coderetreat day event\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-biels
+ ko-bia-a
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:part, of, global, day, coderetreat
+LOCATION:Selleo HQ
+WEBSITE:http://coderetre.at
+URL:http://coderetre.at
+CONTACT:
+ORGANIZER;CN="Michał Czyż":http://coderetreat.org/profile/MichalCzyz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michał 
+ Czyż":http://coderetreat.org/profile/MichalCzyz
+END:VEVENT
+END:VCALENDAR

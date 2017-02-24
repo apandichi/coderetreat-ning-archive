@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:17115
+DTSTAMP:20170129T140532Z
+SUMMARY:TogoJUG Coderetreat 2012
+DESCRIPTION:TogoJUG members will gather to share their passion for pro
+ gramming. JavaSE, JavaEE and JUnit will be awaiting for you.\n\nFor mo
+ re information visit http://coderetreat.org/events/togojug-coderetreat
+ -2012
+DTSTART:20121208T090000Z
+DTEND:20121208T160000Z
+CATEGORIES:code, retreat
+LOCATION:Lome-Togo
+WEBSITE:http://6.175716, 1.211994
+URL:http://6.175716, 1.211994
+CONTACT:+228 22 25 13 61 (Contact Arnaud Amelina)
+ORGANIZER;CN="Bertin Abiassi":http://coderetreat.org/profile/BertinAbi
+ assi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bertin A
+ biassi":http://coderetreat.org/profile/BertinAbiassi
+END:VEVENT
+END:VCALENDAR

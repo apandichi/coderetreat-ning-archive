@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56554
+DTSTAMP:20170129T093421Z
+SUMMARY:Global Day of Code Retreat 2016 - Kraków, Poland
+DESCRIPTION:Variously hindered 45-minute long sessions of Game of Life
+  yet again in Kraków, thanks to Software Craftsmanship Kraków and ou
+ r sponsors.\n\nBuma Quattro C, Kraków. Register / See more at our mee
+ tup page:\nhttp://www.meetup.com/sc-krk/events/234915215/\n\nFor more 
+ information visit http://coderetreat.org/events/global-day-of-code-ret
+ reat-krak-w-2016
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Kraków, Buma Quattro C
+WEBSITE:http://www.meetup.com/sc-krk/events/234915215/
+URL:http://www.meetup.com/sc-krk/events/234915215/
+CONTACT:
+ORGANIZER;CN=LAFK:http://coderetreat.org/profile/LAFK
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/G834pRjVCIELF
+ fCLvcwXFfpA*JOMTAbZz*tavFwM2oLpT2Y4HFSi8vv7-ftV6JAonIIdrR6epXbe4CMvc*k
+ IEt5YxuQefLM1/sckrk_cr.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=LAFK:http
+ ://coderetreat.org/profile/LAFK
+END:VEVENT
+END:VCALENDAR

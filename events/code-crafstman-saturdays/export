@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26073
+DTSTAMP:20170129T103420Z
+SUMMARY:Code Crafstman Saturdays
+DESCRIPTION:Every month, in Ann Arbor on the 2nd Saturday, we do a ful
+ l-on hands-on-keyboards day of practicing what we do best: code. Whil
+ e we're at it, we improve ourselves and those around us, we learn new 
+ stuff, and we have fun.    Did I mention?  There's no cost to partic
+ ipants and both breakfast and lunch are included (no Pizza or box lunc
+ hes).\nAttendance is limited and requires registration so that we get 
+ a head-count for the caterer. Visit the website to register.\n\nFor mo
+ re information visit http://coderetreat.org/events/code-crafstman-satu
+ rdays
+DTSTART:20130914T080000Z
+DTEND:20130914T173000Z
+CATEGORIES:"varies each month. sept is a legacy code retreat (sorta)."
+LOCATION:The Forge
+WEBSITE:https://maps.google.com/maps?q=1327+Jones+Dr,+Ann+Arbor,+MI+48
+ 105&hl=en&ll=42.292866,-83.734424&spn=0.00723,0.011984&sll=42.292695,-
+ 83.734446&sspn=0.00723,0.011984&oq=1327+jones+Dr,+Ann+Arbor,+MI+48105&
+ hnear=1327+Jones+Dr,+Ann+Arbor,+Washtenaw,+Michigan+48105&t=m&z=17
+URL:https://maps.google.com/maps?q=1327+Jones+Dr,+Ann+Arbor,+MI+48105&
+ hl=en&ll=42.292866,-83.734424&spn=0.00723,0.011984&sll=42.292695,-83.7
+ 34446&sspn=0.00723,0.011984&oq=1327+jones+Dr,+Ann+Arbor,+MI+48105&hnea
+ r=1327+Jones+Dr,+Ann+Arbor,+Washtenaw,+Michigan+48105&t=m&z=17
+CONTACT:(614) 636-7581
+ORGANIZER;CN="Bob Allen @CuriousAgilist":http://coderetreat.org/profil
+ e/BobAllenCuriousAgilist
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bob Alle
+ n @CuriousAgilist":http://coderetreat.org/profile/BobAllenCuriousAgili
+ st
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jason W
+ aack":http://coderetreat.org/profile/JasonWaack
+END:VEVENT
+END:VCALENDAR

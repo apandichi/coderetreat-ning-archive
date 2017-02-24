@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=05lu50ijgnc98&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:52:28Z</updated>
+                            <author>
+                    <name>Joshua Glasser</name>
+                    <uri>http://coderetreat.org/profile/JoshuaGlasser</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=05lu50ijgnc98&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Gary Passero</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/GaryPassero"/>
+                                        <id>tag:coderetreat.org,2014-10-02:6456126:User:38855</id>
+                                        <updated>2014-10-02T01:33:59.616Z</updated>
+                    
+                                            <author>
+                            <name>Joshua Glasser</name>
+                            <uri>http://coderetreat.org/profile/JoshuaGlasser</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gary Passero&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gary Passero&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

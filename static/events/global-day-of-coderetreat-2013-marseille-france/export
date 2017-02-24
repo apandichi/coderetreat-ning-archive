@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26499
+DTSTAMP:20170129T115725Z
+SUMMARY:Global Day of Coderetreat 2013 - Marseille, France
+DESCRIPTION:For the first time in Marseille, we'll have a CodeRetreat 
+ during this amazing day.\n\nFor more information visit http://coderetr
+ eat.org/events/global-day-of-coderetreat-2013-marseille-france
+DTSTART:20131214T080000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:La Maison du Chant
+WEBSITE:http://gdcr13.coderetreat-marseille.org
+URL:http://gdcr13.coderetreat-marseille.org
+CONTACT:
+ORGANIZER;CN="Jérémy Lecour":http://coderetreat.org/profile/jlecour
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jérémy
+  Lecour":http://coderetreat.org/profile/jlecour
+END:VEVENT
+END:VCALENDAR

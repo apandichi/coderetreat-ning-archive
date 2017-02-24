@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12882
+DTSTAMP:20170129T104544Z
+SUMMARY:Global Day of Coderetreat 2012 - Omaha/Council Bluffs, IA / US
+ A
+DESCRIPTION:Come improve your testing, problem solving, and pair progr
+ amming skills!  Explore new ways of thinking as you interact with fel
+ low developers, programmers, and/or students in your community!  Lunc
+ h and snacks will be provided.\nIf you found your way here in search o
+ f the 2013 event, please sign up at:  http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2013-omaha-ne-council-bluffs-ia-usa\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-code-
+ retreat-omaha-council-bluffs
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Iowa West Community College, Fremont Hall
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Jessica Codr":http://coderetreat.org/profile/JessicaCodr
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/zf3fHQq6ns*lC
+ cf2RnxEAMGDey8WAcPQhB6WI2bji-TwFNCSv3g2wk1y*eD8uJTiHUQwCvw3JkyBgo-p9Qi
+ -Zm0ylzlVPZoX/DowntownOmaha.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jason Ha
+ rper":http://coderetreat.org/profile/JasonHarper
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="D.L. Mol
+ ineu":http://coderetreat.org/profile/DLMolineu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Ho
+ od":http://coderetreat.org/profile/JamesHood
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joe Whit
+ e":http://coderetreat.org/profile/JoeWhite
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tracy Hi
+ ltbrand":http://coderetreat.org/profile/TracyHiltbrand
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Kamal:htt
+ p://coderetreat.org/profile/Kamal
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="John Dav
+ is":http://coderetreat.org/profile/JohnDavis
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brittin 
+ Fontenot":http://coderetreat.org/profile/BrittinFontenot
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Josh B":
+ http://coderetreat.org/profile/JoshB
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zach Lea
+ therman":http://coderetreat.org/profile/ZachLeatherman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jay Hann
+ ah":http://coderetreat.org/profile/JayHannah
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brian Os
+ orio":http://coderetreat.org/profile/BrianOsorio
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="San M. K
+ ponton":http://coderetreat.org/profile/SanMKponton
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick Wer
+ tzberger":http://coderetreat.org/profile/NickWertzberger
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=loktar:ht
+ tp://coderetreat.org/profile/loktar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lisa Dav
+ is":http://coderetreat.org/profile/LisaDavis
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pay
+ ne":http://coderetreat.org/profile/MattPayne
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick Nis
+ i":http://coderetreat.org/profile/NickNisi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Koc
+ h":http://coderetreat.org/profile/AdamKoch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joe Atki
+ ns":http://coderetreat.org/profile/JoeAtkins
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="DeUndre'
+  Rushon":http://coderetreat.org/profile/DeUndre
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven S
+ amson":http://coderetreat.org/profile/kosai03
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Kolakowski":http://coderetreat.org/profile/MichaelKolakowski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Ste
+ ele":http://coderetreat.org/profile/MattSteele
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Rice":http://coderetreat.org/profile/JonathanRice
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jessica 
+ Codr":http://coderetreat.org/profile/JessicaCodr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Apurba 
+ Chatterjee":http://coderetreat.org/profile/ApurbaChatterjee
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Aaron W
+ olfson":http://coderetreat.org/profile/AaronWolfson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="David R
+ oyce":http://coderetreat.org/profile/DavidRoyce
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Mike Ho
+ stetler":http://coderetreat.org/profile/MikeHostetler
+END:VEVENT
+END:VCALENDAR

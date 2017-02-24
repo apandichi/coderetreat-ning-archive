@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Maciej Talaśka&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MaciejTalaska</link>
+        <pubDate>Sun, 29 Jan 2017 11:24:11 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:24:11 +0000</lastBuildDate>
+        <image>
+            <title>Maciej Talaśka&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MaciejTalaska</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010f4d31277961746220d0cc5</guid>
+               <title>Maciej Talaśka posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:52938?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MaciejTalaska?xg_source=activity">Maciej Talaśka</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:52938?xg_source=activity">Global Day of Coderetreat 2016 - Wroclaw, Poland</a> at (to be announced)</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">Plain, great Global Day of CodeRetreat!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:52938?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 09 Apr 2016 17:39:17 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010f4d312702a27f25f896dee</guid>
+               <title>Maciej Talaśka posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:45675?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MaciejTalaska?xg_source=activity">Maciej Talaśka</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:45675?xg_source=activity">Global Day of CodeRetreat 2015 in Wroclaw, Poland</a> at Infusion Office, Wroclaw</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Registration is about to open soon at: <a href="http://coderetreat-2015-wroclaw.eventbrite.com?s=44455498">http://coderetreat-2015-wroclaw.eventbrite.com</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:45675?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 13 Sep 2015 18:22:55 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010f4d3124cd34f7648dad57e</guid>
+               <title>Maciej Talaśka updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:39475?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MaciejTalaska?xg_source=activity">Maciej Talaśka</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:39475?xg_source=activity">Global Day of Coderetreat 2014 - Wroclaw, Poland</a> at Infusion Office</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Another edition of CodeRetreat in Wroclaw.Register at: https://coderetreat-2014-wroclaw.eventbrite.com Same as last year - we will gather together to improve our TDD skills, and use different platforms and lanugages. It doesn't matter what programming language is your favourite - come and enjoy!Event will last for the whole Saturday 15th of November. Food will be provided! What you need to bring with you:- laptop (and a charger for it)- your favourtie programming language(s) + your favourite IDE(s)/editor(s) + unit testing library(ies) installed What we provide:- venue: Infusion Office, Heritage Gates Building, Rzeźnicza 28- food - lunch &amp; selection of snacks &amp; beverages- great atmosphere Event plan: 9am - event starts9.00 - 9.30 - registration9.30 - 9.45 - a word about sponsor9.45 - 10.00 - introduction to TDD, Game of Life and CodeRetreat idea. Introduction to first session10.00 - 10.45 - first session (coding)10.45 - 11.00 - retrospecion11.00 - 11.45 - second session (coding)11.45 - 12.00 - retrospection12.00 - 12.45 - third session (coding)12.45 - 13.00 - retrospection 13.00 - 14.00 - lunch 14.00 - 14.45 - 4th session (coding)14.45 - 15.00 - retrospection15.00 - 15.45 - 5th session (coding)15.45 - 16.00 - retrospection16.00 - 16.45 - 6th session (coding)16.45 - 17.00 - retrospection17.00 - 17.45 - last session (coding)17.45 - 18.00 - retrospection18.00 - 18.10 - event summary18.10 - ? after event talks, exchaning ideas, heading to pub?<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:39475?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 16 Oct 2014 12:06:17 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010f4d312617f56ec3d9f66bb</guid>
+               <title>Maciej Talaśka posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:39475?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MaciejTalaska?xg_source=activity">Maciej Talaśka</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:39475?xg_source=activity">Global Day of Code Retreat 2014 in Wroclaw, Poland</a> at Infusion Office</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Another edition of CodeRetreat in Wroclaw.Register at: https://coderetreat-2014-wroclaw.eventbrite.com Same as last year - we will gather together to improve our TDD skills, and use different platforms and lanugages. It doesn't matter what programming language is your favourite - come and enjoy!Event will last for the whole Saturday 15th of November. Food will be provided! What you need to bring with you:- laptop (and a charger for it)- your favourtie programming language(s) + your favourite IDE(s)/editor(s) + unit testing library(ies) installed What we provide:- venue: Infusion Office, Heritage Gates Building, Rzeźnicza 28- food - lunch &amp; selection of snacks &amp; beverages- great atmosphere Event plan: 9am - event starts9.00 - 9.30 - registration9.30 - 9.45 - a word about sponsor9.45 - 10.00 - introduction to TDD, Game of Life and CodeRetreat idea. Introduction to first session10.00 - 10.45 - first session (coding)10.45 - 11.00 - retrospecion11.00 - 11.45 - second session (coding)11.45 - 12.00 - retrospection12.00 - 12.45 - third session (coding)12.45 - 13.00 - retrospection 13.00 - 14.00 - lunch 14.00 - 14.45 - 4th session (coding)14.45 - 15.00 - retrospection15.00 - 15.45 - 5th session (coding)15.45 - 16.00 - retrospection16.00 - 16.45 - 6th session (coding)16.45 - 17.00 - retrospection17.00 - 17.45 - last session (coding)17.45 - 18.00 - retrospection18.00 - 18.10 - event summary18.10 - ? after event talks, exchaning ideas, heading to pub?<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:39475?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 12 Oct 2014 18:14:05 +0000</pubDate>
+               </item>    </channel>
+</rss>

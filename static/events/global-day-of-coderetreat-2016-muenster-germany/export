@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54994
+DTSTAMP:20170129T112901Z
+SUMMARY:Global Day of Coderetreat 2016 - Muenster, Germany
+DESCRIPTION:Local instance of the Global Day of Coderetreat.\nRegister
+  here (Limited to 30 attendees) Hosted & sponsored by Fiducia & GAD I
+ T AG. Facilitated by SocraMOB\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2016-muenster-germany
+DTSTART:20161022T083000Z
+DTEND:20161022T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Fiducia & GAD IT AG
+WEBSITE:https://goo.gl/maps/q3QZPs5VLaF2
+URL:https://goo.gl/maps/q3QZPs5VLaF2
+CONTACT:
+ORGANIZER:Peter Fichtner, Fiducia & GAD IT AG
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Fi
+ chtner":http://coderetreat.org/profile/PeterFichtner
+END:VEVENT
+END:VCALENDAR

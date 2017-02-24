@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39187
+DTSTAMP:20170129T114326Z
+SUMMARY:Global Day of Coderetreat 2014 - Berlin, Germany
+DESCRIPTION:register at :\nhttp://gdcr14-berlin.eventbrite.de\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2014-berlin-germany
+DTSTART:20141115T093000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:HERE
+WEBSITE:http://gdcr14-berlin.eventbrite.de
+URL:http://gdcr14-berlin.eventbrite.de
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/2QN5aCZBKSY*y
+ MwfLJxFniO4O8FZAkPT*NwlvvzToygHqNaMPyyfuZa1ESCnVYOcDL9tILC7iud--vtrFAb
+ fbpGfaJBQqZLH/crberlinklein.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

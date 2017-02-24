@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38682
+DTSTAMP:20170129T102759Z
+SUMMARY:Global Day of Coderetreat 2014 - Thessaloniki, Greece
+DESCRIPTION:TBA\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2014-thessaloniki-greece
+DTSTART:20141115T170000Z
+DTEND:20141115T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBA
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Papapetrou Patroklos":http://coderetreat.org/profile/Pap
+ apetrouPatroklos
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Papapetr
+ ou Patroklos":http://coderetreat.org/profile/PapapetrouPatroklos
+END:VEVENT
+END:VCALENDAR

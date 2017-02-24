@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2f4wpk4ecarjo&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:32:55Z</updated>
+                            <author>
+                    <name>Christopher Sass</name>
+                    <uri>http://coderetreat.org/profile/ChristopherSass</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/iZhPFFAeUVCSp3Imbu6WGrQzZ59aDxWkA9FY7LYQN7xa9IyMmN92zlQxRDQjVIxx9ktGyo1YLTvf2vLa7FDmK3t7WAs1UDkd/799617221.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2f4wpk4ecarjo&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Bob Allen @CuriousAgilist</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/BobAllenCuriousAgilist"/>
+                                        <id>tag:coderetreat.org,2012-08-25:6456126:User:11637</id>
+                                        <updated>2012-08-25T14:45:19.681Z</updated>
+                    
+                                            <author>
+                            <name>Christopher Sass</name>
+                            <uri>http://coderetreat.org/profile/ChristopherSass</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bob Allen @CuriousAgilist&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bob Allen @CuriousAgilist&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

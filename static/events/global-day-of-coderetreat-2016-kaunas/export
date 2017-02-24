@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54197
+DTSTAMP:20170129T093129Z
+SUMMARY:Global Day of Coderetreat 2016 - Kaunas, Lithuania
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ actising the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time. Participation is free, but we kindly ask you 
+ to register here as seats are limited. On the day of event please brin
+ g a laptop with your favourite programming environment installed inclu
+ ding your favourite testing library. It does not matter which programm
+ ing language you use, as long as you enjoy coding in it.\n\nFor more i
+ nformation visit http://coderetreat.org/events/global-day-of-coderetre
+ at-2016-kaunas
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:gdcr2016, gdcr, gdcr16
+LOCATION:KTU StartupSpace
+WEBSITE:
+URL:
+CONTACT:+37061237238
+ORGANIZER:Adomas Greicius, Giedre Kojaliene, Dainius Mežanskas, Domin
+ ykas Blyžė, Vaidas Pilkaukas
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adomas G
+ reicius":http://coderetreat.org/profile/AdomasGreicius
+END:VEVENT
+END:VCALENDAR

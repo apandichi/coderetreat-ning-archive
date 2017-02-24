@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49163
+DTSTAMP:20170129T102540Z
+SUMMARY:Global Day of Coderetreat 2015 - Grodno, Belarus
+DESCRIPTION:November, 14 is the day when any engineer can get away fro
+ m the pressure of “getting things done” and retreat to the softwar
+ e craftsmanship harbor. This year 20+ EPAM offices are officially join
+ ing the Global Day of Coderetreat and we are inviting you to master yo
+ ur coding skills together with other EPAMers.\nCheckout more details h
+ ere: https://events.epam.com/events/coderetreat-grodno\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -2015-grodno-belarus
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Grodno, Belarus
+WEBSITE:https://www.google.by/maps/place/53%C2%B042'13.1%22N+23%C2%B04
+ 9'06.5%22E/@53.7036292,23.8162823,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?
+ hl=ru
+URL:https://www.google.by/maps/place/53%C2%B042'13.1%22N+23%C2%B049'06
+ .5%22E/@53.7036292,23.8162823,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=r
+ u
+CONTACT:+375297831796
+ORGANIZER:Pavel Batashou
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/OxyEFcGSM-PkX
+ R9xM8EZgTcBUfECVAFe*zaWcy1i-YW*pbC2Q7jGnkR-QuHADGf1XY33BweVADxMoXy39vH
+ lt35gnd0H6xrx/_0.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Boris Ye
+ gorov":http://coderetreat.org/profile/BorisYegorov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pavel Ba
+ tashov":http://coderetreat.org/profile/PavelBatashov
+END:VEVENT
+END:VCALENDAR

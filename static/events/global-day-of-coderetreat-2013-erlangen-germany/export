@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29422
+DTSTAMP:20170129T115501Z
+SUMMARY:Global Day of Coderetreat 2013 - Erlangen, Germany
+DESCRIPTION:GDCR 2013 @ Erlangen - Hosted and sponsored by Method Park
+ .\n   Mit Method Park nimmt Erlangen beim GDCR 2013 teil! Die Teilneh
+ merzahl ist auf 20 begrenzt, die Teilnahme ist kostenlos. Es wird Esse
+ n und Getränke geben. Bitte eigenen Laptop mit Entwicklungsumgebung m
+ itbringen.\nAnmeldung: methodpark.de\nFacilitators: Stefan Clepce (+St
+ efanClepce , XING-Profil) und Markus Reinhardt (+MarkusReinhardt , XIN
+ G-Profil)\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-2013-erlangen-germany
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Erlangen, Germany
+WEBSITE:http://www.methodpark.de/event/global-day-of-coderetreat.html
+URL:http://www.methodpark.de/event/global-day-of-coderetreat.html
+CONTACT:
+ORGANIZER;CN="Stefan Clepce":http://coderetreat.org/profile/StefanClep
+ ce
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ h Settgast":http://coderetreat.org/profile/ChristophSettgast
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan C
+ lepce":http://coderetreat.org/profile/StefanClepce
+END:VEVENT
+END:VCALENDAR

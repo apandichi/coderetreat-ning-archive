@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=110utxn6gzyf6&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:45:10Z</updated>
+                            <author>
+                    <name>Marcin Floryan</name>
+                    <uri>http://coderetreat.org/profile/mfloryan</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/oPiLRtYZll8Qomts*wH1irOeK-UlEat1XE0FaWZUHRlFKYKTywTF-1UlmWQob5acrM5yTVhrRrdD1c-dCd8CsUJMhHTtd4jv/679877196.png?xgip=0%3A0%3A191%3A191%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=110utxn6gzyf6&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Duncan Sample</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/dsample"/>
+                                        <id>tag:coderetreat.org,2013-11-06:6456126:User:28857</id>
+                                        <updated>2013-11-06T19:53:20.531Z</updated>
+                    
+                                            <author>
+                            <name>Marcin Floryan</name>
+                            <uri>http://coderetreat.org/profile/mfloryan</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/zNSLWuvsJ1Im4UDnHDZo9-lcxtMdusMJ16G2PoWSGRKhlNlnYs9xVkVa1-NdXFEMKq6fVZYTfuJC3LPPvCiTx98mCqsSrfb1/1044170847.png?xgip=0%3A0%3A424%3A424%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Duncan Sample&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/zNSLWuvsJ1Im4UDnHDZo9-lcxtMdusMJ16G2PoWSGRKhlNlnYs9xVkVa1-NdXFEMKq6fVZYTfuJC3LPPvCiTx98mCqsSrfb1/1044170847.png?xgip=0%3A0%3A424%3A424%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Duncan Sample&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

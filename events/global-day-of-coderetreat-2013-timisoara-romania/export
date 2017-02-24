@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27474
+DTSTAMP:20170129T101545Z
+SUMMARY:Global Day of Coderetreat 2013 - Timisoara, Romania
+DESCRIPTION:Romania was the first non-US country to host a code retrea
+ t, so we have a tradition and passion for this type of events.\nRegard
+ less if you are a pro or a novice in programming, you are welcome to j
+ oin a full day event created by coders for coders. This is a great opp
+ ortunity to play, explore and learn programming from others like you.Â
+  \nReserve your place at the official page of the event.\nhttp://www.m
+ eetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/145643002/\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2013-timisoara-romania
+DTSTART:20131214T100000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Strtup Hub - Timisoara Business Center
+WEBSITE:http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Grou
+ p/events/145643002/
+URL:http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/ev
+ ents/145643002/
+CONTACT:
+ORGANIZER;CN="Patkos Csaba":http://coderetreat.org/profile/PatkosCsaba
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/l8tah2vExAUxJ
+ Axt*RwGp-Sk5PlTznzpMmI0XxAL-RhV*xevdhtyEuJNVAMDsxrq7uDGh0W34OjHjGOKBTa
+ 71uJRVuxxbjNp/coderetreattm.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patkos C
+ saba":http://coderetreat.org/profile/PatkosCsaba
+END:VEVENT
+END:VCALENDAR

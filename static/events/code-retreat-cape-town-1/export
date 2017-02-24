@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12919
+DTSTAMP:20170129T135304Z
+SUMMARY:Code Retreat Cape Town
+DESCRIPTION:Fifth quarterly code retreat hosted by Information Logisi
+ tics. (check out the previous one)\nPractice perfect coding, throw aw
+ ay your code every 45 minutes.\nFocus on Pairing, TDD, simple design w
+ hile solving a small bit of Conway's game of life.\nCheck out coderet
+ reat.com for more details on the format.\n\nFor more information visi
+ t http://coderetreat.org/events/code-retreat-cape-town-1
+DTSTART:20120929T080000Z
+DTEND:20120929T170000Z
+CATEGORIES:code, retreat
+LOCATION:Cape Town
+WEBSITE:http://www.meetup.com/Cape-Town-Software-Developers/events/704
+ 02062/
+URL:http://www.meetup.com/Cape-Town-Software-Developers/events/7040206
+ 2/
+CONTACT:
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

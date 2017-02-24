@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=39vq34mdwr7jg&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:40:06Z</updated>
+                            <author>
+                    <name>Adrian Braniste</name>
+                    <uri>http://coderetreat.org/profile/AdrianBraniste</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/nNOqzuU--h*YUmbwt7Omq3mQiBjxxegJQaA2rI4T81UBfPYAy2MU*AgVxp8bnWNa3sJbtddaXxhJo6F*Y2fjoBpHTHr5tLRs/76275_657816710926646_732813422_n.jpg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=39vq34mdwr7jg&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Adi B</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/AdiB"/>
+                                        <id>tag:coderetreat.org,2014-10-30:6456126:User:40363</id>
+                                        <updated>2014-10-30T06:26:16.913Z</updated>
+                    
+                                            <author>
+                            <name>Adrian Braniste</name>
+                            <uri>http://coderetreat.org/profile/AdrianBraniste</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/wy0bytsZawbLZVi6ONY6v*3w4yT794-WQ-TsldWMX7*wiSg0qkWrh*C3e-w6zNaJtoB0bYahOlr*fPs40amCUJvrb0D8ffd8/1088799664.bin?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adi B&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/wy0bytsZawbLZVi6ONY6v*3w4yT794-WQ-TsldWMX7*wiSg0qkWrh*C3e-w6zNaJtoB0bYahOlr*fPs40amCUJvrb0D8ffd8/1088799664.bin?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Adi B&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

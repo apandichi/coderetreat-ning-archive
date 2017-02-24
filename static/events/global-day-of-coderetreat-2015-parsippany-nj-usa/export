@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45612
+DTSTAMP:20170129T121626Z
+SUMMARY:Global Day of Coderetreat 2015 - Parsippany, NJ, USA
+DESCRIPTION:Please join us for an exciting Coderetreat in Northern New
+  Jersey. We'll bring the food and wifi, you bring your laptop and desi
+ re to practice coding! \nThis is our second time hosting the Global D
+ ay of Codretreat, this time it will be in our swanky new office!\nFor 
+ information on why you should attend, I wrote this blog after hosting 
+ last year's coderetreat: Five Reasons to Attend a Coderetreat\nPlease
+  click here to register: http://www.microstrat.com/content/global-day-
+ coderetreat-2015\n\nFor more information visit http://coderetreat.org/
+ events/global-day-of-coderetreat-2015-parsippany-nj-usa
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Micro Strategies
+WEBSITE:http://www.microstrat.com
+URL:http://www.microstrat.com
+CONTACT:2012749622
+ORGANIZER;CN="Jason Jolley":http://coderetreat.org/profile/JasonJolley
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/HfIXzVrPfI3IH
+ BCGWTW2vrFDuVXQT72d9Q7mJwnTuwgPimxo65yFhDHygwpDC39S1775XX-YAmz1fpCimyv
+ zrtwXmSGLIYrv/small_logo2.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jason Jo
+ lley":http://coderetreat.org/profile/JasonJolley
+END:VEVENT
+END:VCALENDAR

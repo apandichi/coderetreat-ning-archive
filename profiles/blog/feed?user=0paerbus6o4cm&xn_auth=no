@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Tdriscol&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0paerbus6o4cm&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:06Z</updated>
+                            <author>
+                    <name>tdriscol</name>
+                    <uri>http://coderetreat.org/profile/tdriscol</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0paerbus6o4cm&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Code Retreat - NYC</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5674"/>
+                                        <id>tag:coderetreat.org,2011-12-12:6456126:BlogPost:5674</id>
+                                        <updated>2011-12-12T11:39:24.000Z</updated>
+                    
+                                            <author>
+                            <name>tdriscol</name>
+                            <uri>http://coderetreat.org/profile/tdriscol</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Details of NYC coderetreat can be found here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://nameofsitegoeshere.tumblr.com/post/14079791798/gdcr&quot;&gt;http://nameofsitegoeshere.tumblr.com/post/14079791798/gdcr&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Details of NYC coderetreat can be found here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://nameofsitegoeshere.tumblr.com/post/14079791798/gdcr&quot;&gt;http://nameofsitegoeshere.tumblr.com/post/14079791798/gdcr&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

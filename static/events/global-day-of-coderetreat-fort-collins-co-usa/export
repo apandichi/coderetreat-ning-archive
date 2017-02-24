@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15622
+DTSTAMP:20170129T134613Z
+SUMMARY:Global Day of Coderetreat 2012 - Fort Collins, CO / USA
+DESCRIPTION:A great day of practice in coderetreat-style, facilitated
+  by Bill Tucker. \nYou'll get morning coffee / snacks, a fantastic l
+ unch, and an afternoon kicker for a strong finish.\n\nFor more informa
+ tion visit http://coderetreat.org/events/global-day-of-coderetreat-for
+ t-collins-co-usa
+DTSTART:20121208T083000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat
+LOCATION:Rocky Mountain Innosphere
+WEBSITE:http://globalcoderetreat2012ftcollins.eventbrite.com/
+URL:http://globalcoderetreat2012ftcollins.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Derek Haynes":http://coderetreat.org/profile/DerekHaynes
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Simon Ru
+ pp-Greene":http://coderetreat.org/profile/SimonRuppGreene
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Larry Ru
+ pp":http://coderetreat.org/profile/LarryRupp
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Derek Ha
+ ynes":http://coderetreat.org/profile/DerekHaynes
+END:VEVENT
+END:VCALENDAR

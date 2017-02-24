@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>王雪松&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/wangxuesong</link>
+        <pubDate>Sun, 29 Jan 2017 12:42:36 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:42:36 +0000</lastBuildDate>
+        <image>
+            <title>王雪松&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/wangxuesong</link>
+            <url>http://api.ning.com:80/files/BDRakL243OBC3vq6uZwro8ME8evTztlbitqpIMQyOHXQLKAvZefgdD4bcXmYSzUhsvpJb2e6p0zc*oXjgXmXjyv1cVYctZK*/1154495732.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501fefbf0f73b226154b</guid>
+               <title>james peterson left a comment for 王雪松</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52433?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52433?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/wangxuesong?xg_source=activity">王雪松</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:34:37 +0000</pubDate>
+               </item>    </channel>
+</rss>

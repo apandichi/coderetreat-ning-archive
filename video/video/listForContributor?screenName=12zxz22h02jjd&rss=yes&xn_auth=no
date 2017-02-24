@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Victoria Schiffer&#039;s Videos (Coderetreat) - Coderetreat</title>
+            <link rel="self" href="listForContributor?screenName=12zxz22h02jjd&amp;rss=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:54:17Z</updated>
+                        <id>http://coderetreat.org/video/video/listForContributor?screenName=12zxz22h02jjd&amp;rss=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Stop, delete your code, and stand up! + Countdown - Coderetreat @REA 2013</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:29116"/>
+                                        <id>tag:coderetreat.org,2013-11-09:6456126:Video:29116</id>
+                                        <updated>2013-11-09T04:41:03.178Z</updated>
+                    
+                                            <author>
+                            <name>Victoria Schiffer</name>
+                            <uri>http://coderetreat.org/profile/VictoriaSchiffer</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/stop-delete-your-code-and-stand-up-coderetreat-rea-2013-1&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/BZVbc20jWUk9HHSYJHOXGhxohjo5CS2etYsMx8Y9HavPR9ijmEkoPrWeLCuUhnOLpSBavlrwfw8adGyYSvEyJwrwJgOgXXCK/1044389800.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;We created our own &quot;Stop, delete your code, and stand up!&quot; video during our internal coderetreat @REA (realestate.com.au), TDD in Ruby was not challenging enough to most, so TDD in Bash was very popular…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/stop-delete-your-code-and-stand-up-coderetreat-rea-2013-1&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/BZVbc20jWUk9HHSYJHOXGhxohjo5CS2etYsMx8Y9HavPR9ijmEkoPrWeLCuUhnOLpSBavlrwfw8adGyYSvEyJwrwJgOgXXCK/1044389800.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;We created our own &quot;Stop, delete your code, and stand up!&quot; video during our internal coderetreat @REA (realestate.com.au), TDD in Ruby was not challenging enough to most, so TDD in Bash was very popular ;)                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

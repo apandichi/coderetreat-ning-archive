@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48195
+DTSTAMP:20170129T103648Z
+SUMMARY:Global Day of Coderetreat 2015 - Poznań, Poland
+DESCRIPTION:\n\nFor more information visit http://coderetreat.org/even
+ ts/global-day-of-coderetreat-2015-pozna-poland
+DTSTART:20151114T090000Z
+DTEND:20151114T150000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:3rd floor of Delta building
+WEBSITE:http://www.jug.poznan.pl/
+URL:http://www.jug.poznan.pl/
+CONTACT:
+ORGANIZER:Wojciech Buras
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Dud
+ czak":http://coderetreat.org/profile/AdamDudczak
+END:VEVENT
+END:VCALENDAR

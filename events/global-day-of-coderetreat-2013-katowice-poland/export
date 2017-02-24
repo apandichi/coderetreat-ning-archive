@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29759
+DTSTAMP:20170129T115549Z
+SUMMARY:Global Day of Coderetreat 2013 - Katowice, Poland
+DESCRIPTION:For the first time in Silesia we are organizing an event: 
+ Global Day of Coderetreat!\nGet more information about this event: htt
+ p://coderetreat-katowice.pl\nWe are part of a Software Craftsmanship S
+ ilesia group. We are planning our meeting in conference center in Kat
+ owice, Jordana 18th Street.\nRegistration and more information about t
+ he event, will be available soon at: http://www.meetup.com/sc-silesia/
+ \n\nFor more information visit http://coderetreat.org/events/global-da
+ y-of-coderetreat-2013-katowice-poland
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Jordana18
+WEBSITE:http://www.jordana18.katowice.pl/dojazd.htm
+URL:http://www.jordana18.katowice.pl/dojazd.htm
+CONTACT:0048 604 634 734
+ORGANIZER;CN="Dawid Pytel":http://coderetreat.org/profile/DawidPytel
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/BpcxhYIbWSZao
+ 1LeiJ*dZMCeJB7QtZUD3KJyyM-etIbIL3wjhQmFvb4-iN3WDNh10KXfnS1M1G0T1uiSdtI
+ jeuMLqTefi3Mg/heart.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dawid Py
+ tel":http://coderetreat.org/profile/DawidPytel
+END:VEVENT
+END:VCALENDAR

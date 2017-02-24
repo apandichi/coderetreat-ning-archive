@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48164
+DTSTAMP:20170129T121436Z
+SUMMARY:Global Day of Coderetreat 2015 - Weinsberg, Germany
+DESCRIPTION:Global Day of Code Retreat\nKaufland Informationssysteme R
+ egistration: Please send an email to informationssysteme@kaufland.de\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-code-retreat-weinsberg
+DTSTART:20151114T080000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Kaufland Informationssysteme GmbH & Co. KG
+WEBSITE:https://www.google.de/maps/dir/''/Haller+Str.+60,+74189+Weinsb
+ erg/data=!4m5!4m4!1m0!1m2!1m1!1s0x47982ffeb65a9847:0xc30e28ddd376070a?
+ sa=X&ved=0CB0QwwUwAGoVChMI_MWH8YflyAIVif5yCh2H0QE7
+URL:https://www.google.de/maps/dir/''/Haller+Str.+60,+74189+Weinsberg/
+ data=!4m5!4m4!1m0!1m2!1m1!1s0x47982ffeb65a9847:0xc30e28ddd376070a?sa=X
+ &ved=0CB0QwwUwAGoVChMI_MWH8YflyAIVif5yCh2H0QE7
+CONTACT:+49 7132 94 1971
+ORGANIZER;CN="Kaufland Informationssysteme":http://coderetreat.org/pro
+ file/KauflandInformationssysteme
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kaufland
+  Informationssysteme":http://coderetreat.org/profile/KauflandInformati
+ onssysteme
+END:VEVENT
+END:VCALENDAR

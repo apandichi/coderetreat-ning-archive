@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38160
+DTSTAMP:20170129T120301Z
+SUMMARY:Global Day of Coderetreat 2014 - Madrid, Spain
+DESCRIPTION:Madrid joins the Global Day of Code Retreat 2014.\nMore in
+ fo will be available at Madrid Coderetreat website. Stay tuned!\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2014-madrid-spain
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Madrid, Spain
+WEBSITE:http://madridcoderetreat.wordpress.com/
+URL:http://madridcoderetreat.wordpress.com/
+CONTACT:
+ORGANIZER;CN="Rafael Luque":http://coderetreat.org/profile/RafaelLuque
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier A
+ cero":http://coderetreat.org/profile/JavierAcero
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael L
+ uque":http://coderetreat.org/profile/RafaelLuque
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Miguel 
+ Angel Diez":http://coderetreat.org/profile/MiguelAngelDiez
+END:VEVENT
+END:VCALENDAR

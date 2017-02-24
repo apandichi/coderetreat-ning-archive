@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2214
+DTSTAMP:20170129T124355Z
+SUMMARY:Global Day of Coderetreat in New York City
+DESCRIPTION:Go to http://coderetreatnyc.eventbrite.com/ to register.
+ \n\nFor more information visit http://coderetreat.org/events/global-da
+ y-of-coderetreat-in-new-york-city
+DTSTART:20111203T073000Z
+DTEND:20111203T170000Z
+CATEGORIES:coderetreat
+LOCATION:Hedgeserv
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Tim Driscoll
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/fSw89Cxue8qpK
+ lZOErnrWgsjifWA62EPI7FtTFVYzVT54dr20NTu5HJ-b1Hf7sJQ85-3hI5ACKrIAkoV8j9
+ 0G7Xy*i685o2a/newyorkcitycentralpark.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=tdriscol:
+ http://coderetreat.org/profile/tdriscol
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53325
+DTSTAMP:20170129T112418Z
+SUMMARY:Global Day of Coderetreat 2016 - Istanbul, Turkey
+DESCRIPTION:Agile Turkey has been organizing Global Day of Code Retrea
+ t at Istanbul since 2013. This year, we would like to make it happen a
+ gain. Looking forward to seeing passionate developers the the event. I
+ t will be full of fun!\n\nFor more information visit http://coderetrea
+ t.org/events/global-day-of-coderetreat-2016-istanbul-turkey
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16, gdcr16istanbul
+LOCATION:Istanbul
+WEBSITE:https://www.eventbrite.com/e/global-day-of-code-retreat-istanb
+ ul-by-agile-turkey-registration-28487769686
+URL:https://www.eventbrite.com/e/global-day-of-code-retreat-istanbul-b
+ y-agile-turkey-registration-28487769686
+CONTACT:
+ORGANIZER:Agile Turkey
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/61FQgI-ukrApU
+ zrBEgoE9atJcwX9YV39aVB-jc9FmvEPd5BQWjlx5hfIU5bz8XuK18JRA-*G1gLYcXRi9cF
+ OO3zmByGupcLj/agileturkeyagilecoachofturkey.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lemi Orh
+ an Ergin":http://coderetreat.org/profile/LemiOrhanErgin
+END:VEVENT
+END:VCALENDAR

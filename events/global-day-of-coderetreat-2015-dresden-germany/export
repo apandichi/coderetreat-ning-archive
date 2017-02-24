@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49274
+DTSTAMP:20170129T121330Z
+SUMMARY:Global Day of Coderetreat 2015 - Dresden, Germany
+DESCRIPTION:http://www.cofab.de/aktuell/14-11-15-global-day-of-coderet
+ reat/\n\nFor more information visit http://coderetreat.org/events/glob
+ al-day-of-coderetreat-2015-dresden-germany
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:CoFab
+WEBSITE:http://www.cofab.de/aktuell/14-11-15-global-day-of-coderetreat
+ /
+URL:http://www.cofab.de/aktuell/14-11-15-global-day-of-coderetreat/
+CONTACT:
+ORGANIZER;CN="Steffen Gemkow":http://coderetreat.org/profile/SteffenGe
+ mkow
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steffen 
+ Gemkow":http://coderetreat.org/profile/SteffenGemkow
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sebastia
+ n Schmeck":http://coderetreat.org/profile/SebastianSchmeck
+END:VEVENT
+END:VCALENDAR

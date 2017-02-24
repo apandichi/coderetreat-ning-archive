@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37374
+DTSTAMP:20170129T104130Z
+SUMMARY:Global Day of Coderetreat 2014 - Melbourne, Australia
+DESCRIPTION:Global Day of Coderetreat in Melbourne\n\nFor more informa
+ tion visit http://coderetreat.org/events/global-day-of-coderetreat-201
+ 4-melbourne-australia
+DTSTART:20141115T080000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Thoughtworks office
+WEBSITE:https://www.eventbrite.com.au/e/global-day-of-code-retreat-mel
+ bourne-2014-tickets-12945944669
+URL:https://www.eventbrite.com.au/e/global-day-of-code-retreat-melbour
+ ne-2014-tickets-12945944669
+CONTACT:
+ORGANIZER;CN="Greg Dziemidowicz":http://coderetreat.org/profile/GregDz
+ iemidowicz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Dzi
+ emidowicz":http://coderetreat.org/profile/GregDziemidowicz
+END:VEVENT
+END:VCALENDAR

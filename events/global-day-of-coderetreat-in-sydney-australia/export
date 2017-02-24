@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2587
+DTSTAMP:20170129T133525Z
+SUMMARY:Global  Day of Coderetreat in Sydney, Australia
+DESCRIPTION:Part of the global day. \n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-in-sydney-austra
+ lia
+DTSTART:20111203T083000Z
+DTEND:20111203T170000Z
+CATEGORIES:coderetreat
+LOCATION:Thoughtworks Office
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="corey haines":http://coderetreat.org/profile/128952ghvkc
+ vj
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stephen 
+ Smithwick":http://coderetreat.org/profile/StephenSmithwick
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew G
+ rimm":http://coderetreat.org/profile/AndrewGrimm
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tony Sch
+ ofield":http://coderetreat.org/profile/TonySchofield
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Felix Tj
+ andrawibawa":http://coderetreat.org/profile/FelixTjandrawibawa
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Scott Ha
+ rvey":http://coderetreat.org/profile/ScottHarvey
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sonny Ma
+ i":http://coderetreat.org/profile/SonnyMai
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Navin K"
+ :http://coderetreat.org/profile/NavinK
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tim McEw
+ an":http://coderetreat.org/profile/TimMcEwan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven R
+ ingo":http://coderetreat.org/profile/StevenRingo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jason Yi
+ p":http://coderetreat.org/profile/JasonYip
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="corey ha
+ ines":http://coderetreat.org/profile/128952ghvkcvj
+END:VEVENT
+END:VCALENDAR

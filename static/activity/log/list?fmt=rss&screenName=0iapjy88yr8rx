@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Adrian Nistor&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AdrianNistor</link>
+        <pubDate>Sun, 29 Jan 2017 11:15:20 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:15:20 +0000</lastBuildDate>
+        <image>
+            <title>Adrian Nistor&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AdrianNistor</link>
+            <url>http://api.ning.com:80/files/JxjyPVzDvmYu*FHD24B*FQk-gPBlS-5S1tzbBaZZ2R1EFYhBuTl9k2GNM-aOYLKvfzzW3XK-K3wjH8nLJ0zJe9boL9X*cqDt/462688906.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000a097b26b1b8395465f621de</guid>
+               <title>Adrian Nistor is attending Costin Morariu&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:7417?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AdrianNistor?xg_source=activity">Adrian Nistor</a> is attending <a href="http://coderetreat.org/profile/CostinMorariu?xg_source=activity">Costin Morariu's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:7417?xg_source=activity">Code retreat Romania-Sibiu</a> at iQuest (Business Center B, flor 3)</h3><div class="rich-detail"><div class="rich-date">January 28, 2012 from 8:30am to 5:30pm</div><div class="rich-excerpt">Lovers of clean code, pair programming and TDD, we are pleased to announce a Code Retreat event for you.We will focus on writing beautiful code without the pressure of a solution delivery. <a href="http://agileworks.ro/organizare/code-retreat/" target="_blank">Here</a> are more details about what Code Retreat means.To help us in organizing the event, those willing to participate, please confirm at <a href="mailto:costin.morariu@yahoo.com">costin.morariu</a><a href="mailto:costin.morariu@yahoo.com">@yahoo.com</a>.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:7417?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 17 Jan 2012 13:12:40 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000a097b2674aa14b8037d8d11</guid>
+               <title>Adrian Nistor is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/AdrianNistor?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AdrianNistor?xg_source=activity">Adrian Nistor</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 17 Jan 2012 13:12:08 +0000</pubDate>
+               </item>    </channel>
+</rss>

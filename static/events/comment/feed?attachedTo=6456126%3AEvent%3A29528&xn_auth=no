@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2013 - Perth, Australia - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A29528&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:55:12Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A29528&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Thanks Brad!</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32517"/>
+                                        <id>tag:coderetreat.org,2013-12-12:6456126:Comment:32517</id>
+                                        <updated>2013-12-12T02:47:14.139Z</updated>
+                    
+                                            <author>
+                            <name>Jack Golding</name>
+                            <uri>http://coderetreat.org/profile/JackGolding</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks Brad!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks Brad!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi All,
+Just a note that we w…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32415"/>
+                                        <id>tag:coderetreat.org,2013-12-12:6456126:Comment:32415</id>
+                                        <updated>2013-12-12T02:21:25.104Z</updated>
+                    
+                                            <author>
+                            <name>Brady</name>
+                            <uri>http://coderetreat.org/profile/BradyLill</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi All,&lt;/p&gt;
+&lt;p&gt;Just a note that we will still be running this even if there are only a few RSVPs. It&#039;ll just be more personal :)&lt;/p&gt;
+&lt;p&gt;If you are thinking of coming, but haven&#039;t RSVP&#039;d, please do so now to ensure there will be adequate food for lunch.&lt;/p&gt;
+&lt;p&gt;Looking forward to it!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi All,&lt;/p&gt;
+&lt;p&gt;Just a note that we will still be running this even if there are only a few RSVPs. It&#039;ll just be more personal :)&lt;/p&gt;
+&lt;p&gt;If you are thinking of coming, but haven&#039;t RSVP&#039;d, please do so now to ensure there will be adequate food for lunch.&lt;/p&gt;
+&lt;p&gt;Looking forward to it!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

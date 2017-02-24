@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26092
+DTSTAMP:20170129T114950Z
+SUMMARY:Global Day of Coderetreat 2013 - Minneapolis, MN, USA
+DESCRIPTION:Minneapolis, MN is participating in the Global Day of Cod
+ eretreat 2013!\nCoderetreat is a day-long, intensive practice event f
+ ocused on the fundamentals of software development and design.The uniq
+ ue coderetreat format (which eliminates the pressure of 'getting thing
+ s done' and focuses on practicing basic principles of good design) has
+  proven to be a highly effective (and fun) means of skill improvement.
+   On December 14th, Coderetreats will be held at cities all over the w
+ orld. To celebrate this significant event, we'll be participating in s
+ ome global activities in addition to our normal Coderetreat activities
+ .\nYou only need to bring a laptop with the development tools you requ
+ ire to write code using your chosen programming languages. \nCheck ou
+ t coderetreat.org for further details on what to expect.\nRegister:�
+ �http://minneapolisglobalcoderetreat-eorgf.eventbrite.com/\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-coderet
+ reat-2013-minneapolis-mn-usa
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Software For Good
+WEBSITE:http://minneapolisglobalcoderetreat-eorgf.eventbrite.com/
+URL:http://minneapolisglobalcoderetreat-eorgf.eventbrite.com/
+CONTACT:
+ORGANIZER:Software For Good
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/TROotLSon3mDY
+ mDiQ6S*XQmfJ96aL1Mj1QRHCYPCYphE9anyWd89UxrqEFPb1*iFUJL-mQazG6jX2396AS6
+ VbJpsxf32tre7/softwareforgood.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bobbilee
+  Hartman":http://coderetreat.org/profile/BobbileeHartman
+END:VEVENT
+END:VCALENDAR

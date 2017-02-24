@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39365
+DTSTAMP:20170129T120421Z
+SUMMARY:Global Day of Coderetreat 2014 - Chengdu, China
+DESCRIPTION:Let's celebrate Global Day of Coderetreat with a coderetre
+ at in Chengdu!\n\nFor more information visit http://coderetreat.org/ev
+ ents/global-day-of-coderetreat-2014-chengdu-china
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Chengdu, Sichuan
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Qing Li":http://coderetreat.org/profile/QingLi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Qing Li"
+ :http://coderetreat.org/profile/QingLi
+END:VEVENT
+END:VCALENDAR

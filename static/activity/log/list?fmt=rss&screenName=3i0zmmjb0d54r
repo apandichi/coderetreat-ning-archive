@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Pedro Lafuente&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PedroLafuente</link>
+        <pubDate>Sun, 29 Jan 2017 12:11:56 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:11:56 +0000</lastBuildDate>
+        <image>
+            <title>Pedro Lafuente&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PedroLafuente</link>
+            <url>http://api.ning.com:80/files/PefImJW4duhN4WuGl4R6UX4Tbz7rZ1N2vvz6w9NLYihL8IcF6A1SNwY4GbuJqP95wGYPc4PkJriUGJ5IYqEu*Xm8Cbe9FA*K/577032350.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b6bba8d24b3619d5e13825a</guid>
+               <title>Pedro Lafuente updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PedroLafuente?xg_source=activity">Pedro Lafuente</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity" ><img src="http://api.ning.com/files/JgWHSTt60etQcx05UgBDeySAVEfVluqdtAHJsQ0VGSpI0aut8pM7UCnkaLi-WVrh46zVKY*CIb4uqu*jeHaYxLsMSdonbGay/agile.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity">Global Day of Coderetreat 2015 - Zaragoza, Spain</a> at Hispalinux</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">From Agile Aragon  we are happy to join the Global Day of Coderetreat 2015.Please sign up here<a href="http://www.eventbis.com/gdcr15zgz" target="_blank">GDCR'15 Zaragoza</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 10 Nov 2015 09:01:07 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b6bba8d24807632e8e0c5f2</guid>
+               <title>Pedro Lafuente posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PedroLafuente?xg_source=activity">Pedro Lafuente</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity" ><img src="http://api.ning.com/files/JgWHSTt60etQcx05UgBDeySAVEfVluqdtAHJsQ0VGSpI0aut8pM7UCnkaLi-WVrh46zVKY*CIb4uqu*jeHaYxLsMSdonbGay/agile.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity">Global Day of Coderetreat 2015 - Zaragoza, Spain</a> at Etopia</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">From Agile Aragon  we are happy to join the Global Day of Coderetreat 2015.Please sign up here<a href="http://www.eventbis.com/gdcr15zgz" target="_blank">GDCR'15 Zaragoza</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46441?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 01 Oct 2015 13:05:47 +0000</pubDate>
+               </item>    </channel>
+</rss>

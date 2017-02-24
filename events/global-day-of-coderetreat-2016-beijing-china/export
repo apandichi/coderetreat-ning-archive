@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55098
+DTSTAMP:20170129T113110Z
+SUMMARY:Global Day of Coderetreat 2016 - Beijing, China
+DESCRIPTION:Nokia Beijing Technology Center will host one event of Glo
+ bal Day of Coderetreat (GDCR), welcome you to join us.\nRegister and d
+ etailed information in:\nhttps://www.wenjuan.com/s/ZVvyMz/.\n\n\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2016-beijing-china
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Wang Jing Motorola Building Tower A #107
+WEBSITE:
+URL:
+CONTACT:8613520715066
+ORGANIZER:Chen Samuel
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=ChenSamue
+ l:http://coderetreat.org/profile/ChenSamuel
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54367
+DTSTAMP:20170129T112524Z
+SUMMARY:Global Day of Coderetreat 2016 - Poznan, Poland
+DESCRIPTION:Global Day of Coderetreat 2016 in Poznan!\nPlease register
+  here: http://www.meetup.com/GDOCR-Poznan/\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2016-poznan
+ -poland
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Poznan, Poland
+WEBSITE:http://www.meetup.com/GDOCR-Poznan/
+URL:http://www.meetup.com/GDOCR-Poznan/
+CONTACT:
+ORGANIZER;CN="Bartosz Mikulski":http://coderetreat.org/profile/Bartosz
+ Mikulski
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bartosz 
+ Mikulski":http://coderetreat.org/profile/BartoszMikulski
+END:VEVENT
+END:VCALENDAR

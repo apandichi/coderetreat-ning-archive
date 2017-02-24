@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54225
+DTSTAMP:20170129T105019Z
+SUMMARY:Global Day of Code Retreat 2016 - Tenerife, Canary Islands
+DESCRIPTION:Global day of code retreat 2016\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-code-retreat-2016-tene
+ rife-canary-islands
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Adeje - Venue to be determined
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Carlos Ble":http://coderetreat.org/profile/CarlosBle
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos B
+ le":http://coderetreat.org/profile/CarlosBle
+END:VEVENT
+END:VCALENDAR

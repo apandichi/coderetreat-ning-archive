@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38555
+DTSTAMP:20170129T120402Z
+SUMMARY:Global Day of Coderetreat 2014 - Erlangen, Germany
+DESCRIPTION:GDCR 2014 @ Erlangen - Hosted and sponsored by Method Park
+ .\nDer GDCR 2014 ist vorbei und es war mal wieder spitze!\nNach einige
+ n Novemberwetter-typischen krankheitsbedingten Ausfällen waren wir ei
+ ne kleine aber feine Gruppe von 9 Leuten, die an diesem Tag mehr Spaß
+  hatten als ich mir hätte vorstellen können. Vielen Dank an alle fü
+ r den Spaß, die Motivation und die vielen Dinge die wir gelernt haben
+  - wahrlich \"a day like no other\"!\n Organisatoren: Stefan Clepce (@
+ clepce) und Stefan Holzmüller\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2014-erlangen-germany
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Method Park
+WEBSITE:http://www.methodpark.de/event/global-day-of-code-retreat.html
+URL:http://www.methodpark.de/event/global-day-of-code-retreat.html
+CONTACT:
+ORGANIZER;CN="Stefan Clepce":http://coderetreat.org/profile/StefanClep
+ ce
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/SIuQH83u91G7t
+ 84H0C2Qg4Vzm-cI8Xt9G5zOrpNNmTJTDvNGds17dQmSp2xcYJUjXuBm33X--bpd5Dq0XkO
+ wmayw36PcfJes/gdcr14_2nd_session_c_qml_matlab.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan C
+ lepce":http://coderetreat.org/profile/StefanClepce
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ h Settgast":http://coderetreat.org/profile/ChristophSettgast
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47172
+DTSTAMP:20170129T121945Z
+SUMMARY:Global Day of Coderetreat 2015 - Lviv, Ukraine
+DESCRIPTION:Location - Dzherelna street 38, Lviv Ukraine.  Local spons
+ or - remit.se\nRegister here - https://www.eventbrite.com/e/global-d
+ ay-of-coderetreat-2015-lviv-ukraine-registration-19297361929\nCoderetr
+ eat is a day-long, intensive practice event, focusing on the fundament
+ als of software development and design. By providing developers the op
+ portunity to take part in focused practice, away from the pressures of
+  'getting things done', the coderetreat format has proven itself to be
+  a highly effective means of skill improvement. Practicing the basic p
+ rinciples of modular and object-oriented design, developers can improv
+ e their ability to write code that minimizes the cost of change over t
+ ime.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-lviv-ukraine
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Lviv
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Dariya Sulimova +38-097-611-8393
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/D4tgE4d4mNpL9
+ vubBTnWM*kmFRVQsi9F9A0T*n*Zt4-KfX3O6YzuFUM6BzDVHWX6OpJoQ61I01ERNntKT1a
+ pW3CZrP6l6wqU/LOGO13LVIVcopycopy.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Taras Bu
+ durovych":http://coderetreat.org/profile/TarasBudurovych
+END:VEVENT
+END:VCALENDAR

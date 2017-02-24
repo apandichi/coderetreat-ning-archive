@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11888
+DTSTAMP:20170129T122554Z
+SUMMARY:Bengaluru Code Retreat, September
+DESCRIPTION:This is our first code retreat in Bengaluru. Seats are lim
+ ited to 24. Please register on our website.\n\nFor more information v
+ isit http://coderetreat.org/events/bengaluru-code-retreat-september
+DTSTART:20120916T100000Z
+DTEND:20120916T170000Z
+CATEGORIES:practice, party
+LOCATION:Aricent
+WEBSITE:https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=A
+ ricent,+Outer+Ring+Road,+Bangalore,+Karnataka,+India&aq=2&oq=Aricent&s
+ ll=37.0625,-95.677068&sspn=45.553578,93.076172&vpsrc=0&ie=UTF8&hq=Aric
+ ent,&hnear=Outer+Ring+Rd,+Bangalore,+Bengaluru,+Karnataka,+India&t=m&z
+ =14&iwloc=A&cid=3117526634826253890
+URL:https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Arice
+ nt,+Outer+Ring+Road,+Bangalore,+Karnataka,+India&aq=2&oq=Aricent&sll=3
+ 7.0625,-95.677068&sspn=45.553578,93.076172&vpsrc=0&ie=UTF8&hq=Aricent,
+ &hnear=Outer+Ring+Rd,+Bangalore,+Bengaluru,+Karnataka,+India&t=m&z=14&
+ iwloc=A&cid=3117526634826253890
+CONTACT:
+ORGANIZER;CN="Naresh Jain":http://coderetreat.org/profile/NareshJain
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/KXWLS6nr6aoCu
+ Oip6gNG3VsOzPQi2icVmmD7NyYOcBGkOWhQDyoY*hhjrwpCPIZ7M*wEeZP*WImLO51iH84
+ TCxQB*C6VnYSz/code_retreat.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jesly Va
+ rghese":http://coderetreat.org/profile/JeslyVarghese
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Naresh J
+ ain":http://coderetreat.org/profile/NareshJain
+END:VEVENT
+END:VCALENDAR

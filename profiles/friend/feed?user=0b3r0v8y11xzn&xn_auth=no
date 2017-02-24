@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0b3r0v8y11xzn&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:57:43Z</updated>
+                            <author>
+                    <name>David Furber</name>
+                    <uri>http://coderetreat.org/profile/DavidFurber</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/rML1AEi0iLtnhMLHQuVY7FoWvc24Q1S-nGtnNhSRjcAvq0VFEcpopConV4QUa07v4Kms*Bi9mJ99u6J8ezbb3a260thmtDpx/679811167.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0b3r0v8y11xzn&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Nathan Kennedy</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/NathanKennedy"/>
+                                        <id>tag:coderetreat.org,2013-11-08:6456126:User:28892</id>
+                                        <updated>2013-11-08T15:35:05.225Z</updated>
+                    
+                                            <author>
+                            <name>David Furber</name>
+                            <uri>http://coderetreat.org/profile/DavidFurber</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nathan Kennedy&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nathan Kennedy&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Chris Horn</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ChrisHorn"/>
+                                        <id>tag:coderetreat.org,2013-09-24:6456126:User:26768</id>
+                                        <updated>2013-09-24T03:15:17.386Z</updated>
+                    
+                                            <author>
+                            <name>David Furber</name>
+                            <uri>http://coderetreat.org/profile/DavidFurber</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/FIt*ZFe6wNjjl59LKFU7haPWkE6g49nf2Yv2b54*5y3YHsyUl3Qf8sD7PJ*NEn5UShhgR7k7TFKh9kLOw5OT18Ey07MXGFFx/1039639144.png?xgip=0%3A0%3A239%3A239%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Chris Horn&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/FIt*ZFe6wNjjl59LKFU7haPWkE6g49nf2Yv2b54*5y3YHsyUl3Qf8sD7PJ*NEn5UShhgR7k7TFKh9kLOw5OT18Ey07MXGFFx/1039639144.png?xgip=0%3A0%3A239%3A239%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Chris Horn&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

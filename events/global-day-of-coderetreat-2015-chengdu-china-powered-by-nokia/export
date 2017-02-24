@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50004
+DTSTAMP:20170129T121100Z
+SUMMARY:Global Day of Coderetreat 2015 - Chengdu, China
+DESCRIPTION:As part of Global day of code retreat 2015, this is one da
+ y long\nintensive practice for software design and development. A grea
+ t way to improve your skills and meet new friends.\nRegister  Here !
+ \n\nFor more information visit http://coderetreat.org/events/global-da
+ y-of-coderetreat-2015-chengdu-china-powered-by-nokia
+DTSTART:20151114T093000Z
+DTEND:20151114T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Nokia Global Software Development Center, Chengdu Branch
+WEBSITE:https://www.google.com/maps/@30.5487591,104.0700467,17z?hl=zh-
+ CN
+URL:https://www.google.com/maps/@30.5487591,104.0700467,17z?hl=zh-CN
+CONTACT:+86 18508283602
+ORGANIZER;CN="Harry Chen":http://coderetreat.org/profile/HarryChen
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/y*wDQ4ub4BkJ6
+ S8J6aS8OjJgKeSDbaoybSubGIaCuwJWrx5zTNuGQos6p5*PHfXPNMD9bfUS*a8mX4Ib*MQ
+ anJ-xgShJ2ok9/potrait.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Harry Ch
+ en":http://coderetreat.org/profile/HarryChen
+END:VEVENT
+END:VCALENDAR

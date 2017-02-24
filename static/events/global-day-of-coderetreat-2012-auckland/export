@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13221
+DTSTAMP:20170129T140600Z
+SUMMARY:Global Day of Coderetreat 2012 - Auckland / New Zealand
+DESCRIPTION:Adding Auckland to the map for GDCR!\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-2012-
+ auckland
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:TBC
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Ian Randall":http://coderetreat.org/profile/IanRandall
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ann Mari
+ nas":http://coderetreat.org/profile/AnnMarinas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ian Rand
+ all":http://coderetreat.org/profile/IanRandall
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Kevin I
+ som":http://coderetreat.org/profile/KevinIsom
+END:VEVENT
+END:VCALENDAR

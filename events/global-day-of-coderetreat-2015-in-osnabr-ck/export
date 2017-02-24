@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45963
+DTSTAMP:20170129T121656Z
+SUMMARY:Global Day of Coderetreat 2015 - Osnabrück, Germany
+DESCRIPTION:Die LMIS AG lädt in Kooperation mit Universität und Hoch
+ schule Osnabrück alle interessierten Softwareentwickler/innen aus der
+  Region zum »Global Day of Coderetreat« am 14. November 2015 ein.  S
+ tudenten sind ebenso wie berufstätige Softwareentwickler herzlich ein
+ geladen, ihre Erfahrungen auszutauschen und ihr Programmierhandwerk au
+ fzubessern. Die Teilnehmerzahl ist begrenzt auf 20 Personen. Die Teiln
+ ahme ist kostenlos – für einen Snack wird gesorgt.  Das Mitbringen 
+ eines Notebooks inkl. eingerichteter Entwicklungsumgebung für die gew
+ ählte Programmiersprache wird vorausgesetzt!  Wann?  14. November 20
+ 15 | 09.00 bis ca. 17.00 Uhr Wo?  LMIS AG, Neumarkt 1, 49074 Osnabrü
+ ck Wer? (Informatik-) Studenten und (berufstätige) Softwareentwickler
+ \n\nAnmeldung\nDie Anmeldung zum »Global Day of Coderetreat«  in Os
+ nabrück von LMIS AG in Kooperation mit Hochschule und Universität Os
+ nabrück ist ab sofort online möglich unter: https://gdcr2015.eventbr
+ ite.de\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2015-in-osnabr-ck
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:LMIS AG
+WEBSITE:https://www.lmis.de/
+URL:https://www.lmis.de/
+CONTACT:+49 (0) 541 200 690 - 105
+ORGANIZER;CN="Katharina Wuttke":http://coderetreat.org/profile/Kathari
+ naWuttke
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/7KfVtj4CX6gCH
+ ZPb6dZkHjnS-YpYBsCZqjLuT1-lRsrQt8A0isB7j9ro*wisylOpQfmlwePcWFjHqopXgQu
+ fx4-BhWfhuhVb/GDCR2015.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Katharin
+ a Wuttke":http://coderetreat.org/profile/KatharinaWuttke
+END:VEVENT
+END:VCALENDAR

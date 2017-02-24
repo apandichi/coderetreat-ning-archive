@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37843
+DTSTAMP:20170129T120213Z
+SUMMARY:Global Day of Coderetreat 2014 - Bangalore, India
+DESCRIPTION:Coming soon......\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2014-bangalore-india
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBD
+WEBSITE:https://www.eventbrite.com/e/global-day-of-coderetreat-2014-ba
+ ngalore-india-tickets-3841106854
+URL:https://www.eventbrite.com/e/global-day-of-coderetreat-2014-bangal
+ ore-india-tickets-3841106854
+CONTACT:+91 98863 82983
+ORGANIZER:Agile Bangalore
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="chandan 
+ das":http://coderetreat.org/profile/chandandas685
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Naveen K
+ umar Singh":http://coderetreat.org/profile/NaveenKumarSingh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vinay Kr
+ ishna":http://coderetreat.org/profile/VinayKrishna
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Praveen 
+ Kanakarajan":http://coderetreat.org/profile/PraveenKanakarajan
+END:VEVENT
+END:VCALENDAR

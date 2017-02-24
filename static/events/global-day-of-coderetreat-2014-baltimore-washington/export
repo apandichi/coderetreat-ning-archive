@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39572
+DTSTAMP:20170129T100800Z
+SUMMARY:Global Day of Coderetreat 2014 - Arlington, VA, USA
+DESCRIPTION:Baltimore-Washington area code retreat day.   Please RSVP
+  here  http://www.meetup.com/DC-Software-Craftsmanship/events/1637242
+ 42/\n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-coderetreat-2014-baltimore-washington
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Excella Consulting
+WEBSITE:https://www.google.com/maps/place/2300+Wilson+Blvd,+Arlington,
+ +VA+22201/@38.8905986,-77.0870948,15z/
+URL:https://www.google.com/maps/place/2300+Wilson+Blvd,+Arlington,+VA+
+ 22201/@38.8905986,-77.0870948,15z/
+CONTACT:2025185792
+ORGANIZER:Excella Consulting, LMO,  Corporate Brokers, DblFuzzr,LLC
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vlad Kor
+ olev":http://coderetreat.org/profile/VladKorolev
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54972
+DTSTAMP:20170129T112621Z
+SUMMARY:Global Day of Coderetreat 2016 - Columbus, OH, USA
+DESCRIPTION:\nA Coderetreat is an intensive practice event, focusing o
+ n the fundamentals of software development and design. By providing de
+ velopers the opportunity to take part in focused practice, away from t
+ he pressures of \"getting things done\", the code retreat format has p
+ roven itself to be a highly effective means of skill improvement.\nThe
+  Global Day of Coderetreat is a specially yearly event where people fr
+ om across the global all participate in a Coderetreat. This year’s 
+ event for Columbus will be hosted as part of Columbus Code Camp so sig
+ n up there if you'd like to attend.\nSo what should you expect at a Co
+ deretreat? You should expect to code. Individuals are grouped into tea
+ ms of two or three and each team works toward a solution to a common p
+ roblem, in this case Conway’s Game of Life. Each session lasts abou
+ t an hour and there are several sessions over the course of the day. A
+ t the end of each session, code is deleted, groups are shuffled, and 
+ there is a retrospective to reflect upon and share what was learned. 
+ \n\n\nFor more information visit http://coderetreat.org/events/global-
+ day-of-coderetreat-2016-columbus-oh-usa
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Rev1 Ventures
+WEBSITE:http://columbuscodecamp.com/
+URL:http://columbuscodecamp.com/
+CONTACT:
+ORGANIZER;CN="Guy Royse":http://coderetreat.org/profile/GuyRoyse
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/iwncuNArSGDni
+ nP*kp7UBrbYl4egcaHCQNcPTRxfLTcJfLm7K9rOQ5emjpvW6xzPCwbpWBtnVsBRbpzH8MT
+ RmxilrkP*NhWV/ccclogo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Guy Roys
+ e":http://coderetreat.org/profile/GuyRoyse
+END:VEVENT
+END:VCALENDAR

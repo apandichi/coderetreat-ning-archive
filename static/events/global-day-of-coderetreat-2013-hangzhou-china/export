@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26845
+DTSTAMP:20170129T115121Z
+SUMMARY:Global Day of Coderetreat 2013 - Hangzhou, China
+DESCRIPTION:Global Day of Coderetreat 2013 - Hangzhou, China\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2013-hangzhou-china
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Hangzhou
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Liao-Yuan Zhang":http://coderetreat.org/profile/LiaoYuan
+ Zhang
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Liao-Yua
+ n Zhang":http://coderetreat.org/profile/LiaoYuanZhang
+END:VEVENT
+END:VCALENDAR

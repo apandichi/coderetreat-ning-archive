@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50539
+DTSTAMP:20170129T135702Z
+SUMMARY:Global Day of Coderetreat 2015 - Graz, Austria
+DESCRIPTION:Infonova and CAMPUS 02 are glad to announce a Global Da
+ y of Coderetreat event in Graz.\nParticipation is free but there is a 
+ limited number of participants - so please register early!\nDate: Sa
+ . 14.11.2015, 9:00-17:00\nSchedule:\n\n9:00-9:30 Welcome Coffee + Intr
+ oduction\n9:30-12:30 Coding Sessions\n12:30-13:15 Lunch break includin
+ g free lunch (register in time so we can buy enough food)\n13:15-17:0
+ 0 Coding Sessions (slight variations possible)\n\nFacilitator: Wolfga
+ ng Kaufmann\nLocation: FH CAMPUS 02, Körblergasse 111, Room C202, 801
+ 0 Graz, Austria\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2015-graz-austria
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:FH Campus 02 in 8010 Graz,, im Raum C202.
+WEBSITE:http://coderetreat.at/
+URL:http://coderetreat.at/
+CONTACT:
+ORGANIZER;CN="Wolfgang Kaufmann":http://coderetreat.org/profile/Wolfga
+ ngKaufmann
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wolfgang
+  Kaufmann":http://coderetreat.org/profile/WolfgangKaufmann
+END:VEVENT
+END:VCALENDAR

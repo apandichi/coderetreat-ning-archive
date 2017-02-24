@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54952
+DTSTAMP:20170129T112738Z
+SUMMARY:Global Day of Coderetreat 2016 - Lübeck, Germany
+DESCRIPTION:We will celebrate the Global Day of Code Retreat in Lübec
+ k!\nDuring normal work we don´t have much time to work on our core sk
+ ills as developer. Under time pressure we often use known technics or 
+ habits although we know that there are better ways.\nAs well as an art
+ ist we need to have a place where we can practice our skills and that�
+ �s what is a code retreat about.\nIn small sessions we work in pairs s
+ o solve a small given problem... the whole day. It´s not about being 
+ finished, it´s about learning, making errors, trying new ways and hav
+ ing a lot of fun.\nPlease bring a laptop with your favorite IDE with y
+ ou so that we can start in time. Lunch, drinks and food is provided by
+  Dräger as well as the cozy athmosphere in their innovation garage.\n
+ Afterwards we can have some beers in a pub.\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-coderetreat-2016-l-bec
+ k-germany
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Dräger \"Garage\"
+WEBSITE:https://www.google.de/maps/place/53°51'24.0\"N+10°40'15.0\"E
+URL:https://www.google.de/maps/place/53°51'24.0\"N+10°40'15.0\"E
+CONTACT:
+ORGANIZER;CN="Florian Mösch":http://coderetreat.org/profile/FlorianMo
+ esch
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/oX3dxcXIhM7UM
+ DvmbX8My2sYDsk-PbvCqlVpbuUYHA-2dS*ekbCRErKWRhKRD6rkuseDtAxvzAWJ-goEEN8
+ BA77zBNwhxAS0/swk.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Florian 
+ Mösch":http://coderetreat.org/profile/FlorianMoesch
+END:VEVENT
+END:VCALENDAR

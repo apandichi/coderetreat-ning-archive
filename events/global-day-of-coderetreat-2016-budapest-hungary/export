@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54148
+DTSTAMP:20170129T104243Z
+SUMMARY:Global Day of Coderetreat 2016 - Budapest, Hungary
+DESCRIPTION:You can register at: http://www.meetup.com/Coderetreat-Bu
+ dapest/events/234691286/\n\nFor more information visit http://coderetr
+ eat.org/events/global-day-of-coderetreat-2016-budapest-hungary
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Emarsys CraftLab
+WEBSITE:https://www.google.hu/maps/place/Budapest,+Kossuth+Lajos+u.+9,
+ +1053/@47.493667,19.0561446,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc439b8c
+ b60b:0x8aa7821c409c147a!8m2!3d47.493667!4d19.0583333?hl=en
+URL:https://www.google.hu/maps/place/Budapest,+Kossuth+Lajos+u.+9,+105
+ 3/@47.493667,19.0561446,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc439b8cb60b
+ :0x8aa7821c409c147a!8m2!3d47.493667!4d19.0583333?hl=en
+CONTACT:
+ORGANIZER:Rafael Ordog
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael D
+ evill":http://coderetreat.org/profile/RafaelDevill
+END:VEVENT
+END:VCALENDAR

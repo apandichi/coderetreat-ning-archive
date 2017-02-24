@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10970
+DTSTAMP:20170129T112309Z
+SUMMARY:Legacy Code Retreat - Vilnius 2012
+DESCRIPTION:A free-of-charge whole-day workshop for developers based o
+ n the well-known Code Retreat format, only this time with an additiona
+ l twist - we'll be working on someone's already written code. More abo
+ ut LCR here: http://whatis.legacycoderetreat.com/\nParticipants will g
+ et their hands dirty in some old, messy, organically grown, hard to un
+ derstand implementation of a game in the chosen programming language. 
+ The task is: using tests and best practices, raise the quality of code
+  step by step without breaking existing behavior. The legacy code has
+  versions in Java, C#, Python, Ruby, C++, JavaScript and other languag
+ es - see https://github.com/jbrains/trivia\nParticipants will need to 
+ have laptop computers with prepared development environments. Number o
+ f seats are limited. If you want to register or have questions, please
+  send an email to Osvaldas at o.grigas@gmail.com - you should also ind
+ icate your programming language of choice + what other languages you k
+ now (it may be necessary as we'll work in pairs).\n\nFor more informat
+ ion visit http://coderetreat.org/events/legacy-code-retreat-vilnius-20
+ 12
+DTSTART:20120825T090000Z
+DTEND:20120825T160000Z
+CATEGORIES:legacy
+LOCATION:Hub Vilnius
+WEBSITE:http://www.hubvilnius.lt/kontaktai/
+URL:http://www.hubvilnius.lt/kontaktai/
+CONTACT:+37052745471
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/xvg03MJhTS9bk
+ m4xSrOpZ-i2mQKCk*b*X86*BIED1JbfgYXNm6oyxfAjjvpt6GRQspAi*ZB4sb31p5JebEE
+ -1WfE5BS-3bgd/Vilnius_Gediminas_tower.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+END:VEVENT
+END:VCALENDAR

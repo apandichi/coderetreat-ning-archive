@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40156
+DTSTAMP:20170129T123156Z
+SUMMARY:Global Day of Coderetreat 2014 - Honolulu, HI, USA
+DESCRIPTION:Come join us on November 15th for the Global Day of Codere
+ treat in Honolulu :)\nRSVP at http://www.meetup.com/aloharb/events/215
+ 199322/\nThis event is language agnostic (not just ruby!) and intended
+  for intermediate to advanced developers of any language looking to im
+ prove their level of software development & design.\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 14-honolulu-us
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Manoa Innovation Center
+WEBSITE:https://www.google.com/maps/place/Manoa+Innovation+Center/@21.
+ 308857,-157.808458,17z/data=!3m1!4b1!4m2!3m1!1s0x7c006d08371d01e9:0xd8
+ 4a9348810716bf
+URL:https://www.google.com/maps/place/Manoa+Innovation+Center/@21.3088
+ 57,-157.808458,17z/data=!3m1!4b1!4m2!3m1!1s0x7c006d08371d01e9:0xd84a93
+ 48810716bf
+CONTACT:
+ORGANIZER;CN="Christopher Sass":http://coderetreat.org/profile/Christo
+ pherSass
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ her Sass":http://coderetreat.org/profile/ChristopherSass
+END:VEVENT
+END:VCALENDAR

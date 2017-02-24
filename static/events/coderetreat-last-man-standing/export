@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26712
+DTSTAMP:20170129T122808Z
+SUMMARY:Coderetreat — Last Man Standing
+DESCRIPTION:In our day to day duties we have the sense of urgency to g
+ et our jobs done, that causes us to rush. And so we try to cut corners
+ , but sometimes we do not cut the corners in the best way possible, be
+ cause we do not know enough.\nDuring coderetreat we will stop the r
+ ush and use pair-programming, which is wonderful because we can lear
+ n a lot from each other in a relaxed atmosphere free from conventional
+  time pressure.\nYou will have fun, meet other programmers, learn new
+  thingsfrom the others and have a lot of interesting discussions with
+  everyone.\nThis event will be facilitated by Adi BolboacaPlease regi
+ ster here: http://www.meetup.com/Latvian-Developers-Network/events/13
+ 7995022/\n\nFor more information visit http://coderetreat.org/events/c
+ oderetreat-last-man-standing
+DTSTART:20130914T090000Z
+DTEND:20130914T190000Z
+CATEGORIES:coderetreat, socialization
+LOCATION:Baltic Beach SPA and Resort Hotel
+WEBSITE:http://maps.google.com/maps?q=J%C5%ABras+iela+23%2F25%2C+J%C5%
+ ABrmala
+URL:http://maps.google.com/maps?q=J%C5%ABras+iela+23%2F25%2C+J%C5%ABrm
+ ala
+CONTACT:
+ORGANIZER:Latvian Developers Network
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vladimir
+  Tarasov":http://coderetreat.org/profile/VladimirTarasow
+END:VEVENT
+END:VCALENDAR

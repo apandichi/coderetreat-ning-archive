@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30997
+DTSTAMP:20170129T115713Z
+SUMMARY:Global Day of Coderetreat 2013 - Potchefstroom, South Africa
+DESCRIPTION:See here to register for event:\nhttp://www.meetup.com/cod
+ eretreat/events/149666562/\n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-2013-potchefstroom-south-af
+ rica
+DTSTART:20131214T073000Z
+DTEND:20131214T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Willows Hotel
+WEBSITE:http://www.willowsgardenhotel.co.za/
+URL:http://www.willowsgardenhotel.co.za/
+CONTACT:+27 82 8595852
+ORGANIZER;CN="Anthonie De Klerk":http://coderetreat.org/profile/Anthon
+ ieDeKlerk
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anthonie
+  De Klerk":http://coderetreat.org/profile/AnthonieDeKlerk
+END:VEVENT
+END:VCALENDAR

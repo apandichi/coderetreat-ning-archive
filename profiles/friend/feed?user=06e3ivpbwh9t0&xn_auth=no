@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=06e3ivpbwh9t0&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:43:11Z</updated>
+                            <author>
+                    <name>Azzam Aziz</name>
+                    <uri>http://coderetreat.org/profile/AzzamAziz</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/hx9uObMk8-PV5vtRLZYW2UsNEs9WvbQQaKu9rv2CBlBJs1ESKt12eb40d208ZYm7mp4jW6-KE28ZcgSFkCIRasBO6T3t5miT/817350832.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=06e3ivpbwh9t0&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jeff Hoover</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JeffHoover"/>
+                                        <id>tag:coderetreat.org,2011-12-03:6456126:User:3760</id>
+                                        <updated>2011-12-03T21:21:28.688Z</updated>
+                    
+                                            <author>
+                            <name>Azzam Aziz</name>
+                            <uri>http://coderetreat.org/profile/AzzamAziz</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/1u4FpCIVz2inOi24q2jshXyN-s5BSbf9gzERKi-4EWTjN1QDHrDiAe1UJLw0UkWBjL2igJRKDRe1FXbyofvAwntd5EBRZyuu/462316018.jpeg?xgip=0%3A0%3A419%3A419%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jeff Hoover&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/1u4FpCIVz2inOi24q2jshXyN-s5BSbf9gzERKi-4EWTjN1QDHrDiAe1UJLw0UkWBjL2igJRKDRe1FXbyofvAwntd5EBRZyuu/462316018.jpeg?xgip=0%3A0%3A419%3A419%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jeff Hoover&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

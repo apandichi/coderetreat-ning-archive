@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30667
+DTSTAMP:20170129T115646Z
+SUMMARY:Global Day of Coderetreat 2013 -  Düsseldorf, Germany
+DESCRIPTION:Register via Softwerkskammer.org\n\nFor more information v
+ isit http://coderetreat.org/events/global-day-of-coderetreat-d-sseldor
+ f
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Control€xpert GmbH
+WEBSITE:http://www.softwerkskammer.org/activities/gdcr_dus_2013
+URL:http://www.softwerkskammer.org/activities/gdcr_dus_2013
+CONTACT:
+ORGANIZER:Softwerkskammer Düsseldorf
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sergey S
+ hishkin":http://coderetreat.org/profile/SergeyShishkin
+END:VEVENT
+END:VCALENDAR

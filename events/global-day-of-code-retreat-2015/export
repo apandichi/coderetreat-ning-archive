@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48305
+DTSTAMP:20170129T121443Z
+SUMMARY:Global Day of Coderetreat 2015 - Łódź, Poland
+DESCRIPTION:Plese visit meetup page for details http://www.meetup.com
+ /Java-User-Group-Lodz/events/226169070/\n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-code-retreat-2015
+DTSTART:20151114T080000Z
+DTEND:20151114T171500Z
+CATEGORIES:coderetreat, gdcr, gdcr15, gdcr2015
+LOCATION:Fujitsu Rnd Center
+WEBSITE:https://goo.gl/maps/mV8XXBoYogt
+URL:https://goo.gl/maps/mV8XXBoYogt
+CONTACT:517725068
+ORGANIZER;CN="Jug Łódź":http://coderetreat.org/profile/JugLodz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jug Łó
+ dź":http://coderetreat.org/profile/JugLodz
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0x65ehsr0dgq7&amp;xn_auth=no"/>
+            <updated>2017-01-29T14:03:31Z</updated>
+                            <author>
+                    <name>Stefano Bossi</name>
+                    <uri>http://coderetreat.org/profile/StefanoBossi</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0x65ehsr0dgq7&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Marco Beri</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MarcoBeri"/>
+                                        <id>tag:coderetreat.org,2012-09-27:6456126:User:12881</id>
+                                        <updated>2012-09-27T13:33:19.136Z</updated>
+                    
+                                            <author>
+                            <name>Stefano Bossi</name>
+                            <uri>http://coderetreat.org/profile/StefanoBossi</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/dV2ycRsRK-nqTANW7Xhj0Ov5hPy*sdtD3LgKQ6HxI0TDaxY9kiPxCKrJLmukostE*58H*ZIxL8d9nJgRCt6MNfYFqmZNP5sh/679790673.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Marco Beri&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/dV2ycRsRK-nqTANW7Xhj0Ov5hPy*sdtD3LgKQ6HxI0TDaxY9kiPxCKrJLmukostE*58H*ZIxL8d9nJgRCt6MNfYFqmZNP5sh/679790673.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Marco Beri&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

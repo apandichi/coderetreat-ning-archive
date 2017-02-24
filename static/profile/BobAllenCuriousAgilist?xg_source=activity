@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+<head data-layout-view="default" class="xj_layout_head">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5W4WQ');</script>
+<!-- End Google Tag Manager -->
+    <script>(function(){var d={date:8,app:"s",host:"s",ip:4,ua:"s",user:"s",url:"s",html:4,css:4,render:4,js:4,nlr:4,nlr_eval:4,img:4,embed:4,obj:4,mcc:4,mcr:4,mct:4,nac:4,pac:4,l_t:"s"},h=document,e="getElementsByTagName",i=window,c=function(){return(new Date).getTime()},f=c(),g={},b={},a={},j=i.bzplcm={listen:{},start:function(k){b[k]=c();return j},stop:function(k){g[k]=c()-b[k];return j},ts:function(k){g[k]=c()-f;return j},abs_ts:function(k){g[k]=c();return j},add:function(l){for(var k in l){if("function"!=typeof l[k]){a[k]=l[k]}}},send:function(){if(!g.he){j.ts("he")}a.date=["xdate"];a.host=["xhost"];a.ip=["xip"];a.ua=["xua"];a.url=["xpath"];a.html=g.he-g.hb;a.css=g.ca-g.cb;a.render=g.jb-g.hb;a.js=g.ja-g.jb;a.nlr=g.nr-g.ns;a.nlr_eval=g.ni+g.ne;a.img=h[e]("img").length;a.embed=h[e]("embed").length;a.obj=h[e]("object").length;if(i.xg&&i.xg.xnTrackEvent){i.xg.xnTrackEvent(d,"BazelCSPerfLite",a)}}}})();</script><script>if(window.bzplcm)window.bzplcm.ts('hb')</script>    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Bob Allen @CuriousAgilist&#039;s Page - Coderetreat</title>
+    <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="SHORTCUT ICON" href="../favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Bob Allen @CuriousAgilist's Page on Coderetreat" />
+    <meta name="keywords" content="" />
+<meta name="title" content="Bob Allen @CuriousAgilist&#039;s Page" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://coderetreat.org/profiles/profile/show?id=BobAllenCuriousAgilist&amp;xg_source=activity" />
+<meta property="og:title" content="Bob Allen @CuriousAgilist&#039;s Page" />
+<link rel="image_src" href="http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=183&amp;height=183&amp;crop=1%3A1" />
+<script type="text/javascript">
+    djConfig = { baseScriptUri: 'http://coderetreat.org/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/6456126?default=6456126&width=64&height=64","url":"http:\/\/coderetreat-community.ning.com","domains":["coderetreat.org"],"online":true,"privateSource":true,"id":"coderetreat-community","appId":"6456126","description":"","name":"Coderetreat","owner":"128952ghvkcvj","createdDate":"2011-11-05T02:05:01.167Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":5};
+        (function(){
+            if (!window.ning) { return; }
+
+            var age, gender, rand, obfuscated, combined;
+
+            obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+            if (obfuscated) {
+                var offset = 100000;
+                obfuscated = parseInt(obfuscated[1]);
+                rand = obfuscated / offset;
+                combined = (obfuscated % offset) ^ rand;
+                age = combined % 1000;
+                gender = (combined / 1000) & 3;
+                gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+                ning.viewer = {"age":age,"gender":gender};
+            }
+        })();
+
+        if (window.location.hash.indexOf('#!/') == 0) {
+        window.location.replace(window.location.hash.substr(2));
+    }
+    window.xg = window.xg || {};
+xg.captcha = {
+    'shouldShow': false,
+    'siteKey': '6Ldf3AoUAAAAALPgNx2gcXc8a_5XEcnNseR6WmsT'
+};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg.addOnFacebookLoad = function (f) { xg.addOnFacebookLoad.functions.push(f); };
+xg.addOnFacebookLoad.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) { this.p++; },
+    onLoad: function(set) {
+        this.p--;
+        if (this.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
+        }
+    }
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
+}
+xg._loader.onDone = function() {
+        if(window.bzplcm)window.bzplcm.start('ni');
+        xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { _globals: { screen_name: null, subdomain: "coderetreat-community", is_owner: false, is_admin: false, is_member: false, join_date: 0, request_method: "GET", trace: "93ffb82a-1168-4d55-9e84-c9bef897e3ca"}, event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; }, _trackingHost: "coll.ning.com", _jsDebug: false } };</script>
+<link rel="alternate" type="application/atom+xml" title="Bob Allen @CuriousAgilist&#039;s Friends - Coderetreat" href="../profiles/friend/feed?user=3p96rdb7mkyur&amp;xn_auth=no" /><link rel="alternate" type="application/rss+xml" title="Latest Activity - Coderetreat" href="../activity/log/list?fmt=rss&amp;screenName=3p96rdb7mkyur" /><link rel="alternate" type="application/atom+xml" title="Bob Allen @CuriousAgilist&#039;s Blog - Coderetreat" href="../profiles/blog/feed?user=3p96rdb7mkyur&amp;xn_auth=no" /><script>if(window.bzplcm)window.bzplcm.ts('cb')</script>
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common-982.min.css?xn_version=3408449514);
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/wide-sidebar.min.css?xn_version=1327369422);
+@import url(http://static.ning.com/socialnetworkmain/widgets/profiles/css/component.min.css?xn_version=2871767745);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIXYaqKgGd0KBZicBBAhfDYj2Aa4s8f5nvPfAF-VYObMp0rAmgQw1ZhPhrL8x7sGJRoU6IovphedJCS5U4-yfae/1249016504.css?xn_version=201701120951);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIgyDAElZlBJ1Awn*XfVWcD2dDlwyjePoNWSlDmjGd8UlGhL3I8xAQsZekh6xVJbAhSECHot0nK97Q3PD*PcfV3/1249038261.css?xn_version=201701120951);
+
+</style>
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=1394342931" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<![endif]-->
+<script>if(window.bzplcm)window.bzplcm.ts('ca')</script><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../profiles/blog/rsd" />
+<script type="text/javascript">(function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,'http://coderetreat.org/m/profile?screenName=3p96rdb7mkyur');</script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5W4WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="xj_before_content">        <div id="xn_bar">
+            <div id="xn_bar_menu">
+                <div id="xn_bar_menu_branding" >
+                                    </div>
+
+                <div id="xn_bar_menu_more">
+                    <form id="xn_bar_menu_search" method="GET" action="http://coderetreat.org/main/search/search">
+                        <fieldset>
+                            <input type="text" name="q" id="xn_bar_menu_search_query" value="Search Coderetreat" _hint="Search Coderetreat" accesskey="4" class="text xj_search_hint" />
+                            <a id="xn_bar_menu_search_submit" href="BobAllenCuriousAgilist?xg_source=activity#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+                        </fieldset>
+                    </form>
+                </div>
+
+                            <ul id="xn_bar_menu_tabs">
+                                            <li><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity">Sign Up</a></li>
+                                                <li><a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity">Sign In</a></li>
+                                    </ul>
+                        </div>
+        </div>
+            <script src="http://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
+    <script>
+        try {
+            GlamCreateSlot("183770529", "728x90", "Ning_Top_Leaderboard");
+            GlamSetSlotData("Ning_Top_Leaderboard", "ningid=6456126");
+            GlamCreateSlot("183770529", "300x250", "Ning_Top_Right");
+            GlamSetSlotData("Ning_Top_Right", "ningid=6456126");
+            GlamTrack("183770529");
+        } catch (e) {}
+    </script>
+    </div>
+    <div class="xg_theme" data-layout-pack="romeo">
+        <div id="xg_themebody">
+            <div id="xg_ad_above_header" class="xg_ad xj_ad_above_header dy-displaynone">
+                
+            </div>
+            <div id="xg_head">
+                <div id="xg_masthead">
+                    <h1 id="xg_sitename" class="xj_site_name"><a id="application_name_header_link" href="../index.html"><img src="http://api.ning.com:80/files/2vzV35vB8k5SPm92v9bGA0ng9DP2h-ONIcgPoDUThiIk1roHMF4eVjzlN2o3z9S5aU*wKgn9jZpdxEekNQCYvnOumr-beV44/cnlogo.png" alt="Coderetreat"></a></h1>
+                    <p id="xg_sitedesc" class="xj_site_desc">Honing the craft together worldwide</p>
+                </div>
+                <div id="xg_navigation" class="xj_navigation"><ul>
+    <li dojoType="SubTabHover" id="xg_tab_xn3" class="xg_subtab"><a href="../about"><span>About</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../about" style="float:none;"><span>About Coderetreat</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../about/community-network" style="float:none;"><span>About Community Network</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../history" style="float:none;"><span>History</span></a></li></ul></div></li><li id="xg_tab_events" class="xg_subtab"><a href="../events"><span>Events</span></a></li><li dojoType="SubTabHover" id="xg_tab_groups" class="xg_subtab"><a href="../groups"><span>Groups</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../group/facilitators" style="float:none;"><span>Facilitators</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../group/organizers-hosts" style="float:none;"><span>Organizers/Hosts</span></a></li></ul></div></li><li id="xg_tab_xn17" class="xg_subtab"><a href="../hosting"><span>Hosting</span></a></li><li dojoType="SubTabHover" id="xg_tab_xn10" class="xg_subtab"><a href="../facilitating"><span>Facilitating</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../facilitating/structure-of-a-coderetreat" style="float:none;"><span>Structure</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../gol" style="float:none;"><span>Conway&#039;s Game of Life</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../facilitating/activity-catalog" style="float:none;"><span>Activity Catalog</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../profiles/blogs/on-the-role-of-the-coderetreat-facilitator" target="_blank" style="float:none;"><span>Role of the Facilitator</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../group/facilitators" style="float:none;"><span>Facilitator&#039;s Group</span></a></li></ul></div></li><li dojoType="SubTabHover" id="xg_tab_xn0" class="xg_subtab"><a href="../media"><span>Media</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../photo" style="float:none;"><span>Photos</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../video" style="float:none;"><span>Video</span></a></li></ul></div></li><li id="xg_tab_blogs" class="xg_subtab"><a href="../profiles/blog/list"><span>Blogs</span></a></li><li id="xg_tab_forum" class="xg_subtab"><a href="../forum.1"><span>Forum</span></a></li><li id="xg_tab_profile" class="xg_subtab"><a href="../profiles.1"><span>My Page</span></a></li></ul>
+</div>
+            </div>
+            <div id="xg_ad_below_header" class="xg_ad xj_ad_below_header dy-displaynone">
+						
+					</div>
+            <div id="xg" class="xg_widget_profiles xg_widget_profiles_profile xg_widget_profiles_profile_show">
+                	
+                <div id="xg_body">
+                    <div class="xj_notifications"></div>
+                    <div class="xg_column xg_span-14" id="column1">
+                        <div id="xg_canvas" class="xj_canvas">
+                            <div  class='xg_colgroup first-child last-child'>
+<div _maxEmbedWidth="730" _columnCount="3"  class='xg_3col first-child'>
+<div  class='xg_colgroup last-child'>
+<div _maxEmbedWidth="179" _columnCount="1"  id="xg_layout_column_1" class='xg_1col first-child'>
+<div class="xg_module xg_module_with_dialog module_user_summary">
+    <div class="module_user_thumbnail">
+        <div>
+            <span class="dy-avatar dy-avatar-full-width "><img id="xj_photo_img_tag" _origImgUrl="http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B" class="photo " src="http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=184&amp;height=184&amp;crop=1%3A1" alt="" /></span>        </div>
+    </div><!-- module_user_thumbnail -->
+    <div class="xg_module_body profile vcard">
+        <dl class="last-child">
+            <dt class="fn">
+                <span class="fn">Bob Allen @CuriousAgilist</span>
+                <span><ul class="member_detail"><li>Ann Arbor, MI</li><li>United States</li></ul></span>            </dt>
+            	            <dd class="profile-like-button"><div class="likebox likebox-ning">
+    <div class="ning-like">
+                <div class="xg_lightborder like-button like-button-1">
+            <a data-content-id="6456126:User:11637"
+                        data-content-type="User"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-like-url="/main/like/like"
+                        data-unlike-url="/main/like/unlike"
+                        data-page-type="profile" class="xg_sprite" href="BobAllenCuriousAgilist?xg_source=activity#">
+                Like            </a>
+        </div>
+                <div class="like-count dy-displaynone">
+            <a href="BobAllenCuriousAgilist?xg_source=activity#" class="view-liked" _id="6456126:User:11637">0 members like this</a>
+        </div>
+    </div>
+</div>
+</dd><dd class="profile-social-buttons">        <a class="post_to_facebook xj_post_to_facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fcoderetreat.org%2Fprofile%2FBobAllenCuriousAgilist%3Fxg_source%3Dfacebookshare&amp;t=" _url="http://coderetreat.org/profile/BobAllenCuriousAgilist?xg_source=facebookshare" _title="" _log="{&quot;module&quot;:&quot;profiles&quot;,&quot;page&quot;:&quot;profile&quot;,&quot;action&quot;:&quot;show&quot;}">Share on Facebook</a>
+    <a class="xg_sprite xg_sprite-share" href="../main/sharing/share?id=6456126%25253AUser%25253A11637">Share</a>            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    <span class="xg_tweet">
+        <a href="https://twitter.com/share" class="post_to_twitter twitter-share-button" target="_blank"
+            data-text="Checking out Bob Allen @CuriousAgilist&#039;s Profile on Coderetreat:" data-url="http://coderetreat.org/profile/BobAllenCuriousAgilist?xg_source=activity" data-count="none" data-dnt="true">Tweet</a>
+        </span>
+        <span class="google-plusone" data-content-type="User" data-content-id="6456126:User:11637" data-page-type="profile">
+    <g:plusone callback="xg_index_googlePlusOne_onPlusOne" size="medium" count="false" href="http://coderetreat.org/xn/detail/6456126:User:11637"></g:plusone>
+</span>
+
+</dd>        </dl>
+    </div>
+    <div class="xg_module_body">
+        <ul class="nobullets last-child">
+            <li><a href="../profiles/blog/list?user=3p96rdb7mkyur">Blog Posts</a> (6)</li><li><a href="../forum/topic/listForContributor?user=3p96rdb7mkyur">Discussions</a> (6)</li><li class="disabled">Events</li><li><a href="http://coderetreat.org/groups/group/listForContributor?user=3p96rdb7mkyur">Groups</a> (2)</li><li><a href="../photo/photo/listForContributor?screenName=3p96rdb7mkyur">Photos</a> (3)</li><li><a href="../photo/album/listForOwner?screenName=3p96rdb7mkyur">Photo Albums</a> (1)</li>        </ul>
+    </div>
+
+            <div class="xg_module_body">
+            <ul class="nobullets last-child">
+                <li><a href="../profiles/like/list?screenName=3p96rdb7mkyur">Bob Allen @CuriousAgilist's Likes</a></li>            </ul>
+        </div>
+    </div>
+<div class="no_cross_container xg_module module_members">
+    <div class="xg_module_head">
+        <h2>Bob Allen @CuriousAgilist's Friends</h2>
+    </div>
+
+    <div class="xg_module_body body_small">
+    <ul class="clist">            <li><a href="GiorgioNatili" title="Giorgio Natili"><img class="newrow photo" src="http://api.ning.com:80/files/nkLEPVQ6s9ezf4HIkLy0kO0UzWX1p-U6NsCmpsZaixj3Ti5PlaD44cEx4nMY00CscOrimVx6BgZjiaq2iAc3TmOsD42hBTz2/1145877036.jpeg?width=48&height=48&crop=1%3A1" alt="Giorgio Natili" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="weswilliams" title="wes williams"><img class="photo" src="http://api.ning.com:80/files/ykZ*wTWqMzbEuxB-wC2D6EKFO-WyWOpmS3taLJ2FYV-Rritl7c5*UeUizWa46tgbRfvOY0g-U3FiSsQE4aESdA0nggfMvtS9/1137129377.png?width=48&height=48&crop=1%3A1" alt="wes williams" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="EricStewart" title="Eric Stewart"><img class="photo" src="http://api.ning.com:80/files/SDhgST2Am3WQoHVpQmP7zQmuB0UkGfr3dFAUMDkYaYMvoKSc8p7moLZdKCapy7Z6bqluuHvARbityfZFV0HckZVURYYxrLS2/1139703061.jpeg?xgip=0%3A0%3A448%3A448%3B%3B&width=48&height=48&crop=1%3A1" alt="Eric Stewart" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="PandichiAlinIonut" title="Pandichi Alin-Ionut"><img class="newrow photo" src="http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&width=48&height=48&crop=1%3A1" alt="Pandichi Alin-Ionut" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="JeanMarcelBelmont" title="Jean-Marcel Belmont"><img class="photo" src="http://api.ning.com:80/files/0qR8BrPZ-VZihwLAz7jv-CGW8kEOlMIfnkFViM0JuABjYqPu6fq6-fFUUHPp6PnGvEJc6WOjGKihf*3xn5rKY2TmhVOx3Ah3/1149355897.jpeg?xgip=0%3A0%3A239%3A239%3B%3B&width=48&height=48&crop=1%3A1" alt="Jean-Marcel Belmont" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="SeanDuckett" title="Sean Duckett"><img class="photo" src="http://api.ning.com:80/files/REqOXlBbGhhCefKMabTLrPxLmldmhp3ktsnBs71DXg0BEA-dIx0WVSyJwaVwsBnR443hiB9WIQjmidAXmpdZzl9dZbjuq-bo/1134003945.jpeg?xgip=0%3A80%3A766%3A766%3B%3B&width=48&height=48&crop=1%3A1" alt="Sean Duckett" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="KevinKnowles" title="Kevin Knowles"><img class="newrow photo" src="http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&height=48&crop=1%3A1" alt="Kevin Knowles" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="CarlosBle" title="Carlos Ble"><img class="photo" src="http://api.ning.com:80/files/yoXZtt2uyA*AS-ZhIsTHgTlhzeTQ3W67VA6IcjlLlvhExXex-Tbh-I1rXjKDHImLYnYT5qPj9dj0goUxlMgevA5Dmu*rJlBq/595652350.png?width=48&height=48&crop=1%3A1" alt="Carlos Ble" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="ChristopherSass" title="Christopher Sass"><img class="photo" src="http://api.ning.com:80/files/iZhPFFAeUVCSp3Imbu6WGrQzZ59aDxWkA9FY7LYQN7xa9IyMmN92zlQxRDQjVIxx9ktGyo1YLTvf2vLa7FDmK3t7WAs1UDkd/799617221.jpeg?width=48&height=48&crop=1%3A1" alt="Christopher Sass" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="JasonJolley" title="Jason Jolley"><img class="newrow photo" src="http://api.ning.com:80/files/za-MYXDMl*GlQARoliNQXO1LxeKOrVQIrdaQ-hznulSP7cJeR0h*qzCp0sSEVTH9xgDonZsXsOQWE9ez3BzNHg__/27230170.png?xgip=0%3A0%3A183%3A183%3B183%3B&width=48&height=48&crop=1%3A1" alt="Jason Jolley" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="AlastairSmith" title="Alastair Smith"><img class="photo" src="http://api.ning.com:80/files/wcsIjKn8py4wT9JiCPLKW5uhg*e61xkz9VYjmDawqR29kjt9c3-E3CRQbtW7n9eAMOYxGNLaJ2i9Sd*FQ4BUKURLowe5mkXA/849382124.jpeg?width=48&height=48&crop=1%3A1" alt="Alastair Smith" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="Jnardiello" title="Jnardiello"><img class="photo" src="http://api.ning.com:80/files/NfZBQ8g66NTVYI06iygvecr07d7NcXaC4JAu13Suh1-0hyKXNFOZhCpI4CBC209DUOW5djznXDCgLXN*gLKasnjE9WX9Rla*/1086979348.png?xgip=13%3A0%3A529%3A529%3B%3B&width=48&height=48&crop=1%3A1" alt="Jnardiello" height="48" width="48" style="width:48px; height:48px"></a></li>
+                <li><a href="OsvaldasGrigas" title="Osvaldas Grigas"><img class="newrow photo" src="http://api.ning.com:80/files/GWF0Pf2vNMFgjqX9tmm5-9xjEQDYENlwYZL0R-BTtodVUy8mOu7UlHBXAJflR6u-fzS*cEGfb9wUz8L60TSqWI8HxBU1I*VQ/780833447.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&width=48&height=48&crop=1%3A1" alt="Osvaldas Grigas" height="48" width="48" style="width:48px; height:48px"></a></li>
+    </ul>
+    </div>
+            <div class="xg_module_foot">
+            <ul>
+                <li class="right"><a href="../friends/BobAllenCuriousAgilist">View All</a></li>            </ul>
+        </div>
+    </div>
+<div class="xg_module module_groups">
+    <div class="xg_module_head">
+        <h2>Bob Allen @CuriousAgilist&#039;s Groups</h2>
+    </div>
+            <div class="xg_module_body body_list">
+                            <ul class="clist">
+                        <li class="xg_lightborder ">
+        <div class="ib">
+                        <a href="../group/organizers-hosts"><img  src="http://api.ning.com:80/files/7uH9-Cl0KpQdomnxYhydiaUG3pnz60-2Iqsij1QBtTPy5UQPglfaawIcNQFmNNYCasz95-iLFAVkNzP76U8jtNh49jh5onjp/engineermd.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="Organizers/Hosts" /></a>
+        </div>
+        <div class="tb">
+            <h3><a href="../group/organizers-hosts">Organizers/Hosts</a></h3>
+            <p class="xg_lightfont">124 members</p>
+                <span class="reactions">
+                                <a href="../group/organizers-hosts" data-content-id="6456126:Group:801" data-content-type="Group" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity" data-page-type="profile" class="xg_sprite like-link-1 like-link">
+                    6 <span class='details'>Likes</span>
+                </a>
+                </span>
+        </div>
+    </li>    <li class="xg_lightborder last-child">
+        <div class="ib">
+                        <a href="../group/facilitators"><img  src="http://api.ning.com:80/files/tXC9NVcibxBrQW7y0F8i8zLWw*tuZMoWXP10eCrY-GD-XTqQLNOECsXEssfykcwMMIkQlNYj6*SNa1G2QvZztmLMPPbNFlOu/clipboardwhistlemd.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="Facilitators" /></a>
+        </div>
+        <div class="tb">
+            <h3><a href="../group/facilitators">Facilitators</a></h3>
+            <p class="xg_lightfont">218 members</p>
+                <span class="reactions">
+                                <a href="../group/facilitators" data-content-id="6456126:Group:901" data-content-type="Group" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity" data-page-type="profile" class="xg_sprite like-link-1 like-link">
+                    14 <span class='details'>Likes</span>
+                </a>
+                </span>
+        </div>
+    </li>                </ul>
+                    </div>
+                <div class="xg_module_foot">
+                <ul>
+                                            <li class="right"><a href="http://coderetreat.org/groups/group/listForContributor?user=3p96rdb7mkyur">View All</a></li>
+                                    </ul>
+            </div>
+        </div>
+&nbsp;</div>
+<div _maxEmbedWidth="461" _columnCount="2"  id="xg_layout_column_2" class='xg_2col last-child'>
+    <div class="xg_headline">
+<div class="tb"><h1>Bob Allen @CuriousAgilist&#039;s Page</h1>
+    </div>
+</div>
+<div id="xg_profile_activity"
+    class="xg_module xg_module_activity indented_content profile column_2"
+    dojotype="ActivityModule"
+    data-module_name="activity"
+    _isProfile="1"
+    _isAdmin=""
+    _activityOptionsAvailable="1"
+    _columnCount="2"
+    _maxEmbedWidth="461"
+    _embedLocatorId="15/profiles/3p96rdb7mkyur"
+    _refreshUrl="http://coderetreat.org/activity/embed/refresh?id=15%2Fprofiles%2F3p96rdb7mkyur&amp;xn_out=json"
+    _activitynum="16"
+    data-owner-name="3p96rdb7mkyur"
+    data-excerpt-length="500"
+    data-get-items-url="http://coderetreat.org/activity/index/getActivityItems?xn_out=json"
+
+ >
+
+    <div class="xg_module_head">
+        <h2>Latest Activity</h2>
+    </div>
+    <div class="xg_module_body ">
+            <div class="xg_new_activity_items_container dy-displaynone">
+            <button class="xj-new-feed-items xg_show_activity_items">
+                <span class="xg_more_activity_arrow"></span>
+                <span class="xj-new-item-text"></span>
+            </button>
+        </div>
+        <div class="module module-feed">
+            <div id="feed-4e4194ff75d6d425d5d0bb6626ce89af" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> added a discussion to the group <a href="../xn/detail/6456126:Group:901?xg_source=activity">Facilitators</a></span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumb"><a  href="../xn/detail/6456126:Group:901?xg_source=activity" ><img src="http://api.ning.com/files/tXC9NVcibxBrQW7y0F8i8zLWw*tuZMoWXP10eCrY-GD-XTqQLNOECsXEssfykcwMMIkQlNYj6*SNa1G2QvZztmLMPPbNFlOu/clipboardwhistlemd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="../xn/detail/6456126:Topic:47400?xg_source=activity">GDCR15 Cross-Event Google Hangouts</a></h3><div class="rich-detail"><div class="rich-excerpt">Hi All,Doing a Google hangout with another GDCR event in a faraway time zone helps to bring home the GLOBAL nature of the event to attendees. I've used a <a href="http://www.timeanddate.com/worldclock/meeting.html" target="_blank">cross-timezone meeting planner</a> to determine times that work and have tentatively sent out invites to others for two hangouts; one just before our local lunchtime and another at our end-of-day retrospective. If you like the idea, it's not rocket science. You need…<a class="continue-link" href="../xn/detail/6456126:Topic:47400?xg_source=activity">See More</a></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Sat, 17 Oct 2015 20:39:02 +0000">Oct 17, 2015</span></div>                <div class="feed-reactions">
+                                    <a href="http://coderetreat.org/group/facilitators/forum/topics/gdcr15-cross-event-google-hangouts#comments" data-page-type="profile" data-contentid="6456126:Topic:47400" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="http://coderetreat.org/group/facilitators/forum/topics/gdcr15-cross-event-google-hangouts" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Topic:47400"
+                        data-content-type="Topic"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-ace8c95ee1e79d8d1b5cf8bc97e9c7f7" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:Event:45874?xg_source=activity">Global Day of Coderetreat 2015 - Ann Arbor, MI, USA</a> at The Forge, 7th floor</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 5pm</div><div class="rich-excerpt">Developers at every level gather monthly in Ann Arbor MI to learn together, but in November, we gather on a GLOBAL scale. Join Code Craftsman Saturdays and Pillar Technology for the annual GLOBAL DAY of CODE RETREAT.Please register using the link above. Breakfast and lunch provided.<a class="continue-link" href="../xn/detail/6456126:Event:45874?xg_source=activity">See More</a></div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Thu, 15 Oct 2015 14:31:29 +0000">Oct 15, 2015</span></div>                <div class="feed-reactions">
+                                    <a href="../events/global-day-of-coderetreat-2015-ann-arbor-mi-usa#comments" data-page-type="profile" data-contentid="6456126:Event:45874" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../events/global-day-of-coderetreat-2015-ann-arbor-mi-usa" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:45874"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    1 <span class='details'>Like</span>
+                </a>
+                            </div>
+            </div><div id="feed-016a84a0343381619997141763deb26c" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted a blog post</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:47505?xg_source=activity">Three Simulations in One 45 Min Sprint</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:47505">We run 45 minute "sprints" where pairs choose a kata to work on using ping-pong or pilot-navigator pairing, and follow each sprint with a short retrospective. For this exercise I ask everyone to agree on a single language, or choose from among two languages that everyone is OK with, and a single non-trivial kata, i.e. everyone solving the same problem. We also use cyber-dojo.org to level the playing field for all as regards an IDE.1. Start a timer after everyone has sorted themselves out…<a class="continue-link" href="../profiles/blogs/three-simulations-in-one-45-min-sprint">See More</a></div></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Wed, 14 Oct 2015 22:17:47 +0000">Oct 14, 2015</span></div>                <div class="feed-reactions">
+                                    <a href="../profiles/blogs/three-simulations-in-one-45-min-sprint#comments" data-page-type="profile" data-contentid="6456126:BlogPost:47505" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment xj_commentable">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../profiles/blogs/three-simulations-in-one-45-min-sprint" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:BlogPost:47505"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-1e30bb43b654e0e9a47d32540d557be4" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:Event:45874?xg_source=activity">Global Day of Coderetreat 2015 - Ann Arbor, MI, USA</a> at The Forge, 7th floor</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 5pm</div><div class="rich-excerpt">Developers at every level gather monthly in Ann Arbor MI to learn together, but in November, we gather on a GLOBAL scale. Join Code Craftsman Saturdays and Pillar Technology for the annual GLOBAL DAY of CODE RETREAT.Please register using the link above. Breakfast and lunch provided.<a class="continue-link" href="../xn/detail/6456126:Event:45874?xg_source=activity">See More</a></div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Thu, 17 Sep 2015 13:21:27 +0000">Sep 17, 2015</span></div>                <div class="feed-reactions">
+                                    <a href="../events/global-day-of-coderetreat-2015-ann-arbor-mi-usa#comments" data-page-type="profile" data-contentid="6456126:Event:45874" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../events/global-day-of-coderetreat-2015-ann-arbor-mi-usa" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:45874"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    1 <span class='details'>Like</span>
+                </a>
+                            </div>
+            </div><div id="feed-8a4e8eb7179710c33ea5fd05916d1042" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted a blog post</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:45744?xg_source=activity">&quot;Enabling constraints&quot;</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:45744">Reading a tweet by @mattbarcomb led me to this post: "<a href="http://dancingwithelephants.ca/tag/enabling-constraints/" target="_blank">Enabling constraints are about opening possibilities by limiting choices.</a>" a short read. #CodeRetreat facilitators use this, and have fun doing it!Also, "<a href="https://vimeo.com/128934608" target="_blank">Constraints that Enable Innovation - Alicia Juarrero"</a>Alicia Juarrero, Professor Emerita of Philosophy at Prince George’s Community College (MD) on…<a class="continue-link" href="../profiles/blogs/enabling-constraints">See More</a></div></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Wed, 02 Sep 2015 22:25:55 +0000">Sep 2, 2015</span></div>                <div class="feed-reactions">
+                                    <a href="../profiles/blogs/enabling-constraints#comments" data-page-type="profile" data-contentid="6456126:BlogPost:45744" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment xj_commentable">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../profiles/blogs/enabling-constraints" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:BlogPost:45744"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-66ad67899cfd0ea989ad04108b0ccb95" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted a blog post</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:45016?xg_source=activity">Self Organizing Team(s) Exercise</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:45016">The following are instructions handed out to participants at a recent workshop I ran. The stated goals of the exercise are to create a micro-service based calculator, a patently absurd goal. The real purpose of the exercise is the allow the attendees to learn for themselves how to self organize, providing only as much guidance as proves necessary. The results are described below the handout.&lt;begin handout&gt; Welcome to ICC, Incremental Calculator Corp. Today you are going to build the first…<a class="continue-link" href="../profiles/blogs/self-organizing-team-s-exercise">See More</a></div></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Fri, 14 Aug 2015 08:27:08 +0000">Aug 14, 2015</span></div>                <div class="feed-reactions">
+                                    <a href="../profiles/blogs/self-organizing-team-s-exercise#comments" data-page-type="profile" data-contentid="6456126:BlogPost:45016" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment xj_commentable">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>1</span>
+                    <span class='details'>Comment</span>
+                </span>
+                </a>
+                            <a href="../profiles/blogs/self-organizing-team-s-exercise" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:BlogPost:45016"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    1 <span class='details'>Like</span>
+                </a>
+                            </div>
+            </div><div id="feed-b4a7783a7bc623e1c42f016ac3ab9895" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted a blog post</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:45037?xg_source=activity">Self Orgnizing Team #2 - Footballs</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:45037">Below is a handout that was given at the beginning of the day. A second handout was given just after lunch. Together they define an exercise designed to require teams to work out and demonstrate these skills:Self organization of teams when given full reign (and full responsibility).How to work with what you're given, even when extremely sparse.How to deliver iteratively (MVP).How to keep parts of the solution decoupled from one another.&lt;Handout #1 - Morning session&gt;Welcome to the BBC -…<a class="continue-link" href="../profiles/blogs/self-orgnizing-team-2-footballs">See More</a></div></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Tue, 21 Jul 2015 07:35:31 +0000">Jul 21, 2015</span></div>                <div class="feed-reactions">
+                                    <a href="../profiles/blogs/self-orgnizing-team-2-footballs#comments" data-page-type="profile" data-contentid="6456126:BlogPost:45037" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment xj_commentable">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../profiles/blogs/self-orgnizing-team-2-footballs" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:BlogPost:45037"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-10f7b37c3bafef3139835d7283350a78" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted blog posts</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-detail"><ul class="links"><li><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:45016?xg_source=activity">Self Organizing Team(s) Exercise</a></h3></li><li><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:45016?xg_source=activity">Self Organizing Team(s) Exercise</a></h3></li></ul></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Fri, 10 Jul 2015 13:18:53 +0000">Jul 10, 2015</span></div></div><div id="feed-fde7d5ce9a4533daf1c91391dd3f08df" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted photos</span><div class="feed-story-body dy-clearfix"><div class="rich"><div class="rich-thumbs rich-thumbs-3264"><div class=" dy-content-thumb-link xg_lightborder"> <a  href="../photo/thanks-mr-keinath"><img src="http://api.ning.com/files/DNRCvs-5-8HtxEMH1ua7Gc-QKsfXtwGfU6MT4-XclCJXyHYpqJPwUf1yQMZXIBQSiXoMvMm4kcVdb59fsu2YPYLt4wGsLgJb/IMG_0637.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder"> <a  href="../photo/seasoned-pro-and-hs-student"><img src="http://api.ning.com/files/DNRCvs-5-8GdRroNntijwel982IzG45xUHyuSCPZCMnC2gvHr6DMZ0RvMNgdP9sn3jw31MUW9o6JAHKew8kDUMB*GDm3L3Sz/IMG_0630.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder last-thumb"> <a  href="../photo/silent-pairing-in-progress-intense"><img src="http://api.ning.com/files/DNRCvs-5-8GZIFWA7HN3K0itwdf1rP530MTCmkI5w*GiH96pPnxKrM1bl2iIoZbO4RfHTQeAMkZvvqVB4m-anhvEmmT8g0Ay/IMG_0623.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Mon, 17 Nov 2014 02:30:40 +0000">Nov 17, 2014</span></div></div><div id="feed-d96d36b71ced23deeaf16acefd4a7012" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> updated an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:Event:37614?xg_source=activity">Global Day of Coderetreat 2014 - Ann Arbor, MI, USA</a> at The Forge</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 9am to 5pm</div><div class="rich-excerpt">Global Day of Code Retreat (GDCR) at The Forge in Ann Arbor Complements of Pillar Technology.This is also the November event for Code Craftsman Saturdays. Most important: Please register <a href="http://www.eventbrite.com/e/november-2014-code-craftsman-saturdays-aka-crazy-coding-saturdaze-tickets-12649899189" target="_blank">here</a>.Code Craftsman Saturdays is a monthly always free workshop, but GDCR is special and usually our largest event of the year. There will be lots of developers of all…<a class="continue-link" href="../xn/detail/6456126:Event:37614?xg_source=activity">See More</a></div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Thu, 23 Oct 2014 23:25:45 +0000">Oct 23, 2014</span></div>                <div class="feed-reactions">
+                                    <a href="../events/global-day-of-coderetreat-2014-ann-arbor#comments" data-page-type="profile" data-contentid="6456126:Event:37614" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../events/global-day-of-coderetreat-2014-ann-arbor" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:37614"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-2e317a993805db101e2fc4cc40c329f5" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:Event:37614?xg_source=activity">Global Day of Coderetreat 2014 - Ann Arbor</a> at The Forge 4.0</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 9am to 5pm</div><div class="rich-excerpt">Global Day of Code Retreat (GDCR) at The Forge in Ann Arbor Complements of Pillar Technology.This is also the November event for Code Craftsman Saturdays. Most important: Please register <a href="http://www.eventbrite.com/e/november-2014-code-craftsman-saturdays-aka-crazy-coding-saturdaze-tickets-12649899189" target="_blank">here</a>.Code Craftsman Saturdays is a monthly always free workshop, but GDCR is special and usually our largest event of the year. There will be lots of developers of all…<a class="continue-link" href="../xn/detail/6456126:Event:37614?xg_source=activity">See More</a></div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Thu, 14 Aug 2014 12:09:28 +0000">Aug 14, 2014</span></div>                <div class="feed-reactions">
+                                    <a href="../events/global-day-of-coderetreat-2014-ann-arbor#comments" data-page-type="profile" data-contentid="6456126:Event:37614" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../events/global-day-of-coderetreat-2014-ann-arbor" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:37614"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-18c4edd731ac66c258c31ff5572f612a" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted a blog post</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:34904?xg_source=activity">Revisiting Rescue Refactoring</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:34904">For our March event we returned to Cyber-Dojo and discovered a very useful feature on <a href="https://github.com/emilybache/Refactoring-Katas">Emily Bache's Refactoring Katas on Github</a>. Way down at the bottom of each kata's explanation is a set of links (one for each of several languages) that create a new Cyber-Dojo for that kata. This was a huge help. Thank you Emily once again.  We again stuck to the Tennis scoring and Yahtzee scoring katas for the morning sprints, and moved on to…<a class="continue-link" href="../profiles/blogs/revisiting-rescue-refactoring">See More</a></div></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Sun, 09 Mar 2014 20:59:25 +0000">Mar 9, 2014</span></div>                <div class="feed-reactions">
+                                    <a href="../profiles/blogs/revisiting-rescue-refactoring#comments" data-page-type="profile" data-contentid="6456126:BlogPost:34904" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment xj_commentable">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../profiles/blogs/revisiting-rescue-refactoring" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:BlogPost:34904"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-a92f85fcbda935b5385f99b60d64d640" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted a blog post</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:34485?xg_source=activity">Randori Fish-bowl Experiment</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:34485">For the first of our monthly code retreats, we had 6 brave soles who were not deterred by snowmagedon. At this event, we experimented with a Randori fish-bowl for the first time. Here's what we did:Three chairs are setup at a small table with a shared laptop connected to the overhead projector. After an initial pair volunteered to start us off, the remainder of the attendees setup chairs positioned so they could watch both the overhead screen and the current pair.  What made it a "fish-bowl"…<a class="continue-link" href="../profiles/blogs/randori-fish-bowl-experiment">See More</a></div></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Mon, 24 Feb 2014 05:56:41 +0000">Feb 24, 2014</span></div>                <div class="feed-reactions">
+                                    <a href="../profiles/blogs/randori-fish-bowl-experiment#comments" data-page-type="profile" data-contentid="6456126:BlogPost:34485" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment xj_commentable">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../profiles/blogs/randori-fish-bowl-experiment" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:BlogPost:34485"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    1 <span class='details'>Like</span>
+                </a>
+                            </div>
+            </div><div id="feed-071452edd2a241f43aca294a4e575690" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted a blog post</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:BlogPost:27150?xg_source=activity">Thank you Emily for The Legacy Code Retreat Collection</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:27150">In 2012, Emily Bache started a collection on GitHub of three katas specifically selected for use in a Legacy Code Retreat (Tennis, Yahtzee, and Gilded Rose) and invited others to contribute, and contribute they did. The result, in at least 5 languages, can be found <a href="https://github.com/emilybache/Refactoring-Katas/" target="_blank">here</a>.  Although that work included links over to Cyber-Dojo, those links no longer work. So, I re-ported the work over to Cyber-Dojo, added attribution…<a class="continue-link" href="../profiles/blogs/thank-you-emily-for-the-legacy-code-retreat-collection">See More</a></div></div></div></div></div><div class="feed-event-info "><span class="event-info-timestamp xg_lightfont" data-time="Sun, 06 Oct 2013 07:51:27 +0000">Oct 6, 2013</span></div>                <div class="feed-reactions">
+                                    <a href="../profiles/blogs/thank-you-emily-for-the-legacy-code-retreat-collection#comments" data-page-type="profile" data-contentid="6456126:BlogPost:27150" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment xj_commentable">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>1</span>
+                    <span class='details'>Comment</span>
+                </span>
+                </a>
+                            <a href="../profiles/blogs/thank-you-emily-for-the-legacy-code-retreat-collection" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:BlogPost:27150"
+                        data-content-type="BlogPost"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    2 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-8b3c1e7778c5fe54582a3da11c7a33a8" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:Event:26375?xg_source=activity">Global Day of Coderetreat 2013 - [Ann Arbor / USA]</a> at The Forge (downstairs from the Tech Brewery)</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 8am to 6pm</div><div class="rich-excerpt">Come join what may be the only MONTHLY code retreat/coder dojo. Always free, but registration is required via <a href="http://codecraftsmansaturdays.blogspot.com/" target="_blank">the website</a>. As always, we'll be serving breakfast and lunch (no pizza here). We'll be connected with the rest of the globe and sharing the fun at http://codecraftsmansaturdays.blogspot.com/.<a class="continue-link" href="../xn/detail/6456126:Event:26375?xg_source=activity">See More</a></div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Fri, 30 Aug 2013 02:18:21 +0000">Aug 30, 2013</span></div>                <div class="feed-reactions">
+                                    <a href="../events/global-day-of-coderetreat-2013-ann-arbor-usa#comments" data-page-type="profile" data-contentid="6456126:Event:26375" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../events/global-day-of-coderetreat-2013-ann-arbor-usa" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:26375"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div><div id="feed-7b6af1ee57ac41ef39016280fa85671e" class="feed-story  avatar-off xg_separator xj_activity_item" ><span class="feed-story-header dy-clearfix"><a href="BobAllenCuriousAgilist?xg_source=activity">Bob Allen @CuriousAgilist</a> posted an event</span><div class="feed-story-body dy-clearfix"><div class="rich"><h3 class="feed-story-title"><a href="../xn/detail/6456126:Event:26073?xg_source=activity">Code Crafstman Saturdays</a> at The Forge</h3><div class="rich-detail"><div class="rich-date">September 14, 2013 from 8am to 5:30pm</div><div class="rich-excerpt"><a href="http://codecraftsmansaturdays.blogspot.com/" target="_blank" title="details are here">Every month</a>, in Ann Arbor on the 2nd Saturday, we do a full-on hands-on-keyboards day of practicing what we do best: code. While we're at it, we improve ourselves and those around us, we learn new stuff, and we have fun.   Did I mention?  There's no cost to participants and both breakfast and lunch are included (no Pizza or box lunches).Attendance is limited and requires registration so that we…<a class="continue-link" href="../xn/detail/6456126:Event:26073?xg_source=activity">See More</a></div></div></div></div><div class="feed-event-info xg_sprite xg_sprite-event"><span class="event-info-timestamp xg_lightfont" data-time="Sat, 17 Aug 2013 03:17:26 +0000">Aug 17, 2013</span></div>                <div class="feed-reactions">
+                                    <a href="../events/code-crafstman-saturdays/showAttendees?status=not_attending#comments" data-page-type="profile" data-contentid="6456126:Event:26073" data-user-avatar-url="" data-user-profile-url="" data-user-fullname=""  class="xg_sprite xg_sprite-comment">
+                <span class='comments-number'>
+                    <span class='xj_comment_count'>0</span>
+                    <span class='details'>Comments</span>
+                </span>
+                </a>
+                            <a href="../events/code-crafstman-saturdays/showAttendees?status=not_attending" class="xg_sprite like-link-1 like-link"
+                        data-like-url="http://coderetreat.org/main/like/like?xg_source=activity"
+                        data-unlike-url="http://coderetreat.org/main/like/unlike?xg_source=activity"
+                        data-content-id="6456126:Event:26073"
+                        data-content-type="Event"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity"
+                        data-page-type="profile">
+                    0 <span class='details'>Likes</span>
+                </a>
+                            </div>
+            </div>        </div>
+    </div>
+
+    <div class="xg_module_foot">
+                    <button class="xj_see_more xg_show_activity_items">
+                More...            </button>
+                <ul class="feed_foot_icons">
+                    <li class="left"><a class="xg_icon xg_icon-rss" href="../activity/log/list?fmt=rss&amp;screenName=3p96rdb7mkyur">RSS</a></li>
+         </ul>
+        </div></div>
+<div class="xg_module module_photo" data-module_name="photo">
+    <div class="xg_module_head">
+        <h2>Bob Allen @CuriousAgilist&#039;s Photos</h2>
+    </div>
+    <div class="xg_module_body body_slideshow xj_slideshow_body xj_embed_container" _embedCode="&lt;embed class=&quot;xg_slideshow xj_photo_embed&quot; src=&quot;http://static.ning.com/socialnetworkmain/widgets/photo/slideshowplayer/slideshowplayer.swf?xn_version=3150304127&quot; quality=&quot;high&quot; bgcolor=&quot;#3p96rdb7mkyur&quot;
+    width=&quot;461&quot;
+    height=&quot;361&quot;
+    allowFullScreen=&quot;true&quot;
+    allowScriptAccess=&quot;always&quot;
+    scale=&quot;noscale&quot;
+    wmode=&quot;opaque&quot;
+    FlashVars=&quot;feed_url=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2FslideshowFeedForContributor%3FscreenName%3D3p96rdb7mkyur%26mtime%3D1477380191%26x%3D4bnw4p30QIvTBEeMD2dyPZDgbOOMNreU&amp;autoplay=1&amp;loop=1&amp;hideWatermark=1&amp;hideVisit=1&amp;config_url=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2FshowPlayerConfig%3Fx%3D4bnw4p30QIvTBEeMD2dyPZDgbOOMNreU%26feed_url%3Dhttp%253A%252F%252Fcoderetreat.org%252Fphoto%252Fphoto%252FslideshowFeedForContributor%253FscreenName%253D3p96rdb7mkyur%2526mtime%253D1477380191%2526x%253D4bnw4p30QIvTBEeMD2dyPZDgbOOMNreU%26version%3DDEP-9365%253A3cf2104_2_2_7_336475711%26theme982Version%3D55%26profileScreenName%3D3p96rdb7mkyur&amp;layout=within_app&amp;slideshow_title=&amp;fullsize_url=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2Fslideshow%3Ffeed_url%3Dhttp%253A%252F%252Fcoderetreat.org%252Fphoto%252Fphoto%252FslideshowFeedForContributor%253FscreenName%253D3p96rdb7mkyur%2526mtime%253D1477380191%26back_url%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fprofile%252Fshow%253Fid%253DBobAllenCuriousAgilist%2526xg_source%253Dactivity&quot;
+    type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;
+&lt;/embed&gt;">
+                Loading…            </div>
+                <div class="xg_module_foot">
+        <ul>
+                            <li class="left"><a href="http://coderetreat.org/photo/photo/chooseUploader" class="xg_sprite xg_sprite-add">Add Photos</a></li>
+                                        <li class="right"><a href="../photo/photo/listForContributor?screenName=3p96rdb7mkyur">View All</a></li>
+                                <li class="right photo-facebook-share" style="display:none; margin-right:10px;" ><a target="_blank"
+                        href="http://www.facebook.com/share.php?u=http%3A%2F%2Fcoderetreat.org%2Fphoto%2Fphoto%2FlistForContributor%3FscreenName%3D3p96rdb7mkyur%26from%3Dfb"><img src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/icon/facebook.gif?xn_version=2156446720" alt="Facebook" /></a></li>
+                    <script>
+                        xg.addOnRequire(function () {
+                            x$('.module_photo').mouseover(function () { x$(this).find('.photo-facebook-share').show(); })
+                                    .mouseout(function () { x$(this).find('.photo-facebook-share').hide(); });
+                        });
+                    </script>
+                    </ul>
+    </div></div>
+<div class="xg_module module_blog indented_content" data-module_name="blog">
+    <div class="xg_module_head">
+        <h2>Bob Allen @CuriousAgilist&#039;s Blog</h2>
+    </div>
+    <div class="xg_module_body body_detail">
+            <div class="blogpost vcard" data-contentId="6456126:BlogPost:47505">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="BobAllenCuriousAgilist"  title="Bob Allen @CuriousAgilist"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="../profiles/blogs/three-simulations-in-one-45-min-sprint" _snid="6456126:BlogPost:47505">Three Simulations in One 45 Min Sprint</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted on October 13, 2015 at 11:00pm                        
+    <span class="reactions">
+                    <a href="../profiles/blogs/three-simulations-in-one-45-min-sprint#comments" data-page-type="profile" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="../profiles/blogs/three-simulations-in-one-45-min-sprint" data-content-id="6456126:BlogPost:47505" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity" data-page-type="profile" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                            <div class="postbody">
+                            <div class="xg_user_generated">
+                                <div>We run 45 minute "sprints" where pairs choose a kata to work on using ping-pong or pilot-navigator pairing, and follow each sprint with a short retrospective. For this exercise I ask everyone to agree on a single language, or choose from among two languages that everyone is OK with, and a single non-trivial kata, i.e. everyone solving the same problem. We also use cyber-dojo.org to level the playing field for all as regards an IDE.</div>
+<div>1. Start a timer after everyone has sorted…</div>                                 <a href="../profiles/blogs/three-simulations-in-one-45-min-sprint" class="xj_expandable">Continue</a>                            </div>
+                        </div>
+                                    </div>
+            </div>
+                <div class="blogpost vcard" data-contentId="6456126:BlogPost:45744">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="BobAllenCuriousAgilist"  title="Bob Allen @CuriousAgilist"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="../profiles/blogs/enabling-constraints" _snid="6456126:BlogPost:45744">&quot;Enabling constraints&quot;</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted on September 2, 2015 at 5:22pm                        
+    <span class="reactions">
+                    <a href="../profiles/blogs/enabling-constraints#comments" data-page-type="profile" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="../profiles/blogs/enabling-constraints" data-content-id="6456126:BlogPost:45744" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity" data-page-type="profile" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                            <div class="postbody">
+                            <div class="xg_user_generated">
+                                <p>Reading a tweet by @mattbarcomb led me to this post: "<a rel=nofollow href="http://dancingwithelephants.ca/tag/enabling-constraints/" target="_blank">Enabling constraints are about opening possibilities by limiting choices.</a>" a short read. #CodeRetreat facilitators use this, and <em>have fun</em> doing it!</p>
+<p>Also, "<a rel=nofollow href="https://vimeo.com/128934608" target="_blank">Constraints that Enable Innovation - Alicia Juarrero"</a>Alicia Juarrero, Professor Emerita of Philosophy at Prince George’s…</p>                                 <a href="../profiles/blogs/enabling-constraints" class="xj_expandable">Continue</a>                            </div>
+                        </div>
+                                    </div>
+            </div>
+                <div class="blogpost vcard" data-contentId="6456126:BlogPost:45037">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="BobAllenCuriousAgilist"  title="Bob Allen @CuriousAgilist"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="../profiles/blogs/self-orgnizing-team-2-footballs" _snid="6456126:BlogPost:45037">Self Orgnizing Team #2 - Footballs</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted on July 20, 2015 at 11:00pm                        
+    <span class="reactions">
+                    <a href="../profiles/blogs/self-orgnizing-team-2-footballs#comments" data-page-type="profile" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="../profiles/blogs/self-orgnizing-team-2-footballs" data-content-id="6456126:BlogPost:45037" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity" data-page-type="profile" class="xg_sprite like-link-1 like-link">
+                    0 <span class='details'>Likes</span>
+                </a>
+                </span>
+                    </p>
+                                            <div class="postbody">
+                            <div class="xg_user_generated">
+                                <p>Below is a handout that was given at the beginning of the day. A second handout was given just after lunch. Together they define an exercise designed to require teams to work out and demonstrate these skills:</p>
+<ol>
+<li>Self organization of teams when given full reign (and full responsibility).</li>
+<li>How to work with what you're given, even when extremely sparse.</li>
+<li>How to deliver <em>iteratively (MVP)</em>.</li>
+<li>How to keep parts of the solution decoupled from one…</li>
+</ol>                                 <a href="../profiles/blogs/self-orgnizing-team-2-footballs" class="xj_expandable">Continue</a>                            </div>
+                        </div>
+                                    </div>
+            </div>
+                <div class="blogpost vcard" data-contentId="6456126:BlogPost:45016">
+                <div class="ib">
+                    <span class="xg_avatar"><a class="fn url" href="BobAllenCuriousAgilist"  title="Bob Allen @CuriousAgilist"><span class="dy-avatar dy-avatar-32 "><img  class="photo photo" src="http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=32&amp;height=32&amp;crop=1%3A1" alt="" /></span></a></span>                </div>
+                <div class="tb">
+                    <h3><a href="../profiles/blogs/self-organizing-team-s-exercise" _snid="6456126:BlogPost:45016">Self Organizing Team(s) Exercise</a></h3>
+                                        <p class="dy-small xg_lightfont">
+                                                    Posted on July 9, 2015 at 7:00pm                        
+    <span class="reactions">
+                    <a href="../profiles/blogs/self-organizing-team-s-exercise#comments" data-page-type="profile" class="xg_sprite xg_sprite-comment">1 <span class='details'>Comment</span></a>
+                                <a href="../profiles/blogs/self-organizing-team-s-exercise" data-content-id="6456126:BlogPost:45016" data-content-type="BlogPost" data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity" data-page-type="profile" class="xg_sprite like-link-1 like-link">
+                    1 <span class='details'>Like</span>
+                </a>
+                </span>
+                    </p>
+                                            <div class="postbody">
+                            <div class="xg_user_generated">
+                                <p>The following are instructions handed out to participants at a recent workshop I ran. The <em>stated</em> goals of the exercise are to create a micro-service based calculator, a patently <em>absurd</em> goal. The real purpose of the exercise is the allow the attendees to learn for themselves how to self organize, providing only as much guidance as proves necessary. The results are described below the handout.</p>
+<p>&lt;begin handout&gt;<br></br> Welcome to ICC, Incremental Calculator Corp.…</p>                                 <a href="../profiles/blogs/self-organizing-team-s-exercise" class="xj_expandable">Continue</a>                            </div>
+                        </div>
+                                    </div>
+            </div>
+    </div>
+    <div class="xg_module_foot">
+        <ul>
+            <li class="left"><a href="../profiles/blog/new" class="xg_sprite xg_sprite-add">Add a Blog Post</a></li>
+            <li class="right"><a href="../profiles/blog/list?user=3p96rdb7mkyur">View All</a></li>        </ul>
+    </div>
+</div>
+<div class="no_cross_container xg_module xg_module_comment_wall">
+    <div id="com" class="xg_module_head">
+    <h2 id="chatter_box_heading" numComments="0">Comment Wall</h2>
+</div>        <div class="xg_module_body xj_ajax">
+            <div id="xg_profiles_chatterwall_list" _scrollTo="">
+  <ul class="list chatter nobullets">
+    <li class="sparse" id="xg_profiles_chatterwall_empty" >No comments yet!</li>
+  </ul>
+</div>
+
+        </div>            <div class="xg_module_body">
+            <a name="add_comment"></a>
+  <h3>You need to be a member of Coderetreat to add comments!</h3>
+             <p><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity">Join Coderetreat</a></p>
+          </div>
+    </div>
+&nbsp;</div>
+</div>
+&nbsp;</div>
+<div _maxEmbedWidth="320" _columnCount="1"  class='xg_1col last-child'>
+&nbsp;</div>
+</div>
+
+                        </div>
+                    </div>                
+                    <div class="xg_column xg_span-7 xg_last" id="column2">
+                        <div class="xj_user_info">    <div class="xg_module" id="xg_module_account">
+        <div class="xg_module_body xg_signup xg_lightborder">
+            <p>Welcome to<br />Coderetreat</p>
+                        <p class="last-child"><big><strong><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity">Sign Up</a></strong></big><br/>or <a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity" style="white-space:nowrap">Sign In</a></p>
+                            <div class="xg_external_signup xg_lightborder xj_signup">
+                    <p class="dy-small">Or sign in with:</p>
+                    <ul class="providers">
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fprofile%252Fshow%253Fid%253DBobAllenCuriousAgilist%2526xg_source%253Dactivity%26source%3DsignUp%26close%3D1%26provider%3Dfacebook', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fprofile%252Fshow%253Fid%253DBobAllenCuriousAgilist%2526xg_source%253Dactivity%26source%3DsignUp%26close%3D0%26provider%3Dfacebook">
+                            <span class="mini-service mini-service-facebook" title="Facebook"></span>
+                    </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fprofile%252Fshow%253Fid%253DBobAllenCuriousAgilist%2526xg_source%253Dactivity%26source%3DsignUp%26close%3D1%26provider%3Dtwitter', null, 'width=860,height=440,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fprofile%252Fshow%253Fid%253DBobAllenCuriousAgilist%2526xg_source%253Dactivity%26source%3DsignUp%26close%3D0%26provider%3Dtwitter">
+            <span class="mini-service mini-service-twitter" title="Twitter"></span>
+        </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fprofile%252Fshow%253Fid%253DBobAllenCuriousAgilist%2526xg_source%253Dactivity%26source%3DsignUp%26close%3D1%26provider%3Dyahoo', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fprofiles%252Fprofile%252Fshow%253Fid%253DBobAllenCuriousAgilist%2526xg_source%253Dactivity%26source%3DsignUp%26close%3D0%26provider%3Dyahoo">
+            <span class="mini-service mini-service-yahoo" title="Yahoo!"></span>
+        </a></li>
+    </ul>
+                </div>
+                    </div>
+    </div>
+</div>
+                        <div class="xj_sidebar_content"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="xg_foot">
+                <div id="xg_footcontent">
+                    <div class="xj_foot_content"><p class="left">
+    © 2017             &nbsp; Created by <a href="../xn/detail/u_128952ghvkcvj">corey haines</a>.            &nbsp;
+    Powered by<a class="poweredBy-logo" href="https://www.ning.com/" rel="dofollow"><img class="poweredbylogo" width="87" height="15" src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/Ning_MM_footer_wht@2x.png?xn_version=242216045" title
+="Ning Website Builder" alt="Website builder | Create website | Ning.com" target="_blank"></a>    </p>
+    <p class="right xg_lightfont">
+                    <a href="../main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fcoderetreat.org%2Fprofiles%2Fprofile%2Fshow%3Fid%3DBobAllenCuriousAgilist%26xg_source%3Dactivity">Terms of Service</a>
+            </p>
+</div>
+                </div>
+            </div>
+			<div id="xg_ad_below_footer" class="xg_ad xj_ad_below_footer dy-displaynone">
+				
+			</div>
+        </div>
+    </div>
+    <div class="xj_after_content"><div id="xj_baz17246" class="xg_theme"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use Coderetreat.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="../xn_resources/widgets/index/gfx/jstrk_off.gif" alt="" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script>if(window.bzplcm)window.bzplcm.ts('jb')</script><script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=2765273374"></script>        <script>
+            var sources = ["http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.autoResize.js?xn_version=201701120951","https:\/\/www.google.com\/recaptcha\/api.js","http:\/\/api.ning.com:80\/files\/-q6tvS*EPsKouV2no1yS1Z44orlQXrgrn6cdJ97JZM9VH4co81cvbscnFg1OIeCEAERmoD0shDB*lmRNzNJ6T8IsQXkDhnlA\/set_common_min.js?r=1483433098","http:\/\/api.ning.com:80\/files\/DBD4PE5EidX8bMye8TF3Vgj*wiN1CMUqlGOsiUfmbWhad9XqIDQvhcK9YvdKTfykhVIjZ5Y8bMTz5GvWMwpWLXWeJZt1vhvK\/set_sidebar_u_min.js?r=1406592884","http:\/\/api.ning.com:80\/files\/nlbHGOcp6COZz3yrMDQIVnMhwTeQdY-K*ZCTH*P6SCOF53AIYP9twn0m9UOVDYuWXUVSNUo6aJKWp-CXmGsi2D25NS9gDjKO\/set_profprofshow_u_min.js?r=1485533742"];
+            var numSources = sources.length;
+            var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            var onloadFunctionsObj = {};
+
+            var createScriptTagFunc = function(source) {
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                                var currentOnLoad = function() {xg._loader.onLoad(source);};
+                if (script.readyState) { //for IE (including IE9)
+                    script.onreadystatechange = function() {
+                        if (script.readyState == 'complete' || script.readyState == 'loaded') {
+                            script.onreadystatechange = null;
+                            currentOnLoad();
+                        }
+                    }
+                } else {
+                   script.onerror = script.onload = currentOnLoad;
+                }
+
+                script.src = source;
+                node.appendChild(script);
+            };
+
+            for (var i = 0; i < numSources; i++) {
+                xg._loader.loading(sources[i]);
+                createScriptTagFunc(sources[i]);
+            }
+        </script>
+    <script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2017-01-29T09:39:59+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201701120951'; // DEP-9365:3cf2104 33
+djConfig.parseWidgets = false;
+</script>
+<script>if(window.bzplcm)window.bzplcm.ts('ja')</script><script>window.bzplcm.add({"app":"coderetreat-community","user":null,"l_t":"profiles","mcr":15,"mct":15});</script>        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+        <script type="text/javascript">
+        xg.token = '';
+xg.canTweet = false;
+xg.cdnHost = 'static.ning.com';
+xg.version = '201701120951';
+xg.useMultiCdn = true;
+xg.staticRoot = 'socialnetworkmain';
+xg.xnTrackHost = "coll.ning.com";
+    xg.cdnDefaultPolicyHost = 'static';
+    xg.cdnPolicy = [];
+xg.global = xg.global || {};
+xg.global.currentMozzle = 'profiles';
+xg.global.userCanInvite = false;
+xg.global.requestBase = '';
+xg.global.locale = 'en_US';
+xg.num_thousand_sep = ",";
+xg.num_decimal_sep = ".";
+(function() {
+    dojo.addOnLoad(function() {
+        if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+            });
+            xg._loader.onLoad('xnloader');
+    })();    </script>
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
+<script>if(window.bzplcm)window.bzplcm.ts('he')</script>
+</div>
+</body>
+</html>

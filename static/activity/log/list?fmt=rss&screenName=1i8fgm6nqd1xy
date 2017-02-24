@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jérémy Lecour&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/jlecour</link>
+        <pubDate>Sun, 29 Jan 2017 11:57:26 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:57:26 +0000</lastBuildDate>
+        <image>
+            <title>Jérémy Lecour&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/jlecour</link>
+            <url>http://api.ning.com:80/files/5ZzACXdJt0LPmy1IWFw*Npr5GkANknbaygQlL9KeXvWvs5qxBGVMCKvvZsxHRAGZRO3NTX45FBvrql5cPOJDt4oQSbEOHRzW/1037403517.jpeg?xgip=0%3A0%3A255%3A255%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000f69e004c0b91748f2c39e37</guid>
+               <title>Jérémy Lecour updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:26499?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jlecour?xg_source=activity">J&eacute;r&eacute;my Lecour</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:26499?xg_source=activity">Global Day of Coderetreat 2013 - Marseille, France</a> at La Maison du Chant</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 8am to 6pm</div><div class="rich-excerpt">For the first time in Marseille, we'll have a CodeRetreat during this amazing day.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:26499?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 03 Nov 2013 14:33:22 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000f69e0046b26ffb23c2c7b90</guid>
+               <title>Jérémy Lecour posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:26499?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jlecour?xg_source=activity">J&eacute;r&eacute;my Lecour</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:26499?xg_source=activity">Global Day of Coderetreat 2013 - Marseille, France</a> at La Bo[a]te</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 8am to 6pm</div><div class="rich-excerpt">For the first time in Marseille, we'll have a CodeRetreat during this amazing day.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:26499?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 05 Sep 2013 06:40:22 +0000</pubDate>
+               </item>    </channel>
+</rss>

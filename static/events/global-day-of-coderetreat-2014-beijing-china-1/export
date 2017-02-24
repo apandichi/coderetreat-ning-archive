@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41398
+DTSTAMP:20170129T122224Z
+SUMMARY:Global Day of Coderetreat 2014 - Beijing, China
+DESCRIPTION:This is the fourth year in a row, Beijing is participating
+  in the Global Day of Coderetreat 2014!\nLet's have fun with it!\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2014-beijing-china-1
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Beijing, China
+WEBSITE:https://goo.gl/maps/4BwUu
+URL:https://goo.gl/maps/4BwUu
+CONTACT:
+ORGANIZER:Zilong Chen, Xin Huang
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zilong C
+ hen":http://coderetreat.org/profile/ZilongChen
+END:VEVENT
+END:VCALENDAR

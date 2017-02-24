@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Pawel Rogozinski&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PawelRogozinski</link>
+        <pubDate>Sun, 29 Jan 2017 14:03:50 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:03:50 +0000</lastBuildDate>
+        <image>
+            <title>Pawel Rogozinski&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PawelRogozinski</link>
+            <url>http://api.ning.com:80/files/LVjYhH7*e2wQM0PI4HkQFbkpuMFEA-qto2P5eY2eMokK1XbMInkWBbMYFaOp44Vo*JbDN72ewtZlOlrebqs38uiqgrwiGLCb/900011142.jpeg?xgip=485%3A54%3A370%3A370%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009c8581f0882f39e6aef61e3</guid>
+               <title>Pawel Rogozinski joined corey haines&#039;s group</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PawelRogozinski?xg_source=activity">Pawel Rogozinski</a> joined <a href="http://coderetreat.org/profile/128952ghvkcvj?xg_source=activity">corey haines's</a> group</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity" ><img src="http://api.ning.com/files/7uH9-Cl0KpQdomnxYhydiaUG3pnz60-2Iqsij1QBtTPy5UQPglfaawIcNQFmNNYCasz95-iLFAVkNzP76U8jtNh49jh5onjp/engineermd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">Organizers/Hosts</a></h3><div class="rich-detail"><div class="rich-excerpt">This is the group for coderetreat organizers. There are a lot of people who have organized and can give good advice.Don't worry, it is easy and fun!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 19 Jun 2012 06:33:59 +0000</pubDate>
+               </item>    </channel>
+</rss>

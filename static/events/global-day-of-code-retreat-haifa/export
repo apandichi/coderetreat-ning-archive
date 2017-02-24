@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16052
+DTSTAMP:20170129T133640Z
+SUMMARY:Global Day of Code Retreat -- Haifa
+DESCRIPTION:As part of the Global Day of Code Retreat, Google Haifa wi
+ ll be hosting a code retreat event\nSee more details and sign up throu
+ gh http://www.coderetreat.co.il/haifa/\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-code-retreat-haifa
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:code, retreat
+LOCATION:Google Haifa
+WEBSITE:https://maps.google.com/maps?q=Google+Haifa&hl=en&sll=37.0625,
+ -95.677068&sspn=91.186963,191.513672&hq=Google&hnear=Haifa,+Israel&t=m
+ &z=14&iwloc=A
+URL:https://maps.google.com/maps?q=Google+Haifa&hl=en&sll=37.0625,-95.
+ 677068&sspn=91.186963,191.513672&hq=Google&hnear=Haifa,+Israel&t=m&z=1
+ 4&iwloc=A
+CONTACT:+972-54-6778009
+ORGANIZER;CN="Israel Shalom":http://coderetreat.org/profile/IsraelShal
+ om
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Misha Ka
+ vakbalandov":http://coderetreat.org/profile/MishaKavakbalandov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Israel S
+ halom":http://coderetreat.org/profile/IsraelShalom
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=35ulm2psum7f3&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:48:49Z</updated>
+                            <author>
+                    <name>Jean-François Saguin</name>
+                    <uri>http://coderetreat.org/profile/SaguinJeanFrancois</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/rf021BwezXHiB7GpKQHqadbzOPQpFanlpL7IDhfntRaKWxeCLyFo4urFnXhoF1iV13LzmZI6cTlHXfEjem*IJr0q2ubhbT4I/1090334956.jpeg?xgip=0%3A0%3A498%3A498%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=35ulm2psum7f3&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Pandichi Alin-Ionut</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PandichiAlinIonut"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:User:39929</id>
+                                        <updated>2014-10-21T09:55:00.237Z</updated>
+                    
+                                            <author>
+                            <name>Jean-François Saguin</name>
+                            <uri>http://coderetreat.org/profile/SaguinJeanFrancois</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

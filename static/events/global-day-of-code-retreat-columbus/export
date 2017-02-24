@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:3164
+DTSTAMP:20170129T114633Z
+SUMMARY:Global Day of Code Retreat Columbus
+DESCRIPTION:This is the Columbus, Ohio, edition of Global Day of Code
+ Retreat, being held at the EdgeCase Columbus office.\n \nLocation & F
+ ood sponsor: EdgeCase\nFacilitator: Justin Searls\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-code-retreat-col
+ umbus
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:global, day, of, code, retreat
+LOCATION:EdgeCase Columbus
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Justin Searls":http://coderetreat.org/profile/JustinSear
+ ls
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Zim
+ mer":http://coderetreat.org/profile/GregZimmer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Justin S
+ earls":http://coderetreat.org/profile/JustinSearls
+END:VEVENT
+END:VCALENDAR

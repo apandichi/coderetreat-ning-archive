@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38261
+DTSTAMP:20170129T105451Z
+SUMMARY:Global Day of Coderetreat 2014 - Resistencia, Argentina
+DESCRIPTION: El 15 de Noviembre se celebra el día mundial de los Code
+ Retreat desde ComunidadTIC te queremos invitar a unirte a la iniciativ
+ a de desarrolladores para desarrolladores.\nEvento que ya cuenta con e
+ l apoyo de la UCP,\n¿Qué debo llevar?\nUn portátil con los entornos
+  de programación instalados y configurados. Preferentemente alguna li
+ brería para hacer pruebas unitarias. Y Muchas ganas de participar y c
+ ompartir un momento con otros apasionados del desarrollo de software. 
+ \n¡Registrate!\nEs totalmente gratuito, sólo necesitas una notebook 
+ cada 2 personas y ganas de pasarlo bien.\n\nPara saber cuanto espacio 
+ vamos a necesitar y no tener problemas con el ingreso al lugar ¡neces
+ itamos que te inscribas! en https://eventioz.com.ar/e/global-day-of-co
+ deretreat-2014-argentina\n\nFor more information visit http://coderetr
+ eat.org/events/global-day-of-coderetreat-2014-corrientes-argentina-1
+DTSTART:20141115T090000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:UTN-FRRe, aula a confirmar
+WEBSITE:https://eventioz.com.ar/e/global-day-of-coderetreat-2014-argen
+ tina
+URL:https://eventioz.com.ar/e/global-day-of-coderetreat-2014-argentina
+CONTACT:3794781004
+ORGANIZER:Matías Mascazzini, Leandro A. Rodriguez y José A. Fernande
+ z.
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/DtcI2O2Ry7BpT
+ 2njpsp-TeKz7Vu9MdVeIiCrdVMjDcie9jCnYBYLGLMDIoXi*h-TDHOANCk04RdTxePbroL
+ -jqigadN23lE0/73.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matias M
+ ascazzini":http://coderetreat.org/profile/MatiasMascazzini
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jose A. 
+ Fernandez":http://coderetreat.org/profile/JoseAFernandez
+END:VEVENT
+END:VCALENDAR

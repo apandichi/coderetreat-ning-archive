@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9976
+DTSTAMP:20170129T124109Z
+SUMMARY:Coderetreat Belgium
+DESCRIPTION:The next coderetreat in Belgium\n\nFor more information vi
+ sit http://coderetreat.org/events/coderetreat-belgium-2
+DTSTART:20120915T083000Z
+DTEND:20120915T173000Z
+CATEGORIES:coderetreat
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:+32498432967
+ORGANIZER;CN="Erik Talboom":http://coderetreat.org/profile/ErikTalboom
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erik Tal
+ boom":http://coderetreat.org/profile/ErikTalboom
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Nassere
+  Besseghir":http://coderetreat.org/profile/NassereBesseghir
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54401
+DTSTAMP:20170129T112716Z
+SUMMARY:Global Day of Coderetreat - Portland, OR, USA
+DESCRIPTION:On Saturday, October 22nd, the Global Day of Coderetreat w
+ ill bring programmers together from all over the globe.   Portland c
+ ontinues its strong record of building better developers and growing t
+ he Portland software community with its 5th GDCR offering.\n Come join
+  your fellow programmers to practice the art of software development t
+ ogether.  Write code, learn from others, teach someone else, and expa
+ nd your network of friends who are passionate about their craft. Show 
+ up with your laptop and favorite development tools to participate, eve
+ rything else is provided.  Continental breakfast and lunch will be se
+ rved.  \n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-portland-or-usa
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Slalom Consulting
+WEBSITE:https://www.meetup.com/PDX-Software-Practice/events/234101761/
+URL:https://www.meetup.com/PDX-Software-Practice/events/234101761/
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/RnxjYN0X5lS8e
+ Sb1LqPmdz6J47sbyon3Aq2C07XI8B-Xe45fixKYNBIuwXyU6-VjVzoR19P0TRnpjzw1X2L
+ 8djnE3BkoAPpu/Logoonly.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

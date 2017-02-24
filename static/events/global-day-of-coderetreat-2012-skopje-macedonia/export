@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13172
+DTSTAMP:20170129T110937Z
+SUMMARY:Global Day of Coderetreat 2012 - Skopje / Macedonia
+DESCRIPTION:* Капацитет на Хаклаб просториј�
+ �та е 14 луѓе.\nПо втор пат во Хаклаб КИКА
+ , на 8ми Декември 2012 ќе организираме \"Glo
+ bal Day of Coderetreat\". Минатата година дел од н
+ астанов беа 94 градови од цел свет, а за 
+ оваа година стремежот е вкупно 200 град�
+ �ви да се приклучат.\nCoderetreat е еднодвене
+ н настан на кој интензивно вежбаме ОО �
+ �изајн на софтвер (1). За време на Coderetreat 
+ програмираме во парови (2) како одличен
+  начин за размена на знаење. Пишуваме к
+ од така што прво ќе напишеме тест за ис
+ тиот (3) и ги применуваме основни прави�
+ �а на едноставен дизајн (4).\nФорматот на
+  настанот е:\n- решаваме Conway's Game of Life про
+ блемот (5) - пишуваме најдобриот код во �
+ �есија од 45 мин - бришеме кодот - 10 минут
+ и ретроспектива - 5 минути пауза - проме
+ на на парови - нова сесија\nСпонзори на 
+ настанот се Siyelo, Ever-Near и Novp. За сите уч�
+ �сници ќе има ручек, пијалоци и маици с�
+ � принт од настанот. Дополнително, ќе и
+ ма и неколку награди од глобалните спо
+ нзори како електронски книги, лиценци 
+ и слично, но за тоа повеќе на самиот на�
+ �тан.\n(1) http://vimeo.com/18955165 (2) http://en.wikipedia.org/
+ wiki/Pair_programming (3) http://en.wikipedia.org/wiki/Test-driven_de
+ velopment (4) http://c2.com/cgi/wiki?XpSimplicityRules (5) http://en
+ .wikipedia.org/wiki/Conway%27s_Game_of_Life\n \nСпонзори:\nht
+ tp://siyelo.com/\n\nhttp://ever-near.com/\n\nhttp://www.novp.com/\n\n\
+ n\n\nFor more information visit http://coderetreat.org/events/global-d
+ ay-of-coderetreat-2012-skopje-macedonia
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Hacklab KIKA
+WEBSITE:https://maps.google.com/maps/ms?msid=202273220853331240819.000
+ 4b1c308bfec6b2e666&msa=0&ll=41.996171,21.41863&spn=0.006243,0.009334
+URL:https://maps.google.com/maps/ms?msid=202273220853331240819.0004b1c
+ 308bfec6b2e666&msa=0&ll=41.996171,21.41863&spn=0.006243,0.009334
+CONTACT:+38970795844
+ORGANIZER;CN="Dalibor Nasevic":http://coderetreat.org/profile/DaliborN
+ asevic
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/8cfVnuo4gpB3v
+ 5XUeeN-4OJD4cxbhKJhBYmr3FwlD0enWHRPkiGRdCYNLwVEgVCS8SBJIqCUI-coOxjAbam
+ 98FkqZBBlV8jq/skopje.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonuz Mi
+ ftari":http://coderetreat.org/profile/JonuzMiftari
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Петр
+ е Ламески":http://coderetreat.org/profile/PetreLameski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Costa Ha
+ licea":http://coderetreat.org/profile/CostaHalicea
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bojana P
+ opovska":http://coderetreat.org/profile/BojanaPopovska
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Blagoj P
+ etrushev":http://coderetreat.org/profile/BlagojPetrushev
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Filip Ko
+ stovski":http://coderetreat.org/profile/FilipKostovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Naum Kos
+ tovski":http://coderetreat.org/profile/shadowseed
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peco Dan
+ ajlovski":http://coderetreat.org/profile/PecoDanajlovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Milan Na
+ sevic":http://coderetreat.org/profile/MilanNasevic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mite Mit
+ reski":http://coderetreat.org/profile/MiteMitreski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Андр
+ еј Т.":http://coderetreat.org/profile/AndrejT
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Visar Ze
+ jnullahu":http://coderetreat.org/profile/VisarZejnullahu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dalibor 
+ Nasevic":http://coderetreat.org/profile/DaliborNasevic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Tomche 
+ Delev":http://coderetreat.org/profile/TomcheDelev
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Stojan 
+ Pesov":http://coderetreat.org/profile/StojanPesov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Vane An
+ donov":http://coderetreat.org/profile/VaneAndonov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Aleksan
+ dar Nakinov":http://coderetreat.org/profile/AleksandarNakinov
+END:VEVENT
+END:VCALENDAR

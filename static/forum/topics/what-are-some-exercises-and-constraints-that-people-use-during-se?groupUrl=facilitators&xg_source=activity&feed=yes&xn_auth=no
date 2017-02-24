@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>What are some exercises and constraints that people use during sessions? - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/what-are-some-exercises-and-constraints-that-people-use-during-se?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:34:46Z</updated>
+                        <id>http://coderetreat.org/forum/topics/what-are-some-exercises-and-constraints-that-people-use-during-se?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I like this format for docume…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:38832"/>
+                                        <id>tag:coderetreat.org,2014-09-27:6456126:Comment:38832</id>
+                                        <updated>2014-09-27T18:35:34.302Z</updated>
+                    
+                                            <author>
+                            <name>Jay Turpin</name>
+                            <uri>http://coderetreat.org/profile/JayTurpin</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I like this format for documenting the activities - has anyone started to do this for the other activities list in the &lt;a href=&quot;http://coderetreat.org/facilitating/activity-catalog?&quot; target=&quot;_blank&quot;&gt;http://coderetreat.org/facilitating/activity-catalog?&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;The piece missing for me with many of these activities is &lt;em&gt;Why&lt;/em&gt;? Why are we asking you to use small methods? Or take baby steps? Or only use pen and paper? Because we&#039;re evil? Or is there something that the student will…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I like this format for documenting the activities - has anyone started to do this for the other activities list in the &lt;a href=&quot;http://coderetreat.org/facilitating/activity-catalog?&quot; target=&quot;_blank&quot;&gt;http://coderetreat.org/facilitating/activity-catalog?&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;The piece missing for me with many of these activities is &lt;em&gt;Why&lt;/em&gt;? Why are we asking you to use small methods? Or take baby steps? Or only use pen and paper? Because we&#039;re evil? Or is there something that the student will learn by doing this activity.&lt;/p&gt;
+&lt;p&gt;I&#039;d like to see the elevator pitch (15 second explanation) for why for each of these activities. Anyone care to take a crack at it?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Name: Legacy Pairing (not sur…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32800"/>
+                                        <id>tag:coderetreat.org,2013-12-14:6456126:Comment:32800</id>
+                                        <updated>2013-12-14T23:28:34.621Z</updated>
+                    
+                                            <author>
+                            <name>Marc Bless</name>
+                            <uri>http://coderetreat.org/profile/MarcBless</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Legacy Pairing (not sure if the name fits very well)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; &quot;Solve the problem as quickly and dirty as possible. Do not write clean code, do not create a good design, just forget anything you’ve ever learned about inner code quality. Simply get this thing running!&quot; After 15 minutes, tell the pairs that one of their halfs will be gone and replace them with someone from another pair as the new guy who is now responsible for clean code,…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Legacy Pairing (not sure if the name fits very well)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; &quot;Solve the problem as quickly and dirty as possible. Do not write clean code, do not create a good design, just forget anything you’ve ever learned about inner code quality. Simply get this thing running!&quot; After 15 minutes, tell the pairs that one of their halfs will be gone and replace them with someone from another pair as the new guy who is now responsible for clean code, testing, etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Goal:&lt;/strong&gt; it&#039;s nearly impossible to transform the dirty code of the first 15 minutes into something more clean within the next 25 minutes. Socially, &quot;old&quot; guys in the pairs tend to keep their dirty code. &quot;Broken window&quot; effect can be observed: an existing dirty code base continues to grow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred Session:&lt;/strong&gt; afternoon, maybe right after lunch as an energetic activity&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; I&#039;ve written a short blog post on this activity &lt;a href=&quot;http://agilecoach.de/2013-12-14/creating-legacy-behavior-in-15-minutes/&quot; target=&quot;_blank&quot;&gt;http://agilecoach.de/2013-12-14/creating-legacy-behavior-in-15-minutes/&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>We&#039;re doing this mute style r…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:18855"/>
+                                        <id>tag:coderetreat.org,2012-12-08:6456126:Comment:18855</id>
+                                        <updated>2012-12-08T20:09:09.002Z</updated>
+                    
+                                            <author>
+                            <name>Jaime Bellmyer</name>
+                            <uri>http://coderetreat.org/profile/JaimeBellmyer</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;We&#039;re doing this mute style right now. For those who plan to try it in the next session, be sure to allow some extra setup time.  It took pairs several minutes to get their pairing setup worked out before we could officially go silent.&lt;/p&gt;
+&lt;p&gt;So far so good, and facilitating has been a great new challenge with its own rewards!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;We&#039;re doing this mute style right now. For those who plan to try it in the next session, be sure to allow some extra setup time.  It took pairs several minutes to get their pairing setup worked out before we could officially go silent.&lt;/p&gt;
+&lt;p&gt;So far so good, and facilitating has been a great new challenge with its own rewards!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Corey,
+Actually the requir…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17815"/>
+                                        <id>tag:coderetreat.org,2012-12-01:6456126:Comment:17815</id>
+                                        <updated>2012-12-01T16:32:37.360Z</updated>
+                    
+                                            <author>
+                            <name>Rafael Devill</name>
+                            <uri>http://coderetreat.org/profile/RafaelDevill</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Corey,&lt;/p&gt;
+&lt;p&gt;Actually the requirement changes I give them usually keeps them from &quot;finishing&quot;. The smarter guys who build a backlog of my changes and don&#039;t dive right into them usually finish with the original version, but not with all of the changes. Those who try to follow me every time I change my mind usually fail to get anything to work at the end... that is why I came up with the &quot;trade show in 3 seconds&quot; idea - which was totally spontaneous by the way - to point out to people why…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Corey,&lt;/p&gt;
+&lt;p&gt;Actually the requirement changes I give them usually keeps them from &quot;finishing&quot;. The smarter guys who build a backlog of my changes and don&#039;t dive right into them usually finish with the original version, but not with all of the changes. Those who try to follow me every time I change my mind usually fail to get anything to work at the end... that is why I came up with the &quot;trade show in 3 seconds&quot; idea - which was totally spontaneous by the way - to point out to people why work in progress limits and user stories are really-really important. &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi, Rafael,
+Thanks for postin…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17907"/>
+                                        <id>tag:coderetreat.org,2012-12-01:6456126:Comment:17907</id>
+                                        <updated>2012-12-01T16:10:07.772Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi, Rafael,&lt;/p&gt;
+&lt;p&gt;Thanks for posting this. I like the idea of changing requirements (I do a form of it in my own workshops for a different purpose).&lt;/p&gt;
+&lt;p&gt;I generally guard against letting people have the &quot;double session where they have a chance to finish.&quot; I used to do this, but found that denying it left people with that sense of hunger and drive to continue to experiment with it.&lt;/p&gt;
+&lt;p&gt;However, if you can use it to keep them from using the time to just &quot;finish the problem, so they can…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi, Rafael,&lt;/p&gt;
+&lt;p&gt;Thanks for posting this. I like the idea of changing requirements (I do a form of it in my own workshops for a different purpose).&lt;/p&gt;
+&lt;p&gt;I generally guard against letting people have the &quot;double session where they have a chance to finish.&quot; I used to do this, but found that denying it left people with that sense of hunger and drive to continue to experiment with it.&lt;/p&gt;
+&lt;p&gt;However, if you can use it to keep them from using the time to just &quot;finish the problem, so they can go home happy&quot; and give crazy requirement changes, then I definitely think this is awesome. Sounds like you&#039;ve done this variation to great success, so YAY! Love it!&lt;/p&gt;
+&lt;p&gt;Thanks again.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Name: Changing requirements
+D…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17687"/>
+                                        <id>tag:coderetreat.org,2012-11-29:6456126:Comment:17687</id>
+                                        <updated>2012-11-29T22:34:27.159Z</updated>
+                    
+                                            <author>
+                            <name>Rafael Devill</name>
+                            <uri>http://coderetreat.org/profile/RafaelDevill</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Changing requirements&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Sometimes people request to have a longer double session where they have a chance to finish. In return for the longer session they need to respond to changes along the way. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Goal:&lt;/strong&gt; A nice way to show participants how things they learned during the day can help back on the job. The changes are tailored in a way that they can not really be expected, and come at the worst possible…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Changing requirements&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Sometimes people request to have a longer double session where they have a chance to finish. In return for the longer session they need to respond to changes along the way. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Goal:&lt;/strong&gt; A nice way to show participants how things they learned during the day can help back on the job. The changes are tailored in a way that they can not really be expected, and come at the worst possible time. It also shows why working on one story at a time is important.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred Session:&lt;/strong&gt; The last one. People learned a lot, and it&#039;s time take the new knowledge for a test drive. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; I wrote a blog on this here: &lt;a href=&quot;http://c0de-x.com/changing-requirements/&quot; target=&quot;_blank&quot;&gt;http://c0de-x.com/changing-requirements/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A possible set of requirement changes I used: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Infinite world&lt;/li&gt;
+&lt;li&gt;Configurable rules &lt;/li&gt;
+&lt;li&gt;Store the age of each cell&lt;/li&gt;
+&lt;li&gt;Cells have a weight they inherit from their ancestors in the creation step&lt;/li&gt;
+&lt;li&gt;Trade show in 3 minutes: get as many tests as possible to a green status&lt;/li&gt;
+&lt;/ul&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Name: No swearing
+Description…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:4059"/>
+                                        <id>tag:coderetreat.org,2011-12-03:6456126:Comment:4059</id>
+                                        <updated>2011-12-03T22:09:04.824Z</updated>
+                    
+                                            <author>
+                            <name>Marton Meszaros</name>
+                            <uri>http://coderetreat.org/profile/MartonMeszaros</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; No swearing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; No swearing allowed (at least about the code)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning goal:&lt;/strong&gt; Respect the other&#039;s work&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred session:&lt;/strong&gt; The session where a pair inherits the code of another pair&#039;s previous session&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; No swearing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; No swearing allowed (at least about the code)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning goal:&lt;/strong&gt; Respect the other&#039;s work&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred session:&lt;/strong&gt; The session where a pair inherits the code of another pair&#039;s previous session&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Name: No mouse
+Description: N…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:2331"/>
+                                        <id>tag:coderetreat.org,2011-11-28:6456126:Comment:2331</id>
+                                        <updated>2011-11-28T07:48:28.440Z</updated>
+                    
+                                            <author>
+                            <name>Kevin Rutherford</name>
+                            <uri>http://coderetreat.org/profile/KevinRutherford</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; No mouse&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; No-one is allowed to touch the mouse during the session.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning goal:&lt;/strong&gt; Programmers who know keyboard shortcuts work faster and are usually less distracted.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred session:&lt;/strong&gt; Worth doing early in the day to kick people out of their comfort zones. Session 2, maybe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Not worth doing with a room full of vim ninjas!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; No mouse&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; No-one is allowed to touch the mouse during the session.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning goal:&lt;/strong&gt; Programmers who know keyboard shortcuts work faster and are usually less distracted.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred session:&lt;/strong&gt; Worth doing early in the day to kick people out of their comfort zones. Session 2, maybe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Not worth doing with a room full of vim ninjas!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Name: Use only paper for the…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:2085"/>
+                                        <id>tag:coderetreat.org,2011-11-27:6456126:Comment:2085</id>
+                                        <updated>2011-11-27T20:53:34.918Z</updated>
+                    
+                                            <author>
+                            <name>Jos</name>
+                            <uri>http://coderetreat.org/profile/Jos</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Use only paper for the first 10 minutes of one iteration&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; As simple as giving paper and pens to people and do not allow computers on for the first 10 minutes of the iteration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Goal:&lt;/strong&gt; Scribbling in paper enhances communication, especially between pairs in which one person is dominant, because they cannot fly for the keyboard and start typing away leaving the other person…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Use only paper for the first 10 minutes of one iteration&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; As simple as giving paper and pens to people and do not allow computers on for the first 10 minutes of the iteration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Goal:&lt;/strong&gt; Scribbling in paper enhances communication, especially between pairs in which one person is dominant, because they cannot fly for the keyboard and start typing away leaving the other person behind. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred Session:&lt;/strong&gt; The second session cause the first one has no rules; some people scribble just naturally but forcing people to do it could be a good exercise.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; I tried it once before and during the retrospective a person brought up the fact that he thought that the process in paper was about design, and that it should not be done that way cause the design should be guided by tests. In contrast, the exercise is intended to be used as a communication aid and not as a design session in a waterfall sense. Most people thought it was very useful to clear their heads and make sure you are on the same page in the pair. Some of them stuck to it in following iterations using paper and the computer at the same time.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Name: Mute with Find the Loop…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:2302"/>
+                                        <id>tag:coderetreat.org,2011-11-27:6456126:Comment:2302</id>
+                                        <updated>2011-11-27T19:06:47.648Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Mute with Find the Loophole&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a pairing exercise. It is actually three pairing techniques brought together in one exercise.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ping-pong - one person writes the tests, the other person writes the implementation code&lt;/li&gt;
+&lt;li&gt;Mute - nobody can talk&lt;/li&gt;
+&lt;li&gt;Find the Loophole - (AKA evil coder) the implementation person purposely writes the wrong algorithm that still makes the tests turn green. The key is that…&lt;/li&gt;
+&lt;/ul&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Mute with Find the Loophole&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a pairing exercise. It is actually three pairing techniques brought together in one exercise.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ping-pong - one person writes the tests, the other person writes the implementation code&lt;/li&gt;
+&lt;li&gt;Mute - nobody can talk&lt;/li&gt;
+&lt;li&gt;Find the Loophole - (AKA evil coder) the implementation person purposely writes the wrong algorithm that still makes the tests turn green. The key is that they have to keep the code very clean all the while. So, no big long if statements parsing on the input parameters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Learning Goal:&lt;/strong&gt; This is a great exercise on making expressive tests and taking that expressiveness to the extreme. If you can&#039;t talk to your pair, then you can&#039;t run on verbal assumptions. Communicating entirely through the tests highlights the idea of &quot;tests as documentation&quot; and can be considered a conversation with future you when you come back to maintain it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred Session:&lt;/strong&gt; I like to do this at the session after lunch. I think it is a nice quieting down exercise after lunch. Plus, it really stretches people by putting them in a fairly uncomfortable position. By the time they come out of this, they are usually full immersed again in the sessions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One thing I find funny is that, as soon as the timer goes off, and I say done, the room explodes in sound as people can&#039;t contain themselves anymore.&lt;/li&gt;
+&lt;li&gt;I always let people have a few minutes (3-4) to talk with their pair before we gather together for the retro.&lt;/li&gt;
+&lt;/ul&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

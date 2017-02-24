@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49123
+DTSTAMP:20170129T121327Z
+SUMMARY:Global Day of Coderetreat 2015 - Lehi, UT, USA
+DESCRIPTION:Pluralsight is hosting a Global Day of Coderetreat event a
+ t our Lehi office.  \nTickets are available on eventbrite.  Please R
+ SVP there so we can have an accurate count for catering.\nhttps://www.
+ eventbrite.com/e/pluralsight-global-day-of-coderetreat-tickets-1936275
+ 3517\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-lehi-ut-usa
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Thanksgiving Point
+WEBSITE:https://www.google.com/maps/place/3400+Ashton+Blvd,+Lehi,+UT+8
+ 4043/@40.4296916,-111.8965546,17z/data=!4m2!3m1!1s0x8752802f0d5e3449:0
+ x17cfa1de19a284b6
+URL:https://www.google.com/maps/place/3400+Ashton+Blvd,+Lehi,+UT+84043
+ /@40.4296916,-111.8965546,17z/data=!4m2!3m1!1s0x8752802f0d5e3449:0x17c
+ fa1de19a284b6
+CONTACT:801-735-2014
+ORGANIZER:
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Neil Sor
+ ensen":http://coderetreat.org/profile/NeilSorensen
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11190
+DTSTAMP:20170129T122852Z
+SUMMARY:Testautomation Coderetreat Bielefeld 25th of Aug 2012
+DESCRIPTION:please register via : http://testauto-coderetreat-bielefel
+ d.eventbrite.com\n\nFor more information visit http://coderetreat.org/
+ events/testautomation-coderetreat-bielefeld-25th-of-aug-2012
+DTSTART:20120825T090000Z
+DTEND:20120825T173000Z
+CATEGORIES:coderetreat, testautomation
+LOCATION:klose borothers gmbh
+WEBSITE:http://testauto-coderetreat-bielefeld.eventbrite.com
+URL:http://testauto-coderetreat-bielefeld.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/q1pFLgiZZQtr5
+ FfFuX860J*uCM17IhetBs-UlcQ1qSN2kXPdFODrOOppirXVE8iTKqW5ex7hl7oYSV0b2O9
+ lkkRBBijkYlD1/200pxWappen_Bielefeld_reasonably_small.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

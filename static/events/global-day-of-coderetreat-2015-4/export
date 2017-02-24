@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49911
+DTSTAMP:20170129T121459Z
+SUMMARY:Global Day of Coderetreat 2015 - Charlottetown, PEI, Canada
+DESCRIPTION:The Global Day of Coderetreat in Charlottetown PEI.\nJoin 
+ us for our third annual code retreat hosted by PEI-Devs.  It's a grea
+ t chance to work on good programming practices and hang out with some 
+ interesting folks.\n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-coderetreat-2015-4
+DTSTART:20151114T080000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Atlantic Technology Centre
+WEBSITE:https://goo.gl/maps/hLw17PWKBdL2
+URL:https://goo.gl/maps/hLw17PWKBdL2
+CONTACT:
+ORGANIZER;CN="Derek Campbell":http://coderetreat.org/profile/DerekCamp
+ bell
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Duf
+ fy":http://coderetreat.org/profile/MattDuffy
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Derek Ca
+ mpbell":http://coderetreat.org/profile/DerekCampbell
+END:VEVENT
+END:VCALENDAR

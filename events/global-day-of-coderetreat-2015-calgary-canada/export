@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46805
+DTSTAMP:20170129T103703Z
+SUMMARY:Global Day of Coderetreat 2015 - Calgary, Canada
+DESCRIPTION:- Code retreat in Calgary\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2015-calgary-can
+ ada
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Calgary, Alberta, Canada
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Tony Trung Thanh Vo":http://coderetreat.org/profile/Tony
+ TrungThanhVo
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tony Tru
+ ng Thanh Vo":http://coderetreat.org/profile/TonyTrungThanhVo
+END:VEVENT
+END:VCALENDAR

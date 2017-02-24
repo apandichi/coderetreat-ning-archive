@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Isaac Sanders&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/IsaacSanders</link>
+        <pubDate>Sun, 29 Jan 2017 11:13:55 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:13:55 +0000</lastBuildDate>
+        <image>
+            <title>Isaac Sanders&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/IsaacSanders</link>
+            <url>http://api.ning.com:80/files/zADXvfJfiQ*JzsVVZvcpnvkt*Joykd4LVP966KzETa2dQ6qlNel6DlZrK3ZfTZhsk-mV-FhdCMcxq6Vvbjh5-vHSdz8clf8-/492969864.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000a09ba27c0fce547c100f379</guid>
+               <title>Isaac Sanders shared their blog post on Twitter</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:7534?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/IsaacSanders?xg_source=activity">Isaac Sanders</a> shared their <a href="http://coderetreat.org/xn/detail/6456126:BlogPost:7534?xg_source=activity">blog post</a> on Twitter</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:7534?xg_source=activity">CodeRetreat with Corey Haines</a></h3></div>]]></description>
+               <pubDate>Tue, 17 Jan 2012 16:43:05 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000a09ba27dd8b51719683f06a</guid>
+               <title>Isaac Sanders posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:7534?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/IsaacSanders?xg_source=activity">Isaac Sanders</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:7534?xg_source=activity">CodeRetreat with Corey Haines</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:7534">CodeRetreat with Corey Haines v2012 by Isaac SandersTL;DRCodeRetreat rocks, and the Law of Demeter makes sense to me now (it means you don’t reach into other objects).Also, attend any CodeRetreat you can, especially if Corey is facilitating.For those of you who don’t know what CodeRetreat is visit <a href="http://coderetreat.org/">coderetreat.org</a>It’s 6am, we got a full tank of gas and ~140 miles. Hit it.I would like to give a special thanks to Greg Malcolm for helping me to get home from CodeMash then to and from CodeRetreat. Greg is an awesome person to spend time with and I know that the Dev community will continue to be great with people like him in it.Session 1 (Ed)The first session I paired with Ed. Ed normally does .NET and C#, and I normally do Ruby, but we were able to work well together in JavaScript using <a href="http://tryjasmine.com">tryjasmine.com</a>. While we deleted the code (and tests) half way through to start again, we still had a great time and it gave a great start to the day.Session 2 (Jon)My second pair, Jon, is a Rubyist from Pittsburgh, who works with a startup. Pairing with him was fun, and we took an interesting route. We chose to work on the grid, something that I have always avoided, as it seems to be one of the harder problems. However, once we got started, it seemed to be going well.Session 3 (Zack)After Lunch, Corey challenged us to have a silent pairing session. Zack and I have debated whether or not this could work, so I decided to pair with him. I was really surprised at how easily we worked in silence. I hope to do more silent pairing with him over the next few months.Session 4 (Steve)During the fourth session, I had the opportunity to pair with Steve. I couldn’t believe the things I learned in pairing with him. I learned more about ducktyping and polymorphism. He explained the Law of Demeter in a way that I understood. He is an excellent pair, and I will be taking this experience with me as I continue on my path.Session 5 (Josh)In our final session, I paired with Josh. We chose clojure, but my grasp of Functional Programming is still weak. I seemed to be grasping for an Object-Oriented approach as much as I could, and I knew it was making it harder to pair. I hope to work on my understanding and will enjoy pairing with Josh in the future.ClosingI had a great time at CodeRetreat. I will be looking forward to my next opportunity to go to a CodeRetreat with excitement.<a class="continue-link" href="http://coderetreat.org/profiles/blogs/coderetreat-with-corey-haines">See More</a></div></div></div></div>]]></description>
+               <pubDate>Tue, 17 Jan 2012 16:42:34 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000a09ba27358169804bc96d21</guid>
+               <title>Isaac Sanders is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/IsaacSanders?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/IsaacSanders?xg_source=activity">Isaac Sanders</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 17 Jan 2012 16:39:54 +0000</pubDate>
+               </item>    </channel>
+</rss>

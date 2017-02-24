@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Erik Talboom&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3otsqds6n3dgw&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:38:10Z</updated>
+                            <author>
+                    <name>Erik Talboom</name>
+                    <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/AJLdKyb-til8veUykOeXXHT8VRG0uMpmVPOtJANk0CwwiJu56M8w1yfiFb5ynJfW2Ie4yQpCh3RvywY6CBe1MVorZr2Lp5Lw/492748793.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3otsqds6n3dgw&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Corporate-wide coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:12028"/>
+                                        <id>tag:coderetreat.org,2012-09-05:6456126:BlogPost:12028</id>
+                                        <updated>2012-09-05T19:46:38.000Z</updated>
+                    
+                                            <author>
+                            <name>Erik Talboom</name>
+                            <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Yesterday I facilitated a 4 team coderetreat for one of our biggest customers. It was my first experiment with a multi team coderetreat and it turned out pretty good all-in-all. Read more about this unique experience: &lt;a href=&quot;http://t.co/FENq0KNb&quot;&gt;http://t.co/FENq0KNb&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Yesterday I facilitated a 4 team coderetreat for one of our biggest customers. It was my first experiment with a multi team coderetreat and it turned out pretty good all-in-all. Read more about this unique experience: &lt;a href=&quot;http://t.co/FENq0KNb&quot;&gt;http://t.co/FENq0KNb&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Memories of a legacy coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:9080"/>
+                                        <id>tag:coderetreat.org,2012-03-22:6456126:BlogPost:9080</id>
+                                        <updated>2012-03-22T20:56:16.000Z</updated>
+                    
+                                            <author>
+                            <name>Erik Talboom</name>
+                            <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Heya guys,&lt;/p&gt;
+&lt;p&gt;I just wanted to let you know that we ran the first legacy coderetreat of 2012 in Belgium a little over a week ago. I wrote down a short story about it, that you can read &lt;a href=&quot;http://talboomerik.be/2012/03/22/practicing-legacy-rescue-techniques/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&#039;m going to blog about the different sessions we experimented with soon, I&#039;ll keep you posted here as well of course.&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Heya guys,&lt;/p&gt;
+&lt;p&gt;I just wanted to let you know that we ran the first legacy coderetreat of 2012 in Belgium a little over a week ago. I wrote down a short story about it, that you can read &lt;a href=&quot;http://talboomerik.be/2012/03/22/practicing-legacy-rescue-techniques/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&#039;m going to blog about the different sessions we experimented with soon, I&#039;ll keep you posted here as well of course.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>New session idea: Baby steps</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:7434"/>
+                                        <id>tag:coderetreat.org,2012-01-18:6456126:BlogPost:7434</id>
+                                        <updated>2012-01-18T10:09:04.000Z</updated>
+                    
+                                            <author>
+                            <name>Erik Talboom</name>
+                            <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;a href=&quot;https://twitter.com/#!/adibolb&quot; target=&quot;_blank&quot;&gt;Adi&lt;/a&gt; and I came up with a new idea that helps people to focus on small steps and also opens them up for committing small chunks very often. The main idea is that people get a very short time box to write a new test and implement it the simplest way possible. After that they get another short time box to refactor the code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://talboomerik.be/2012/01/16/taking-baby-steps/&quot; target=&quot;_blank&quot;&gt;Here&lt;/a&gt; you can find the…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/#!/adibolb&quot; target=&quot;_blank&quot;&gt;Adi&lt;/a&gt; and I came up with a new idea that helps people to focus on small steps and also opens them up for committing small chunks very often. The main idea is that people get a very short time box to write a new test and implement it the simplest way possible. After that they get another short time box to refactor the code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://talboomerik.be/2012/01/16/taking-baby-steps/&quot; target=&quot;_blank&quot;&gt;Here&lt;/a&gt; you can find the details of the session&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>First in-house experiment</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:7432"/>
+                                        <id>tag:coderetreat.org,2012-01-18:6456126:BlogPost:7432</id>
+                                        <updated>2012-01-18T10:05:47.000Z</updated>
+                    
+                                            <author>
+                            <name>Erik Talboom</name>
+                            <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I facilitated my first in-house coderetreat last week. It was weird not to have &lt;a href=&quot;https://twitter.com/#!/adibolb&quot; target=&quot;_blank&quot;&gt;my partner in crimes&lt;/a&gt; with me but I managed. For this workshop, I had to add a little bit of theory between sessions, really explaining the basics of TDD and giving some more context around the &lt;a href=&quot;http://www.jbrains.ca/permalink/the-four-elements-of-simple-design&quot; target=&quot;_blank&quot;&gt;4 elements of simple design&lt;/a&gt;. So we only got to do 5 sessions.…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;I facilitated my first in-house coderetreat last week. It was weird not to have &lt;a href=&quot;https://twitter.com/#!/adibolb&quot; target=&quot;_blank&quot;&gt;my partner in crimes&lt;/a&gt; with me but I managed. For this workshop, I had to add a little bit of theory between sessions, really explaining the basics of TDD and giving some more context around the &lt;a href=&quot;http://www.jbrains.ca/permalink/the-four-elements-of-simple-design&quot; target=&quot;_blank&quot;&gt;4 elements of simple design&lt;/a&gt;. So we only got to do 5 sessions. People really responded well to most of the constraints although it forced them to go outside of their comfort zone. Especially the &lt;a href=&quot;http://gojko.net/2009/02/27/thought-provoking-tdd-exercise-at-the-software-craftsmanship-conference/&quot; target=&quot;_blank&quot;&gt;TDD as if you meant it&lt;/a&gt; was hard, that&#039;s why we decided to do 2 of those, just to get the feeling of it.&lt;/p&gt;
+&lt;p&gt;If you want, you can read &lt;a href=&quot;http://talboomerik.be/2012/01/18/in-house-coderetreat-workshop/&quot; target=&quot;_blank&quot;&gt;the full story&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>First coderetreat of 2012</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:7547"/>
+                                        <id>tag:coderetreat.org,2012-01-18:6456126:BlogPost:7547</id>
+                                        <updated>2012-01-18T10:01:01.000Z</updated>
+                    
+                                            <author>
+                            <name>Erik Talboom</name>
+                            <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;On Saturday 7 January Adi and I facilitated the first coderetreat of 2012 in Amsterdam and it was a blast. It was my first coderetreat outside of Belgium and it was fun to see that people were really surprised that a guy living in France and one living in Belgium were crazy enough to drive all the way to Amsterdam to go and facilitate a coderetreat there. All I can say is that I&#039;m glad I can do things like this. It&#039;s awesome to see passionate people that really want to change things. It&#039;s an…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;On Saturday 7 January Adi and I facilitated the first coderetreat of 2012 in Amsterdam and it was a blast. It was my first coderetreat outside of Belgium and it was fun to see that people were really surprised that a guy living in France and one living in Belgium were crazy enough to drive all the way to Amsterdam to go and facilitate a coderetreat there. All I can say is that I&#039;m glad I can do things like this. It&#039;s awesome to see passionate people that really want to change things. It&#039;s an honor to be able to meet all those people and discussing with them.&lt;/p&gt;
+&lt;p&gt;If you want, you can read &lt;a href=&quot;http://talboomerik.be/2012/01/17/my-first-coderetreat-abroad/&quot; target=&quot;_blank&quot;&gt;the full story&lt;/a&gt;.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Global day of Coderetreat: the Belgian edition</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:6071"/>
+                                        <id>tag:coderetreat.org,2011-12-22:6456126:BlogPost:6071</id>
+                                        <updated>2011-12-22T11:34:04.000Z</updated>
+                    
+                                            <author>
+                            <name>Erik Talboom</name>
+                            <uri>http://coderetreat.org/profile/ErikTalboom</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;First of all I would like to thank my facilitation counterpart &lt;a href=&quot;https://twitter.com/#!/adibolb&quot;&gt;Adrian Bolboaca&lt;/a&gt; for all our coderetreats. I&#039;m glad to be able to team up with this guy everytime.&lt;/p&gt;
+&lt;p&gt;We had loads of people joining us with a lot of new guys in the group that were new to TDD and pair programming as well. &quot;Tdd as if you meant it&quot; had a really big impact on a couple of the newbies which was a bit of a surprise for us. At the same time it was my personal highlight of…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;First of all I would like to thank my facilitation counterpart &lt;a href=&quot;https://twitter.com/#!/adibolb&quot;&gt;Adrian Bolboaca&lt;/a&gt; for all our coderetreats. I&#039;m glad to be able to team up with this guy everytime.&lt;/p&gt;
+&lt;p&gt;We had loads of people joining us with a lot of new guys in the group that were new to TDD and pair programming as well. &quot;Tdd as if you meant it&quot; had a really big impact on a couple of the newbies which was a bit of a surprise for us. At the same time it was my personal highlight of this edition.&lt;/p&gt;
+&lt;p&gt;If you want, you can also read a &lt;a href=&quot;http://wp.me/p1di0L-P&quot;&gt;more detailed report&lt;/a&gt; on the retreat. &lt;/p&gt;
+&lt;p&gt;Thanks again to Corey, Jim and all the facilitators out there for making this happen. We&#039;re already planning new retreats for 2012 and looking forward to GDCR12.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

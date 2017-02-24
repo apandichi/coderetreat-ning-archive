@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16888
+DTSTAMP:20170129T114414Z
+SUMMARY:Global Day of Coderetreat 2012 - Ume√• / Sweden
+DESCRIPTION:This day is dedicated to honing the craft we perform as pr
+ ogrammers every day. During the day we will focus on some challenging 
+ areas of programming and learning from skills and experience of the ot
+ her participants.\nThe event is sponsored by Acino, Sogeti and Omegapo
+ int.\nAll kinds of programmers are welcome!\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-coderetreat-2012-ume-s
+ weden
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:code, retreat
+LOCATION:Sogeti Sverige AB
+WEBSITE:http://goo.gl/maps/7d0TH
+URL:http://goo.gl/maps/7d0TH
+CONTACT:0709192492
+ORGANIZER:Ume√• Java User Group
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Markus √
+ ñrebrand":http://coderetreat.org/profile/MarkusOrebrand
+END:VEVENT
+END:VCALENDAR

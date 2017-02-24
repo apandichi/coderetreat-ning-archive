@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56049
+DTSTAMP:20170129T093357Z
+SUMMARY:Global Day of Coderetreat 2016 - Olomouc, Czech Republic
+DESCRIPTION:Coderetreat je jednodenní intenzivní cvičení zaměřen
+ é na základy vývoje softwaru. Díky tomu, že vývojáři nejsou po
+ d tlakem rychlého doručování výsledků, poskytuje Coderetreat mo�
+ �nost cíleně se soustředit na zlepšování svých dovedností. Pro
+ cvičováním základních principů modulárního a objektově-orient
+ ovaného návrhu mohou účastníci zlepšit své schopnosti psát kó
+ d, který minimalizuje náročnost implementace dalších změn.\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2016-olomouc-czech-republic
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Pr.F Univerzity Palackeho
+WEBSITE:http://srazy.info/coderetreat/6774
+URL:http://srazy.info/coderetreat/6774
+CONTACT:
+ORGANIZER;CN="Tomas Latal":http://coderetreat.org/profile/TomasLatal
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tomas La
+ tal":http://coderetreat.org/profile/TomasLatal
+END:VEVENT
+END:VCALENDAR

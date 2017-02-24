@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jaroslaw Klose&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JaroslawKlose</link>
+        <pubDate>Sun, 29 Jan 2017 11:29:06 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:29:06 +0000</lastBuildDate>
+        <image>
+            <title>Jaroslaw Klose&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JaroslawKlose</link>
+            <url>http://api.ning.com:80/files/MBtHLqmI6t1FKmu-4KlUJbvRkeeV9gCBGl2zQSDa-1HHoPZspk1nWv8Q8kYMfaIjxCnHE2Ch3IjRmX1qcGw71sUmD*bW3cpd/1088292883.jpeg?xgip=0%3A0%3A1565%3A1565%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e00000000110072f71d078d922181d3ef</guid>
+               <title>Jaroslaw Klose posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55005?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JaroslawKlose?xg_source=activity">Jaroslaw Klose</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55005?xg_source=activity">Global Day of Coderetreat 2016 - Bielefeld, Germany</a> at klose brothers Gmbh</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 8:30am to 4pm</div><div class="rich-excerpt">Global Day in Bielefeld (Germany)<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55005?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 13 Sep 2016 13:06:00 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000110072f7e2954f0460ea3fa8</guid>
+               <title>Jaroslaw Klose posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:40266?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JaroslawKlose?xg_source=activity">Jaroslaw Klose</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:40266?xg_source=activity">GDCR14 Bielefeld (Germany)</a> at Technologiezentrum</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 8:30am to 5:30pm</div><div class="rich-excerpt">Global Day in Bielefeld (Germany)<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:40266?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 27 Oct 2014 07:45:26 +0000</pubDate>
+               </item>    </channel>
+</rss>

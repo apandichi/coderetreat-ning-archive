@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1fc8w68b3di4a&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:54:10Z</updated>
+                            <author>
+                    <name>Jose A. Fernandez</name>
+                    <uri>http://coderetreat.org/profile/JoseAFernandez</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/I0fvYV0V5N6xvssWwUD4a8YNhi5V4CMeetv2xbjZnEgv822yblx5jAil6IBDw-GpBIIVKrxnWQep9ISjE4KWWpUJzomymYFN/1049325480.jpeg?xgip=0%3A0%3A778%3A778%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1fc8w68b3di4a&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Matias Mascazzini</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MatiasMascazzini"/>
+                                        <id>tag:coderetreat.org,2013-11-30:6456126:User:30690</id>
+                                        <updated>2013-11-30T13:51:01.460Z</updated>
+                    
+                                            <author>
+                            <name>Jose A. Fernandez</name>
+                            <uri>http://coderetreat.org/profile/JoseAFernandez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/JxTjGabEM8Mw-AduVGRyduhgQhNdY96snIpTrxLWxgVACDcizfwp92xoxNCDIozUc00XHeM4lvN2dSR3ZUIaFg9-R2TTSYdv/1046953587.jpeg?xgip=1%3A0%3A508%3A508%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Matias Mascazzini&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/JxTjGabEM8Mw-AduVGRyduhgQhNdY96snIpTrxLWxgVACDcizfwp92xoxNCDIozUc00XHeM4lvN2dSR3ZUIaFg9-R2TTSYdv/1046953587.jpeg?xgip=1%3A0%3A508%3A508%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Matias Mascazzini&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

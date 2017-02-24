@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:57234
+DTSTAMP:20170129T093109Z
+SUMMARY:Astana CodeRetreat 2016
+DESCRIPTION:CodeRetreat organized by EPAM Systems in Astana: 34 regist
+ erd participants from different companies and places.\nWe expect to ha
+ ve Java, JS, C#, Scala, Python developers in one place\nFacilitator: A
+ nuar Nurmakanov, who already did CodeRetreat in Karaganda city, during
+  Global Day of CodeRetreat 2015\n\nFor more information visit http://c
+ oderetreat.org/events/astana-coderetreat-2016
+DTSTART:20161224T103000Z
+DTEND:20161224T190000Z
+CATEGORIES:pure, coderetreat
+LOCATION:Astana, Kazakhstan
+WEBSITE:https://events.epam.com/events/global-day-of-coderetreat-kz
+URL:https://events.epam.com/events/global-day-of-coderetreat-kz
+CONTACT:
+ORGANIZER:Anuar Nurmakanov, EPAM Systems Kazakhstan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anuar Nu
+ rmakanov":http://coderetreat.org/profile/AnuarNurmakanov
+END:VEVENT
+END:VCALENDAR

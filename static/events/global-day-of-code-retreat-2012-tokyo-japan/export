@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13383
+DTSTAMP:20170129T134540Z
+SUMMARY:Global Day of Code Retreat 2012 - Tokyo / Japan
+DESCRIPTION:We're happy to announce that Tokyo will join the Global Da
+ y of ode Retreat 2012.\nRSVP Site Here\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-code-retreat-2012-tokyo-jap
+ an
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:code, retreat
+LOCATION:Forcia Co., Ltd.
+WEBSITE:https://maps.google.co.jp/maps?f=q&hl=ja&geocode=&time=&date=&
+ ttype=&q=%3D%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%
+ 96%B0%E5%AE%BF%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%93-%EF%BC%92%EF%BC%95&
+ ie=UTF8&ll=35.689321,139.704277&spn=0.010386,0.013776&z=14&iwloc=addr&
+ om=1&source=embed
+URL:https://maps.google.co.jp/maps?f=q&hl=ja&geocode=&time=&date=&ttyp
+ e=&q=%3D%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B
+ 0%E5%AE%BF%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%93-%EF%BC%92%EF%BC%95&ie=U
+ TF8&ll=35.689321,139.704277&spn=0.010386,0.013776&z=14&iwloc=addr&om=1
+ &source=embed
+CONTACT:
+ORGANIZER;CN="Yasuo Hojo":http://coderetreat.org/profile/YasuoHojo
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yasuo Ho
+ jo":http://coderetreat.org/profile/YasuoHojo
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3tabx09ojigpv&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:51:15Z</updated>
+                            <author>
+                    <name>Rafael Huaman</name>
+                    <uri>http://coderetreat.org/profile/RafaelHuaman</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/dKFnm-6k5*BwDKJOobalOWSlbTY2Wp0RioUl4xYc2RJC0upU6p58ZqlsseJUKRzjcUb3UqFZOcxJClS9w76FxQMy0-9UT2uo/1156491443.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3tabx09ojigpv&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Li-Hsuan Lung</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/LiHsuanLung"/>
+                                        <id>tag:coderetreat.org,2016-08-26:6456126:User:54350</id>
+                                        <updated>2016-08-26T14:42:05.808Z</updated>
+                    
+                                            <author>
+                            <name>Rafael Huaman</name>
+                            <uri>http://coderetreat.org/profile/RafaelHuaman</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/E0Eg3EAQ2u7i719vyE7iEaCUfQCcPDnUJwlsOalSDiMO-d7xmwGH8ZKyl0Ul7B*9KGmcVXdfxiqNSvbARw26nO3HEi8-8GDl/1232085129.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Li-Hsuan Lung&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/E0Eg3EAQ2u7i719vyE7iEaCUfQCcPDnUJwlsOalSDiMO-d7xmwGH8ZKyl0Ul7B*9KGmcVXdfxiqNSvbARw26nO3HEi8-8GDl/1232085129.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Li-Hsuan Lung&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

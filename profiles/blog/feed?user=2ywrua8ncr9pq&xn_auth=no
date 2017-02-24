@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Antonio Lucca&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=2ywrua8ncr9pq&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:30Z</updated>
+                            <author>
+                    <name>Antonio Lucca</name>
+                    <uri>http://coderetreat.org/profile/AntonioLucca</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/7w9K3C93JTpJC9dFqzLlqycPAWEcyyD19Bu1X7A6jkQ-fyWhvF1CD44MkKejb35n-Wfr6zymeQtnxQfGgTQg7nV0W-fW6BDi/966909393.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=2ywrua8ncr9pq&amp;xn_auth=no</id>
+                            <entry>
+                    <title>GDCR in Milan</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5508"/>
+                                        <id>tag:coderetreat.org,2011-12-08:6456126:BlogPost:5508</id>
+                                        <updated>2011-12-08T14:51:44.000Z</updated>
+                    
+                                            <author>
+                            <name>Antonio Lucca</name>
+                            <uri>http://coderetreat.org/profile/AntonioLucca</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;My post about the day in Milan. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://tonyxzt.blogspot.com/2011/12/global-day-of-coderetreat-in-milan.html&quot;&gt;http://tonyxzt.blogspot.com/2011/12/global-day-of-coderetreat-in-milan.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was at great experience.&lt;/p&gt;
+&lt;p&gt;Thank all.&lt;/p&gt;
+&lt;p&gt;Tony&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;My post about the day in Milan. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://tonyxzt.blogspot.com/2011/12/global-day-of-coderetreat-in-milan.html&quot;&gt;http://tonyxzt.blogspot.com/2011/12/global-day-of-coderetreat-in-milan.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was at great experience.&lt;/p&gt;
+&lt;p&gt;Thank all.&lt;/p&gt;
+&lt;p&gt;Tony&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

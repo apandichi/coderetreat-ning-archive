@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Jeff Foster&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1ea0d4oz7wd0r&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:10:25Z</updated>
+                            <author>
+                    <name>Jeff Foster</name>
+                    <uri>http://coderetreat.org/profile/JeffFoster</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/KqUfeIShaeEvhiPL4d7yzHRcOoxhIJr*3JtdVAODEbFMlejvjw9js9amC5OQM5HADnhAO6hDcd9NyFvE33tlj4q0k5G*GOXP/782505465.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1ea0d4oz7wd0r&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Code Retreat Cambridge</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:19296"/>
+                                        <id>tag:coderetreat.org,2012-12-09:6456126:BlogPost:19296</id>
+                                        <updated>2012-12-09T19:25:09.000Z</updated>
+                    
+                                            <author>
+                            <name>Jeff Foster</name>
+                            <uri>http://coderetreat.org/profile/JeffFoster</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        Code Retreat Cambridge&lt;br /&gt;
+Yesterday I had the pleasure of attending a Global Day of Code Retreat event held at Red Gate, Cambridge hosted by the local software craftsmanship group.&lt;br /&gt;
+&lt;br /&gt;
+The format of the day is to solve the same problem a number of times with different constraints each time. Each problem is solved as a pair and generally uses test-driven development. After the end of each session, the code was thrown away. Although this might seem a little strange, it meant you couldn&#039;t form an…                    </summary>
+
+                    <content type="html">
+Code Retreat Cambridge&lt;br /&gt;
+Yesterday I had the pleasure of attending a Global Day of Code Retreat event held at Red Gate, Cambridge hosted by the local software craftsmanship group.&lt;br /&gt;
+&lt;br /&gt;
+The format of the day is to solve the same problem a number of times with different constraints each time. Each problem is solved as a pair and generally uses test-driven development. After the end of each session, the code was thrown away. Although this might seem a little strange, it meant you couldn&#039;t form an attachment to the code and could more easily indulge with the given constraints.&lt;br /&gt;
+&lt;br /&gt;
+The problem used this time was Conway&#039;s Game of Life. I think this is a great choice of problem, it&#039;s simple enough that the problem can be easily understood, but there&#039;s a really rich variety of possible approaches to solving the problem.&lt;br /&gt;
+&lt;br /&gt;
+I alternated the sessions between C# and Haskell. I found the value in pairing directly related to the asymmetry in ability. The more asymmetry the better! I found that showing people unfamiliar with Haskell was a rewarding experience. People seemed to grok Haskell very quickly, and were impressed with the readability of the solution.&lt;br /&gt;
+&lt;br /&gt;
+As a side note, I was really impressed with Mono. I needed to get a C# development environment up and running on my Linux laptop, and I was slightly dreading doing so. Turned out that was completely unfounded, it just worked. The IDE lacks a few niceties (it&#039;s certainly not as easy as Visual Studio + Resharper), but it&#039;s not bad!&lt;br /&gt;
+&lt;br /&gt;
+On the C# side, I learnt more about design than anything else. In particular, one thing that stuck out for me was the difference between the top-down and bottom-up approaches. Sometimes when I paired, my partner would aim to get a top-level test (evolving a grid produces a new grid for example). I found this really hard to drive from a TDD point of view - breaking down from the top is much harder for me. The other way up, writing the rules first (a dead cell that has three neighbours becomes alive for example) feels much more natural for me an certainly a lot easier to drive the tests. There did seem to be a middle ground that was more fun to work through; get the structure right with a top-level test, and then drive the functionality bottom-up. The seems to be the same approach as advocated by Growing Object-Oriented Software by Tests and I look forward to trying this out in anger.&lt;br /&gt;
+&lt;br /&gt;
+I didn&#039;t pair with anyone who even considered mutable objects. I&#039;m not sure whether this was just a self-selecting group of people, but everyone was firmly in the &quot;mutable state&quot; is bad. I would really like to run with a set of constraints to do with high-performance to see how that altered peoples perceptions.&lt;br /&gt;
+&lt;br /&gt;
+The constraints that were chosen were interesting.&lt;br /&gt;
+No primitives (including enums)&lt;br /&gt;
+No if statements&lt;br /&gt;
+No mouse! (use the IDE)&lt;br /&gt;
+No long methods&lt;br /&gt;
+&lt;br /&gt;
+No mouse wasn&#039;t very interesting for me, I&#039;ve always been a big fan of learning keyboard shortcuts (bashing keys always makes it look like you know what you are doing, so I&#039;ve found it a good way to hide my incompetence sometimes!).&lt;br /&gt;
+&lt;br /&gt;
+The most interesting constraint for me was the no if statements (see the anti-if campaign for some justification). The lack of if statements forced you into generating object hierarchies and using polymorphism. It was a little artificial for the problem but it did result in cleaner code (just maybe a bit more of it!).&lt;br /&gt;
+&lt;br /&gt;
+So now I need to try and take this back to my day job. Always a bit harder trying to apply techniques learnt in the small to problems faced in the large. Legacy code makes life harder!&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Originally posted to &lt;a href=&quot;http://www.fatvat.co.uk/2012/12/code-retreat-cambridge.html&quot;&gt;http://www.fatvat.co.uk/2012/12/code-retreat-cambridge.html&lt;/a&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

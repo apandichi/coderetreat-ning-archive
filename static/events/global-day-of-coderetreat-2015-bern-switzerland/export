@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44909
+DTSTAMP:20170129T121916Z
+SUMMARY:Global Day of Coderetreat 2015 - Bern, Switzerland
+DESCRIPTION:very happy to inform you that this year a second swiss loc
+ ation opened for the legendary GLOBAL DAY OF CODE RETREAT. we invite c
+ oders from all over the world to have a day of fun in bern.\nhurry up 
+ to register. seats are limited so don't hesitate!\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2015
+ -bern-switzerland
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:DV Bern
+WEBSITE:https://www.google.com/maps?q=DV+Bern+AG
+URL:https://www.google.com/maps?q=DV+Bern+AG
+CONTACT:+41 31 378 24 24
+ORGANIZER;CN="Xaver Weibel":http://coderetreat.org/profile/XaverWeibel
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/vZBStZ816j1i8
+ gSqiVdU*jpSYaiHzVSzk2fRjR6Rs3BUcPiQtWyGAMqsE3KQarj*oIkVKW1*YPfGO7LEhQP
+ nWoOONKkYS7au/BERN075.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Manuel D
+ rieschmanns":http://coderetreat.org/profile/ManuelDrieschmanns
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Xaver We
+ ibel":http://coderetreat.org/profile/XaverWeibel
+END:VEVENT
+END:VCALENDAR

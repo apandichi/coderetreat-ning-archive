@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Videos Tagged gdcr13 (Coderetreat) - Coderetreat</title>
+            <link rel="self" href="listTagged?tag=gdcr13&amp;rss=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:54:17Z</updated>
+                        <id>http://coderetreat.org/video/video/listTagged?tag=gdcr13&amp;rss=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Stop, delete your code, and stand up! + Countdown - Coderetreat @REA 2013</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:29116"/>
+                                        <id>tag:coderetreat.org,2013-11-09:6456126:Video:29116</id>
+                                        <updated>2013-11-09T04:41:03.178Z</updated>
+                    
+                                            <author>
+                            <name>Victoria Schiffer</name>
+                            <uri>http://coderetreat.org/profile/VictoriaSchiffer</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/stop-delete-your-code-and-stand-up-coderetreat-rea-2013-1&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/BZVbc20jWUk9HHSYJHOXGhxohjo5CS2etYsMx8Y9HavPR9ijmEkoPrWeLCuUhnOLpSBavlrwfw8adGyYSvEyJwrwJgOgXXCK/1044389800.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;We created our own &quot;Stop, delete your code, and stand up!&quot; video during our internal coderetreat @REA (realestate.com.au), TDD in Ruby was not challenging enough to most, so TDD in Bash was very popular…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/stop-delete-your-code-and-stand-up-coderetreat-rea-2013-1&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/BZVbc20jWUk9HHSYJHOXGhxohjo5CS2etYsMx8Y9HavPR9ijmEkoPrWeLCuUhnOLpSBavlrwfw8adGyYSvEyJwrwJgOgXXCK/1044389800.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;We created our own &quot;Stop, delete your code, and stand up!&quot; video during our internal coderetreat @REA (realestate.com.au), TDD in Ruby was not challenging enough to most, so TDD in Bash was very popular ;)                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Optimus Sez: Delete Your Code!</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:28061"/>
+                                        <id>tag:coderetreat.org,2013-10-23:6456126:Video:28061</id>
+                                        <updated>2013-10-23T23:14:46.460Z</updated>
+                    
+                                            <author>
+                            <name>Ken Taylor</name>
+                            <uri>http://coderetreat.org/profile/KenTaylor</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/optimus-sez-delete-your-code&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/pCC3UkZfemaG*CQyJ5uTpeAzcxf1LXH4irbt1-8Cv-PD9Dcce9jH7IJcuzjck9wwjsqHFUe-kd8MiK*yMZp-uCm9mBHWL8A1/1042489657.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;Video for the Global Day of Code Retreat&#039;s &quot;DeleteYourCode&quot; contest: &lt;a href=&quot;http://coderetreat.org/profiles/blogs/delete-your-code-video-contest&quot;&gt;http://coderetreat.org/profiles/blogs/delete-your-code-video-contest&lt;/a&gt; This is my 2013…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/optimus-sez-delete-your-code&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/pCC3UkZfemaG*CQyJ5uTpeAzcxf1LXH4irbt1-8Cv-PD9Dcce9jH7IJcuzjck9wwjsqHFUe-kd8MiK*yMZp-uCm9mBHWL8A1/1042489657.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;Video for the Global Day of Code Retreat&#039;s &quot;DeleteYourCode&quot; contest: &lt;a href=&quot;http://coderetreat.org/profiles/blogs/delete-your-code-video-contest&quot;&gt;http://coderetreat.org/profiles/blogs/delete-your-code-video-contest&lt;/a&gt; This is my 2013 entry.                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

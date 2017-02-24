@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15778
+DTSTAMP:20170129T134626Z
+SUMMARY:Global Day of Coderetreat 2012 - Lyon / France
+DESCRIPTION:Global Day of Code Retreat\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-coderetreat-2012-3
+DTSTART:20121208T083000Z
+DTEND:20121208T160000Z
+CATEGORIES:code, retreat
+LOCATION:La Cordée Charpennes
+WEBSITE:http://goo.gl/maps/UDjJC
+URL:http://goo.gl/maps/UDjJC
+CONTACT:
+ORGANIZER:Lyon.rb, CARA Lyon, Lyon JUG & AFPY Lyon
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/vsbrT97TVTM5B
+ u3ArrpOdNBmE5yjLVTzjtf0aaip35jJHbY2w8LtXYpcMcog4qw4N6NmDF213hmDbr0yryA
+ fv8MPozMcqpMU/LaCordecoworkingbureauxpartags.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Philippe
+  Creux":http://coderetreat.org/profile/PhilippeCreux
+END:VEVENT
+END:VCALENDAR

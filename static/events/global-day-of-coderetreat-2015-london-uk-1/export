@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48066
+DTSTAMP:20170129T121310Z
+SUMMARY:Global Day of Coderetreat 2015 - London, UK
+DESCRIPTION:Global Day of Code Retreat 2015 London for Epamers and any
+ one who'd like to join us!\nPlease sign up here\nhttps://events.epam.c
+ om/events/coderetreat-london\n\nFor more information visit http://code
+ retreat.org/events/global-day-of-coderetreat-2015-london-uk-1
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:London
+WEBSITE:https://events.epam.com/events/coderetreat-london
+URL:https://events.epam.com/events/coderetreat-london
+CONTACT:
+ORGANIZER;CN="Dennis Alexander":http://coderetreat.org/profile/DennisA
+ lexander
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dennis A
+ lexander":http://coderetreat.org/profile/DennisAlexander
+END:VEVENT
+END:VCALENDAR

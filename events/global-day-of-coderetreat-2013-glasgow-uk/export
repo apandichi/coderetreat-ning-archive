@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28852
+DTSTAMP:20170129T115929Z
+SUMMARY:Global Day of Coderetreat 2013 - Glasgow, UK
+DESCRIPTION:Spaarks are hosting Global Day of Coderetreat 2013 in Gla
+ sgow.\nYou can register here: http://coderetreat.spaarks.com/\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2013-glasgow-uk
+DTSTART:20131214T083000Z
+DTEND:20131214T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:I2 Office
+WEBSITE:http://www.2westregentstreet.com/
+URL:http://www.2westregentstreet.com/
+CONTACT:+44 141 447 0152
+ORGANIZER;CN="martin steel":http://coderetreat.org/profile/martinsteel
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/zNSLWuvsJ1LJA
+ 1hlqvIIWrYrIh0TOMW7ZWjXDSjSoLB0*IRMzPXJpMxgbtAOrlMIUAXKRyVB7RDutIT4kpy
+ wt*YXprFkuLT-/SpaarksLogoAndTextYellowOnBlue.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven G
+ ilmour":http://coderetreat.org/profile/StevenGilmour
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="martin s
+ teel":http://coderetreat.org/profile/martinsteel
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54685
+DTSTAMP:20170129T112607Z
+SUMMARY:Global Day of Coderetreat - Tirgu-Mures, Romania
+DESCRIPTION:In Tirgu-Mures?\nJoin us for the Global Day of Coderetrea
+ t.\n\nFor more information visit http://coderetreat.org/events/global-
+ day-of-coderetreat-tirgu-mures
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:gdcr16
+LOCATION:Tirgu-Mures
+WEBSITE:https://www.google.fr/maps/place/Strada+Principal%C4%83,+Corun
+ ca,+Roumanie/@46.520523,24.6064208,18.58z/data=!4m5!3m4!1s0x474bb0c34b
+ 4ae4a9:0xce7a9cdc3e2a697b!8m2!3d46.5198542!4d24.6222202
+URL:https://www.google.fr/maps/place/Strada+Principal%C4%83,+Corunca,+
+ Roumanie/@46.520523,24.6064208,18.58z/data=!4m5!3m4!1s0x474bb0c34b4ae4
+ a9:0xce7a9cdc3e2a697b!8m2!3d46.5198542!4d24.6222202
+CONTACT:+33677445560
+ORGANIZER;CN="One Logic Consulting":http://coderetreat.org/profile/One
+ LogicConsulting
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marinel 
+ Marian":http://coderetreat.org/profile/MarinelMarian
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="One Logi
+ c Consulting":http://coderetreat.org/profile/OneLogicConsulting
+END:VEVENT
+END:VCALENDAR

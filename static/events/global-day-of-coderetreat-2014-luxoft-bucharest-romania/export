@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41713
+DTSTAMP:20170129T102744Z
+SUMMARY:Global Day of Coderetreat 2014 - Bucharest, Romania
+DESCRIPTION:Global Day of Coderetreat held in Luxoft Romania.\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2014-luxoft-bucharest-romania
+DTSTART:20141115T100000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Luxoft Romania, Novopark, E building
+WEBSITE:http://www.luxoft.com/
+URL:http://www.luxoft.com/
+CONTACT:
+ORGANIZER;CN=Rux:http://coderetreat.org/profile/Rux
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Rux:http:
+ //coderetreat.org/profile/Rux
+END:VEVENT
+END:VCALENDAR

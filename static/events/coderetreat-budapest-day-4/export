@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12353
+DTSTAMP:20170129T104300Z
+SUMMARY:Coderetreat Budapest, day #4
+DESCRIPTION:General coderetreat in Budapest. You can RSVP on Facebook:
+  https://www.facebook.com/events/409900562406420/\n\nFor more informat
+ ion visit http://coderetreat.org/events/coderetreat-budapest-day-4
+DTSTART:20120929T093000Z
+DTEND:20120929T180000Z
+CATEGORIES:coderetreat, budapest
+LOCATION:BalaBit IT Security
+WEBSITE:https://www.facebook.com/events/409900562406420/
+URL:https://www.facebook.com/events/409900562406420/
+CONTACT:
+ORGANIZER;CN="Rafael Devill":http://coderetreat.org/profile/RafaelDevi
+ ll
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael D
+ evill":http://coderetreat.org/profile/RafaelDevill
+END:VEVENT
+END:VCALENDAR

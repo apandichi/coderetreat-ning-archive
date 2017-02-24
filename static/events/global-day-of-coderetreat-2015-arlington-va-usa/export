@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47374
+DTSTAMP:20170129T121225Z
+SUMMARY:Global Day of Coderetreat 2015 - Arlington, VA, USA
+DESCRIPTION:Code retreat in Arlington, VA.  Hosted by Hobsons.\nWe ar
+ e metro accessible at the Clarendon metro stop, from Washington DC and
+  Maryland.\nPlease register through our Eventbrite page:  https://www
+ .eventbrite.com/e/global-day-of-coderetreat-2015-arlington-va-usa-tick
+ ets-19102930379\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2015-arlington-va-usa
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Hobsons
+WEBSITE:https://www.eventbrite.com/e/global-day-of-coderetreat-2015-ar
+ lington-va-usa-tickets-19102930379
+URL:https://www.eventbrite.com/e/global-day-of-coderetreat-2015-arling
+ ton-va-usa-tickets-19102930379
+CONTACT:
+ORGANIZER;CN="Kevin Shaw":http://coderetreat.org/profile/KevinShaw
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Sh
+ aw":http://coderetreat.org/profile/KevinShaw
+END:VEVENT
+END:VCALENDAR

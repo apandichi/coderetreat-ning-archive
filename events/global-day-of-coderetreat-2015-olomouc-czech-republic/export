@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47121
+DTSTAMP:20170129T100813Z
+SUMMARY:Global Day of Coderetreat 2015 - Olomouc, Czech Republic
+DESCRIPTION:This year we will celebrate Global Day of Coderetreat for 
+ the first time in Olomouc, Czech Republic. \nJoin us for a full day o
+ f hands-on coding practice to improve your craft.\nBring your computer
+  and your brain—we've got the rest covered! \nRSVP and more informa
+ tion on http://srazy.info/coderetreat/5864\n\n\n\nFor more informatio
+ n visit http://coderetreat.org/events/global-day-of-coderetreat-2015-o
+ lomouc-czech-republic
+DTSTART:20151114T080000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Přírodovědecká fakulta Univerzity Palackého v Olomouci
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Tomas Latal":http://coderetreat.org/profile/TomasLatal
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tomas La
+ tal":http://coderetreat.org/profile/TomasLatal
+END:VEVENT
+END:VCALENDAR

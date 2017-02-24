@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Dennis Alexander&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DennisAlexander</link>
+        <pubDate>Sun, 29 Jan 2017 12:13:11 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:13:11 +0000</lastBuildDate>
+        <image>
+            <title>Dennis Alexander&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DennisAlexander</link>
+            <url>http://api.ning.com:80/files/ctVGzmtSoN8wrYtZG*XH2caaWxsoI5esaeH-PJyQ-zxNdRALQFHUCCm1dnYbuJzJmpt2xwHNXr5w70UawbM-FAwKXV0KCPLz/1149505584.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012038c6b7eb7ff72bbe3aa13</guid>
+               <title>Dennis Alexander updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48066?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DennisAlexander?xg_source=activity">Dennis Alexander</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48066?xg_source=activity">Global Day of Coderetreat 2015 - London, UK</a> at London</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Global Day of Code Retreat 2015 London for Epamers and anyone who'd like to join us!Please sign up here<a href="https://events.epam.com/events/coderetreat-london">https://events.epam.com/events/coderetreat-london</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48066?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 03 Nov 2015 13:53:57 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012038c6b796d4e4f48471546</guid>
+               <title>Dennis Alexander posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48066?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DennisAlexander?xg_source=activity">Dennis Alexander</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48066?xg_source=activity">Global Day of Coderetreat 2015 - London, UK</a> at London</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Global Day of Code Retreat 2015 London for Epamers and anyone who'd like to join us!Please sign up here<a href="https://events.epam.com/events/coderetreat-london">https://events.epam.com/events/coderetreat-london</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48066?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 27 Oct 2015 11:15:44 +0000</pubDate>
+               </item>    </channel>
+</rss>

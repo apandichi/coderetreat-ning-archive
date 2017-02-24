@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46885
+DTSTAMP:20170129T105447Z
+SUMMARY:Global Day of Coderetreat 2015 - Corrientes, Argentina
+DESCRIPTION:El Sábado 14 de Noviembre de 2015 se celebra el día mund
+ ial de los CodeRetreat desde ComunidadTIC te queremos invitar a unirte
+  a la iniciativa de desarrolladores para desarrolladores.\n\n¿Qué de
+ bo llevar?\nUn portátil con los entornos de programación instalados 
+ y configurados. Preferentemente alguna librería para hacer pruebas un
+ itarias. Y Muchas ganas de participar y compartir un momento con otros
+  apasionados del desarrollo de software. \n¡Registrate!\nEs totalment
+ e gratuito, sólo necesitas una notebook cada 2 personas y ganas de pa
+ sarlo bien.\n\nPara saber cuanto espacio vamos a necesitar y no tener 
+ problemas con el ingreso al lugar ¡necesitamos que te inscribas! en h
+ ttp://eventioz.com.ar/global-day-of-coderetreat-2015-corrientes\n\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2015-corrientes-argentina
+DTSTART:20151114T090000Z
+DTEND:20151114T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:FACENA-UNNE
+WEBSITE:https://www.google.com/maps/d/edit?mid=z0_KrVsvYO14.kbkME_xu8_
+ -0&usp=sharing
+URL:https://www.google.com/maps/d/edit?mid=z0_KrVsvYO14.kbkME_xu8_-0&u
+ sp=sharing
+CONTACT:
+ORGANIZER;CN="Matias Mascazzini":http://coderetreat.org/profile/Matias
+ Mascazzini
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/*Rq2xzdEfo7wf
+ jq-Ca3DQiNmAd2D2n4ruBTR1ZSSypCL5vYDyRqxQvbkHMVsloHmjWMJoDj-PaPYoLLpX0w
+ 4KonMPjm*Jxmp/photo202092853276551090.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matias M
+ ascazzini":http://coderetreat.org/profile/MatiasMascazzini
+END:VEVENT
+END:VCALENDAR

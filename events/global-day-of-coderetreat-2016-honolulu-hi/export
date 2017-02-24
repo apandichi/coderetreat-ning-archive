@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55345
+DTSTAMP:20170129T112914Z
+SUMMARY:Global Day of Coderetreat 2016 - Honolulu, HI
+DESCRIPTION:Honolulu is participating in GDCR for the 6th year!\n\nPle
+ ase see details and RSVP at https://www.meetup.com/aloharb/events/2341
+ 82731/\n\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2016-honolulu-hi
+DTSTART:20161022T083000Z
+DTEND:20161022T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Manoa Innovation Center
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Christopher Sass":http://coderetreat.org/profile/Christo
+ pherSass
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christop
+ her Sass":http://coderetreat.org/profile/ChristopherSass
+END:VEVENT
+END:VCALENDAR

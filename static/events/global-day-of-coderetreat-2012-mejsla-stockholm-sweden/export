@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:14807
+DTSTAMP:20170129T104021Z
+SUMMARY:Global Day of Coderetreat 2012 @ Mejsla - Stockholm / Sweden
+DESCRIPTION:Coderetreat at Mejslas cosy loft in the center of Stockhol
+ m. Breakfast from 8.30 am, lunch of course and some post retreat beer.
+  Language - Swedish. Sign up using instruction on web site.\n\nFor mor
+ e information visit http://coderetreat.org/events/global-day-of-codere
+ treat-2012-mejsla-stockholm-sweden
+DTSTART:20121208T090000Z
+DTEND:20121208T160000Z
+CATEGORIES:coderetreat
+LOCATION:Mejsla
+WEBSITE:http://www.mejsla.se/kompetens20121208
+URL:http://www.mejsla.se/kompetens20121208
+CONTACT:+46 70-777 49 74
+ORGANIZER;CN="Pontus Bergöö":http://coderetreat.org/profile/PontusBe
+ rgoeoe
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pontus B
+ ergöö":http://coderetreat.org/profile/PontusBergoeoe
+END:VEVENT
+END:VCALENDAR

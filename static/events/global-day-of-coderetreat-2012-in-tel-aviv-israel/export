@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13593
+DTSTAMP:20170129T134218Z
+SUMMARY:Global Day of Coderetreat 2012 - Tel Aviv / Israel
+DESCRIPTION:Global day of Code retreat 2012 in Israel, Sponsored by th
+ e eBay Israel Social Center\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2012-in-tel-aviv-israel
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:gdcr, coderetreat
+LOCATION:eBay Israel Social Center
+WEBSITE:http://coderetreat.co.il
+URL:http://coderetreat.co.il
+CONTACT:
+ORGANIZER;CN="Yonatan Bergman":http://coderetreat.org/profile/YonatanB
+ ergman
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/W1d5k81TL1UG9
+ ffxTua4XstpQzd0cBMXWAIoKKKB9RQPttpHZB8hZ0RhJEavYfDOk11qTNuAmsUl6ezV5-q
+ qZ-86yhoDZy2Y/561347_10150854206462886_507144742_n.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yonatan 
+ Bergman":http://coderetreat.org/profile/YonatanBergman
+END:VEVENT
+END:VCALENDAR

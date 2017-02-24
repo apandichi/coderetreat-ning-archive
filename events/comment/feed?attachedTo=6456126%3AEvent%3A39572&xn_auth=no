@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2014 - Arlington, VA, USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A39572&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:07:59Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A39572&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Click here to RSVP  http://ww…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:39834"/>
+                                        <id>tag:coderetreat.org,2014-10-15:6456126:Comment:39834</id>
+                                        <updated>2014-10-15T22:28:18.811Z</updated>
+                    
+                                            <author>
+                            <name>Vlad Korolev</name>
+                            <uri>http://coderetreat.org/profile/VladKorolev</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Click here to RSVP &lt;span&gt; &lt;/span&gt;&lt;a href=&quot;http://www.meetup.com/DC-Software-Craftsmanship/events/163724242/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/DC-Software-Craftsmanship/events/163724242/&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Click here to RSVP &lt;span&gt; &lt;/span&gt;&lt;a href=&quot;http://www.meetup.com/DC-Software-Craftsmanship/events/163724242/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/DC-Software-Craftsmanship/events/163724242/&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

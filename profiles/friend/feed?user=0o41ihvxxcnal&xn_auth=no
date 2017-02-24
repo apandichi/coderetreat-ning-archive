@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0o41ihvxxcnal&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:32:38Z</updated>
+                            <author>
+                    <name>Sean Duckett</name>
+                    <uri>http://coderetreat.org/profile/SeanDuckett</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/REqOXlBbGhhCefKMabTLrPxLmldmhp3ktsnBs71DXg0BEA-dIx0WVSyJwaVwsBnR443hiB9WIQjmidAXmpdZzl9dZbjuq-bo/1134003945.jpeg?xgip=0%3A80%3A766%3A766%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0o41ihvxxcnal&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Paul Alejandro Soberanes</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PaulAlejandroSoberanes"/>
+                                        <id>tag:coderetreat.org,2014-10-23:6456126:User:40095</id>
+                                        <updated>2014-10-23T13:49:40.457Z</updated>
+                    
+                                            <author>
+                            <name>Sean Duckett</name>
+                            <uri>http://coderetreat.org/profile/SeanDuckett</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TwbgnXl4eNW6XdCxWjwmwOxZdSv6*JRnlEcQ-fYVDQxlblzj6OjDDkVrTtITW3EKAR3hesMfqktUTdyF5o1IlPp3bG0fRzLg/1087767477.jpeg?xgip=0%3A0%3A458%3A458%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Paul Alejandro Soberanes&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TwbgnXl4eNW6XdCxWjwmwOxZdSv6*JRnlEcQ-fYVDQxlblzj6OjDDkVrTtITW3EKAR3hesMfqktUTdyF5o1IlPp3bG0fRzLg/1087767477.jpeg?xgip=0%3A0%3A458%3A458%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Paul Alejandro Soberanes&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Bob Allen @CuriousAgilist</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/BobAllenCuriousAgilist"/>
+                                        <id>tag:coderetreat.org,2012-08-25:6456126:User:11637</id>
+                                        <updated>2012-08-25T14:45:19.681Z</updated>
+                    
+                                            <author>
+                            <name>Sean Duckett</name>
+                            <uri>http://coderetreat.org/profile/SeanDuckett</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bob Allen @CuriousAgilist&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/AgrwBePMoLCDOyDLFaJriUHDtMGV94xJJqOhtPLJ1f8CFc4Hd*-DpWqTayLStI4btb4wY-MxRQ1bxO7oY2ZBG-l1e0mkbfNQ/1034845542.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bob Allen @CuriousAgilist&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

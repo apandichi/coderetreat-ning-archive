@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40508
+DTSTAMP:20170129T120830Z
+SUMMARY:Global Day of Coderetreat 2014 - Nuremberg, Germany
+DESCRIPTION:For detailed description and registration have a look at h
+ ttps://gdcr14-nuernberg.eventbrite.de \nSunny regards,\nMartin Heider
+ , Marco Emrich & René Füger\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2014-nuremberg-germany
+DTSTART:20141115T083000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Coworking Space Nuremberg
+WEBSITE:https://gdcr14-nuernberg.eventbrite.de
+URL:https://gdcr14-nuernberg.eventbrite.de
+CONTACT:
+ORGANIZER:Martin Heider, Marco Emrich & René Füger
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Em
+ rich":http://coderetreat.org/profile/MarcoEmrich
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin H
+ eider":http://coderetreat.org/profile/MartinHeider
+END:VEVENT
+END:VCALENDAR

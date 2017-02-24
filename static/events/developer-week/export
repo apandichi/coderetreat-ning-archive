@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:22010
+DTSTAMP:20170129T122701Z
+SUMMARY:Developer Week
+DESCRIPTION:In one week and one place, the Developer Week (DWX) focuss
+ es the established events WDC (Web Developer Conference), MDC (Mobile 
+ Developer Conference) and DDC (.NET Developer Conference) from the 24t
+ h – 27th June 2013 in Nuremberg. Participants can expect more than 2
+ 00 top experts on the ground, virtually 40 tracks and 250 sessions on 
+ Web-, Mobile- and. NET development.\nMore information at http://www.de
+ veloper-week.de/\n\nFor more information visit http://coderetreat.org/
+ events/developer-week
+DTSTART:20130624T203000Z
+DTEND:20130627T060000Z
+CATEGORIES:conference
+LOCATION:NCC Ost, Nuremberg
+WEBSITE:http://www.developer-week.de/
+URL:http://www.developer-week.de/
+CONTACT:
+ORGANIZER:Florian Bender
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peggy Pa
+ schold":http://coderetreat.org/profile/PeggyPaschold
+END:VEVENT
+END:VCALENDAR

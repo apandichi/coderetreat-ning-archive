@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:32443
+DTSTAMP:20170129T115705Z
+SUMMARY:Global Day of Coderetreat 2013 - Bucharest, Romania
+DESCRIPTION:Bucharest is joining the global event. The local event is 
+ organized on meetup.com, http://www.meetup.com/The-Bucharest-Agile-So
+ ftware-Meetup-Group/events/146028322/?_af_eid=146028322&_af=event&a=uc
+ 1_vm.\n\nFor more information visit http://coderetreat.org/events/glob
+ al-day-of-code-retreat-2013-bucharest-romania
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Adobe Romania
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Claudia Rosu":http://coderetreat.org/profile/ClaudiaRosu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Claudia 
+ Rosu":http://coderetreat.org/profile/ClaudiaRosu
+END:VEVENT
+END:VCALENDAR

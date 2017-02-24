@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27740
+DTSTAMP:20170129T124147Z
+SUMMARY:1 Kassler Coderetreat
+DESCRIPTION:Coderetreat held in German.\nPlease register on the Eventb
+ rite page\n\nFor more information visit http://coderetreat.org/events
+ /1-kassler-coderetreat
+DTSTART:20131019T090000Z
+DTEND:20131019T173000Z
+CATEGORIES:coderetreat
+LOCATION:IBM Office
+WEBSITE:http://www.eventbrite.de/event/610654484/
+URL:http://www.eventbrite.de/event/610654484/
+CONTACT:
+ORGANIZER;CN="Claudius Link":http://coderetreat.org/profile/ClaudiusLi
+ nk
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Claudius
+  Link":http://coderetreat.org/profile/ClaudiusLink
+END:VEVENT
+END:VCALENDAR

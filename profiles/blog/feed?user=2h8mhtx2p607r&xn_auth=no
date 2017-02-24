@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Tomek Kaczanowski&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=2h8mhtx2p607r&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:46Z</updated>
+                            <author>
+                    <name>Tomek Kaczanowski</name>
+                    <uri>http://coderetreat.org/profile/TomekKaczanowski</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=2h8mhtx2p607r&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Coderetreat, Cracow, 2011 - Been There, Done That</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4774"/>
+                                        <id>tag:coderetreat.org,2011-12-07:6456126:BlogPost:4774</id>
+                                        <updated>2011-12-07T14:26:23.000Z</updated>
+                    
+                                            <author>
+                            <name>Tomek Kaczanowski</name>
+                            <uri>http://coderetreat.org/profile/TomekKaczanowski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi All,&lt;/p&gt;
+&lt;p&gt; my relation from Cracow 2011 Code Retreat can be found here: &lt;a href=&quot;http://kaczanowscy.pl/tomek/2011-12/code-retreat-cracow-2011-been-there-done-that&quot;&gt;http://kaczanowscy.pl/tomek/2011-12/code-retreat-cracow-2011-been-there-done-that&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;Tomek Kaczanowski &lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Hi All,&lt;/p&gt;
+&lt;p&gt; my relation from Cracow 2011 Code Retreat can be found here: &lt;a href=&quot;http://kaczanowscy.pl/tomek/2011-12/code-retreat-cracow-2011-been-there-done-that&quot;&gt;http://kaczanowscy.pl/tomek/2011-12/code-retreat-cracow-2011-been-there-done-that&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;Tomek Kaczanowski &lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

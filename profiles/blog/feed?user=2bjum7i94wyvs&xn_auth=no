@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Franklin Chen&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=2bjum7i94wyvs&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:11:48Z</updated>
+                            <author>
+                    <name>Franklin Chen</name>
+                    <uri>http://coderetreat.org/profile/FranklinChen</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/c4wDkd1AsUrzU1QydfxUkUsN*GQSsXPM0sBp*uS8yLe3sRHmw96SV-Ew3zyixWLzWzEwYPqmDZCDcFxoOxC3TvrQAGz7lAKh/832716995.jpeg?xgip=0%3A68%3A373%3A373%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=2bjum7i94wyvs&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Why I Am Writing This Week for CSEdWeek</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4704"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:BlogPost:4704</id>
+                                        <updated>2011-12-05T05:37:08.000Z</updated>
+                    
+                                            <author>
+                            <name>Franklin Chen</name>
+                            <uri>http://coderetreat.org/profile/FranklinChen</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;/p&gt;
+&lt;h1 class=&quot;entry-title&quot;&gt;Why I Am Writing This Week for CSEdWeek&lt;/h1&gt;
+&lt;p&gt;(cross-posted from my &lt;a href=&quot;http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/&quot;&gt;blog&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;meta&quot;&gt;Dec 4&lt;span&gt;th&lt;/span&gt;, 2011&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://franklinchen.com/images/csedweek-2011.png&quot; title=&quot;Logo for CSEdWeek 2011&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;This week (December 4 through 10, 2011) has been designed as &lt;a href=&quot;http://www.csedweek.org/&quot;&gt;Computer Science Education Week (CSEDWeek)&lt;/a&gt; by the US House of Representatives to…&lt;/p&gt;
+&lt;/div&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;/p&gt;
+&lt;h1 class=&quot;entry-title&quot;&gt;Why I Am Writing This Week for CSEdWeek&lt;/h1&gt;
+&lt;p&gt;(cross-posted from my &lt;a href=&quot;http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/&quot;&gt;blog&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&quot;meta&quot;&gt;Dec 4&lt;span&gt;th&lt;/span&gt;, 2011&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class=&quot;entry-content&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://franklinchen.com/images/csedweek-2011.png&quot; title=&quot;Logo for CSEdWeek 2011&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;This week (December 4 through 10, 2011) has been designed as &lt;a href=&quot;http://www.csedweek.org/&quot;&gt;Computer Science Education Week (CSEDWeek)&lt;/a&gt; by the US House of Representatives to recognize the importance of computer science education for students at all levels.&lt;/p&gt;
+&lt;p&gt;I am one of over 2000 people who have pledged online to participate in CSEdWeek. I will be blog about &lt;strong&gt;computation&lt;/strong&gt; and the &lt;strong&gt;learning&lt;/strong&gt; and &lt;strong&gt;teaching&lt;/strong&gt; of it, in every context that I have experienced it.&lt;/p&gt;
+&lt;p&gt;Let me start by raising some questions about what is at stake.&lt;/p&gt;
+&lt;h2&gt;Definitions&lt;/h2&gt;
+&lt;p&gt;What do you think of when you even hear of “Computer Science education”? (I welcome comments below.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do you imagine elementary schools equipped with iPads?&lt;/li&gt;
+&lt;li&gt;Do you imagine courses about how to use applications such as Microsoft Word or Gmail?&lt;/li&gt;
+&lt;li&gt;Do you imagine Advanced Placement courses spreading to every high school in the country, with high enrollments in the courses?&lt;/li&gt;
+&lt;li&gt;Do you imagine community college and technical schools teaching something about programming in Visual Basic or Java?&lt;/li&gt;
+&lt;li&gt;Do you imagine undergraduates learning about asymptotic mathematical analysis of parallel algorithms?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I do not like the phrase “computer science”. Someone once said, computer science is not about &lt;strong&gt;computers&lt;/strong&gt; and is not &lt;strong&gt;science&lt;/strong&gt;. I heartily agree. The essence of what computers do is what is important, not the physical details of the what &lt;strong&gt;computes&lt;/strong&gt; or the very specific details of what applications have already been provided for use on a computer. And the principles of computation are just mathematics, which is not an empirical science.&lt;/p&gt;
+&lt;p&gt;So right off the bat, I think there is a lot of opportunity for confusion when trying to determine what the scope of “computer science” is (versus programming, human-computer interaction, software engineering, psychology and politics of software development in the real world), what should be taught, to whom, and by whom.&lt;/p&gt;
+&lt;p&gt;I especially dislike the word “education”. It often implies some formal degree program, tuition, certifications, and other such matters. I’m interested in the &lt;strong&gt;learning&lt;/strong&gt; and &lt;strong&gt;teaching&lt;/strong&gt;, not in the &lt;strong&gt;student&lt;/strong&gt; or &lt;strong&gt;teacher&lt;/strong&gt; or &lt;strong&gt;school&lt;/strong&gt; part of the story.&lt;/p&gt;
+&lt;h2&gt;Learning and teaching outside of school&lt;/h2&gt;
+&lt;p&gt;Later this week I will write about how various experiences in school turned me off from computers, from computing, and offer suggestions on how to fix the problem of discouraging young people from pursuing a computing-oriented learning and career path.&lt;/p&gt;
+&lt;p&gt;But today, I just want to mention a remarkable event that occurred just yesterday, the &lt;a href=&quot;http://blog.coderetreat.com/global-day-of-coderetreat&quot;&gt;Global Day of CodeRetreat&lt;/a&gt;, held simultaneously in 90 cities with around 2000 attendees. I participated in the local &lt;a href=&quot;http://globalcoderetreat2011pittsburgh.eventbrite.com/&quot;&gt;Pittsburgh edition&lt;/a&gt; of the event. (I will write later this week in detail about my experience at the event.)&lt;/p&gt;
+&lt;p&gt;The motto of the event is “Programmers honing their craft together.”&lt;/p&gt;
+&lt;p&gt;The buzzwords used here are very far from those in academic “computer science”. I bring up the event because I think that one thing that is entirely missing in the discussion of “computer science education” is, what is really important and valuable to society, and who provides it, and where? It is fashionable in academia to look down on anything that would speak of “programmers” (rather than “computer scientists”), “honing” (rather than “proving”), “craft” (rather than “science”), and “together” (conventional education pays only lip service to the importance of collaboration).&lt;/p&gt;
+&lt;p&gt;I believe that something like CodeRetreat is fair game for discussion during CSEdWeek, because the enthusiastic participation in this event speaks to the passionate desire by volunteers to help people learn, and by working software developers to continue to improve themselves.&lt;/p&gt;
+&lt;h2&gt;Stay tuned&lt;/h2&gt;
+&lt;p&gt;Stay tuned for posts later this week on the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;problems I faced in computer science education in K-12, college&lt;/li&gt;
+&lt;li&gt;CodeRetreat and what people learn there&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

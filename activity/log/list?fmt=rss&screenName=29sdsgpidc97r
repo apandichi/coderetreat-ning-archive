@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Solomon White&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SolomonWhite</link>
+        <pubDate>Sun, 29 Jan 2017 11:54:05 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:54:05 +0000</lastBuildDate>
+        <image>
+            <title>Solomon White&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SolomonWhite</link>
+            <url>http://api.ning.com:80/files/r3AdDm9gSnvfVsppbNNoyqBO1hbLTKdZuNEwHn8aX7z48zG28bKnqLJWJSBrCe7DnrzZuBHA2dpAdIRGrMSSDXERT4*TmIe3/593421134.jpeg?xgip=1%3A55%3A425%3A425%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009c8df6b141b1525968307a8</guid>
+               <title>Solomon White posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28444?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SolomonWhite?xg_source=activity">Solomon White</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28444?xg_source=activity">Global Day of Coderetreat 2013 - Denver, USA</a> at TBD</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">Come practice your craft in pressure-free environment where you can focus on the fundamentals of software design without worrying about shipping features!  All languages and skill levels welcome.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28444?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 27 Oct 2013 15:05:03 +0000</pubDate>
+               </item>    </channel>
+</rss>

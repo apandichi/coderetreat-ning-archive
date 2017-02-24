@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50253
+DTSTAMP:20170129T112121Z
+SUMMARY:Global Day of Coderetreat 2015 (one day earlier) - Gdańsk, Po
+ land
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time.\n\nWe scheduled four different session during
+  which we will be practicing coding in: Java, Scala, Go, PHP, Python\n
+ Session #1\n\nno constraints, master the game\n\nSession #2 (choose as
+  many constraints as you want)\n\npolymorphism rather thean boolean fl
+ ags\nno loops\nno if statements\nfunctional style\nsmall methods (<5 l
+ ines, 1 line?)\nno language primitives\nTDD As If You Meant It\n\nSess
+ ion #3\n\nsilence, no talks, just code\n\nSession #4\n\n(try) not to u
+ se mouse\n\n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-coderetreat-2015-gda-sk-poland-one-day-early
+DTSTART:20151113T133000Z
+DTEND:20151113T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Wirtualna Polska
+WEBSITE:https://www.google.pl/maps/place/Wirtualna+Polska+S.A./@54.369
+ 5774,18.6059689,17z/data=!3m1!4b1!4m2!3m1!1s0x46fd748e3a7ea7ab:0x618d9
+ 8b727e26c83?hl=pl
+URL:https://www.google.pl/maps/place/Wirtualna+Polska+S.A./@54.3695774
+ ,18.6059689,17z/data=!3m1!4b1!4m2!3m1!1s0x46fd748e3a7ea7ab:0x618d98b72
+ 7e26c83?hl=pl
+CONTACT:
+ORGANIZER;CN="Rafał Roppel":http://coderetreat.org/profile/RafalRoppe
+ l
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafał R
+ oppel":http://coderetreat.org/profile/RafalRoppel
+END:VEVENT
+END:VCALENDAR

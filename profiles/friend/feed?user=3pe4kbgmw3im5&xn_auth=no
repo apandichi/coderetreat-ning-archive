@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3pe4kbgmw3im5&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:33:47Z</updated>
+                            <author>
+                    <name>Nick Stolwijk</name>
+                    <uri>http://coderetreat.org/profile/NickStolwijk</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/2qI9QjpEOxxmkxBDj9rWQY6tGubP-mArtZqbLxzv5o*m-dvuBiHYgdP*3xGSye35S0J-VwrUU3dK*wc--3tz9C3uGwON4vZl/1070749750.jpeg?xgip=200%3A216%3A182%3A182%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3pe4kbgmw3im5&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jan van den Berg</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JanvandenBerg"/>
+                                        <id>tag:coderetreat.org,2014-07-14:6456126:User:35558</id>
+                                        <updated>2014-07-14T03:16:16.761Z</updated>
+                    
+                                            <author>
+                            <name>Nick Stolwijk</name>
+                            <uri>http://coderetreat.org/profile/NickStolwijk</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/zLSzH-96bg*eC3cYtPGUFWJEWSEUNOpToIE9XKscjFOJg7rYHWJQb5esdc-vlD9mWWlgWHtUOh3-BEn52joSNTxTP8lau7O7/1083553936.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jan van den Berg&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/zLSzH-96bg*eC3cYtPGUFWJEWSEUNOpToIE9XKscjFOJg7rYHWJQb5esdc-vlD9mWWlgWHtUOh3-BEn52joSNTxTP8lau7O7/1083553936.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jan van den Berg&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Bart Bakker</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/bjpbakker"/>
+                                        <id>tag:coderetreat.org,2012-11-14:6456126:User:16071</id>
+                                        <updated>2012-11-14T20:33:24.089Z</updated>
+                    
+                                            <author>
+                            <name>Nick Stolwijk</name>
+                            <uri>http://coderetreat.org/profile/NickStolwijk</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/iFktKrOWxtqvEy7Rm82agoQdNy48pKBBQnLhT8RsgEyZ3-49BT9nzofZB39qvaWnD9Jdqf3KuHeR6OxTf1nVaCHsYLTLb11n/935179881.jpeg?xgip=0%3A75%3A1044%3A1044%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bart Bakker&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/iFktKrOWxtqvEy7Rm82agoQdNy48pKBBQnLhT8RsgEyZ3-49BT9nzofZB39qvaWnD9Jdqf3KuHeR6OxTf1nVaCHsYLTLb11n/935179881.jpeg?xgip=0%3A75%3A1044%3A1044%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bart Bakker&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45753
+DTSTAMP:20170129T121139Z
+SUMMARY:Global Day of Coderetreat 2015 - Bangalore, India
+DESCRIPTION:The event is hosted at JDA office.\nJDA is sponsoring this
+  event. \nAddress: Tower A, Mantri Commercio, Near Sakra World Hospi
+ tal, Kariyammana Agrahara, Bellandur, Bengaluru, Karnataka 560103\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2015-bangalore-india
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Bellandur
+WEBSITE:https://goo.gl/maps/D7TrzEGXt8R2
+URL:https://goo.gl/maps/D7TrzEGXt8R2
+CONTACT:9886382983
+ORGANIZER:Agile Bangalore
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dijeesh 
+ V Tirur":http://coderetreat.org/profile/DijeeshVTirur
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kumar Se
+ lvaraj":http://coderetreat.org/profile/KumarSelvaraj
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vijay Ch
+ andra":http://coderetreat.org/profile/VijayChandra
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vinay Kr
+ ishna":http://coderetreat.org/profile/VinayKrishna
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Praveen 
+ Kanakarajan":http://coderetreat.org/profile/PraveenKanakarajan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ebin Joh
+ n":http://coderetreat.org/profile/EbinJohn
+END:VEVENT
+END:VCALENDAR

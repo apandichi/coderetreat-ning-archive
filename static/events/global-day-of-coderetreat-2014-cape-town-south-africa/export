@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38150
+DTSTAMP:20170129T120610Z
+SUMMARY:Global Day of Coderetreat 2014 - Cape Town, South Africa
+DESCRIPTION:RSVP on meetup.com.\nhttp://www.meetup.com/Cape-Town-Softw
+ are-Developers/events/206599262/\nEvent is free, price is to limit no-
+ shows. We will refund your payment in cash at the door :)\n\n\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2014-cape-town-south-africa
+DTSTART:20141115T080000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Century City, Cape Town
+WEBSITE:http://www.informationlogistics.co.za/contact.html
+URL:http://www.informationlogistics.co.za/contact.html
+CONTACT:27828297212
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

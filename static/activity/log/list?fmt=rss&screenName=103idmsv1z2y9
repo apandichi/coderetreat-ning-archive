@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Xavier Tô&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/XavierTo</link>
+        <pubDate>Sun, 29 Jan 2017 09:49:23 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:49:23 +0000</lastBuildDate>
+        <image>
+            <title>Xavier Tô&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/XavierTo</link>
+            <url>http://api.ning.com:80/files/3Gu2DuTCtpavkg8trm6GoMLF2sMzFDgZf4hh3EdAjWpQpxNqQZ-r4Lb*EdVQ6rq*owjaO0CWe7meDJO8-ddJz*eFDBjbACr3/933421105.jpeg?xgip=0%3A114%3A298%3A298%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15318
+DTSTAMP:20170129T134604Z
+SUMMARY:Global Day of Coderetreat 2012  - Denver, CO / USA
+DESCRIPTION:RSVP at http://www.eventbrite.com/event/4550247914\n\nFor 
+ more information visit http://coderetreat.org/events/denver-boulder-co
+ de-retreat-dec-global
+DTSTART:20121208T083000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat
+LOCATION:Uncubed
+WEBSITE:http://www.eventbrite.com/event/4550247914
+URL:http://www.eventbrite.com/event/4550247914
+CONTACT:
+ORGANIZER:Jim Denton / Cory Flanigan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jon Bull
+ ock":http://coderetreat.org/profile/JonBullock
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Dent
+ on":http://coderetreat.org/profile/JimDenton
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9630
+DTSTAMP:20170129T104343Z
+SUMMARY:Coderetreat Prague - Czech Republic
+DESCRIPTION:Second Coderetreat in Czech Republic.\n\nFor more informat
+ ion visit http://coderetreat.org/events/coderetreat-prague-czech-repub
+ lic
+DTSTART:20120421T080000Z
+DTEND:20120421T170000Z
+CATEGORIES:coderetreat
+LOCATION:Czech Republic
+WEBSITE:http://coderetreat.cz
+URL:http://coderetreat.cz
+CONTACT:
+ORGANIZER:Marian Schubert, Aleš Roubíček, Michal Těhník
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/zsX3J4G1XD5EB
+ nLkRXPMNOmHFiHxLLRWW5*yb79zZDE5xzauJCAcjRrGRdG3-Z0BzmHK*nnc6t6o*LCTZ1R
+ iAcwicrPyRPw-/coderetreat.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marian S
+ chubert":http://coderetreat.org/profile/MarianSchubert
+END:VEVENT
+END:VCALENDAR

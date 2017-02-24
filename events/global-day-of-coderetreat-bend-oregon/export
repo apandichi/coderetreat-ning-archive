@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48321
+DTSTAMP:20170129T103631Z
+SUMMARY:Global Day of Coderetreat 2015 - Bend, OR, USA
+DESCRIPTION:On COCC campus, room TDB. 8:30am to 5pm. Coffee and lunch 
+ provided by sponsors. Register with EventBrite here: https://gdcr2015
+ -bend.eventbrite.com\n\nFor more information visit http://coderetreat.
+ org/events/global-day-of-coderetreat-bend-oregon
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:COCC Campus
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Gene Hyde":http://coderetreat.org/profile/GeneHyde
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gene Hyd
+ e":http://coderetreat.org/profile/GeneHyde
+END:VEVENT
+END:VCALENDAR

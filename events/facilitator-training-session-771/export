@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54471
+DTSTAMP:20170129T122314Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:Facilitator training session with @infinitary\nTime zone: 
+ CEST (Central European Summer Time) UTC/GMT +2 hours\nGoole+ Event wit
+ h Hangout\nThis training is for facilitators. Anybody interested in fa
+ cilitating a coderetreat is invited to attend at least one training se
+ ssion. This training will be delivered online on Google Plus Events. M
+ ake sure you will be online five minutes before the training starts.  
+ Like last year we will have two different types of trainings for Globa
+ l Day of Coderetreat: for hosts and for facilitators.  The job of the 
+ host is to make sure the coderetreat runs smoothly by making sure ever
+ ything is arranged. Hosts find a venue with all the necessary equipmen
+ t, find a company to sponsor lunch, give away the prizes at the end of
+  the day, organize video chats with other locations, etc.  The job of 
+ the facilitator is to help participants learn from each other. Facilit
+ ators understand the coderetreat format, choose and explain the constr
+ aints, and try to keep a learning atmosphere during the day.\n\nFor mo
+ re information visit http://coderetreat.org/events/facilitator-trainin
+ g-session-771
+DTSTART:20160909T140000Z
+DTEND:20160909T150000Z
+CATEGORIES:training, facilitator_training
+LOCATION:Google Hangout
+WEBSITE:https://plus.google.com/events/c5vipodbost6lvgot14gbc8j7jc
+URL:https://plus.google.com/events/c5vipodbost6lvgot14gbc8j7jc
+CONTACT:
+ORGANIZER;CN=infinitary:http://coderetreat.org/profile/infinitary
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/bghkZFo2d33JF
+ wirgUyeBsAX5we5oTlXnqZy5lVwBr*0*3Y4f*zJ3WOpi1CMz1OAVQY9l4RplUOtikk03ff
+ OFXQYI7B0xA3C/codebat.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=infinitar
+ y:http://coderetreat.org/profile/infinitary
+END:VEVENT
+END:VCALENDAR

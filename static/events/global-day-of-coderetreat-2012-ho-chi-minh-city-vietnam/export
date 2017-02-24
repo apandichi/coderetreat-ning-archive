@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16816
+DTSTAMP:20170129T134352Z
+SUMMARY:Global Day of Coderetreat 2012 Ho Chi Minh City - Vietnam
+DESCRIPTION:We are happy to join the Global Day of Coderetreat\n\nFor 
+ more information visit http://coderetreat.org/events/global-day-of-cod
+ eretreat-2012-ho-chi-minh-city-vietnam
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Location and Start Time: TBD
+WEBSITE:http://www.agilevietnam.org
+URL:http://www.agilevietnam.org
+CONTACT:
+ORGANIZER:Agile Vietnam
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Atsumi S
+ hibata":http://coderetreat.org/profile/AtsumiShibata
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Ros
+ ales":http://coderetreat.org/profile/AlexRosales
+END:VEVENT
+END:VCALENDAR

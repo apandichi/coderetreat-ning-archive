@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46946
+DTSTAMP:20170129T121726Z
+SUMMARY:Global Day of Coderetreat 2015 - San Jose, CA, USA
+DESCRIPTION:Global Day of Coderetreat at PayPal in San Jose, CA\nSign 
+ up at https://www.eventbrite.com/e/global-day-of-code-coderetreat-201
+ 5-san-jose-ca-tickets-18967352863\nSpace is limited!\n\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -san-jose-ca
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:PayPal
+WEBSITE:https://www.eventbrite.com/e/global-day-of-code-coderetreat-20
+ 15-san-jose-ca-tickets-18967352863
+URL:https://www.eventbrite.com/e/global-day-of-code-coderetreat-2015-s
+ an-jose-ca-tickets-18967352863
+CONTACT:
+ORGANIZER:PayPal
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/nkLEPVQ6s9f4q
+ UFp6iw4mV841CZAitBe0BH*nPPnOJHZNNRm*gxbHdZ17H*AbzUCtxJ1MJn32Gr-zfj3jJ9
+ MPhbNFSpUo-bv/gdcr.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="wes will
+ iams":http://coderetreat.org/profile/weswilliams
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Raimo Radczewski&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/RaimoRadczewski</link>
+        <pubDate>Sun, 29 Jan 2017 09:30:20 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:30:20 +0000</lastBuildDate>
+        <image>
+            <title>Raimo Radczewski&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/RaimoRadczewski</link>
+            <url>http://api.ning.com:80/files/jSNhDxbJzkjB-sm1qN5F1ZZMuh8GcmiyRSS-PbN99sDTWgyfZ*J572vsfQr4dQp61RrCDPoHw30gcg5wz1udaUsl2mZi3yns/1237772870.jpeg?xgip=0%3A0%3A541%3A541%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012a71b455713808fb35de65f</guid>
+               <title>Raimo Radczewski posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:55239?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/RaimoRadczewski?xg_source=activity">Raimo Radczewski</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:55239?xg_source=activity">Celebrating 100 GDCR Events all over the world with a special surprise</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:55239">Hey everyone,we're celebrating the first hundred locations for the Global Day Of Coderetreat 2016 (psst, it's on Oct 22nd!) and we're really excited to reveal a little surprise we prepared for the community:Our new Logo!<a href="http://api.ning.com:80/files/jSNhDxbJzkhXrrY0iRpH6BcVvhI*gxlw8omnpCMeGIbJPEBP6nkR*bZZpyI5nntSQEqOUPH*Oq8w8q3GW00f01l37OPmLcLO/globaldayiso1.ai.png" target="_self"></a>The Global Day of Coderetreat is an opportunity for developers to gather together and practice their craft. Our new logo represents four people joining a discussion circle. This expresses the value and camaraderie that comes from the exchange of methods and ideas. (thanks <a href="https://twitter.com/mplavcan" target="_blank">@mplavcan</a> for that excellent explanation)We'd like to thank <a href="http://smartviewapp.com/">SmartView</a> for kindly sponsoring the Logo and <a href="https://twitter.com/abarylko">Amir Barylko</a> who went through a lot of revisions with us :)To the next one hundred locations!Raimo<a class="continue-link" href="http://coderetreat.org/profiles/blogs/celebrating-100-gdcr-events-all-over-the-world-with-a-special-sur">See More</a></div></div></div></div>]]></description>
+               <pubDate>Wed, 21 Sep 2016 20:06:31 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012ade893b6186542d5c4a549</guid>
+               <title>Marika Lynch left a comment for Raimo Radczewski</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:54825?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarikaLynch?xg_source=activity">Marika Lynch</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:54825?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/RaimoRadczewski?xg_source=activity">Raimo Radczewski</a></span><br/>]]></description>
+               <pubDate>Thu, 08 Sep 2016 07:00:31 +0000</pubDate>
+               </item>    </channel>
+</rss>

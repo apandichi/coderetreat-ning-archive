@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Phil Borlin&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PhilBorlin</link>
+        <pubDate>Sun, 29 Jan 2017 10:07:46 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:07:46 +0000</lastBuildDate>
+        <image>
+            <title>Phil Borlin&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PhilBorlin</link>
+            <url>http://api.ning.com:80/files/JnNsxgX9lA0z10MKJrxNSEQ1LXxYLSDlJHkgd89yAbJBGuEn0MO0oGX*f7621l03MzGMkW0TDsEITOqyEC-3RawRbcOWl6QG/1082422372.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010e32e06c05c6557f9a841eb</guid>
+               <title>Phil Borlin posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:38540?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/PhilBorlin?xg_source=activity">Phil Borlin</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:38540?xg_source=activity">Global Day of Coderetreat 2014 - Farmington, Utah, US</a> at Pluralsight Farmington Office</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 8:30am to 5pm</div><div class="rich-excerpt">Hosted by the Pluralsight dev team at Pluralsight's headquarters in Station Park in Farmington.Light breakfast provided by PluralsightLunch provided by Pluralsight<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:38540?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 18 Sep 2014 20:43:35 +0000</pubDate>
+               </item>    </channel>
+</rss>

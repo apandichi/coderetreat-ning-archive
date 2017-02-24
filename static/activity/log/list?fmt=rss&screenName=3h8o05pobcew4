@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Andrew Wagner&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AndrewWagner</link>
+        <pubDate>Sun, 29 Jan 2017 12:14:19 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:14:19 +0000</lastBuildDate>
+        <image>
+            <title>Andrew Wagner&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AndrewWagner</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009caad951ed26c1255ecfec6</guid>
+               <title>Andrew Wagner updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46425?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndrewWagner?xg_source=activity">Andrew Wagner</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46425?xg_source=activity">Global Day of Coderetreat 2015 - Ashburn, VA, USA</a> at BTI360</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8am to 5pm</div><div class="rich-excerpt">This will be a Legacy Code Retreat, hosted by <a href="https://www.bti360.com/" target="_blank">BTI-360</a>. See <a href="https://www.eventbrite.com/e/global-day-of-coderetreat-tickets-18856883446" target="_blank">the EventBrite page</a> for details or to register<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46425?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 21 Oct 2015 01:49:25 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009caad9519c4b3fa98675554</guid>
+               <title>Andrew Wagner posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46425?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndrewWagner?xg_source=activity">Andrew Wagner</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46425?xg_source=activity">Global Day of Code Retreat</a> at BTI360</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8am to 5pm</div><div class="rich-excerpt">This will be a Legacy Code Retreat, hosted by <a href="https://www.bti360.com/" target="_blank">BTI-360</a>. See <a href="https://www.eventbrite.com/e/global-day-of-coderetreat-tickets-18856883446" target="_blank">the EventBrite page</a> for details or to register<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46425?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 30 Sep 2015 02:37:48 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009caad95b8f0806467d96f9e</guid>
+               <title>Andrew Wagner updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:27411?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndrewWagner?xg_source=activity">Andrew Wagner</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:27411?xg_source=activity">Global Day of Coderetreat 2013 - Reston, VA, USA</a> at Altamira Corp (formerly Near Infinity)</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 9am to 5pm</div><div class="rich-excerpt">Reston, VA is participating in the <a href="http://globalday.coderetreat.org/" target="_blank">Global Day of Coderetreat 2013</a>!<a href="http://coderetreat.org/" target="_blank">Coderetreat</a> is a day-long, intensive practice event focused on the fundamentals of software development and design.The unique coderetreat format (which eliminates the pressure of 'getting things done' and focuses on practicing basic principles of good design) has proven to be a highly effective (and fun) means of skill improvement.  On December 14th, Coderetreats will be held at cities all over the world. To celebrate this significant event, we'll be participating in some global activities in addition to our normal Coderetreat activities.You only need to bring a laptop with the development tools you require to write code using your chosen programming languages. Check out <a href="http://coderetreat.org/" target="_blank">coderetreat.org</a> for further details on what to expect.Register: <a href="http://www.eventbrite.com/e/global-day-of-code-retreat-2013-tickets-9388624629" target="_blank">http://www.eventbrite.com/e/global-day-of-code-retreat-2013-tickets-9388624629</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:27411?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 04 Dec 2013 15:36:32 +0000</pubDate>
+               </item>    </channel>
+</rss>

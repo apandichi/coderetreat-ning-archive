@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12761
+DTSTAMP:20170129T114355Z
+SUMMARY:Coderetreat Dortmund
+DESCRIPTION:http://coderetreat-ruhr.eventbrite.de/\n\nFor more informa
+ tion visit http://coderetreat.org/events/coderetreat-dortmund
+DTSTART:20121103T090000Z
+DTEND:20121103T170000Z
+CATEGORIES:coderetreat
+LOCATION:Dortmund, Germany
+WEBSITE:http://coderetreat-ruhr.eventbrite.de/
+URL:http://coderetreat-ruhr.eventbrite.de/
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

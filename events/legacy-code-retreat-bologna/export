@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:35215
+DTSTAMP:20170129T122502Z
+SUMMARY:Legacy Code Retreat - Bologna
+DESCRIPTION:Let's fight legacy code together!!\n\nFor more information
+  visit http://coderetreat.org/events/legacy-code-retreat-bologna
+DTSTART:20140524T090000Z
+DTEND:20140524T180000Z
+CATEGORIES:legacy, code, retreat
+LOCATION:YOOX Group
+WEBSITE:https://www.eventbrite.it/e/biglietti-legacy-code-retreat-24-m
+ aggio-2014-bologna-11188018665
+URL:https://www.eventbrite.it/e/biglietti-legacy-code-retreat-24-maggi
+ o-2014-bologna-11188018665
+CONTACT:
+ORGANIZER;CN="Matteo Baglini":http://coderetreat.org/profile/MatteoBag
+ lini
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matteo B
+ aglini":http://coderetreat.org/profile/MatteoBaglini
+END:VEVENT
+END:VCALENDAR

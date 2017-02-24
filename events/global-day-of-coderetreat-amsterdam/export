@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11897
+DTSTAMP:20170129T131953Z
+SUMMARY:Global Day of Coderetreat 2012 - Amsterdam / the Netherlands
+DESCRIPTION:Coderetreat organised by Stefan and Arjen at Mirabeau.\nYo
+ u can sign up at Devnology.\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-amsterdam
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Amsterdam
+WEBSITE:https://maps.google.com/maps?q=Mirabeau,+H.J.E.+Wenckebachweg,
+ +De+Omval,+Amsterdam,+Nederland&hl=nl&sll=37.0625,-95.677068&sspn=66.9
+ 54931,135.263672&oq=mirabeau+amster&hq=Mirabeau,+H.J.E.+Wenckebachweg,
+ +De+Omval,+Amsterdam,+Nederland&t=m&z=15
+URL:https://maps.google.com/maps?q=Mirabeau,+H.J.E.+Wenckebachweg,+De+
+ Omval,+Amsterdam,+Nederland&hl=nl&sll=37.0625,-95.677068&sspn=66.95493
+ 1,135.263672&oq=mirabeau+amster&hq=Mirabeau,+H.J.E.+Wenckebachweg,+De+
+ Omval,+Amsterdam,+Nederland&t=m&z=15
+CONTACT:003120-5950550
+ORGANIZER;CN="Stefan Hendriks":http://coderetreat.org/profile/stefanhe
+ ndriks
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan H
+ endriks":http://coderetreat.org/profile/stefanhendriks
+END:VEVENT
+END:VCALENDAR

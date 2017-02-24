@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53783
+DTSTAMP:20170129T105415Z
+SUMMARY:Global Day of Coderetreat 2016 - CORRIENTES, ARGENTINA
+DESCRIPTION:Edición local del Día Mundial del Coderetreat.\n\nPróxi
+ mamente mayor información pero seguí las novedades desde nuestras re
+ des sociales.\n\nFor more information visit http://coderetreat.org/eve
+ nts/global-day-of-coderetreat-2016-corrientes-argentina
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:FACENA-UNNE
+WEBSITE:http://www.comunidadtic.com.ar
+URL:http://www.comunidadtic.com.ar
+CONTACT:
+ORGANIZER;CN="Matias Mascazzini":http://coderetreat.org/profile/Matias
+ Mascazzini
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matias M
+ ascazzini":http://coderetreat.org/profile/MatiasMascazzini
+END:VEVENT
+END:VCALENDAR

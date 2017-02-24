@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Toni Tassani&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1gdp5apanb3fx&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:13:51Z</updated>
+                            <author>
+                    <name>Toni Tassani</name>
+                    <uri>http://coderetreat.org/profile/ToniTassani</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/N2T3HFaZb4Rge3t6NtD9Fymb53jpujAasKiAQ4s7Z7h4VbI56kNWuxDCYvBzYL8izGXEA*Hy2asLakXrjEyRQgYf1rCxx-t9/983602251.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1gdp5apanb3fx&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Barcelona Global Day of Code Retreat 2012</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:19468"/>
+                                        <id>tag:coderetreat.org,2012-12-10:6456126:BlogPost:19468</id>
+                                        <updated>2012-12-10T11:50:55.000Z</updated>
+                    
+                                            <author>
+                            <name>Toni Tassani</name>
+                            <uri>http://coderetreat.org/profile/ToniTassani</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;(Original at: &lt;a href=&quot;http://alapamui.blogspot.com.es/2012/12/global-day-of-code-retreat-2012.html&quot; target=&quot;_blank&quot;&gt;http://alapamui.blogspot.com.es/2012/12/global-day-of-code-retreat-2012.html&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://alapamui.blogspot.com.es/2011/12/global-day-of-coderetreat-barcelona.html&quot;&gt;Last year&lt;/a&gt; I was in the &lt;a href=&quot;http://globalday.coderetreat.org/&quot;&gt;Global Day of Code Retreat&lt;/a&gt; in Barcelona, held in …&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;(Original at: &lt;a href=&quot;http://alapamui.blogspot.com.es/2012/12/global-day-of-code-retreat-2012.html&quot; target=&quot;_blank&quot;&gt;http://alapamui.blogspot.com.es/2012/12/global-day-of-code-retreat-2012.html&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://alapamui.blogspot.com.es/2011/12/global-day-of-coderetreat-barcelona.html&quot;&gt;Last year&lt;/a&gt; I was in the &lt;a href=&quot;http://globalday.coderetreat.org/&quot;&gt;Global Day of Code Retreat&lt;/a&gt; in Barcelona, held in &lt;a href=&quot;http://www.runroom.com/2011/12/global-day-of-coderetreat-barcelona/&quot;&gt;Runroom&lt;/a&gt; (their former office), organized by &lt;a href=&quot;http://agile-barcelona.org/&quot;&gt;Agile-Barcelona&lt;/a&gt; and facilitated by &lt;a href=&quot;http://jaumejornet.net/&quot;&gt;Jaume Jornet&lt;/a&gt;. It was a great experience, and I learned a lot, not only about programming, but about teamwork and sharing.&lt;/p&gt;
+&lt;p&gt;This year the event was planned again in Runroom, but for difficult dates: public holidays and the &lt;a href=&quot;http://bcndevcon.org/&quot;&gt;Barcelona Developers Conference&lt;/a&gt; were difficult rivals. And this time I was a facilitator.&lt;/p&gt;
+&lt;p&gt;I agreed to co-facilitate the event with &lt;a href=&quot;https://twitter.com/jrhuerta&quot;&gt;José E. Rodríguez Huerta&lt;/a&gt; and I joined the facilitators group and attended a training using Google Hangout. In the training we were people form New Zeland, Sweden and Australia, with an amazing trainer: &lt;a href=&quot;https://twitter.com/jthurne&quot;&gt;Jim Hurne&lt;/a&gt;. The organization of the event, the sessions, the connections with other cities, and the focus of the exercises were all good lessons.&lt;/p&gt;
+&lt;p&gt;Then I started contacting with the groups around Spain that were having the same event to organize live connections.&lt;/p&gt;
+&lt;p&gt;Everybody was distilling an energy that was impossible to not be infected.&lt;/p&gt;
+&lt;p class=&quot;separator&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-OUOFURPWGsc/UMT5G3akiTI/AAAAAAAAAfk/PfLv4XFgrdQ/s1600/coderetreat.jpg&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;141&quot; src=&quot;http://3.bp.blogspot.com/-OUOFURPWGsc/UMT5G3akiTI/AAAAAAAAAfk/PfLv4XFgrdQ/s320/coderetreat.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The day of the event 11 guys showed up in Barcelona (30 had confirmed), and we opened a Hangout during all day so we could be chatting with other cities. Valencia (&lt;a href=&quot;https://twitter.com/borillo&quot;&gt;Ricardo&lt;/a&gt;), Madrid (&lt;a href=&quot;http://twitter.com/#!/JuanmaGomeR&quot;&gt;Juanma&lt;/a&gt;), Bilbao (&lt;a href=&quot;https://twitter.com/jorgeuriarte&quot;&gt;Jorge&lt;/a&gt;), Berlin (&lt;a href=&quot;https://twitter.com/dziemid&quot;&gt;Greg&lt;/a&gt;) and Viena (&lt;a href=&quot;https://twitter.com/michael_leber&quot;&gt;Michael&lt;/a&gt;) were some of our connections. We followed the schedule and had sessions with interesting &lt;a href=&quot;http://coderetreat.org/facilitating/activity-catalog&quot;&gt;restrictions&lt;/a&gt; (ping pong, no conditional, ask don&#039;t tell,...) and the programmers used Ruby, C#, Python, Java, C++ and JavaScript.&lt;/p&gt;
+&lt;p&gt;The retrospective was interesting. They suggested:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Having a retrospective reviewing the code someone has writer&lt;/li&gt;
+&lt;li&gt;Choose a language to use everybody in some iterations (and learn the basics of language beforehand)&lt;/li&gt;
+&lt;li&gt;Try a randori, maybe with this language.&lt;/li&gt;
+&lt;li&gt;More on legacy code.&lt;/li&gt;
+&lt;li&gt;And choose a cool mechanism for the raffle &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Out of their confort zone. No pressure for getting the problem done. Try new things. Pair with new people. Thinking in a different way.&lt;/p&gt;
+&lt;p&gt;This crazy idea from Corey Haines deserves my respect. So many people crazy to become better professionals. And having fun.&lt;/p&gt;
+&lt;p&gt;Big Thank You.&lt;/p&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://3.bp.blogspot.com/-OUOFURPWGsc/UMT5G3akiTI/AAAAAAAAAfk/PfLv4XFgrdQ/s1600/coderetreat.jpg" type="image/jpeg"/>                </entry>
+                    </feed>
+        

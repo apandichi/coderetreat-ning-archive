@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54415
+DTSTAMP:20170129T112533Z
+SUMMARY:Global Day of Coderetreat 2016 - Valencia, Spain
+DESCRIPTION:YAGDCR in Valencia, Spain!\nWe expect to spend a great day
+  writing code, working in pairs and iterating on the same exercise ove
+ r and over again. Come and play the game of life.\nRSVP will open shor
+ tly.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2016-valencia-spain
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Flywire
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN=Emma:http://coderetreat.org/profile/Emma
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Emma:http
+ ://coderetreat.org/profile/Emma
+END:VEVENT
+END:VCALENDAR

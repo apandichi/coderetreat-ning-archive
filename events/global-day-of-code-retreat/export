@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26231
+DTSTAMP:20170129T115002Z
+SUMMARY:Global Day of Coderetreat 2013 - Pune, India
+DESCRIPTION:As we go around the globe, Pune will be one of the dots. Â
+  Please useÂ http://www.meetup.com/expertalks/events/150841022/ for re
+ gistration\n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-code-retreat
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Equal Experts Pvt. Ltd.
+WEBSITE:http://maps.google.co.uk/maps?q=Cerebrum+IT+Park+No.+B3,+Kumar
+ +City,+Pune,+411006&hl=en&ll=18.544314,73.900652&spn=0.064367,0.077162
+ &sll=18.528642,73.890272&sspn=0.064373,0.077162&hq=Cerebrum+IT+Park+No
+ .+B3,+Kumar+City,+Pune,+411006&t=m&z=14
+URL:http://maps.google.co.uk/maps?q=Cerebrum+IT+Park+No.+B3,+Kumar+Cit
+ y,+Pune,+411006&hl=en&ll=18.544314,73.900652&spn=0.064367,0.077162&sll
+ =18.528642,73.890272&sspn=0.064373,0.077162&hq=Cerebrum+IT+Park+No.+B3
+ ,+Kumar+City,+Pune,+411006&t=m&z=14
+CONTACT:
+ORGANIZER;CN="Dhaval Dalal":http://coderetreat.org/profile/DhavalDalal
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/OLof*ZzNiFFTw
+ dDsjwhPsRc3ySrk4GWRip2OCGqCy2ArwnW5fRqZ80KLWZvd8iVuoPfSdwBsW9JQfL5P*T8
+ Co6SFZuPaapjF/220pxFergussonCollegeMainBuilding.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dhaval D
+ alal":http://coderetreat.org/profile/DhavalDalal
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="mrugen d
+ eshmukh":http://coderetreat.org/profile/mrugendeshmukh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mahendra
+  Bhandwalkar":http://coderetreat.org/profile/MahendraBhandwalkar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mehul Gu
+ rjar":http://coderetreat.org/profile/MehulGurjar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Prathame
+ sh Sonpatki":http://coderetreat.org/profile/PrathameshSonpatki
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="ashutosh
+  raina":http://coderetreat.org/profile/ashutoshraina
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Siddhart
+ h Gargate":http://coderetreat.org/profile/SiddharthGargate
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sophia D
+ agli":http://coderetreat.org/profile/SophiaDagli
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Anil Wa
+ dghule":http://coderetreat.org/profile/AnilWadghule
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Kshitij
+  Gupta":http://coderetreat.org/profile/KshitijGupta
+END:VEVENT
+END:VCALENDAR

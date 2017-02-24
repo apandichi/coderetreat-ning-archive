@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54400
+DTSTAMP:20170129T100634Z
+SUMMARY:Global Day of Coderetreat 2016 - Durban, South Africa
+DESCRIPTION:Chillisoft are hosting the Global Day of Code Retreat in D
+ urban this year. Come and join us for a day of fun, practice and learn
+ ing. Numbers are limited so please sign up on meetup.com and follow th
+ e instructions below to secure your spot.\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-2016-durban-
+ south-africa
+DTSTART:20161022T073000Z
+DTEND:20161022T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Durban
+WEBSITE:https://www.meetup.com/coderetreat/events/233882264/
+URL:https://www.meetup.com/coderetreat/events/233882264/
+CONTACT:
+ORGANIZER;CN="Mark Whitfeld":http://coderetreat.org/profile/MarkWhitfe
+ ld
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/FmRNLe*vCpSCe
+ KuO7pYPRTjAIqyBlyv6FodYdYg2ISEWx78OUOzGx2pZR6Gnqc2MXb2ByuoCdpK3D71NQgm
+ P-3Ccs6*pxnHw/ZADurbanstraende.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark Whi
+ tfeld":http://coderetreat.org/profile/MarkWhitfeld
+END:VEVENT
+END:VCALENDAR

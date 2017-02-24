@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26471
+DTSTAMP:20170129T115036Z
+SUMMARY:Global Day of Coderetreat 2013 - Peterborough, UK
+DESCRIPTION:more information can be found \n\nhttp://www.meetup.com/A
+ gile-Peterborough/events/136888662/\n\n\n\nFor more information visit 
+ http://coderetreat.org/events/gdcr-peterborough-event
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Peterborough
+WEBSITE:http://www.meetup.com/Agile-Peterborough/events/136888662/
+URL:http://www.meetup.com/Agile-Peterborough/events/136888662/
+CONTACT:
+ORGANIZER;CN="Alex Shaw":http://coderetreat.org/profile/AlexShaw
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Sha
+ w":http://coderetreat.org/profile/AlexShaw
+END:VEVENT
+END:VCALENDAR

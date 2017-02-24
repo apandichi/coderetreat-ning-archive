@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28243
+DTSTAMP:20170129T115345Z
+SUMMARY:Global Day of Coderetreat 2013 - Edinburgh, Scotland
+DESCRIPTION:Global Day of Code Retreat, hosted and sponsored by Neo 
+ at Edinburgh's world-famous TechCube.\n\nYou should sign up here.\n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2013-edinburgh-scotland
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Scotland
+WEBSITE:http://goo.gl/maps/WqkDc
+URL:http://goo.gl/maps/WqkDc
+CONTACT:
+ORGANIZER;CN="Paul Wilson":http://coderetreat.org/profile/PaulWilson62
+ 7
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/S7hsBCvqKXFAx
+ 9Sco3-F0iW9WNU5dF8sZ3CmcBMGQWrfA3tglm8E14EbY9auj8Ql9Qn6eIB-vJ-VXAtjGBl
+ Ug*uaxPO4BZcW/DSC_3563.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Antonio 
+ Lucca":http://coderetreat.org/profile/AntonioLucca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Wil
+ son":http://coderetreat.org/profile/PaulWilson627
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Mike Mo
+ ran":http://coderetreat.org/profile/MikeMoran
+END:VEVENT
+END:VCALENDAR

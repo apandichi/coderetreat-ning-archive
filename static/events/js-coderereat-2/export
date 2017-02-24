@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:34655
+DTSTAMP:20170129T122901Z
+SUMMARY:JS CodeRereat #2
+DESCRIPTION:The JS CodeRetreat #2 is coming! This event is going to be
+  an amazing opportunity to learn more about TDD, clean code and refact
+ oring, using primarily JavaScript. The event will take place in diffe
+ rent cities at the same time. For further information, please take a l
+ ook to the official website: http://jscoderetreat.com/2/\n\nFor more 
+ information visit http://coderetreat.org/events/js-coderereat-2
+DTSTART:20140510T093000Z
+DTEND:20140510T180000Z
+CATEGORIES:js, coderetreat
+LOCATION:WERK1
+WEBSITE:http://jscoderetreat.com/2/
+URL:http://jscoderetreat.com/2/
+CONTACT:
+ORGANIZER;CN="Irene De Nicolo":http://coderetreat.org/profile/IreneDeN
+ icolo
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Irene De
+  Nicolo":http://coderetreat.org/profile/IreneDeNicolo
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28820
+DTSTAMP:20170129T134829Z
+SUMMARY:Global Day of Coderetreat 2013 - Stockholm, Sweden
+DESCRIPTION:More info and RVSP in the meetup event.\nhttp://www.meetup
+ .com/Stockholm-Software-Craftsmanship/events/147220682/\n\nInitiated b
+ y meetup group Stockholm Software Craftmanship, sponsored by Valtech 
+ and Ericsson. Facilitator: Alexandru Bolboaca\n\nFor more information
+  visit http://coderetreat.org/events/global-day-of-coderetreat-2013-st
+ ockholm-sweden
+DTSTART:20131214T084500Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Valtech
+WEBSITE:http://tinyurl.com/valtechBesoksKarta
+URL:http://tinyurl.com/valtechBesoksKarta
+CONTACT:
+ORGANIZER:Stockholm Software Craftsmanship
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Frej Con
+ nolly":http://coderetreat.org/profile/FrejConnolly
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11195
+DTSTAMP:20170129T134914Z
+SUMMARY:Code Retreat @ Mexico City
+DESCRIPTION:Favor de inscribirse a través de stagehq: https://coderet
+ reat.stagehq.com/events/1643\nPlease, register via stagehq: https://co
+ deretreat.stagehq.com/events/1643\n\nFor more information visit http:/
+ /coderetreat.org/events/code-retreat-mexico-city
+DTSTART:20120825T100000Z
+DTEND:20120825T180000Z
+CATEGORIES:coderetreat
+LOCATION:Knowtion
+WEBSITE:https://maps.google.com.mx/maps?q=Knowtion+S.A.+de+C.V.,+Merca
+ deres,+San+Jos%C3%A9+Insurgentes,+Benito+Ju%C3%A1rez,+Ciudad+de+M%C3%A
+ 9xico&hl=es-419&ie=UTF8&ll=19.364768,-99.182703&spn=0.006427,0.013078&
+ sll=19.364798,-99.182585&sspn=0.006427,0.013078&oq=knowt&hq=knowtion+s
+ a+de+cv+mercaderes&hnear=San+Jos%C3%A9+Insurgentes,+Benito+Ju%C3%A1rez
+ ,+Ciudad+de+M%C3%A9xico,+Distrito+Federal&t=m&z=17&iwloc=A
+URL:https://maps.google.com.mx/maps?q=Knowtion+S.A.+de+C.V.,+Mercadere
+ s,+San+Jos%C3%A9+Insurgentes,+Benito+Ju%C3%A1rez,+Ciudad+de+M%C3%A9xic
+ o&hl=es-419&ie=UTF8&ll=19.364768,-99.182703&spn=0.006427,0.013078&sll=
+ 19.364798,-99.182585&sspn=0.006427,0.013078&oq=knowt&hq=knowtion+sa+de
+ +cv+mercaderes&hnear=San+Jos%C3%A9+Insurgentes,+Benito+Ju%C3%A1rez,+Ci
+ udad+de+M%C3%A9xico,+Distrito+Federal&t=m&z=17&iwloc=A
+CONTACT:
+ORGANIZER:Erick Camacho, Agustín Ramos, Alfredo Chavez
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ezTiUb47CjTfq
+ x8xF-3HhrXl5k6xNcsmvB0nb7QXii*M1BJ6iZGd3ljqVu5NpU*x-mEQJBKA1grXiw0Q55a
+ bSwN2BSisizWe/coderetreat_df_small.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alfredo 
+ Chavez":http://coderetreat.org/profile/AlfredoChavez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Agustín
+  Ramos":http://coderetreat.org/profile/AgustinRamos
+END:VEVENT
+END:VCALENDAR

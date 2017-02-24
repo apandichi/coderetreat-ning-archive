@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Jorge&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=2mb6z5a9jiga1&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:34:58Z</updated>
+                            <author>
+                    <name>Jorge</name>
+                    <uri>http://coderetreat.org/profile/Jorge</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/RQ9u4gGWHD2WZqed8f9GOgcjt1tnKnfZ-YLqV4A6LhsokakIr-OtXF3ScSnn4JfH8dCHmndAnt*rEsrikjl0WHO1Qjg-yNvv/427867569.png?xgip=0%3A43%3A297%3A297%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=2mb6z5a9jiga1&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Notes from Bilbao Global Day of Coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4595"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:BlogPost:4595</id>
+                                        <updated>2011-12-05T19:15:24.000Z</updated>
+                    
+                                            <author>
+                            <name>Jorge</name>
+                            <uri>http://coderetreat.org/profile/Jorge</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi everybody!&lt;/p&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;18 brave programmers (from 20 registered) got together this Saturday in the premises of Plain Concepts in Bilbao.&lt;/div&gt;
+&lt;div&gt;We had decided to start late (10:00h) so everybody would get the opportunity to get some rest, and to drive/commute comfortably.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;The group was quite &lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;heterogenous&lt;/span&gt;; from fluent TDD-&lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;ers&lt;/span&gt; to some guy not having a clue of TDD. It was the…&lt;/div&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Hi everybody!&lt;/p&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;18 brave programmers (from 20 registered) got together this Saturday in the premises of Plain Concepts in Bilbao.&lt;/div&gt;
+&lt;div&gt;We had decided to start late (10:00h) so everybody would get the opportunity to get some rest, and to drive/commute comfortably.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;The group was quite &lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;heterogenous&lt;/span&gt;; from fluent TDD-&lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;ers&lt;/span&gt; to some guy not having a clue of TDD. It was the first code-retreat for more than 12, but some of them had already attended some &lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;dojo&lt;/span&gt;-like events in the area (&lt;a href=&quot;http://katayunos.com/&quot; target=&quot;_blank&quot;&gt;http://&lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;katayunos&lt;/span&gt;.com/&lt;/a&gt;), so they somehow were tuned in the proper wave-length.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Languages; .NET, Java, Groovy, &lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;PHP&lt;/span&gt;, Python, Javascript.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;We start with Corey&#039;s video and the sponsors&#039; material, with some references to the Global Day demographics.&lt;/div&gt;
+&lt;div&gt;We then went through an explanation of the spirit of the Code-retreat and the rules.&lt;/div&gt;
+&lt;div&gt;The Simple Design principles were also explained, and the Game of Life introduced.&lt;/div&gt;
+&lt;div&gt;&lt;object width=&quot;400&quot; height=&quot;300&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;false&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;never&quot;&gt;&lt;/param&gt;&lt;param name=&quot;src&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=5428232&amp;amp;server=vimeo.com&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=00adef&amp;amp;fullscreen=1&amp;amp;autoplay=0&amp;amp;loop=0&quot;&gt;&lt;/param&gt;&lt;embed wmode=&quot;opaque&quot; width=&quot;400&quot; height=&quot;300&quot; type=&quot;application/x-shockwave-flash&quot; src=&quot;http://vimeo.com/moogaloop.swf?clip_id=5428232&amp;amp;server=vimeo.com&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=00adef&amp;amp;fullscreen=1&amp;amp;autoplay=0&amp;amp;loop=0&quot; allowfullscreen=&quot;false&quot; allowscriptaccess=&quot;never&quot;&gt;&lt;/embed&gt; &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;&lt;/param&gt;&lt;/object&gt;
+&lt;p&gt;&lt;a href=&quot;http://vimeo.com/5428232&quot;&gt;Conway&#039;s Game of Life Spaceship Gun&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/experimentgarden&quot;&gt;Experiment Garden&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;First session was held to get hands dirty, and they were allowed to work with their friends (if any).&lt;/div&gt;
+&lt;div&gt;Those with the &quot;Blank Page Syndrome&quot; were encouraged to start step-by-step, so the tests would help them find the way. Others fell into the &quot;One Test to Rule them All&quot; temptation and suffered the time constraints. So it was only natural that the virtues of walking in small steps were discussed in the retrospective.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;The second session got re-arranged couples, and the &quot;Primitive Obsession&quot; smell was the main theme to deal with. People started feeling the heat and they all seemed quite active and courageous.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Third session was half a continuation of the previous, with most of the couples playing &quot;Ping-pong TDD&quot;.&lt;/div&gt;
+&lt;div&gt;One of the best quotes of the day comes from that retrospective; &quot;I&#039;ve learned that my pair can be a big bastard, and so I&#039;ve discovered I&#039;m a big one too&quot; :)&lt;/div&gt;
+&lt;div&gt;The importance of the Test being decoupled from the inner details of the implementation was one of the facts people got from this exercise.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;http://a.yfrog.com/img808/47/8fwwm.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://a.yfrog.com/img808/47/8fwwm.jpg?width=400&quot; width=&quot;400&quot; class=&quot;align-center&quot;/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;We got more free time than intended for lunch due to some delivery problems with the food, so we use the time taking the first beer of the day in a place nearby. Some of the guys remained in the office talking of technical approaches, though. Intense people indeed!&lt;/div&gt;
+&lt;div&gt;We did the &lt;a href=&quot;http://random.org/&quot; target=&quot;_blank&quot;&gt;random.org&lt;/a&gt; thing to share the giveaways, and we made three connections to other &lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;coderetreats&lt;/span&gt; in Spain so people would notice they were not alone :)&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;I had toyed with the idea of introducing a &quot;mute&quot; session, but found that so much silence after lunch could lead us to a sleepy mood.&lt;/div&gt;
+&lt;div&gt;So we started the fourth session with some brain challenges; polymorphism, &quot;no-&lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;IFs&lt;/span&gt;&quot;, and &quot;avoid [gs]&lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;etters&lt;/span&gt; and &#039;tell, don&#039;t ask!&#039;&quot;.&lt;/div&gt;
+&lt;div&gt;Guys got quite deep into the problem, and some interesting discussions arose. People felt somehow conned with the &quot;no &lt;span class=&quot;J-JK9eJ-PJVNOc&quot;&gt;IFs&lt;/span&gt;&quot; constraint, because they had hoped to get some greater enlightenment, beyond getting out of their comfort zone. Maybe I failed trying to explain this in greater detail.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;At this point, people looked quite tired. We decided to make the 5th session the last one. I let them choose the pairs with which they had felt more productive, and face the last challenge with one thing in mind. &quot;Legibility. Let the code be read as if it was a small story&quot;.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;During this last session some people were pretty exhausted and were not able to keep up with the challenge. Others enjoyed that last chance for &quot;doing it right&quot;, though.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;In the closing circle, even though everybody was quite tired, I felt satisfaction in the air. I got quite surprised (and pleased) with people saying they had learned a lot, and I tried to stress the fact of the code-retreat being more an introspective trip than a traditional course.&lt;/div&gt;
+&lt;div&gt;We said goodbye... and left to take some beers with a huge, tired smile in the faces.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Thank you all for doing it possible! Thank you guys in the global coordination team for doing it so easy!&lt;/div&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://a.yfrog.com/img808/47/8fwwm.jpg" type="image/jpeg"/>                </entry>
+                    </feed>
+        

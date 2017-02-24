@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44953
+DTSTAMP:20170129T121107Z
+SUMMARY:Global Day of Coderetreat 2015 - Riga, Latvia
+DESCRIPTION:Yet again, Latvian Developers Network together with Accent
+ ure Latvia will host the Global Day of Coderetreat 2015 in Riga, Latvi
+ a.\nCoderetreat is a day-long, intensive practice event, focusing on t
+ he fundamentals of software development and design. By providing devel
+ opers the opportunity to take part in focused practice, away from the 
+ pressures of 'getting things done', the coderetreat format has proven 
+ itself to be a highly effective means of skill improvement. Practicing
+  the basic principles of modular design and clean code, developers ca
+ n improve their ability to write code that minimizes the cost of chang
+ e over time.  More information about what it is you can find here: h
+ ttp://coderetreat.org/about\nDon't forget to BRING YOUR OWN PC! Power 
+ and Wi-Fi as well as atmosphere of community will be provided.\nShow y
+ our attendance on official website, too: http://coderetreat.org/event
+ s/global-day-of-coderetreat-2015-riga-latvia\n\nFor more information v
+ isit http://coderetreat.org/events/global-day-of-coderetreat-2015-riga
+ -latvia
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Albert hotel
+WEBSITE:https://www.google.lv/maps/dir/''/albert+hotel/@56.9586213,24.
+ 0429978,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x46eecfcf6576fc23:0xb
+ 095fef33d826585!2m2!1d24.1130371!2d56.9586409
+URL:https://www.google.lv/maps/dir/''/albert+hotel/@56.9586213,24.0429
+ 978,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x46eecfcf6576fc23:0xb095f
+ ef33d826585!2m2!1d24.1130371!2d56.9586409
+CONTACT:
+ORGANIZER;CN="Latvian Devs Network":http://coderetreat.org/profile/Lat
+ vianDevsNetwork
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/x7p0yuCwu9uj8
+ dOOpaSFm0KLUGti52-QkGfIjc515PULkRNtoqG9yzx3P5nbzT5z64yBr8SDtuil7P*vEZn
+ k*ElhUMbdx4D-/gdcr15.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksand
+ rs Anohins":http://coderetreat.org/profile/AleksandrsAnohins
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksejs
+  Paderins":http://coderetreat.org/profile/AleksejsPaderins
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arnis Ja
+ undžeikars":http://coderetreat.org/profile/ArnisJaundzeikars
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksand
+ rs Zdancuks":http://coderetreat.org/profile/AleksandrsZdancuks
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arkadi S
+ hishlov":http://coderetreat.org/profile/ArkadiShishlov
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Latvian 
+ Devs Network":http://coderetreat.org/profile/LatvianDevsNetwork
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mārtiņ
+ š Eglītis":http://coderetreat.org/profile/MartinsEglitis
+END:VEVENT
+END:VCALENDAR

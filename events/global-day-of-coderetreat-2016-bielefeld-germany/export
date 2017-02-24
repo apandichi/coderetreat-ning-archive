@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55005
+DTSTAMP:20170129T112904Z
+SUMMARY:Global Day of Coderetreat 2016 - Bielefeld, Germany
+DESCRIPTION:Global Day in Bielefeld (Germany)\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2016-bie
+ lefeld-germany
+DTSTART:20161022T083000Z
+DTEND:20161022T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:klose brothers Gmbh
+WEBSITE:https://www.softwerkskammer.org/activities/mob-gdcr-16
+URL:https://www.softwerkskammer.org/activities/mob-gdcr-16
+CONTACT:
+ORGANIZER;CN="Jaroslaw Klose":http://coderetreat.org/profile/JaroslawK
+ lose
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaroslaw
+  Klose":http://coderetreat.org/profile/JaroslawKlose
+END:VEVENT
+END:VCALENDAR

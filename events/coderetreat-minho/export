@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:21842
+DTSTAMP:20170129T122751Z
+SUMMARY:Coderetreat Minho
+DESCRIPTION:First Coderetreat in Minho, Portugal. Hosted during the OP
+ O Startup Week event.\n\nFor more information visit http://coderetreat
+ .org/events/coderetreat-minho
+DTSTART:20130525T000000Z
+DTEND:20130525T235900Z
+CATEGORIES:opo, startup, week
+LOCATION:Factory Business Center & CoWork
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Roberto Machado, Luís Ferreira, Fernando Araújo
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Jlf8V1B*tP5ai
+ KGyLC7dR55dXBWiEHclewAZdxbi8bucrm4ssP0UTN3ZEIBXtXlZGIw-WroHnejfUiAufMe
+ aimDnapZ1y943/images.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gabriel 
+ Poça":http://coderetreat.org/profile/GabrielPoca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fernando
+  Araújo":http://coderetreat.org/profile/FernandoAraujo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roberto 
+ Manuel Dias Machado":http://coderetreat.org/profile/RobertoManuelDiasM
+ achado
+END:VEVENT
+END:VCALENDAR

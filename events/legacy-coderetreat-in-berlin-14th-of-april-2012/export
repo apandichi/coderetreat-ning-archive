@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9251
+DTSTAMP:20170129T104151Z
+SUMMARY:Legacy Coderetreat in Berlin 14th of April 2012
+DESCRIPTION:pls register via : http://legacycoderetreat-berlin.eventbr
+ ite.com/\n\nFor more information visit http://coderetreat.org/events/l
+ egacy-coderetreat-in-berlin-14th-of-april-2012
+DTSTART:20120414T090000Z
+DTEND:20120414T170000Z
+CATEGORIES:legacy, coderetreat
+LOCATION:crealytics GmbH
+WEBSITE:http://legacycoderetreat-berlin.eventbrite.com/
+URL:http://legacycoderetreat-berlin.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/oS79sSzIqEDCE
+ WfLT1oMJRv8HfqZ63YqR1ta6V9x41ss0JdFzQpejOb3QTiR*WR0rFrMG-7E*Y1syjP8YJc
+ 4KIA37ejhqJNX/berlin_logo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Dzi
+ emidowicz":http://coderetreat.org/profile/GregDziemidowicz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

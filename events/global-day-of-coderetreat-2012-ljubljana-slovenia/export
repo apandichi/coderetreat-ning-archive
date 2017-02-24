@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11954
+DTSTAMP:20170129T134030Z
+SUMMARY:Global Day of Coderetreat 2012 - Ljubljana / Slovenia
+DESCRIPTION:Part of the Global Day of Code Retreat. Sponsored by the k
+ ind folks at Celtra.\n\nFor more information visit http://coderetreat
+ .org/events/global-day-of-coderetreat-2012-ljubljana-slovenia
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:code, retreat
+LOCATION:TBD
+WEBSITE:http://coderetreat.si
+URL:http://coderetreat.si
+CONTACT:+38631885658
+ORGANIZER;CN="Miha Filej":http://coderetreat.org/profile/MihaFilej
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Miha Fil
+ ej":http://coderetreat.org/profile/MihaFilej
+END:VEVENT
+END:VCALENDAR

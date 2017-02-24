@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54387
+DTSTAMP:20170129T101516Z
+SUMMARY:Global Day of Coderetreat 2016 - Tyumen, Russia
+DESCRIPTION:First Global Day of Coderetreat in Tyumen, Russia\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2016-tyumen-russia
+DTSTART:20161022T100000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Green House
+WEBSITE:http://crtweb.ru/contacts
+URL:http://crtweb.ru/contacts
+CONTACT:
+ORGANIZER;CN="Vitaliy Akmashev":http://coderetreat.org/profile/Vitaliy
+ Akmashev
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/4dl5RIBKHP*S3
+ *zu2FfYXSV4yNKvRU3Kiz6HxTf0FeEDihRVEpiJTuBc0PQ1YY2ukX9chL4pQtUkpv1Punl
+ EgD5He5XgAmsF/1.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vitaliy 
+ Akmashev":http://coderetreat.org/profile/VitaliyAkmashev
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38436
+DTSTAMP:20170129T120355Z
+SUMMARY:Global Day of Coderetreat 2014 - Hanoi, Vietnam
+DESCRIPTION:Global Day of Coderetreat is a world-wide event celebratin
+ g passion and software craftsmanship. Last year, over 5000 passionate 
+ software developers in 170 cities around the world registered to spend
+  the day practicing the craft of software development using the codere
+ treat format\n\nFor more information visit http://coderetreat.org/even
+ ts/global-day-of-coderetreat-2014-hanoi-vietnam-1
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:ĐH FPT- Detech
+WEBSITE:
+URL:
+CONTACT:+84985631513
+ORGANIZER;CN="Phạm Anh Đới":http://coderetreat.org/profile/PhamAn
+ hDoi400
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Khoa Ngu
+ yen Viet":http://coderetreat.org/profile/KhoaNguyenViet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phạm A
+ nh Đới":http://coderetreat.org/profile/PhamAnhDoi400
+END:VEVENT
+END:VCALENDAR

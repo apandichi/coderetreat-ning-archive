@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48174
+DTSTAMP:20170129T110320Z
+SUMMARY:Global Day of Coderetreat 2015 - Manila, Philippines
+DESCRIPTION:Coderetreat is a day-long workshop focused on the fundamen
+ tals of software development and design, providing developers the oppo
+ rtunity to take part in focused exercises away from the daily routine 
+ of “writing usable code.” We will spend the day programming, pairi
+ ng with different people and go home without a program. Unintuitive as
+  it may sound at first, taking a step back from production realities c
+ an be quite liberating. The code retreat takes great advantage of the 
+ format to hammer home fundamental principles of good software.\n\nFor 
+ more information visit http://coderetreat.org/events/global-day-of-cod
+ eretreat-2015-manila-philippines
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:NOKIA Manila Technology Center
+WEBSITE:https://goo.gl/maps/iroaU9FMhEu
+URL:https://goo.gl/maps/iroaU9FMhEu
+CONTACT:
+ORGANIZER:NOKIA Manila Technology Center
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/4bIsJDjFjL4pw
+ Jvatef0dsMqHPq2PCBCUZ3IxLaEFV-LR7lbZQKstAcLAZTk7hb6LV7fhvrufxx7BU935SN
+ jws5ifvbu0-y9/20150427_1850211.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Edaine J
+ oyce Paz":http://coderetreat.org/profile/EdaineJoycePaz
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55221
+DTSTAMP:20170129T100449Z
+SUMMARY:Global Day of Coderetreat 2016 - İstanbul, Turkey
+DESCRIPTION:You 're invited to Global Day of Code Retreat in İstanbu
+ l \n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-code-retreat-stanbul
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:KWORKS Girişimcilik Araştırma Merkezi
+WEBSITE:https://www.eventbrite.com/e/global-day-of-code-retreat-ticket
+ s-27828690362
+URL:https://www.eventbrite.com/e/global-day-of-code-retreat-tickets-27
+ 828690362
+CONTACT:+90 (850) 885 14 19
+ORGANIZER:İstanbul Java User Group
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/HA1kPj-97*He9
+ odhku8-OP8kTn9HrixupfNVNpVugURMMIJI86NtotR0a7i5ob-sTuS2OhLI2No2*APU6Gj
+ 8GnyBtCFvQnK4/GlobalDayof.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Altuğ B
+ . Altıntaş":http://coderetreat.org/profile/AltugBAltintas
+END:VEVENT
+END:VCALENDAR

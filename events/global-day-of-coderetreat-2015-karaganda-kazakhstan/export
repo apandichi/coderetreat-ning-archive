@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47542
+DTSTAMP:20170129T100021Z
+SUMMARY:Global Day of Coderetreat 2015 - Karaganda, Kazakhstan
+DESCRIPTION:GDCR15 in Karaganda, Kazakhstan.\nLe'ts do it together.\n\
+ nFor more information visit http://coderetreat.org/events/global-day-o
+ f-coderetreat-2015-karaganda-kazakhstan
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:EPAM KZ office
+WEBSITE:http://www.epam.kz
+URL:http://www.epam.kz
+CONTACT:87023092288
+ORGANIZER;CN="Anuar Nurmakanov":http://coderetreat.org/profile/AnuarNu
+ rmakanov
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/pip6g4jx0scCg
+ oojDLSAmQzTFMEO7z1ZkOSVHCGM2bZIJukB-1nTsTYXOxXh*z*E3Z83yjXdUupEfqvDVLj
+ YlVAij4GQotpf/black_belt400x242.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anuar Nu
+ rmakanov":http://coderetreat.org/profile/AnuarNurmakanov
+END:VEVENT
+END:VCALENDAR

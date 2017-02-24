@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47053
+DTSTAMP:20170129T121933Z
+SUMMARY:Global Day of Coderetreat 2015 - Osaka, Japan
+DESCRIPTION:Hello,\nWe are happy to join the Global Day of Coderetreat
+  2015.\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2015-osaka-japan
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:LOCKON Marketing
+WEBSITE:http://connpass.com/event/21175/
+URL:http://connpass.com/event/21175/
+CONTACT:
+ORGANIZER:Takuya Kawabe
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/jw5zqGnfHdrTt
+ dcazf1KXfixRIPguEU2QLq8wF5Q8iYD460rWSAW3C8eyL*kx7BqXvz8mBPY8WQho4tgEIj
+ DXgp6Vd3xn0wv/p8236285.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="かわ�
+ �　たくや":http://coderetreat.org/profile/0g0r3tmnsb7nb
+END:VEVENT
+END:VCALENDAR

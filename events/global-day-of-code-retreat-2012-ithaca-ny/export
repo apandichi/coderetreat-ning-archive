@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13484
+DTSTAMP:20170129T134547Z
+SUMMARY:Global Day of Coderetreat 2012 - Ithaca, NY / USA
+DESCRIPTION:The Ithaca Code Retreat is a gathering of developers to im
+ prove their craft through a day of pair programming on Conway's Game o
+ f Life. This event is being hosted as part of the Global Day of Code R
+ etreat.\nLocation and Start Time: 8:30am at GORGES offices on the Comm
+ ons. Co-sponsored by GORGES, Singlebrook Technology, and Incandescent 
+ Software. If you're interested in co-sponsoring with a modest donation
+ , please call David Furber at 607-342-7862.\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-code-retreat-2012-itha
+ ca-ny
+DTSTART:20121208T083000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat
+LOCATION:GORGES - on the Commons next to Bank of America
+WEBSITE:
+URL:
+CONTACT:607-342-7862
+ORGANIZER;CN="David Furber":http://coderetreat.org/profile/DavidFurber
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Travis V
+ achon":http://coderetreat.org/profile/TravisVachon
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeffrey 
+ Konowitch":http://coderetreat.org/profile/JeffreyKonowitch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Fu
+ rber":http://coderetreat.org/profile/DavidFurber
+END:VEVENT
+END:VCALENDAR

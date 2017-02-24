@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13020
+DTSTAMP:20170129T104458Z
+SUMMARY:Code Retreat during Nuremberg Web Week
+DESCRIPTION:Hello Everyone,\nour next code retreat will happen during 
+ the Nuremberg Web Week (http://www.nueww.de/). Facilitation by Felix B
+ öhm and me.\nNo registration necessary. Just come and code...\n-  Ma
+ rco & Felix\n\nFor more information visit http://coderetreat.org/event
+ s/code-retreat-during-nuremberg-web-week
+DTSTART:20121020T093000Z
+DTEND:20121020T173000Z
+CATEGORIES:coderetreat
+LOCATION:coworking space Nueremberg
+WEBSITE:http://www.coworking-nuernberg.de/
+URL:http://www.coworking-nuernberg.de/
+CONTACT:
+ORGANIZER:Marco Emrich, Felix Böhm
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Z5zLHe0l5fyfJ
+ 5OIGA8kWwXQeXsEuufZAFf3B8eKE5yRPWVPI-jdoC4R5szZ0YzVDnX5sxjRjsLh3sYNLLc
+ sN0rnZt7Imunl/code_retreat_title.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Em
+ rich":http://coderetreat.org/profile/MarcoEmrich
+END:VEVENT
+END:VCALENDAR

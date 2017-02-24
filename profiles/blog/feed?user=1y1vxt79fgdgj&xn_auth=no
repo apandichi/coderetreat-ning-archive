@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Rob Tarr&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1y1vxt79fgdgj&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:09Z</updated>
+                            <author>
+                    <name>Rob Tarr</name>
+                    <uri>http://coderetreat.org/profile/RobTarr</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1y1vxt79fgdgj&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Code Retreat Roundup: GitHub Toolbox</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5563"/>
+                                        <id>tag:coderetreat.org,2011-12-09:6456126:BlogPost:5563</id>
+                                        <updated>2011-12-09T21:30:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Rob Tarr</name>
+                            <uri>http://coderetreat.org/profile/RobTarr</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Original post can be found at &lt;a href=&quot;http://seesparkbox.com/foundry/code_retreat_roundup_github_toolbox&quot;&gt;http://seesparkbox.com/foundry/code_retreat_roundup_github_toolbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Code Retreat Roundup: GitHub Toolbox&quot; class=&quot;featured-image&quot; src=&quot;http://seesparkbox.com/uploads/article_uploads/111209-Code-Retreat-Toolkit.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Last Saturday, &lt;a href=&quot;http://seesparkbox.com/foundry/author/rob_harr&quot;&gt;Rob&lt;/a&gt; and &lt;a href=&quot;http://seesparkbox.com/foundry/author/rob_tarr&quot;&gt;I&lt;/a&gt; went down to Cincinnati for the &lt;a href=&quot;http://blog.coderetreat.com/global-day-of-coderetreat&quot;&gt;Global Day of Code Retreat&lt;/a&gt;. We spent the…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Original post can be found at &lt;a href=&quot;http://seesparkbox.com/foundry/code_retreat_roundup_github_toolbox&quot;&gt;http://seesparkbox.com/foundry/code_retreat_roundup_github_toolbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;featured-image&quot; src=&quot;http://seesparkbox.com/uploads/article_uploads/111209-Code-Retreat-Toolkit.jpg&quot; alt=&quot;Code Retreat Roundup: GitHub Toolbox&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;Last Saturday, &lt;a href=&quot;http://seesparkbox.com/foundry/author/rob_harr&quot;&gt;Rob&lt;/a&gt; and &lt;a href=&quot;http://seesparkbox.com/foundry/author/rob_tarr&quot;&gt;I&lt;/a&gt; went down to Cincinnati for the &lt;a href=&quot;http://blog.coderetreat.com/global-day-of-coderetreat&quot;&gt;Global Day of Code Retreat&lt;/a&gt;. We spent the entire day practicing code. Yes, that’s right – practicing. We wrote and tested code for 45 minutes, talked about what we had done, deleted our code, and then started over. It was a very useful exercise which Rob will be blogging about very soon.&lt;/p&gt;
+&lt;p&gt;Since Rob is going to write about how incredibly beneficial the day was for us, I wanted to highlight some of the cool tools that I discovered while I was there. The day was centered around developing using &lt;a href=&quot;http://en.wikipedia.org/wiki/Test-driven_development&quot;&gt;TDD&lt;/a&gt;, so there’s definitely a testing slant to my list. Now, I’ll be the first to say that I definitely fall into the camp of wanting to write tests for my code; but not having done it on a project, I wasn’t sure where to start. After the Code Retreat, I feel much more confident in my ability to write good tests, and I think that these tools will help me to do just that.&lt;/p&gt;
+&lt;h2&gt;&lt;br/&gt; &lt;a href=&quot;https://github.com/jimweirich/rspec-given&quot;&gt;rspec-given&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I had the opportunity to pair with &lt;a href=&quot;https://twitter.com/#!/pkananen&quot;&gt;@pkananen&lt;/a&gt; on some Ruby, using RSpec for testing. As I was trying to figure out how to start writing the tests, Peter suggested we try given. It’s basically a simple syntax for quickly writing very clear, readable tests.&lt;/p&gt;
+&lt;p&gt;The first RSpec test I wrote looked something like this:&lt;/p&gt;
+&lt;div id=&quot;gist-1445259&quot; class=&quot;gist&quot;&gt;&lt;div class=&quot;gist-file&quot;&gt;&lt;div class=&quot;gist-data gist-syntax&quot;&gt;&lt;div class=&quot;gist-highlight&quot;&gt;&lt;div class=&quot;line&quot; id=&quot;LC1&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;1&lt;/div&gt;
+describe &quot;conways&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC2&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;2&lt;/div&gt;
+  cell = Cell.new&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC3&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;3&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC4&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;4&lt;/div&gt;
+  it &quot;should live&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC5&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;5&lt;/div&gt;
+    cell.lives?(0).should be_false&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC6&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;6&lt;/div&gt;
+    cell.lives?(1).should be_false&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC7&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;7&lt;/div&gt;
+    cell.lives?(2).should be_true&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC8&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;8&lt;/div&gt;
+    cell.lives?(3).should be_true&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC9&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;9&lt;/div&gt;
+    cell.lives?(4).should be_false&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC10&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;10&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC11&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;11&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC12&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;12&lt;/div&gt;
+end&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;gist-meta&quot;&gt;&lt;a href=&quot;https://gist.github.com/raw/7e1651f6f3e7fb79cbfe/aa1709b8c1cf0fda07e0608b420641111361d0fc/ruby-rspec&quot; style=&quot;float:right;&quot;&gt;view raw&lt;/a&gt; &lt;a href=&quot;https://gist.github.com/7e1651f6f3e7fb79cbfe#file_ruby_rspec&quot; style=&quot;float:right;margin-right:10px;color:#666&quot;&gt;ruby-rspec&lt;/a&gt; &lt;a href=&quot;https://gist.github.com/7e1651f6f3e7fb79cbfe&quot;&gt;This Gist&lt;/a&gt; brought to you by &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This is an interpretation of this same test using given:&lt;/p&gt;
+&lt;div id=&quot;gist-1445259&quot; class=&quot;gist&quot;&gt;&lt;div class=&quot;gist-file&quot;&gt;&lt;div class=&quot;gist-data gist-syntax&quot;&gt;&lt;div class=&quot;gist-highlight&quot;&gt;&lt;div class=&quot;line&quot; id=&quot;LC1&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;1&lt;/div&gt;
+describe Cell do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC2&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;2&lt;/div&gt;
+  Given(:cell) { cell = Cell.new }&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC3&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;3&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC4&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;4&lt;/div&gt;
+  context &quot;with 0 neighbors&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC5&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;5&lt;/div&gt;
+    Then { cell.lives?(0) == false }&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC6&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;6&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC7&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;7&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC8&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;8&lt;/div&gt;
+  context &quot;with 1 neighbor&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC9&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;9&lt;/div&gt;
+    Then { cell.lives?(1) == false }&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC10&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;10&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC11&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;11&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC12&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;12&lt;/div&gt;
+  context &quot;with 2 neighbors&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC13&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;13&lt;/div&gt;
+    Then { cell.lives?(2) == true }&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC14&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;14&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC15&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;15&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC16&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;16&lt;/div&gt;
+  context &quot;with 3 neighbors&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC17&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;17&lt;/div&gt;
+    Then { cell.lives?(3) == true }&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC18&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;18&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC19&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;19&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC20&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;20&lt;/div&gt;
+  context &quot;with 4 neighbors&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC21&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;21&lt;/div&gt;
+    Then { cell.lives?(4).should be_false }&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC22&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;22&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC23&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;23&lt;/div&gt;
+end&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;gist-meta&quot;&gt;&lt;a href=&quot;https://gist.github.com/raw/7e1651f6f3e7fb79cbfe/012d67002d9eff46c20090e54241f30cd699c8a3/ruby-given&quot; style=&quot;float:right;&quot;&gt;view raw&lt;/a&gt; &lt;a href=&quot;https://gist.github.com/7e1651f6f3e7fb79cbfe#file_ruby_given&quot; style=&quot;float:right;margin-right:10px;color:#666&quot;&gt;ruby-given&lt;/a&gt; &lt;a href=&quot;https://gist.github.com/7e1651f6f3e7fb79cbfe&quot;&gt;This Gist&lt;/a&gt; brought to you by &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;I haven’t played with these a lot, but I feel like the rspec-given tests may be more expressive than the straight RSpec tests. It provides a simple syntax that I think most people could read and understand what the test results should be.&lt;/p&gt;
+&lt;h2&gt;&lt;br/&gt; &lt;a href=&quot;https://github.com/guard/guard&quot;&gt;Guard&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;During another session, I paired with &lt;a href=&quot;https://twitter.com/#!/mattbrewer&quot;&gt;@MattBrewer&lt;/a&gt; and saw another really cool tool – Guard. During my first two sessions, the process was something like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Write test.&lt;/li&gt;
+&lt;li&gt;Write code.&lt;/li&gt;
+&lt;li&gt;Save code.&lt;/li&gt;
+&lt;li&gt;Switch to terminal.&lt;/li&gt;
+&lt;li&gt;Run tests.&lt;/li&gt;
+&lt;li&gt;Switch back to TextMate.&lt;/li&gt;
+&lt;li&gt;Fix code.&lt;/li&gt;
+&lt;li&gt;Repeat as necessary.&lt;/li&gt;
+&lt;li&gt;Move on to next test.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Working with Matt, however, that workflow changed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Write test.&lt;/li&gt;
+&lt;li&gt;Write code.&lt;/li&gt;
+&lt;li&gt;Save code.&lt;/li&gt;
+&lt;li&gt;Watch tests run in background.&lt;/li&gt;
+&lt;li&gt;Fix code.&lt;/li&gt;
+&lt;li&gt;Repeat as necessary.&lt;/li&gt;
+&lt;li&gt;Move on to next test.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Step 4 here was the frosting on the cake. Every time we saved a file, Guard ran the tests. With a terminal window open off to the side, we could instantly see the results of the tests. Seeing as we only had 45 minutes to get as much of the problem solved as we could, this was a very useful thing to have running.&lt;/p&gt;
+&lt;p&gt;Setting up Guard was pretty easy, and I found that it will also do things such as rebuilding your gem set if you update your gemfile. I also installed a growl gem, so I now get test/gemfile build results in growl notifications. I’m sure it does a lot more, and I’m anxious to spend more time finding out what it can do.&lt;/p&gt;
+&lt;h2&gt;&lt;br/&gt; &lt;a href=&quot;https://github.com/achiu/consular&quot;&gt;Consular&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;While I was setting up Guard (with a few pointers from &lt;a href=&quot;https://twitter.com/#!/cromwellryan&quot;&gt;@cromwellryan&lt;/a&gt;), Ryan told me about this little app. Between running multiple Rails apps and other miscellaneous things, it’s not uncommon for me to have Terminal running with multiple tabs open for each project I&#039;m working on. Consular provides a way to define sets of windows/tabs and provides a way to execute commands in those windows/tabs at start up. So, I’m setting up consular files to open up work spaces for my projects and launch the server and any other appropriate files for those projects. AWESOME!&lt;/p&gt;
+&lt;p&gt;I wrote a quick little consular script for starting up my Rails projects:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div id=&quot;gist-1445259&quot; class=&quot;gist&quot;&gt;&lt;div class=&quot;gist-file&quot;&gt;&lt;div class=&quot;gist-data gist-syntax&quot;&gt;&lt;div class=&quot;gist-highlight&quot;&gt;&lt;div class=&quot;line&quot; id=&quot;LC1&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;1&lt;/div&gt;
+window do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC2&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;2&lt;/div&gt;
+  run &#039;echo -n -e &quot;\033]0; Project Name - Rails Server \0007&quot;&#039;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC3&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;3&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC4&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;4&lt;/div&gt;
+  before { run &#039;cd projects/project-folder&#039; }&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC5&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;5&lt;/div&gt;
+ &lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC6&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;6&lt;/div&gt;
+  run &quot;rails s&quot;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC7&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;7&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC8&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;8&lt;/div&gt;
+  tab &quot;named test&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC9&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;9&lt;/div&gt;
+    run &#039;echo -n -e &quot;\033]0; Project Name - Tests \0007&quot;&#039;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC10&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;10&lt;/div&gt;
+    run &quot;guard&quot;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC11&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;11&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC12&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;12&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC13&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;13&lt;/div&gt;
+  tab &quot;named project&quot; do&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC14&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;14&lt;/div&gt;
+    run &#039;echo -n -e &quot;\033]0; Project Name - Files \0007&quot;&#039;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC15&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;15&lt;/div&gt;
+    run &quot;ls&quot;&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC16&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;16&lt;/div&gt;
+  end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC17&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;17&lt;/div&gt;
+end&lt;/div&gt;
+&lt;div class=&quot;line&quot; id=&quot;LC18&quot;&gt;&lt;div style=&quot;float: left; width: 30px; font-weight: bold; color: rgb(128, 128, 128);&quot;&gt;18&lt;/div&gt;
+&lt;br/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;gist-meta&quot;&gt;&lt;a href=&quot;https://gist.github.com/raw/7e1651f6f3e7fb79cbfe/6e4c032a09ffa4e2d66a82debc6585637ba306c0/Consular&quot; style=&quot;float:right;&quot;&gt;view raw&lt;/a&gt; &lt;a href=&quot;https://gist.github.com/7e1651f6f3e7fb79cbfe#file_consular&quot; style=&quot;float:right;margin-right:10px;color:#666&quot;&gt;Consular&lt;/a&gt; &lt;a href=&quot;https://gist.github.com/7e1651f6f3e7fb79cbfe&quot;&gt;This Gist&lt;/a&gt; brought to you by &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;br/&gt; &lt;a href=&quot;http://www.tryjasmine.com/&quot;&gt;tryjasmine.com&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This was another thing I picked up from &lt;a href=&quot;https://twitter.com/#!/pkananen&quot;&gt;@pkananen&lt;/a&gt;. If you want to try your hand at writing tests for JavaScript (or CoffeeScript) then this might be a great place to start. It gives you a place to write your code and tests side by side. You can easily convert between CoffeeScript and JavaScript and it gives you a few built in macros to get started or just to quickly stub out tests.&lt;/p&gt;
+&lt;h2&gt;&lt;br/&gt; What other tools are you using?&lt;/h2&gt;
+&lt;p&gt;Today, there are so many tools to help us build things faster and more efficiently that it is sometimes hard to keep up with them. Frankly, these tools solved some problems that I didn’t even really know that I had. I am getting the feeling that after using these for a little while some of them will quickly become essential parts of my development toolbox.&lt;/p&gt;
+&lt;p&gt;I would love to know of other cool things I can add to my toolbox. Leave me some comments below or on Twitter.&lt;/p&gt;
+&lt;p&gt;And if you haven&#039;t checked out GitHub&#039;s &lt;a href=&quot;http://octodex.github.com/&quot;&gt;Octodex&lt;/a&gt;, you should. The Octocat is waiting.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Delete Your Code Video Contest - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A27255&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:56:56Z</updated>
+                        <id>http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A27255&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Thanks Ken! Great video. I re…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:28142"/>
+                                        <id>tag:coderetreat.org,2013-10-24:6456126:Comment:28142</id>
+                                        <updated>2013-10-24T00:18:27.607Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks Ken! Great video. I removed the extra tag.&lt;/p&gt;
+&lt;p&gt;In the future, you should be able to edit the tags (indeed anything related to the video) by selecting &lt;em&gt;Edit Video&lt;/em&gt; or &lt;em&gt;Edit Your Tags&lt;/em&gt; from the &lt;em&gt;Options&lt;/em&gt; drop-down menu found in the upper right of the video page.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks Ken! Great video. I removed the extra tag.&lt;/p&gt;
+&lt;p&gt;In the future, you should be able to edit the tags (indeed anything related to the video) by selecting &lt;em&gt;Edit Video&lt;/em&gt; or &lt;em&gt;Edit Your Tags&lt;/em&gt; from the &lt;em&gt;Options&lt;/em&gt; drop-down menu found in the upper right of the video page.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Jim,
+
+I just posted a vide…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:28063"/>
+                                        <id>tag:coderetreat.org,2013-10-23:6456126:Comment:28063</id>
+                                        <updated>2013-10-23T23:50:16.664Z</updated>
+                    
+                                            <author>
+                            <name>Ken Taylor</name>
+                            <uri>http://coderetreat.org/profile/KenTaylor</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        Hi Jim,&lt;br /&gt;
+&lt;br /&gt;
+I just posted a video for the contest and I noticed that one of my tags is messed up on the posting (It is actually your name -- which shows up as &quot;Hurne, Jim&quot;&lt;br /&gt;
+Is there a way to edit our video tags/descriptions?&lt;br /&gt;
+&lt;br /&gt;
+Thanks!&lt;br /&gt;
+&lt;br /&gt;
+-Ken Taylor                    </summary>
+
+                                            <content type="html">
+                            Hi Jim,&lt;br /&gt;
+&lt;br /&gt;
+I just posted a video for the contest and I noticed that one of my tags is messed up on the posting (It is actually your name -- which shows up as &quot;Hurne, Jim&quot;&lt;br /&gt;
+Is there a way to edit our video tags/descriptions?&lt;br /&gt;
+&lt;br /&gt;
+Thanks!&lt;br /&gt;
+&lt;br /&gt;
+-Ken Taylor                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

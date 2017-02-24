@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:17565
+DTSTAMP:20170129T134402Z
+SUMMARY:Global Day of Coderetreat 2012 - Odessa / Ukraine
+DESCRIPTION:This event is being hosted as part of the Global Day of Co
+ de Retreat!\nIt is a great opportunity to practice TDD and pair progra
+ mming.\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2012-odessa-ukraine
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Odessa
+WEBSITE:https://maps.google.com/maps?q=%D0%95%D0%B2%D1%80%D0%B5%D0%B9%
+ D1%81%D0%BA%D0%B0%D1%8F+3&hl=uk&ie=UTF8&ll=46.477354,30.746784&spn=0.1
+ 13721,0.264187&sll=46.455599,30.739746&sspn=0.113766,0.264187&hq=%D0%9
+ 5%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+3&radius=15000&t=m&z
+ =13
+URL:https://maps.google.com/maps?q=%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%8
+ 1%D0%BA%D0%B0%D1%8F+3&hl=uk&ie=UTF8&ll=46.477354,30.746784&spn=0.11372
+ 1,0.264187&sll=46.455599,30.739746&sspn=0.113766,0.264187&hq=%D0%95%D0
+ %B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+3&radius=15000&t=m&z=13
+CONTACT:0979114120
+ORGANIZER;CN="Dmytro Mindra":http://coderetreat.org/profile/DmytroMind
+ ra
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dmytro M
+ indra":http://coderetreat.org/profile/DmytroMindra
+END:VEVENT
+END:VCALENDAR

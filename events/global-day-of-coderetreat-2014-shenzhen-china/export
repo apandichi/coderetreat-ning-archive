@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38328
+DTSTAMP:20170129T120949Z
+SUMMARY:Global Day of Coderetreat 2014 - Shenzhen, China
+DESCRIPTION:The second GDCR event in Shenzhen.\nIt must be awesome.\n\
+ nFor more information visit http://coderetreat.org/events/global-day-o
+ f-coderetreat-2014-shenzhen-china
+DTSTART:20141115T093000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Seaborn Lee":http://coderetreat.org/profile/SeabornLee
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Seaborn 
+ Lee":http://coderetreat.org/profile/SeabornLee
+END:VEVENT
+END:VCALENDAR

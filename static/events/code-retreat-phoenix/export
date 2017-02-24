@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2353
+DTSTAMP:20170129T133207Z
+SUMMARY:Code Retreat Phoenix
+DESCRIPTION:Come join us for Code Retreat Phoenix at Gangplank!\n \nW
+ e will be following the standard Code Retreat format, so come prepare
+ d to meet and work with new programmers, practice TDD, and learn about
+  the Game of Life!:\nStructure\nCoderetreat has an established, time-t
+ ested format that is optimized for focused practice.\n\nProblem: Conw
+ ay's Game of Life\nLength of Session: 45 minutes\nDuration: 10 am to 7
+ pm\nPair-programming is necessary, as the knowledge transfer contained
+  in that activity is essential to the practice\nPrefer using Test-Driv
+ en Development (TDD)\nAfter each session, pairs should be swapped\nAft
+ er each session, code must be deleted, not put in a branch, not stashe
+ d, just deleted with no trace left\n\n\n\nFor more information visit h
+ ttp://coderetreat.org/events/code-retreat-phoenix
+DTSTART:20111203T100000Z
+DTEND:20111203T190000Z
+CATEGORIES:code, retreat
+LOCATION:Gangplank
+WEBSITE:http://maps.google.com/maps?q=gangplank&hl=en&sll=33.302903,-1
+ 11.778878&sspn=0.009531,0.150703&view=map&cid=8705411617655272523&hq=g
+ angplank&t=h&z=18&vpsrc=0&iwloc=A
+URL:http://maps.google.com/maps?q=gangplank&hl=en&sll=33.302903,-111.7
+ 78878&sspn=0.009531,0.150703&view=map&cid=8705411617655272523&hq=gangp
+ lank&t=h&z=18&vpsrc=0&iwloc=A
+CONTACT:5168474660
+ORGANIZER;CN="Nick Vaidyanathan":http://coderetreat.org/profile/NickVa
+ idyanathan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick Vai
+ dyanathan":http://coderetreat.org/profile/NickVaidyanathan
+END:VEVENT
+END:VCALENDAR

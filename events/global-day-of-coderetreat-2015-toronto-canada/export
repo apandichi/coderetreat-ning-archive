@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47967
+DTSTAMP:20170129T121241Z
+SUMMARY:Global Day of Coderetreat 2015 - Toronto, Canada
+DESCRIPTION:Come to LoyaltyOne's downtown Toronto offices to join deve
+ lopers all around the world in a day-long, intensive practice event, f
+ ocusing on the fundamentals of software development and design.\nPleas
+ e register through Eventbrite.\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2015-toronto-canada
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:LoyaltyOne
+WEBSITE:https://www.eventbrite.com/e/global-day-of-code-retreat-toront
+ o-canada-tickets-19267087377
+URL:https://www.eventbrite.com/e/global-day-of-code-retreat-toronto-ca
+ nada-tickets-19267087377
+CONTACT:
+ORGANIZER:LoyaltyOne / Fernando A. Cuenca
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/WLDrVkQ1qFXmV
+ 2Ei2Pah2uxl4fu5-pr-aGjrpHggBVA0Me-eR1kXctGZ1-y1CBqaFIBxO13nDiEb55xBLtW
+ Q2hz*le81Bc6j/TO_small.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fernando
+  A. Cuenca":http://coderetreat.org/profile/FernandoACuenca
+END:VEVENT
+END:VCALENDAR

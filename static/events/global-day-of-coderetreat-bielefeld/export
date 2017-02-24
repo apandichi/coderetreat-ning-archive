@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12764
+DTSTAMP:20170129T101235Z
+SUMMARY:Global Day of Coderetreat 2012 - Bielefeld / Germany
+DESCRIPTION:http://gdcr12-bielefeld.eventbrite.de/\n\nFor more informa
+ tion visit http://coderetreat.org/events/global-day-of-coderetreat-bie
+ lefeld
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Bielefeld, Germany
+WEBSITE:http://gdcr12-bielefeld.eventbrite.de/
+URL:http://gdcr12-bielefeld.eventbrite.de/
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/lpub0gjyJvHgO
+ rEMqXybXDyZwMh0sXAdScxhYYv1fuVmR3qYzyUVLX3rLIiVziuHziTvjueE247mQ4baOqM
+ BK7SDHtC5sGYs/200pxWappen_Bielefeld_reasonably_small.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rolf Hem
+ merling":http://coderetreat.org/profile/RolfHemmerling
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

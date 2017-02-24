@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Corinna Baldauf&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/CorinnaBaldauf</link>
+        <pubDate>Sun, 29 Jan 2017 11:11:05 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:11:05 +0000</lastBuildDate>
+        <image>
+            <title>Corinna Baldauf&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/CorinnaBaldauf</link>
+            <url>http://api.ning.com:80/files/KOAPCdBbMWwHzzLCpVE**4bVS-itC5lRjKcEAFY*w6q-6tZYo7G*4glS6oWFWxM6tB1jYeZlJf0u*zzfSV*SNd52tMXAiRTX/560327422.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b36a0e95fa104178fb8bf37</guid>
+               <title>Corinna Baldauf posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:11766?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CorinnaBaldauf?xg_source=activity">Corinna Baldauf</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:11766?xg_source=activity">Code Retreats are awesome!</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:11766">[This is a cross-post from <a href="http://finding-marbles.com/2012/09/04/code-retreats-are-awesome/" target="_blank">finding-marbles.com</a>]At least the one I attended on Saturday – My first one.What is a code retreat, you’re asking?<a target="_blank" href="https://twitter.com/cornelis/status/241840053339430912"></a>A bunch of people who want to improve their coding and unit testing skills meet for a day. Everyone has their IDEs and testing frameworks ready to go. You get to tackle the same problem multiple times. We had 7 blocks, each consisting of 45 minutes coding followed by 15 minutes retrospectives. In each coding phase you pair program with someone else. To spice things up, there’s a new constraint for each round, e.g. “No IF-statements allowed”. After each round you throw away the code. *gasp* Heresy!Why would you do a code retreat?For deliberate practice. There’s this famous analogy: Musicians spend a lot of time practicing, then give a few concerts. Software developers – who often build something they’ve never build before – spend all of their time “giving the concerts” and hardly ever just practice the basics, let alone with someone else. A code retreat is an opportunity to learnnew ways of thinking / approaching a task from your pairing partnerto take really small stepsnew languages (Code retreats are not language specific. I got to code in JavaScript, Java and Ruby. Java was the least common denominator – it works for everyone.)new shortcuts, IDEs, frameworks, …to throw away codeOur constraints for the 7 phases were:NonePing-Pong – A writes test, B writes code to pass test, B writes next test, A writes code to pass test, …Law of Demeter – No more than one “.” per expression allowed, so no objectFoo.getBar().doFoo() – Following this law leads to looser coupling<a href="http://coderetreat.org/facilitating/activities/tdd-as-if-you-meant-it">TDD as if you meant it</a>No naked primitives – No ints, no booleans, …No If – Yeah, that’s a hard one…Each pair could choose individually from a <a href="http://coderetreat.org/facilitating/activity-catalog">long list</a> – We chose “Find the loophole”My takeaways:As I’m not a developer, I was afraid to slow my pairing partners down. No need to worry: Code retreat tasks, such as the classic <a href="http://coderetreat.org/gol">“Conway’s Game of Life”</a>, are quite simple and there were other non-developers attending. It’s helps if you’ve at least seen unit tests before, though.I take way too big stepsIn the “no primitives” round I learned to use enums instead of booleans and they make the code more “speaking”A code retreat is great fun, but also exhausting. 7 sessions is one too many.Next I’d like to attend a Legacy code retreat, where you learn to refactor old brittle code.Many thanks to the facilitators <a href="http://www.orchit.de/">Patrick Cornelißen</a> and <a href="http://shishkin.org/">Sergey Shishkin</a>, to <a href="http://www.innoq.com/de">innoQ</a> for hosting the event and to all attendees for making my first code retreat an awesome experience!So could be yours: <a href="http://coderetreat.org/events">Find a code retreat</a> near you! If you’re in Germany, join the <a href="http://www.softwerkskammer.de/">Softwerkskammer</a>!Patrick and Stephan blogged about the same retreat:<a href="https://plus.google.com/u/0/108915318790061711841/posts/RWAx3BPHsWe">Retrospective</a> – Patrick (who facilitated the retreat)<a href="http://seasidetesting.com/2012/09/02/attending-a-code-retreat/">Attending a code retreat</a> – Stephan (writes from a tester’s perspective)<a class="continue-link" href="http://coderetreat.org/profiles/blogs/code-retreats-are-awesome">See More</a></div></div></div></div>]]></description>
+               <pubDate>Tue, 04 Sep 2012 17:47:57 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b36a0e9486159d39c751f48</guid>
+               <title>Corinna Baldauf is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/CorinnaBaldauf?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CorinnaBaldauf?xg_source=activity">Corinna Baldauf</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 04 Sep 2012 17:33:42 +0000</pubDate>
+               </item>    </channel>
+</rss>

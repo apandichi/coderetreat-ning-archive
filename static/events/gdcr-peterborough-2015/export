@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44823
+DTSTAMP:20170129T105210Z
+SUMMARY:Global Day of Coderetreat 2015 - Peterborough, UK
+DESCRIPTION:Global Day of Code Retreat Peterborough \n\nPlease sign u
+ p here\nGDCR Peterborough 2015\n\n\nFor more information visit http://
+ coderetreat.org/events/gdcr-peterborough-2015
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Peterborough
+WEBSITE:http://www.meetup.com/Agile-Peterborough/events/224143036/
+URL:http://www.meetup.com/Agile-Peterborough/events/224143036/
+CONTACT:
+ORGANIZER;CN="Alex Shaw":http://coderetreat.org/profile/AlexShaw
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Wi
+ lkins":http://coderetreat.org/profile/PeterWilkins
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Sha
+ w":http://coderetreat.org/profile/AlexShaw
+END:VEVENT
+END:VCALENDAR

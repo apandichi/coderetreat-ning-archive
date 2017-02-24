@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Walter Rumsby&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/WalterRumsby</link>
+        <pubDate>Sun, 29 Jan 2017 14:06:08 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:06:08 +0000</lastBuildDate>
+        <image>
+            <title>Walter Rumsby&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/WalterRumsby</link>
+            <url>http://api.ning.com:80/files/rML1AEi0iLv5SLNQCoDeEJZh7iF-REvYPQ6VC3m7xoZ2Xec2kAatXcGZHEMEBfHm9FvLGiBTIKqarjd*TwUmC-DiZZc27zH9/679811528.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b6494036b86e4c1a8dd2477</guid>
+               <title>Walter Rumsby might attend Ian Randall&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/WalterRumsby?xg_source=activity">Walter Rumsby</a> might attend <a href="http://coderetreat.org/profile/IanRandall?xg_source=activity">Ian Randall's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">Auckland Coderetreat</a> at Bizdojo Makerspace</h3><div class="rich-detail"><div class="rich-date">October 27, 2012 from 9am to 5pm</div><div class="rich-excerpt">Corey will be in town, so we're doing a coderetreat!Please register on meetup.com at <a href="http://www.meetup.com/Auckland-Code-retreat/events/85963422/">http://www.meetup.com/Auckland-Code-retreat/events/85963422/</a> Massive thanks to our sponsors:Primary sponsor <a href="http://datacom.co.nz" target="_blank">Datacom</a> who are funding lunch! (Yay)also <a href="http://codemania.co.nz/#events">codemania</a> and <a href="http://www.telerik.com/">Telerik</a> who are paying for the breakfast/coffee and venue.We couldn't put on coderetreat without their support.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 02 Oct 2012 03:23:00 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b6494037e34758487d19b21</guid>
+               <title>Walter Rumsby is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/WalterRumsby?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/WalterRumsby?xg_source=activity">Walter Rumsby</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Tue, 02 Oct 2012 03:22:49 +0000</pubDate>
+               </item>    </channel>
+</rss>

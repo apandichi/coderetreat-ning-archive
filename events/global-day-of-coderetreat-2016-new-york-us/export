@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54318
+DTSTAMP:20170129T113023Z
+SUMMARY:Global Day of Coderetreat 2016 - New York, US
+DESCRIPTION:Global Day of CodeRetreat.\n More information coming soon\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2016-new-york-us
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Sawyer Effect
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier C
+ ervantes":http://coderetreat.org/profile/JavierCervantes
+END:VEVENT
+END:VCALENDAR

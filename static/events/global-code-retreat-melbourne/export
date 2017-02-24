@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30574
+DTSTAMP:20170129T115637Z
+SUMMARY:Global Day of Coderetreat 2013 -  Melbourne, Australia
+DESCRIPTION:GDCR - being held in Melbourne at REA Group office in Rich
+ mond. The event is co-sponsored by ThoughtWorks. Please register to at
+ tend at: https://www.eventbrite.com.au/e/global-day-of-coderetreat-me
+ lbourne-2013-tickets-9467574771\n\nFor more information visit http://c
+ oderetreat.org/events/global-code-retreat-melbourne
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:REA Group
+WEBSITE:http://www.rea-group.com/irm/content/home.html
+URL:http://www.rea-group.com/irm/content/home.html
+CONTACT:
+ORGANIZER;CN="Supriya joshi":http://coderetreat.org/profile/Supriyajos
+ hi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gordon O
+ liver":http://coderetreat.org/profile/GordonOliver
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Karl Gla
+ ser":http://coderetreat.org/profile/KarlGlaser
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Supriya 
+ joshi":http://coderetreat.org/profile/Supriyajoshi
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49572
+DTSTAMP:20170129T102617Z
+SUMMARY:Global Day of Coderetreat 2015 - Guadalajara, Mexico
+DESCRIPTION:     Register here for Guadalajara’s Coderetreat!\nRE
+ GISTER FOR GLOBAL CODERETREAT\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2015-guadalajara-jalisco
+DTSTART:20151121T080000Z
+DTEND:20151121T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:EPAM México (Freescale's premises)
+WEBSITE:https://www.google.com.mx/maps/@20.6118764,-103.409859,16z
+URL:https://www.google.com.mx/maps/@20.6118764,-103.409859,16z
+CONTACT:+52 33 4624 0098 x 60234
+ORGANIZER:Abraham Mayo <Abraham_Mayo@epam.com>
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos Q
+ uirarte":http://coderetreat.org/profile/CarlosQuirarte
+END:VEVENT
+END:VCALENDAR

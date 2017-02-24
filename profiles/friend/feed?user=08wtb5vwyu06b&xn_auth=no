@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=08wtb5vwyu06b&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:18:48Z</updated>
+                            <author>
+                    <name>Carlos Quirarte</name>
+                    <uri>http://coderetreat.org/profile/CarlosQuirarte</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/-M5JLAFxn1GLRYDxj6Zor08yIodL0Xdcm-9m9Fl11ev*aHyf4DNm5EcaVbrqtbTuXLvRoDYoFKv*WTav0M0EcBd2Lq9r0FFU/1142565637.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=08wtb5vwyu06b&amp;xn_auth=no</id>
+                            <entry>
+                    <title>edwin.cruz</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/edwincruz"/>
+                                        <id>tag:coderetreat.org,2011-11-29:6456126:User:2195</id>
+                                        <updated>2011-11-29T03:42:41.363Z</updated>
+                    
+                                            <author>
+                            <name>Carlos Quirarte</name>
+                            <uri>http://coderetreat.org/profile/CarlosQuirarte</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/yc9aOYoosDkjLJpfVDXD9xAT1zzENq*ApaM-9q4DWXRLxv1dC8SOVwU4WB4GavCiMnxmK--W3mwnxlSQSnMjFF6HYRBUUKU1/899484869.jpeg?xgip=96%3A0%3A479%3A479%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;edwin.cruz&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/yc9aOYoosDkjLJpfVDXD9xAT1zzENq*ApaM-9q4DWXRLxv1dC8SOVwU4WB4GavCiMnxmK--W3mwnxlSQSnMjFF6HYRBUUKU1/899484869.jpeg?xgip=96%3A0%3A479%3A479%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;edwin.cruz&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

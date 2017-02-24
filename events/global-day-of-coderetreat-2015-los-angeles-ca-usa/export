@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47519
+DTSTAMP:20170129T103708Z
+SUMMARY:Global Day of Coderetreat 2015 - Los Angeles, CA, USA
+DESCRIPTION:Join 8th Light and Scopely for GDCR 2015 at Scopely's offi
+ ces in Culver City!\nSpace is limited, please RSVP here:\nhttps://www.
+ eventbrite.com/e/global-day-of-coderetreat-nov-14-tickets-19090238417\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2015-los-angeles-ca-usa
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Scopely HQ
+WEBSITE:http://scopely.com
+URL:http://scopely.com
+CONTACT:
+ORGANIZER;CN="Tomas Pulmano":http://coderetreat.org/profile/TomasPulma
+ no
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/HfIXzVrPfI0Gw
+ Q4HF9seyimGWzwbdvNc-mDsaxynEgsK5kt1bcCbWTHWv1s0z8oxzEBY6PCELR3FS41onhq
+ niw2HqjBj5JHB/320pxCulvercity5044804355_12843d66a2_o.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tomas Pu
+ lmano":http://coderetreat.org/profile/TomasPulmano
+END:VEVENT
+END:VCALENDAR

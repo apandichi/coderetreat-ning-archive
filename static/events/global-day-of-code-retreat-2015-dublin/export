@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49221
+DTSTAMP:20170129T121857Z
+SUMMARY:Global Day of Coderetreat 2015 - Dublin, Ireland
+DESCRIPTION:We are hosting the Dublin event of the Global day of code 
+ retreat in the Intercom offices.\nYou'll need to register here, https
+ ://ti.to/global-day-of-code-retreat-dublin/2015-edition. \nYou can fi
+ nd more details about the day here http://globalday.coderetreat.org/\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-code-retreat-2015-dublin
+DTSTART:20151114T093000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Intercom Offices,
+WEBSITE:https://ti.to/global-day-of-code-retreat-dublin/2015-edition
+URL:https://ti.to/global-day-of-code-retreat-dublin/2015-edition
+CONTACT:
+ORGANIZER;CN="Serena Fritsch":http://coderetreat.org/profile/SerenaFri
+ tsch
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Serena F
+ ritsch":http://coderetreat.org/profile/SerenaFritsch
+END:VEVENT
+END:VCALENDAR

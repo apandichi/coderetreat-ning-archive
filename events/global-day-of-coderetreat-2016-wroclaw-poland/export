@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:52938
+DTSTAMP:20170129T112407Z
+SUMMARY:Global Day of Coderetreat 2016 - Wroclaw, Poland
+DESCRIPTION:Plain, great Global Day of CodeRetreat!\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 16-wroclaw-poland
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:(to be announced)
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Maciej Talaśka":http://coderetreat.org/profile/MaciejTa
+ laska
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Maciej T
+ alaśka":http://coderetreat.org/profile/MaciejTalaska
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Cyryl P
+ łotnicki":http://coderetreat.org/profile/CyrylPlotnicki
+END:VEVENT
+END:VCALENDAR

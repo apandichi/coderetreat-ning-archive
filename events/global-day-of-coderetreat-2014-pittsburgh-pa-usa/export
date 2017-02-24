@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37201
+DTSTAMP:20170129T120730Z
+SUMMARY:Global Day of Coderetreat 2014 - Pittsburgh, PA, USA
+DESCRIPTION:Pittsburgh, PA is participating in the Global Day of Coder
+ etreat 2014!\n\n\nRead more at https://gdcr14pgh.eventbrite.com.\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2014-pittsburgh-pa-usa
+DTSTART:20141115T083000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:IBM
+WEBSITE:http://gdcr14pgh.eventbrite.com
+URL:http://gdcr14pgh.eventbrite.com
+CONTACT:
+ORGANIZER:Coderetreat Pittsburgh
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/A-O3-ddfZs3gi
+ Uaxf0vQgFfSkpJYCOQhY8uJc8U3ao392I4AWA7n*OKeSSPELMNIeXFK0CoAG-Mt*OIVET0
+ MjeRB5CKixpwu/Pittsburgh.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

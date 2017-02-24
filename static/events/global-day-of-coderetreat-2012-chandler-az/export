@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16692
+DTSTAMP:20170129T134328Z
+SUMMARY:Global Day of Coderetreat 2012 - Chandler, AZ / USA
+DESCRIPTION:Announcing Global Day of Coderetreat in the Chandler, Ariz
+ ona area.\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-2012-chandler-az
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Gangplank
+WEBSITE:http://gangplankhq.com
+URL:http://gangplankhq.com
+CONTACT:6232525849
+ORGANIZER;CN="Roy van de Water":http://coderetreat.org/profile/Royvand
+ eWater
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joshua P
+ adgett":http://coderetreat.org/profile/JoshuaPadgett
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lindsey 
+ MacNeil":http://coderetreat.org/profile/LindseyMacNeil
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Moo
+ ring":http://coderetreat.org/profile/PaulMooring
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roy van 
+ de Water":http://coderetreat.org/profile/RoyvandeWater
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Tomasz 
+ Stechly":http://coderetreat.org/profile/TomaszStechly
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Leo Sin
+ gh":http://coderetreat.org/profile/LeoSingh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jon Gor
+ don":http://coderetreat.org/profile/JonGordon
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Anurag 
+ Mandloi":http://coderetreat.org/profile/AnuragMandloi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Justin 
+ James":http://coderetreat.org/profile/JustinJames
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Don Lea
+ tham":http://coderetreat.org/profile/DonLeatham
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Theresa
+  Cuprak":http://coderetreat.org/profile/TheresaCuprak
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="kenneth
+  kapchan":http://coderetreat.org/profile/kennethkapchan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Derek N
+ eighbors":http://coderetreat.org/profile/DerekNeighbors
+END:VEVENT
+END:VCALENDAR

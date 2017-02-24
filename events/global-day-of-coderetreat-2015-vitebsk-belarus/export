@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48018
+DTSTAMP:20170129T121251Z
+SUMMARY:Global Day of Coderetreat 2015 - Vitebsk, Belarus
+DESCRIPTION:If you have any questions, please contact: OrgCoderetreat@
+ epam.com Checkout more details here: https://events.epam.com/events/co
+ deretreat-vitebsk\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-coderetreat-2015-vitebsk-belarus
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:11-a, 308
+WEBSITE:https://www.google.com/maps/place/%D0%BF%D1%80%D0%BE%D1%81%D0%
+ BF.+%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9+11%D0
+ %90,+%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA/@55.1707634,30.213962,
+ 18z/data=!3m1!4b1!4m2!3m1!1s0x46c57168d33e72ff:0xe8613fce8a9e11aa?hl=r
+ u
+URL:https://www.google.com/maps/place/%D0%BF%D1%80%D0%BE%D1%81%D0%BF.+
+ %D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9+11%D0%90,
+ +%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA/@55.1707634,30.213962,18z/
+ data=!3m1!4b1!4m2!3m1!1s0x46c57168d33e72ff:0xe8613fce8a9e11aa?hl=ru
+CONTACT:
+ORGANIZER;CN="Yauhen Trehubenkau":http://coderetreat.org/profile/Yauhe
+ nTrehubenkau
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yauhen T
+ rehubenkau":http://coderetreat.org/profile/YauhenTrehubenkau
+END:VEVENT
+END:VCALENDAR

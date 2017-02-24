@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37482
+DTSTAMP:20170129T105129Z
+SUMMARY:Global Day of Coderetreat 2014 - Hyderabad, India
+DESCRIPTION:Please find event detail at  at http://www.meetup.com/ju
+ ghyderabad/events/201470272/\n\nFor more information visit http://code
+ retreat.org/events/global-day-of-coderetreat-2014-hyderabad-india
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14, india, hyderabad, jug
+LOCATION:Oracle Campus, Hyderabad
+WEBSITE:http://www.meetup.com/jughyderabad/events/201470272/
+URL:http://www.meetup.com/jughyderabad/events/201470272/
+CONTACT:+917680936123
+ORGANIZER;CN="Rajmahendra Hegde":http://coderetreat.org/profile/rajmah
+ endra
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/w3eiFFRDzzfxj
+ 3uAJJlj906Du*0nUo4m0-xQORWj9xqpiGwAngRLxVACfi2icD1WNgk2xRwiEuQHlCtlHm5
+ kwTDd*ALdS494/global_192600872.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rajmahen
+ dra Hegde":http://coderetreat.org/profile/rajmahendra
+END:VEVENT
+END:VCALENDAR

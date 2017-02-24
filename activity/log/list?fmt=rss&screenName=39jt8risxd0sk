@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Aurélien Pelletier&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AurelienPelletier</link>
+        <pubDate>Sun, 29 Jan 2017 11:36:58 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:36:58 +0000</lastBuildDate>
+        <image>
+            <title>Aurélien Pelletier&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AurelienPelletier</link>
+            <url>http://api.ning.com:80/files/etaPLs1LEXKMj*PgsYQvoY7laNG7rTxiG-uky3XmNO28pMWeKjaBf8wpy-7HdZR62-H5nPvObcGiUkVhuppoZpJ-CDAzZolr/1087891340.png?xgip=0%3A0%3A526%3A526%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010fe6849dfd3f7c2d4b3126a</guid>
+               <title>Aurélien Pelletier updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AurelienPelletier?xg_source=activity">Aur&eacute;lien Pelletier</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity" ><img src="http://api.ning.com/files/etaPLs1LEXJ0YOKwavS-4YevdpTqG3I0jlQDmGTQWNgsnRDQplnPdJsNGOw5uHSSXMasQ*LJqLN5rk-5Z3VJRWz4fF5UMxWg/sfeir.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity">Global Day of Coderetreat 2014 - Paris, France</a> at Paris</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Pour ce global day of coderetreat Sfeir ouvre ses locaux pour accueillir tous les passionés de code. Une journée pour développeur, sans la pression de produire, juste pour le fun, juste pour apprendre. Venez nombreux !Inscriptions sur le <a href="http://www.meetup.com/paris-software-craftsmanship/events/215381682/" target="_blank">meetup Software Craftmanship Paris</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 26 Oct 2014 17:53:55 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010fe68497d915f54180bceb5</guid>
+               <title>Aurélien Pelletier posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AurelienPelletier?xg_source=activity">Aur&eacute;lien Pelletier</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity" ><img src="http://api.ning.com/files/etaPLs1LEXJ0YOKwavS-4YevdpTqG3I0jlQDmGTQWNgsnRDQplnPdJsNGOw5uHSSXMasQ*LJqLN5rk-5Z3VJRWz4fF5UMxWg/sfeir.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity">Global Day of Coderetreat 2014 - PARIS, FRANCE</a> at Paris</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Pour ce global day of coderetreat Sfeir ouvre ses locaux pour accueillir tous les passionés de code. Une journée pour développeur, sans la pression de produire, juste pour le fun, juste pour apprendre. Venez nombreux !Inscriptions sur le <a href="http://www.meetup.com/paris-software-craftsmanship/events/215381682/" target="_blank">meetup Software Craftmanship Paris</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:40166?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 24 Oct 2014 05:43:59 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27657
+DTSTAMP:20170129T103925Z
+SUMMARY:Coderetreat in the Mountains, Romania, Bran
+DESCRIPTION:Please see more details here: http://www.meetup.com/The-Bu
+ charest-Agile-Software-Meetup-Group/events/138912742/\n\nFor more info
+ rmation visit http://coderetreat.org/events/coderetreat-in-the-mountai
+ ns-romania-bran
+DTSTART:20131019T093000Z
+DTEND:20131019T180000Z
+CATEGORIES:coderetreat
+LOCATION:Tohanita, Bran, Brasov, Romania
+WEBSITE:http://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Grou
+ p/events/138912742/
+URL:http://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/ev
+ ents/138912742/
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

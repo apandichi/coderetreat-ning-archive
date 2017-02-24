@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:20278
+DTSTAMP:20170129T125405Z
+SUMMARY:Coderetreat Joensuu, Finland
+DESCRIPTION:8.00 - 9.00 : arrival, coffee/breakfast 9.00 - 9:15 : welc
+ ome, introductions, explanation of the problem 9.15 - 10.00 : Session 
+ #1 10.00 - 10.15 : retrospective, break 10.15 - 11.00 : Session #2 11.
+ 00 - 11.15 : retrospective, break 11.15 - 12.00 : Session #3 12.00 - 1
+ 2.15 : retrospective, break 12.15 - 13.30 : lunch, socializing 13.30 -
+  14.15 : Session #4 14.15 - 14.30 : retrospective, break 14.30 - 15.15
+  : Session #5 15.15 - 15.30 : retrospective, break 15.30 - 16.15 : Ses
+ sion #6 16.15 - 16.30 : retrospective, break 16.30 - 17.00 : Closing c
+ ircle\n\nRegister here\n\nFor more information visit http://coderetre
+ at.org/events/coderetreat-joensuu-finland
+DTSTART:20130223T000000Z
+DTEND:20130223T235900Z
+CATEGORIES:coderetreat
+LOCATION:Joensuu - to be defined
+WEBSITE:https://www.lyyti.fi/ilmoittaudu/Coderetreat_Joensuu_6724
+URL:https://www.lyyti.fi/ilmoittaudu/Coderetreat_Joensuu_6724
+CONTACT:
+ORGANIZER:Jussi Kukkonen
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

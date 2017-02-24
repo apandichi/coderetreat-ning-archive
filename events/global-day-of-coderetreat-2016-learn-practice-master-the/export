@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54976
+DTSTAMP:20170129T100433Z
+SUMMARY:Global Day Of CodeRetreat 2016 - Oxford, UK
+DESCRIPTION:When it comes to practicing and mastering programming skil
+ ls, it’s not practice that makes perfect, but perfect practice that 
+ makes perfect. That is the thinking behind the Code Retreat, which pro
+ vides developers with the opportunity to take part in focused practice
+ . The aim, for attendees, is to learn, practice and master coding tech
+ niques with the express intent of becoming better at their craft, and 
+ improving their ability to produce high-quality product.\n\nPlease reg
+ ister yourself here:\n\n https://www.meetup.com/Agile-Software-Develo
+ pment-Oxfordshire/events/234142930/\n\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2016-learn-pract
+ ice-master-the
+DTSTART:20161022T093000Z
+DTEND:20161022T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Oxford
+WEBSITE:https://www.meetup.com/Agile-Software-Development-Oxfordshire/
+ events/234142930/
+URL:https://www.meetup.com/Agile-Software-Development-Oxfordshire/even
+ ts/234142930/
+CONTACT:07557481324
+ORGANIZER;CN="Saqib Hussain":http://coderetreat.org/profile/SaqibHussa
+ in
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/iwncuNArSGAqT
+ Ft4SplMlDysHs1VFGHu25Ug7MvquoAfxFn6zoZI3qLhx6tPcALYb-Wml7V0T-0V1Ix9MaZ
+ QseAqJv59QVij/Elsevieroutside.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Saqib Hu
+ ssain":http://coderetreat.org/profile/SaqibHussain
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Hujer":http://coderetreat.org/profile/ChristianHujer
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27676
+DTSTAMP:20170129T115246Z
+SUMMARY:Global Day of Coderetreat 2013 - Warsaw, Poland
+DESCRIPTION:Global Day of Coderetreat 2013 - Warsaw, Poland, co-hosted
+  with Agile Development Day 2013.\nOrganized by Pragmatists and Sages
+ .\n\nFor more information visit http://coderetreat.org/events/global-d
+ ay-of-coderetreat-2013-warsaw-poland
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Millenium Plaza
+WEBSITE:http://www.agiledevelopmentday.pl
+URL:http://www.agiledevelopmentday.pl
+CONTACT:
+ORGANIZER;CN="Agile Development Day":http://coderetreat.org/profile/Ag
+ ileDevelopmentDay
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/v2lbj4A*dlNWi
+ bkvdmrYXchPiio2b2xEcCSIySpjXZzZbNARkCx9ncjv6g4dDwlKD4x15GCpIXCV2Fhh2TH
+ 3I2-8L-lM0S5Q/original.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Agile De
+ velopment Day":http://coderetreat.org/profile/AgileDevelopmentDay
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:18189
+DTSTAMP:20170129T113524Z
+SUMMARY:Global Day of Coderetreat 2012 - Karachi / Pakistan
+DESCRIPTION:In collaboration with JUGKarachi and Pakistan Java User Gr
+ oup, Active Capital IT is hosting a Global Code Retreat Day. What you 
+ get to do is:-\n Meet other like minded developers and be part of a br
+ oader initiative Get to mentor other developers from the industry and 
+ learn from them.\n Learn new tools, technologies and languages (Differ
+ ent and diverse programming languages and perspectives are appreciated
+ ). Kudos to the person who can implement the Game of Life in Stored Da
+ tabase Procedures :)\n Come up with your own game plan and learn about
+  concepts such as code coverage, pair programming, good design and hap
+ py coding.\n Register Here\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2012-karachi-pakistan
+DTSTART:20121208T100000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat, day
+LOCATION:Active Capital IT, Karachi
+WEBSITE:http://www.acit.com/contact/
+URL:http://www.acit.com/contact/
+CONTACT:+92-321-5007325
+ORGANIZER;CN="Shahzad Badar":http://coderetreat.org/profile/ShahzadBad
+ ar
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/s8S85nPrNjo-8
+ rAZFasW8wXCopg-GavWshxAWydC-lERj9Nz7ivcQXDN47Wt2mzR1L*0glSbKVAD*lBfkjF
+ a9xlUleFXundL/0872291001342634195.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Shahzad 
+ Badar":http://coderetreat.org/profile/ShahzadBadar
+END:VEVENT
+END:VCALENDAR

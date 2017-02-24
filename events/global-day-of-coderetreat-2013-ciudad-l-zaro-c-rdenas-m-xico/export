@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:31384
+DTSTAMP:20170129T121001Z
+SUMMARY:Global Day of Coderetreat 2013 - Ciudad Lázaro Cárdenas, Mex
+ ico
+DESCRIPTION:Programadores reunidos en un solo lugar con el fin de comp
+ artir conocimientos, charlas y consejos sobre el arte de desarrollar S
+ oftware usando el formato de Code Retreat, no importa el lenguaje que 
+ domines PHP, Java, C++, etc ¡todos estan invitados!\nComenzando con 6
+  charlas de 10 minutos cada una hablando sobre las experiencias, el c�
+ �digo y el poder mágico que se tiene al construir aplicaciones dadas 
+ por:\n\nCarlos Pérez: Artesanía del Software.\nJaime Ferreyra: Intr
+ oducción a SCALA.\nIván Bravo: Programar es divertido, Hackear tam
+ bién.\nAlejandro Reyes: Pendiente.\nAraceli Velázques: Pendiente.\nM
+ arcelo Alonso: Pendiente.\n\nAl finalizar se tendrá la experiencia de
+  crear un servidor de Chat básico bajo NodeJS así que lleva tu edi
+ tor de código (IDE) favorito y ganas de programar con los demás.\n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2013-ciudad-l-zaro-c-rdenas-m-xico
+DTSTART:20131214T090000Z
+DTEND:20131214T130000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Tecnológico de Lázaro Cárdenas
+WEBSITE:https://maps.google.com/?q=Tecnologico+de+Lazaro+Cardenas&outp
+ ut=classic
+URL:https://maps.google.com/?q=Tecnologico+de+Lazaro+Cardenas&output=c
+ lassic
+CONTACT:
+ORGANIZER:Carlos Pérez
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Iván Br
+ avo Bravo":http://coderetreat.org/profile/IvanBravoBravo
+END:VEVENT
+END:VCALENDAR

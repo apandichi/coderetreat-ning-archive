@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15797
+DTSTAMP:20170129T101311Z
+SUMMARY:Global Day of Coderetreat 2012 - Haarlem / The Netherlands
+DESCRIPTION:Join us for the Global Day of Code Retreat 2012 at the iPR
+ OFS office in Haarlem.\nRSVP here: http://global-code-retreat-haarlem
+ .eventzilla.net/\n\nFor more information visit http://coderetreat.org/
+ events/global-day-of-coderetreat-2012-haarlem-the-netherlands
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:gdcr, coderetreat
+LOCATION:Haarlem, The Netherlands
+WEBSITE:http://global-code-retreat-haarlem.eventzilla.net/
+URL:http://global-code-retreat-haarlem.eventzilla.net/
+CONTACT:023-5476369
+ORGANIZER;CN="Bart Bakker":http://coderetreat.org/profile/bjpbakker
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/**4vjJb2flxxt
+ ggg4EuX8qyu4Pgqi9bTdyDXQgwtAqvk5z01QgYTEUolCg07VNmkTQ1RxdGpMVu3aDn-BCA
+ pQ7KUOh8gxpM6/iPROFSbuilding.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bart Bak
+ ker":http://coderetreat.org/profile/bjpbakker
+END:VEVENT
+END:VCALENDAR

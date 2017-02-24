@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50645
+DTSTAMP:20170129T113642Z
+SUMMARY:Global Day of Coderetreat 2015 - Izhevsk, Russia
+DESCRIPTION: \n \n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-coderetreat-2015-izhevsk-russia
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Izhevsk, Russia
+WEBSITE:https://events.epam.com/events/coderetreat-izhevsk
+URL:https://events.epam.com/events/coderetreat-izhevsk
+CONTACT:
+ORGANIZER;CN="Pavel  Lasarev":http://coderetreat.org/profile/PavelLasa
+ rev
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pavel  L
+ asarev":http://coderetreat.org/profile/PavelLasarev
+END:VEVENT
+END:VCALENDAR

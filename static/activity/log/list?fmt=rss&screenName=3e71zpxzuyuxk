@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Navin K&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/NavinK</link>
+        <pubDate>Sun, 29 Jan 2017 11:12:10 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:12:10 +0000</lastBuildDate>
+        <image>
+            <title>Navin K&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/NavinK</link>
+            <url>http://api.ning.com:80/files/8LZ1HLgJWwpiodN60xVUV-PPqZvJX-PmixQ9Lgz2VKry90s9Vje80Jc**VbjqzoaSsKmfJP2JxtMiVR7szcwLrSxkO2rFgMn/593470802.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009d14a6ad1c19eebac3ae452</guid>
+               <title>Navin K posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:4558?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/NavinK?xg_source=activity">Navin K</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:4558?xg_source=activity">Simple Design</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:4558">Cross post from my blog - original at <a href="http://novemberkilo.com/2011/12/principle-of-simple-design/">http://novemberkilo.com/2011/12/principle-of-simple-design/</a>Yesterday I attended the <a href="http://coderetreat.org/events/global-day-of-coderetreat-2011">Global Day of Code Retreat, 2011</a> in Sydney. We were incredibly privileged to have the creator of Code Retreat, <a href="http://twitter.com/coreyhaines">Corey Haines</a> facilitating.I found the experience to be really very profound and recommend it without reserve to developers of all levels.Here are some of the things I took from the day:My C++/RUP based thinking of OO really needs a makeoverI thought I was practising Test Driven Development (TDD) but I now see how narrow my understanding of TDD was. The evil coder or Mute with Find the Loophole session of the retreat was simultaneously hilarious, frustrating and enlightening on how well tests actually serve as a specification for codeThe principles of Simple Design (attributed to the best of my knowledge to Kent Beck and Ron Jeffries in the Extreme Programming book)I’ve come across each of the 4 principles of simple design but when I heard Corey talk through them in sequence, it really made a difference to the way I understand them. I know that this understanding will change as I practice with them and I will not remember them as well when I am in the thick of the work day, so I’m writing them down here as a note to self:Runs all the testsExpresses every idea that we need to expressSays everything once and only onceHas no superfluous partsI look forward to practicing the principles I learned at code retreat. I have no doubt that I have had a step change in my perspective as a programmer - more power to Corey’s efforts at <a href="http://coderetreat.org/">coderetreat.org</a> I say!<a class="continue-link" href="http://coderetreat.org/profiles/blogs/simple-design">See More</a></div></div></div></div>]]></description>
+               <pubDate>Sun, 04 Dec 2011 22:48:44 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d14a6a8546441e9f23fcd8</guid>
+               <title>Navin K is attending corey haines&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:2587?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/NavinK?xg_source=activity">Navin K</a> is attending <a href="http://coderetreat.org/profile/128952ghvkcvj?xg_source=activity">corey haines's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:2587?xg_source=activity">Global  Day of Coderetreat in Sydney, Australia</a> at Thoughtworks Office</h3><div class="rich-detail"><div class="rich-date">December 3, 2011 from 8:30am to 5pm</div><div class="rich-excerpt">Part of the global day. <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:2587?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 03 Dec 2011 21:54:17 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d14a6aad0247892a43059f</guid>
+               <title>Navin K is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/NavinK?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/NavinK?xg_source=activity">Navin K</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Sat, 03 Dec 2011 21:54:03 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:35844
+DTSTAMP:20170129T104133Z
+SUMMARY:Refactoring Code Retreat
+DESCRIPTION:Join us for a day of having fun with Legacy Code!\n\nFor m
+ ore information visit http://coderetreat.org/events/refactoring-code-r
+ etreat-1
+DTSTART:20140816T083000Z
+DTEND:20140816T180000Z
+CATEGORIES:legacy, coderetreat
+LOCATION:REA
+WEBSITE:http://www.eventbrite.com.au/e/refactoring-code-retreat-melbou
+ rne-tickets-12272143311
+URL:http://www.eventbrite.com.au/e/refactoring-code-retreat-melbourne-
+ tickets-12272143311
+CONTACT:
+ORGANIZER;CN="Greg Dziemidowicz":http://coderetreat.org/profile/GregDz
+ iemidowicz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Dzi
+ emidowicz":http://coderetreat.org/profile/GregDziemidowicz
+END:VEVENT
+END:VCALENDAR

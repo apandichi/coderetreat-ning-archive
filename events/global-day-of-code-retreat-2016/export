@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53830
+DTSTAMP:20170129T112936Z
+SUMMARY:Global Day of Code Retreat 2016 - Frankfurt, Germany
+DESCRIPTION:Global Day of Code Retreat 2016\nAnmeldung: https://www.e
+ ventbrite.de/e/global-day-of-coderetreat-in-frankfurt-tickets-27930229
+ 067\n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-code-retreat-2016
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:gdcr, coderetreat, gdcr16, frankfurt
+LOCATION:itemis AG, Westendstraße 28, 60325 Frankfurt am Main
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN=Sven:http://coderetreat.org/profile/Sven
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Sven:http
+ ://coderetreat.org/profile/Sven
+END:VEVENT
+END:VCALENDAR

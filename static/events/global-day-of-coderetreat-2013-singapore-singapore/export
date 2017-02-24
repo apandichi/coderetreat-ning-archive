@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26699
+DTSTAMP:20170129T115114Z
+SUMMARY:Global Day of Coderetreat 2013 - Singapore, Singapore
+DESCRIPTION:This is the 2nd run of GDCR in Singapore. Once again, the 
+ event will be at the Neo office at 53A Craig Road. \n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-coderetreat-2
+ 013-singapore-singapore
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Neo Innovation
+WEBSITE:https://www.google.com.sg/maps/preview#!q=53+Craig+Road&data=!
+ 4m10!1m9!4m8!1m3!1d255278!2d103.824045!3d1.343746!3m2!1i1024!2i768!4f1
+ 3.1
+URL:https://www.google.com.sg/maps/preview#!q=53+Craig+Road&data=!4m10
+ !1m9!4m8!1m3!1d255278!2d103.824045!3d1.343746!3m2!1i1024!2i768!4f13.1
+CONTACT:
+ORGANIZER:Abhaya Shenoy & Gabe Hollombe
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Abhaya S
+ henoy":http://coderetreat.org/profile/AbhayaShenoy
+END:VEVENT
+END:VCALENDAR

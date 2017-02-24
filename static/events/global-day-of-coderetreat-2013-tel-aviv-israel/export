@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26560
+DTSTAMP:20170129T115046Z
+SUMMARY:Global Day of Coderetreat 2013 - Tel Aviv, Israel
+DESCRIPTION:The 3rd GDCR hosted and facilitated in TLV by eBay Israel\
+ n\nSign up @ coderetreat.co.il\n\nFor more information visit http://c
+ oderetreat.org/events/global-day-of-coderetreat-2013-tel-aviv-israel
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:eBay Israel Innovation Center's Offices
+WEBSITE:http://coderetreat.co.il
+URL:http://coderetreat.co.il
+CONTACT:
+ORGANIZER;CN="Yonatan Bergman":http://coderetreat.org/profile/YonatanB
+ ergman
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/zKTAwOrzxQKeP
+ oFsnmIZD-WTWbCDrHcd63QLiieqQxnr7sctH21EX2J4kokcCO1aYaqB7B8llNaoGcPWSn8
+ yCt44-NhIkm0X/08IMG_N.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yonatan 
+ Bergman":http://coderetreat.org/profile/YonatanBergman
+END:VEVENT
+END:VCALENDAR

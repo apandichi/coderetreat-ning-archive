@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37549
+DTSTAMP:20170129T120838Z
+SUMMARY:Global Day of Coderetreat 2014 - Istanbul, Turkey
+DESCRIPTION:We are proud to announce that Agile Turkey will be host GD
+ CR 2014 event in Istanbul.Â \nStay tuned for further information!\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2014-in-istanbul-turkey
+DTSTART:20141115T090000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Agile Turkey":http://coderetreat.org/profile/AgileTurkey
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="kasÄ±m Ã
+ ¶tkÃ¼n":http://coderetreat.org/profile/kasimoetkuen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kemal Di
+ ri":http://coderetreat.org/profile/KemalDiri
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sevgi Ko
+ rkmaz":http://coderetreat.org/profile/SevgiKorkmaz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lemi Orh
+ an Ergin":http://coderetreat.org/profile/LemiOrhanErgin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sinan Ac
+ ikal":http://coderetreat.org/profile/sinanacikal
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Agile Tu
+ rkey":http://coderetreat.org/profile/AgileTurkey
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Tamer S
+ ezgin":http://coderetreat.org/profile/TamerSezgin
+END:VEVENT
+END:VCALENDAR

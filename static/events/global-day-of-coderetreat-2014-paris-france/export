@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37528
+DTSTAMP:20170129T100531Z
+SUMMARY:Global Day of Coderetreat 2014 - Paris, France
+DESCRIPTION:Pour la 3e année consécutive, Arolla vous accueille dans
+  le cadre du Global Day of Coderetreat. Venez partager vos bonnes prat
+ iques et progresser avec d'autres passionnés!\n\nFor more information
+  visit http://coderetreat.org/events/global-day-of-coderetreat-2014-pa
+ ris-france
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Paris
+WEBSITE:http://www.arolla.fr
+URL:http://www.arolla.fr
+CONTACT:
+ORGANIZER;CN=Arolla:http://coderetreat.org/profile/Arolla
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Laurent 
+ Fallet":http://coderetreat.org/profile/LaurentFallet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Florian 
+ Mousseau":http://coderetreat.org/profile/FlorianMousseau
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nicolas 
+ Bétheuil":http://coderetreat.org/profile/NicolasBetheuil
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jean-Fra
+ nçois Saguin":http://coderetreat.org/profile/SaguinJeanFrancois
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Maxime B
+ eugnet":http://coderetreat.org/profile/MaximeBeugnet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Maxime:ht
+ tp://coderetreat.org/profile/Maxime
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="fabien m
+ aury":http://coderetreat.org/profile/fabienmaury
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cyril Qu
+ andalle":http://coderetreat.org/profile/CyrilQuandalle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jerome S
+ t-Pierre":http://coderetreat.org/profile/JeromeStPierre
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ly-Jia G
+ oldstein":http://coderetreat.org/profile/LyJiaGoldstein
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Xavier D
+ etant":http://coderetreat.org/profile/XavierDetant
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mario Lo
+ riedo":http://coderetreat.org/profile/MarioLoriedo
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mickael 
+ Metesreau":http://coderetreat.org/profile/MickaelMetesreau
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Romeu MO
+ URA":http://coderetreat.org/profile/RomeuMOURA
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patrick 
+ GIRY":http://coderetreat.org/profile/PatrickGIRY
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Arolla:ht
+ tp://coderetreat.org/profile/Arolla
+END:VEVENT
+END:VCALENDAR

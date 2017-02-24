@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55026
+DTSTAMP:20170129T113054Z
+SUMMARY:Global Day of Coderetreat 2016 - Hangzhou, China
+DESCRIPTION:As a person who loves programming, have you ever regretted
+  not crafting your source code into a beautiful one piece, due to sche
+ dule pressure? Or have you had trouble  in finding the right person f
+ or a deep discussion on programming issues?  We can help you to remov
+ e these trouble.   In Global Day of Coderetreat (GDCR), you’ll have
+  an environment without schedule pressure, spend one day coding for fu
+ n, craft your source code, and try different engineering practices. Me
+ anwhile, you can discuss with people around you who may share common i
+ nterests.   On this day, you’ll practice part or all of below topic
+ s according to participants average level: •            
+    Pair-programming •               Unit test • �
+ �             Test driven development (TDD) •     �
+ �         Code refactoring •               SW 
+ design   In each session there’re some interesting rules/limitation
+ s, to guide people go beyond the border of their programming habits, a
+ nd re-think about the important aspects of programming.   Coderetreat
+  home page:  www.coderetreat.org GDCR web page:  http://gdcr.coderet
+ reat.org/    Ticket: Free, and with free lunch (Nokia HZ TC sponsors
+  it)  \n\nFor more information visit http://coderetreat.org/events/gl
+ obal-day-of-coderetreat-2016-hangzhou-china
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Hangzhou
+WEBSITE:https://www.google.com/maps/place/%E8%AF%BA%E5%9F%BA%E4%BA%9A%
+ E8%A5%BF%E9%97%A8%E5%AD%90%E9%80%9A%E4%BF%A1/@30.1898557,120.1685573,1
+ 5.75z/data=!4m5!3m4!1s0x0:0x40046dc9d2333c06!8m2!3d30.1884637!4d120.17
+ 20619
+URL:https://www.google.com/maps/place/%E8%AF%BA%E5%9F%BA%E4%BA%9A%E8%A
+ 5%BF%E9%97%A8%E5%AD%90%E9%80%9A%E4%BF%A1/@30.1898557,120.1685573,15.75
+ z/data=!4m5!3m4!1s0x0:0x40046dc9d2333c06!8m2!3d30.1884637!4d120.172061
+ 9
+CONTACT:
+ORGANIZER;CN="Liao-Yuan Zhang":http://coderetreat.org/profile/LiaoYuan
+ Zhang
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/2MYPqfpvPU2Yr
+ c*Vj57vSZWJtXXGpwUB*vZ5yB5zEBX2*qOih0u0fbAtyIzBAQxUBak744oJ7rbzP*bIK4a
+ S23PQqgdwGWEW/DSC_0880.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Liao-Yua
+ n Zhang":http://coderetreat.org/profile/LiaoYuanZhang
+END:VEVENT
+END:VCALENDAR

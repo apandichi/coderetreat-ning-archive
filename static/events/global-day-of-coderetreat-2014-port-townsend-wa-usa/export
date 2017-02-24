@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39557
+DTSTAMP:20170129T120454Z
+SUMMARY:Global Day of Coderetreat 2014 - Port Townsend, WA, USA
+DESCRIPTION:Held at The CoLab, a beautiful co-working space in Port To
+ wnsend. \nMore details and RSVP at http://go.ptcolab.com/en/events/v
+ iew/22195173/port-townsend-code-retreat\n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-coderetreat-2014-port-town
+ send-wa-usa
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:The CoLab
+WEBSITE:https://www.google.com/maps/place/The+CoLab/@48.114968,-122.75
+ 7196,17z/data=!3m1!4b1!4m2!3m1!1s0x548fedc6f200cbd9:0x3d2ed7d5e3f826b3
+URL:https://www.google.com/maps/place/The+CoLab/@48.114968,-122.757196
+ ,17z/data=!3m1!4b1!4m2!3m1!1s0x548fedc6f200cbd9:0x3d2ed7d5e3f826b3
+CONTACT:(360) 385-9655
+ORGANIZER;CN="Jay Bazuzi":http://coderetreat.org/profile/JayBazuzi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jay Bazu
+ zi":http://coderetreat.org/profile/JayBazuzi
+END:VEVENT
+END:VCALENDAR

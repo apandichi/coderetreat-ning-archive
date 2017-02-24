@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>David Adsit&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1evoxo52qt392&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:12:25Z</updated>
+                            <author>
+                    <name>David Adsit</name>
+                    <uri>http://coderetreat.org/profile/DavidAdsit</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/jsxW24cFoEg38rLXrI8EfjejBzGDtGh0q9tm4JKmWivbYxfQhC*QeSZySyz3IJjpCNxKmPoUzvlLQNzpoDZzyOP6Xbj1vVZ3/1045007379.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1evoxo52qt392&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Coderetreat - Attendee Report</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4372"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:BlogPost:4372</id>
+                                        <updated>2011-12-04T22:13:22.000Z</updated>
+                    
+                                            <author>
+                            <name>David Adsit</name>
+                            <uri>http://coderetreat.org/profile/DavidAdsit</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Yesterday was my first opportunity to attend a Coderetreat. I am so glad I did. What an amazing day. I think every developer should attend a Coderetreat. Using the closing circle format, allow me to share my experience as an attendee of the Salt Lake City event.&lt;/p&gt;
+&lt;h3&gt;&lt;br&gt;&lt;/br&gt; What, if anything, did you learn today?&lt;/h3&gt;
+&lt;br&gt;&lt;/br&gt; I learned that I need to slow down and focus on writing code well. The mute session taught me how hard it is to see an architectural vision from the code. It felt like…                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Yesterday was my first opportunity to attend a Coderetreat. I am so glad I did. What an amazing day. I think every developer should attend a Coderetreat. Using the closing circle format, allow me to share my experience as an attendee of the Salt Lake City event.&lt;/p&gt;
+&lt;h3&gt;&lt;br/&gt; What, if anything, did you learn today?&lt;/h3&gt;
+&lt;br/&gt; I learned that I need to slow down and focus on writing code well. The mute session taught me how hard it is to see an architectural vision from the code. It felt like I was painting a picture using the &lt;a href=&quot;http://en.wikipedia.org/wiki/Stippling&quot;&gt;stippling technique&lt;/a&gt; and my pair could only see the dots, not the image. I learned that the idea of intention-revealing, self-documenting code cannot be judged by the author only by another developer.&lt;br/&gt;
+I also learned that Amber Smalltalk is pretty sweet. Thanks, Johnny T!&lt;h3&gt;&lt;br/&gt; What, if anything, surprised you today?&lt;/h3&gt;
+&lt;br/&gt; The biggest surprise for me was how many developers said the Coderetreat inspired them to go out and actually do TDD. I had expected that most of the attendees would be rather dogmatic about testing and TDD. I know that at several points, I had to remind my pair to write a test before the code.&lt;br/&gt;
+I was surprised at how far we got and how many tests we wrote in the mute session. It takes a lot of tests to reveal the intent sometimes. We had close to 40 tests when we deleted the folder.&lt;br/&gt;
+Also surprising was how hard the last session was. We were allowed to pick our own challenge and we really struggled with that. We kind of lost focus and switched challenges midway and by the end, I think we were just coding trying to get as far as we could in the problem.&lt;h3&gt;&lt;br/&gt; What, if anything, will you do differently in the future?&lt;/h3&gt;
+&lt;br/&gt; I will try harder to value the ideas of others and explore them more deeply. In the last session, my pair told me that was his first session with a bounded world. My pairs and I created a bounded world (array, list, matrix, grid) in every session. I need to open my mind more to alternate ways of accomplishing tasks.&lt;br/&gt;
+I also need to recognize how attached people can become to the code they write. I had no problem deleting the code I wrote, but more than one person expressed anxiety about it. When others change or remove the code I write, I assume they are improving the application in the best way they understand at that time, so I don&#039;t resent the changes. I need to remember that this is not a universally held belief and that changing another developer&#039;s code could be considered an insult or attack on them and their abilities.</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Global Day of Coderetreat - Organizing</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4460"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:BlogPost:4460</id>
+                                        <updated>2011-12-04T22:12:20.000Z</updated>
+                    
+                                            <author>
+                            <name>David Adsit</name>
+                            <uri>http://coderetreat.org/profile/DavidAdsit</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Yesterday was the first ever &lt;a href=&quot;http://coderetreat.org/&quot;&gt;Global Day of Coderetreat&lt;/a&gt;. Using the closing circle format, allow me to share my experience as an organizer of the Salt Lake City event.&lt;/p&gt;
+&lt;h3&gt;&lt;br&gt;&lt;/br&gt; What, if anything, did you learn today?&lt;/h3&gt;
+&lt;br&gt;&lt;/br&gt; The first lesson I (re-)learned as an organizer is that we have an awesome community both globally and locally. There were so many people willing to help out and make this a great day for coders. Of the many tasks required to…                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Yesterday was the first ever &lt;a href=&quot;http://coderetreat.org/&quot;&gt;Global Day of Coderetreat&lt;/a&gt;. Using the closing circle format, allow me to share my experience as an organizer of the Salt Lake City event.&lt;/p&gt;
+&lt;h3&gt;&lt;br/&gt; What, if anything, did you learn today?&lt;/h3&gt;
+&lt;br/&gt; The first lesson I (re-)learned as an organizer is that we have an awesome community both globally and locally. There were so many people willing to help out and make this a great day for coders. Of the many tasks required to make the day happen, I could only do a portion on my own.&lt;ul&gt;
+&lt;li&gt;Kay Johansen did an amazing job as the facilitator. I don&#039;t know how to thank her enough for all she did.&lt;/li&gt;
+&lt;li&gt;Mike Clement took the lead in communicating with the facility sponsor including making last minute calls to get doors unlocked so we could set up early.&lt;/li&gt;
+&lt;li&gt;The STG office staff, including Crystal, Kelly, Thayne, Marth, Ron and Chick, took care of our catering needs including correcting a communication error with the restaurant.&lt;/li&gt;
+&lt;li&gt;All of the attendees helped clean setup and clean up the room.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The most important lesson I learned through organizing the event is empathy for managers. The lunch mix-up is actually what triggered the epiphany for me. When you delegate an important task to someone else, you have to trust them to do it well. When lunch arrived and was only enough food for 6 people instead of 30, my very first reaction was,&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br/&gt; &lt;i&gt;&quot;I should not have trusted anyone else to take care of this.&lt;/i&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br/&gt; &lt;i&gt;I should have done it myself!&quot;&lt;/i&gt;&lt;/div&gt;
+&lt;p&gt;Fortunately, I have been working in agile development shops for years and I was able to focus on the solution rather than the problem. My excellent team members Martha, Ron and Chick sprang into action and got additional food ordered and delivered and everyone had a great lunch. Kay ran the prelunch session long so that people didn&#039;t realize they weren&#039;t eating. I think most of the attendees were thrilled for the extra time anyway.&lt;br/&gt; So, the next time a manager tries to micro manage the team or me directly, I will have a lot more empathy for that behavior. Rather than resenting their lack of trust, I will try to remember the way I felt when lunch arrived. Then I will work in a way that inspires trust, so that they don&#039;t have to feel let down or the desire to micromanage.&lt;/p&gt;
+&lt;h3&gt;&lt;br/&gt; What, if anything, surprised you today?&lt;/h3&gt;
+&lt;br/&gt; I think the biggest surprise was when lunch showed up.&lt;h3&gt;&lt;br/&gt; What, if anything, will you do differently in the future?&lt;/h3&gt;
+&lt;br/&gt; I&#039;m not really sure what I will do differently. I think that communicating expectations more clearly and communicating with my team more regularly will be part of it. The locked doors and lunch mix-up could have easily been avoided if we had communicated the needs of the event more clearly.&lt;h3&gt;&lt;br/&gt; Conclusion&lt;/h3&gt;
+&lt;br/&gt; This was a great experience for me. I will not shy away from participating in the organization of future events.</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26770
+DTSTAMP:20170129T115117Z
+SUMMARY:Global Day of Coderetreat 2013 - Cluj-Napoca, Romania
+DESCRIPTION:We are happy to put again Cluj-Napoca on  the Global Day
+  of Code Retreat map. Join us! For details and registration go to: ht
+ tp://www.rabs.ro Organized by Romanian Association for Better Software
+  (RABS)\n\nFor more information visit http://coderetreat.org/events/gl
+ obal-day-of-coderetreat-2013-cluj-napoca-romania
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:-
+WEBSITE:http://www.rabs.ro
+URL:http://www.rabs.ro
+CONTACT:0040742015389
+ORGANIZER;CN="Florin Coros":http://coderetreat.org/profile/FlorinCoros
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/FIt*ZFe6wNh82
+ FAv4zNLgLqiYFWUgXSiA2BN-BqTKsOePeRwBDnktDoYrjrZoqmocT1MBHC0fOHNny6lqdC
+ 6e01Ji80hLxp-/logo_reasonably_small.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Florin C
+ oros":http://coderetreat.org/profile/FlorinCoros
+END:VEVENT
+END:VCALENDAR

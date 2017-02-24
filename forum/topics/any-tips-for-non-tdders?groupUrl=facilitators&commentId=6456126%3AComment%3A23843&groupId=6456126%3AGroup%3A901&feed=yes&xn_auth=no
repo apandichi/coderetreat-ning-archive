@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Any tips for non-TDDers - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/any-tips-for-non-tdders?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A23843&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:33:11Z</updated>
+                        <id>http://coderetreat.org/forum/topics/any-tips-for-non-tdders?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A23843&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Curtis brought up the case wh…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:46715"/>
+                                        <id>tag:coderetreat.org,2015-09-30:6456126:Comment:46715</id>
+                                        <updated>2015-09-30T13:18:28.577Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Curtis brought up the case where attendees don&#039;t have a testing framework installed and the impact this has on their exploring TDD. I&#039;ve been very happily using &lt;a href=&quot;http://Cyber-dojo.org&quot; target=&quot;_blank&quot;&gt;Cyber-dojo.org&lt;/a&gt; for 2+ years now for this reason and many others. &lt;/p&gt;
+&lt;p&gt;Cyber-dojo.org &lt;em&gt;eliminates&lt;/em&gt; the need for any time spent on setup or configuration, loading additional gems, etc. by being entirely browser based. A wide range of language choices, each of which offers…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Curtis brought up the case where attendees don&#039;t have a testing framework installed and the impact this has on their exploring TDD. I&#039;ve been very happily using &lt;a href=&quot;http://Cyber-dojo.org&quot; target=&quot;_blank&quot;&gt;Cyber-dojo.org&lt;/a&gt; for 2+ years now for this reason and many others. &lt;/p&gt;
+&lt;p&gt;Cyber-dojo.org &lt;em&gt;eliminates&lt;/em&gt; the need for any time spent on setup or configuration, loading additional gems, etc. by being entirely browser based. A wide range of language choices, each of which offers one or more testing frameworks already configured and installed. It also eliminates IDE and my-favorite-editor wars and allows participants to get down to what they came for: coding with and learning from other awesome people.&lt;/p&gt;
+&lt;p&gt;The only complaint I get is that it&#039;s &lt;em&gt;not and IDE.&lt;/em&gt; It doesn&#039;t Eclipse/IntelliJ-like features like hints, keyword coloring, shortcuts, automated refactoring, in-line type-safe checking, etc. What it does do exceptionally well is reduce the focus to the code and the tests that demand the code into existence. &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thanks, I like the idea of de…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:23675"/>
+                                        <id>tag:coderetreat.org,2013-05-06:6456126:Comment:23675</id>
+                                        <updated>2013-05-06T14:06:23.729Z</updated>
+                    
+                                            <author>
+                            <name>Steven Mak</name>
+                            <uri>http://coderetreat.org/profile/StevenMak</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks, I like the idea of demo before they start practising.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks, I like the idea of demo before they start practising.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Great Point Curtis!
+Along tho…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:23843"/>
+                                        <id>tag:coderetreat.org,2013-05-06:6456126:Comment:23843</id>
+                                        <updated>2013-05-06T13:59:26.360Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Great Point Curtis!&lt;/p&gt;
+&lt;p&gt;Along those same lines, groups new to TDD often benefit from a demonstration of TDD. If you know off the bat that the group is new  to TDD, then you might want to demonstrate TDD in the morning during the introduction. I&#039;ve also done a demonstration over lunch after the group has had a chance to struggle with it in the morning. Ether way, a demo can go a long way in showing others how the TDD cycle works.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;cite&gt;Curtis Badke…&lt;/cite&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Great Point Curtis!&lt;/p&gt;
+&lt;p&gt;Along those same lines, groups new to TDD often benefit from a demonstration of TDD. If you know off the bat that the group is new  to TDD, then you might want to demonstrate TDD in the morning during the introduction. I&#039;ve also done a demonstration over lunch after the group has had a chance to struggle with it in the morning. Ether way, a demo can go a long way in showing others how the TDD cycle works.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;br/&gt; &lt;cite&gt;Curtis Badke said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/any-tips-for-non-tdders?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A23929&amp;amp;xg_source=msg_com_gr_forum#6456126Comment23929&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I agree with all of Jim&#039;s recommendations. I&#039;ve had similar experiences and highly recommend Ping Pong.&lt;/p&gt;
+&lt;p&gt;The only thing I would add is that if the majority of your group is new to TDD there is a reasonable chance that they won&#039;t have the appropriate test tools for their chosen languages. This will obviously depend on the crowd but I would plan for the possibility of burning up a session just on environment setup if it truly is a beginner group.&lt;/p&gt;
+&lt;p&gt;Have an awesome retreat!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I agree with all of Jim&#039;s rec…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:23929"/>
+                                        <id>tag:coderetreat.org,2013-05-06:6456126:Comment:23929</id>
+                                        <updated>2013-05-06T13:23:54.219Z</updated>
+                    
+                                            <author>
+                            <name>Curtis Badke</name>
+                            <uri>http://coderetreat.org/profile/CurtisBadke</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I agree with all of Jim&#039;s recommendations. I&#039;ve had similar experiences and highly recommend Ping Pong.&lt;/p&gt;
+&lt;p&gt;The only thing I would add is that if the majority of your group is new to TDD there is a reasonable chance that they won&#039;t have the appropriate test tools for their chosen languages. This will obviously depend on the crowd but I would plan for the possibility of burning up a session just on environment setup if it truly is a beginner group.&lt;/p&gt;
+&lt;p&gt;Have an awesome retreat!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I agree with all of Jim&#039;s recommendations. I&#039;ve had similar experiences and highly recommend Ping Pong.&lt;/p&gt;
+&lt;p&gt;The only thing I would add is that if the majority of your group is new to TDD there is a reasonable chance that they won&#039;t have the appropriate test tools for their chosen languages. This will obviously depend on the crowd but I would plan for the possibility of burning up a session just on environment setup if it truly is a beginner group.&lt;/p&gt;
+&lt;p&gt;Have an awesome retreat!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Coderetreat is a great place…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:23668"/>
+                                        <id>tag:coderetreat.org,2013-05-06:6456126:Comment:23668</id>
+                                        <updated>2013-05-06T09:27:47.557Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Coderetreat is a great place for people to try TDD for the first time. I&#039;ve facilitated some coderetreats where the focus shifted almost exclusively to just TDD because the participants were intrigued by the idea. I&#039;ve also facilitated some coderetreats where after one session of TDD the group wasn&#039;t interested anymore and wanted to do something else. Both situations are perfectly fine and are natural. Always tailor the coderetreat to the interests and needs of the group.&lt;/p&gt;
+&lt;p&gt;In any case,…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Coderetreat is a great place for people to try TDD for the first time. I&#039;ve facilitated some coderetreats where the focus shifted almost exclusively to just TDD because the participants were intrigued by the idea. I&#039;ve also facilitated some coderetreats where after one session of TDD the group wasn&#039;t interested anymore and wanted to do something else. Both situations are perfectly fine and are natural. Always tailor the coderetreat to the interests and needs of the group.&lt;/p&gt;
+&lt;p&gt;In any case, there are many exercises you can do to both introduce and practice TDD. Many of the exercises are based on the basic &lt;em&gt;Ping Pong&lt;/em&gt; exercise in which one member of the pair writes the tests and the other member writes code to make the tests pass. Depending on how new the group is to TDD, you may want to spend two sessions on &lt;em&gt;Ping Pong&lt;/em&gt; to give everyone an opportunity try out both roles.&lt;/p&gt;
+&lt;p&gt;Some variations on &lt;em&gt;Ping Pong&lt;/em&gt; include &lt;em&gt;Mute Ping Pong&lt;/em&gt; (no one is allowed to talk, a great one after lunch), and &lt;em&gt;Ping Pong with Evil Coder&lt;/em&gt; (where the production code writer tries to take the design in a direction that the test writer isn&#039;t expecting). You can combine the two variations into &lt;em&gt;Mute Ping Pong with Evil Coder&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://coderetreat.org/profiles/blogs/taking-baby-steps&quot; target=&quot;_self&quot;&gt;Baby Steps&lt;/a&gt; is also a great exercise. It focuses on practising the rhythm of TDD and the discipline of taking small steps.&lt;/p&gt;
+&lt;p&gt;One exercise you want to avoid is &lt;a href=&quot;http://coderetreat.org/facilitating/activities/tdd-as-if-you-meant-it&quot; target=&quot;_self&quot;&gt;TDD as If You Meant It&lt;/a&gt;. Most people, including experienced TDD developers, find &lt;em&gt;TDD as If You Meant It&lt;/em&gt; to be very hard. In addition, it could mislead or confuse those who are new to TDD.&lt;/p&gt;
+&lt;p&gt;Good luck and have fun! Feel free to report back how your coderetreat goes. I&#039;m sure others would love to learn from your experience.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

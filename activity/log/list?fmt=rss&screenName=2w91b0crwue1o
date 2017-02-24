@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Mario Alsini&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MarioAlsini</link>
+        <pubDate>Sun, 29 Jan 2017 12:05:28 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:05:28 +0000</lastBuildDate>
+        <image>
+            <title>Mario Alsini&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MarioAlsini</link>
+            <url>http://api.ning.com:80/files/4hNukqhfhE2qLDz3KdLtIAW8VkO4tSqDlwACeHX1rOSfL68EddQ2Jt*TgHaU8UXzafdYVcSIlmMKf5ePwAIkAJjhs2pBsfA3/1085378368.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010f1eaf250a84669b4ce7342</guid>
+               <title>Mario Alsini posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:39964?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarioAlsini?xg_source=activity">Mario Alsini</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:39964?xg_source=activity">Global Day of Coderetreat 2014 - Ravenna, Italy</a> at Ravenna, Italy</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">My 1st Global Day of Code retreat <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:39964?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 23 Oct 2014 11:33:18 +0000</pubDate>
+               </item>    </channel>
+</rss>

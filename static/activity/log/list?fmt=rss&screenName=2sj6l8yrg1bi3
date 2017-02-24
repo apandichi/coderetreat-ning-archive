@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Daniel Haslinger&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DanielHaslinger</link>
+        <pubDate>Sun, 29 Jan 2017 11:58:17 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:58:17 +0000</lastBuildDate>
+        <image>
+            <title>Daniel Haslinger&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DanielHaslinger</link>
+            <url>http://api.ning.com:80/files/9bnzZeuKAxerSH48q*lg64T*sX4tYw2Gy23d-163jNCKLsoxJA3VBX97OrtVVrWtqlPesCJbJuxVOBx*xOQ9gZNWx9Bp6ReO/1036424950.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000f47fb17f126e55975a28890</guid>
+               <title>Daniel Haslinger posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:26191?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DanielHaslinger?xg_source=activity">Daniel Haslinger</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:26191?xg_source=activity">Global Day of Coderetreat 2013 - Linz / Austria</a> at Objectbay Office</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 8:30am to 5pm</div><div class="rich-excerpt">This year Linz will take part at the GDCR! Let's have a great day of coding, learning and sharing experiences. Objectbay is proud sponsor of the GDCR in Linz.Register at <a href="http://www.objectbay.at/events">http://www.objectbay.at/events</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:26191?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 28 Aug 2013 11:57:35 +0000</pubDate>
+               </item>    </channel>
+</rss>

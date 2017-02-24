@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0qia617cxx6e1&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:45:15Z</updated>
+                            <author>
+                    <name>Marco Emrich</name>
+                    <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/zkGb0X42pMTifX1Mcg0cOMEemnbNtFTY7k4XsCN6vXrOPXcx1LTNhsNZqsqVqVHQDV1LPxduxHz0odGgGkmJi7oS0cdqylQ3/1021128860.jpeg?xgip=0%3A267%3A2485%3A2485%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0qia617cxx6e1&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Benjamin Nothdurft</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/BenjaminNothdurft"/>
+                                        <id>tag:coderetreat.org,2016-04-22:6456126:User:53058</id>
+                                        <updated>2016-04-22T06:49:10.479Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ucNE*u2-Ii7Q8E-3ccDPg-Nr*BOSSp4ZONIrEk0DG*jMoCOOzHcV51vc9SGnVNtOwja5wc9G6edb0o2fWrXu8oKLoYIuKprN/1200060092.jpeg?xgip=0%3A0%3A458%3A458%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Benjamin Nothdurft&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ucNE*u2-Ii7Q8E-3ccDPg-Nr*BOSSp4ZONIrEk0DG*jMoCOOzHcV51vc9SGnVNtOwja5wc9G6edb0o2fWrXu8oKLoYIuKprN/1200060092.jpeg?xgip=0%3A0%3A458%3A458%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Benjamin Nothdurft&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Pawel Duda</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PawelDuda"/>
+                                        <id>tag:coderetreat.org,2015-10-24:6456126:User:48041</id>
+                                        <updated>2015-10-24T16:18:08.502Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/rw3mHtTjAjzBHXEUL5oRgaIBLjIIvKbbhsXVBvRb-7NZZbxVvnGQsjcnt63z5VSYwPm-JppcCqTFcPPbsxHLnAXwQwcPdtYV/1149825499.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pawel Duda&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/rw3mHtTjAjzBHXEUL5oRgaIBLjIIvKbbhsXVBvRb-7NZZbxVvnGQsjcnt63z5VSYwPm-JppcCqTFcPPbsxHLnAXwQwcPdtYV/1149825499.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pawel Duda&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Pandichi Alin-Ionut</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PandichiAlinIonut"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:User:39929</id>
+                                        <updated>2014-10-21T09:55:00.237Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Peter Kofler</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/codecop"/>
+                                        <id>tag:coderetreat.org,2012-04-17:6456126:User:9539</id>
+                                        <updated>2012-04-17T20:51:42.397Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/miiiDxz4dLvUBZRhz5u*8j5lsu9Mm4dq5U5XDH0*1jxpdjxKeUMRubQvXg0e40kfqbTWrwEG8pjbYJvTCkP2aSHObhqH-zbr/998980358.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Peter Kofler&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/miiiDxz4dLvUBZRhz5u*8j5lsu9Mm4dq5U5XDH0*1jxpdjxKeUMRubQvXg0e40kfqbTWrwEG8pjbYJvTCkP2aSHObhqH-zbr/998980358.jpeg?xgip=0%3A0%3A399%3A399%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Peter Kofler&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Samir Talwar</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/SamirTalwar"/>
+                                        <id>tag:coderetreat.org,2011-11-28:6456126:User:2373</id>
+                                        <updated>2011-11-28T23:27:57.347Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/Ug-Ogup9PZ9CbLH5BRYTXGEm1XWrmDOEnrObF6jKfsY0MqgxLrAAuVVD5Ryw3GzfPtJJsxE2F64wLeb2HFB3DcixwL6-Ts7q/1041918552.jpeg?xgip=858%3A0%3A3444%3A3444%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Samir Talwar&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/Ug-Ogup9PZ9CbLH5BRYTXGEm1XWrmDOEnrObF6jKfsY0MqgxLrAAuVVD5Ryw3GzfPtJJsxE2F64wLeb2HFB3DcixwL6-Ts7q/1041918552.jpeg?xgip=858%3A0%3A3444%3A3444%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Samir Talwar&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

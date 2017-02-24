@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46826
+DTSTAMP:20170129T121205Z
+SUMMARY:Global Day of Coderetreat 2015 - Prague, Czech Republic
+DESCRIPTION:Coderetreat je jednodenní intenzivní cvičení zaměřen
+ é na základy vývoje softwaru. Díky tomu, že vývojáři nejsou po
+ d tlakem rychlého doručování výsledků, poskytuje Coderetreat mo�
+ �nost cíleně se soustředit na zlepšování svých dovedností. Pro
+ cvičováním základních principů modulárního a objektově-orient
+ ovaného návrhu mohou účastníci zlepšit své schopnosti psát kó
+ d, který minimalizuje náročnost implementace dalších změn.\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-2015-prague-czech-republic
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Prague
+WEBSITE:http://coderetreat.cz
+URL:http://coderetreat.cz
+CONTACT:
+ORGANIZER;CN="Aleš Roubíček":http://coderetreat.org/profile/AlesRou
+ bicek
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleš Ro
+ ubíček":http://coderetreat.org/profile/AlesRoubicek
+END:VEVENT
+END:VCALENDAR

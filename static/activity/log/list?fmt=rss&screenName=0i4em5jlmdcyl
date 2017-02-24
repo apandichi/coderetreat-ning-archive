@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Liao Chunbo&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/LiaoChunbo</link>
+        <pubDate>Sun, 29 Jan 2017 09:30:55 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:30:55 +0000</lastBuildDate>
+        <image>
+            <title>Liao Chunbo&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/LiaoChunbo</link>
+            <url>http://api.ning.com:80/files/Y05Evaa5liEakQm*BedMH1Ign620wP2thf99*yrMjx5*VJ7VfNa6QFXRpPkZCyb1peSw5wuK-wahRQ8IZJCoRtOUp0xyfR54/1190409707.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012ade8937931522c362a35cf</guid>
+               <title>Marika Lynch left a comment for Liao Chunbo</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:54669?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarikaLynch?xg_source=activity">Marika Lynch</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:54669?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/LiaoChunbo?xg_source=activity">Liao Chunbo</a></span><br/>]]></description>
+               <pubDate>Thu, 08 Sep 2016 07:06:37 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000125fe236eae553958dde4ab4</guid>
+               <title>Liao Chunbo posted a blog post</title>
+               <link>http://coderetreat.org/xn/detail/6456126:BlogPost:53062?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/LiaoChunbo?xg_source=activity">Liao Chunbo</a> posted a blog post</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:BlogPost:53062?xg_source=activity">2016 Q1 Nokia Chengdu TC Code Retreat Day</a></h3><div class="rich-detail"><div class="rich-excerpt"><div data-contentId="6456126:BlogPost:53062">I'm very excited to share the experience about "2016 Q1 Chengdu TC Code Retreat Day"!The 2016 Q1 Nokia Chengdu TC Code Retreat Day was hold on Saturday, March 19! For some reason,I did not share it immediately. I would like to share with you about this activity: we made it successfully and enjoy it.It is my privilege to be the facilitator of the Code Retreat Day in Nokia Chengdu site. For I have limit experience on this, I learned some experience from Harry (last year’s facilitator of GDCR) and made the agenda.There were 14 participants from different companies participated this event. Consider most of us did not have much experience, ‘Monty Hall’ was chosen as our KATA.To implement this KATA, we chose pair programming and each of us using the programming language which our teammate good at. We divided The Code Retreat into 4 sessions and the programming cheerleader prepared some interesting games for each.Session 1 - Requirement analysis:The rule is each pair has 30 minutes to discuss the same requirement and 5 minutes to represent the conclusion. The purpose of this session is learn to understand requirement from different perspectives. During this session, we had a heated discussion and learned the methodology about how to see things in a better way.Session 2 – Implementation:In this session, we regrouped the pair (one tester and one developer) and started to implement the KATA in the usual way. For the limited of time, only the coding was done, we didn’t finish the rest part of the implementation.Session 3 – TDD:TDD is an efficient way in agile development. The purpose of this session is to make us know more about the benefit of TDD. I spent 5 minutes to do the introduction and this time we implemented the KATA in TDD way. The result is quite fascinating. All pairs finished the task nicely and we all felt the magic of TDD. Most of the participants would like to consider using TTD in their daily work.Session 4 – Constraints:Following is the constraints I made in the session:Making a test list.Keyboard only.Using a plain text editor.Small method.No loops.I didn’t expect to use all above constraints and they made amazingly with all of those constraints.In the end, we all felt that the “2016 Q1 Nokia Chengdu TC Code Retreat Days” is “Happy”, “Passion”, “Surprise” and “Unforgettable”.Hereby, I would like to express my thanks to Hebe and Xirui for their great support, also those who participated this event.Best wishes to you and see you next time.     <a class="continue-link" href="http://coderetreat.org/profiles/blogs/the-first-global-day-of-coderetreat-in-nokia-cd-site">See More</a></div></div></div></div>]]></description>
+               <pubDate>Sat, 30 Apr 2016 15:00:05 +0000</pubDate>
+               </item>    </channel>
+</rss>

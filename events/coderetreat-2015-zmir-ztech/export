@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49998
+DTSTAMP:20170129T102607Z
+SUMMARY:Global Day of Coderetreat 2015 - İzmir, Turkey
+DESCRIPTION:A tiny event for the Global Day of Coderetreat in local İ
+ zmir. Maybe it will huge with your participation.\n\nFor more informat
+ ion visit http://coderetreat.org/events/coderetreat-2015-zmir-ztech
+DTSTART:20151114T113000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Izmir Institute of Technology
+WEBSITE:
+URL:
+CONTACT:+905532050015
+ORGANIZER;CN="Ozgur Firat Cinar":http://coderetreat.org/profile/OzgurF
+ iratCinar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ozgur Fi
+ rat Cinar":http://coderetreat.org/profile/OzgurFiratCinar
+END:VEVENT
+END:VCALENDAR

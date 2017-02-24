@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38919
+DTSTAMP:20170129T114329Z
+SUMMARY:Legacy Coderetreat at SoCraTes 2014
+DESCRIPTION:https://www.softwerkskammer.org/activities/socrates-2014\n
+ \nFor more information visit http://coderetreat.org/events/legacy-code
+ retreat-at-socrates-2014
+DTSTART:20140810T090000Z
+DTEND:20140810T170000Z
+CATEGORIES:coderetreat, legacy
+LOCATION:Soltau, Germany
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

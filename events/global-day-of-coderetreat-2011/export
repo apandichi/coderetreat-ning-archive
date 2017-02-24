@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:1308
+DTSTAMP:20170129T111219Z
+SUMMARY:Global Day of Coderetreat 2011
+DESCRIPTION:Global Day of Coderetreat is a world-wide event celebratin
+ g passion and software craftsmanship. Over 2000 passionate software de
+ velopers around the world will spend the day practicing the craft of s
+ oftware development using the coderetreat format.\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2011
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:Everywhere
+WEBSITE:http://globalday.coderetreat.org
+URL:http://globalday.coderetreat.org
+CONTACT:
+ORGANIZER:Corey Haines
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/2rluy6EYALdgX
+ 0iAgMjEuhFs5lpa25qioBFa0Mv*AAitglMnJAKpDDwj26cAwHdHu5XTYho6LIFyyPS0JcA
+ WFbVIvlNP4m98/earth2.brown2.oil2.hi.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

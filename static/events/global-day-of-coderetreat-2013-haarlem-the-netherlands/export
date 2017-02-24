@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26902
+DTSTAMP:20170129T115127Z
+SUMMARY:Global Day of Coderetreat 2013 - Haarlem, Netherlands
+DESCRIPTION:RSVP at: https://global-day-of-coderetreat-2013-haarlem.e
+ ventbrite.nl\n\nFor more information visit http://coderetreat.org/even
+ ts/global-day-of-coderetreat-2013-haarlem-the-netherlands
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Haarlem, The Netherlands
+WEBSITE:https://global-day-of-coderetreat-2013-haarlem.eventbrite.nl
+URL:https://global-day-of-coderetreat-2013-haarlem.eventbrite.nl
+CONTACT:
+ORGANIZER;CN="Bart Bakker":http://coderetreat.org/profile/bjpbakker
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bart Bak
+ ker":http://coderetreat.org/profile/bjpbakker
+END:VEVENT
+END:VCALENDAR

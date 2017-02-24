@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41488
+DTSTAMP:20170129T120720Z
+SUMMARY:Global Day of Coderetreat 2014 - Montréal, QC, Canada
+DESCRIPTION:Global Day of Coderetreat in Montréal!\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 14-montr-al-qc-canada
+DTSTART:20141115T080000Z
+DTEND:20141115T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Aire ouverte du Pavillon Judith-Jasmin de l'UQAM
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="François Perron":http://coderetreat.org/profile/Francoi
+ sPerron
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=EricMinio
+ :http://coderetreat.org/profile/EricMinio
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Françoi
+ s Perron":http://coderetreat.org/profile/FrancoisPerron
+END:VEVENT
+END:VCALENDAR

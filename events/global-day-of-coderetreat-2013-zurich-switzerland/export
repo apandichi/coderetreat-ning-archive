@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26216
+DTSTAMP:20170129T115824Z
+SUMMARY:Global Day of Coderetreat 2013 - Zürich, Switzerland
+DESCRIPTION:Zurich is glad to join in the fun that is the Global Day o
+ f Coderetreat. We're open for registrations at Coders Only | Zurich.Se
+ ats are limited so don't hesitate!\n\nFor more information visit http:
+ //coderetreat.org/events/global-day-of-coderetreat-2013-zurich-switzer
+ land
+DTSTART:20131214T083000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Namics
+WEBSITE:https://www.namics.com/namics/standorte/zuerich/
+URL:https://www.namics.com/namics/standorte/zuerich/
+CONTACT:
+ORGANIZER;CN=infinitary:http://coderetreat.org/profile/infinitary
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/TROotLSon3ks-
+ fhn5UmA6B2RaEm5lLcMIDGBkX-b81azAZFwAMtbyg54hoI41V7Thu2b*k8irqCx08hyhcb
+ PExmH*-FiYDUp/gdcr13.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=infinitar
+ y:http://coderetreat.org/profile/infinitary
+END:VEVENT
+END:VCALENDAR

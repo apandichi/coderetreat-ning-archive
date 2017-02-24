@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45645
+DTSTAMP:20170129T121631Z
+SUMMARY:Global Day of Coderetreat 2015 - Auckland, New Zealand
+DESCRIPTION:We're very happy to invite everyone interested in improvin
+ g their software craftsmanship skills to Auckland edition of Global Co
+ de Retreat 2015.You can register here: https://www.eventbrite.com/e/g
+ lobalday-coderetreat-auckland-2015-tickets-18464494801\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -2015-auckland-new-zealand
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Orion Health Office
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Jakub Jurkiewicz":http://coderetreat.org/profile/JakubJu
+ rkiewicz
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/SDhgST2Am3Ww0
+ FR9-GAzOPJEmVo-ZJvmviKhFNfVaNmnjm*VWgcbh6-50OpKw8ICAuCuG9mlrEtfCdqS*7G
+ LOTHyPaZmcpgB/IMG_9790.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jakub Ju
+ rkiewicz":http://coderetreat.org/profile/JakubJurkiewicz
+END:VEVENT
+END:VCALENDAR

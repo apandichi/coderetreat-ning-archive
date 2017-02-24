@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54263
+DTSTAMP:20170129T113013Z
+SUMMARY:Global Day of Code Retreat - Quito, Ecuador
+DESCRIPTION:Por cuarto año vamos a tener el día mundial de retiro en
+  las oficinas de ThoughtWorks Ecuador!\nAv. República del Salvador N3
+ 4-107 y Suiza  Edificio Brescia I, piso 9  Quito, Ecuador\nhttps://www
+ .thoughtworks.com\nLes esperamos!\n\nFor more information visit http:/
+ /coderetreat.org/events/global-day-of-code-retreat-5
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:ThoughtWorks Ecuador
+WEBSITE:https://www.thoughtworks.com
+URL:https://www.thoughtworks.com
+CONTACT:
+ORGANIZER;CN="Ivan Pazmino":http://coderetreat.org/profile/IvanPazmino
+ 126
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ivan Paz
+ mino":http://coderetreat.org/profile/IvanPazmino126
+END:VEVENT
+END:VCALENDAR

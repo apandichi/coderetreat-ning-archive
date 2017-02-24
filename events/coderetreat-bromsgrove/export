@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:24469
+DTSTAMP:20170129T124202Z
+SUMMARY:Coderetreat Bromsgrove
+DESCRIPTION:CraftyCoders (www.craftycoders.net) are proud to be puttin
+ g on our first Code Retreat. It has always been our aim to support the
+ se day-long learning events in addition to the usual monthly events th
+ at we are already running.\nCraftyCoders are a principles-focused user
+  group for the West Midlands .Net community.\n* Please note that this 
+ event is for C# developers only.\n\nFor more information visit http://
+ coderetreat.org/events/coderetreat-bromsgrove
+DTSTART:20130831T000000Z
+DTEND:20130831T235900Z
+CATEGORIES:coderetreat
+LOCATION:Bromsgrove, Worcestershire, UK
+WEBSITE:http://www.craftycoders.net/events
+URL:http://www.craftycoders.net/events
+CONTACT:
+ORGANIZER:CraftyCoders
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Baydr Ea
+ rles":http://coderetreat.org/profile/BaydrEarles
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ian Russ
+ ell":http://coderetreat.org/profile/IanRussell
+END:VEVENT
+END:VCALENDAR

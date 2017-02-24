@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54084
+DTSTAMP:20170129T112825Z
+SUMMARY:Global Day of Coderetreat 2016 - Zurich, Switzerland
+DESCRIPTION:This year Xmas comes early to all genuine coders: we are l
+ ooking forward to seeing you in Zurich at the best day of the year, #G
+ DCR16!  Our hosts, as per tradition, are the friendliest and coolest I
+ T shop in town: Namics AG.  We are open for registrations, the capacit
+ y is limited, we are usually full, reserve your seat now at Coders Onl
+ y | Zurich.  Also, check out the GDCR events in Bern and St. Gallen as
+  well, you may need to travel less!\n\nFor more information visit http
+ ://coderetreat.org/events/global-day-of-coderetreat-2016-zurich-switze
+ rland
+DTSTART:20161022T083000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Namics AG
+WEBSITE:https://maps.google.de/maps?f=q&source=embed&hl=de&geocode=&q=
+ Namics+AG,+Bederstrasse,+Zürich,+Schweiz&aq=0&oq=Namics+AG+züri&sll=
+ 48.1182,11.5838&sspn=0.011589,0.033023&gl=de&ie=UTF8&hq=Namics+AG,&hne
+ ar=Bederstrasse,+Zürich,+Schweiz&t=m&ll=47.364814,8.531105&spn=0.0062
+ 95,0.008117
+URL:https://maps.google.de/maps?f=q&source=embed&hl=de&geocode=&q=Nami
+ cs+AG,+Bederstrasse,+Zürich,+Schweiz&aq=0&oq=Namics+AG+züri&sll=48.1
+ 182,11.5838&sspn=0.011589,0.033023&gl=de&ie=UTF8&hq=Namics+AG,&hnear=B
+ ederstrasse,+Zürich,+Schweiz&t=m&ll=47.364814,8.531105&spn=0.006295,0
+ .008117
+CONTACT:
+ORGANIZER;CN=infinitary:http://coderetreat.org/profile/infinitary
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/KMK8bRYqKW1tS
+ 0CH52Jy*Y0dh-dfEr4kWsxTpXo6kJa2-CJrOEQC*ImIcvX94zw0sa61z17QbexnQW-CQmv
+ RpzUzy9DispZn/gdcr16.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=infinitar
+ y:http://coderetreat.org/profile/infinitary
+END:VEVENT
+END:VCALENDAR

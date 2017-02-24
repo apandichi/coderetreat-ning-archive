@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38376
+DTSTAMP:20170129T120347Z
+SUMMARY:Global Day of Coderetreat 2014 - Brasov, Romania
+DESCRIPTION: The second Global Day of Coderetreat organized in Brasov
+ \n\nFor more information visit http://coderetreat.org/events/global-da
+ y-of-coderetreat-2014-brasov-romania
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Brasov center
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="camelia codarcea":http://coderetreat.org/profile/camelia
+ codarcea
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="camelia 
+ codarcea":http://coderetreat.org/profile/cameliacodarcea
+END:VEVENT
+END:VCALENDAR

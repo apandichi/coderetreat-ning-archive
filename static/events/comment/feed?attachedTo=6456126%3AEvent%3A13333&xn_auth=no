@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2012 - Beijing / China - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A13333&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:09:55Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A13333&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Cool!  Have you registered on…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:18621"/>
+                                        <id>tag:coderetreat.org,2012-12-06:6456126:Comment:18621</id>
+                                        <updated>2012-12-06T22:55:49.363Z</updated>
+                    
+                                            <author>
+                            <name>Mike Long</name>
+                            <uri>http://coderetreat.org/profile/MikeLong</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Cool!  Have you registered on the meetup?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/BeijingSoftwareCraftsmanship/events/90858762/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/BeijingSoftwareCraftsmanship/events/90858762/&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Cool!  Have you registered on the meetup?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/BeijingSoftwareCraftsmanship/events/90858762/&quot; target=&quot;_blank&quot;&gt;http://www.meetup.com/BeijingSoftwareCraftsmanship/events/90858762/&lt;/a&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Mike Long, I am glad to see y…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:18454"/>
+                                        <id>tag:coderetreat.org,2012-12-06:6456126:Comment:18454</id>
+                                        <updated>2012-12-06T15:30:06.633Z</updated>
+                    
+                                            <author>
+                            <name>Lin Jinfeng</name>
+                            <uri>http://coderetreat.org/profile/LinJinfeng</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Mike Long, I am glad to see you again since Sep at Thomason Ruters&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Mike Long, I am glad to see you again since Sep at Thomason Ruters&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

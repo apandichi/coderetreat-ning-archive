@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Michelle Scott Johnston&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MichelleScottJohnston</link>
+        <pubDate>Sun, 29 Jan 2017 13:36:32 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:36:32 +0000</lastBuildDate>
+        <image>
+            <title>Michelle Scott Johnston&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MichelleScottJohnston</link>
+            <url>http://api.ning.com:80/files/8-J-2qOPV2ifMdF0TgznC-IYGSkQ1fqtub0XJtPjy6U1ZzDm7RuASyEvPb7YZbavk5i829IWw13p8KYYCHHTpg__/27272241.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ae8ba992f94fe78b145be55</guid>
+               <title>Michelle Scott Johnston left a comment for Jonathan Wallace</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:10578?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichelleScottJohnston?xg_source=activity">Michelle Scott Johnston</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:10578?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/JonathanWallace?xg_source=activity">Jonathan Wallace</a></span><br/>]]></description>
+               <pubDate>Fri, 29 Jun 2012 15:05:50 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ae8ba990a44ef28907e829f</guid>
+               <title>Michelle Scott Johnston is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/MichelleScottJohnston?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichelleScottJohnston?xg_source=activity">Michelle Scott Johnston</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Fri, 29 Jun 2012 15:04:57 +0000</pubDate>
+               </item>    </channel>
+</rss>

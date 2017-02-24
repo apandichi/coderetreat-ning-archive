@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Discussions Tagged &#039;Beginners&#039; - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topic/listForTag?tag=Beginners&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:37:14Z</updated>
+                        <id>http://coderetreat.org/forum/topic/listForTag?tag=Beginners&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Beginners Welcome?</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:16947"/>
+                                        <id>tag:coderetreat.org,2012-11-25:6456126:Topic:16947</id>
+                                        <updated>2012-11-25T06:11:13.401Z</updated>
+                    
+                                            <author>
+                            <name>Zane Prickett</name>
+                            <uri>http://coderetreat.org/profile/ZanePrickett</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Quick question - Is this one day event okay for beginners to go to?  It seems like it is more geared towards professions or experienced coders.  I am a beginner coder and looking to get involved but also dont want to hinder the process.&lt;/p&gt;
+&lt;p&gt;Thanks in advance for the help&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Quick question - Is this one day event okay for beginners to go to?  It seems like it is more geared towards professions or experienced coders.  I am a beginner coder and looking to get involved but also dont want to hinder the process.&lt;/p&gt;
+&lt;p&gt;Thanks in advance for the help&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

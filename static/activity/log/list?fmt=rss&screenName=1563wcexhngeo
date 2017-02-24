@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jason L Perry&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JasonLPerry</link>
+        <pubDate>Sun, 29 Jan 2017 09:34:06 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:34:06 +0000</lastBuildDate>
+        <image>
+            <title>Jason L Perry&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JasonLPerry</link>
+            <url>http://api.ning.com:80/files/x93ABI42iFUQR4lJxPy9DwwtaU*tnPxDvJssQnOZlWKkVbXDCqqb3QFYg4y93i*RmX6kTtyLO9TC5sRhmB27E0z2vH1lguJF/1144092362.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011f287a20683ffad090f9292</guid>
+               <title>Jason L Perry posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:56559?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JasonLPerry?xg_source=activity">Jason L Perry</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:56559?xg_source=activity" ><img src="http://api.ning.com/files/G834pRjVCIEnk1MxTbK43NuBVFjxBYBuETAaOvxGapWhqRbvZxufuTM9pLtpaqoyoRIx9DlXpiitYEMNrLIgGgVx-WKZN88H/highres_433364832.jpeg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56559?xg_source=activity">Global Day of Coderetreat 2016 - St Petersburg, Florida</a> at The Iron Yard</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 4pm</div><div class="rich-excerpt">The Iron Yard and Suncoast Developers Guild will be hosting a day-long fun practice event focusing on the fundamentals of software development, design and teamwork that is free to all attendees. By providing developers the opportunity to work side by side, and without the pressures of day-to-day work assignments, the coderetreat format has proven itself to be a highly effective means of skill refinement.Join us on October. 22nd, 2016 from 9:00 am until about 4:00pm at our campus in Downtown St. Pete; you’ll get a chance to engage with other local developers as you tackle challenging problems together.There will be refreshments and food available to all participants.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:56559?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 18 Oct 2016 03:05:23 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011f287a23bedaca0d2197aee</guid>
+               <title>Jason L Perry posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47549?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JasonLPerry?xg_source=activity">Jason L Perry</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47549?xg_source=activity">Global Day of Coderetreat 2015 - Tampa/St. Petersburg, FL, USA</a> at The Iron Yard - Saint Petersburg Campus</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 2pm</div><div class="rich-excerpt">The yearly Global Day of Code Retreat for the Saint Petersburg / Tampa area has moved to St. Pete! The Iron Yard will be hosting the festivities. Everyone of all skill levels are welcome.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47549?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 17 Oct 2015 15:10:29 +0000</pubDate>
+               </item>    </channel>
+</rss>

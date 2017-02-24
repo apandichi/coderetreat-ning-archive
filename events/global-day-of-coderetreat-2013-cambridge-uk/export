@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26249
+DTSTAMP:20170129T115005Z
+SUMMARY:Global Day of Coderetreat 2013 - Cambridge, UK
+DESCRIPTION:Cambridge's participation in the Global Day of Code Retrea
+ t.\nPlease register for this event on Meetup at http://www.meetup.com
+ /Cambridge-Software-Craftsmanship/events/149179582/\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 13-cambridge-uk
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Cambridge, UK
+WEBSITE:http://www.red-gate.com
+URL:http://www.red-gate.com
+CONTACT:
+ORGANIZER;CN="Alastair Smith":http://coderetreat.org/profile/AlastairS
+ mith
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alastair
+  Smith":http://coderetreat.org/profile/AlastairSmith
+END:VEVENT
+END:VCALENDAR

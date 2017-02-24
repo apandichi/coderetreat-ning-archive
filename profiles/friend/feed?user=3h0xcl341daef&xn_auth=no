@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3h0xcl341daef&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:00:38Z</updated>
+                            <author>
+                    <name>Stefan Hendriks</name>
+                    <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/6vIMLmuhUcpp1QoWRWe5QiV4RiVT0aaBBtzL-L8CqMrWwRx9WC*bl5Jw8qtBQSv3j*3GHsN2IEE3ONe9vCywbwmFpY0sx*Rk/1048286511.jpeg?xgip=474%3A0%3A1360%3A1360%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3h0xcl341daef&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Remco Cats</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RemcoCats"/>
+                                        <id>tag:coderetreat.org,2014-08-13:6456126:User:37353</id>
+                                        <updated>2014-08-13T18:07:51.908Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Remco Cats&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Remco Cats&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jan van den Berg</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JanvandenBerg"/>
+                                        <id>tag:coderetreat.org,2014-07-14:6456126:User:35558</id>
+                                        <updated>2014-07-14T03:16:16.761Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/zLSzH-96bg*eC3cYtPGUFWJEWSEUNOpToIE9XKscjFOJg7rYHWJQb5esdc-vlD9mWWlgWHtUOh3-BEn52joSNTxTP8lau7O7/1083553936.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jan van den Berg&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/zLSzH-96bg*eC3cYtPGUFWJEWSEUNOpToIE9XKscjFOJg7rYHWJQb5esdc-vlD9mWWlgWHtUOh3-BEn52joSNTxTP8lau7O7/1083553936.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jan van den Berg&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Tristan T</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/TristanT"/>
+                                        <id>tag:coderetreat.org,2014-07-07:6456126:User:35516</id>
+                                        <updated>2014-07-07T09:09:30.234Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Tristan T&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Tristan T&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Ronald Rotteveel</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RonaldRotteveel"/>
+                                        <id>tag:coderetreat.org,2014-01-03:6456126:User:33925</id>
+                                        <updated>2014-01-03T08:08:59.778Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/DqaYw0w2aP**NSvaHDKpDGq5vFib5ook0W5OMCnaAURfgmCThS9*A*m2mZhpErN59dZ5h1Khd7fOp-GiPGd8yBesagFgTIQ-/1059771431.jpeg?xgip=84%3A1%3A784%3A784%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ronald Rotteveel&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/DqaYw0w2aP**NSvaHDKpDGq5vFib5ook0W5OMCnaAURfgmCThS9*A*m2mZhpErN59dZ5h1Khd7fOp-GiPGd8yBesagFgTIQ-/1059771431.jpeg?xgip=84%3A1%3A784%3A784%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ronald Rotteveel&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Bart Bakker</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/bjpbakker"/>
+                                        <id>tag:coderetreat.org,2012-11-14:6456126:User:16071</id>
+                                        <updated>2012-11-14T20:33:24.089Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/iFktKrOWxtqvEy7Rm82agoQdNy48pKBBQnLhT8RsgEyZ3-49BT9nzofZB39qvaWnD9Jdqf3KuHeR6OxTf1nVaCHsYLTLb11n/935179881.jpeg?xgip=0%3A75%3A1044%3A1044%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bart Bakker&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/iFktKrOWxtqvEy7Rm82agoQdNy48pKBBQnLhT8RsgEyZ3-49BT9nzofZB39qvaWnD9Jdqf3KuHeR6OxTf1nVaCHsYLTLb11n/935179881.jpeg?xgip=0%3A75%3A1044%3A1044%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Bart Bakker&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

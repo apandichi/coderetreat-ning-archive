@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Andreas Schlapsi&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AndreasSchlapsi</link>
+        <pubDate>Sun, 29 Jan 2017 10:53:44 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:53:44 +0000</lastBuildDate>
+        <image>
+            <title>Andreas Schlapsi&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AndreasSchlapsi</link>
+            <url>http://api.ning.com:80/files/4z2bpK7Bb4WgH4tyPHdxygMivgw6Hsh5VpoBfDLFFs2TJqFsqiNmGLBqE4K0h4Pdm6MbTBW7hKf7gzyJIiw6a6JbxrNf70fg/647025075.jpeg?xgip=1%3A52%3A434%3A434%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009d143cc49cbeb82d2703809</guid>
+               <title>Andreas Schlapsi is attending Michael Mike Leber&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:11240?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndreasSchlapsi?xg_source=activity">Andreas Schlapsi</a> is attending <a href="http://coderetreat.org/profile/MichaelMikeLeber?xg_source=activity">Michael Mike Leber's</a> event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:11240?xg_source=activity" ><img src="http://api.ning.com/files/OrHAsjZvcG39flEQC8**xE2aS5D5O0NO90u82-UqPYYUHPM-XoZ0mS5JjySLxPhp7emRE1KBaNlkcPEaezWGTC95VwdYyyhX/gdcr12.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:11240?xg_source=activity">Global Day of Coderetreat 2012 - Vienna / Austria</a> at Vienna, Austria</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8:15am to 5pm</div><div class="rich-excerpt">Registration under: <a href="http://gdcr12-vienna.eventbrite.com" target="_blank">http://gdcr12-vienna.eventbrite.com</a>We are happy to join the Global Day of Coderetreat again from Vienna.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:11240?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 05 Oct 2012 11:14:18 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000009d143cccb6a802dd3ea56ce</guid>
+               <title>Andreas Schlapsi is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/AndreasSchlapsi?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndreasSchlapsi?xg_source=activity">Andreas Schlapsi</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Sat, 03 Dec 2011 21:21:16 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=37aztgqg3wkrq&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:43:06Z</updated>
+                            <author>
+                    <name>Rolf Hemmerling</name>
+                    <uri>http://coderetreat.org/profile/RolfHemmerling</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/LM5YzyCw7E7KE3CinuktVSOjLaxYehxRZKBlX6HLOViw8uLDAaQR3aZC2EDRw*k651mm32nUywk1Ro7ugzxvZI2udaofssTq/867398235.jpeg?xgip=0%3A39%3A299%3A299%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=37aztgqg3wkrq&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Martin Klose</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MartinKlose"/>
+                                        <id>tag:coderetreat.org,2011-12-02:6456126:User:2914</id>
+                                        <updated>2011-12-02T20:28:24.874Z</updated>
+                    
+                                            <author>
+                            <name>Rolf Hemmerling</name>
+                            <uri>http://coderetreat.org/profile/RolfHemmerling</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/PvKuR6k4OyKX5IY83jKXwl2ZJ7rJfF*b*UNbj*AEw*ERdK5OZ5qLzMJwCMd89Q5i96t7BGPMOsTeHBSeQZINbUjCp-PCuZ*q/492587840.png?xgip=0%3A7%3A235%3A235%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Martin Klose&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/PvKuR6k4OyKX5IY83jKXwl2ZJ7rJfF*b*UNbj*AEw*ERdK5OZ5qLzMJwCMd89Q5i96t7BGPMOsTeHBSeQZINbUjCp-PCuZ*q/492587840.png?xgip=0%3A7%3A235%3A235%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Martin Klose&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Manuel Küblböck</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ManuelKueblboeck"/>
+                                        <id>tag:coderetreat.org,2011-11-24:6456126:User:1857</id>
+                                        <updated>2011-11-24T16:47:00.278Z</updated>
+                    
+                                            <author>
+                            <name>Rolf Hemmerling</name>
+                            <uri>http://coderetreat.org/profile/RolfHemmerling</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/SIdK1byUS2EKnNY2EhOHmWcaGnkpbBJs4RzlprWJGvICJU2GF6a7MVpipL*5E7YyEoEB-honGu4ytz4hHS3BWd2nxRSFxXgS/949995326.jpeg?xgip=0%3A0%3A234%3A234%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Manuel Küblböck&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/SIdK1byUS2EKnNY2EhOHmWcaGnkpbBJs4RzlprWJGvICJU2GF6a7MVpipL*5E7YyEoEB-honGu4ytz4hHS3BWd2nxRSFxXgS/949995326.jpeg?xgip=0%3A0%3A234%3A234%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Manuel Küblböck&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12039
+DTSTAMP:20170129T133700Z
+SUMMARY:Global Day of Coderetreat 2012 - Barcelona / Spain
+DESCRIPTION:Taking part of GDCR12 initative, we will drive a full day 
+ Coderetreat at Barcelona, Spain at Dec 8th 2012.\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-2012-
+ barcelona
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Runroom
+WEBSITE:http://goo.gl/maps/umuvz
+URL:http://goo.gl/maps/umuvz
+CONTACT:+34 650037385
+ORGANIZER;CN="Jaume Jornet":http://coderetreat.org/profile/JaumeJornet
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/KYcF4Uio6Y3LS
+ JjCLbq3MYiMp2ij4WGeo41HucHetO2YXU0rEw0hi07NcjGdxZJRyyP76dz-doKnMtIziqw
+ rzRdSxQp187s8/427659573.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Jay:http:
+ //coderetreat.org/profile/Jay
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Toni Tas
+ sani":http://coderetreat.org/profile/ToniTassani
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="José E.
+  Rodríguez":http://coderetreat.org/profile/JoseERodriguez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaume Jo
+ rnet":http://coderetreat.org/profile/JaumeJornet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Javi Se
+ rna":http://coderetreat.org/profile/JaviSerna
+END:VEVENT
+END:VCALENDAR

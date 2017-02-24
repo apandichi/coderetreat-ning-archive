@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16718
+DTSTAMP:20170129T122446Z
+SUMMARY:Legacy Code Retreat in Wolfsburg, Germany
+DESCRIPTION:On the Global Day of Code Retreat we'll have a Legacy Code
+  Retreat.\nHosted by T-Systems on site services GmbH\nRegister at Xing
+ : https://www.xing.com/events/1169683?notification=1922280&dpt=sysm&t
+ tp=mail&plf=own&pid=event-invite&xtr=lnk\nor Eventbrite:http://www.eve
+ ntbrite.de/event/4871832783/?ref=enivtefor001&invite=Mjc2NDMwMS9qZW5zL
+ nNjaGF1ZGVyQGZyZWVuZXQuZGUvMA%3D%3D&utm_source=eb_email&utm_medium=ema
+ il&utm_campaign=inviteformal001&utm_term=eventpage&ebtv=C\n\n\nFor mor
+ e information visit http://coderetreat.org/events/legacy-code-retreat-
+ in-wolfsburg-germany
+DTSTART:20121208T090000Z
+DTEND:20121208T180000Z
+CATEGORIES:legacy, code, retreat
+LOCATION:T-Systems on site services GmbH
+WEBSITE:http://www.t-systems-onsite.de/unternehmen/standorte/wolfsburg
+URL:http://www.t-systems-onsite.de/unternehmen/standorte/wolfsburg
+CONTACT:
+ORGANIZER:René Pfeuffer & Jens Schauder
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jens Sch
+ auder":http://coderetreat.org/profile/JensSchauder
+END:VEVENT
+END:VCALENDAR

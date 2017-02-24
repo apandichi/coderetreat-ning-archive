@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Detailed instructions to set up cyber-dojo server - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/detailed-instructions-to-set-up-cyber-dojo-server?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A39478&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:42:50Z</updated>
+                        <id>http://coderetreat.org/forum/topics/detailed-instructions-to-set-up-cyber-dojo-server?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A39478&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>How to install Cyber-dojo ser…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:39889"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:Comment:39889</id>
+                                        <updated>2014-10-21T14:35:33.753Z</updated>
+                    
+                                            <author>
+                            <name>Ben Wu</name>
+                            <uri>http://coderetreat.org/profile/BenWu</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;How to install Cyber-dojo server on Mac OS X 10.10 (based on instructions at &lt;a href=&quot;http://blog.cyber-dojo.org/2014/09/setting-up-your-own-cyber-dojo-server.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;http://blog.cyber-dojo.org/2014/09/setting-up-your-own-cyber-dojo-s...&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Download VirtualBox-4.3.18-96516-OSX.dmg from &lt;a href=&quot;https://www.virtualbox.org/wiki/Downloads&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://www.virtualbox.org/wiki/Downloads&lt;/a&gt; and install it on OS X.&lt;/p&gt;
+&lt;p&gt;Download…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;How to install Cyber-dojo server on Mac OS X 10.10 (based on instructions at &lt;a rel=&quot;nofollow&quot; href=&quot;http://blog.cyber-dojo.org/2014/09/setting-up-your-own-cyber-dojo-server.html&quot; target=&quot;_blank&quot;&gt;http://blog.cyber-dojo.org/2014/09/setting-up-your-own-cyber-dojo-s...&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Download VirtualBox-4.3.18-96516-OSX.dmg from &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.virtualbox.org/wiki/Downloads&quot; target=&quot;_blank&quot;&gt;https://www.virtualbox.org/wiki/Downloads&lt;/a&gt; and install it on OS X.&lt;/p&gt;
+&lt;p&gt;Download TurnKey Linux Rails image turnkey-rails-13.0-wheezy-amd64-vmdk.zip from &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.turnkeylinux.org/rails&quot; target=&quot;_blank&quot;&gt;http://www.turnkeylinux.org/rails&lt;/a&gt; by clicking the link of the build &quot;321MB VM&quot;.&lt;/p&gt;
+&lt;p&gt;In VirtualBox, press &quot;Command + N&quot; to new a virtual machine with the following settings in the &quot;Name and operating system&quot; dialog.&lt;/p&gt;
+&lt;p&gt;Name: turn-key-linux-rails&lt;br/&gt; Type: Linux&lt;br/&gt; Version: Ubuntu (64 bit)&lt;br/&gt; Hard drive: Use an existing virtual hard drive file&lt;br/&gt; Select the downloaded file turnkey-rails-13.0-wheezy-amd64.vmdk.&lt;br/&gt; Press &quot;Create&quot; to create a virtual machine.&lt;/p&gt;
+&lt;p&gt;Start the created virtual machine above in VirtualBox.&lt;/p&gt;
+&lt;p&gt;Please enter new password for the root account: &lt;br/&gt; Confirm Password: &lt;br/&gt; Please enter new password for the MySQL &#039;root&#039; account: &lt;br/&gt; Confirm Password: &lt;br/&gt; initialize Hub services: skip&lt;br/&gt; Security updates: skip&lt;br/&gt; RAILS appliance services: Advanced Menu&lt;br/&gt; Advanced Menu: Networking&lt;br/&gt; Networking: DHCP&lt;br/&gt; Select &quot;Back&quot; and select &quot;Reboot&quot;&lt;br/&gt; RAILS appliance services: Advanced Menu&lt;br/&gt; Advanced Menu: Quit&lt;/p&gt;
+&lt;p&gt;In the terminal window of TurnKey Linux, login as root.&lt;/p&gt;
+&lt;p&gt;Install the cyber-dojo github repo.&lt;br/&gt; $ cd /var/www&lt;br/&gt; $ git clone https://JonJagger@github.com/JonJagger/cyberdojo&lt;/p&gt;
+&lt;p&gt;Install cyber-dojo as the default rails server, the necessary gems, and docker&lt;br/&gt; $ cd /var/www/cyberdojo/admin_scripts&lt;br/&gt; $ ./setup_docker_server.sh&lt;/p&gt;
+&lt;p&gt;Reboot TurnKey Linux and setup eth0&#039;s IP address&lt;br/&gt; $ shutdown -r now&lt;br/&gt; &quot;RAILS appliance services&quot; -&amp;gt; &quot;Adanced Menu&quot; -&amp;gt; Networking -&amp;gt; eth0 (make sure there is a * near eth0) -&amp;gt; DHCP -&amp;gt; Back to &quot;Advanced Menu&quot; -&amp;gt; Shutdown&lt;/p&gt;
+&lt;p&gt;In Terminal of OS X, run the following command to map host&#039;s (Mac&#039;s) port 8000 to guest&#039;s (TurnKey Linux&#039;s) port 80, whose name is &quot;turn-key-linux-rails&quot; in VirtualBox.&lt;br/&gt; $ VBoxManage modifyvm &quot;turn-key-linux-rails&quot; --natpf1 &quot;guestssh,tcp,,8000,,80&quot;&lt;/p&gt;
+&lt;p&gt;Start TurnKey Linux virtual machine.&lt;/p&gt;
+&lt;p&gt;In OS X, use a web browser to visit http://localhost:8000. You could see the homepage of your own cyber-dojo web server. Click &quot;Create&quot; in the homepage to open exercise selection page. In this page, you could see a list of exercises in the middle of the page. But there is no languages under &quot;lanugage?&quot;. You need to install pre-built cyber-dojo docker-containers.&lt;/p&gt;
+&lt;p&gt;As root, run the following command to list the image names of cyber-dojo docker containers.&lt;br/&gt; $ docker search cyberdojo | sort&lt;br/&gt; Now do a&lt;br/&gt; $ docker pull &lt;br/&gt; for each repository of your choice. For example,&lt;br/&gt; $ docker pull cyberdojo/java-1.8_junit&lt;br/&gt; Alternatively, you can simply install them all.&lt;br/&gt; $ cd /var/www/cyberdojo/admin_scripts&lt;br/&gt; $ ./docker_pull_all.rb&lt;/p&gt;
+&lt;p&gt;As soon as you have pulled a repository, you could see it in the exercise selection web page of cyber-dojo server without rebooting the server.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>It&#039;s not a hurry in my opinio…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:39844"/>
+                                        <id>tag:coderetreat.org,2014-10-16:6456126:Comment:39844</id>
+                                        <updated>2014-10-16T11:39:58.549Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;It&#039;s not a hurry in my opinion. I just thought it would be a good idea to have them a week or so before the GDCR.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;br/&gt;Adi&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;It&#039;s not a hurry in my opinion. I just thought it would be a good idea to have them a week or so before the GDCR.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;br/&gt;Adi&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Sure. I&#039;m going to share it n…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:39768"/>
+                                        <id>tag:coderetreat.org,2014-10-16:6456126:Comment:39768</id>
+                                        <updated>2014-10-16T10:28:05.752Z</updated>
+                    
+                                            <author>
+                            <name>Ben Wu</name>
+                            <uri>http://coderetreat.org/profile/BenWu</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        Sure. I&#039;m going to share it next week. Very hectic this week. Sorry.&lt;br /&gt;
+&lt;br /&gt;
+Ben&lt;br /&gt;
+&lt;br&gt;&lt;/br&gt;
+&lt;br&gt;&lt;/br&gt;
+&lt;cite&gt;Adi Bolboaca said:&lt;/cite&gt;&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/detailed-instructions-to-set-up-cyber-dojo-server?groupUrl=facilitators&amp;amp;#6456126Comment39641&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;Hi Ben,&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Please share the detailed instructions if you have them. I think it would be useful for everyone to see…&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                    </summary>
+
+                                            <content type="html">
+                            Sure. I&#039;m going to share it next week. Very hectic this week. Sorry.&lt;br /&gt;
+&lt;br /&gt;
+Ben&lt;br /&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;cite&gt;Adi Bolboaca said:&lt;/cite&gt;&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/detailed-instructions-to-set-up-cyber-dojo-server?groupUrl=facilitators&amp;amp;#6456126Comment39641&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;Hi Ben,&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Please share the detailed instructions if you have them. I think it would be useful for everyone to see them.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;Adi&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Ben,
+
+Please share the det…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:39641"/>
+                                        <id>tag:coderetreat.org,2014-10-13:6456126:Comment:39641</id>
+                                        <updated>2014-10-13T06:17:01.904Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Ben,&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Please share the detailed instructions if you have them. I think it would be useful for everyone to see them.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;Adi&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Ben,&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Please share the detailed instructions if you have them. I think it would be useful for everyone to see them.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;Adi&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Finally got it working on my…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:39478"/>
+                                        <id>tag:coderetreat.org,2014-10-13:6456126:Comment:39478</id>
+                                        <updated>2014-10-13T02:07:38.121Z</updated>
+                    
+                                            <author>
+                            <name>Ben Wu</name>
+                            <uri>http://coderetreat.org/profile/BenWu</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Finally got it working on my Mac with the help of another facilitator Xiaokang of GDCR Beijing 2014. Willing to share the detailed installation steps if you want.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Finally got it working on my Mac with the help of another facilitator Xiaokang of GDCR Beijing 2014. Willing to share the detailed installation steps if you want.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

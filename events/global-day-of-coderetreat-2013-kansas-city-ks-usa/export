@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26696
+DTSTAMP:20170129T115104Z
+SUMMARY:Global Day of Coderetreat 2013 - Kansas City, KS, USA
+DESCRIPTION:Wes Garrison of Databasically will be facilitating a coder
+ etreat for Kansas City. Details to come.\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-2013-kansas-c
+ ity-ks-usa
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Kansas City, KS
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Wes Garrison":http://coderetreat.org/profile/WesGarrison
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wes Garr
+ ison":http://coderetreat.org/profile/WesGarrison
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38075
+DTSTAMP:20170129T120243Z
+SUMMARY:Global Day of Coderetreat 2014 - Fortaleza, Brazil
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time.\n\nFor more information visit http://coderetr
+ eat.org/events/global-day-of-coderetreat-2014-fortaleza-brazil
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TriadWorks
+WEBSITE:
+URL:
+CONTACT:+55 85 8645-1987
+ORGANIZER;CN="Paulo Benety Mendes de Lima":http://coderetreat.org/prof
+ ile/PauloBenetyMendesdeLima
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paulo Be
+ nety Mendes de Lima":http://coderetreat.org/profile/PauloBenetyMendesd
+ eLima
+END:VEVENT
+END:VCALENDAR

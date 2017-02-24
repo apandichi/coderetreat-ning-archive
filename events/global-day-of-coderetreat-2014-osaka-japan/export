@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39765
+DTSTAMP:20170129T102725Z
+SUMMARY:Global Day of Coderetreat 2014 - Osaka, Japan
+DESCRIPTION:Hello there,\nWe are happy to join the Global Day of Coder
+ etreat 2014.\n\nFor more information visit http://coderetreat.org/even
+ ts/global-day-of-coderetreat-2014-osaka-japan
+DTSTART:20141115T100000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:JAC Recruitment Inc.
+WEBSITE:http://connpass.com/event/9363/
+URL:http://connpass.com/event/9363/
+CONTACT:
+ORGANIZER:Takuya Kawabe
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="かわ�
+ �　たくや":http://coderetreat.org/profile/0g0r3tmnsb7nb
+END:VEVENT
+END:VCALENDAR

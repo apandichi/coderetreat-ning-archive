@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28168
+DTSTAMP:20170129T115326Z
+SUMMARY:Global Day of Coderetreat 2013 - Boulder, CO, USA
+DESCRIPTION:Boulder Colorado is participating in the Global Day of Co
+ de Retreat 2013\n\nRSVP at http://coderetreatboulder13.eventbrite.com
+ /\n\nFor more information visit http://coderetreat.org/events/global-d
+ ay-of-code-retreat-2013-boulder-co
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Gnip Office
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Nick howard, Shannon McCoy
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick how
+ ard":http://coderetreat.org/profile/Nickhoward
+END:VEVENT
+END:VCALENDAR

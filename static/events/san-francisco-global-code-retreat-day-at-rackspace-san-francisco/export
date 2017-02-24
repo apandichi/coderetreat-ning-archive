@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12830
+DTSTAMP:20170129T134704Z
+SUMMARY:Global Day of Coderetreat 2012 - San Francisco, CA / USA
+DESCRIPTION:Be excited! Be Excited!\nThe Rackspace SFO office is at 62
+ 0 Folsom St, near 2nd St.\nNote the start time of 10am --- it is a Sat
+ urday after all. We'll still get in a good number of sessions, retrosp
+ ectives, lunch and a closing circle.\nBased on the RSVP listed here, I
+  expect a small and tailorable event. See you then!\nLucy.\nDay of det
+ ails:\nThe official hashtag is #gdcr12Â might as well hashtag #coderet
+ reat, too.\nIRC hangout is #coderetreat on irc.freenode.net\nKick off 
+ at 10am --- I'll be there at 9.30 setting things up, making sure there
+  is coffee and food, etc, so it's ok to come a little early.Â \nMore d
+ etails:Â https://docs.google.com/presentation/pub?id=1FBxTLfJN8-b_WtQ-
+ AILoNC8t7ztuhpO9pPiCO_DHdTg&start=false&loop=false&delayms=3000\n\nFor
+  more information visit http://coderetreat.org/events/san-francisco-gl
+ obal-code-retreat-day-at-rackspace-san-francisco
+DTSTART:20121208T100000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Rackspace SFO
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="lucy mendel":http://coderetreat.org/profile/lucymendel
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zee Spen
+ cer":http://coderetreat.org/profile/ZeeSpencer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anton HÃ
+ ¤gerstrand":http://coderetreat.org/profile/AntonHaegerstrand
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nick Mor
+ gan":http://coderetreat.org/profile/NickMorgan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daven Pa
+ tel":http://coderetreat.org/profile/DavenPatel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Samir Ta
+ lwar":http://coderetreat.org/profile/SamirTalwar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chris Hu
+ nt":http://coderetreat.org/profile/chrishunt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Lee
+ ":http://coderetreat.org/profile/MikeLee
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mister K
+ en":http://coderetreat.org/profile/MisterKen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="lucy men
+ del":http://coderetreat.org/profile/lucymendel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Kari Ma
+ h":http://coderetreat.org/profile/KariMah
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Gabriel
+  Grant":http://coderetreat.org/profile/GabrielGrant
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Elle Su
+ zuki":http://coderetreat.org/profile/ElleSuzuki
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="David Y
+ u":http://coderetreat.org/profile/DavidYu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Ted M. 
+ Young":http://coderetreat.org/profile/TedMYoung
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Javi Se
+ rna":http://coderetreat.org/profile/JaviSerna
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Carina 
+ C. Zona":http://coderetreat.org/profile/CarinaCZona
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Elisabe
+ th Hendrickson":http://coderetreat.org/profile/ElisabethHendrickson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jennife
+ r Usher":http://coderetreat.org/profile/JenniferUsher
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Bill D"
+ :http://coderetreat.org/profile/BillD
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Daniell
+ e Robinson":http://coderetreat.org/profile/DanielleRobinson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Kurt Gr
+ iffiths":http://coderetreat.org/profile/KurtGriffiths
+END:VEVENT
+END:VCALENDAR

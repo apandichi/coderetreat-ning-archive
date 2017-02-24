@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2db9jtfwytmy1&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:25:34Z</updated>
+                            <author>
+                    <name>Emma</name>
+                    <uri>http://coderetreat.org/profile/Emma</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2db9jtfwytmy1&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Fernando Pérez</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/FernandoPerez"/>
+                                        <id>tag:coderetreat.org,2012-09-07:6456126:User:12203</id>
+                                        <updated>2012-09-07T13:04:34.070Z</updated>
+                    
+                                            <author>
+                            <name>Emma</name>
+                            <uri>http://coderetreat.org/profile/Emma</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/LxsVWa6ORhO61ho*miwcFwLo3h8rjc-bfQy45nmeFvpqpEwr4WVFT3qRFuc4KVtSTPln31Z2KickLdoTtgZQ1BW65HbnoBZa/511730900.jpeg?xgip=3%3A13%3A183%3A183%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Fernando Pérez&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/LxsVWa6ORhO61ho*miwcFwLo3h8rjc-bfQy45nmeFvpqpEwr4WVFT3qRFuc4KVtSTPln31Z2KickLdoTtgZQ1BW65HbnoBZa/511730900.jpeg?xgip=3%3A13%3A183%3A183%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Fernando Pérez&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

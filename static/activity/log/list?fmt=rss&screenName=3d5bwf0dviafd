@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Sergey Kudelin&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SergeyKudelin</link>
+        <pubDate>Sun, 29 Jan 2017 09:33:07 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:33:07 +0000</lastBuildDate>
+        <image>
+            <title>Sergey Kudelin&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SergeyKudelin</link>
+            <url>http://api.ning.com:80/files/G834pRjVCIFHprhZ5ID*G6NNi0wv7mvr1W6hNdqvu6nTkTBuHQS1EwBKPfFdQOJknTQet0fulNYzqKPbW9oPbeh3ZILiFMsp/1242960977.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012bddef88107e2d06d76048a</guid>
+               <title>Sergey Kudelin updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:56656?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SergeyKudelin?xg_source=activity">Sergey Kudelin</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56656?xg_source=activity">Global Day of Coderetreat in Ukhta</a> at Russia, Ukhta</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 11am to 5pm</div><div class="rich-excerpt">We are an Ukhta State University IT department and this is our first try to organize a Coderetreat event. For all information please write to mail2sergk@gmail.com<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:56656?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 21 Oct 2016 08:09:27 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012bddef81010c966885bd21b</guid>
+               <title>Sergey Kudelin posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:56656?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SergeyKudelin?xg_source=activity">Sergey Kudelin</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56656?xg_source=activity">Coderetreat Day in Ukhta</a> at Ukhta</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 11am to 5pm</div><div class="rich-excerpt">We are an Ukhta State University IT department and this is our first try to organize a Coderetreat event. For all information please write to mail2sergk@gmail.com<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:56656?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 19 Oct 2016 11:27:51 +0000</pubDate>
+               </item>    </channel>
+</rss>

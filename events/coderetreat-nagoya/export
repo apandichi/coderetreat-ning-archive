@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9018
+DTSTAMP:20170129T125518Z
+SUMMARY:Coderetreat Nagoya
+DESCRIPTION:The fist Coderetreat in Nagoya area.\nRSVP will be open at
+ :\nhttp://kokucheese.com/event/index/30165/\nIf you have problems regi
+ stering the event,  please contact me.\nDate changed to 4/28.  \n\nF
+ or more information visit http://coderetreat.org/events/coderetreat-na
+ goya
+DTSTART:20120428T090000Z
+DTEND:20120428T170000Z
+CATEGORIES:coderetreat
+LOCATION:Piano Bar Club Adriana
+WEBSITE:http://www.club-adriana.com/profile.html
+URL:http://www.club-adriana.com/profile.html
+CONTACT:
+ORGANIZER:Kiro HARADA / Geek Bar Nagoya
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/gekG*boAQcoOF
+ WaMYprhtR7RUDFpY8RKlbMt5uvDwnlTiE8R81sZ-Lox0Dc96ACEK*eJ4XtXDekLYMQkBbv
+ tQ6TDdPuuBkH5/289pxNagoyacastleKeep_tower1.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kiro HAR
+ ADA":http://coderetreat.org/profile/KiroHARADA
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40974
+DTSTAMP:20170129T135113Z
+SUMMARY:Global Day of Coderetreat 2014 - Valencia, Spain
+DESCRIPTION:Global Day of Coderetreat 2014 - Valencia, Spain\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2014-valencia-spain
+DTSTART:20141115T090000Z
+DTEND:20141115T183000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Valencia
+WEBSITE:http://coderetreat.peertransfer.com/
+URL:http://coderetreat.peertransfer.com/
+CONTACT:
+ORGANIZER;CN=Emma:http://coderetreat.org/profile/Emma
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Emma:http
+ ://coderetreat.org/profile/Emma
+END:VEVENT
+END:VCALENDAR

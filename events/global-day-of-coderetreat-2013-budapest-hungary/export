@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27074
+DTSTAMP:20170129T104249Z
+SUMMARY:Global Day of Coderetreat 2013 - Budapest, Hungary
+DESCRIPTION:Details and RSVP will be available in our meetup group:\nh
+ ttp://www.meetup.com/Coderetreat-Budapest/\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2013-budape
+ st-hungary
+DTSTART:20131214T093000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Budapest
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Rafael Devill":http://coderetreat.org/profile/RafaelDevi
+ ll
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael D
+ evill":http://coderetreat.org/profile/RafaelDevill
+END:VEVENT
+END:VCALENDAR

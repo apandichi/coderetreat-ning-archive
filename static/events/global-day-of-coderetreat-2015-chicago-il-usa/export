@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46035
+DTSTAMP:20170129T121703Z
+SUMMARY:Global Day of Coderetreat 2015 - Chicago, IL, USA
+DESCRIPTION:8th Light is once again hosting the Global Day of Code Ret
+ reat. This time at our new office!\nPlease RSVP using the Eventbrite p
+ age.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-chicago-il-usa
+DTSTART:20151114T090000Z
+DTEND:20151114T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Chicago
+WEBSITE:https://www.eventbrite.com/e/global-day-of-coderetreat-2015-ch
+ icago-tickets-18737869472
+URL:https://www.eventbrite.com/e/global-day-of-coderetreat-2015-chicag
+ o-tickets-18737869472
+CONTACT:
+ORGANIZER;CN="Eric Meyer":http://coderetreat.org/profile/EricMeyer
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/MN6ZNqVOIKP-4
+ U3j-cGoKz*24hzeWeJsbxAob7Nqb3vRsF9cO10loGDxyKz4ZMaC74lg6Op89jZD2nbHJci
+ V2hNq-01AXV1U/8thLightlogotransparent.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eric Mey
+ er":http://coderetreat.org/profile/EricMeyer
+END:VEVENT
+END:VCALENDAR

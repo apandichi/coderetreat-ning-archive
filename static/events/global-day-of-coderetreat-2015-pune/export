@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45739
+DTSTAMP:20170129T121923Z
+SUMMARY:Global Day of Coderetreat 2015 - Pune, India
+DESCRIPTION:[booked up - RSVP disabled]\nImagine a day writing code ju
+ st for the love of writing it beautifully!\nA day without the office p
+ ressures of \"getting things done\" ... a day just focused on practici
+ ng the art of writing clean, lean, modular and test driven code...\nWe
+ lcome to the Global Day of Code Retreat, an annual global event whe
+ re passionate programmers come together to hone their skills.\nGDCR 20
+ 15 will be held on 14th November 2015 across 100-150 cities around 
+ the world... and will involve more than 2000 programmers.\nEqual Exper
+ ts India is proud to host the Pune chapter of GDCR 2015 with suppor
+ t by Nelkinda Software Craft Pvt Ltd. Christian Hujer will facilitate
+  this day long event.\nThis link gives an idea of what a typical Code
+  Retreat Day looks like... and we will be following a similar structur
+ e on the day.\n\nBring your laptop with your favorite language & IDE i
+ nstalled.\nCode in any language of your choice.\nWe will be taking car
+ e of lunch & evening snacks.\nYou can now also register on Meetup if y
+ ou prefer.\n\nLinks\n\nEqual Experts India (Host, Food Sponsor)\nNelki
+ nda Software Craft (Facilitator, Food Sponsor)\nMap to Equal Experts (
+ Location)\nThis event on Meetup\nThis event on the Nelkinda Website\n\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2015-pune
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Equal Experts India Pvt Ltd, Cerebrum IT Park Office 4-C (2nd
+  floor above D-Mart)
+WEBSITE:https://www.google.com/maps/place/Equal+Experts+India+Pvt+Ltd/
+URL:https://www.google.com/maps/place/Equal+Experts+India+Pvt+Ltd/
+CONTACT:+917720036661
+ORGANIZER:Equal Experts India Pvt Ltd
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/NO5p8TYffu2Eg
+ jXYos5a8clqGULfHgUQ49B-9lW2j-CbEoOKVEI6MGzWpf8IgIjw3lT1WVMgqvd7kiFcTQD
+ qUoAI6gksUxN*/ShaniwarWada.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Hujer":http://coderetreat.org/profile/ChristianHujer
+END:VEVENT
+END:VCALENDAR

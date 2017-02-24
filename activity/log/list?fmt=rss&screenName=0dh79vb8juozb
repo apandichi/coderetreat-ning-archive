@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>roygkov&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/roygkov</link>
+        <pubDate>Sun, 29 Jan 2017 12:18:02 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:18:02 +0000</lastBuildDate>
+        <image>
+            <title>roygkov&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/roygkov</link>
+            <url>http://api.ning.com:80/files/poNlDA9JoO31n7ZgzxBbUeObQz8h5KyuUZ1aHvM7ojg5l2j7zY3d-057HN-zggQ0LfFRHZVVn3jog40ZceJyWds0NZuRYlQW/1148721940.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012019e5b9020ab6366c6354f</guid>
+               <title>roygkov posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48010?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/roygkov?xg_source=activity">roygkov</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48010?xg_source=activity">Global Day of Coderetreat 2015 - Mogilev, BY</a> at Mogilev</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 10am to 8pm</div><div class="rich-excerpt">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the code retreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.   More specifically,  individuals are are grouped into teams of two and each team “solves” a common problem, ‘The Game of Life’.  There are 6 sessions throughout the day and for each session the groups are reorganized and the code deleted.  After each session there are session reflections to help with the  internalization of lessons. Please join us for a full day of hands-on coding practice to improve your craft.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48010?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 22 Oct 2015 15:38:32 +0000</pubDate>
+               </item>    </channel>
+</rss>

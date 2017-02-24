@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28691
+DTSTAMP:20170129T101924Z
+SUMMARY:Global Day of Coderetreat 2013 - Karachi, Pakistan
+DESCRIPTION:Calling fellow hackers,  Active Capital IT is hosting a G
+ lobal Code Retreat Day. What you get to do is:- Meet other like min
+ ded developers and be part of a broader initiative Get to mentor other
+  developers from the industry and learn from them Learn new tools, tec
+ hnologies and languages (Different and diverse programming languages a
+ nd perspectives are appreciated). Kudos to the person who can implem
+ ent the Game of Life in Stored Database Procedures :) Come up with you
+ r own game plan and learn about concepts such as code coverage, pair
+  programming, good design and happy coding. Hopefully this will be the
+  first of many events that will eventually gear into other Hacking / O
+ pen Source Initiatives. And remember, we are all here to learn. So if 
+ you havent put on that programming cap in a while, now is the best tim
+ e to brush up on resources. Creative and novel approaches will be app
+ lauded.  Looking forward to your presence at 11:00 am on Saturday[14th
+  December, 2013]. Location Details are available here: http://www.a
+ cit.com/contact/  And dont forget to RSVP at http://coderetreat.org/e
+ vents/gdcr-2013-karachi  Looking forward to your Arrival  Basit Ali (S
+ oftware Developer) bali@acit.com 03332470654  Iqbal Talaat (Software D
+ eveloper) italaat@acit.com http://about.me/iqqi 03228485525  Noman Ali
+  (Software Developer) noman.ali@acit.com 03332421343\n\nFor more infor
+ mation visit http://coderetreat.org/events/gdcr-2013-karachi
+DTSTART:20131214T110000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Active Capital IT
+WEBSITE:http://www.acit.com
+URL:http://www.acit.com
+CONTACT:923228485525
+ORGANIZER;CN="Iqbal Talaat Bhatti":http://coderetreat.org/profile/Iqba
+ lTalaatBhatti
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/BZVbc20jWUk6T
+ n5IlhmQJeYQxad5zFVdJZX6AAZFLlklRwl2EOjJlZyoPWzg3U11wKrL5Zd08EamHmB789Z
+ O3gKQut3slOnC/DSC01878.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Asif Ali
+ ":http://coderetreat.org/profile/AsifAli
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Muhammad
+  Furqan":http://coderetreat.org/profile/MuhammadFurqan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ali Zia"
+ :http://coderetreat.org/profile/AliZia
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ayesha S
+ hamim":http://coderetreat.org/profile/AyeshaShamim
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Shermeen
+  Zubair":http://coderetreat.org/profile/ShermeenZubair
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Syeda Sa
+ ra Ahmed":http://coderetreat.org/profile/SyedaSaraAhmed
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="M. Arsal
+ an Anwar":http://coderetreat.org/profile/MArsalanAnwar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Hashim M
+ uqtadir":http://coderetreat.org/profile/HashimMuqtadir
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rehman S
+ ayani":http://coderetreat.org/profile/RehmanSayani
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kamal Ah
+ med Siddiqui":http://coderetreat.org/profile/KamalAhmedSiddiqui182
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sameer R
+ afiq":http://coderetreat.org/profile/SameerRafiq
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Najam Ah
+ med Ansari":http://coderetreat.org/profile/NajamAhmedAnsari
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Basit Al
+ i":http://coderetreat.org/profile/BasitAli
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Iqbal Ta
+ laat Bhatti":http://coderetreat.org/profile/IqbalTalaatBhatti
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Qambar R
+ aza":http://coderetreat.org/profile/QambarRaza
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Imad Moh
+ ammad Mujeeb":http://coderetreat.org/profile/ImadMohammadMujeeb
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Noman Al
+ i":http://coderetreat.org/profile/NomanAli
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27102
+DTSTAMP:20170129T121047Z
+SUMMARY:Global Day of Coderetreat 2013 - Toronto, Canada
+DESCRIPTION:Global Day of Coderetreat 2013 - Toronto, Canada\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2013-toronto-canada
+DTSTART:20131214T100000Z
+DTEND:20131214T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Chris Gow":http://coderetreat.org/profile/ChrisGow
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chris Go
+ w":http://coderetreat.org/profile/ChrisGow
+END:VEVENT
+END:VCALENDAR

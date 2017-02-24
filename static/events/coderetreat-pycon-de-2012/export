@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13668
+DTSTAMP:20170129T122656Z
+SUMMARY:Coderetreat - PyCon DE 2012
+DESCRIPTION:At this year's PyCon DE (taking place from Oct 29th to Nov
+  3rd in Leipzig, Germany) there will also be a coderetreat alongside 
+ the usual sprints.\nOf course you're free to use whatever programming 
+ language you choose during this coderetreat.\nFurther information can
+  be found on the official PyCon DE 2012 site.\nIf you want to attend, 
+ please add your name to this wiki page.\n\nFor more information visit 
+ http://coderetreat.org/events/coderetreat-pycon-de-2012
+DTSTART:20121103T000000Z
+DTEND:20121103T235900Z
+CATEGORIES:coderetreat, pycon, conference
+LOCATION:Leipziger KUBUS
+WEBSITE:https://2012.de.pycon.org/tagungsort/
+URL:https://2012.de.pycon.org/tagungsort/
+CONTACT:
+ORGANIZER:Wolfgang Schnerring, Benjamin Reitzammer
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/BlbsULum97v6D
+ FQqb*OPN4q*-MMyyKk0sRLWixDyT3w60kEzfR-i4q10RorPst5ACQ55dQU-ZDyFgD*K93r
+ Xm-lF7nE4F2Kn/logopycon.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Benjamin
+  Reitzammer":http://coderetreat.org/profile/BenjaminReitzammer
+END:VEVENT
+END:VCALENDAR

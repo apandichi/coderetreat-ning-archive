@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:24086
+DTSTAMP:20170129T123039Z
+SUMMARY:Coderetreat Saigon
+DESCRIPTION:This event is being hosted simultaneously in Hanoi and Ho 
+ Chi Minh City as part of the Vietnam Day of Code Retreat!\n\nFor more 
+ information visit http://coderetreat.org/events/coderetreat-saigon
+DTSTART:20130525T080000Z
+DTEND:20130525T170000Z
+CATEGORIES:"2nd vietnam coderetreat"
+LOCATION:Ho Chi Minh City
+WEBSITE:https://www.facebook.com/events/370592903047282/
+URL:https://www.facebook.com/events/370592903047282/
+CONTACT:
+ORGANIZER:Alex Rosales
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lukas Ry
+ pl":http://coderetreat.org/profile/LukasRypl
+END:VEVENT
+END:VCALENDAR

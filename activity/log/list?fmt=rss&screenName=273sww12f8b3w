@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Fauvel Sébastien&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/FauvelSebastien</link>
+        <pubDate>Sun, 29 Jan 2017 12:53:52 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:53:52 +0000</lastBuildDate>
+        <image>
+            <title>Fauvel Sébastien&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/FauvelSebastien</link>
+            <url>http://api.ning.com:80/files/nkLEPVQ6s9dthVYTD1lEbajRtwCl1fXAZ6Q8Ehcr-Q0jzME*454G1tI1Mx2CdGbTjvkoDY9Tu1qmlh6299l9cze7eGjGu3pU/1145895284.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011f9006c85a34b3aa5780419</guid>
+               <title>Fauvel Sébastien posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:56120?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/FauvelSebastien?xg_source=activity">Fauvel S&eacute;bastien</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:56120?xg_source=activity">Global Day of Coderetreat 2016 - Nantes, France</a> at Nantes</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">Pour la première fois, le code retreat aura lieu à Nantes. Ne manquez pas cette occasion en vous inscrivant au meetup du groupe Software Crafts(wo)manship Nantes:https://goo.gl/RNIzzf<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:56120?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 06 Oct 2016 07:23:28 +0000</pubDate>
+               </item>    </channel>
+</rss>

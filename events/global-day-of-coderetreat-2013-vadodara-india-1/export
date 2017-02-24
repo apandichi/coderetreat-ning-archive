@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:31866
+DTSTAMP:20170129T101906Z
+SUMMARY:Global Day of Coderetreat 2013 - Vadodara, India
+DESCRIPTION:Java User Group Vadodara, is hosting the Global day of Cod
+ eretreat.\n\n\nFor more information visit http://coderetreat.org/event
+ s/global-day-of-coderetreat-2013-vadodara-india-1
+DTSTART:20131214T100000Z
+DTEND:20131214T153000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Signature Plaza,
+WEBSITE:https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=S
+ ignature+Plaza,+Nizampura,+Vadodara,+India&aq=&sll=37.0625,-95.677068&
+ sspn=37.683309,86.044922&vpsrc=0&ie=UTF8&hq=&hnear=Signature+Plaza,+Sa
+ rdar+Nagar,+%E0%AA%A8%E0%AA%BF%E0%AA%9D%E0%AA%BE%E0%AA%AE%E0%AA%AA%E0%
+ AB%81%E0%AA%B0%E0%AA%BE,+Vadodara,+%E0%AA%97%E0%AB%81%E0%AA%9C%E0%AA%B
+ 0%E0%AA%BE%E0%AA%A4+390024,+India&t=m&z=19&iwloc=A
+URL:https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Signa
+ ture+Plaza,+Nizampura,+Vadodara,+India&aq=&sll=37.0625,-95.677068&sspn
+ =37.683309,86.044922&vpsrc=0&ie=UTF8&hq=&hnear=Signature+Plaza,+Sardar
+ +Nagar,+%E0%AA%A8%E0%AA%BF%E0%AA%9D%E0%AA%BE%E0%AA%AE%E0%AA%AA%E0%AB%8
+ 1%E0%AA%B0%E0%AA%BE,+Vadodara,+%E0%AA%97%E0%AB%81%E0%AA%9C%E0%AA%B0%E0
+ %AA%BE%E0%AA%A4+390024,+India&t=m&z=19&iwloc=A
+CONTACT:94260 54269
+ORGANIZER;CN="Pravin Jain":http://coderetreat.org/profile/PravinJain
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pravin J
+ ain":http://coderetreat.org/profile/PravinJain
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="santosh 
+ zaveri":http://coderetreat.org/profile/santoshzaveri
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jigar Sh
+ ah":http://coderetreat.org/profile/JigarShah
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Padma J
+ adav":http://coderetreat.org/profile/PadmaJadav
+END:VEVENT
+END:VCALENDAR

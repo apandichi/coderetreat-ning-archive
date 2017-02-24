@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Sean Duckett&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SeanDuckett</link>
+        <pubDate>Sun, 29 Jan 2017 10:32:38 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:32:38 +0000</lastBuildDate>
+        <image>
+            <title>Sean Duckett&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SeanDuckett</link>
+            <url>http://api.ning.com:80/files/REqOXlBbGhhCefKMabTLrPxLmldmhp3ktsnBs71DXg0BEA-dIx0WVSyJwaVwsBnR443hiB9WIQjmidAXmpdZzl9dZbjuq-bo/1134003945.jpeg?xgip=0%3A80%3A766%3A766%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010d8620588e9bf2f67e8f46a</guid>
+               <title>Sean Duckett updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:44933?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SeanDuckett?xg_source=activity">Sean Duckett</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:44933?xg_source=activity" ><img src="http://api.ning.com/files/kxHgIwaq8U9s9Fukbc-PUMvA0efuQTjRxYyyF6wbll5pS013Fj0SH8rTWBFTxO3YLHQ2K023PIA2QocGbtv7G3p67dDWz0Gc/Rules_of_Conways_game_of_life__Glider.gif?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:44933?xg_source=activity">Global Day of Coderetreat 2015 - Denver, CO, USA</a> at Rally Software</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 5pm</div><div class="rich-excerpt">Come practice the art of problem solvers with a group of software-oriented folk in Denver, CO. Register here: <a href="http://gdcr15-denver.eventbrite.com" target="_blank">http://gdcr15-denver.eventbrite.com</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:44933?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 26 Oct 2015 22:26:35 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010d862058e259b28f1a469ee</guid>
+               <title>Sean Duckett posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:44933?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SeanDuckett?xg_source=activity">Sean Duckett</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:44933?xg_source=activity">Global Day of Coderetreat 2015 - Denver, CO, USA</a> at Downtown</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 4pm</div><div class="rich-excerpt">Come practice the art of problem solvers with a group of software-oriented folk in Denver, CO. Register here: <a href="http://gdcr15-denver.eventbrite.com" target="_blank">http://gdcr15-denver.eventbrite.com</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:44933?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 27 Jul 2015 16:27:56 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010d8620583b2aa8f536a5adb</guid>
+               <title>Sean Duckett updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:37873?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SeanDuckett?xg_source=activity">Sean Duckett</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:37873?xg_source=activity">Global Day of Coderetreat 2014 - Denver, CO, USA</a> at Pivotal Labs</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Pivotal Labs will be hosting a Denver instance of Code Retreat as others around the world do the same. We'll meet at 8am at Pivotal's office within Galvanize and spend the day practicing our craft of programming.Pair programming, test-driven development, and conscious practice are the main themes of the day, which we will explore through the lens of a single programming problem in six 45 minute sessions. When a session is over, we'll talk about how we approached the problem: how our choices of language, paradigm, and vocabulary shaped the solution. We'll also think about how our approach to pairing affected the kind of solution that was developed. At the end of the hour, we'll delete our code, find a new pair, and explore the problem again.Everyone is welcome - beginner, intermediate, expert - and everyone will learn something new, likely something unexpected, about the craft of programming. You'll need only a few things: a laptop with your favorite development tools, an open mind, and a sense of humor for when we delete our code.Food and drink (coffee, tea, soda-pop, but no alcohol) will be provided for both breakfast and lunch. Once we're done, some might decide to socialize at a nearby pub.If you will attend, please register - there's a link to Eventbrite below - to help us ensure there is enough food for everyone to be happy.See you in November!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:37873?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 26 Sep 2014 15:43:30 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010d862053d274c46128e1c98</guid>
+               <title>Sean Duckett posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:37873?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SeanDuckett?xg_source=activity">Sean Duckett</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:37873?xg_source=activity">Global Day of Coderetreat 2014 - Denver, CO, USA</a> at TBD</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Pivotal Labs will be hosting a Denver instance of Code Retreat as others around the world do the same. We'll meet at 8am at Pivotal's office within Galvanize and spend the day practicing our craft of programming.Pair programming, test-driven development, and conscious practice are the main themes of the day, which we will explore through the lens of a single programming problem in six 45 minute sessions. When a session is over, we'll talk about how we approached the problem: how our choices of language, paradigm, and vocabulary shaped the solution. We'll also think about how our approach to pairing affected the kind of solution that was developed. At the end of the hour, we'll delete our code, find a new pair, and explore the problem again.Everyone is welcome - beginner, intermediate, expert - and everyone will learn something new, likely something unexpected, about the craft of programming. You'll need only a few things: a laptop with your favorite development tools, an open mind, and a sense of humor for when we delete our code.Food and drink (coffee, tea, soda-pop, but no alcohol) will be provided for both breakfast and lunch. Once we're done, some might decide to socialize at a nearby pub.If you will attend, please register - there's a link to Eventbrite below - to help us ensure there is enough food for everyone to be happy.See you in November!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:37873?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 05 Sep 2014 15:24:49 +0000</pubDate>
+               </item>    </channel>
+</rss>

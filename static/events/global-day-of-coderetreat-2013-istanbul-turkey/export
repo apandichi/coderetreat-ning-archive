@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29749
+DTSTAMP:20170129T115537Z
+SUMMARY:Global Day of Coderetreat 2013 - Istanbul, Turkey
+DESCRIPTION:Agile Turkey is hosting the Global Day Coderetreat 2013.
+  \nClick here for registration\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-coderetreat-2013-istanbul-turkey
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Microsoft Istanbul Office
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Agile Turkey":http://coderetreat.org/profile/AgileTurkey
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/GZDzX3ZqtQ5TV
+ J2AEnSwkw15WbnDoudaRlFcUC8G8nzN4kvKiRpgrxPROqKpgAKblGn5J*Z2e0dg2DY0fSk
+ jxOnKnFTKhlNv/248168_468570343221746_951554441_n.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Timuçin
+  Anuşlu":http://coderetreat.org/profile/TimucinAnuslu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Agile Tu
+ rkey":http://coderetreat.org/profile/AgileTurkey
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lemi Orh
+ an Ergin":http://coderetreat.org/profile/LemiOrhanErgin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Hüseyin
+  BABAL":http://coderetreat.org/profile/HueseyinBABAL
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ahmet Ak
+ dağ":http://coderetreat.org/profile/AhmetAkdag
+END:VEVENT
+END:VCALENDAR

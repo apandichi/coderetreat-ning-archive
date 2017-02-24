@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=05l4v58eegi6p&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:44:22Z</updated>
+                            <author>
+                    <name>Benjamin Nothdurft</name>
+                    <uri>http://coderetreat.org/profile/BenjaminNothdurft</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ucNE*u2-Ii7Q8E-3ccDPg-Nr*BOSSp4ZONIrEk0DG*jMoCOOzHcV51vc9SGnVNtOwja5wc9G6edb0o2fWrXu8oKLoYIuKprN/1200060092.jpeg?xgip=0%3A0%3A458%3A458%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=05l4v58eegi6p&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Marco Emrich</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MarcoEmrich"/>
+                                        <id>tag:coderetreat.org,2011-12-03:6456126:User:2867</id>
+                                        <updated>2011-12-03T03:34:37.522Z</updated>
+                    
+                                            <author>
+                            <name>Benjamin Nothdurft</name>
+                            <uri>http://coderetreat.org/profile/BenjaminNothdurft</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/zkGb0X42pMTifX1Mcg0cOMEemnbNtFTY7k4XsCN6vXrOPXcx1LTNhsNZqsqVqVHQDV1LPxduxHz0odGgGkmJi7oS0cdqylQ3/1021128860.jpeg?xgip=0%3A267%3A2485%3A2485%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Marco Emrich&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/zkGb0X42pMTifX1Mcg0cOMEemnbNtFTY7k4XsCN6vXrOPXcx1LTNhsNZqsqVqVHQDV1LPxduxHz0odGgGkmJi7oS0cdqylQ3/1021128860.jpeg?xgip=0%3A267%3A2485%3A2485%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Marco Emrich&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

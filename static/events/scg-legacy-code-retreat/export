@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44603
+DTSTAMP:20170129T114808Z
+SUMMARY:ØSCG Legacy Code Retreat
+DESCRIPTION:On the 30th of May we will have a Legacy Code Retreat at F
+ ooCafe in Malmö.\nA Legacy Code Retreat is a Code Retreat with a twis
+ t. The aim is not to solve Conway's Game of Life but to sort out an al
+ ready existing code base. We use the code from here: https://github.c
+ om/jbrains/trivia which provides the same problem in a number of diffe
+ rent languages.\nAppart from the fact that we use an already existing 
+ code base we will pretty much follow the Code Retreat pattern with wor
+ king in pairs in 45 minute sessions.\nPlease do register if you want t
+ o attend: http://www.foocafe.org/event/legacy-code-retreat\nHope to s
+ ee you there.\n\nFor more information visit http://coderetreat.org/eve
+ nts/scg-legacy-code-retreat
+DTSTART:20150530T093000Z
+DTEND:20150530T180000Z
+CATEGORIES:legacy, code, retreat
+LOCATION:Malmö, Sweden
+WEBSITE:http://www.foocafe.org/event/legacy-code-retreat
+URL:http://www.foocafe.org/event/legacy-code-retreat
+CONTACT:
+ORGANIZER;CN="Tomas Malmsten":http://coderetreat.org/profile/TomasMalm
+ sten
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tomas Ma
+ lmsten":http://coderetreat.org/profile/TomasMalmsten
+END:VEVENT
+END:VCALENDAR

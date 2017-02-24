@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Sergey Sergyenko&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SergeySergyenko</link>
+        <pubDate>Sun, 29 Jan 2017 11:25:16 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:25:16 +0000</lastBuildDate>
+        <image>
+            <title>Sergey Sergyenko&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SergeySergyenko</link>
+            <url>http://api.ning.com:80/files/3FLLVGZOVWJS5RdwV5of53ZKfpvtdX1rL1B-sS32GLM4ISKQWc4LI0jTMjm1zkqJskQLE3avSSlAc5FeVdr8LC8q1etFH0SM/1143354498.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011f041aabf2165173daa877c</guid>
+               <title>Sergey Sergyenko posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54340?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SergeySergyenko?xg_source=activity">Sergey Sergyenko</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54340?xg_source=activity">Global Day of Coderetreat 2016 - Minsk, Belarus</a> at TBD:</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 10am to 7pm</div><div class="rich-excerpt">GDCR16 in Minsk, Belarus If you have any questions, please contact: email: sergey.sergyenko@gmail.comskype: sergey.sergyenko<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54340?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 26 Aug 2016 08:18:14 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011f041aaa4aa0998f0f36e5c</guid>
+               <title>Sergey Sergyenko updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46032?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SergeySergyenko?xg_source=activity">Sergey Sergyenko</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46032?xg_source=activity">Global Day of Coderetreat 2015 - Minsk, Belarus</a> at High Tech Park, Kuprevicha st</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">GDCR15 in Minsk, BelarusIf you have any questions, please contact: OrgCoderetreat@epam.comCheckout more details here:https://events.epam.com/events/coderetreat-minsk<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46032?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 22 Oct 2015 13:19:24 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011f041aad868014133ccd835</guid>
+               <title>Sergey Sergyenko posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46032?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SergeySergyenko?xg_source=activity">Sergey Sergyenko</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46032?xg_source=activity">Global Day of Coderetreat 2015 - Minsk, Belarus</a> at TBD</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">GDCR15 in Minsk, BelarusIf you have any questions, please contact: OrgCoderetreat@epam.comCheckout more details here:https://events.epam.com/events/coderetreat-minsk<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46032?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 23 Sep 2015 07:39:57 +0000</pubDate>
+               </item>    </channel>
+</rss>

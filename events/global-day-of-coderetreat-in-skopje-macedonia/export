@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:1868
+DTSTAMP:20170129T111421Z
+SUMMARY:Global Day of Coderetreat in Skopje, Macedonia
+DESCRIPTION:Спонзори на настанот се: Ever Near, At
+ omidata и Siyelo. Капацитет на просторијата e 
+ 12 луѓе.\nШто е Coderetreat?\nCoderetreat е едно-днев
+ ен настан на интензивно вежбање разво�
+ � и дизајн на софтвер. Се прават pair-programm
+ ing сесии од по 45 минути во кои двајца пр
+ ограмери заедно работат на решавање н�
+ � одреден проблем. Потоа се брише кодот
+ , се прави кратка пауза и ретроспектив�
+ �, се ротираат паровите и се почнува од 
+ ново. Поентата е преку вежбање на осно�
+ �ни принципи на објектно-ориентиран ди
+ зајн во различни програмски јазици да 
+ се разменат искуства и начини на разми
+ слување без било каков притисок дека н
+ ешто \"мора да се сработи\".\nРезултат: е�
+ �ективно подобрување на вештините кај 
+ секој што учествува.\nНастанот е од гло
+ бален карактер и ќе се случува во прек�
+ � 90тина градови во целиот свет (може ќе 
+ имаме комуникација во живо со останат�
+ � градови или нешто слично). Влезот е сл
+ ободен и може да се пријави кој сака. П�
+ �требно е да дојдете со ваш лаптоп и ин�
+ �талирани програмски јазици во кои раб
+ отите за да не се губи време на тоа. За �
+ �астанот треба да се регистрирате за д�
+ � планираме колку луѓе ќе дојдат. Mисла�
+ � дека капацитетот на Хаклабот е 12 луѓе
+  во една просторија, но секако ќе се сн�
+ �јдеме со другите простории ако се при�
+ �ават повеќе луѓе.\nНастанот ќе се случ�
+ �ва во Сабота (03.12.2011) од 10.00 - 17.15 часот в�
+ � Скопје Хаклаб 2.0. Потребно е сите приј
+ авени да дојдат на време. Програмата ќ�
+ � биде следна:\n\n10.00 - 10:30 - Вовед\n10:30 - 11:15 
+ - Сесија 1\n11:15 - 11:30 - Ретроспектива 1\n11:30 
+ - 12:15 - Сесија 2\n12:15 - 12:30 - Ретроспектива 2
+ \n12:30 - 13:00 - Ручек (пица или слично)\n13:00 - 1
+ 3:45 - Сесија 3\n13:45 - 14:00 - Ретроспектива 3\n1
+ 4:00 - 14:45 - Сесија 4\n14:45 - 15:00 - Ретроспекти�
+ �а 4\n15:00 - 15:45 - Сесија 5\n15:45 - 16:00 - Ретросп�
+ �ктива 5\n16:00 - 16:45 - Сесија 6\n16:00 - 17:15 - Зав�
+ �шна Ретроспектива\n17:15 - xx:xx - Drunkup\n\n Про
+ блемот кој ќе се решава во сите сесии е
+  Conway's Game of Life но секоја сесија е различ�
+ �а бидејќи фокусот е на учење и испробу
+ вање различни работи како на пример:\n\n
+ The 4 rules of simple design\nTDD as if you meant it\nPing-pong pair p
+ rogramming\nSOLID design principles\nTell don't ask\nTimeboxing\nКо�
+ �истење лоша навика: програмирање со м�
+ �нуелно или без никакво тестирање\nЗам�
+ �на на код: програмирате со наследен ко
+ д од друг програмер\n\"Missing tool\" предизви
+ к:\nпрограмирање без маус\nпрограмирањ�
+ � без користење примитиви (основи типо�
+ �и)\nпрограмирање без користење услови\
+ nпрограмирање без користење податочни
+  структури, користење само на објекти\n
+ програмирање со забрана на подолги ме�
+ �оди од 4 линии\nглаголи наместо именки 
+ (фокус на однесување, наместо на состо�
+ �ба)\nзабрана за менување на постоечки �
+ �од, додавање само на нов\n\n Целта не е д
+ а се испрограмира играта, туку да се фо
+ кусира на пишување перфектен код и пре
+ ку вежбање да се разменат и научат нов�
+ � идеи.\n\nFor more information visit http://coderetreat.org/event
+ s/global-day-of-coderetreat-in-skopje-macedonia
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:coderetreat
+LOCATION:Skopje hacklab
+WEBSITE:https://maps.google.com/maps/ms?msid=202273220853331240819.000
+ 4b1c308bfec6b2e666&msa=0&ll=41.996171,21.41863&spn=0.006243,0.009334
+URL:https://maps.google.com/maps/ms?msid=202273220853331240819.0004b1c
+ 308bfec6b2e666&msa=0&ll=41.996171,21.41863&spn=0.006243,0.009334
+CONTACT:
+ORGANIZER;CN="Dalibor Nasevic":http://coderetreat.org/profile/DaliborN
+ asevic
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/9yeZXKKriHndi
+ IvB0H2rQAQL7GrDLCQbJVGEHS*Xkb8G1GWR*JAu7SxcPRxrZ8cSPGB*H-qYThBLN7k-noR
+ X74rhqP*WNuSz/skopje.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Boban Jo
+ vanoski":http://coderetreat.org/profile/BobanJovanoski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tomche D
+ elev":http://coderetreat.org/profile/TomcheDelev
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Дамј
+ ан Георгиевски":http://coderetreat.org/profile/DamjanGeor
+ gievski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Milan Na
+ sevic":http://coderetreat.org/profile/MilanNasevic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleksand
+ ar Trifunovski":http://coderetreat.org/profile/AleksandarTrifunovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dalibor 
+ Nasevic":http://coderetreat.org/profile/DaliborNasevic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Naum Kos
+ tovski":http://coderetreat.org/profile/shadowseed
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mite Mit
+ reski":http://coderetreat.org/profile/MiteMitreski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Filip Ko
+ stovski":http://coderetreat.org/profile/FilipKostovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vladan P
+ opovic":http://coderetreat.org/profile/VladanPopovic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peco Dan
+ ajlovski":http://coderetreat.org/profile/PecoDanajlovski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Gorjan 
+ Petrovski":http://coderetreat.org/profile/GorjanPetrovski
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Thomas Bertz&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ThomasBertz</link>
+        <pubDate>Sun, 29 Jan 2017 11:28:56 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:28:56 +0000</lastBuildDate>
+        <image>
+            <title>Thomas Bertz&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ThomasBertz</link>
+            <url>http://api.ning.com:80/files/U9cJ436L1lepBfFet9xmuDGvQz86fs-VvfsWn1HConM5oHnhfsGwpiQD1DJAqdf1Cbla2o6PdMJA7L7oujrC2S*7DHTUrXlI/1136707877.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011cff40386a3b2f40ce14032</guid>
+               <title>Thomas Bertz updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46894?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ThomasBertz?xg_source=activity">Thomas Bertz</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:46894?xg_source=activity" ><img src="http://api.ning.com/files/AI-C-DD*hScd5QCzNL1nxhRLbwEKNYhJkO41NCBN3oYr5*xbEhCkXhTZKcujecurOWsfNb3nH8VDWw5QfHtH1KqI5wGTeBZU/DSCF7148_173x207.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46894?xg_source=activity">Global Day of Coderetreat 2015 - Erlangen, Germany</a> at MATHEMA Software GmbH</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 5pm</div><div class="rich-excerpt">Global Day of Coderetreat 2015 in ErlangenRegistration: <a href="mailto://info@mathema.de" target="_blank">info@mathema.de</a>Sponsor: <a href="http://mathema.de/" target="_blank">MATHEMA Software GmbH</a><a target="_self" href="http://api.ning.com:80/files/AI-C-DD*hSeyCO51OK4x1UnFF2nAbJrhB3k0jIQlZ96pwPmmDBC-Vz7H1aPqBgoSbgiBtWp1rFkb5Jm2AJ9cqYJvXcDtmVLj/DSCF7148_173x207.jpg"></a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46894?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 13 Oct 2015 11:08:19 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011cff403299e2daff1b76008</guid>
+               <title>Thomas Bertz posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46894?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ThomasBertz?xg_source=activity">Thomas Bertz</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46894?xg_source=activity">Global Day of Coderetreat 2015 - Erlangen, Germany</a> at MATHEMA Software GmbH</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 5pm</div><div class="rich-excerpt">Global Day of Coderetreat 2015 in ErlangenRegistration: <a href="mailto://info@mathema.de" target="_blank">info@mathema.de</a>Sponsor: <a href="http://mathema.de/" target="_blank">MATHEMA Software GmbH</a><a target="_self" href="http://api.ning.com:80/files/AI-C-DD*hSeyCO51OK4x1UnFF2nAbJrhB3k0jIQlZ96pwPmmDBC-Vz7H1aPqBgoSbgiBtWp1rFkb5Jm2AJ9cqYJvXcDtmVLj/DSCF7148_173x207.jpg"></a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46894?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 10 Oct 2015 16:24:33 +0000</pubDate>
+               </item>    </channel>
+</rss>

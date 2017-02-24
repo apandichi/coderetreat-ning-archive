@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Keith Mann&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/KeithMann</link>
+        <pubDate>Sun, 29 Jan 2017 13:38:37 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:38:37 +0000</lastBuildDate>
+        <image>
+            <title>Keith Mann&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/KeithMann</link>
+            <url>http://api.ning.com:80/files/30XHewVAs3HUs-XvtP3xGFj7BH9RGMWcE1AQNuuJZu17nMNFdEQDbFfQ0mnFouN7GFV0kQun3LakjJu5uJv1L-2iBpNYVQzC/664891348.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b98359211a923acde76ce09</guid>
+               <title>Keith Mann shared their event on Twitter</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:16710?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/KeithMann?xg_source=activity">Keith Mann</a> shared their <a href="http://coderetreat.org/xn/detail/6456126:Event:16710?xg_source=activity">event</a> on Twitter</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:16710?xg_source=activity" ><img src="http://api.ning.com/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?crop=1%3A1&amp;xj_event_default=1&amp;width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:16710?xg_source=activity">Global Day of Coderetreat 2012 - Toronto, ON / Canada</a></h3></div>]]></description>
+               <pubDate>Tue, 20 Nov 2012 15:08:22 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b983592c1c644da1db78aa0</guid>
+               <title>Keith Mann posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:16710?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/KeithMann?xg_source=activity">Keith Mann</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:16710?xg_source=activity">Global Day of Coderetreat 2012 - Toronto, ON / Canada</a> at 407 ETR Head Office</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 8am to 6pm</div><div class="rich-excerpt">The Global Day of Coderetreat comes to North Toronto! We recognize that making it downtown for Agile events can be tough, so 407 ETR provides space and sponsorship for us to gather north of the city. We hope you can join us!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:16710?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 20 Nov 2012 15:06:35 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b983592b75a390ec9592fbe</guid>
+               <title>Keith Mann is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/KeithMann?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/KeithMann?xg_source=activity">Keith Mann</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Wed, 07 Nov 2012 15:12:11 +0000</pubDate>
+               </item>    </channel>
+</rss>

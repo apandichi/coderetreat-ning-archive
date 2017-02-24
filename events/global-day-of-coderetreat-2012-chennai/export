@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16479
+DTSTAMP:20170129T105201Z
+SUMMARY:Global Day of Coderetreat 2012 - Chennai / India
+DESCRIPTION:Venue:  OrangeScape Technologies LimitedMap TIDEL Park, D
+  Block, North Wing, 3rd Floor 4, Rajiv Gandhi Salai, Tharamani, Chenna
+ i 600 113.\nClick here for more detail http://jugchennai.in/coderetre
+ at/\n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-coderetreat-2012-chennai
+DTSTART:20121208T090000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat, gdcr12, chennai, india, tamilnadu, tamil, nadu
+LOCATION:OrangeScape Technologies Limited,
+WEBSITE:http://jugchennai.in/coderetreat/
+URL:http://jugchennai.in/coderetreat/
+CONTACT:+919790967809
+ORGANIZER;CN="Rajmahendra Hegde":http://coderetreat.org/profile/rajmah
+ endra
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/FQuyJjdyBjX4W
+ zkRxvLJM5rgqpzFyB79h*NaPx*gIAgGdxg9yIP7GgawXDz6MA152Zw9aaWDQ1aVjGz2R6i
+ lw7etD50By8r0/169627704.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rajmahen
+ dra Hegde":http://coderetreat.org/profile/rajmahendra
+END:VEVENT
+END:VCALENDAR

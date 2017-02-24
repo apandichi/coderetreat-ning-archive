@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:1751
+DTSTAMP:20170129T133449Z
+SUMMARY:Global Day of Coderetreat in Budapest
+DESCRIPTION:Coderetreat in Budapest\nShould someone be lazy to registe
+ r to RSVP, please do so on the facebook event: http://www.facebook.com
+ /events/221983461203339\n\nFor more information visit http://coderetre
+ at.org/events/global-day-of-coderetreat-in-budapest
+DTSTART:20111203T080000Z
+DTEND:20111203T170000Z
+CATEGORIES:coderetreat
+LOCATION:MyCorporation
+WEBSITE:http://www.mycorporation.hu/
+URL:http://www.mycorporation.hu/
+CONTACT:+36202306404
+ORGANIZER;CN="Marton Meszaros":http://coderetreat.org/profile/MartonMe
+ szaros
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/sfStL6iwk01Ec
+ 7t15prJcse5WPpBygjFQez0hfuJC0ndq8PIei9CqGYSVmpHx3z*hWNhw*0Je0DxZAw3uCU
+ nz6UWncGT4nOC/budapest_chain_bridge_night1276015955.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marton M
+ eszaros":http://coderetreat.org/profile/MartonMeszaros
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zsolt Ta
+ kács":http://coderetreat.org/profile/ZsoltTakacs
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adam Tol
+ di":http://coderetreat.org/profile/AdamToldi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Zoltán
+  Hadadi":http://coderetreat.org/profile/ZoltanHadadi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Lajos S
+ zabados":http://coderetreat.org/profile/LajosSzabados
+END:VEVENT
+END:VCALENDAR

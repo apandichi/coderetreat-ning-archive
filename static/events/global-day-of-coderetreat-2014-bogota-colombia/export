@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38827
+DTSTAMP:20170129T120620Z
+SUMMARY:Global Day of Coderetreat 2014 - Bogota, Colombia
+DESCRIPTION:Global Day of Coderetreat is a world-wide event celebratin
+ g passion and software craftsmanship. Last year, over 5000 passionate
+  software developers in 170 cities around the world registered to spe
+ nd the day practicing the craft of software development using the cod
+ eretreat format. You can find out more information about the day on t
+ he 2014 global day announcement.\n\nFor more information visit http://
+ coderetreat.org/events/global-day-of-coderetreat-2014-bogota-colombia
+DTSTART:20141115T080000Z
+DTEND:20141115T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:3014311354
+ORGANIZER;CN="David Roncancio":http://coderetreat.org/profile/DavidRon
+ cancio
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yamit Ca
+ rdenas":http://coderetreat.org/profile/YamitCardenas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ro
+ ncancio":http://coderetreat.org/profile/DavidRoncancio
+END:VEVENT
+END:VCALENDAR

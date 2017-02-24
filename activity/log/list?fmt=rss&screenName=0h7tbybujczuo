@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>David Royce&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DavidRoyce</link>
+        <pubDate>Sun, 29 Jan 2017 12:48:44 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:48:44 +0000</lastBuildDate>
+        <image>
+            <title>David Royce&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DavidRoyce</link>
+            <url>http://api.ning.com:80/files/l4G*fyI0yOhHFLHJtwfa4lt5MYWbkt2y*Rs*U-2P6C4iyaM2AJhIkSZxNZAaf5ku2xABF0uRy5hyPGdNbrem1yYgkJ80TwS4/464331261.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b7b836c56a97ab2e5841d8b</guid>
+               <title>David Royce is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/DavidRoyce?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidRoyce?xg_source=activity">David Royce</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Fri, 19 Oct 2012 14:42:46 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b7b836c1b38d7d44bb5c6d3</guid>
+               <title>David Royce might attend Jessica Codr&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:12882?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidRoyce?xg_source=activity">David Royce</a> might attend <a href="http://coderetreat.org/profile/JessicaCodr?xg_source=activity">Jessica Codr's</a> event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:12882?xg_source=activity" ><img src="http://api.ning.com/files/zf3fHQq6ns*lCcf2RnxEAMGDey8WAcPQhB6WI2bji-TwFNCSv3g2wk1y*eD8uJTiHUQwCvw3JkyBgo-p9Qi-Zm0ylzlVPZoX/DowntownOmaha.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:12882?xg_source=activity">Global Day of Coderetreat 2012 - Omaha/Council Bluffs, IA / USA</a> at Iowa West Community College, Fremont Hall</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9am to 5pm</div><div class="rich-excerpt">Come improve your testing, problem solving, and pair programming skills!  Explore new ways of thinking as you interact with fellow developers, programmers, and/or students in your community!  Lunch and snacks will be provided.If you found your way here in search of the 2013 event, please sign up at:  <a href="http://coderetreat.org/events/global-day-of-coderetreat-2013-omaha-ne-council-bluffs-ia-usa">http://coderetreat.org/events/global-day-of-coderetreat-2013-omaha-ne-council-bluffs-ia-usa</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:12882?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 19 Oct 2012 14:26:12 +0000</pubDate>
+               </item>    </channel>
+</rss>

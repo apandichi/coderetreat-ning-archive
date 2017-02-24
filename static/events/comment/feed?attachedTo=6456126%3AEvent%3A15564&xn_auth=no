@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2012 - New York CIty, NY / USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A15564&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:44:40Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A15564&amp;xn_auth=no</id>
+                            <entry>
+                    <title>If you are interested, please…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17085"/>
+                                        <id>tag:coderetreat.org,2012-11-26:6456126:Comment:17085</id>
+                                        <updated>2012-11-26T22:00:54.312Z</updated>
+                    
+                                            <author>
+                            <name>Jeffrey Baird</name>
+                            <uri>http://coderetreat.org/profile/JeffreyBaird978</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        If you are interested, please register at nyc-coderetreat.eventbrite.com                    </summary>
+
+                                            <content type="html">
+                            If you are interested, please register at nyc-coderetreat.eventbrite.com                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

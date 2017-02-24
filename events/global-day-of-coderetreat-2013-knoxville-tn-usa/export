@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28376
+DTSTAMP:20170129T115353Z
+SUMMARY:Global Day of Coderetreat 2013 - Knoxville, TN, USA
+DESCRIPTION:Coderetreat - Knoxville TN\n\nFor more information visit h
+ ttp://coderetreat.org/events/global-day-of-coderetreat-2013-knoxville-
+ tn-usa
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TBD - Depending on RSVPs
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="David Edwards":http://coderetreat.org/profile/DavidEdwar
+ ds
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ed
+ wards":http://coderetreat.org/profile/DavidEdwards
+END:VEVENT
+END:VCALENDAR

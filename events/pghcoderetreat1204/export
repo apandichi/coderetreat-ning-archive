@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8791
+DTSTAMP:20170129T124629Z
+SUMMARY:Pittsburgh Coderetreat
+DESCRIPTION:Ah Spring. The sun is shinning, the grass is green, the li
+ ttle birdies are all twitterpated, and it's time for our next Coderetr
+ eat!\n\nCoderetreat is a day-long, intensive practice event focused on
+  the fundamentals of software development and design.The unique codere
+ treat format (which eliminates the pressure of 'getting things done' a
+ nd focuses on practicing basic principles of good design) has proven t
+ o be a highly effective (and fun) means of skill improvement.\nYou onl
+ y need to bring a laptop with the development tools you require to wri
+ te code using your chosen programming languages.  A continental break
+ fast and lunch will be provided.\nCheck out coderetreat.org for furthe
+ r details on what to expect.\nRefundable Deposit\nThe $15.00 registrat
+ ion deposit will be refunded in full when:\n\nyou attend the event\nyo
+ u notify Jim Hurne by Sunday, April 15th that you are unable to attend
+ \n\nAny funds not refunded will be used to fund local Coderetreats or 
+ donated to the Coderetreat Community Contribution Fund (c3f).\n \nThi
+ s event is hosted by\n\nand sponsored by\n\n\nFor more information vis
+ it http://coderetreat.org/events/pghcoderetreat1204
+DTSTART:20120421T083000Z
+DTEND:20120421T180000Z
+CATEGORIES:coderetreat
+LOCATION:Robert Moris University
+WEBSITE:http://pghcoderetreat1204.eventbrite.com
+URL:http://pghcoderetreat1204.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Jim Hurne":http://coderetreat.org/profile/JimHurne
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/CQrqgv7T3QiQv
+ 2zLhSzhqyv8w59xgiXCZctcpYrPJnB2-JQVgw8JuQlZ0iOium6Oaa9dmGWDEv0KGPkcfBC
+ 7sqc3B3dIKikc/Pittsburgh.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

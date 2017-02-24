@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Huong Vu&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/HuongVu</link>
+        <pubDate>Sun, 29 Jan 2017 13:22:37 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:22:37 +0000</lastBuildDate>
+        <image>
+            <title>Huong Vu&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/HuongVu</link>
+            <url>http://api.ning.com:80/files/L7AA6vG*qhpzVt4KHA5XuPDhKjDdexXJmRMzTyAAuoY0RexQysQoohEqvwTTg2KeetCsEN1RNmCf1Q9mtsb-pJnzJKQtsdVO/429991561.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ba2b686d537bd0ed270a283</guid>
+               <title>Huong Vu posted photos</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Photo:20166?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/HuongVu?xg_source=activity">Huong Vu</a> posted photos</span><br/><div class="rich"><div class="rich-thumbs rich-thumbs-3648"><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/20121208-img-1030"><img src="http://api.ning.com/files/3AUW0abOoeg4fTZj3dZg1wBKg6ZNarzvElBd0eSc0cW7HiKxONuNr4v7GogP4w6qUpl0rHwpfrKM0D3GHamcd9wfrGip0D54/20121208IMG_1030.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/20121208-img-1033"><img src="http://api.ning.com/files/t5Ez1bC0evlIxYlpunlohKaFljeistgaIS4-LNK6asRVT7QvaTuy*QAhM4750KBv0P*unP9dr9tw5vMAWyVmYeaFQ94NRgyE/20121208IMG_1033.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div><div class=" dy-content-thumb-link xg_lightborder last-thumb"> <a  href="http://coderetreat.org/photo/20121208-img-1034"><img src="http://api.ning.com/files/rWtFTFfXPGkRNKXXPY5cF*Icbwmsje9Si91k*th6YKy3-40ZP35MEc3kLQm*6mTcVcXJcYmCP0Xc5m6mIM6RMN4TvOKBQxxb/20121208IMG_1034.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div></div></div><div class="feed-more"><a href="http://coderetreat.org/photo/album/show?id=6456126%3AAlbum%3A20135&xg_source=activity">27 more…</a></div>]]></description>
+               <pubDate>Thu, 13 Dec 2012 16:47:06 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba2b686a98d59b79a3f0585</guid>
+               <title>Huong Vu is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/HuongVu?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/HuongVu?xg_source=activity">Huong Vu</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Wed, 14 Nov 2012 16:00:15 +0000</pubDate>
+               </item>    </channel>
+</rss>

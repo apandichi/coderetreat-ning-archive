@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>remy annis&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/remyannis</link>
+        <pubDate>Sun, 29 Jan 2017 12:21:12 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:21:12 +0000</lastBuildDate>
+        <image>
+            <title>remy annis&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/remyannis</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010fb7175d95259a2a13df331</guid>
+               <title>remy annis posted a photo</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Photo:40038?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/remyannis?xg_source=activity">remy annis</a> posted a photo</span><br/><div class="rich"><div class="rich-thumb"><div class=" dy-content-thumb-link xg_lightborder"> <a  href="http://coderetreat.org/photo/image-1"><img src="http://api.ning.com/files/G*FQiZBcgZ3Ne-NdTviY3I*xpI1qPnWj-whsxU44DQUd2qwBqUhlMiiG1-0PHI4S1VrHUnif*vZqYR4CtA0pu6HTfaBz85KJ/image.jpg?width=128" width="128"  alt="Thumbnail" style="max-width:128px;max-height:128px;"/></a></div></div><h3 class="feed-story-title"><a href="http://coderetreat.org/photo/image-1">image</a></h3></div>]]></description>
+               <pubDate>Mon, 20 Oct 2014 18:59:56 +0000</pubDate>
+               </item>    </channel>
+</rss>

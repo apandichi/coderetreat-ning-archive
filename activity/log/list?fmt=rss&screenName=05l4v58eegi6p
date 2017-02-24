@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Benjamin Nothdurft&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/BenjaminNothdurft</link>
+        <pubDate>Sun, 29 Jan 2017 10:44:22 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:44:22 +0000</lastBuildDate>
+        <image>
+            <title>Benjamin Nothdurft&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/BenjaminNothdurft</link>
+            <url>http://api.ning.com:80/files/ucNE*u2-Ii7Q8E-3ccDPg-Nr*BOSSp4ZONIrEk0DG*jMoCOOzHcV51vc9SGnVNtOwja5wc9G6edb0o2fWrXu8oKLoYIuKprN/1200060092.jpeg?xgip=0%3A0%3A458%3A458%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012ade89357444d1d82dcbf71</guid>
+               <title>Marika Lynch left a comment for Benjamin Nothdurft</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:54768?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarikaLynch?xg_source=activity">Marika Lynch</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:54768?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/BenjaminNothdurft?xg_source=activity">Benjamin Nothdurft</a></span><br/>]]></description>
+               <pubDate>Thu, 08 Sep 2016 07:06:00 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000126e8c52b4aff12eaf58d0b3</guid>
+               <title>Benjamin Nothdurft updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:52958?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/BenjaminNothdurft?xg_source=activity">Benjamin Nothdurft</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:52958?xg_source=activity" ><img src="http://api.ning.com/files/it-PIxk6ICh2WR9JgE2gYTx6GAuPCzC7tZQkSww9JAUY8FvdRyJeNSNz8*NAkir8*PLIQKXXr0yd0YFE0Pw1gFgpH96EkVyJ/Softwerkskammer_border.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:52958?xg_source=activity">Coderetreat in Jena, Germany</a> at Offices of ePages GmbH (Top Floor)</h3><div class="rich-detail"><div class="rich-date">May 21, 2016 from 9:15am to 6pm</div><div class="rich-excerpt">We will facilitate a <a href="http://codingdojo.org/">coding dojo</a> consisting of a <a href="http://coderetreat.org/">Coderetreat</a> with 5 rounds and 1 hour of lighting talks with demos on <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> concepts upfront, e.g. Unit testing with mock objects.After the talks, there will be 3 groups in 3 rooms (with different katas, set of constraints/skill levels, facilitators/tutors).2 Groups with Game of Life Kata: 2 Rounds before lunch and 3 Rounds after lunch, Pair Programming as usual.1 Group with Refractoring Kata: 2 Rounds until lunch for Beginners, MOB Programming via Beamer.Feel free to also sign up for the event at the <a href="http://www.meetup.com/jenadevs/events/230740021" target="_blank">Meetup</a> or the <a href="https://www.softwerkskammer.org/activities/jenadevs-meetup-002" target="_blank">Softwerkskammer</a> platform.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:52958?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 29 Apr 2016 11:37:01 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000126e8c5288d63f12232a4387</guid>
+               <title>Benjamin Nothdurft posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:52958?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/BenjaminNothdurft?xg_source=activity">Benjamin Nothdurft</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:52958?xg_source=activity">Coderetreat in Jena, Germany</a> at Offices of ePages GmbH (Top Floor)</h3><div class="rich-detail"><div class="rich-date">May 21, 2016 from 9:15am to 5:30pm</div><div class="rich-excerpt">We will facilitate a <a href="http://codingdojo.org/">coding dojo</a> consisting of a <a href="http://coderetreat.org/">Coderetreat</a> with 5 rounds and 1 hour of lighting talks with demos on <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> concepts upfront, e.g. Unit testing with mock objects.After the talks, there will be 3 groups in 3 rooms (with different katas, set of constraints/skill levels, facilitators/tutors).2 Groups with Game of Life Kata: 2 Rounds before lunch and 3 Rounds after lunch, Pair Programming as usual.1 Group with Refractoring Kata: 2 Rounds until lunch for Beginners, MOB Programming via Beamer.Feel free to also sign up for the event at the <a href="http://www.meetup.com/jenadevs/events/230740021" target="_blank">Meetup</a> or the <a href="https://www.softwerkskammer.org/activities/jenadevs-meetup-002" target="_blank">Softwerkskammer</a> platform.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:52958?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 25 Apr 2016 08:25:53 +0000</pubDate>
+               </item>    </channel>
+</rss>

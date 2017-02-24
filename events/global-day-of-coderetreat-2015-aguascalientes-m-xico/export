@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48192
+DTSTAMP:20170129T103639Z
+SUMMARY:Global Day of Coderetreat 2015 - Aguascalientes, México
+DESCRIPTION:\nCoderetreat is a day-long, intensive practice event, foc
+ using on the fundamentals of software development and design. By provi
+ ding developers the opportunity to take part in focused practice, away
+  from the pressures of 'getting things done', the coderetreat format h
+ as proven itself to be a highly effective means of skill improvement. 
+ Practicing the basic principles of modular design and clean code, de
+ velopers can improve their ability to write code that minimizes the co
+ st of change over time. More information about what it is you can fin
+ d here: http://coderetreat.org/about\nDon't forget to BRING YOUR OWN 
+ PC! Power and Wi-Fi as well as atmosphere of community will be provide
+ d.\nShow your attendance on official website, \n\nFor more informatio
+ n visit http://coderetreat.org/events/global-day-of-coderetreat-2015-a
+ guascalientes-m-xico
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Universidad Autónoma de Aguascalientes
+WEBSITE:https://www.google.com.mx/maps/place/UAA/@21.9138862,-102.3178
+ 295,17z/data=!3m1!4b1!4m2!3m1!1s0x8429ef1da1ab338d:0x89a0246637c42ddb?
+ hl=en
+URL:https://www.google.com.mx/maps/place/UAA/@21.9138862,-102.3178295,
+ 17z/data=!3m1!4b1!4m2!3m1!1s0x8429ef1da1ab338d:0x89a0246637c42ddb?hl=e
+ n
+CONTACT:
+ORGANIZER:MagmaLabs - Edwin Cruz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="edwin.cr
+ uz":http://coderetreat.org/profile/edwincruz
+END:VEVENT
+END:VCALENDAR

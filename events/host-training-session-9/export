@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27553
+DTSTAMP:20170129T104144Z
+SUMMARY:Host training session
+DESCRIPTION:Please RSVP here! \n\nThis training is for hosts. If you h
+ ost a coderetreat you might be interested in attending one training se
+ ssion. The trainers will explain what is the role of the host, tips an
+ d tricks for having an excellent coderetreat day. This training will b
+ e delivered online on Google Plus Events. Make sure you will be online
+  five minutes before the training starts.\nThis year we will have seve
+ ral types of trainings for Global Day of Coderetreat hosts and facilit
+ ators.\nThe job of the host is to make sure the coderetreat runs smoot
+ hly by making sure everything is arranged. Hosts find a venue with all
+  the necessary equipment, find a company to sponsor lunch, give away t
+ he prizes at the end of the day, organize video chats with other locat
+ ions, etc.\nThe job of the facilitator is to help participants learn f
+ rom each other. Facilitators understand the coderetreat format, choose
+  and explain the constraints, and try to keep a learning atmosphere du
+ ring the day\n \nImportant: All the times are in UTC. Do one of the f
+ ollowing to view training times in your time zone:\n\nAdd the GDCR Cal
+ endar to your Google Calendar account\nUse this tool to convert the ti
+ me from UTC to your time zone\nFind your time below in one of these co
+ mmon time zones:\n10/29 02:00 AM UTC-7 America/Los_Angeles (PDT)\n10/2
+ 9 03:00 AM UTC-6 America/Denver (MDT)\n10/29 04:00 AM UTC-5 America/Ch
+ icago (CDT)\n10/29 05:00 AM UTC-4 America/New_York (EDT)\n10/29 10:00 
+ AM UTC+1 Europe/Paris (CET)\n10/29 11:00 AM UTC+2 Europe/Bucharest (EE
+ T)\n10/29 11:00 AM UTC+2 Africa/Johannesburg (CAT)\n10/29 12:00 PM UTC
+ +3 Europe/Moscow (MSK)\n10/29 02:30 PM UTC+5.5 Asia/Kolkata (IST)\n10/
+ 29 05:00 PM UTC+8 Asia/Shanghai (ACT)\n10/29 06:00 PM UTC+9 Asia/Tokyo
+  (JST)\n10/29 08:00 PM UTC+11 Australia/Sydney (AEDT)\n10/29 10:00 PM 
+ UTC+13 Pacific/Auckland (NZDT)\n\n\n\n\nFor more information visit htt
+ p://coderetreat.org/events/host-training-session-9
+DTSTART:20131029T090000Z
+DTEND:20131029T100000Z
+CATEGORIES:training, host_training
+LOCATION:https://plus.google.com/events/cgt5ts5a7nkk9lis8sdu00q0270
+WEBSITE:https://plus.google.com/events/cgt5ts5a7nkk9lis8sdu00q0270
+URL:https://plus.google.com/events/cgt5ts5a7nkk9lis8sdu00q0270
+CONTACT:
+ORGANIZER;CN="Greg Dziemidowicz":http://coderetreat.org/profile/GregDz
+ iemidowicz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Dzi
+ emidowicz":http://coderetreat.org/profile/GregDziemidowicz
+END:VEVENT
+END:VCALENDAR

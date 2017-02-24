@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Vitaliy Akmashev&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/VitaliyAkmashev</link>
+        <pubDate>Sun, 29 Jan 2017 10:15:19 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:15:19 +0000</lastBuildDate>
+        <image>
+            <title>Vitaliy Akmashev&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/VitaliyAkmashev</link>
+            <url>http://api.ning.com:80/files/kpFJ*-3Tpnsrc5cFLniS2QXSarrCGOXr7sM1HCDKrR2kCpLwft0z593HTbiNIWu-C18CSTl8DF23J81yv7a-95RrA4bFd9El/1213498031.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012ade893bfc876008b9f7fe0</guid>
+               <title>Marika Lynch left a comment for Vitaliy Akmashev</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:54599?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarikaLynch?xg_source=activity">Marika Lynch</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:54599?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/VitaliyAkmashev?xg_source=activity">Vitaliy Akmashev</a></span><br/>]]></description>
+               <pubDate>Thu, 08 Sep 2016 07:04:16 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000128578777c567ff579ed711e</guid>
+               <title>Vitaliy Akmashev posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54387?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/VitaliyAkmashev?xg_source=activity">Vitaliy Akmashev</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:54387?xg_source=activity" ><img src="http://api.ning.com/files/4dl5RIBKHP*S3*zu2FfYXSV4yNKvRU3Kiz6HxTf0FeEDihRVEpiJTuBc0PQ1YY2ukX9chL4pQtUkpv1PunlEgD5He5XgAmsF/1.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54387?xg_source=activity">Global Day of Coderetreat 2016 - Tyumen, Russia</a> at Green House</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 10am to 5pm</div><div class="rich-excerpt">First Global Day of Coderetreat in Tyumen, Russia<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54387?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 05 Sep 2016 07:56:55 +0000</pubDate>
+               </item>    </channel>
+</rss>

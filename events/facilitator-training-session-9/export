@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27713
+DTSTAMP:20170129T124151Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!   This training is for facilitators. Any
+ body interested in facilitating a coderetreat is invited to attend at 
+ least one training session. This training will be delivered online on 
+ Google Plus Hangouts. Make sure you will be online five minutes before
+  the training starts.\nThis year we will have several types of trainin
+ gs for Global Day of Coderetreat hosts and facilitators.\nThe job of t
+ he host is to make sure the coderetreat runs smoothly by making sure e
+ verything is arranged. Hosts find a venue with all the necessary equip
+ ment, find a company to sponsor lunch, give away the prizes at the end
+  of the day, organize video chats with other locations, etc.\nThe job 
+ of the facilitator is to help participants learn from each other. Faci
+ litators understand the coderetreat format, choose and explain the con
+ straints, and try to keep a learning atmosphere during the day\n \nIm
+ portant: All the times are in UTC. Do one of the following to view tra
+ ining times in your time zone:\n\nAdd the GDCR Calendar to your Google
+  Calendar account\nUse this tool to convert the time from UTC to your 
+ time zone\nFind your time below in one of these common time zones: [ G
+ enerate list of times in common time zones using the Training Time Zon
+ e Converter spreadsheet ]\n\n\n\nFor more information visit http://cod
+ eretreat.org/events/facilitator-training-session-9
+DTSTART:20131211T100000Z
+DTEND:20131211T110000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/events/clala3tbagp3qjo2abcjh4q6ooc
+WEBSITE:https://plus.google.com/events/clala3tbagp3qjo2abcjh4q6ooc
+URL:https://plus.google.com/events/clala3tbagp3qjo2abcjh4q6ooc
+CONTACT:
+ORGANIZER;CN="Jim Hurne":http://coderetreat.org/profile/JimHurne
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

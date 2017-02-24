@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37507
+DTSTAMP:20170129T120201Z
+SUMMARY:Global Day of Coderetreat 2014 - Cotonou, Benin
+DESCRIPTION:Global day of  code retreat\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-2014-cotonou-
+ benin
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Kode4Africa Headquaters
+WEBSITE:
+URL:
+CONTACT:0022967003286
+ORGANIZER;CN="José Ghislain Quenum":http://coderetreat.org/profile/Jo
+ seGhislainQuenum
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="José Gh
+ islain Quenum":http://coderetreat.org/profile/JoseGhislainQuenum
+END:VEVENT
+END:VCALENDAR

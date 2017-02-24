@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56034
+DTSTAMP:20170129T113444Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:This training is for facilitators. Anybody interested in f
+ acilitating a Coderetreat is invited to attend at least one training s
+ ession. This training will be delivered on-line on Google Plus Events.
+  Make sure you will be on-line five minutes before the training starts
+ .  Like last year we will have two different types of trainings for Gl
+ obal Day of Coderetreat: for hosts and for facilitators.  The job of t
+ he host is to make sure the Coderetreat runs smoothly by making sure e
+ verything is arranged. Hosts find a venue with all the necessary equip
+ ment, find a company to sponsor lunch, give away the prizes at the end
+  of the day, organize video chats with other locations, etc.  The job 
+ of the facilitator is to help participants learn from each other. Faci
+ litators understand the Coderetreat format, choose and explain the con
+ straints, and try to keep a learning atmosphere during the day. Find y
+ our time below in one of these common time zones:  10/14 09:00 AM UTC-
+ 7 America/Los_Angeles (PDT) 10/14 10:00 AM UTC-6 America/Denver (MDT) 
+ 10/14 11:00 AM UTC-5 America/Chicago (CDT) 10/14 12:00 PM UTC-4 Americ
+ a/New_York (EDT) 10/14 05:00 PM UTC+1 Europe/Berlin (CET) 10/14 07:00 
+ PM UTC+3 Europe/Bucharest (EET) 10/14 06:00 PM UTC+2 Africa/Johannesbu
+ rg (CAT) 10/14 08:00 PM UTC+4 Europe/Moscow (MSK) 10/14 09:30 PM UTC+5
+ .5 Asia/Kolkata (IST) 10/15 12:00 AM UTC+8 Asia/Shanghai (ACT) 10/15 0
+ 1:00 AM UTC+9 Asia/Tokyo (JST) 10/15 03:00 AM UTC+11 Australia/Sydney 
+ (AEDT) 10/15 05:00 AM UTC+13 Pacific/Auckland (NZDT)\n\nFor more infor
+ mation visit http://coderetreat.org/events/facilitator-training-sessio
+ n-381
+DTSTART:20161014T090000Z
+DTEND:20161014T100000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/u/0/events/cfejnp3q8gh5tibdnjlgd2r30c
+ c
+WEBSITE:https://plus.google.com/u/0/events/cfejnp3q8gh5tibdnjlgd2r30cc
+URL:https://plus.google.com/u/0/events/cfejnp3q8gh5tibdnjlgd2r30cc
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/6yWgYSVs-J1SA
+ FTqQ6MBCKuIlW5XmHFAJnii5-CUkOnKW0-rKFRSnSkwYxAz41lzQka-yB3t4LPcVPDEYqS
+ rlnXNfM0p7G5V/Logoonly.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56559
+DTSTAMP:20170129T093412Z
+SUMMARY:Global Day of Coderetreat 2016 - St Petersburg, Florida
+DESCRIPTION:The Iron Yard and Suncoast Developers Guild will be hostin
+ g a day-long fun practice event focusing on the fundamentals of softwa
+ re development, design and teamwork that is free to all attendees. By 
+ providing developers the opportunity to work side by side, and without
+  the pressures of day-to-day work assignments, the coderetreat format 
+ has proven itself to be a highly effective means of skill refinement.\
+ nJoin us on October. 22nd, 2016 from 9:00 am until about 4:00pm at our
+  campus in Downtown St. Pete; you’ll get a chance to engage with oth
+ er local developers as you tackle challenging problems together.\nThe
+ re will be refreshments and food available to all participants.\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2016-st-petersburg-florida
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:The Iron Yard
+WEBSITE:https://goo.gl/maps/YfM5SNnJoW92
+URL:https://goo.gl/maps/YfM5SNnJoW92
+CONTACT:
+ORGANIZER;CN="Jason L Perry":http://coderetreat.org/profile/JasonLPerr
+ y
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/G834pRjVCIEnk
+ 1MxTbK43NuBVFjxBYBuETAaOvxGapWhqRbvZxufuTM9pLtpaqoyoRIx9DlXpiitYEMNrLI
+ gGgVx-WKZN88H/highres_433364832.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jason L 
+ Perry":http://coderetreat.org/profile/JasonLPerry
+END:VEVENT
+END:VCALENDAR

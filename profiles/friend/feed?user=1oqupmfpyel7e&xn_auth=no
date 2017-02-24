@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1oqupmfpyel7e&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:33:39Z</updated>
+                            <author>
+                    <name>Demián Gutierrez</name>
+                    <uri>http://coderetreat.org/profile/DemianGutierrez</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/YNFf2UB-Q1VyO-N58qXJh0sh2MuSuI1m2b5XSSEum6eg4dMlOQd28x9CyrPYHSjDdU40T04EtTNqG*yYKGLz8h*DkhwQ2raT/984897829.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1oqupmfpyel7e&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Roberto Moreno</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/rampmaster"/>
+                                        <id>tag:coderetreat.org,2014-10-09:6456126:User:39504</id>
+                                        <updated>2014-10-09T22:42:58.536Z</updated>
+                    
+                                            <author>
+                            <name>Demián Gutierrez</name>
+                            <uri>http://coderetreat.org/profile/DemianGutierrez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/2VGrzzXedu0yyGLgWUCAzmPgvqh1U58-azoMHZFe*gBK32pDj8D0k-HWMVnDRDu51EkzCj-IUwPL3gWLWVBIN15LwiaO68u2/1085622629.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Roberto Moreno&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/2VGrzzXedu0yyGLgWUCAzmPgvqh1U58-azoMHZFe*gBK32pDj8D0k-HWMVnDRDu51EkzCj-IUwPL3gWLWVBIN15LwiaO68u2/1085622629.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Roberto Moreno&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Pablo Lischinsky</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PabloLischinsky"/>
+                                        <id>tag:coderetreat.org,2012-11-19:6456126:User:16534</id>
+                                        <updated>2012-11-19T23:29:06.933Z</updated>
+                    
+                                            <author>
+                            <name>Demián Gutierrez</name>
+                            <uri>http://coderetreat.org/profile/DemianGutierrez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/FZN-lhtJCBuFPQjacuwJumFNXt9SN7UBOcQXeQAqdLb31CKERdHHpBGaAs050Dyx8V*guujfc46k0NpXDLX4knIcw10QV-4p/649176823.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pablo Lischinsky&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/FZN-lhtJCBuFPQjacuwJumFNXt9SN7UBOcQXeQAqdLb31CKERdHHpBGaAs050Dyx8V*guujfc46k0NpXDLX4knIcw10QV-4p/649176823.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pablo Lischinsky&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

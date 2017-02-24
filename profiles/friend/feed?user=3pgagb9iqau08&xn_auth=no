@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3pgagb9iqau08&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:20:13Z</updated>
+                            <author>
+                    <name>Srinivasan</name>
+                    <uri>http://coderetreat.org/profile/Srinivasan</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/PsFoTU1wiIH9BaKXnUWIaweUEGZMuYm48QCVpyjPDiZ3Scq5IeU8Q4OE7yajXdmtOBTGrBKfkpMWADtEfc40Pg9PllEHHC4L/593542891.jpeg?xgip=0%3A0%3A2847%3A2847%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3pgagb9iqau08&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Ranga Rao Karanam</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/RangaRaoKaranam"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:User:4674</id>
+                                        <updated>2011-12-05T15:42:32.237Z</updated>
+                    
+                                            <author>
+                            <name>Srinivasan</name>
+                            <uri>http://coderetreat.org/profile/Srinivasan</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/xhIBZfu*6A*SubhQpK0f2o3LZyF9NaL8nQpVi1fEmbxdUBK8JL-9mVDBQJv-6QuSDTwiFvqEEmmkvdQ4ERj8r1CAzwdOHMpZ/593482972.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ranga Rao Karanam&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/xhIBZfu*6A*SubhQpK0f2o3LZyF9NaL8nQpVi1fEmbxdUBK8JL-9mVDBQJv-6QuSDTwiFvqEEmmkvdQ4ERj8r1CAzwdOHMpZ/593482972.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ranga Rao Karanam&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

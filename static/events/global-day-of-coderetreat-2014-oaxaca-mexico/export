@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40646
+DTSTAMP:20170129T120544Z
+SUMMARY:Global Day of Coderetreat 2014 - Oaxaca, Mexico
+DESCRIPTION:http://globalday.coderetreat.org/\nhttps://www.eventbrite.
+ com/e/global-day-code-retreat-oaxaca-2014-tickets-14079697755\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2014-oaxaca-mexico
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:CoCyT Oaxaca
+WEBSITE:http://goo.gl/maps/9tg1V
+URL:http://goo.gl/maps/9tg1V
+CONTACT:
+ORGANIZER:oaxaca.rb
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/3KGM3KZVxz6B9
+ 0h4VbRjlBKcYVRer4bwh7RXAcM*6zgY2Z7hNs5sfloq4CK7Gd0MYXFPgkCsemxUgLTJimR
+ l7jx6P*SJ180m/logo_coderetreat.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ruby Oax
+ aca":http://coderetreat.org/profile/oaxacarb
+END:VEVENT
+END:VCALENDAR

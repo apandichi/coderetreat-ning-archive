@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55425
+DTSTAMP:20170129T113146Z
+SUMMARY:Global Day of Coderetreat 2016 - Santiago, Chile
+DESCRIPTION:Ver más detalles e inscríbete en meetup.com: http://www.
+ meetup.com/Software-Craftsmanship-Chile/events/234342125/\n\nSee more 
+ details and RSVP at meetup.com: http://www.meetup.com/Software-Craftsm
+ anship-Chile/events/234342125/\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2016-santiago-chile
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Apoquindo 4700, piso 14, Las Condes, Santiago (Nisum )
+WEBSITE:https://maps.google.com/maps?f=q&hl=en&q=Apoquindo+4700%2C+pis
+ o+14%2C+Las+Condes%2C+Santiago%2C+cl
+URL:https://maps.google.com/maps?f=q&hl=en&q=Apoquindo+4700%2C+piso+14
+ %2C+Las+Condes%2C+Santiago%2C+cl
+CONTACT:
+ORGANIZER:Software Craftsmanship Chile
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/vDq19vhV0OQNl
+ yMhGdum0FJ6xcyqD0ZBHtAlY4c1jEhtD47WjDd0QLshfB58zyq7GgLY-7WskNMMjSKWq0b
+ KANS3ie5cYfnO/global_451798584.jpeg.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David La
+ y":http://coderetreat.org/profile/DavidLay
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16630
+DTSTAMP:20170129T111729Z
+SUMMARY:Facilitator Training
+DESCRIPTION:Join us to learn about how to facilitate a Coderetreat!\nN
+ OTE: All times are listed in UTC\nThis event was created for first-tim
+ e facilitators who will be facilitating a Coderetreat as part of the G
+ lobal Day of Coderetreat, but anyone interested in learning to facilit
+ ate is welcome. This training will be lead by coderetreat extraordina
+ ire Adi Bolboaca.\nTo attend the training:\n\nRSVP to this event. Note
+ : You will need to log into or sign-up in order to RSVP.\nSend Jim Hur
+ ne your Google Account email address (if it is different from the ema
+ il address you use with coderetreat.org). Jim will give you access to 
+ the Google Hangout.\nIf you have never used Google Hangout before, try
+  joining the hangout ahead of time to work through any technical issue
+ s you may encounter. See this help page if you run into technical iss
+ ues with the Hangout.\nJoin the hangout at the scheduled time for the
+  training.\n\n\nFor more information visit http://coderetreat.org/even
+ ts/facilitator-training
+DTSTART:20121126T173000Z
+DTEND:20121126T183000Z
+CATEGORIES:training
+LOCATION:Google Hangout
+WEBSITE:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNm
+ oxYW92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0g5icpnr1qkkq90p2
+ 1p3p6f7u8
+URL:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNmoxYW
+ 92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0g5icpnr1qkkq90p21p3p
+ 6f7u8
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lennon S
+ himokawa":http://coderetreat.org/profile/LennonShimokawa
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Angel N�
+ �ñez Salazar":http://coderetreat.org/profile/AngelNunezSalazar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Yannick
+  Motton":http://coderetreat.org/profile/YannickMotton
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jan Ern
+ sting":http://coderetreat.org/profile/JanErnsting
+END:VEVENT
+END:VCALENDAR

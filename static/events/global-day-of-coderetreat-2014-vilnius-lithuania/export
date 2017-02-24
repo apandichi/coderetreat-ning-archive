@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39800
+DTSTAMP:20170129T112202Z
+SUMMARY:Global Day of Coderetreat 2014 - Vilnius, Lithuania
+DESCRIPTION:Register here: http://gdcr2014-vilnius.eventbrite.com\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2014-vilnius-lithuania
+DTSTART:20141115T090000Z
+DTEND:20141115T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Vinted (Mano drabužiai)
+WEBSITE:http://maps.lt/map/default.aspx?lang=lt#q=%c5%beirm%c5%b3n%c5%
+ b3+70
+URL:http://maps.lt/map/default.aspx?lang=lt#q=%c5%beirm%c5%b3n%c5%b3+7
+ 0
+CONTACT:
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/kYkWoLTW4g8A0
+ 1YqtYI2WmIbWrp2dbrTyLu5EvpHOu-8H5mV-jvvcRRtSlMFx5dJGu8tjXnV3RQ0B7AbiH-
+ l8NXaVliikngV/Vilnius_Gediminas_tower.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Dalius 
+ Šidlauskas":http://coderetreat.org/profile/DaliusSidlauskas
+END:VEVENT
+END:VCALENDAR

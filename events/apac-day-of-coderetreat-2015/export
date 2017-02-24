@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44761
+DTSTAMP:20170129T131416Z
+SUMMARY:APAC Day of Coderetreat 2015
+DESCRIPTION:Do you still remember our last GDCR2012, GDCR2013, GDCR201
+ 4? YES, WE ARE NOW BACK in 2015, and the first APAC Day of Coderetreat
+ .\n \nAs a person who loves programming, have you ever regretted not 
+ crafting your source code into a beautiful one piece, due to schedule 
+ pressure? Or have you had trouble  in finding the right person for a 
+ deep discussion on programming issues?  We can help you to remove the
+ se trouble.\nIn Global Day of Coderetreat (GDCR), you’ll have an env
+ ironment without schedule pressure, spend one day coding for fun, craf
+ t your source code, and try different engineering practices. Meanwhile
+ , you can discuss with people around you who may  share common intere
+ sts.\n \nIn this day, you’ll practice part or all of below topics a
+ ccording to participants average level:\n\nPair-programming\nUnit test
+ \nTest driven development (TDD)\nCode refactoring\nSW design\n\n \nIn
+  each session there’re some interesting rules/limitations, to guide 
+ people go beyond the border of their programming habits, and re-think 
+ about the important aspects of programming.\n \nCoderetreat home page
+ : www.coderetreat.org\nGDCR web page: http://gdcr.coderetreat.org/\n 
+  \nCost: Free, and with free lunch (Nokia HZ TC sponsors it) \n\nFor
+  more information visit http://coderetreat.org/events/apac-day-of-code
+ retreat-2015
+DTSTART:20150613T090000Z
+DTEND:20150613T170000Z
+CATEGORIES:coderetreat
+LOCATION:Nokia Innovation Software Park
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Liao-Yuan Zhang":http://coderetreat.org/profile/LiaoYuan
+ Zhang
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Liao-Yua
+ n Zhang":http://coderetreat.org/profile/LiaoYuanZhang
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55832
+DTSTAMP:20170129T113150Z
+SUMMARY:Global Day of Coderetreat 2016 - Denver, CO
+DESCRIPTION:Galvanize is proud to host the Global Day Coderetreat even
+ t!\nPlease RSVP through Evenbrite.\nCoderetreat is a day-long, intensi
+ ve practice event, focusing on the fundamentals of software developmen
+ t and design. By providing developers the opportunity to take part in 
+ focused practice, away from the pressures of 'getting things done', th
+ e coderetreat format has proven itself to be a highly effective means 
+ of skill improvement. Practicing the basic principles of modular desi
+ gn and clean code, developers can improve their ability to write code 
+ that minimizes the cost of change over time. \nMore information about
+  what it is you can find here: http://coderetreat.org/about\nDon't fo
+ rget to bring your own computer! Food will be provided by 8th Light (h
+ ttps://8thlight.com).\n\nFor more information visit http://coderetreat
+ .org/events/global-day-of-coderetreat-2016-denver-co
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:gdcr16
+LOCATION:Denver - Platte
+WEBSITE:http://www.galvanize.com/campuses/denver-platte/
+URL:http://www.galvanize.com/campuses/denver-platte/
+CONTACT:(303) 749-0110
+ORGANIZER;CN="Roberto Ortega":http://coderetreat.org/profile/RobertoOr
+ tega
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/JkFWP9bD-setX
+ f3iQI8mga*m5llR8wmaTPY4v919h*3UbMxtwzX1r1ibtm0TJSTJQJoA8ZKfeyH9r39jK4S
+ TlXZnFu0lBFFB/galvanize26OpenCoWorkmin.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roberto 
+ Ortega":http://coderetreat.org/profile/RobertoOrtega
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kofi Gum
+ bs":http://coderetreat.org/profile/KofiGumbs
+END:VEVENT
+END:VCALENDAR

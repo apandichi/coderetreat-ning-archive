@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12015
+DTSTAMP:20170129T134536Z
+SUMMARY:Global Day of Coderetreat 2012 - London / UK
+DESCRIPTION:Code Retreat organised by the London Software Craftsmanshi
+ p Community\n\nFor more information visit http://coderetreat.org/event
+ s/global-day-of-code-retreat-london-uk
+DTSTART:20121208T083000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat
+LOCATION:Valtech
+WEBSITE:https://maps.google.co.uk/maps?ie=UTF8&cid=811388964211309585&
+ q=Valtech+Ltd&iwloc=A&gl=GB&hl=en_uk
+URL:https://maps.google.co.uk/maps?ie=UTF8&cid=811388964211309585&q=Va
+ ltech+Ltd&iwloc=A&gl=GB&hl=en_uk
+CONTACT:
+ORGANIZER:Sandro Mancuso / Samir Talwar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sandro M
+ ancuso":http://coderetreat.org/profile/SandroMancuso503
+END:VEVENT
+END:VCALENDAR

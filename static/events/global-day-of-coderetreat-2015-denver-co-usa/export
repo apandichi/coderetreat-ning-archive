@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44933
+DTSTAMP:20170129T113645Z
+SUMMARY:Global Day of Coderetreat 2015 - Denver, CO, USA
+DESCRIPTION:Come practice the art of problem solvers with a group of s
+ oftware-oriented folk in Denver, CO. Register here: http://gdcr15-den
+ ver.eventbrite.com\n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-coderetreat-2015-denver-co-usa
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Rally Software
+WEBSITE:http://gdcr15-denver.eventbrite.com
+URL:http://gdcr15-denver.eventbrite.com
+CONTACT:720-432-2431
+ORGANIZER;CN="Sean Duckett":http://coderetreat.org/profile/SeanDuckett
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/WLDrVkQ1qFUCi
+ ECNkEzICMDY5N7SjIaaoNPsvufBhSafNrM-RVGhYehl-K*PfSRA72XU7bfikppOnqMbw2e
+ O-bNx5VmbDzXM/CityParkDen.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sean Duc
+ kett":http://coderetreat.org/profile/SeanDuckett
+END:VEVENT
+END:VCALENDAR

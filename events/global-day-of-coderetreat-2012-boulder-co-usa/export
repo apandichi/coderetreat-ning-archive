@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15627
+DTSTAMP:20170129T113506Z
+SUMMARY:Global Day of Coderetreat 2012 - Boulder, CO / USA
+DESCRIPTION:Global Day of Code Retreat is a world-wide event celebrati
+ ng passion and software craftsmanship. Last year, over 1800 software d
+ evelopers in 94 cities around the world spent the day practicing the c
+ raft of software development using the coderetreat format.Â \nWhat is 
+ a Code Retreat?\nBoulder will participate in this event alongside our 
+ international colleagues.This is a language-agnostic event. Each sessi
+ on, the pair chooses what language they want to work in. So, regardles
+ s of your language of choice, you are welcome. We practice the fundame
+ ntals: TDD and the 4 rules of simple design; these are applicable rega
+ rdless of language.\nPlease read this blog post for more information:Â
+  About Coderetreat.Â \nWhen?\nThe Boulder Code Retreat will begin prom
+ ptly at 8:30. Be sure to get here on time so that we can organize pair
+ s and offer instructions.\nWhere?\nWe're holding the event at Scrib, a
+  coworking space in downtown Boulder. Scrib is located at 2060 Broadwa
+ y, in the basement of the Siena Square building. You know where the Un
+ seen Bean is, between Spruce and Pearl? It's there. We'll have a brigh
+ t orange sign leading you along.\nWhy the $5 fee?\nWe want to see you 
+ there! When you come to the retreat, you'll get your five back.\nIf yo
+ u have any questions, send a message to Shannon at sglenmccoy@gmail.co
+ m or @mccoysg.\nLook forward to seeing you there.\nÂ \n\nFor more info
+ rmation visit http://coderetreat.org/events/global-day-of-coderetreat-
+ 2012-boulder-co-usa
+DTSTART:20121208T083000Z
+DTEND:20121208T180000Z
+CATEGORIES:global, day, of, code, retreat
+LOCATION:Scrib
+WEBSITE:http://www.scrib.co
+URL:http://www.scrib.co
+CONTACT:(607)423-8700
+ORGANIZER;CN="Shannon McCoy":http://coderetreat.org/profile/ShannonMcC
+ oy
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Shannon 
+ McCoy":http://coderetreat.org/profile/ShannonMcCoy
+END:VEVENT
+END:VCALENDAR

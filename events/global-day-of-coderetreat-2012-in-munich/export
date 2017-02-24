@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12371
+DTSTAMP:20170129T134513Z
+SUMMARY:Global Day of Coderetreat 2012 - Munich / Germany
+DESCRIPTION:Global Day of Coderetreat 2012 in Munich, starting at 8:15
+  am and end at 5:45 pm. After that networking with a beer somwewhere e
+ lse.\nLocation can be found here: Show in Google maps\nRegistration: 
+ http://coderetreat-2012-munich-swk.eventbrite.de/\nMore info on http:
+ //www.softwerkskammer.de\n\nFor more information visit http://coderetr
+ eat.org/events/global-day-of-coderetreat-2012-in-munich
+DTSTART:20121208T081500Z
+DTEND:20121208T174500Z
+CATEGORIES:coderetreat
+LOCATION:Zuehlke Engineering GmbH
+WEBSITE:http://www.softwerkskammer.de
+URL:http://www.softwerkskammer.de
+CONTACT:
+ORGANIZER:Softwerkskammer Munich group in cooperation with Zuehlke Eng
+ ineering GmbH
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Obster":http://coderetreat.org/profile/MichaelObster
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Oliver W
+ ahl":http://coderetreat.org/profile/OliverWahl
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Baer
+ ":http://coderetreat.org/profile/JanBaer233
+END:VEVENT
+END:VCALENDAR

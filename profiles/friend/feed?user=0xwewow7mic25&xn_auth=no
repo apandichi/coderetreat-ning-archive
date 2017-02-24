@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0xwewow7mic25&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:59:36Z</updated>
+                            <author>
+                    <name>Eszter Reimann</name>
+                    <uri>http://coderetreat.org/profile/EszterReimann</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/3dOMuCZtKjW5wwpGH2R9U3oeEdSKYzwz*ju7cEVWDxH4yVIfToeWzyQTKnu**qR*FF2qWnzkbX6PeRZQFcmQKTlCepyzYWMF/1241408551.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0xwewow7mic25&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Gergely Kozma</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/GergelyKozma"/>
+                                        <id>tag:coderetreat.org,2016-10-19:6456126:User:56903</id>
+                                        <updated>2016-10-19T11:59:03.272Z</updated>
+                    
+                                            <author>
+                            <name>Eszter Reimann</name>
+                            <uri>http://coderetreat.org/profile/EszterReimann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/EVCxEhQ6bj0F-SesNM7ZzFejjm*JZPay-bFAT4HWMTdJynAiFXVQx1Pv1AA7885A*lr*vKB6Bh6*a*5seuS1STnm0QZtJoCO/1243045164.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gergely Kozma&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/EVCxEhQ6bj0F-SesNM7ZzFejjm*JZPay-bFAT4HWMTdJynAiFXVQx1Pv1AA7885A*lr*vKB6Bh6*a*5seuS1STnm0QZtJoCO/1243045164.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gergely Kozma&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>János Kiss</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JanosKiss"/>
+                                        <id>tag:coderetreat.org,2016-10-18:6456126:User:56651</id>
+                                        <updated>2016-10-18T20:15:53.008Z</updated>
+                    
+                                            <author>
+                            <name>Eszter Reimann</name>
+                            <uri>http://coderetreat.org/profile/EszterReimann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/EVCxEhQ6bj3uk1Fa1h3YA0xmn6GfP1500QiviUBDkHQNWtReG7E0yvOv2vbZT7X0LBaq*DZiKLBtds1HoDWE8tjB4TwvEivu/1243002904.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;János Kiss&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/EVCxEhQ6bj3uk1Fa1h3YA0xmn6GfP1500QiviUBDkHQNWtReG7E0yvOv2vbZT7X0LBaq*DZiKLBtds1HoDWE8tjB4TwvEivu/1243002904.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;János Kiss&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Gábor Imre</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/GaborImre"/>
+                                        <id>tag:coderetreat.org,2016-10-17:6456126:User:56625</id>
+                                        <updated>2016-10-17T21:39:26.436Z</updated>
+                    
+                                            <author>
+                            <name>Eszter Reimann</name>
+                            <uri>http://coderetreat.org/profile/EszterReimann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/G834pRjVCIHhvY3tADQthFK5hI2wOHsFZhIfwmQiDKKdDDvbQQON2oEO0Iz-QcvO0w9HoZJQwEI71f2hUWkeiHkngP9Bk9MZ/1242933706.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gábor Imre&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/G834pRjVCIHhvY3tADQthFK5hI2wOHsFZhIfwmQiDKKdDDvbQQON2oEO0Iz-QcvO0w9HoZJQwEI71f2hUWkeiHkngP9Bk9MZ/1242933706.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Gábor Imre&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Igaz László</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/IgazLaszlo"/>
+                                        <id>tag:coderetreat.org,2016-10-16:6456126:User:56466</id>
+                                        <updated>2016-10-16T05:53:00.290Z</updated>
+                    
+                                            <author>
+                            <name>Eszter Reimann</name>
+                            <uri>http://coderetreat.org/profile/EszterReimann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/FO0yl-aGNNJEnFJwnFcypQMzAbpjbAPk-mYPwOdO6PlOog4BnBWsTyi-4EFpn2G0XSzHdhGoHwod*DPEK68QClqSIwcyCFbv/1242688760.jpeg?xgip=1275%3A1013%3A1002%3A1002%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Igaz László&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/FO0yl-aGNNJEnFJwnFcypQMzAbpjbAPk-mYPwOdO6PlOog4BnBWsTyi-4EFpn2G0XSzHdhGoHwod*DPEK68QClqSIwcyCFbv/1242688760.jpeg?xgip=1275%3A1013%3A1002%3A1002%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Igaz László&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Schuszter Tamás</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/SchuszterTamas"/>
+                                        <id>tag:coderetreat.org,2016-10-14:6456126:User:56350</id>
+                                        <updated>2016-10-14T08:25:01.976Z</updated>
+                    
+                                            <author>
+                            <name>Eszter Reimann</name>
+                            <uri>http://coderetreat.org/profile/EszterReimann</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/rnXnbo8QfWs0szQrRI3YSPZg0DBhZpQQeDHwx0YFUhotdjTSzw*UZYSbPsHHa*RsyC6cH6ccFoPUhicOrODun*UD2NPpmOII/1242244317.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Schuszter Tamás&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/rnXnbo8QfWs0szQrRI3YSPZg0DBhZpQQeDHwx0YFUhotdjTSzw*UZYSbPsHHa*RsyC6cH6ccFoPUhicOrODun*UD2NPpmOII/1242244317.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Schuszter Tamás&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

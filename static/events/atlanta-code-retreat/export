@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8679
+DTSTAMP:20170129T133635Z
+SUMMARY:Atlanta Code Retreat
+DESCRIPTION:Coderetreat is a day-long, intensive practice event focus
+ ed on the fundamentals of software development and design.The unique c
+ oderetreat format (which eliminates the pressure of 'getting things do
+ ne' and focuses on practicing basic principles of good design) has pro
+ ven to be a highly effective (and fun) means of skill improvement.\nYo
+ u only need to bring a laptop with the development tools you require t
+ o write code using your chosen programming languages.\nCheck out code
+ retreat.org for further details on what to expect.\n\nFor more inform
+ ation visit http://coderetreat.org/events/atlanta-code-retreat
+DTSTART:20120310T083000Z
+DTEND:20120310T180000Z
+CATEGORIES:coderetreat
+LOCATION:Pardot Offices in Buckhead
+WEBSITE:http://atlantacoderetreat-20110310.eventbrite.com/
+URL:http://atlantacoderetreat-20110310.eventbrite.com/
+CONTACT:
+ORGANIZER:Jonathan Wallace, Eric Tipton and Sthitha Garapaty
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Wallace":http://coderetreat.org/profile/JonathanWallace
+END:VEVENT
+END:VCALENDAR

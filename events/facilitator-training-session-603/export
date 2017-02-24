@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48357
+DTSTAMP:20170129T112149Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:It's a Google Hangout event. Please RSVP here:\nhttps://pl
+ us.google.com/events/cu98vpqd3omhjr0u81l8f04dip0\nThis training is for
+  facilitators. Anybody interested in facilitating a Coderetreat is inv
+ ited to attend at least one training session. This training will be de
+ livered online on Google Plus Events. Make sure you will be online fiv
+ e minutes before the training starts. Like last year we will have two
+  different types of trainings for Global Day of Coderetreat: for hosts
+  and for facilitators. The job of the host is to make sure the Codere
+ treat runs smoothly by making sure everything is arranged. Hosts find 
+ a venue with all the necessary equipment, find a company to sponsor lu
+ nch, give away the prizes at the end of the day, organize video chats 
+ with other locations, etc. The job of the facilitator is to help part
+ icipants learn from each other. Facilitators understand the Coderetrea
+ t format, choose and explain the constraints, and try to keep a learni
+ ng atmosphere during the day.\nImportant: All the times are in UTC. D
+ o one of the following to view training times in your time zone:\n\nAd
+ d the GDCR Calendar to your Google Calendar account\nUse this tool 
+ to convert the time from UTC to your time zone\n\n\nFor more informati
+ on visit http://coderetreat.org/events/facilitator-training-session-60
+ 3
+DTSTART:20151105T180000Z
+DTEND:20151105T190000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/events/cu98vpqd3omhjr0u81l8f04dip0
+WEBSITE:https://plus.google.com/events/cu98vpqd3omhjr0u81l8f04dip0
+URL:https://plus.google.com/events/cu98vpqd3omhjr0u81l8f04dip0
+CONTACT:
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+END:VEVENT
+END:VCALENDAR

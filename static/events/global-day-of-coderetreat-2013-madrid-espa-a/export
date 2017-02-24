@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29198
+DTSTAMP:20170129T115446Z
+SUMMARY:Global Day of Coderetreat 2013 - Madrid, Spain
+DESCRIPTION:Madrid joins the Global Day of Code Retreat 2013.\nMore in
+ fo at Madrid Coderetreat website.\nYou can RSVP at our event registrat
+ ion.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2013-madrid-espa-a
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Madrid, Spain
+WEBSITE:http://madridcoderetreat.wordpress.com
+URL:http://madridcoderetreat.wordpress.com
+CONTACT:
+ORGANIZER:Juanma Gómez, Rafael Luque, Fernando Paris
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/w-k4IC*v9Qk8p
+ SDre8Kh-1GtPWk0*y1zLTf79F61iD2FihXV45Q6isT4F*aJJZhRzmv2tkDTWAGHUUZEAcX
+ 6D3Z0i0TABpwR/destinosmadridfuentedecibeles.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael L
+ uque":http://coderetreat.org/profile/RafaelLuque
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="José Mi
+ guel Benedicto Ruiz":http://coderetreat.org/profile/JoseMiguelBenedict
+ oRuiz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Miguel �
+ �ngel García Martínez":http://coderetreat.org/profile/MiguelAngelGar
+ ciaMartinez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alberto 
+ Jesús Rubio Sánchez":http://coderetreat.org/profile/AlbertoJesusRubi
+ oSanchez
+END:VEVENT
+END:VCALENDAR

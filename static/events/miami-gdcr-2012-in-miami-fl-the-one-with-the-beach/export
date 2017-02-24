@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11661
+DTSTAMP:20170129T104839Z
+SUMMARY:Global Day of Coderetreat 2012 - Miami, FL / USA
+DESCRIPTION:This is not Miami, Ohio. This is Miami the one that is war
+ m and has a beach.\nI will be hosting this for a 2nd time. For more in
+ fo go to:\nCodeRetreatMiami.com\n\nFor more information visit http://c
+ oderetreat.org/events/miami-gdcr-2012-in-miami-fl-the-one-with-the-bea
+ ch
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Miami, FL USA
+WEBSITE:http://www.coderetreatmiami.com/
+URL:http://www.coderetreatmiami.com/
+CONTACT:312-985-7255
+ORGANIZER:Tom Ordonez @tomordonez
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tom Ordo
+ nez":http://coderetreat.org/profile/TomOrdonez
+END:VEVENT
+END:VCALENDAR

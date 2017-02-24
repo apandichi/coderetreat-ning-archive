@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Aaron Lerch&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=35a0d30kzbqn6&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:11:53Z</updated>
+                            <author>
+                    <name>Aaron Lerch</name>
+                    <uri>http://coderetreat.org/profile/AaronLerch</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=35a0d30kzbqn6&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Coderetreat - Notes from Indianapolis</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4957"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:BlogPost:4957</id>
+                                        <updated>2011-12-05T19:39:13.000Z</updated>
+                    
+                                            <author>
+                            <name>Aaron Lerch</name>
+                            <uri>http://coderetreat.org/profile/AaronLerch</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Our coderetreat in Indianapolis went very well - exceeded my expectations! Of course, it was my first time doing anything with coderetreat, and it was just me: hosting, facilitating, etc. so I really didn&#039;t know what to expect. :)&lt;/p&gt;
+&lt;p&gt;We had 17 people register for the event, and 13 of them showed up. I highly recommend charging a refundable fee to attend - I think it made a huge difference in helping provide that &quot;psychic weight&quot; for people when it came to attending or not. And on the…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Our coderetreat in Indianapolis went very well - exceeded my expectations! Of course, it was my first time doing anything with coderetreat, and it was just me: hosting, facilitating, etc. so I really didn&#039;t know what to expect. :)&lt;/p&gt;
+&lt;p&gt;We had 17 people register for the event, and 13 of them showed up. I highly recommend charging a refundable fee to attend - I think it made a huge difference in helping provide that &quot;psychic weight&quot; for people when it came to attending or not. And on the up-side, when people signed up, the signup page let them know that they could get a refund if they wanted, otherwise their $5 signup fee would be donated to the non-profit Interactive Intelligence Foundation which helps at-risk youth, with a focus on technology. (I work for Interactive Intelligence, and they were also our host and sponsor.) Everybody donated their fee, so it doubled as a great way to raise a little money too.&lt;/p&gt;
+&lt;p&gt;We had a wide variety of languages being used: c# and python were the most common, with close seconds by ruby, and java, followed by javascript.&lt;/p&gt;
+&lt;p&gt;Only a few folks had experience with TDD, and I&#039;m not sure that any use pairing on a regular basis. As someone who has experienced the daunting nature of TDD when attempted by yourself, I tried to focus on it throughout the day (potentially at the cost of other things) because in my experience, doing it with a pair, in a guided/structured environment, can really demystify it and make it approachable. And I would say that it worked - the majority of responses during the closing session were around things learned about TDD and pairing.&lt;/p&gt;
+&lt;p&gt;We did 6 regular-length sessions with the following focus during each:&lt;/p&gt;
+&lt;p&gt;1. Getting started, familiarity with the problem space&lt;br/&gt;2. Primitive Obsession (though I didn&#039;t call it that) - treating the Universe as infinite and not represented with a huge array&lt;br/&gt;3. Introduction of TDD and exploring abstractions further: polymorphism, no boolean flags, etc.&lt;br/&gt;4. Ping-pong pairing, focusing on expressive names&lt;br/&gt;5. More TDD (ping-pong was a hit, so we kept it going) with a &quot;Tell, Don&#039;t Ask&quot; constraint.&lt;br/&gt;6. &quot;Give it your best shot&quot; -- got back with original pairs, in original language, and tackled it again to see how it went this time.&lt;/p&gt;
+&lt;p&gt;Since I was running around trying to do everything, I tried to balance facilitating with hosting -- for example, we only skyped with Corey for a few minutes at lunch. In hindsight that was a good decision, it would&#039;ve been too stressful for me to try and connect with other groups. BUT, I did join a common google hangout for a while and just left everything muted, and let it sit there during sessions. I really liked that - people here could get up between sessions and get a &quot;window&quot; into about 5 or 6 international groups at various stages. It was pretty cool to be able to see other people doing the same thing, even if we weren&#039;t talking with them.&lt;/p&gt;
+&lt;p&gt;Overall it was a great time, and everybody stayed engaged for the whole day.&lt;/p&gt;
+&lt;p&gt;Some summarized closing circle comments:&lt;/p&gt;
+&lt;p&gt;Things learned:&lt;br/&gt;- new ideas for code/design&lt;br/&gt;- tried some new languages&lt;br/&gt;- learned a new rspec convention&lt;br/&gt;- learned &quot;Tell, Don&#039;t Ask&quot;&lt;br/&gt;- TDD/pairing/ping-pong&lt;br/&gt;- learned about working together to design code&lt;/p&gt;
+&lt;p&gt;Things that surprised:&lt;br/&gt;- surprised to be inspired to get excited (again) about programming&lt;br/&gt;- surprised to never get a fully working system&lt;br/&gt;- surprised how many ways to solve a simple problem&lt;br/&gt;- surprised how many different levels there are to understanding the problem; how certain things are more or less important to other people&lt;br/&gt;- surprised how effective ping/pong pairing is&lt;br/&gt;- surprised how tired they were&lt;br/&gt;- surprised how hard it was to delete the code after each session&lt;/p&gt;
+&lt;p&gt;Overall it was a great day and I saw a lot of engagement and excitement, and I was very encouraged by the whole thing and enjoyed it. Thanks to everybody involved!&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                            <entry>
+                    <title>Coderetreatin&#039;</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4645"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:BlogPost:4645</id>
+                                        <updated>2011-12-05T03:00:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Aaron Lerch</name>
+                            <uri>http://coderetreat.org/profile/AaronLerch</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;em&gt;Crossposted from &lt;a href=&quot;http://www.aaronlerch.com/blog/2011/12/03/coderetreatin/&quot; target=&quot;_blank&quot;&gt;http://www.aaronlerch.com/blog/2011/12/03/coderetreatin/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreat-session-1.jpg&quot;&gt;&lt;img align=&quot;left&quot; alt=&quot;Session 1 at Global Day of Coderetreat&quot; height=&quot;224&quot; src=&quot;http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreat-session-1-300x224.jpg&quot; title=&quot;Session 1 at Global Day of Coderetreat&quot; width=&quot;300&quot;&gt;&lt;/img&gt;&lt;/a&gt; Today, the Global Day of Coderetreat came to Indianapolis. &lt;em&gt;And it was great.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;13 people chose to spend the whole day on Saturday, December 3rd, in the &quot;common area&quot; at Interactive Intelligence…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;em&gt;Crossposted from &lt;a href=&quot;http://www.aaronlerch.com/blog/2011/12/03/coderetreatin/&quot; target=&quot;_blank&quot;&gt;http://www.aaronlerch.com/blog/2011/12/03/coderetreatin/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreat-session-1.jpg&quot;&gt;&lt;img align=&quot;left&quot; title=&quot;Session 1 at Global Day of Coderetreat&quot; src=&quot;http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreat-session-1-300x224.jpg&quot; alt=&quot;Session 1 at Global Day of Coderetreat&quot; width=&quot;300&quot; height=&quot;224&quot;/&gt;&lt;/a&gt;Today, the Global Day of Coderetreat came to Indianapolis. &lt;em&gt;And it was great.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;13 people chose to spend the whole day on Saturday, December 3rd, in the &quot;common area&quot; at Interactive Intelligence honing their skillz.&lt;/p&gt;
+&lt;p&gt;By the way, I want to extend a huge &lt;strong&gt;thanks &lt;/strong&gt;to Interactive Intelligence for providing the space, a catered lunch, and some breakfast! It was awesome!&lt;/p&gt;
+&lt;p&gt;This was my first coderetreat, not to mention the first one I&#039;ve hosted and facilitated. I was trusting &lt;a title=&quot;Corey Haines&quot; href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&#039;&lt;/a&gt; experience when it came to the format, and I was very pleased with how it went. We did 6 45-minute sessions, each time pairing up and implementing Conway&#039;s Game of Life. People used a wide variety of languages throughout the day: ruby, python, C#, java, javascript, even some C++.&lt;/p&gt;
+&lt;p&gt;Many of the people were new to practices like pairing, and TDD. We also got to explore a lot of design ideas and look at different ways to approach a problem. I really enjoyed being able to throw in various constraints during each session and then to see how it affected the approaches or designs that people came up with.&lt;/p&gt;
+&lt;p&gt;Overall, I got very positive feedback - it really seemed like a valuable day for everybody, for a wide variety of reasons. By far, people said that the pairing and the &lt;a title=&quot;Ping Pong Programming&quot; href=&quot;http://c2.com/cgi/wiki?PairProgrammingPingPongPattern&quot;&gt;ping/pong TDD&lt;/a&gt; were the most enlightening aspects of the day. It was great to have a structured and guided environment for people to explore those concepts that can otherwise be difficult to dig into ad-hoc.&lt;/p&gt;
+&lt;p&gt;Other things people learned or enjoyed were designing with the &lt;a title=&quot;Tell, Don&#039;t Ask&quot; href=&quot;http://pragprog.com/articles/tell-dont-ask&quot;&gt;Tell, Don&#039;t Ask&lt;/a&gt; approach, and getting exposed to some new languages.&lt;/p&gt;
+&lt;p&gt;Overall I think it was a huge success. Or at least, I was very pleased with how it went and how it seemed to affect people. :) People grew as software developers today! That&#039;s awesome in and of itself. :)&lt;/p&gt;
+&lt;p&gt;Thanks to all who attended!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreaters.jpg&quot;&gt;&lt;img align=&quot;left&quot; title=&quot;Coderetreaters&quot; src=&quot;http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreaters-300x224.jpg&quot; alt=&quot;Coderetreaters&quot; width=&quot;300&quot; height=&quot;224&quot;/&gt;&lt;/a&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreat-session-1.jpg" type="image/jpeg"/><link rel="enclosure" href="http://www.aaronlerch.com/blog/wp-content/uploads/2011/12/coderetreaters.jpg" type="image/jpeg"/>                </entry>
+                    </feed>
+        

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54615
+DTSTAMP:20170129T112146Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!\n \n\nThis training is for facilitators.
+  Anybody interested in facilitating a coderetreat is invited to attend
+  at least one training session. This training will be delivered online
+  on Google Plus Hangouts. Make sure you will be online five minutes be
+ fore the training starts.\nLike last year we will have two different t
+ ypes of trainings for Global Day of Coderetreat: for hosts and for fac
+ ilitators.\nThe job of the host is to make sure the coderetreat runs s
+ moothly by making sure everything is arranged. Hosts find a venue with
+  all the necessary equipment, find a company to sponsor lunch, give aw
+ ay the prizes at the end of the day, organize video chats with other l
+ ocations, etc.\nThe job of the facilitator is to help participants lea
+ rn from each other. Facilitators understand the coderetreat format, ch
+ oose and explain the constraints, and try to keep a learning atmospher
+ e during the day\n\nImportant: All the times are in UTC. Do one of the
+  following to view training times in your time zone:\n\nAdd the GDCR C
+ alendar to your Google Calendar account\nUse this tool to convert the 
+ time from UTC to your time zone\nFind your time below in one of these 
+ common time zones:\n09/19 09:00 AM UTC-8 America/Los_Angeles (PST)\n09
+ /19 10:00 AM UTC-7 America/Denver (MST)\n09/19 11:00 AM UTC-6 America/
+ Chicago (CST)\n09/19 12:00 PM UTC-5 America/New_York (EST)\n09/19 06:0
+ 0 PM UTC+1 Europe/Berlin (CET)\n09/19 08:00 PM UTC+3 Europe/Bucharest 
+ (EET)\n09/19 07:00 PM UTC+2 Africa/Johannesburg (CAT)\n09/19 09:00 PM 
+ UTC+4 Europe/Moscow (MSK)\n09/19 10:30 PM UTC+5.5 Asia/Kolkata (IST)\n
+ 09/20 01:00 AM UTC+8 Asia/Shanghai (ACT)\n09/20 02:00 AM UTC+9 Asia/To
+ kyo (JST)\n09/20 04:00 AM UTC+11 Australia/Sydney (AEDT)\n09/20 06:00 
+ AM UTC+13 Pacific/Auckland (NZDT)\n\n\n\n\nFor more information visit 
+ http://coderetreat.org/events/facilitator-training-session-980
+DTSTART:20160904T180000Z
+DTEND:20160904T190000Z
+CATEGORIES:training
+LOCATION:https://plus.google.com/events/ce8s8ms5vorfsqorln6ooglhjko
+WEBSITE:https://plus.google.com/events/ce8s8ms5vorfsqorln6ooglhjko
+URL:https://plus.google.com/events/ce8s8ms5vorfsqorln6ooglhjko
+CONTACT:
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54601
+DTSTAMP:20170129T122309Z
+SUMMARY:Facilitator Training Session
+DESCRIPTION:This training is for facilitators. Anybody interested in f
+ acilitating a Coderetreat is invited to attend at least one training s
+ ession. This training will be delivered online on Google Plus Events. 
+ Make sure you will be online five minutes before the training starts. 
+   Like last year we will have two different types of trainings for Gl
+ obal Day of Coderetreat: for hosts and for facilitators.   The job of
+  the host is to make sure the Coderetreat runs smoothly by making sure
+  everything is arranged. Hosts find a venue with all the necessary equ
+ ipment, find a company to sponsor lunch, give away the prizes at the e
+ nd of the day, organize video chats with other locations, etc.   The 
+ job of the facilitator is to help participants learn from each other. 
+ Facilitators understand the Coderetreat format, choose and explain the
+  constraints, and try to keep a learning atmosphere during the day.  F
+ ind your time below in one of these common time zones: ---------------
+ ----------------------------------------------------------------------
+ -----------09/06 08:30 AM UTC-7 America/Los_Angeles (PDT) 09/06 09:30 
+ AM UTC-6 America/Denver (MDT) 09/06 10:30 AM UTC-5 America/Chicago (CD
+ T) 09/06 11:30 AM UTC-4 America/New_York (EDT) 09/06 04:30 PM UTC+1 Eu
+ rope/Berlin (CET) 09/06 06:30 PM UTC+3 Europe/Bucharest (EET) 09/06 05
+ :30 PM UTC+2 Africa/Johannesburg (CAT) 09/06 07:30 PM UTC+4 Europe/Mos
+ cow (MSK) 09/06 09:00 PM UTC+5.5 Asia/Kolkata (IST) 09/06 11:30 PM UTC
+ +8 Asia/Shanghai (ACT) 09/07 12:30 AM UTC+9 Asia/Tokyo (JST) 09/07 02:
+ 30 AM UTC+11 Australia/Sydney (AEDT) 09/07 04:30 AM UTC+13 Pacific/Auc
+ kland (NZDT)\n\nFor more information visit http://coderetreat.org/even
+ ts/facilitator-training-session-504
+DTSTART:20160906T083000Z
+DTEND:20160906T093000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/events/c5kc2oe4sklhj7f2jcmf7rna9ro
+WEBSITE:https://plus.google.com/events/c5kc2oe4sklhj7f2jcmf7rna9ro
+URL:https://plus.google.com/events/c5kc2oe4sklhj7f2jcmf7rna9ro
+CONTACT:
+ORGANIZER;CN="Matt Plavcan":http://coderetreat.org/profile/MattPlavcan
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Pla
+ vcan":http://coderetreat.org/profile/MattPlavcan
+END:VEVENT
+END:VCALENDAR

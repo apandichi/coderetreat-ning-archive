@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Corinna Baldauf&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3h6le2ta44u7o&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:11:05Z</updated>
+                            <author>
+                    <name>Corinna Baldauf</name>
+                    <uri>http://coderetreat.org/profile/CorinnaBaldauf</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/KOAPCdBbMWwHzzLCpVE**4bVS-itC5lRjKcEAFY*w6q-6tZYo7G*4glS6oWFWxM6tB1jYeZlJf0u*zzfSV*SNd52tMXAiRTX/560327422.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3h6le2ta44u7o&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Code Retreats are awesome!</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:11766"/>
+                                        <id>tag:coderetreat.org,2012-09-04:6456126:BlogPost:11766</id>
+                                        <updated>2012-09-04T17:47:57.000Z</updated>
+                    
+                                            <author>
+                            <name>Corinna Baldauf</name>
+                            <uri>http://coderetreat.org/profile/CorinnaBaldauf</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;em&gt;[This is a cross-post from &lt;a href=&quot;http://finding-marbles.com/2012/09/04/code-retreats-are-awesome/&quot; target=&quot;_blank&quot;&gt;finding-marbles.com&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;At least the one I attended on Saturday – My first one.&lt;/p&gt;
+&lt;h3&gt;What is a code retreat, you’re asking?&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/cornelis/status/241840053339430912&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;align-left&quot; src=&quot;http://findingmarblesdotcom.files.wordpress.com/2012/09/coderetreat.jpg?w=300&amp;amp;h=225&amp;amp;width=300&quot; width=&quot;300&quot;&gt;&lt;/img&gt;&lt;/a&gt; A bunch of people who want to improve their coding and unit testing skills meet for a day. Everyone has their IDEs and testing…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;em&gt;[This is a cross-post from &lt;a href=&quot;http://finding-marbles.com/2012/09/04/code-retreats-are-awesome/&quot; target=&quot;_blank&quot;&gt;finding-marbles.com&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;At least the one I attended on Saturday – My first one.&lt;/p&gt;
+&lt;h3&gt;What is a code retreat, you’re asking?&lt;/h3&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/cornelis/status/241840053339430912&quot;&gt;&lt;img class=&quot;align-left&quot; src=&quot;http://findingmarblesdotcom.files.wordpress.com/2012/09/coderetreat.jpg?w=300&amp;amp;h=225&amp;amp;width=300&quot; width=&quot;300&quot;/&gt;&lt;/a&gt;A bunch of people who want to improve their coding and unit testing skills meet for a day. Everyone has their IDEs and testing frameworks ready to go. You get to tackle the same problem multiple times. We had 7 blocks, each consisting of 45 minutes coding followed by 15 minutes retrospectives. In each coding phase you pair program with someone else. To spice things up, there’s a new constraint for each round, e.g. “No IF-statements allowed”. After each round you throw away the code. *gasp* Heresy!&lt;/p&gt;
+&lt;h3&gt;Why would you do a code retreat?&lt;/h3&gt;
+&lt;p&gt;For deliberate practice. There’s this famous analogy: Musicians spend a lot of time practicing, then give a few concerts. Software developers – who often build something they’ve never build before – spend all of their time “giving the concerts” and hardly ever just practice the basics, let alone with someone else. A code retreat is an opportunity to learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;new ways of thinking / approaching a task from your pairing partner&lt;/li&gt;
+&lt;li&gt;to take really small steps&lt;/li&gt;
+&lt;li&gt;new languages&lt;br/&gt; (Code retreats are not language specific. I got to code in JavaScript, Java and Ruby. Java was the least common denominator – it works for everyone.)&lt;/li&gt;
+&lt;li&gt;new shortcuts, IDEs, frameworks, …&lt;/li&gt;
+&lt;li&gt;to throw away code&lt;span id=&quot;more-1324&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Our constraints for the 7 phases were:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;li&gt;Ping-Pong – A writes test, B writes code to pass test, B writes next test, A writes code to pass test, …&lt;/li&gt;
+&lt;li&gt;Law of Demeter – No more than one “.” per expression allowed, so no objectFoo.getBar().doFoo() – Following this law leads to looser coupling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://coderetreat.org/facilitating/activities/tdd-as-if-you-meant-it&quot;&gt;TDD as if you meant it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;No naked primitives – No ints, no booleans, …&lt;/li&gt;
+&lt;li&gt;No If – Yeah, that’s a hard one…&lt;/li&gt;
+&lt;li&gt;Each pair could choose individually from a &lt;a href=&quot;http://coderetreat.org/facilitating/activity-catalog&quot;&gt;long list&lt;/a&gt; – We chose “Find the loophole”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;My takeaways:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;As I’m not a developer, I was afraid to slow my pairing partners down. No need to worry: Code retreat tasks, such as the classic &lt;a href=&quot;http://coderetreat.org/gol&quot;&gt;“Conway’s Game of Life”&lt;/a&gt;, are quite simple and there were other non-developers attending.&lt;br/&gt; It’s helps if you’ve at least seen unit tests before, though.&lt;/li&gt;
+&lt;li&gt;I take way too big steps&lt;/li&gt;
+&lt;li&gt;In the “no primitives” round I learned to use enums instead of booleans and they make the code more “speaking”&lt;/li&gt;
+&lt;li&gt;A code retreat is great fun, but also exhausting. 7 sessions is one too many.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Next I’d like to attend a Legacy code retreat, where you learn to refactor old brittle code.&lt;/p&gt;
+&lt;p&gt;Many thanks to the facilitators &lt;a href=&quot;http://www.orchit.de/&quot;&gt;Patrick Cornelißen&lt;/a&gt; and &lt;a href=&quot;http://shishkin.org/&quot;&gt;Sergey Shishkin&lt;/a&gt;, to &lt;a href=&quot;http://www.innoq.com/de&quot;&gt;innoQ&lt;/a&gt; for hosting the event and to all attendees for making my first code retreat an awesome experience!&lt;/p&gt;
+&lt;p&gt;So could be yours: &lt;a href=&quot;http://coderetreat.org/events&quot;&gt;Find a code retreat&lt;/a&gt; near you!&lt;br/&gt; If you’re in Germany, join the &lt;a href=&quot;http://www.softwerkskammer.de/&quot;&gt;Softwerkskammer&lt;/a&gt;!&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;Patrick and Stephan blogged about the same retreat:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/u/0/108915318790061711841/posts/RWAx3BPHsWe&quot;&gt;Retrospective&lt;/a&gt; – Patrick (who facilitated the retreat)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://seasidetesting.com/2012/09/02/attending-a-code-retreat/&quot;&gt;Attending a code retreat&lt;/a&gt; – Stephan (writes from a tester’s perspective)&lt;/li&gt;
+&lt;/ul&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55380
+DTSTAMP:20170129T100631Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!\nThis training is for facilitators. Anyb
+ ody interested in facilitating a coderetreat is invited to attend at l
+ east one training session. This training will be delivered online on G
+ oogle Plus Hangouts. Make sure you will be online five minutes before 
+ the training starts.\nLike last year we will have two different types 
+ of trainings for Global Day of Coderetreat: for hosts and for facilita
+ tors.\nThe job of the host is to make sure the coderetreat runs smooth
+ ly by making sure everything is arranged. Hosts find a venue with all 
+ the necessary equipment, find a company to sponsor lunch, give away th
+ e prizes at the end of the day, organize video chats with other locati
+ ons, etc.\nThe job of the facilitator is to help participants learn fr
+ om each other. Facilitators understand the coderetreat format, choose 
+ and explain the constraints, and try to keep a learning atmosphere dur
+ ing the day\n\nImportant: The times are in Vienna time.\n\nFor more in
+ formation visit http://coderetreat.org/events/facilitator-training-ses
+ sion-427
+DTSTART:20161017T180000Z
+DTEND:20161017T190000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/u/0/events/c823ov31vkfugod5n1bq8kbeoe
+ c
+WEBSITE:https://plus.google.com/u/0/events/c823ov31vkfugod5n1bq8kbeoec
+URL:https://plus.google.com/u/0/events/c823ov31vkfugod5n1bq8kbeoec
+CONTACT:
+ORGANIZER;CN="Peter Kofler":http://coderetreat.org/profile/codecop
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vlad Kor
+ olev":http://coderetreat.org/profile/VladKorolev
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+END:VEVENT
+END:VCALENDAR

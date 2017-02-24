@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15593
+DTSTAMP:20170129T122747Z
+SUMMARY:Global Day of Coderetreat in Sheffield, UK
+DESCRIPTION:You can get more information and you can sign up at: http:
+ //gdcr2012sheffield.eventbrite.co.uk/\nCheck out our poster too: http:
+ //bit.ly/code_shef_poster\nLooking forward in meeting you :)\n\n\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ oderetreat-in-sheffield-uk-1
+DTSTART:20121208T100000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat, gdcr12
+LOCATION:Enterprise Zone, The University of Sheffield
+WEBSITE:http://goo.gl/maps/qHf7A
+URL:http://goo.gl/maps/qHf7A
+CONTACT:
+ORGANIZER:Eve Barabas and Harriet Holman
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/57t*Eo6D9xi*6
+ HWpr-HtTuKgGUvk-TdjHBa898k7aF54JiT-zoavStyLWcVCsNe5X77fKU1evjPauVZ7e3F
+ 0nvBHZf46i8Wz/IC.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eve Bara
+ bas":http://coderetreat.org/profile/EveBarabas
+END:VEVENT
+END:VCALENDAR

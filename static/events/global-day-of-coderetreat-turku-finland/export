@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11931
+DTSTAMP:20170129T133252Z
+SUMMARY:Global Day of Coderetreat 2012 - Turku / Finland
+DESCRIPTION:we are having a coderetreat on the Global Day of Coderetre
+ at.\n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-coderetreat-turku-finland
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:+358 50 341 5620
+ORGANIZER;CN="Aki Salmi":http://coderetreat.org/profile/AkiSalmi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aki Salm
+ i":http://coderetreat.org/profile/AkiSalmi
+END:VEVENT
+END:VCALENDAR

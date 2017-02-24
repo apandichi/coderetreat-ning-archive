@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45117
+DTSTAMP:20170129T100513Z
+SUMMARY:Global Day of Coderetreat 2015 - Paris, France
+DESCRIPTION:Pour la 4e année consécutive, Arolla accueillera le Glob
+ al Day of Coderetreat... avec des glaces :)\nInterphone 9316\n2ème é
+ tage\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-paris-france
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Arolla
+WEBSITE:https://www.google.fr/maps/place/21+Rue+du+Bouloi,+75001+Paris
+ /@48.8639129,2.3412076,17z/data=!3m1!4b1!4m2!3m1!1s0x47e66e230a1f2a83:
+ 0x3a9e99f1c32d2657!6m1!1e1?hl=fr
+URL:https://www.google.fr/maps/place/21+Rue+du+Bouloi,+75001+Paris/@48
+ .8639129,2.3412076,17z/data=!3m1!4b1!4m2!3m1!1s0x47e66e230a1f2a83:0x3a
+ 9e99f1c32d2657!6m1!1e1?hl=fr
+CONTACT:
+ORGANIZER;CN=Arolla:http://coderetreat.org/profile/Arolla
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/GlhbBvgh3mj58
+ -RWI6gS5jOMzJXV8J-Vpm8ukRsj5fxWouYLDQhDLbaIiQ*dJPLpoXq-dbS4BUCOxDtzEUi
+ MFrafJLp9QD3H/TourEiffel.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="khaled S
+ OUF":http://coderetreat.org/profile/khaledSOUF
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="yannick 
+ grenzinger":http://coderetreat.org/profile/yannickgrenzinger
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bilel Ms
+ ekni":http://coderetreat.org/profile/BilelMsekni
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Julien G
+ aubert":http://coderetreat.org/profile/JulienGaubert
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mickael 
+ Metesreau":http://coderetreat.org/profile/MickaelMetesreau
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Xavier D
+ etant":http://coderetreat.org/profile/XavierDetant
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alioune 
+ Sow":http://coderetreat.org/profile/AliouneSow
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Abdellah
+  Zeroual":http://coderetreat.org/profile/AbdellahZeroual
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patrick 
+ GIRY":http://coderetreat.org/profile/PatrickGIRY
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sylvain 
+ Gournay":http://coderetreat.org/profile/SylvainGournay
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Romeu MO
+ URA":http://coderetreat.org/profile/RomeuMOURA
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Arolla:ht
+ tp://coderetreat.org/profile/Arolla
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54445
+DTSTAMP:20170129T112548Z
+SUMMARY:Global Day of Coderetreat 2016 - NEW YORK CITY, USA
+DESCRIPTION:Software Craftsmanship New York will be hosting  a code r
+ etreat for the GDCR 2016!\nPlease join us for a full day of hands-on c
+ oding exercises to improve your craft.\nJust bring your computer and a
+  willingness to stretch your brain. Snacks and Lunch will be provided.
+ \n\nFor more information visit http://coderetreat.org/events/global-da
+ y-of-coderetreat-2016-new-york-city
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:ThoughtWorks NYC
+WEBSITE:https://www.google.com/maps/place/ThoughtWorks,+Inc./@40.74468
+ 28,-73.9870632,17z/data=!4m13!1m7!3m6!1s0x89c259a7c34a0a9b:0xa5d5c6806
+ 1a10f0f!2s99+Madison+Ave,+New+York,+NY+10016!3b1!8m2!3d40.7446828!4d-7
+ 3.9848745!3m4!1s0x0:0x7a7b1b141a048edf!8m2!3d40.7447042!4d-73.984886
+URL:https://www.google.com/maps/place/ThoughtWorks,+Inc./@40.7446828,-
+ 73.9870632,17z/data=!4m13!1m7!3m6!1s0x89c259a7c34a0a9b:0xa5d5c68061a10
+ f0f!2s99+Madison+Ave,+New+York,+NY+10016!3b1!8m2!3d40.7446828!4d-73.98
+ 48745!3m4!1s0x0:0x7a7b1b141a048edf!8m2!3d40.7447042!4d-73.984886
+CONTACT:
+ORGANIZER:Software Craftsmanship New York
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alicia M
+ arisal":http://coderetreat.org/profile/AliciaMarisal
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Juliano 
+ Solanho":http://coderetreat.org/profile/JulianoSolanho
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Norbert 
+ Winklareth":http://coderetreat.org/profile/NorbertWinklareth
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Li-Hsuan
+  Lung":http://coderetreat.org/profile/LiHsuanLung
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rafael H
+ uaman":http://coderetreat.org/profile/RafaelHuaman
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:33689
+DTSTAMP:20170129T131938Z
+SUMMARY:Coderetreat - Netherlands - Houten
+DESCRIPTION:Big thanks to Redwood Software for providing a location.\n
+ Max participants: 25\nLunch is not provided, please bring your own.\nS
+ tarts at: 9:00\n\nFor more information visit http://coderetreat.org/ev
+ ents/coderetreat
+DTSTART:20140405T090000Z
+DTEND:20140405T180000Z
+CATEGORIES:coderetreat
+LOCATION:Redwood Software
+WEBSITE:https://www.google.com/maps/preview/place/Redwood+Software+Ned
+ erland+B.V./@52.0296705,5.1415026,17z/data=!4m5!1m2!2m1!1sWaterveste+3
+ +in+Houten!3m1!1s0x47c6668e591dee8d:0xa1fe033619f2904
+URL:https://www.google.com/maps/preview/place/Redwood+Software+Nederla
+ nd+B.V./@52.0296705,5.1415026,17z/data=!4m5!1m2!2m1!1sWaterveste+3+in+
+ Houten!3m1!1s0x47c6668e591dee8d:0xa1fe033619f2904
+CONTACT:
+ORGANIZER;CN="Stefan Hendriks":http://coderetreat.org/profile/stefanhe
+ ndriks
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tom de K
+ oning":http://coderetreat.org/profile/TomdeKoning
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mathijs 
+ Kadijk":http://coderetreat.org/profile/MathijsKadijk
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ oster":http://coderetreat.org/profile/MartinKoster
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaap Oud
+ ejans":http://coderetreat.org/profile/JaapOudejans
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=pradeep:h
+ ttp://coderetreat.org/profile/pradeep
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Remon Si
+ nnema":http://coderetreat.org/profile/RemonSinnema
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Wag
+ land":http://coderetreat.org/profile/PaulWagland
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bart Bak
+ ker":http://coderetreat.org/profile/bjpbakker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Ton
+ deur":http://coderetreat.org/profile/PaulTondeur
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sander N
+ ieuwenhuizen":http://coderetreat.org/profile/SanderNieuwenhuizen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan H
+ endriks":http://coderetreat.org/profile/stefanhendriks
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Erik Ha
+ rperink":http://coderetreat.org/profile/ErikHarperink
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Aldert 
+ Nagel":http://coderetreat.org/profile/AldertNagel
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Discussions Tagged &#039;Host&#039; - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topic/listForTag?tag=Host&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:35:52Z</updated>
+                        <id>http://coderetreat.org/forum/topic/listForTag?tag=Host&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Article about how to arrange a coderetreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Topic:50671"/>
+                                        <id>tag:coderetreat.org,2015-11-16:6456126:Topic:50671</id>
+                                        <updated>2015-11-16T06:13:17.639Z</updated>
+                    
+                                            <author>
+                            <name>Manuel Drieschmanns</name>
+                            <uri>http://coderetreat.org/profile/ManuelDrieschmanns</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;after I facilitated the Global Day of Coderetreat @ Bern I just wrote an article about how to arrange (host, facilitate) a code retreat. The article is written in german, so if you understand pleace, please feel free to read and comment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&quot;&gt;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Greets,&lt;/p&gt;
+&lt;p&gt;Manuel&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;after I facilitated the Global Day of Coderetreat @ Bern I just wrote an article about how to arrange (host, facilitate) a code retreat. The article is written in german, so if you understand pleace, please feel free to read and comment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&quot;&gt;https://drieschmanns.wordpress.com/2015/11/15/wie-veranstalte-ich-einen-coderetreat/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Greets,&lt;/p&gt;
+&lt;p&gt;Manuel&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

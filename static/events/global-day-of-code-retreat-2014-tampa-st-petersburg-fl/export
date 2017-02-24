@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38817
+DTSTAMP:20170129T135928Z
+SUMMARY:Global Day of Coderetreat 2014 - Tampa/St. Petersburg, FL, USA
+DESCRIPTION:The yearly Global Day of Code Retreat for the Saint Peters
+ burg / Tampa area is moving to St. Pete! The Iron Yard has opened a ne
+ w campus and they will be hosting the festivities. Everyone of all ski
+ ll levels are welcome.\n\nFor more information visit http://coderetrea
+ t.org/events/global-day-of-code-retreat-2014-tampa-st-petersburg-fl
+DTSTART:20141115T090000Z
+DTEND:20141115T140000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:The Iron Yard - Saint Petersburg Campus
+WEBSITE:https://www.eventbrite.com/e/global-day-of-code-retreat-in-st-
+ petersburg-fl-tickets-13311694637
+URL:https://www.eventbrite.com/e/global-day-of-code-retreat-in-st-pete
+ rsburg-fl-tickets-13311694637
+CONTACT:727-455-3264
+ORGANIZER:Tyler Johnston and Justin Herrick
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tyler Jo
+ hnston":http://coderetreat.org/profile/TylerJohnston
+END:VEVENT
+END:VCALENDAR

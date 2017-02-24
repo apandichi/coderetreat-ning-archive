@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Steffen Gemkow&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SteffenGemkow</link>
+        <pubDate>Sun, 29 Jan 2017 12:13:31 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:13:31 +0000</lastBuildDate>
+        <image>
+            <title>Steffen Gemkow&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SteffenGemkow</link>
+            <url>http://api.ning.com:80/files/gLRz0qCeA0X6BA7hh-k5eJ-0hSruklHLkvPOGE6qleHpZasHBN3plFZA3-e6KqDej11iD78-f-AfRCqmbC5kHQKVC7hWAu*q/1081917990.jpeg?xgip=471%3A80%3A420%3A420%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010e1361c90e22e907fad3b31</guid>
+               <title>Steffen Gemkow updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:49274?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SteffenGemkow?xg_source=activity">Steffen Gemkow</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:49274?xg_source=activity">Global Day of Coderetreat 2015 - Dresden, Germany</a> at CoFab</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt"><a href="http://www.cofab.de/aktuell/14-11-15-global-day-of-coderetreat/">http://www.cofab.de/aktuell/14-11-15-global-day-of-coderetreat/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:49274?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 14 Nov 2015 09:57:21 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010e1361c3106a7a16bad8471</guid>
+               <title>Steffen Gemkow posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:49274?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SteffenGemkow?xg_source=activity">Steffen Gemkow</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:49274?xg_source=activity">Global Day of Coderetreat 2015 - Dresden, Germany</a> at CoFab</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt"><a href="http://www.cofab.de/aktuell/14-11-15-global-day-of-coderetreat/">http://www.cofab.de/aktuell/14-11-15-global-day-of-coderetreat/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:49274?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 04 Nov 2015 21:47:53 +0000</pubDate>
+               </item>    </channel>
+</rss>

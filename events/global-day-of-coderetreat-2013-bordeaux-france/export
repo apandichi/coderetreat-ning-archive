@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27224
+DTSTAMP:20170129T115221Z
+SUMMARY:Global Day of Coderetreat 2013 -  Bordeaux, France
+DESCRIPTION:3ème année consécutive de GDCR à Bordeaux. Organisé p
+ ar Okiwi, hébergé chez Coolworking. \n\nFor more information visit 
+ http://coderetreat.org/events/global-day-of-coderetreat-2013-bordeaux-
+ france
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Bordeaux
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Okiwi
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jean-Bap
+ tiste Dusseaut":http://coderetreat.org/profile/JeanBaptisteDusseaut
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38569
+DTSTAMP:20170129T120404Z
+SUMMARY:Global Day of Coderetreat 2014 - Omaha, NE, USA
+DESCRIPTION:Global Day of Code Retreat is coming to Omaha yet again! Â
+  This is a free event with breakfast and lunch provided in addition to
+  the full day of coding, learning, and fun.\n\nRegistration is now liv
+ e on eventbrite:Â https://www.eventbrite.com/e/global-day-of-code-retr
+ eat-2014-omaha-ne-tickets-13560338337\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2014-omaha-ne-us
+ a
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Union Pacific
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Jessica Codr":http://coderetreat.org/profile/JessicaCodr
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jessica 
+ Codr":http://coderetreat.org/profile/JessicaCodr
+END:VEVENT
+END:VCALENDAR

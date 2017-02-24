@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=20juvwdm0o4q8&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:56:41Z</updated>
+                            <author>
+                    <name>Pradeep Chowdary Dasari</name>
+                    <uri>http://coderetreat.org/profile/PradeepChowdaryDasari</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/NO5p8TYffu1XjQ2B6BUqeLYn6zt1hoEZaz6Ni1p*TQCuV8v3TTtgPxxIyLZVxnRWUdsPXqrZ9B6zNK0XmERtEGAa1wKTZCug/1140721777.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=20juvwdm0o4q8&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Christian Hujer</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/ChristianHujer"/>
+                                        <id>tag:coderetreat.org,2015-08-27:6456126:User:45631</id>
+                                        <updated>2015-08-27T21:03:16.250Z</updated>
+                    
+                                            <author>
+                            <name>Pradeep Chowdary Dasari</name>
+                            <uri>http://coderetreat.org/profile/PradeepChowdaryDasari</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/-oaic7y9RVRdXPs31C6HPgghe4QvnKGH2KBbY2THX0ErZZlG9WR38pWSlDfDozUXesB7DNqv2OKlQuR8GObtG0ffahZv7upc/1138946237.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Christian Hujer&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/-oaic7y9RVRdXPs31C6HPgghe4QvnKGH2KBbY2THX0ErZZlG9WR38pWSlDfDozUXesB7DNqv2OKlQuR8GObtG0ffahZv7upc/1138946237.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Christian Hujer&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

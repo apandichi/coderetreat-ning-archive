@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44632
+DTSTAMP:20170129T135401Z
+SUMMARY:Coderetreat Frankfurt am Main
+DESCRIPTION:Anmeldung/Registration: https://www.xing.com/events/code-r
+ etreat-workshop-frankfurt-1564912\n\nFor more information visit http:/
+ /coderetreat.org/events/coderetreat-frankfurt-am-main-1
+DTSTART:20150704T090000Z
+DTEND:20150704T170000Z
+CATEGORIES:coderetreat
+LOCATION:Die Zentrale
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN=Sven:http://coderetreat.org/profile/Sven
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Sven:http
+ ://coderetreat.org/profile/Sven
+END:VEVENT
+END:VCALENDAR

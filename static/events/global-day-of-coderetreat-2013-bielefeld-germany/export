@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29387
+DTSTAMP:20170129T114545Z
+SUMMARY:Global Day of Coderetreat 2013 - Bielefeld, Germany
+DESCRIPTION:More information and registration available at softwerksk
+ ammer.org/activities/bi-gdcr-13\n\nFor more information visit http://c
+ oderetreat.org/events/global-day-of-coderetreat-2013-bielefeld-germany
+DTSTART:20131214T090000Z
+DTEND:20131214T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:klose brothers gmbh, Technologiezentrum
+WEBSITE:http://www.softwerkskammer.org/activities/bi-gdcr-13
+URL:http://www.softwerkskammer.org/activities/bi-gdcr-13
+CONTACT:
+ORGANIZER;CN="Jan Ernsting":http://coderetreat.org/profile/JanErnsting
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Erns
+ ting":http://coderetreat.org/profile/JanErnsting
+END:VEVENT
+END:VCALENDAR

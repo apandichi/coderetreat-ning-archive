@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27408
+DTSTAMP:20170129T115233Z
+SUMMARY:Global Day of Coderetreat 2013 - New York, NY, USA
+DESCRIPTION:In order to register, please go to Eventbrite\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-code-re
+ treat-2013-1
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Tacit Knowledge Inc.
+WEBSITE:https://maps.google.com/maps?q=Tacit+Knowledge+LLC,+New+York,+
+ NY&hl=en&sll=40.697488,-73.979681&sspn=0.851684,1.308746&oq=tacit+know
+ &hq=Tacit+Knowledge+LLC,&hnear=New+York&t=m&z=13&iwloc=A
+URL:https://maps.google.com/maps?q=Tacit+Knowledge+LLC,+New+York,+NY&h
+ l=en&sll=40.697488,-73.979681&sspn=0.851684,1.308746&oq=tacit+know&hq=
+ Tacit+Knowledge+LLC,&hnear=New+York&t=m&z=13&iwloc=A
+CONTACT:2122519647
+ORGANIZER:Gilberto Alvarado, Oscar Gonzalez
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gilberto
+  Alvarado":http://coderetreat.org/profile/GilbertoAlvarado
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Andrea 
+ Zilio":http://coderetreat.org/profile/AndreaZilio
+END:VEVENT
+END:VCALENDAR

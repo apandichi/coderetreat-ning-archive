@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12970
+DTSTAMP:20170129T134122Z
+SUMMARY:MORE SPACE! Global Day of Coderetreat 2012 - Johannesburg / So
+ uth Africa
+DESCRIPTION:This will be the third #CodeRetreatJHB we have organised a
+ nd run, and we are looking forward to it being the biggest and best y
+ et, with plenty of prizes and surprises!\nTo secure your spot, please 
+ pay R100 (fully refundable) deposit to:\nBank: Standard Bank\nAcc Nam
+ e: Driven Software cc\nAccount No: 220046077\nBranch: Rivonia\nBranch 
+ Code: 00125595 \n\nContact events@drivensoftware.com for more informa
+ tion.\n\nFor more information visit http://coderetreat.org/events/glob
+ al-day-of-coderetreat-2012-johannesburg
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Ambrosia Hall - www.ambrosiamidrand.co.za
+WEBSITE:http://goo.gl/maps/W0CUK
+URL:http://goo.gl/maps/W0CUK
+CONTACT:+27825799154
+ORGANIZER:Driven Software
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/mzC-riXT8U*XU
+ mq*x*yfHh*t98TzQdt8qyuWo*A4-7ucD9RgYDJqk*qbZffRKPBcHEZjZ2w1srShhQoqb32
+ zIrznqnS52oan/coderetreat.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Len Wein
+ cier":http://coderetreat.org/profile/LenWeincier
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Siphiwe:h
+ ttp://coderetreat.org/profile/Siphiwe
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ashleigh
+  Langhein":http://coderetreat.org/profile/AshleighLanghein
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Ho
+ well":http://coderetreat.org/profile/KevinHowell
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark Jor
+ daan":http://coderetreat.org/profile/MarkJordaan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rene Van
+  der Westhuizen":http://coderetreat.org/profile/ReneVanderWesthuizen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vincent 
+ Maseko":http://coderetreat.org/profile/VincentMaseko
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaco Jan
+ sen":http://coderetreat.org/profile/JacoJansen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lee Nica
+ ise":http://coderetreat.org/profile/LeeNicaise
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Themba M
+ asina":http://coderetreat.org/profile/ThembaMasina
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daphne C
+ alitz":http://coderetreat.org/profile/DaphneCalitz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Shawn de
+  Wet":http://coderetreat.org/profile/ShawndeWet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel F
+ owler":http://coderetreat.org/profile/DanielFowler
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nelson P
+ ascoal":http://coderetreat.org/profile/NelsonPascoal
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rudi Kra
+ mer":http://coderetreat.org/profile/RudiKramer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sean O'R
+ egan":http://coderetreat.org/profile/SeanORegan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Riaan Ha
+ nekom":http://coderetreat.org/profile/RiaanHanekom
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rendani 
+ Nkhumeleni":http://coderetreat.org/profile/RendaniNkhumeleni
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sphephel
+ o Thabethe":http://coderetreat.org/profile/SphepheloThabethe
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter va
+ n Onselen":http://coderetreat.org/profile/PetervanOnselen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andreas 
+ Pauley":http://coderetreat.org/profile/AndreasPauley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lucky Kh
+ oza":http://coderetreat.org/profile/LuckyKhoza
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eric Smi
+ th":http://coderetreat.org/profile/EricSmith
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Craig Pa
+ terson":http://coderetreat.org/profile/CraigPaterson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eben Rou
+ x":http://coderetreat.org/profile/EbenRoux
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Male":http://coderetreat.org/profile/MichaelMale
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Mu
+ nnings":http://coderetreat.org/profile/PeterMunnings
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Patton":http://coderetreat.org/profile/JonathanPatton
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gerrit v
+ an Huyssteen":http://coderetreat.org/profile/GerritvanHuyssteen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Siyabong
+ a Africa":http://coderetreat.org/profile/SiyabongaAfrica
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Pearl":http://coderetreat.org/profile/JonathanPearl
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Mc
+ Kelvin":http://coderetreat.org/profile/KevinMcKelvin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cristo S
+ wanepoel":http://coderetreat.org/profile/CristoSwanepoel
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andre va
+ n der Westhuizen":http://coderetreat.org/profile/AndrevanderWesthuizen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew J
+ ackson":http://coderetreat.org/profile/AndrewJackson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anthonie
+  De Klerk":http://coderetreat.org/profile/AnthonieDeKlerk
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Br
+ ania":http://coderetreat.org/profile/PeterBrania
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adrian F
+ reemantle":http://coderetreat.org/profile/AdrianFreemantle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jacques 
+ relihan":http://coderetreat.org/profile/Jacquesrelihan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Simon St
+ ewart":http://coderetreat.org/profile/SimonStewart
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Vusi:http
+ ://coderetreat.org/profile/Vusi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Sono":http://coderetreat.org/profile/MichaelSono
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gwenaël
+  Ropert":http://coderetreat.org/profile/GwenaelRopert
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Danie Ro
+ ux":http://coderetreat.org/profile/DanieRoux
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gabriel 
+ Fortuna":http://coderetreat.org/profile/GabrielFortuna
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adriaan 
+ Putter":http://coderetreat.org/profile/AdriaanPutter
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Terence 
+ Kruger":http://coderetreat.org/profile/TerenceKruger
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven M
+ cDonald":http://coderetreat.org/profile/StevenMcDonald
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brady Ke
+ lly":http://coderetreat.org/profile/BradyKelly
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark Pea
+ rl":http://coderetreat.org/profile/MarkPearl
+END:VEVENT
+END:VCALENDAR

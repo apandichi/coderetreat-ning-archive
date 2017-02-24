@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2goowmy98fugn&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:45:06Z</updated>
+                            <author>
+                    <name>Tan Duong</name>
+                    <uri>http://coderetreat.org/profile/TanDuong</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2goowmy98fugn&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Nguyễn Xuân Việt Tuấn</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/NguyenXuanVietTuan"/>
+                                        <id>tag:coderetreat.org,2012-12-09:6456126:User:19412</id>
+                                        <updated>2012-12-09T14:52:25.116Z</updated>
+                    
+                                            <author>
+                            <name>Tan Duong</name>
+                            <uri>http://coderetreat.org/profile/TanDuong</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nguyễn Xuân Việt Tuấn&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Nguyễn Xuân Việt Tuấn&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

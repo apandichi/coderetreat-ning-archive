@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1x2abrtzl4ql8&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:47:51Z</updated>
+                            <author>
+                    <name>Josh B</name>
+                    <uri>http://coderetreat.org/profile/JoshB</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1x2abrtzl4ql8&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Brian Osorio</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/BrianOsorio"/>
+                                        <id>tag:coderetreat.org,2012-10-31:6456126:User:15138</id>
+                                        <updated>2012-10-31T16:21:04.793Z</updated>
+                    
+                                            <author>
+                            <name>Josh B</name>
+                            <uri>http://coderetreat.org/profile/JoshB</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/y4dy-j9rq*gX5*dBM7ZpWm2HFKCuDO92o3qJLT*wos5*afCkTj0FAKA1KMFY3bXlPfPFBpUsBVXcXb16tFKEnd4*4mQBa3BU/917507446.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Brian Osorio&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/y4dy-j9rq*gX5*dBM7ZpWm2HFKCuDO92o3qJLT*wos5*afCkTj0FAKA1KMFY3bXlPfPFBpUsBVXcXb16tFKEnd4*4mQBa3BU/917507446.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Brian Osorio&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Jessica Codr</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JessicaCodr"/>
+                                        <id>tag:coderetreat.org,2011-12-20:6456126:User:6059</id>
+                                        <updated>2011-12-20T17:39:14.955Z</updated>
+                    
+                                            <author>
+                            <name>Josh B</name>
+                            <uri>http://coderetreat.org/profile/JoshB</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/Kjjr4frf0T7TFFICW7TSiqYUQ4MigR4JU1pfmm*kTFc6iJyFDVeZ3AkNXbuHTn4dBchrlWBmw43vyNPphV7hsgx8f4cp5gd5/410365179.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jessica Codr&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/Kjjr4frf0T7TFFICW7TSiqYUQ4MigR4JU1pfmm*kTFc6iJyFDVeZ3AkNXbuHTn4dBchrlWBmw43vyNPphV7hsgx8f4cp5gd5/410365179.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jessica Codr&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

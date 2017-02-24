@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15536
+DTSTAMP:20170129T134300Z
+SUMMARY:Global Day Of Coderetreat 2012 - Wellington / New Zealand
+DESCRIPTION:We are stoked to be joining on for the fun of the Global D
+ ay of Coderetreat  \nLocation: TBC\nOrganised by Amy Palamountain and
+  Martin Holman\n\nFor more information visit http://coderetreat.org/ev
+ ents/wellington-global-day-of-code-retreat
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:code, retreat
+LOCATION:TBC
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Amy Palamountain":http://coderetreat.org/profile/AmyPala
+ mountain
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Amy Pala
+ mountain":http://coderetreat.org/profile/AmyPalamountain
+END:VEVENT
+END:VCALENDAR

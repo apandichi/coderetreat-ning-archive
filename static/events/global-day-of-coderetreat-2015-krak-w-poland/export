@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47749
+DTSTAMP:20170129T100840Z
+SUMMARY:Global Day of Coderetreat 2015 - Kraków, Poland
+DESCRIPTION:Join us for GDCR in Kraków, Poland!\n\nRSVP at sckrk.com!
+  Bring your laptop with favourite programmer's setup, you will be codi
+ ng, you have been warned!\n\nFor more information visit http://coderet
+ reat.org/events/global-day-of-coderetreat-2015-krak-w-poland
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Ocado's office
+WEBSITE:http://sckrk.com
+URL:http://sckrk.com
+CONTACT:
+ORGANIZER:LAFK, Adam Pohorecki
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/poNlDA9JoO3uV
+ -IhCTu91dZNaoOUc-dQxobYPGwIBsdvLE8NCXXdlvaRhjpwo70Qd-rSx6RPb-eIZPrrkrW
+ RZGujLLidF03M/tomaszborek.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=LAFK:http
+ ://coderetreat.org/profile/LAFK
+END:VEVENT
+END:VCALENDAR

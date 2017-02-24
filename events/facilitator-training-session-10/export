@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27744
+DTSTAMP:20170129T104139Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here! \n\nThis training is for facilitators. A
+ nybody interested in facilitating a coderetreat is invited to attend a
+ t least one training session. This training will be delivered online o
+ n Google Plus Hangouts. Make sure you will be online five minutes befo
+ re the training starts.\nThis year we will have several types of train
+ ings for Global Day of Coderetreat hosts and facilitators.\nThe job of
+  the host is to make sure the coderetreat runs smoothly by making sure
+  everything is arranged. Hosts find a venue with all the necessary equ
+ ipment, find a company to sponsor lunch, give away the prizes at the e
+ nd of the day, organize video chats with other locations, etc.\nThe jo
+ b of the facilitator is to help participants learn from each other. Fa
+ cilitators understand the coderetreat format, choose and explain the c
+ onstraints, and try to keep a learning atmosphere during the day\n \n
+ Important: All the times are in UTC. Do one of the following to view t
+ raining times in your time zone:\n\nAdd the GDCR Calendar to your Goog
+ le Calendar account\nUse this tool to convert the time from UTC to you
+ r time zone\nFind your time below in one of these common time zones:\n
+ 11/21 01:00 AM UTC-8 America/Los_Angeles (PST)\n11/21 02:00 AM UTC-7 A
+ merica/Denver (MST)\n11/21 03:00 AM UTC-6 America/Chicago (CST)\n11/21
+  04:00 AM UTC-5 America/New_York (EST)\n11/21 10:00 AM UTC+1 Europe/Pa
+ ris (CET)\n11/21 11:00 AM UTC+2 Europe/Bucharest (EET)\n11/21 11:00 AM
+  UTC+2 Africa/Johannesburg (CAT)\n11/21 12:00 PM UTC+3 Europe/Moscow (
+ MSK)\n11/21 02:30 PM UTC+5.5 Asia/Kolkata (IST)\n11/21 05:00 PM UTC+8 
+ Asia/Shanghai (ACT)\n11/21 06:00 PM UTC+9 Asia/Tokyo (JST)\n11/21 08:0
+ 0 PM UTC+11 Australia/Sydney (AEDT)\n11/21 10:00 PM UTC+13 Pacific/Auc
+ kland (NZDT)\n\n\n\n\nFor more information visit http://coderetreat.or
+ g/events/facilitator-training-session-10
+DTSTART:20131121T090000Z
+DTEND:20131121T100000Z
+CATEGORIES:training, facilitator_training
+LOCATION:https://plus.google.com/events/c4olgo868inn0n0aumkeqefe20g
+WEBSITE:https://plus.google.com/events/c4olgo868inn0n0aumkeqefe20g
+URL:https://plus.google.com/events/c4olgo868inn0n0aumkeqefe20g
+CONTACT:
+ORGANIZER;CN="Greg Dziemidowicz":http://coderetreat.org/profile/GregDz
+ iemidowicz
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Ug-Ogup9PZ91f
+ w7fM6WpEhW2SGxF1T*8sD8AmBLeMwmWLPHJlHq9fGrzGiph5lUSPJufeerylOAT8VTKjO-
+ 6AI35FplEN1p1/gdcr_2013_facilitator_training_event_logo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Dzi
+ emidowicz":http://coderetreat.org/profile/GregDziemidowicz
+END:VEVENT
+END:VCALENDAR

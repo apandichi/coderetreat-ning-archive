@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2tqy330cs0p95&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:30:49Z</updated>
+                            <author>
+                    <name>Adolfo Neto</name>
+                    <uri>http://coderetreat.org/profile/AdolfoNeto</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/oszb1oYwZClAyGcg7KCszZfS3rxyPsFpfZRGv0hbYL95DgBuRHwcHmm26ClSLDVCsv*XX4apBdEKRlKUnM8S*mH4PDPmDQQC/1069564785.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2tqy330cs0p95&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Paulo Benety Mendes de Lima</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PauloBenetyMendesdeLima"/>
+                                        <id>tag:coderetreat.org,2014-09-01:6456126:User:37926</id>
+                                        <updated>2014-09-01T23:01:35.373Z</updated>
+                    
+                                            <author>
+                            <name>Adolfo Neto</name>
+                            <uri>http://coderetreat.org/profile/AdolfoNeto</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/A1Qs8*3Ts4wyUvJIGG63iYyPlAnNb2nIoYAM8kKUxGIWpm0vQtWHNgw-yx7FDkN6B44E5ZF11ddfB38e8V9D86Nnc73uoWA4/1080516183.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Paulo Benety Mendes de Lima&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/A1Qs8*3Ts4wyUvJIGG63iYyPlAnNb2nIoYAM8kKUxGIWpm0vQtWHNgw-yx7FDkN6B44E5ZF11ddfB38e8V9D86Nnc73uoWA4/1080516183.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Paulo Benety Mendes de Lima&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

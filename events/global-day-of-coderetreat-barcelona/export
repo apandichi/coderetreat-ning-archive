@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54412
+DTSTAMP:20170129T113026Z
+SUMMARY:Global Day of Coderetreat - Barcelona, Spain
+DESCRIPTION:One more year, at Barcelona we will participate in the GDC
+ R. We will add details about venue as dates get closer. \n\nFor more 
+ information visit http://coderetreat.org/events/global-day-of-coderetr
+ eat-barcelona
+DTSTART:20161022T090000Z
+DTEND:20161022T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Typeform
+WEBSITE:https://www.google.com/maps?f=q&hl=en&q=C/+Bac+de+Roda+163,+Ba
+ rcelona,+es
+URL:https://www.google.com/maps?f=q&hl=en&q=C/+Bac+de+Roda+163,+Barcel
+ ona,+es
+CONTACT:+34650037385
+ORGANIZER;CN="Jaume Jornet":http://coderetreat.org/profile/JaumeJornet
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Kx6RNOF9Q0fbS
+ mzOThZSJKnmJ17lXIJTGoj0IJ2HPxYEHpE240t5kujqsGLIjhfqd0KjY5iFXkxVaWMAk5g
+ UyoixsYZ1ZX0N/barcelonagothic156963459.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sergio F
+ erraz":http://coderetreat.org/profile/SergioFerraz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaume Jo
+ rnet":http://coderetreat.org/profile/JaumeJornet
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Angel R
+ ojo":http://coderetreat.org/profile/AngelRojo
+END:VEVENT
+END:VCALENDAR

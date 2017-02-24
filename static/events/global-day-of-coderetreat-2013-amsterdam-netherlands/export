@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26086
+DTSTAMP:20170129T124649Z
+SUMMARY:Global Day of Coderetreat 2013 - Amsterdam, Netherlands
+DESCRIPTION:Zilverline is hosting the Global Day Coderetreat 2013.\nO
+ ur maximum amount of participants is 20 people. \nZilverline also spo
+ nsors:\n- free parking at Science Park (between buildings Matrix 400 
+ and 402)- lunch, drinks and snacks\n\nFor more information visit http:
+ //coderetreat.org/events/global-day-of-coderetreat-2013-amsterdam-neth
+ erlands
+DTSTART:20131214T090000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Amsterdam
+WEBSITE:https://www.google.com/maps/preview#!q=Science+Park+400%2C+Ams
+ terdam%2C+The+Netherlands&data=!1m4!1m3!1d737!2d4.9558016!3d52.3564662
+ !4m10!1m9!4m8!1m3!1d31549230!2d-95.677068!3d37.0625!3m2!1i1680!2i929!4
+ f13.1
+URL:https://www.google.com/maps/preview#!q=Science+Park+400%2C+Amsterd
+ am%2C+The+Netherlands&data=!1m4!1m3!1d737!2d4.9558016!3d52.3564662!4m1
+ 0!1m9!4m8!1m3!1d31549230!2d-95.677068!3d37.0625!3m2!1i1680!2i929!4f13.
+ 1
+CONTACT:
+ORGANIZER;CN="Stefan Hendriks":http://coderetreat.org/profile/stefanhe
+ ndriks
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ofVqoMLbPftVS
+ g5Q*9uoPnCwtHQr-Lqa8HI8mkLYLu7LBJxiUPRNYbA4GkyarT925xl7-qrpa6Rx6fmE1v6
+ QZw9wPK2KQF4I/facebookavatar.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Frans W.
+  van den Berg":http://coderetreat.org/profile/FransWvandenBerg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mary Gst
+ ":http://coderetreat.org/profile/MaryGst
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dr. Vadi
+ m Zaytsev":http://coderetreat.org/profile/grammarware
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Remon Si
+ nnema":http://coderetreat.org/profile/RemonSinnema
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Erik Har
+ perink":http://coderetreat.org/profile/ErikHarperink
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wouter v
+ an Drunen":http://coderetreat.org/profile/WoutervanDrunen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Hetty de
+  Vries":http://coderetreat.org/profile/HettydeVries
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniël 
+ de Vries":http://coderetreat.org/profile/DanieldeVries
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Steven W
+ eller":http://coderetreat.org/profile/suweller
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arjen va
+ n der Ende":http://coderetreat.org/profile/ArjenvanderEnde
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bob Form
+ a":http://coderetreat.org/profile/BobForma
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jankees 
+ van Woezik":http://coderetreat.org/profile/JankeesvanWoezik
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Giorgio 
+ Vinci":http://coderetreat.org/profile/GiorgioVinci
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Federico
+  Ragona":http://coderetreat.org/profile/FedericoRagona
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Oliver S
+ chrenk":http://coderetreat.org/profile/OliverSchrenk
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan H
+ endriks":http://coderetreat.org/profile/stefanhendriks
+END:VEVENT
+END:VCALENDAR

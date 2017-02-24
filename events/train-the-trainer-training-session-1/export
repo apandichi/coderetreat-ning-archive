@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46209
+DTSTAMP:20170129T122409Z
+SUMMARY:Train the Trainer training session
+DESCRIPTION:Please RSVP here!\n\n \n\n\nThis training is for (host and
+  facilitator) trainers. Volunteers who will run the training sessions 
+ are invited to attend. This training will be delivered online on Googl
+ e Plus Hangouts. Make sure you will be online five minutes before the 
+ training starts.\n\nI will start with the different ways to run the tr
+ ainings sessions I have witnessed so far. Then I will go through the r
+ elevant information new facilitators need to know in order to run a co
+ de retreat. In the end there will be QA.\n\nImportant: The time is in 
+ GMT+2.\n\nFor more information visit http://coderetreat.org/events/tra
+ in-the-trainer-training-session-1
+DTSTART:20150925T100000Z
+DTEND:20150925T110000Z
+CATEGORIES:training, facilitator_training, host_training
+LOCATION:https://plus.google.com/u/0/events/cgrn6a9q67e1eqmgja3o3nt8uc
+ 0
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Peter Kofler":http://coderetreat.org/profile/codecop
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+END:VEVENT
+END:VCALENDAR

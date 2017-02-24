@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27189
+DTSTAMP:20170129T115208Z
+SUMMARY:Global Day of Coderetreat 2013 - Osnabrück, Germany
+DESCRIPTION:GDRP 2013 @ Osnabrück - Hosted and sponsored by Universit
+ y of Applied Science and LMIS AG. // Durchgeführt und gesponsert von
+  der Hochschule Osnabrück und der LMIS AG.\n\nThis year Osnabrück w
+ ill also take part at the GDCR! It’ll be a funny day of learning new
+  principles of software development and coding. Students are very welc
+ ome as well as employed software developers to share experiences and i
+ mprove coding skills. Participation is for free – a lunch is include
+ d. Members only need to bring a laptop with installed programming env
+ ironment for the favorite language.\nRegister at: http://gdcr2013osna
+ brueck.eventbrite.de\n//\nIm Jahr 2013 kommt der GDCR erstmals auch na
+ ch Osnabrück! Es wartet ein spannender und unterhaltsamer Tag auf die
+  Teilnehmer, an dem bewährte Techniken der Softwareentwicklung verbes
+ sert und neue erlernt werden können. Studenten sind ebenso wie berufs
+ tätige Softwareentwickler herzlich eingeladen, ihre Erfahrungen auszu
+ tauschen und ihr Programmierhandwerk aufzubessern. Die Teilnahme ist k
+ ostenlos – für einen Snack wird gesorgt. Für die Teilnahme ist das
+  Mitbringen eines Notebooks inkl. eingerichteter Entwicklungsumgebung
+  für die gewählte Programmiersprache erforderlich!\nAnmeldung unter:
+  http://gdcr2013osnabrueck.eventbrite.de\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-2013-osnabr-
+ ck-germany
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Hochschule Osnabrück
+WEBSITE:https://www.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Ho
+ chschule+Osnabr%C3%BCck+Fakult%C3%A4t+f%C3%BCr+Ingenieurwissenschaften
+ +und+Informatik,+Albrechtstra%C3%9Fe,+Osnabr%C3%BCck,+Deutschland&aq=2
+ &oq=hochschule+osnabr%C3%BCck&sll=52.356466,4.955802&sspn=0.002939,0.0
+ 08256&vpsrc=6&g=Science+Park+400,+Amsterdam,+The+Netherlands&ie=UTF8&h
+ q=Hochschule+Osnabr%C3%BCck+Fakult%C3%A4t+f%C3%BCr+Ingenieurwissenscha
+ ften+und+Informatik,+Albrechtstra%C3%9Fe,+Osnabr%C3%BCck,+Deutschland&
+ ll=52.28318,8.0250
+URL:https://www.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Hochsc
+ hule+Osnabr%C3%BCck+Fakult%C3%A4t+f%C3%BCr+Ingenieurwissenschaften+und
+ +Informatik,+Albrechtstra%C3%9Fe,+Osnabr%C3%BCck,+Deutschland&aq=2&oq=
+ hochschule+osnabr%C3%BCck&sll=52.356466,4.955802&sspn=0.002939,0.00825
+ 6&vpsrc=6&g=Science+Park+400,+Amsterdam,+The+Netherlands&ie=UTF8&hq=Ho
+ chschule+Osnabr%C3%BCck+Fakult%C3%A4t+f%C3%BCr+Ingenieurwissenschaften
+ +und+Informatik,+Albrechtstra%C3%9Fe,+Osnabr%C3%BCck,+Deutschland&ll=5
+ 2.28318,8.0250
+CONTACT:
+ORGANIZER;CN="Ingo Lücker":http://coderetreat.org/profile/IngoLuecker
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/WnmTYkV-edLOz
+ h3e1IX7VARa7o*lKTKRTCE95OPzD3aOwV*rhGyRQX*JohywXFu2VZKO9*7-ztIDsXn5okC
+ ZpGHIb6Cs4ZkE/LMISHS_gelb.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ingo Lü
+ cker":http://coderetreat.org/profile/IngoLuecker
+END:VEVENT
+END:VCALENDAR

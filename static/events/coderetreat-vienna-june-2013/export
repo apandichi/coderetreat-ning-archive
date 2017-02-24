@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:20586
+DTSTAMP:20170129T124705Z
+SUMMARY:Coderetreat Vienna, June 2013
+DESCRIPTION:The retreat will take place right after the XP2013 confe
+ rence (also hosted in Vienna). So we will use the chance to have a gu
+ est facilitator on board (to be announced soon). And we will also hav
+ e a chance to chat around impressions andlearnings from the confere
+ nce.\n\nFor more information visit http://coderetreat.org/events/coder
+ etreat-vienna-june-2013
+DTSTART:20130608T081500Z
+DTEND:20130608T170000Z
+CATEGORIES:coderetreat
+LOCATION:Vienna (location details to follow soon)
+WEBSITE:http://crvienna-june13.eventbrite.com
+URL:http://crvienna-june13.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Michael Mike Leber":http://coderetreat.org/profile/Micha
+ elMikeLeber
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sebastia
+ n Nozzi":http://coderetreat.org/profile/SebastianNozzi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sebastia
+ n Dietrich":http://coderetreat.org/profile/SebastianDietrich
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Re
+ iterer":http://coderetreat.org/profile/PeterReiterer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Manuel B
+ ernhardt":http://coderetreat.org/profile/ManuelBernhardt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Miguel G
+ uasch":http://coderetreat.org/profile/MiguelGuasch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Mike Leber":http://coderetreat.org/profile/MichaelMikeLeber
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Görge 
+ Albrecht":http://coderetreat.org/profile/GoergeAlbrecht
+END:VEVENT
+END:VCALENDAR

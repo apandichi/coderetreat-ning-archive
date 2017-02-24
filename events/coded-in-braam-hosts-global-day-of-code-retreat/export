@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16198
+DTSTAMP:20170129T114743Z
+SUMMARY:Coded in Braam hosts Global Day of Code Retreat
+DESCRIPTION:Coded in Braam and ThoughtWorks Africa are excited to part
+ icipate in the Global Day of Code Retreat! Since the event in Midrand 
+ is full and we have several more people interested in participating, w
+ e'll have TWO code retreats in Jo'burg on the same day!\nRSVP here: h
+ ttp://www.meetup.com/CodedInBraam/events/92189842/\n\nFor more informa
+ tion visit http://coderetreat.org/events/coded-in-braam-hosts-global-d
+ ay-of-code-retreat
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:global, day, of, code, retreat
+LOCATION:ThoughtWorks office in Braamfontein, Johannesburg
+WEBSITE:http://www.meetup.com/CodedInBraam/
+URL:http://www.meetup.com/CodedInBraam/
+CONTACT:+27 (0) 78 5051967
+ORGANIZER:Brain Leke and Prasanna Pendse
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/t7sRlO9pmpPBC
+ vRJ-FsDPZG7PUt4hCkRodWqCCKzwH-Stsiyjcp7jPqZr6ojRowNSYsViKT*dg6iZL8rSB6
+ DQYgEIvJWGb8H/coded_in_braam.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Prasanna
+  Pendse":http://coderetreat.org/profile/PrasannaPendse
+END:VEVENT
+END:VCALENDAR

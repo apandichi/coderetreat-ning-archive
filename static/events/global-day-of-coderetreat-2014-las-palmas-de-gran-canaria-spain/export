@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39626
+DTSTAMP:20170129T120509Z
+SUMMARY:Global Day of Coderetreat 2014 - Las Palmas de Gran Canaria, S
+ pain
+DESCRIPTION:This year we want to be more people doing good code. \n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2014-las-palmas-de-gran-canaria-spain
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Pending
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Johan S. Cortes":http://coderetreat.org/profile/JohanSCo
+ rtes
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Johan S.
+  Cortes":http://coderetreat.org/profile/JohanSCortes
+END:VEVENT
+END:VCALENDAR

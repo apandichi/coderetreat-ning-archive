@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29220
+DTSTAMP:20170129T124304Z
+SUMMARY:Global Day of Coderetreat 2013 - Columbia, MD, USA
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time.\nRegistration is open and can be found on Eve
+ ntbrite: http://mdgdcr2013.eventbrite.com\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-2013-columbi
+ a-md-usa
+DTSTART:20131214T090000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Visionist, Inc. Corporate Headquarters
+WEBSITE:https://maps.google.com/maps?q=6700+Alexander+Bell+Drive+Suite
+ +440+Columbia,+Maryland+21046&hl=en&ll=39.186071,-76.809221&spn=0.0014
+ 86,0.001065&sll=38.804821,-77.236966&sspn=3.060482,2.180786&t=h&hnear=
+ 6700+Alexander+Bell+Dr+%23440,+Columbia,+Howard,+Maryland+21046&z=19&i
+ wloc=A
+URL:https://maps.google.com/maps?q=6700+Alexander+Bell+Drive+Suite+440
+ +Columbia,+Maryland+21046&hl=en&ll=39.186071,-76.809221&spn=0.001486,0
+ .001065&sll=38.804821,-77.236966&sspn=3.060482,2.180786&t=h&hnear=6700
+ +Alexander+Bell+Dr+%23440,+Columbia,+Howard,+Maryland+21046&z=19&iwloc
+ =A
+CONTACT:(443) 987-6373
+ORGANIZER:Visionist, Inc. & Riverstone Enterprise Solutions
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Keith Ja
+ ska (Riverstone ES)":http://coderetreat.org/profile/KeithJaskaRiversto
+ neES
+END:VEVENT
+END:VCALENDAR

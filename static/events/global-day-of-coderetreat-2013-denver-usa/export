@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28444
+DTSTAMP:20170129T115402Z
+SUMMARY:Global Day of Coderetreat 2013 - Denver, CO, USA
+DESCRIPTION:Come practice your craft in pressure-free environment wher
+ e you can focus on the fundamentals of software design without worryin
+ g about shipping features!  All languages and skill levels welcome.\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-2013-denver-usa
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Solomon White":http://coderetreat.org/profile/SolomonWhi
+ te
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Solomon 
+ White":http://coderetreat.org/profile/SolomonWhite
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Gary He
+ ssler":http://coderetreat.org/profile/GaryHessler
+END:VEVENT
+END:VCALENDAR

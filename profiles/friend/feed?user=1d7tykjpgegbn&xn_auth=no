@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1d7tykjpgegbn&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:00:48Z</updated>
+                            <author>
+                    <name>M. Arsalan Anwar</name>
+                    <uri>http://coderetreat.org/profile/MArsalanAnwar</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/e3fQE5OJ*SSGtmNR4dDsgR9CAgWZoMcda60FXfWGtIvejfUPlUenZBp3Mv3juxX2plllvhodgU2U0JFQ1FctAKG46Pk5R2nK/1046424355.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1d7tykjpgegbn&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Basit Ali</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/BasitAli"/>
+                                        <id>tag:coderetreat.org,2013-11-21:6456126:User:29942</id>
+                                        <updated>2013-11-21T11:50:52.268Z</updated>
+                    
+                                            <author>
+                            <name>M. Arsalan Anwar</name>
+                            <uri>http://coderetreat.org/profile/MArsalanAnwar</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/1Q*fTOyGxICRY5iO3I-oweTIxJO6Dd0x46pE1UeIhmt7*fDrVasx3PP88FptSS-j0H0TVSMinsQN1egZJr2f5Zl9Cyh2h2M-/1046053185.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Basit Ali&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/1Q*fTOyGxICRY5iO3I-oweTIxJO6Dd0x46pE1UeIhmt7*fDrVasx3PP88FptSS-j0H0TVSMinsQN1egZJr2f5Zl9Cyh2h2M-/1046053185.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Basit Ali&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

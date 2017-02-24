@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0yoqjrekho4iw&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:41:14Z</updated>
+                            <author>
+                    <name>Jan Hartung</name>
+                    <uri>http://coderetreat.org/profile/egga</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/x93ABI42iFVCzm2OM2iGEb-wqt3y69mWmyS9HKyeTN2NUqyESzu9Ufv7JC2zeZhvpg8q2AzTx2DgpS0j3p-Bu*E-ZbYnUXuS/1144094489.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0yoqjrekho4iw&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Greg Dziemidowicz</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/GregDziemidowicz"/>
+                                        <id>tag:coderetreat.org,2011-11-26:6456126:User:1962</id>
+                                        <updated>2011-11-26T15:20:29.614Z</updated>
+                    
+                                            <author>
+                            <name>Jan Hartung</name>
+                            <uri>http://coderetreat.org/profile/egga</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/oi9gpDqtJqnA4qgRBCjJQ8Wf9jmz9mIzyuRZymPwYN*sujLLkZ95LhS1pYvMBxsDbXgPIv0jIIBNXpXHaR8jZOLfAynxQeeh/476589867.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Greg Dziemidowicz&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/oi9gpDqtJqnA4qgRBCjJQ8Wf9jmz9mIzyuRZymPwYN*sujLLkZ95LhS1pYvMBxsDbXgPIv0jIIBNXpXHaR8jZOLfAynxQeeh/476589867.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Greg Dziemidowicz&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

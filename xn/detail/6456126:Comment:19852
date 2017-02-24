@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+<head data-layout-view="default" class="xj_layout_head">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5W4WQ');</script>
+<!-- End Google Tag Manager -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Is this heresy? - Coderetreat</title>
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+    <link rel="SHORTCUT ICON" href="../../favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Game of Life has started to become a little bit boring.  So we would like to try something else on our next code retreat. Is this considered heresy? :)  Has an…" />
+<meta name="title" content="Is this heresy?" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A19852" />
+<meta property="og:title" content="Is this heresy?" />
+<link rel="image_src" href="http://api.ning.com/icons/appatar/6456126?default=6456126&amp;width=64&amp;height=64" />
+<script type="text/javascript">
+    djConfig = { baseScriptUri: 'http://coderetreat.org/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/6456126?default=6456126&width=64&height=64","url":"http:\/\/coderetreat-community.ning.com","domains":["coderetreat.org"],"online":true,"privateSource":true,"id":"coderetreat-community","appId":"6456126","description":"","name":"Coderetreat","owner":"128952ghvkcvj","createdDate":"2011-11-05T02:05:01.167Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":5};
+        (function(){
+            if (!window.ning) { return; }
+
+            var age, gender, rand, obfuscated, combined;
+
+            obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+            if (obfuscated) {
+                var offset = 100000;
+                obfuscated = parseInt(obfuscated[1]);
+                rand = obfuscated / offset;
+                combined = (obfuscated % offset) ^ rand;
+                age = combined % 1000;
+                gender = (combined / 1000) & 3;
+                gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+                ning.viewer = {"age":age,"gender":gender};
+            }
+        })();
+
+        if (window.location.hash.indexOf('#!/') == 0) {
+        window.location.replace(window.location.hash.substr(2));
+    }
+    window.xg = window.xg || {};
+xg.captcha = {
+    'shouldShow': false,
+    'siteKey': '6Ldf3AoUAAAAALPgNx2gcXc8a_5XEcnNseR6WmsT'
+};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg.addOnFacebookLoad = function (f) { xg.addOnFacebookLoad.functions.push(f); };
+xg.addOnFacebookLoad.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) { this.p++; },
+    onLoad: function(set) {
+        this.p--;
+        if (this.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
+        }
+    }
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
+}
+xg._loader.onDone = function() {
+        if(window.bzplcm)window.bzplcm.start('ni');
+        xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { _globals: { screen_name: null, subdomain: "coderetreat-community", is_owner: false, is_admin: false, is_member: false, join_date: 0, request_method: "GET", trace: "fa967e1d-6271-4490-bc7f-fb4c59cbc1f2"}, event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; }, _trackingHost: "coll.ning.com", _jsDebug: false } };</script>
+<meta name="medium" content="news" /><link rel="alternate" type="application/atom+xml" title="Is this heresy? - Coderetreat" href="../../forum/topics/is-this-heresy?commentId=6456126%253AComment%253A19852&amp;feed=yes&amp;xn_auth=no" /><link rel="alternate" type="application/atom+xml" title="Discussion Forum - Coderetreat" href="../../forum?sort=mostRecent&amp;feed=yes&amp;xn_auth=no" />
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common-982.min.css?xn_version=3408449514);
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/wide-sidebar.min.css?xn_version=1327369422);
+@import url(http://static.ning.com/socialnetworkmain/widgets/forum/css/component.min.css?xn_version=2388144985);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIXYaqKgGd0KBZicBBAhfDYj2Aa4s8f5nvPfAF-VYObMp0rAmgQw1ZhPhrL8x7sGJRoU6IovphedJCS5U4-yfae/1249016504.css?xn_version=201701120951);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIgyDAElZlBJ1Awn*XfVWcD2dDlwyjePoNWSlDmjGd8UlGhL3I8xAQsZekh6xVJbAhSECHot0nK97Q3PD*PcfV3/1249038261.css?xn_version=201701120951);
+
+</style>
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=1394342931" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../profiles/blog/rsd" />
+<script type="text/javascript">(function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,'http://coderetreat.org/m/discussion?id=6456126%3ATopic%3A13536');</script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5W4WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="xj_before_content">        <div id="xn_bar">
+            <div id="xn_bar_menu">
+                <div id="xn_bar_menu_branding" >
+                                    </div>
+
+                <div id="xn_bar_menu_more">
+                    <form id="xn_bar_menu_search" method="GET" action="http://coderetreat.org/main/search/search">
+                        <fieldset>
+                            <input type="text" name="q" id="xn_bar_menu_search_query" value="Search Coderetreat" _hint="Search Coderetreat" accesskey="4" class="text xj_search_hint" />
+                            <a id="xn_bar_menu_search_submit" href="./6456126:Comment:19852#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+                        </fieldset>
+                    </form>
+                </div>
+
+                            <ul id="xn_bar_menu_tabs">
+                                            <li><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852">Sign Up</a></li>
+                                                <li><a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852">Sign In</a></li>
+                                    </ul>
+                        </div>
+        </div>
+            <script src="http://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
+    <script>
+        try {
+            GlamCreateSlot("183770529", "728x90", "Ning_Top_Leaderboard");
+            GlamSetSlotData("Ning_Top_Leaderboard", "ningid=6456126");
+            GlamCreateSlot("183770529", "300x250", "Ning_Top_Right");
+            GlamSetSlotData("Ning_Top_Right", "ningid=6456126");
+            GlamTrack("183770529");
+        } catch (e) {}
+    </script>
+    </div>
+    <div class="xg_theme" data-layout-pack="romeo">
+        <div id="xg_themebody">
+            <div id="xg_ad_above_header" class="xg_ad xj_ad_above_header dy-displaynone">
+                
+            </div>
+            <div id="xg_head">
+                <div id="xg_masthead">
+                    <h1 id="xg_sitename" class="xj_site_name"><a id="application_name_header_link" href="../../index.html"><img src="http://api.ning.com:80/files/2vzV35vB8k5SPm92v9bGA0ng9DP2h-ONIcgPoDUThiIk1roHMF4eVjzlN2o3z9S5aU*wKgn9jZpdxEekNQCYvnOumr-beV44/cnlogo.png" alt="Coderetreat"></a></h1>
+                    <p id="xg_sitedesc" class="xj_site_desc">Honing the craft together worldwide</p>
+                </div>
+                <div id="xg_navigation" class="xj_navigation"><ul>
+    <li dojoType="SubTabHover" id="xg_tab_xn3" class="xg_subtab"><a href="../../about"><span>About</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about" style="float:none;"><span>About Coderetreat</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about/community-network" style="float:none;"><span>About Community Network</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../history" style="float:none;"><span>History</span></a></li></ul></div></li><li id="xg_tab_events" class="xg_subtab"><a href="../../events"><span>Events</span></a></li><li dojoType="SubTabHover" id="xg_tab_groups" class="xg_subtab"><a href="../../groups"><span>Groups</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitators</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/organizers-hosts" style="float:none;"><span>Organizers/Hosts</span></a></li></ul></div></li><li id="xg_tab_xn17" class="xg_subtab"><a href="../../hosting"><span>Hosting</span></a></li><li dojoType="SubTabHover" id="xg_tab_xn10" class="xg_subtab"><a href="../../facilitating"><span>Facilitating</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/structure-of-a-coderetreat" style="float:none;"><span>Structure</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../gol" style="float:none;"><span>Conway&#039;s Game of Life</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/activity-catalog" style="float:none;"><span>Activity Catalog</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../profiles/blogs/on-the-role-of-the-coderetreat-facilitator" target="_blank" style="float:none;"><span>Role of the Facilitator</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitator&#039;s Group</span></a></li></ul></div></li><li dojoType="SubTabHover" id="xg_tab_xn0" class="xg_subtab"><a href="../../media"><span>Media</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../photo" style="float:none;"><span>Photos</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../video" style="float:none;"><span>Video</span></a></li></ul></div></li><li id="xg_tab_blogs" class="xg_subtab"><a href="../../profiles/blog/list"><span>Blogs</span></a></li><li id="xg_tab_forum" class="xg_subtab this"><a href="../../forum.1"><span>Forum</span></a></li><li id="xg_tab_profile" class="xg_subtab"><a href="../../profiles.1"><span>My Page</span></a></li></ul>
+</div>
+            </div>
+            <div id="xg_ad_below_header" class="xg_ad xj_ad_below_header dy-displaynone">
+						
+					</div>
+            <div id="xg" class="xg_widget_forum xg_widget_forum_topic xg_widget_forum_topic_show">
+                	
+                <div id="xg_body">
+                    <div class="xj_notifications"></div>
+                    <div class="xg_column xg_span-14" id="column1">
+                        <div id="xg_canvas" class="xj_canvas">
+                            <ul class="navigation easyclear">
+            <li><a href="../../forum.1">All Discussions</a></li>
+        <li><a href="../../forum/topic/listForContributor?">My Discussions</a></li>
+                <li class="right xg_lightborder navbutton"><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopic%2Fnew%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopic%2Fnew%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852" class="xg_sprite xg_sprite-add">Add</a></li>
+    </ul>
+<div class="xg_module xg_module_with_dialog">
+    <div class="xg_headline xg_headline-img xg_headline-2l">
+    <div class="ib"><span class="xg_avatar"><a class="fn url" href="../../profile/MarcoEmrich"  title="Marco Emrich"><span class="dy-avatar dy-avatar-64 "><img  class="photo photo" src="http://api.ning.com:80/files/zkGb0X42pMTifX1Mcg0cOMEemnbNtFTY7k4XsCN6vXrOPXcx1LTNhsNZqsqVqVHQDV1LPxduxHz0odGgGkmJi7oS0cdqylQ3/1021128860.jpeg?xgip=0%3A267%3A2485%3A2485%3B%3B&amp;width=64&amp;height=64&amp;crop=1%3A1" alt="" /></span></a></span></div>
+<div class="tb"><h1>Is this heresy?</h1>
+        <ul class="navigation byline">
+            <li><a class="nolink">Posted by </a><a href="../../profile/MarcoEmrich">Marco Emrich</a><a class="nolink"> on October 8, 2012 at 1:30am</a></li>
+            <li><a class="xg_sprite xg_sprite-view" href="../../forum/topic/listForContributor?user=0qia617cxx6e1">View Discussions</a></li>
+        </ul>
+    </div>
+</div>
+    <div class="xg_module_body">
+        <div class="discussion" data-category-id="">
+            <div class="description">
+                                <div class="xg_user_generated">
+                    <p>Game of Life has started to become a little bit boring.  So we would like to try something else on our next code retreat. Is this considered heresy? :)  Has anyone of you tried another problem domain?</p>
+<p>Any suggestions for a good problem?</p>
+<p>What were your experiences?</p>
+<p>Any opinions? Is it a good idea to try something else, or would you rather stick with GoL?</p>
+<p></p>                </div>
+            </div>
+        </div>
+                    <p class="small" id="tagsList" style="display:none">Tags:<br/></p>
+                <div class="left-panel">
+            <div class="likebox likebox-ning">
+    <div class="ning-like">
+                <div class="xg_lightborder like-button like-button-1">
+            <a data-content-id="6456126:Topic:13536"
+                        data-content-type="Topic"
+                        data-sign-up-url="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"
+                        data-like-url="/main/like/like"
+                        data-unlike-url="/main/like/unlike"
+                        data-page-type="detail" class="xg_sprite" href="./6456126:Comment:19852#">
+                Like            </a>
+        </div>
+                <div class="like-count">
+            <a href="./6456126:Comment:19852#" class="view-liked" _id="6456126:Topic:13536">1 member likes this</a>
+        </div>
+    </div>
+</div>
+                <p class="share-links clear">
+                <a class="xg_sprite xg_sprite-share" href="../../main/sharing/share?id=6456126%25253ATopic%25253A13536">Share</a>            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    <span class="xg_tweet">
+        <a href="https://twitter.com/share" class="post_to_twitter twitter-share-button" target="_blank"
+            data-text="Checking out &quot;Is this heresy?&quot; on Coderetreat:" data-url="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A19852" data-count="none" data-dnt="true">Tweet</a>
+        </span>
+        <span class="google-plusone" data-content-type="Topic" data-content-id="6456126:Topic:13536" data-page-type="detail">
+    <g:plusone callback="xg_index_googlePlusOne_onPlusOne" size="medium" count="false" href="http://coderetreat.org/xn/detail/6456126:Topic:13536"></g:plusone>
+</span>
+
+        <a class="post_to_facebook xj_post_to_facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852%26xg_source%3Dfacebookshare&amp;t=" _url="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A19852&amp;xg_source=facebookshare" _title="" _log="{&quot;module&quot;:&quot;forum&quot;,&quot;page&quot;:&quot;topic&quot;,&quot;action&quot;:&quot;show&quot;}">Facebook</a>
+                    </p>
+                            <script>xg.addOnRequire(function () { xg.post('/main/viewcount/update?xn_out=json', {key: '6456126:Topic:13536', x: 'b229ef0'}); });</script>                <p class="small dy-clear view-count-container">
+    <span class="view-count-label">Views:</span> <span class="view-count">1428</span></p>
+
+                    </div>
+                <dl id="cf" class="discussion noindent">
+            <dd>             <p class="toggle">
+            <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply to This</a>
+        </p>
+    </dd>        </dl>
+    </div>
+</div>
+    <div class="xg_module">
+            <div id="discussionReplies" >
+            <div class="xg_module_body">
+                <h3 id="comments" _scrollTo="cid-6456126:Comment:19852">Replies to This Discussion</h3>
+                                    <dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:13434" id="cid-6456126:Comment:13434"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/JimHurne"  title="Jim Hurne"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/FTtWH8-RZI3nheGeA1zX9gE2Yf4tzd8J-IvZWB7zwPgJCFffMm0jSRTPFREHbtvody1rHqwSyibuhLDSwK40Xf16u8nhIvRo/949881480.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment13434" href="./6456126:Comment:13434" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=332nampeqo8i8" class="fn url">Jim Hurne</a> on <span class="timestamp">October 8, 2012 at 1:52am</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment13434"><div class="xg_user_generated"><p>Hello Marco,</p>
+<p>Your question is not at all heresy. In fact, it is a fairly common question. Although this question is common,it is usually asked by first-time coderetreat attendees. Based on how you worded your post, it sounds like you are a fairly experienced coderetreater. How many coderetreats have you or others from your group attended?</p>
+<p>What aspects of Conway's Game of Life have you become bored with? </p>
+<p>I've observed that sometimes frequent coderetreat attendees get "stuck" implementing Conway's the same way over and over, or they focus on the same problem areas.  At your next Coderetreat, try changing things up a bit. Instead of starting with the rules, try starting with implementing the live neighbor counting algorithm. Or try starting with the user interface. Often starting in a different place is good enough to get you thinking differently about the problem. When you think differently about the problem, you may discover something you didn't see before.</p>
+<p>If that doesn't help, try changing up the exercises you do at Coderetreat. If "no conditionals" is getting a bit dull, try "no return values", or something more challenging. Or come up with your own new, challenging exercise.  This is a good alternative to finding a new problem because Coderetreat is more about practicing coding techniques than it is about Conway's Game of Life.</p>
+<p>There have been other attempts in the past to use a problem different from Conway's Game of Life, but they didn't seem to work nearly as well.</p>
+<p>Lastly, you could also change things up by trying a <a href="http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html" target="_blank">Legacy Coderetreat</a>. A Legacy Coderetreat uses the same basic structure, but you spend the day attempting to improve an ugly existing codebase. Thus, you don't work with Conway's Game of Life and the exercises are very different.</p>
+<p>I'd love to hear from others as well. Are you finding Conway's Game of Life is getting old? If so, why? Has anyone else tried a problem different from Conway's Game of Life? Is it really Conway's Game of Life that is getting old, or is it the exercises?</p>
+<p>Jim++</p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:13343" id="cid-6456126:Comment:13343"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/MarcoEmrich"  title="Marco Emrich"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/zkGb0X42pMTifX1Mcg0cOMEemnbNtFTY7k4XsCN6vXrOPXcx1LTNhsNZqsqVqVHQDV1LPxduxHz0odGgGkmJi7oS0cdqylQ3/1021128860.jpeg?xgip=0%3A267%3A2485%3A2485%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment13343" href="./6456126:Comment:13343" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=0qia617cxx6e1" class="fn url">Marco Emrich</a> on <span class="timestamp">October 8, 2012 at 2:38am</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment13343"><div class="xg_user_generated"><p>Hello Jim,</p>
+<p>thanks for your prompt response.<br/></p>
+<div class="xg_user_generated"><blockquote><p>Although this question is common,it is usually asked by first-time coderetreat attendees. Based on how you worded your post, it sounds like you are a fairly experienced coderetreater. How many coderetreats have you or others from your group attended?</p>
+</blockquote>
+<p>I attended 4 and facilitated one. I wouldn't call myself very experienced, but I think I have already seen a lot of different approaches: Connected-Cells, Various Board implementations, heavily stubbed/mocked approaches, Inside-Out, Outside-In, various kinds of rule implementations - with and without conditionals, logic on the board, on the cell, in a rule class etc.</p>
+</div>
+<blockquote cite="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;xg_source=msg_com_forum#6456126Comment13434"><div class="xg_user_generated"><p>What aspects of Conway's Game of Life have you become bored with? </p>
+</div>
+</blockquote>
+<div class="xg_user_generated"><p>No particular aspect. I just would like get my teeth into some new problems. GoL has two interesting problems: the rules and the neighbor detection. But there are a lot of very different problems out there.</p>
+</div>
+<blockquote cite="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;xg_source=msg_com_forum#6456126Comment13434"><div class="xg_user_generated"><p>I've observed that sometimes frequent coderetreat attendees get "stuck" implementing Conway's the same way over and over, or they focus on the same problem areas.  At your next Coderetreat, try changing things up a bit. Instead of starting with the rules, try starting with implementing the live neighbor counting algorithm. Or try starting with the user interface.</p>
+</div>
+</blockquote>
+<div class="xg_user_generated"><p>That's interesting! I never tried to build a GUI on a retreat. I always thought that GUIs are out of scope, mainly because of their non-programming issues.</p>
+</div>
+<blockquote cite="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;xg_source=msg_com_forum#6456126Comment13434"><div class="xg_user_generated"><p>If that doesn't help, try changing up the exercises you do at Coderetreat. If "no conditionals" is getting a bit dull, try "no return values", or something more challenging. Or come up with your own new, challenging exercise. </p>
+</div>
+</blockquote>
+<div class="xg_user_generated"><p>Yes, we plan to do <a rel=nofollow href="http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf" target="_blank">Object Calisthenics</a> on our next retreat - thanks to Martin Klose. I just wonder if that is enough to get it interesting.</p>
+</div>
+<blockquote cite="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;xg_source=msg_com_forum#6456126Comment13434"><div class="xg_user_generated"><p>There have been other attempts in the past to use a problem different from Conway's Game of Life, but they didn't seem to work nearly as well.</p>
+</div>
+</blockquote>
+<div class="xg_user_generated"><p>That's very interesting too. What have you tried? And why didn't it work well?</p>
+</div>
+<div class="xg_user_generated"><p>I already attended a "mini-code retreat" consisting of only two sessions, that used <em>tic tac toe</em> as the problem. I worked quite well, although it is smaller in scope than GOL. We currently wonder if it would make sense to use for our next retreat.</p>
+<p>Thanks for your answer Jim, it already provided some food for thought.</p>
+<p>Marco</p>
+</div></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:13368" id="cid-6456126:Comment:13368"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/JimHurne"  title="Jim Hurne"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/FTtWH8-RZI3nheGeA1zX9gE2Yf4tzd8J-IvZWB7zwPgJCFffMm0jSRTPFREHbtvody1rHqwSyibuhLDSwK40Xf16u8nhIvRo/949881480.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment13368" href="./6456126:Comment:13368" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=332nampeqo8i8" class="fn url">Jim Hurne</a> on <span class="timestamp">October 9, 2012 at 12:09pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment13368"><div class="xg_user_generated"><p></p>
+<p><cite>Marco Emrich said:</cite></p>
+<blockquote><p>I wouldn't call myself very experienced, but I think I have already seen a lot of different approaches</p>
+</blockquote>
+<p>There are probably an infinite number of approaches to solving Conway's Game of Life. This is one reason why we continue to use GoL.  It is not uncommon to discover a never-before-seen approach at a coderetreat.</p>
+<blockquote><p>That's interesting! I never tried to build a GUI on a retreat. I always thought that GUIs are out of scope, mainly because of their non-programming issues.</p>
+</blockquote>
+<p>I agree that GUI's may not be the best choice for a Coderetreat because they do involve a lot of distractions. That said, GoL doesn't need a very complicated UI. Many languages provide very simple GUI toolkits which are more than sufficient for coderetreat and GoL. I've seen pairs also produce very nice text-based UIs or very basic HTML-based UIs.</p>
+<p>The point is try something different. How does starting from the perspective of the UI change you're approach to implementing GoL? Does it affect how you implement the other aspects of GoL (the rules and the neighbor counting)?</p>
+<blockquote><p>Yes, we plan to do <a rel="nofollow" href="http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf" target="_blank">Object Calisthenics</a> on our next retreat - thanks to Martin Klose. I just wonder if that is enough to get it interesting.</p>
+</blockquote>
+<p>It often is enough! Remember: the goal of a coderetreat is not to implement GoL. Instead, it is to practice coding techniques we normally don't get a chance to practice. It's about becoming a better developer.  If you take this perspective, then GoL fades into the background somewhat and the exercises become the interesting part.  This is another reason why we've stuck with GoL.</p>
+<div class="xg_user_generated"><blockquote><p>There have been other attempts in the past to use a problem different from Conway's Game of Life, but they didn't seem to work nearly as well.</p>
+</blockquote>
+</div>
+<div class="xg_user_generated"><blockquote><p>That's very interesting too. What have you tried? And why didn't it work well?</p>
+</blockquote>
+<p>The most common "alternative" is <em>Tick-tack-toe</em> (also known as <em>Noughts and Crosses</em> or <em>X's and O's).</em> However, if you think GoL gets old, consider what it is like to use a game everyone has played a thousand times. In my opinion, GoL is much more interesting that <em>Tick-tack-toe</em>.</p>
+<p>Some groups have also tried Uncle Bob's <a href="http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata" target="_blank">Bowling Game Kata,</a> but it turns out implementing a bowling scoring system too hard of a problem to tackle at Coderetreat. If a problem is too hard (like this one), then most of the day is spent grappling with the problem itself and becomes a major distraction to the other, more important aspects of coderetreat.</p>
+<p>Jim++</p>
+</div></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:19546" id="cid-6456126:Comment:19546"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/EmilyBache"  title="Emily Bache"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/ehTln0H14lnGrhLEJNeyB5fyz9ehh0XxNIVFa5l0mQGhnEspFcqs*ptXLYZuMIylnVtHmW*EYdK2gWysF*5yRI6dTKBD7D-e/576928757.jpeg?xgip=0%3A103%3A1278%3A1278%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment19546" href="./6456126:Comment:19546" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=11glbw6smgk2b" class="fn url">Emily Bache</a> on <span class="timestamp">December 10, 2012 at 5:39pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment19546"><div class="xg_user_generated"><p>Hi,</p>
+<p>We tried out some other katas at GDCR as well as Game of Life, and had very positive feedback on this aspect. I wrote it up in a blog post:</p>
+<p><a rel=nofollow href="http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html" target="_blank">http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-20...</a></p>
+<p><br/>HTH</p>
+<p>Emily</p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:20004" id="cid-6456126:Comment:20004"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/JimHurne"  title="Jim Hurne"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/FTtWH8-RZI3nheGeA1zX9gE2Yf4tzd8J-IvZWB7zwPgJCFffMm0jSRTPFREHbtvody1rHqwSyibuhLDSwK40Xf16u8nhIvRo/949881480.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment20004" href="./6456126:Comment:20004" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=332nampeqo8i8" class="fn url">Jim Hurne</a> on <span class="timestamp">December 12, 2012 at 1:08pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment20004"><div class="xg_user_generated"><p>This is probably the best, most compelling application of alternatives to Game Of Life that I've seen thus far.</p>
+<p>I like how you gave participants a choice of several different katas. Choice is very often a powerful motivator. I also like how you picked the four specific katas with very specific learning goals in mind. This is exactly how we encourage facilitators to pick exercises.</p>
+<p>Your experiment highlighted that the problem itself isn't the focus of the day, but you also showed that using a different kata can help direct learning (similar to how choosing different constraints and exercices directs learning).</p>
+<p>The primary argument against using different katas is that participants will waste time learning the new problem instead of practicing specific aspects of writing code. In other words, switching katas can be distracting. What did you observe on Saturday? Did people pick one kata and stick with it all day long, or did they switch katas every session?  If they switched katas, approximately how much time did people spend learning the new kata rather than doing the given exercise?  Did the katas at any point distract from other learning or did they always help and encourage learning?</p>
+<p>Conway's Game of Life has been battle tested for almost four years now. GoL will always be a good choice for coderetreat, and it may continue to be the default choice for the foreseeable future. However, you've shown that other problems can also work. I think this is worth exploring further.</p>
+<p>Jim++<br/> <br/> <cite>Emily Bache said:</cite></p>
+<blockquote cite="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A19546&amp;xg_source=msg_com_forum#6456126Comment19546"><div><div class="xg_user_generated"><p>Hi,</p>
+<p>We tried out some other katas at GDCR as well as Game of Life, and had very positive feedback on this aspect. I wrote it up in a blog post:</p>
+<p><a rel="nofollow" href="http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html" target="_blank">http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-20...</a></p>
+<p><br/>HTH</p>
+<p>Emily</p>
+</div>
+</div>
+</blockquote></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:19852" id="cid-6456126:Comment:19852"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/EmilyBache"  title="Emily Bache"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/ehTln0H14lnGrhLEJNeyB5fyz9ehh0XxNIVFa5l0mQGhnEspFcqs*ptXLYZuMIylnVtHmW*EYdK2gWysF*5yRI6dTKBD7D-e/576928757.jpeg?xgip=0%3A103%3A1278%3A1278%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment19852" href="./6456126:Comment:19852" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=11glbw6smgk2b" class="fn url">Emily Bache</a> on <span class="timestamp">December 13, 2012 at 7:59am</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment19852"><div class="xg_user_generated"><p>I agree Game of Life is a good kata, with lots of challenges to it. I agree that by repeating the same kata, you quickly learn a way to solve it, so solving it no longer becomes the focus, and you can learn more about deisgn, try out different approaches and constraints etc.</p>
+<p>All the other katas I suggested are quite easy to get in to, since they provide starting code and/or an obvious line of enquiry - "implement tests for this class" (Tyre Pressure, Gilded Rose), or "refactor this" (Tennis) or "write this test first, then this test" (String Calculator). So none of them are as open ended as Game of Life.</p>
+<p>What I observed was that pairs didn't pick one of the other katas to work on all day. They did String Calculator for two sessions to get comfortable with TDD, then moved to Game of Life. Or they did Game of life for three sessions, then tried String Calculator for two, in Clojure. People who did Gilded Rose did it for two or three sessions, then tried Tennis and Tyre Pressure.</p>
+<p>For a beginner to TDD, they need concrete instructions and clear boundaries, so these katas are quite easy to get started with. For experts, they can probably solve these katas completely in 45 minutes, after only one or two sessions of trying, which gives a sense of achievement. Then if you do them again, you can try out some other approaches. I'm not sure you'd want to do the same one for 5 sessions in a row, these katas have a smaller scope than Game of Life. You would repeat it that much if you wanted to perfect it for a prepared kata demonstration, but that's not usually a goal at code retreat. It might be at a coding dojo.</p>
+<p><br/>There is definitely a value in knowing a kata well enough that solving the problem is not the focus, but experimenting with tests and designs becomes possible. Some katas are smaller and easier to learn than others. I've also experienced groups struggle with Bowling Game in a coding dojo, and I found if I give them a list of test cases to implement up front, it works better.</p>
+<p>I think TDD has four main subskills - designing test cases, refactoring, driving development incrementally with tests, and designing clean, testable code. Game of Life is a good kata for practicing all these skills together. These other katas are basically only challenging you at one of the subskills and lets you focus on improving at just that aspect.</p>
+<p>So to answer your question, no, people didn't seem to get hung up on understanding these problems and wasting half their time on that. They were quickly up and coding and learning, as far as I can see. That's also been my experience when I've used them in coding dojos.</p>
+<p>Emily</p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:20302" id="cid-6456126:Comment:20302"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/ScottPigman"  title="Scott Pigman"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/Azx*AMl8AJ*4oJiy4VfYGq8k-H2y0iXj4qIy0bjp2X6fHS1fos*rHM5Ds*KxNahwKnOraQ9ZFpsTSVctHZwHs2Rb1rUeKMhb/464570982.jpeg?xgip=0%3A0%3A283%3A283%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment20302" href="./6456126:Comment:20302" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=0dfij2oxeyr8b" class="fn url">Scott Pigman</a> on <span class="timestamp">December 14, 2012 at 10:20pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment20302"><div class="xg_user_generated"><p>Instead of trying to implement something other than Game of Life, how about trying implement Game of Life in a different language? Switching from something in the C/Java family of languages to something in the lisp family, for example, would be an interesting challenge. I'm curious to see what a prolog version would look like, myself.</p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:20404" id="cid-6456126:Comment:20404"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/EmilyBache"  title="Emily Bache"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/ehTln0H14lnGrhLEJNeyB5fyz9ehh0XxNIVFa5l0mQGhnEspFcqs*ptXLYZuMIylnVtHmW*EYdK2gWysF*5yRI6dTKBD7D-e/576928757.jpeg?xgip=0%3A103%3A1278%3A1278%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment20404" href="./6456126:Comment:20404" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=11glbw6smgk2b" class="fn url">Emily Bache</a> on <span class="timestamp">December 16, 2012 at 6:59pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment20404"><div class="xg_user_generated"><p>I believe that using other programming languages is already an accepted practice at code retreat. We had Ruby, Python, C++, Java, javascript and Clojure at various times through the day. This does add variety, but if neither person in the pair knows the language, progress is pretty slow and there is much googling after syntax.</p>
+<p>Emily</p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:20317" id="cid-6456126:Comment:20317"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/MarcoEmrich"  title="Marco Emrich"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/zkGb0X42pMTifX1Mcg0cOMEemnbNtFTY7k4XsCN6vXrOPXcx1LTNhsNZqsqVqVHQDV1LPxduxHz0odGgGkmJi7oS0cdqylQ3/1021128860.jpeg?xgip=0%3A267%3A2485%3A2485%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment20317" href="./6456126:Comment:20317" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=0qia617cxx6e1" class="fn url">Marco Emrich</a> on <span class="timestamp">December 20, 2012 at 1:14pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment20317"><div class="xg_user_generated"><p>... and like Jim said in the facilitator video: learning a new language in a code retreat can be fun, but you shouldn't do it all the time. Otherwise you would miss a lot of other learnings that the constraints can provide.</p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:20217" id="cid-6456126:Comment:20217"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/MarcoEmrich"  title="Marco Emrich"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/zkGb0X42pMTifX1Mcg0cOMEemnbNtFTY7k4XsCN6vXrOPXcx1LTNhsNZqsqVqVHQDV1LPxduxHz0odGgGkmJi7oS0cdqylQ3/1021128860.jpeg?xgip=0%3A267%3A2485%3A2485%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment20217" href="./6456126:Comment:20217" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=0qia617cxx6e1" class="fn url">Marco Emrich</a> on <span class="timestamp">December 20, 2012 at 1:43pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment20217"><div class="xg_user_generated"><p>To come back to the original discussion: After facilitating two more code retreats (including the Nuremberg GDCR12) and also trying several katas with students at my work place (<a rel=nofollow rel="nofollow" href="http://www.webmasters.de" target="_blank">www.webmasters.de</a>) I came to the following 'conclusion'.  (Maybe 'conclusion' isn't the right word, since my experience is still very limited.)</p>
+<p>I think code retreats and dojo's both have their place. While they have some general goals in common (becoming a better coder), they provide quite different learning experiences.</p>
+<p>Small Katas done in Dojo or Randori-Style (like Emily describes in her <a rel=nofollow rel="nofollow" href="https://leanpub.com/codingdojohandbook" target="_blank">Book</a> - which is really great, by the way) are best for introduction or skill improvement in specific areas. E.g. the <a rel=nofollow href="http://osherove.com/tdd-kata-1/" target="_blank">StringCalculator-Kata</a> is very good for learning basic tdd. I also found tic-tac-toe quite useful for practicing <a rel=nofollow href="http://www.xpteam.com/jeff/writings/objectcalisthenics.rtf" target="_blank">Object Calisthenics</a>.</p>
+<p>Code Retreats, on the other hand, are much more open. Its not predetermined, what kind of learning experience you will get out of it. Constraints might force you to learn new things. You might try a new language or you will just pick some new cool techniques (sometimes very uncommon ones) from your pair - which can be anything from command line tricks to simple keyboard strokes to specific tdd techniques to social skills to complex architectural insights.</p>
+<p>After the last experiences, I'm somewhat convinced that for a classical code retreat it's <strong>best to stick with GOL</strong> in order to enable the "<em>problem fades to the backround</em>"-effect. While for seeking out targeted learnings, like tdd-introduction or Object Calisthenics or SOLID-principles, ... it seems to be very useful to have a specifically tailored problem, that provides exactly the learning experience, you are seeking out. </p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+<dl class="discussion clear i0 xg_lightborder">
+    <dt class="byline">
+        <a name="6456126:Comment:34962" id="cid-6456126:Comment:34962"></a>         <span class="xg_avatar"><a class="fn url" href="../../profile/KonradMalewski"  title="Konrad Malewski"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo left" src="http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1" alt="" /></span></a></span><a name="6456126Comment34962" href="./6456126:Comment:34962" title="Permalink to this Reply" class="xg_icon xg_icon-permalink">Permalink</a> Reply by <a href="../../forum/topic/listForContributor?user=24hw493tji7s4" class="fn url">Konrad Malewski</a> on <span class="timestamp">April 10, 2014 at 12:50pm</span>    </dt>
+        <dd>
+                        <div class="description" id="desc_6456126Comment34962"><div class="xg_user_generated"><p>I did reverse polish notation calculator and SIP server. I will post slides here in free time.</p></div></div>
+                </dd>
+        <dd>
+        <ul class="actionlinks">
+            <li class="actionlink">
+                            <p class="toggle">
+                    <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply</a>
+                </p>
+                    </li>
+    <li class="actionlink"></li>    </ul>
+</dl>
+                    <dl class="last-reply">
+                        <dd>             <p class="toggle">
+            <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852"><span><!--[if IE]>&#9658;<![endif]--><![if !IE]>&#9654;<![endif]></span> Reply to Discussion</a>
+        </p>
+    </dd>                    </dl>
+                                            </div>
+            <div class="xg_module_foot">
+                                    <p class="left">
+                        <a class="xg_icon xg_icon-rss" href="../../forum/topics/is-this-heresy?commentId=6456126%253AComment%253A19852&amp;feed=yes&amp;xn_auth=no">RSS</a>
+                    </p>
+                            </div>
+        </div>
+    </div>
+
+                        </div>
+                    </div>                
+                    <div class="xg_column xg_span-7 xg_last" id="column2">
+                        <div class="xj_user_info">    <div class="xg_module" id="xg_module_account">
+        <div class="xg_module_body xg_signup xg_lightborder">
+            <p>Welcome to<br />Coderetreat</p>
+                        <p class="last-child"><big><strong><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852">Sign Up</a></strong></big><br/>or <a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852" style="white-space:nowrap">Sign In</a></p>
+                            <div class="xg_external_signup xg_lightborder xj_signup">
+                    <p class="dy-small">Or sign in with:</p>
+                    <ul class="providers">
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852%26source%3DsignUp%26close%3D1%26provider%3Dfacebook', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852%26source%3DsignUp%26close%3D0%26provider%3Dfacebook">
+                            <span class="mini-service mini-service-facebook" title="Facebook"></span>
+                    </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852%26source%3DsignUp%26close%3D1%26provider%3Dtwitter', null, 'width=860,height=440,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852%26source%3DsignUp%26close%3D0%26provider%3Dtwitter">
+            <span class="mini-service mini-service-twitter" title="Twitter"></span>
+        </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852%26source%3DsignUp%26close%3D1%26provider%3Dyahoo', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fforum%252Ftopics%252Fis-this-heresy%253FcommentId%253D6456126%25253AComment%25253A19852%26source%3DsignUp%26close%3D0%26provider%3Dyahoo">
+            <span class="mini-service mini-service-yahoo" title="Yahoo!"></span>
+        </a></li>
+    </ul>
+                </div>
+                    </div>
+    </div>
+</div>
+                        <div class="xj_sidebar_content"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="xg_foot">
+                <div id="xg_footcontent">
+                    <div class="xj_foot_content"><p class="left">
+    © 2017             &nbsp; Created by <a href="u_128952ghvkcvj">corey haines</a>.            &nbsp;
+    Powered by<a class="poweredBy-logo" href="https://www.ning.com/" rel="dofollow"><img class="poweredbylogo" width="87" height="15" src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/Ning_MM_footer_wht@2x.png?xn_version=242216045" title
+="Ning Website Builder" alt="Website builder | Create website | Ning.com" target="_blank"></a>    </p>
+    <p class="right xg_lightfont">
+                    <a href="../../main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fcoderetreat.org%2Fforum%2Ftopics%2Fis-this-heresy%3FcommentId%3D6456126%253AComment%253A19852">Terms of Service</a>
+            </p>
+</div>
+                </div>
+            </div>
+			<div id="xg_ad_below_footer" class="xg_ad xj_ad_below_footer dy-displaynone">
+				
+			</div>
+        </div>
+    </div>
+    <div class="xj_after_content"><div id="xj_baz17246" class="xg_theme"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use Coderetreat.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="../../xn_resources/widgets/index/gfx/jstrk_off.gif" alt="" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=2765273374"></script>        <script>
+            var sources = ["http:\/\/api.ning.com:80\/files\/-q6tvS*EPsKouV2no1yS1Z44orlQXrgrn6cdJ97JZM9VH4co81cvbscnFg1OIeCEAERmoD0shDB*lmRNzNJ6T8IsQXkDhnlA\/set_common_min.js?r=1483433098","http:\/\/api.ning.com:80\/files\/-q6tvS*EPsIDglm6XsIHQnF2C5cvq6sQSH4BHo3lPwjLzXAiTz*xwSh3Nzo35JTe3HQ8zazA0QhfOXKw*zEFJVns6LI05tM3\/set_shared_c0_min.js?r=1483433458","http:\/\/api.ning.com:80\/files\/-q6tvS*EPsIU6FS490t3MJfHHbGU6TNJuB-amoQ8A0s6r7aYdAJ7xJWNvY8xyffTCGFY92ccIS4SxBSwa2Nv4ZnHZMueDxYf\/set_forum_c0_min.js?r=1483434530","http:\/\/api.ning.com:80\/files\/DBD4PE5EidX8bMye8TF3Vgj*wiN1CMUqlGOsiUfmbWhad9XqIDQvhcK9YvdKTfykhVIjZ5Y8bMTz5GvWMwpWLXWeJZt1vhvK\/set_sidebar_u_min.js?r=1406592884"];
+            var numSources = sources.length;
+            var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            var onloadFunctionsObj = {};
+
+            var createScriptTagFunc = function(source) {
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                                var currentOnLoad = function() {xg._loader.onLoad(source);};
+                if (script.readyState) { //for IE (including IE9)
+                    script.onreadystatechange = function() {
+                        if (script.readyState == 'complete' || script.readyState == 'loaded') {
+                            script.onreadystatechange = null;
+                            currentOnLoad();
+                        }
+                    }
+                } else {
+                   script.onerror = script.onload = currentOnLoad;
+                }
+
+                script.src = source;
+                node.appendChild(script);
+            };
+
+            for (var i = 0; i < numSources; i++) {
+                xg._loader.loading(sources[i]);
+                createScriptTagFunc(sources[i]);
+            }
+        </script>
+    <script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2017-01-29T09:58:10+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201701120951'; // DEP-9365:3cf2104 33
+djConfig.parseWidgets = false;
+</script>
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+        <script type="text/javascript">
+        xg.token = '';
+xg.canTweet = false;
+xg.cdnHost = 'static.ning.com';
+xg.version = '201701120951';
+xg.useMultiCdn = true;
+xg.staticRoot = 'socialnetworkmain';
+xg.xnTrackHost = "coll.ning.com";
+    xg.cdnDefaultPolicyHost = 'static';
+    xg.cdnPolicy = [];
+xg.global = xg.global || {};
+xg.global.currentMozzle = 'forum';
+xg.global.userCanInvite = false;
+xg.global.requestBase = '';
+xg.global.locale = 'en_US';
+xg.num_thousand_sep = ",";
+xg.num_decimal_sep = ".";
+(function() {
+    dojo.addOnLoad(function() {
+        if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+            });
+            ning.loader.require('xg.shared.SpamFolder', 'xg.index.like.likeButton', 'xg.index.googlePlusOne', function() { xg._loader.onLoad('xnloader'); });
+    })();    </script>
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
+
+</div>
+</body>
+</html>

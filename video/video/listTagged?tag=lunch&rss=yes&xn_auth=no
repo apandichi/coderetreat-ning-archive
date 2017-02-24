@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>All Videos Tagged lunch (Coderetreat) - Coderetreat</title>
+            <link rel="self" href="listTagged?tag=lunch&amp;rss=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:54:38Z</updated>
+                        <id>http://coderetreat.org/video/video/listTagged?tag=lunch&amp;rss=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Conways Game of Life on the GPU</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18571"/>
+                                        <id>tag:coderetreat.org,2012-12-07:6456126:Video:18571</id>
+                                        <updated>2012-12-07T09:33:31.217Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/conways-game-of-life-on-the-gpu&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/rS-riebQz0F1hauCpknBxqZWzL90dfvOp6DFATr4y0M6F8YASOuG3bNYwHzWqq496CC2e8ql2sY8X2c45dUEKQ__/27992284.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;This is a great video to show during lunch!&lt;br&gt;&lt;/br&gt;
+&lt;br&gt;&lt;/br&gt;
+Game of life implementation in CUDA. Tips on using CUDA, and details of this implementation on my blog: &lt;a href=&quot;http://c0de-x.com/game-of-life-on-the-gpu/&quot;&gt;http://c0de-x.com/game-of-life-on-the-gpu/&lt;/a&gt; Download…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/conways-game-of-life-on-the-gpu&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/rS-riebQz0F1hauCpknBxqZWzL90dfvOp6DFATr4y0M6F8YASOuG3bNYwHzWqq496CC2e8ql2sY8X2c45dUEKQ__/27992284.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;This is a great video to show during lunch!&lt;br /&gt;
+&lt;br /&gt;
+Game of life implementation in CUDA. Tips on using CUDA, and details of this implementation on my blog: &lt;a href=&quot;http://c0de-x.com/game-of-life-on-the-gpu/&quot;&gt;http://c0de-x.com/game-of-life-on-the-gpu/&lt;/a&gt; Download s...                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Conway&#039;s Game Of Life in APL</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18642"/>
+                                        <id>tag:coderetreat.org,2012-12-07:6456126:Video:18642</id>
+                                        <updated>2012-12-07T09:31:37.786Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/conway-s-game-of-life-in-apl&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/02Um8Cdpy-hS5QHMhd5GFSxl1LN-x7G2Wqywha0O6Hj3-yBqbZiugNZeB1oCWhqjx*6113uOm4CTSqxcpVDOHF0x*8T17ndA/544589575.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;This is a great video to show at lunch during a coderetreat!&lt;br&gt;&lt;/br&gt;
+&lt;br&gt;&lt;/br&gt;
+Click this link for the high resolution version with clearer text :) &lt;a href=&quot;http://uk.youtube.com/watch?v=a9xAKttWgP4&amp;amp;fmt=18&quot;&gt;http://uk.youtube.com/watch?v=a9xAKttWgP4&amp;amp;fmt=18&lt;/a&gt; There is a &quot;Game of Life&quot; tutorial at…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/conway-s-game-of-life-in-apl&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/02Um8Cdpy-hS5QHMhd5GFSxl1LN-x7G2Wqywha0O6Hj3-yBqbZiugNZeB1oCWhqjx*6113uOm4CTSqxcpVDOHF0x*8T17ndA/544589575.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;This is a great video to show at lunch during a coderetreat!&lt;br /&gt;
+&lt;br /&gt;
+Click this link for the high resolution version with clearer text :) &lt;a href=&quot;http://uk.youtube.com/watch?v=a9xAKttWgP4&amp;amp;fmt=18&quot;&gt;http://uk.youtube.com/watch?v=a9xAKttWgP4&amp;amp;fmt=18&lt;/a&gt; There is a &quot;Game of Life&quot; tutorial at h...                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>SmoothLifeL</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18386"/>
+                                        <id>tag:coderetreat.org,2012-12-07:6456126:Video:18386</id>
+                                        <updated>2012-12-07T09:30:56.800Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/smoothlifel&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/lZ4CXhFTngrjscW2wmWZhksMSuuE2pmn1Iw-egsuhBvp8T-GR6cY4kpLkQFCzpdoJAZGaXNJZ6oV*B3QxlIHX61KUXnJR-lN/968795044.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;This is a great video to show during lunch at a coderetreat!&lt;br&gt;&lt;/br&gt;
+&lt;br&gt;&lt;/br&gt;
+SmoothLife is a family of rules created by Stephan Rafler. It was designed as a continuous version of Conway&#039;s Game of Life - using floating point values…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/smoothlifel&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/lZ4CXhFTngrjscW2wmWZhksMSuuE2pmn1Iw-egsuhBvp8T-GR6cY4kpLkQFCzpdoJAZGaXNJZ6oV*B3QxlIHX61KUXnJR-lN/968795044.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;This is a great video to show during lunch at a coderetreat!&lt;br /&gt;
+&lt;br /&gt;
+SmoothLife is a family of rules created by Stephan Rafler. It was designed as a continuous version of Conway&#039;s Game of Life - using floating point values ins...                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Life in life</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18475"/>
+                                        <id>tag:coderetreat.org,2012-12-07:6456126:Video:18475</id>
+                                        <updated>2012-12-07T09:30:09.518Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/life-in-life&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/TKMZQgSgESTaEebUnpMn1dDzoT3KXJkRy1sP1CfVQxZsCLo99BiPdzskEls2dMMVHEsmQTPDlkfBoCvXP1Cu9rekuNql7yKS/850626614.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;This is a great video to show at a coderetreat during lunch!&lt;br&gt;&lt;/br&gt;
+&lt;br&gt;&lt;/br&gt;
+A video of Conway&#039;s Game of Life, emulated in Conway&#039;s Game of Life. Inspired by this video: &lt;a href=&quot;http://www.youtube.com/watch?v=QtJ77qsLrpw&quot;&gt;http://www.youtube.com/watch?v=QtJ77qsLrpw&lt;/a&gt; I made a similar…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/life-in-life&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/TKMZQgSgESTaEebUnpMn1dDzoT3KXJkRy1sP1CfVQxZsCLo99BiPdzskEls2dMMVHEsmQTPDlkfBoCvXP1Cu9rekuNql7yKS/850626614.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;This is a great video to show at a coderetreat during lunch!&lt;br /&gt;
+&lt;br /&gt;
+A video of Conway&#039;s Game of Life, emulated in Conway&#039;s Game of Life. Inspired by this video: &lt;a href=&quot;http://www.youtube.com/watch?v=QtJ77qsLrpw&quot;&gt;http://www.youtube.com/watch?v=QtJ77qsLrpw&lt;/a&gt; I made a similar vide...                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>epic conway&#039;s game of life</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Video:18639"/>
+                                        <id>tag:coderetreat.org,2012-12-07:6456126:Video:18639</id>
+                                        <updated>2012-12-07T09:28:31.953Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;a href=&quot;http://coderetreat.org/video/epic-conway-s-game-of-life&quot;&gt;&lt;br /&gt;
+&lt;img alt=&quot;Thumbnail&quot; height=&quot;180&quot; src=&quot;http://api.ning.com:80/files/QHclEACCuC6*J1Le-gWnE1xVFsAzjAq6ZECzq6128n1irmjSt*fGCLsAJvcJJju7voxfZ68rV9X5YTEa*n8asYqctS*aX8RU/412450049.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot;&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;/a&gt; &lt;br&gt;&lt;/br&gt;This is a great video to play during lunch at a coderetreat!&lt;br&gt;&lt;/br&gt;
+&lt;br&gt;&lt;/br&gt;
+An epic song for an epic game @ThePoketrix: the name of the pattern is: &#039;&#039;golly ticker&#039;&#039;, you can find a detailed description here:…                    </summary>
+
+                                            <content type="html">
+                            &lt;a href=&quot;http://coderetreat.org/video/epic-conway-s-game-of-life&quot;&gt;&lt;br /&gt;
+            &lt;img src=&quot;http://api.ning.com:80/files/QHclEACCuC6*J1Le-gWnE1xVFsAzjAq6ZECzq6128n1irmjSt*fGCLsAJvcJJju7voxfZ68rV9X5YTEa*n8asYqctS*aX8RU/412450049.jpeg?width=240&amp;amp;height=180&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Thumbnail&quot; /&gt;&lt;br /&gt;
+        &lt;/a&gt;&lt;br /&gt;This is a great video to play during lunch at a coderetreat!&lt;br /&gt;
+&lt;br /&gt;
+An epic song for an epic game @ThePoketrix: the name of the pattern is: &#039;&#039;golly ticker&#039;&#039;, you can find a detailed description here: &lt;a href=&quot;https://sites.google.com/&quot;&gt;https://sites.google.com/&lt;/a&gt;...                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

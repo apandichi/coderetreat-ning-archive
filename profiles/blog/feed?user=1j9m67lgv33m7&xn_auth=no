@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Carlos Iglesias&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1j9m67lgv33m7&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:14:36Z</updated>
+                            <author>
+                    <name>Carlos Iglesias</name>
+                    <uri>http://coderetreat.org/profile/CarlosIglesias</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/NuN0K4EF8HF18FdjC*9-YHG8IXyaPLxIvrpw7adqow9R5P5P15ohLSeX12lFq2xSsrEX3VMTXpze6-ktOCJozrMxIFI4*Q2u/950092465.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1j9m67lgv33m7&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Coderetreat at Barcelona</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5601"/>
+                                        <id>tag:coderetreat.org,2011-12-07:6456126:BlogPost:5601</id>
+                                        <updated>2011-12-07T21:30:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Carlos Iglesias</name>
+                            <uri>http://coderetreat.org/profile/CarlosIglesias</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi!!!&lt;/p&gt;
+&lt;p&gt;Thank you Corey for that awesome #gdcr11 :)&lt;/p&gt;
+&lt;p&gt;Here is a post that explains how we had fun at &lt;a href=&quot;http://www.runroom.com&quot; target=&quot;_blank&quot;&gt;Runroom&lt;/a&gt; (Barcelona):&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.runroom.com/en/2011/12/global-day-of-coderetreat-barcelona/&quot;&gt;http://www.runroom.com/en/2011/12/global-day-of-coderetreat-barcelona/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It&#039;s in spanish, catalan and english! ;) &lt;strong&gt;Watch the video!!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Keep enjoying!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Hi!!!&lt;/p&gt;
+&lt;p&gt;Thank you Corey for that awesome #gdcr11 :)&lt;/p&gt;
+&lt;p&gt;Here is a post that explains how we had fun at &lt;a href=&quot;http://www.runroom.com&quot; target=&quot;_blank&quot;&gt;Runroom&lt;/a&gt; (Barcelona):&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.runroom.com/en/2011/12/global-day-of-coderetreat-barcelona/&quot;&gt;http://www.runroom.com/en/2011/12/global-day-of-coderetreat-barcelona/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It&#039;s in spanish, catalan and english! ;) &lt;strong&gt;Watch the video!!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Keep enjoying!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

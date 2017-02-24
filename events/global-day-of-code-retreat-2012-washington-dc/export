@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12586
+DTSTAMP:20170129T134114Z
+SUMMARY:Global Day of Coderetreat 2012 - Washington, DC / USA
+DESCRIPTION:Excella Consulting is excited to host the Global Day of Co
+ de retreat on Saturday December 8th  2012 in Arlington VA. This is a 
+ 1-day event being held simultaneously in over 200 cities around the wo
+ rld. For participants in the Washington DC area, this code retreat day
+  will build on the topics covered in the DC Agile Engineering Conferen
+ ce on Friday December 7th and will focus on clean code, refactoring, u
+ nit testing, pair programming and TDD.\nCome with your laptop equipped
+  with your favorite programming and unit testing environment. Be prepa
+ red to pair up, code, practice, learn, share and have fun!\nClick here
+  to find out more info and to register\n\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-code-retreat-2012-washing
+ ton-dc
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Washington DC
+WEBSITE:http://dc-agile-engineering-conference-eorg.eventbrite.com/
+URL:http://dc-agile-engineering-conference-eorg.eventbrite.com/
+CONTACT:
+ORGANIZER:Excella Consulting
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/UwIGB*hkLDZB6
+ gCcmXMrcpxi2boCekikkraF*Gwf4oyU5YDNUQ*A4Ft90wGtu4uSWQSkV-AXDYrc-Fx28yJ
+ BenrFlgP1c9qz/220pxUnited_States_Capitol_west_front_edit2.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Fadi:http
+ ://coderetreat.org/profile/Fadi
+END:VEVENT
+END:VCALENDAR

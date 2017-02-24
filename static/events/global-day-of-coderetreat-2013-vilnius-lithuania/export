@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28087
+DTSTAMP:20170129T112210Z
+SUMMARY:Global Day of Coderetreat 2013 - Vilnius, Lithuania
+DESCRIPTION:For details, contact o.grigas@gmail.com\n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-coderetreat-2
+ 013-vilnius-lithuania
+DTSTART:20131214T090000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TBA
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/kYkWoLTW4g8A0
+ 1YqtYI2WmIbWrp2dbrTyLu5EvpHOu-8H5mV-jvvcRRtSlMFx5dJGu8tjXnV3RQ0B7AbiH-
+ l8NXaVliikngV/Vilnius_Gediminas_tower.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13399
+DTSTAMP:20170129T133321Z
+SUMMARY:Global Day of Coderetreat 2012 - Minneapolis/St. Paul MN, USA
+DESCRIPTION:http://mspcoderetreat.eventbrite.com/\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2012
+ -minneapolis-st-paul-mn-usa
+DTSTART:20121208T083000Z
+DTEND:20121208T163000Z
+CATEGORIES:code, retreat
+LOCATION:Bloom Health Office
+WEBSITE:https://maps.google.com/maps?q=15+S+5th+St.,+Suite+300+Minneap
+ olis,+MN+55402&hl=en&ll=44.979781,-93.271694&spn=0.014404,0.027487&sll
+ =46.44186,-93.36129&sspn=14.371601,32.519531&hnear=15+S+5th+St+%23300,
+ +Minneapolis,+Minnesota+55402&t=m&z=16
+URL:https://maps.google.com/maps?q=15+S+5th+St.,+Suite+300+Minneapolis
+ ,+MN+55402&hl=en&ll=44.979781,-93.271694&spn=0.014404,0.027487&sll=46.
+ 44186,-93.36129&sspn=14.371601,32.519531&hnear=15+S+5th+St+%23300,+Min
+ neapolis,+Minnesota+55402&t=m&z=16
+CONTACT:513-824-1282
+ORGANIZER;CN="Kyle Boon":http://coderetreat.org/profile/KyleBoon
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kyle Boo
+ n":http://coderetreat.org/profile/KyleBoon
+END:VEVENT
+END:VCALENDAR

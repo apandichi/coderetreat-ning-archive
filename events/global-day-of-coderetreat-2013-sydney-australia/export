@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30015
+DTSTAMP:20170129T115603Z
+SUMMARY:Global Day of Coderetreat 2013 - Sydney, Australia
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time.\nParticipate in the global coderetreat here
+  in Sydney, NSW, Australia.\nBring a laptop with all the development t
+ ools you require to write code using your chosen programming languages
+ .\nLunch will be provided. This event is free for everyone.\nOnce regi
+ stered, refer to Corey Haines's coderetreat site for further details
+  on what to expect or turn up and have a great day.\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 13-sydney-australia
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:ThoughtWorks Office
+WEBSITE:http://goo.gl/maps/s0Mg0
+URL:http://goo.gl/maps/s0Mg0
+CONTACT:0411619513
+ORGANIZER;CN="James Gregory":http://coderetreat.org/profile/JamesGrego
+ ry
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fabio Ca
+ matti":http://coderetreat.org/profile/FabioCamatti
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Ad
+ itya":http://coderetreat.org/profile/KevinAditya
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rudy Lee
+ ":http://coderetreat.org/profile/RudyLee
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jessica 
+ Brazelton":http://coderetreat.org/profile/JessicaBrazelton
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Ben
+ netts":http://coderetreat.org/profile/PaulBennetts
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul And
+ erson":http://coderetreat.org/profile/PaulAnderson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Gr
+ egory":http://coderetreat.org/profile/JamesGregory
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anthony 
+ Sceresini":http://coderetreat.org/profile/AnthonySceresini
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nat Youn
+ g":http://coderetreat.org/profile/NatYoung
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dominic 
+ Bou-Samra":http://coderetreat.org/profile/DominicBouSamra
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rohan Br
+ ooker":http://coderetreat.org/profile/RohanBrooker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Craig Sk
+ etchley":http://coderetreat.org/profile/CraigSketchley
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew G
+ rimm":http://coderetreat.org/profile/AndrewGrimm
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vidyaran
+ ya Cheruvu":http://coderetreat.org/profile/VidyaranyaCheruvu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kate Wil
+ son":http://coderetreat.org/profile/KateWilson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joshua P
+ aling":http://coderetreat.org/profile/JoshuaPaling
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Sebasti
+ an Grail":http://coderetreat.org/profile/SebastianGrail
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Julia W
+ ong":http://coderetreat.org/profile/JuliaWong
+END:VEVENT
+END:VCALENDAR

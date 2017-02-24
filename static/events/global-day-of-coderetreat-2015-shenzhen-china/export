@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48139
+DTSTAMP:20170129T121315Z
+SUMMARY:Global Day of Coderetreat 2015 - Shenzhen, China
+DESCRIPTION:The global day of CodeRetreat in Shenzhen, this is the thi
+ rd time.\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2015-shenzhen-china
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Shenzhen
+WEBSITE:
+URL:
+CONTACT:+86 13311130852
+ORGANIZER;CN="Seaborn Lee":http://coderetreat.org/profile/SeabornLee
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paul Ver
+ est":http://coderetreat.org/profile/PaulVerest
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Seaborn 
+ Lee":http://coderetreat.org/profile/SeabornLee
+END:VEVENT
+END:VCALENDAR

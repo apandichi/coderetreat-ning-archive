@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48382
+DTSTAMP:20170129T121445Z
+SUMMARY:Global Day of Coderetreat 2015 - Lübeck, Germany
+DESCRIPTION:We will celebrate the Global day of code retreat in Lüb
+ eck!  During normal work we don´t have much time to work on our core 
+ skills as developer. Under time pressure we often use known technics o
+ r habits although we know that there are better ways.  As well as an a
+ rtist we need to have a place where we can practice our skills and tha
+ t´s what is a code retreat about.  In small sessions we work in pairs
+  so solve a problem... the whole day. It´s not about being finished,
+  it´s about learning, making errors, trying new ways and having a lot
+  of fun.  Please bring a laptop with your favorite IDE with you so tha
+ t we can start in time. Lunch and food is offered by Dräger. Afterwa
+ rds we can have some beers in a pub.  The agenda:  8:00 : Arrival and 
+ Breakfast 8:30 : Introduction 9:00 : Session #1 9:45 : Retro 10:00 : S
+ ession #2 10:45 : Retro 11:00 : Session #3 11:45 : Retro 12:00 : Lunch
+  13:30 : Session #4 14:15 : Retro 14:30 : Session #5 15:15 : Retrospek
+ tive und Pause 15:30 : Session #6 16:15 : Retro 16:30 : Complete Retro
+  for the day 17:00 : End\n \n\nFor more information visit http://code
+ retreat.org/events/global-day-of-coderetreat-2014-l-beck-germany-1
+DTSTART:20151114T080000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Chaotikum Lübeck
+WEBSITE:https://www.softwerkskammer.org/activities/gdcr15_luebeck
+URL:https://www.softwerkskammer.org/activities/gdcr15_luebeck
+CONTACT:
+ORGANIZER;CN="Thilko Richter":http://coderetreat.org/profile/ThilkoRic
+ hter
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/0R-13GP06WleZ
+ jVglGwr-fEmx6RiL4NZt7Q3cOo9mcCIZKmG91v3B8V3OP8pOM3CEALIyQ0cXBIoXZMr4mJ
+ svB63nm7uOL0-/SoftwerkskammerWappenLinks.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thilko R
+ ichter":http://coderetreat.org/profile/ThilkoRichter
+END:VEVENT
+END:VCALENDAR

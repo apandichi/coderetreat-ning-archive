@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:17639
+DTSTAMP:20170129T134410Z
+SUMMARY:Global Day of Coderetreat 2012 - Cluj-Napoca / Romania
+DESCRIPTION:Your one day of practising and expanding your coding skil
+ ls in a stress-free environment.\nMake friends and learn new things.\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-2012-cluj-napoca-romania-1
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:code, retreat
+LOCATION:Cloudtroopers Intl
+WEBSITE:http://www.meetup.com/The-Cluj-Napoca-Agile-Software-Meetup-Gr
+ oup/events/90495422/
+URL:http://www.meetup.com/The-Cluj-Napoca-Agile-Software-Meetup-Group/
+ events/90495422/
+CONTACT:40745522548
+ORGANIZER:Georgiana Gligor, Adrian Bolboaca
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Georgian
+ a Gligor":http://coderetreat.org/profile/gbtekkie
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Miguel Reboiro Jato&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MiguelReboiroJato</link>
+        <pubDate>Sun, 29 Jan 2017 12:19:29 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:19:29 +0000</lastBuildDate>
+        <image>
+            <title>Miguel Reboiro Jato&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MiguelReboiroJato</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fd6f9189899d6e187a31b64</guid>
+               <title>Miguel Reboiro Jato posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47040?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MiguelReboiroJato?xg_source=activity">Miguel Reboiro Jato</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47040?xg_source=activity">Global Day of Coderetreat 2015 - Ourense, Spain</a> at E.S. Enxe&ntilde;ar&iacute;a Inform&aacute;tica. Universidade de Vigo</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 10am to 7pm</div><div class="rich-excerpt">Once again this year, the ESEI (Escola Superior de Enxeñaría Informatica) of the Universidade de Vigo hosts a GDCR. This event is open not only for the students of the university, but also for anyone that want to spend the day programming and collaborating with other programmers.Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47040?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 07 Oct 2015 09:09:43 +0000</pubDate>
+               </item>    </channel>
+</rss>

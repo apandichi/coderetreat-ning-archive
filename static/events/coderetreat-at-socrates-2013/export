@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26057
+DTSTAMP:20170129T114344Z
+SUMMARY:Coderetreat at SoCraTes 2013
+DESCRIPTION:http://www.softwerkskammer.org/activities/socrates2013-cod
+ eretreat\n\nFor more information visit http://coderetreat.org/events/c
+ oderetreat-at-socrates-2013
+DTSTART:20130804T180000Z
+DTEND:20130804T190000Z
+CATEGORIES:coderetreat
+LOCATION:Rückersbach, Germany
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

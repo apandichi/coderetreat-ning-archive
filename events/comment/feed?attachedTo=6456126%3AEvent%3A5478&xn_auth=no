@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Coderetreat Amsterdam @ Mirabeau - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A5478&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:08:43Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A5478&amp;xn_auth=no</id>
+                            <entry>
+                    <title>All who are attending:
+To mak…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:6913"/>
+                                        <id>tag:coderetreat.org,2012-01-05:6456126:Comment:6913</id>
+                                        <updated>2012-01-05T07:41:07.013Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;All who are attending:&lt;/p&gt;
+&lt;p&gt;To make this coderetreat a success, please keep in mind the following:&lt;br&gt;&lt;/br&gt;- try to bring your laptop with you, with your preferred language + IDE + test framework set up. This is important! &lt;br&gt;&lt;/br&gt;- it does not matter what language you want to excercise in. Pick your preferred language. The more languages we mix, the better :)&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;- Make sure you look at the google maps link (see event) so you end up at the correct office of Mirabeau! Navigation systems…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;All who are attending:&lt;/p&gt;
+&lt;p&gt;To make this coderetreat a success, please keep in mind the following:&lt;br/&gt;- try to bring your laptop with you, with your preferred language + IDE + test framework set up. This is important! &lt;br/&gt;- it does not matter what language you want to excercise in. Pick your preferred language. The more languages we mix, the better :)&lt;br/&gt;&lt;br/&gt;- Make sure you look at the google maps link (see event) so you end up at the correct office of Mirabeau! Navigation systems usually mix up this destination. So make sure you end up nearby the &quot;Hogeschool van Amsterdam&quot;.&lt;br/&gt;&lt;br/&gt;The office will be open around 9:00. We can grab some coffee and snack. Around 9:30 we begin. Lunch is provided around 12:00.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Nice event! Too bad i&#039;m oblig…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:6166"/>
+                                        <id>tag:coderetreat.org,2011-12-16:6456126:Comment:6166</id>
+                                        <updated>2011-12-16T12:43:11.438Z</updated>
+                    
+                                            <author>
+                            <name>Wouter van Drunen</name>
+                            <uri>http://coderetreat.org/profile/WoutervanDrunen</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Nice event! Too bad i&#039;m obligated to play some paintball with my friends. Have fun!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Nice event! Too bad i&#039;m obligated to play some paintball with my friends. Have fun!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Yes! Mirabeau is prepared to…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:6029"/>
+                                        <id>tag:coderetreat.org,2011-12-16:6456126:Comment:6029</id>
+                                        <updated>2011-12-16T11:58:42.104Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Yes! Mirabeau is prepared to sponsor this day! Great!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Yes! Mirabeau is prepared to sponsor this day! Great!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Working on sponsoring. More n…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:5924"/>
+                                        <id>tag:coderetreat.org,2011-12-13:6456126:Comment:5924</id>
+                                        <updated>2011-12-13T14:14:07.770Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Working on sponsoring. More news soon!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Working on sponsoring. More news soon!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

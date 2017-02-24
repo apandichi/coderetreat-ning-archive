@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Agile Turkey&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AgileTurkey</link>
+        <pubDate>Sun, 29 Jan 2017 11:55:43 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:55:43 +0000</lastBuildDate>
+        <image>
+            <title>Agile Turkey&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AgileTurkey</link>
+            <url>http://api.ning.com:80/files/GZDzX3ZqtQ4i-MKi1Nidcdf6U9Meagnr1-uNGVdYNyp6IeVrCyC7ZT1d-DBO5MhGSlAPGPY3Spm*eJQcETV8RiuOdeejmGuf/1045809220.png?xgip=15%3A9%3A453%3A453%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fe65a2f6124b64f7895e319</guid>
+               <title>Agile Turkey posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:37549?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AgileTurkey?xg_source=activity">Agile Turkey</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:37549?xg_source=activity">Global Day of Coderetreat 2014 in Istanbul, TURKEY</a> at TBD</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 9am to 5pm</div><div class="rich-excerpt">We are proud to announce that Agile Turkey will be host GDCR 2014 event in Istanbul. Stay tuned for further information!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:37549?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 06 Aug 2014 11:20:38 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fe65a2f952f18cee2b68556</guid>
+               <title>Agile Turkey updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:29749?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AgileTurkey?xg_source=activity">Agile Turkey</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:29749?xg_source=activity" ><img src="http://api.ning.com/files/GZDzX3ZqtQ5TVJ2AEnSwkw15WbnDoudaRlFcUC8G8nzN4kvKiRpgrxPROqKpgAKblGn5J*Z2e0dg2DY0fSkjxOnKnFTKhlNv/248168_468570343221746_951554441_n.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:29749?xg_source=activity">Global Day of Coderetreat 2013 - Istanbul, Turkey</a> at Istanbul</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt"><a href="http://www.agileturkey.org" target="_blank">Agile Turkey</a> is hosting the Global Day Coderetreat 2013. Click <a href="http://global-day-of-coderetreat-istanbul-2013.eventbrite.com" target="_blank">here</a> for registration<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:29749?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 22 Nov 2013 12:53:06 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fe65a2ff45f2ac2d75a1089</guid>
+               <title>Agile Turkey posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:29749?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AgileTurkey?xg_source=activity">Agile Turkey</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:29749?xg_source=activity">Global Day of Coderetreat 2013 - Istanbul, Turkey</a> at Istanbul</h3><div class="rich-detail"><div class="rich-date">November 20, 2013 all day</div><div class="rich-excerpt"><a href="http://www.agileturkey.org" target="_blank">Agile Turkey</a> is hosting the Global Day Coderetreat 2013. Click <a href="http://global-day-of-coderetreat-istanbul-2013.eventbrite.com" target="_blank">here</a> for registration<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:29749?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 20 Nov 2013 12:57:09 +0000</pubDate>
+               </item>    </channel>
+</rss>

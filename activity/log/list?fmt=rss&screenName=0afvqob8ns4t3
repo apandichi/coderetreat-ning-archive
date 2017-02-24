@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>David Martin Garcia&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/DavidMartinGarcia323</link>
+        <pubDate>Sun, 29 Jan 2017 11:31:59 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:31:59 +0000</lastBuildDate>
+        <image>
+            <title>David Martin Garcia&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/DavidMartinGarcia323</link>
+            <url>http://api.ning.com:80/files/c2myy45ArwMat5wTQR2P2m*4lwGFeQTsQGcdN*VHE2n7WKQkp0BMDSOjUpctAsjaQDN5dx17T3Bli0QlB75MNREnz58HnqCv/1241276483.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012b3de3127abd5c6eae6f868</guid>
+               <title>David Martin Garcia posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55873?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/DavidMartinGarcia323?xg_source=activity">David Martin Garcia</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:55873?xg_source=activity" ><img src="http://api.ning.com/files/AxtJ5-qvacYGk-6udOZa8qGGWTw8hfxIzAphClxfQWbwSyqSjgPhRxvqNEMaIJvDFx3O7lFFpuPpph2eqb7EPYX8mK2i*xhP/GDCRCR.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55873?xg_source=activity">Global Day of Coderetreat 2016 - Ciudad Real, Spain</a> at Escuela Superior de Informatica</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 6:30pm</div><div class="rich-excerpt">¿Tienes ganas de retos?, ¿Te gusta programar?. Bien, has venido al sitio adecuado.Somos un pequeño grupo de desarrolladores que organizamos este evento global en Ciudad Real. Lo único que nos falta eres tu, y tu pc por supuesto. Y ... Ptssh! puedes traer a tus colegas!Te ofrecemos un sitio agradable donde aprender, descubrir y compartir conocimientos.Mas info y consultas por aqui: http://www.meetup.com/es-ES/Global-Day-Code-Retreat-Ciudad-Real/events/234500280/y no olvides confirmar tu asistencia.Nos vemos!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55873?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 09 Oct 2016 20:39:10 +0000</pubDate>
+               </item>    </channel>
+</rss>

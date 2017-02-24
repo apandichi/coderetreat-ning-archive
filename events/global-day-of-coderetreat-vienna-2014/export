@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26275
+DTSTAMP:20170129T115827Z
+SUMMARY:Global Day of Coderetreat 2013 - Vienna, Austria
+DESCRIPTION:Since we started with the first Global Day of Coderetreat 
+ in 2011 Vienna already has a vivid crowd of software craftsmen, which 
+ is key for great companies and products, fit for the future. Software 
+ craftsmanship is the missing link many of us often even miss in so cal
+ led Agile projects.  This year we have Peter Kofler as facilitator on 
+ board. Peter probably is the most experienced facilitator for Coding D
+ ojos and Coderetreats around Vienna at the moment. He just did his jou
+ rneyman tour and many different facilitations as well as public talks.
+  So your chances to learn great stuff at our event are tremendous. And
+  of course it will be great fun too!  Want to join as participant? Ge
+ t your ticket here (it's free, we just ask for a deposit, which will b
+ e returned immediately to those showing up) -http://gdcr13-vienna.even
+ tbrite.de Know others, your friends, peers at work, who might be inter
+ ested too? Please, help spreading the word and tell them about our eve
+ nt.  Want to see your company as sponsor? Please get in contact with 
+ us a toffice@agileexperts.at  Looking forward to seeing you at the GDC
+ R13 Vienna! best, Mike Leber  PS: we are currently in touch with 2-3 
+ options for the location in Vienna and let you know soon about it.\n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-vienna-2014
+DTSTART:20131214T083000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Frequentis AG
+WEBSITE:http://gdcr13-vienna.eventbrite.de
+URL:http://gdcr13-vienna.eventbrite.de
+CONTACT:+4369918194880
+ORGANIZER:Mike Leber
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/OoN9q1jyhUXXh
+ 6u5gxfjxgSbY6ouAlsZJhsVlhVbLAHnmxsT2SwBsjOdhLpNbqbFlNq5ew*KzQHdDECPCxK
+ 3uoPsvc7enP0B/gdcr13_cr_event.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Mike Leber":http://coderetreat.org/profile/MichaelMikeLeber
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+END:VEVENT
+END:VCALENDAR

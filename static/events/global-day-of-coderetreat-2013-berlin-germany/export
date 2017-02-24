@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26898
+DTSTAMP:20170129T114340Z
+SUMMARY:Global Day of Coderetreat 2013 - Berlin, Germany
+DESCRIPTION:register at :\nhttp://gdcr13-berlin.eventbrite.com/\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2013-berlin-germany
+DTSTART:20131214T083000Z
+DTEND:20131214T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Immobilien Scout GmbH
+WEBSITE:http://gdcr13-berlin.eventbrite.com/
+URL:http://gdcr13-berlin.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/2QN5aCZBKSY*y
+ MwfLJxFniO4O8FZAkPT*NwlvvzToygHqNaMPyyfuZa1ESCnVYOcDL9tILC7iud--vtrFAb
+ fbpGfaJBQqZLH/crberlinklein.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

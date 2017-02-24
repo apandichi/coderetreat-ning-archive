@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:14639
+DTSTAMP:20170129T134241Z
+SUMMARY:Global Day of CodeRetreat 2012 - Mumbai / India
+DESCRIPTION:ASCI (Agile software Community of India) is happy to join 
+ the Global Day of Coderetreat.  This event is sponsored by Equal Expe
+ rts India Pvt. Ltd\n\nFor more information visit http://coderetreat.or
+ g/events/global-day-of-coderetreat-2
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:gdcr, coderetreat
+LOCATION:Mumbai, Maharashtra, India
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Dhaval Dalal":http://coderetreat.org/profile/DhavalDalal
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/kZm0rgcc-C7ch
+ PF3L8p3S0k8q3X3jgMQ6yRG4eF1tGGkIkF4gPfQhrXJUWFL*0iwgKCKFODXYGmbREgFfp-
+ *3O5TNvpay7Zw/Mumbai.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ashish J
+ agtap":http://coderetreat.org/profile/AshishJagtap
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Nishin:ht
+ tp://coderetreat.org/profile/Nishin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dhaval D
+ alal":http://coderetreat.org/profile/DhavalDalal
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27737
+DTSTAMP:20170129T131546Z
+SUMMARY:GDG Hangzhou Codetreat 2013
+DESCRIPTION:As person who loves programming, have you ever regretted n
+ ot crafting your source code into beautiful one, due to the pressure o
+ f schedule? Or have you had trouble to find right person for a deep di
+ scussion on programming issues?  We can help you to remove these trou
+ blesome. ?In Coderetreat Event, you’ll have an environment without t
+ he pressure of schedule, spend one day coding for fun, craft your sour
+ ce code, and try different engineering practices. Meanwhile, you can d
+ iscuss with people around you who have common interests.\n\nFor more i
+ nformation visit http://coderetreat.org/events/gdg-hangzhou-codetreat-
+ 2013
+DTSTART:20131027T000000Z
+DTEND:20131027T235900Z
+CATEGORIES:coderetreat
+LOCATION:Downtown Coffee Shop, West City Plaza
+WEBSITE:https://maps.google.com/maps/ms?msid=206922897034880419675.000
+ 4e9003e536c20d65ed&msa=0&ll=30.280849,120.09526&spn=0.001598,0.00327
+URL:https://maps.google.com/maps/ms?msid=206922897034880419675.0004e90
+ 03e536c20d65ed&msa=0&ll=30.280849,120.09526&spn=0.001598,0.00327
+CONTACT:
+ORGANIZER;CN="Liao-Yuan Zhang":http://coderetreat.org/profile/LiaoYuan
+ Zhang
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Liao-Yua
+ n Zhang":http://coderetreat.org/profile/LiaoYuanZhang
+END:VEVENT
+END:VCALENDAR

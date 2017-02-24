@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12314
+DTSTAMP:20170129T134059Z
+SUMMARY:Global Day of Coderetreat 2012 - Stockholm / Sweden
+DESCRIPTION:We will host our first coderetreat in Stockholm!\nRead mor
+ e about it at http://blog.tretton37.com/2012/11/07/global-day-of-code
+ retreat/\nPlease RSVP at http://tretton37-coderetreat-stockholm.event
+ brite.com/\n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-coderetreat-stockholm-sweden
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:tretton37 Office
+WEBSITE:http://tretton37-coderetreat-stockholm.eventbrite.com/
+URL:http://tretton37-coderetreat-stockholm.eventbrite.com/
+CONTACT:+46 725 421337
+ORGANIZER:tretton37
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roger Wi
+ lson":http://coderetreat.org/profile/RogerWilson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="anders.o
+ lme":http://coderetreat.org/profile/andersolme
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Frej Con
+ nolly":http://coderetreat.org/profile/FrejConnolly
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rickard 
+ von Essen":http://coderetreat.org/profile/RickardvonEssen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="John Ma
+ gnusson":http://coderetreat.org/profile/JohnMagnusson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Karl Å
+ ström":http://coderetreat.org/profile/KarlAAstroem
+END:VEVENT
+END:VCALENDAR

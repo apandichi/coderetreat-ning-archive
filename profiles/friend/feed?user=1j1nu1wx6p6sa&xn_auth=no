@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=1j1nu1wx6p6sa&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:30:22Z</updated>
+                            <author>
+                    <name>Jean-Baptiste Dusseaut</name>
+                    <uri>http://coderetreat.org/profile/JeanBaptisteDusseaut</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=1j1nu1wx6p6sa&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Sylvain Fraïssé</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/SylvainFraisse"/>
+                                        <id>tag:coderetreat.org,2012-01-15:6456126:User:7640</id>
+                                        <updated>2012-01-15T22:37:17.511Z</updated>
+                    
+                                            <author>
+                            <name>Jean-Baptiste Dusseaut</name>
+                            <uri>http://coderetreat.org/profile/JeanBaptisteDusseaut</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/hes0u0IKdXG2UBHolL5xktx4paJm0vsQo8fegWvP3vVctAvi*qqoHhuDpg2jfb*XVtETZQqGxr3RKT9b5qXNqTHB1M5x0XlE/866546263.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Sylvain Fraïssé&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/hes0u0IKdXG2UBHolL5xktx4paJm0vsQo8fegWvP3vVctAvi*qqoHhuDpg2jfb*XVtETZQqGxr3RKT9b5qXNqTHB1M5x0XlE/866546263.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Sylvain Fraïssé&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

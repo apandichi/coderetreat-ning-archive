@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:14593
+DTSTAMP:20170129T134556Z
+SUMMARY:Global Day of Coderetreat 2012 - Melbourne / Australia
+DESCRIPTION:We are happy to be running a Global Coderetreat day in Mel
+ bourne!\nPlease register at the GDCR Melb 2012 registration page so we
+  can know numbers for catering, make sure we have enough space, etc!\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-2012-melbourne-australia
+DTSTART:20121208T083000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat
+LOCATION:ThoughtWorks office
+WEBSITE:http://goo.gl/maps/id1Hi
+URL:http://goo.gl/maps/id1Hi
+CONTACT:0421079693
+ORGANIZER;CN="Korny Sietsma":http://coderetreat.org/profile/KornySiets
+ ma
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Korny Si
+ etsma":http://coderetreat.org/profile/KornySietsma
+END:VEVENT
+END:VCALENDAR

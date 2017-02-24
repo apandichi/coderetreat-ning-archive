@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Is this heresy? - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:44:56Z</updated>
+                        <id>http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I did reverse polish notation…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:34962"/>
+                                        <id>tag:coderetreat.org,2014-04-10:6456126:Comment:34962</id>
+                                        <updated>2014-04-10T12:50:35.869Z</updated>
+                    
+                                            <author>
+                            <name>Konrad Malewski</name>
+                            <uri>http://coderetreat.org/profile/KonradMalewski</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I did reverse polish notation calculator and SIP server. I will post slides here in free time.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I did reverse polish notation calculator and SIP server. I will post slides here in free time.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>To come back to the original…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:20217"/>
+                                        <id>tag:coderetreat.org,2012-12-20:6456126:Comment:20217</id>
+                                        <updated>2012-12-20T13:43:08.968Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;To come back to the original discussion: After facilitating two more code retreats (including the Nuremberg GDCR12) and also trying several katas with students at my work place (&lt;a href=&quot;http://www.webmasters.de&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;www.webmasters.de&lt;/a&gt;) I came to the following &#039;conclusion&#039;.  (Maybe &#039;conclusion&#039; isn&#039;t the right word, since my experience is still very limited.)&lt;/p&gt;
+&lt;p&gt;I think code retreats and dojo&#039;s both have their place. While they have some general goals in…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;To come back to the original discussion: After facilitating two more code retreats (including the Nuremberg GDCR12) and also trying several katas with students at my work place (&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.webmasters.de&quot; target=&quot;_blank&quot;&gt;www.webmasters.de&lt;/a&gt;) I came to the following &#039;conclusion&#039;.  (Maybe &#039;conclusion&#039; isn&#039;t the right word, since my experience is still very limited.)&lt;/p&gt;
+&lt;p&gt;I think code retreats and dojo&#039;s both have their place. While they have some general goals in common (becoming a better coder), they provide quite different learning experiences.&lt;/p&gt;
+&lt;p&gt;Small Katas done in Dojo or Randori-Style (like Emily describes in her &lt;a rel=&quot;nofollow&quot; href=&quot;https://leanpub.com/codingdojohandbook&quot; target=&quot;_blank&quot;&gt;Book&lt;/a&gt; - which is really great, by the way) are best for introduction or skill improvement in specific areas. E.g. the &lt;a href=&quot;http://osherove.com/tdd-kata-1/&quot; target=&quot;_blank&quot;&gt;StringCalculator-Kata&lt;/a&gt; is very good for learning basic tdd. I also found tic-tac-toe quite useful for practicing &lt;a href=&quot;http://www.xpteam.com/jeff/writings/objectcalisthenics.rtf&quot; target=&quot;_blank&quot;&gt;Object Calisthenics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Code Retreats, on the other hand, are much more open. Its not predetermined, what kind of learning experience you will get out of it. Constraints might force you to learn new things. You might try a new language or you will just pick some new cool techniques (sometimes very uncommon ones) from your pair - which can be anything from command line tricks to simple keyboard strokes to specific tdd techniques to social skills to complex architectural insights.&lt;/p&gt;
+&lt;p&gt;After the last experiences, I&#039;m somewhat convinced that for a classical code retreat it&#039;s &lt;strong&gt;best to stick with GOL&lt;/strong&gt; in order to enable the &quot;&lt;em&gt;problem fades to the backround&lt;/em&gt;&quot;-effect. While for seeking out targeted learnings, like tdd-introduction or Object Calisthenics or SOLID-principles, ... it seems to be very useful to have a specifically tailored problem, that provides exactly the learning experience, you are seeking out. &lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>... and like Jim said in the…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:20317"/>
+                                        <id>tag:coderetreat.org,2012-12-20:6456126:Comment:20317</id>
+                                        <updated>2012-12-20T13:14:46.813Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;... and like Jim said in the facilitator video: learning a new language in a code retreat can be fun, but you shouldn&#039;t do it all the time. Otherwise you would miss a lot of other learnings that the constraints can provide.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;... and like Jim said in the facilitator video: learning a new language in a code retreat can be fun, but you shouldn&#039;t do it all the time. Otherwise you would miss a lot of other learnings that the constraints can provide.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I believe that using other pr…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:20404"/>
+                                        <id>tag:coderetreat.org,2012-12-16:6456126:Comment:20404</id>
+                                        <updated>2012-12-16T18:59:42.617Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I believe that using other programming languages is already an accepted practice at code retreat. We had Ruby, Python, C++, Java, javascript and Clojure at various times through the day. This does add variety, but if neither person in the pair knows the language, progress is pretty slow and there is much googling after syntax.&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I believe that using other programming languages is already an accepted practice at code retreat. We had Ruby, Python, C++, Java, javascript and Clojure at various times through the day. This does add variety, but if neither person in the pair knows the language, progress is pretty slow and there is much googling after syntax.&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Instead of trying to implemen…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:20302"/>
+                                        <id>tag:coderetreat.org,2012-12-14:6456126:Comment:20302</id>
+                                        <updated>2012-12-14T22:20:00.507Z</updated>
+                    
+                                            <author>
+                            <name>Scott Pigman</name>
+                            <uri>http://coderetreat.org/profile/ScottPigman</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Instead of trying to implement something other than Game of Life, how about trying implement Game of Life in a different language? Switching from something in the C/Java family of languages to something in the lisp family, for example, would be an interesting challenge. I&#039;m curious to see what a prolog version would look like, myself.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Instead of trying to implement something other than Game of Life, how about trying implement Game of Life in a different language? Switching from something in the C/Java family of languages to something in the lisp family, for example, would be an interesting challenge. I&#039;m curious to see what a prolog version would look like, myself.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I agree Game of Life is a goo…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:19852"/>
+                                        <id>tag:coderetreat.org,2012-12-13:6456126:Comment:19852</id>
+                                        <updated>2012-12-13T07:59:06.736Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I agree Game of Life is a good kata, with lots of challenges to it. I agree that by repeating the same kata, you quickly learn a way to solve it, so solving it no longer becomes the focus, and you can learn more about deisgn, try out different approaches and constraints etc.&lt;/p&gt;
+&lt;p&gt;All the other katas I suggested are quite easy to get in to, since they provide starting code and/or an obvious line of enquiry - &quot;implement tests for this class&quot; (Tyre Pressure, Gilded Rose), or &quot;refactor this&quot;…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I agree Game of Life is a good kata, with lots of challenges to it. I agree that by repeating the same kata, you quickly learn a way to solve it, so solving it no longer becomes the focus, and you can learn more about deisgn, try out different approaches and constraints etc.&lt;/p&gt;
+&lt;p&gt;All the other katas I suggested are quite easy to get in to, since they provide starting code and/or an obvious line of enquiry - &quot;implement tests for this class&quot; (Tyre Pressure, Gilded Rose), or &quot;refactor this&quot; (Tennis) or &quot;write this test first, then this test&quot; (String Calculator). So none of them are as open ended as Game of Life.&lt;/p&gt;
+&lt;p&gt;What I observed was that pairs didn&#039;t pick one of the other katas to work on all day. They did String Calculator for two sessions to get comfortable with TDD, then moved to Game of Life. Or they did Game of life for three sessions, then tried String Calculator for two, in Clojure. People who did Gilded Rose did it for two or three sessions, then tried Tennis and Tyre Pressure.&lt;/p&gt;
+&lt;p&gt;For a beginner to TDD, they need concrete instructions and clear boundaries, so these katas are quite easy to get started with. For experts, they can probably solve these katas completely in 45 minutes, after only one or two sessions of trying, which gives a sense of achievement. Then if you do them again, you can try out some other approaches. I&#039;m not sure you&#039;d want to do the same one for 5 sessions in a row, these katas have a smaller scope than Game of Life. You would repeat it that much if you wanted to perfect it for a prepared kata demonstration, but that&#039;s not usually a goal at code retreat. It might be at a coding dojo.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;There is definitely a value in knowing a kata well enough that solving the problem is not the focus, but experimenting with tests and designs becomes possible. Some katas are smaller and easier to learn than others. I&#039;ve also experienced groups struggle with Bowling Game in a coding dojo, and I found if I give them a list of test cases to implement up front, it works better.&lt;/p&gt;
+&lt;p&gt;I think TDD has four main subskills - designing test cases, refactoring, driving development incrementally with tests, and designing clean, testable code. Game of Life is a good kata for practicing all these skills together. These other katas are basically only challenging you at one of the subskills and lets you focus on improving at just that aspect.&lt;/p&gt;
+&lt;p&gt;So to answer your question, no, people didn&#039;t seem to get hung up on understanding these problems and wasting half their time on that. They were quickly up and coding and learning, as far as I can see. That&#039;s also been my experience when I&#039;ve used them in coding dojos.&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>This is probably the best, mo…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:20004"/>
+                                        <id>tag:coderetreat.org,2012-12-12:6456126:Comment:20004</id>
+                                        <updated>2012-12-12T13:08:51.815Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;This is probably the best, most compelling application of alternatives to Game Of Life that I&#039;ve seen thus far.&lt;/p&gt;
+&lt;p&gt;I like how you gave participants a choice of several different katas. Choice is very often a powerful motivator. I also like how you picked the four specific katas with very specific learning goals in mind. This is exactly how we encourage facilitators to pick exercises.&lt;/p&gt;
+&lt;p&gt;Your experiment highlighted that the problem itself isn&#039;t the focus of the day, but you also…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;This is probably the best, most compelling application of alternatives to Game Of Life that I&#039;ve seen thus far.&lt;/p&gt;
+&lt;p&gt;I like how you gave participants a choice of several different katas. Choice is very often a powerful motivator. I also like how you picked the four specific katas with very specific learning goals in mind. This is exactly how we encourage facilitators to pick exercises.&lt;/p&gt;
+&lt;p&gt;Your experiment highlighted that the problem itself isn&#039;t the focus of the day, but you also showed that using a different kata can help direct learning (similar to how choosing different constraints and exercices directs learning).&lt;/p&gt;
+&lt;p&gt;The primary argument against using different katas is that participants will waste time learning the new problem instead of practicing specific aspects of writing code. In other words, switching katas can be distracting. What did you observe on Saturday? Did people pick one kata and stick with it all day long, or did they switch katas every session?  If they switched katas, approximately how much time did people spend learning the new kata rather than doing the given exercise?  Did the katas at any point distract from other learning or did they always help and encourage learning?&lt;/p&gt;
+&lt;p&gt;Conway&#039;s Game of Life has been battle tested for almost four years now. GoL will always be a good choice for coderetreat, and it may continue to be the default choice for the foreseeable future. However, you&#039;ve shown that other problems can also work. I think this is worth exploring further.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;br/&gt; &lt;br/&gt; &lt;cite&gt;Emily Bache said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A19546&amp;amp;xg_source=msg_com_forum#6456126Comment19546&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;We tried out some other katas at GDCR as well as Game of Life, and had very positive feedback on this aspect. I wrote it up in a blog post:&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&quot; target=&quot;_blank&quot;&gt;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-20...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;HTH&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi,
+We tried out some other k…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:19546"/>
+                                        <id>tag:coderetreat.org,2012-12-10:6456126:Comment:19546</id>
+                                        <updated>2012-12-10T17:39:30.992Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;We tried out some other katas at GDCR as well as Game of Life, and had very positive feedback on this aspect. I wrote it up in a blog post:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&quot; target=&quot;_blank&quot;&gt;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;HTH&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;We tried out some other katas at GDCR as well as Game of Life, and had very positive feedback on this aspect. I wrote it up in a blog post:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&quot; target=&quot;_blank&quot;&gt;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;HTH&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Marco Emrich said:
+I wouldn&#039;…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:13368"/>
+                                        <id>tag:coderetreat.org,2012-10-09:6456126:Comment:13368</id>
+                                        <updated>2012-10-09T12:09:20.834Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;Marco Emrich said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I wouldn&#039;t call myself very experienced, but I think I have already seen a lot of different approaches&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are probably an infinite number of approaches to solving Conway&#039;s Game of Life. This is one reason why we continue to use GoL.  It is not uncommon to discover a never-before-seen approach at a coderetreat.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;That&#039;s interesting! I never tried to build a GUI on a retreat. I always thought…&lt;/p&gt;
+&lt;/blockquote&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;Marco Emrich said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I wouldn&#039;t call myself very experienced, but I think I have already seen a lot of different approaches&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are probably an infinite number of approaches to solving Conway&#039;s Game of Life. This is one reason why we continue to use GoL.  It is not uncommon to discover a never-before-seen approach at a coderetreat.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;That&#039;s interesting! I never tried to build a GUI on a retreat. I always thought that GUIs are out of scope, mainly because of their non-programming issues.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I agree that GUI&#039;s may not be the best choice for a Coderetreat because they do involve a lot of distractions. That said, GoL doesn&#039;t need a very complicated UI. Many languages provide very simple GUI toolkits which are more than sufficient for coderetreat and GoL. I&#039;ve seen pairs also produce very nice text-based UIs or very basic HTML-based UIs.&lt;/p&gt;
+&lt;p&gt;The point is try something different. How does starting from the perspective of the UI change you&#039;re approach to implementing GoL? Does it affect how you implement the other aspects of GoL (the rules and the neighbor counting)?&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Yes, we plan to do &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf&quot; target=&quot;_blank&quot;&gt;Object Calisthenics&lt;/a&gt; on our next retreat - thanks to Martin Klose. I just wonder if that is enough to get it interesting.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It often is enough! Remember: the goal of a coderetreat is not to implement GoL. Instead, it is to practice coding techniques we normally don&#039;t get a chance to practice. It&#039;s about becoming a better developer.  If you take this perspective, then GoL fades into the background somewhat and the exercises become the interesting part.  This is another reason why we&#039;ve stuck with GoL.&lt;/p&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;blockquote&gt;&lt;p&gt;There have been other attempts in the past to use a problem different from Conway&#039;s Game of Life, but they didn&#039;t seem to work nearly as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;blockquote&gt;&lt;p&gt;That&#039;s very interesting too. What have you tried? And why didn&#039;t it work well?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The most common &quot;alternative&quot; is &lt;em&gt;Tick-tack-toe&lt;/em&gt; (also known as &lt;em&gt;Noughts and Crosses&lt;/em&gt; or &lt;em&gt;X&#039;s and O&#039;s).&lt;/em&gt; However, if you think GoL gets old, consider what it is like to use a game everyone has played a thousand times. In my opinion, GoL is much more interesting that &lt;em&gt;Tick-tack-toe&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Some groups have also tried Uncle Bob&#039;s &lt;a href=&quot;http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata&quot; target=&quot;_blank&quot;&gt;Bowling Game Kata,&lt;/a&gt; but it turns out implementing a bowling scoring system too hard of a problem to tackle at Coderetreat. If a problem is too hard (like this one), then most of the day is spent grappling with the problem itself and becomes a major distraction to the other, more important aspects of coderetreat.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;
+&lt;/div&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hello Jim,
+thanks for your pr…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:13343"/>
+                                        <id>tag:coderetreat.org,2012-10-08:6456126:Comment:13343</id>
+                                        <updated>2012-10-08T02:38:59.552Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hello Jim,&lt;/p&gt;
+&lt;p&gt;thanks for your prompt response.&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;blockquote&gt;&lt;p&gt;Although this question is common,it is usually asked by first-time coderetreat attendees. Based on how you worded your post, it sounds like you are a fairly experienced coderetreater. How many coderetreats have you or others from your group attended?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I attended 4 and facilitated one. I wouldn&#039;t call myself very experienced, but I think I have already seen a lot of…&lt;/p&gt;
+&lt;/div&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hello Jim,&lt;/p&gt;
+&lt;p&gt;thanks for your prompt response.&lt;br/&gt;&lt;/p&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;blockquote&gt;&lt;p&gt;Although this question is common,it is usually asked by first-time coderetreat attendees. Based on how you worded your post, it sounds like you are a fairly experienced coderetreater. How many coderetreats have you or others from your group attended?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I attended 4 and facilitated one. I wouldn&#039;t call myself very experienced, but I think I have already seen a lot of different approaches: Connected-Cells, Various Board implementations, heavily stubbed/mocked approaches, Inside-Out, Outside-In, various kinds of rule implementations - with and without conditionals, logic on the board, on the cell, in a rule class etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;amp;xg_source=msg_com_forum#6456126Comment13434&quot;&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;What aspects of Conway&#039;s Game of Life have you become bored with? &lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;No particular aspect. I just would like get my teeth into some new problems. GoL has two interesting problems: the rules and the neighbor detection. But there are a lot of very different problems out there.&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;amp;xg_source=msg_com_forum#6456126Comment13434&quot;&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I&#039;ve observed that sometimes frequent coderetreat attendees get &quot;stuck&quot; implementing Conway&#039;s the same way over and over, or they focus on the same problem areas.  At your next Coderetreat, try changing things up a bit. Instead of starting with the rules, try starting with implementing the live neighbor counting algorithm. Or try starting with the user interface.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;That&#039;s interesting! I never tried to build a GUI on a retreat. I always thought that GUIs are out of scope, mainly because of their non-programming issues.&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;amp;xg_source=msg_com_forum#6456126Comment13434&quot;&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;If that doesn&#039;t help, try changing up the exercises you do at Coderetreat. If &quot;no conditionals&quot; is getting a bit dull, try &quot;no return values&quot;, or something more challenging. Or come up with your own new, challenging exercise. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;Yes, we plan to do &lt;a href=&quot;http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf&quot; target=&quot;_blank&quot;&gt;Object Calisthenics&lt;/a&gt; on our next retreat - thanks to Martin Klose. I just wonder if that is enough to get it interesting.&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/is-this-heresy?commentId=6456126%3AComment%3A13434&amp;amp;xg_source=msg_com_forum#6456126Comment13434&quot;&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;There have been other attempts in the past to use a problem different from Conway&#039;s Game of Life, but they didn&#039;t seem to work nearly as well.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;That&#039;s very interesting too. What have you tried? And why didn&#039;t it work well?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I already attended a &quot;mini-code retreat&quot; consisting of only two sessions, that used &lt;em&gt;tic tac toe&lt;/em&gt; as the problem. I worked quite well, although it is smaller in scope than GOL. We currently wonder if it would make sense to use for our next retreat.&lt;/p&gt;
+&lt;p&gt;Thanks for your answer Jim, it already provided some food for thought.&lt;/p&gt;
+&lt;p&gt;Marco&lt;/p&gt;
+&lt;/div&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

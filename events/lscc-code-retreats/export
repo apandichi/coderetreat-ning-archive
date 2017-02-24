@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47711
+DTSTAMP:20170129T121234Z
+SUMMARY:Global Day of Coderetreat 2015 - London, UK
+DESCRIPTION:The LSCC is hosting three coderetreats. Find out more on:\
+ nhttp://www.meetup.com/london-software-craftsmanship/\n\nFor more info
+ rmation visit http://coderetreat.org/events/lscc-code-retreats
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:gdcr15, gdcr, coderetreat
+LOCATION:London
+WEBSITE:http://www.meetup.com/london-software-craftsmanship/
+URL:http://www.meetup.com/london-software-craftsmanship/
+CONTACT:
+ORGANIZER:London Software Craftsmanship Community
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Franzisk
+ a Sauerwein":http://coderetreat.org/profile/FranziskaSauerwein
+END:VEVENT
+END:VCALENDAR

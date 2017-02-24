@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46226
+DTSTAMP:20170129T105526Z
+SUMMARY:Global Day of Coderetreat 2015 - Cluj-Napoca, Romania
+DESCRIPTION:We invite you to the Global Day of Coderetreat in Cluj-Na
+ poca! Please register for this event using the RABS website.\nCoderet
+ reat is a day-long, intensive practice event, focusing on the fundamen
+ tals of software development and design. By providing developers the o
+ pportunity to take part in focused practice, away from the pressures o
+ f 'getting things done', the coderetreat format has proven itself to
+  be a highly effective means of skill improvement. Practicing the basi
+ c principles of modular and object-oriented design, developers can imp
+ rove their ability to write code that minimizes the cost of change ove
+ r time. \n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-2015-cluj-napoca-romania
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Cluj Hub
+WEBSITE:https://www.google.ro/maps/place/Cluj+Hub/@46.7736247,23.59957
+ 3,17z/data=!3m1!4b1!4m2!3m1!1s0x47490c21095822b5:0x877151207ad02321?hl
+ =en
+URL:https://www.google.ro/maps/place/Cluj+Hub/@46.7736247,23.599573,17
+ z/data=!3m1!4b1!4m2!3m1!1s0x47490c21095822b5:0x877151207ad02321?hl=en
+CONTACT:
+ORGANIZER;CN="Horea Hopartean":http://coderetreat.org/profile/HoreaHop
+ artean
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/FbzLmqb7FY7bX
+ shXuiAXo0efciAv7zUIn7SLs*L5jUqepFkYdr*2EAqcNbbG-AMLhunat56L*Th8ueTiwvO
+ 1ZpAr0xVd3FBC/logo_reasonably_small.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Horea Ho
+ partean":http://coderetreat.org/profile/HoreaHopartean
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrei O
+ lar":http://coderetreat.org/profile/AndreiOlar
+END:VEVENT
+END:VCALENDAR

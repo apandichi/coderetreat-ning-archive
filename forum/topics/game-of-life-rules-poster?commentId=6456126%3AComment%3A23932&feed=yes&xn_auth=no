@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Game of Life rules-poster - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/game-of-life-rules-poster?commentId=6456126%3AComment%3A23932&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:15:41Z</updated>
+                        <id>http://coderetreat.org/forum/topics/game-of-life-rules-poster?commentId=6456126%3AComment%3A23932&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I used it too and will contin…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:33823"/>
+                                        <id>tag:coderetreat.org,2013-12-19:6456126:Comment:33823</id>
+                                        <updated>2013-12-19T14:04:02.751Z</updated>
+                    
+                                            <author>
+                            <name>Dhaval Dalal</name>
+                            <uri>http://coderetreat.org/profile/DhavalDalal</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        I used it too and will continue to, really great poster!                    </summary>
+
+                                            <content type="html">
+                            I used it too and will continue to, really great poster!                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Used it on GDCR13 and it was…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:33812"/>
+                                        <id>tag:coderetreat.org,2013-12-19:6456126:Comment:33812</id>
+                                        <updated>2013-12-19T12:16:50.308Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Used it on GDCR13 and it was really helpful! thanks!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Used it on GDCR13 and it was really helpful! thanks!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Well done! We&#039;ll use it the n…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:33248"/>
+                                        <id>tag:coderetreat.org,2013-12-15:6456126:Comment:33248</id>
+                                        <updated>2013-12-15T20:38:25.183Z</updated>
+                    
+                                            <author>
+                            <name>barteltm .</name>
+                            <uri>http://coderetreat.org/profile/barteltm</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Well done! We&#039;ll use it the next time.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Well done! We&#039;ll use it the next time.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Indeed an excellent poster! w…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32735"/>
+                                        <id>tag:coderetreat.org,2013-12-13:6456126:Comment:32735</id>
+                                        <updated>2013-12-13T15:00:09.184Z</updated>
+                    
+                                            <author>
+                            <name>Dhaval Dalal</name>
+                            <uri>http://coderetreat.org/profile/DhavalDalal</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Indeed an excellent poster! will surely use it&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Indeed an excellent poster! will surely use it&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>This is a very nice poster, I…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:32728"/>
+                                        <id>tag:coderetreat.org,2013-12-13:6456126:Comment:32728</id>
+                                        <updated>2013-12-13T13:04:33.817Z</updated>
+                    
+                                            <author>
+                            <name>Stefan Hendriks</name>
+                            <uri>http://coderetreat.org/profile/stefanhendriks</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;This is a very nice poster, I intent to use it for the introduction.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;This is a very nice poster, I intent to use it for the introduction.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I usually don&#039;t run into this…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29831"/>
+                                        <id>tag:coderetreat.org,2013-11-20:6456126:Comment:29831</id>
+                                        <updated>2013-11-20T16:08:09.412Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I usually don&#039;t run into this problem since I introduce GOL with &quot;imagine a grid of cells that runs infinitely in each direction&quot;. I agree, however, that a visual hint would be helpful. The remaining question is, what would be a good way to display it, without raising other false assumptions?&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I usually don&#039;t run into this problem since I introduce GOL with &quot;imagine a grid of cells that runs infinitely in each direction&quot;. I agree, however, that a visual hint would be helpful. The remaining question is, what would be a good way to display it, without raising other false assumptions?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I used this poster when I ran…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29647"/>
+                                        <id>tag:coderetreat.org,2013-11-19:6456126:Comment:29647</id>
+                                        <updated>2013-11-19T23:27:39.633Z</updated>
+                    
+                                            <author>
+                            <name>David Parsons</name>
+                            <uri>http://coderetreat.org/profile/DavidParsons</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I used this poster when I ran Coderetreat with my students. It&#039;s a great idea but I found that quite a lot of them immediately assumed there would be a grid with only 6 cells (students are very literal). Perhaps there could be some kind of indication that the grid extends beyond these cells (dotted lines? fading cells?) Just a thought.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I used this poster when I ran Coderetreat with my students. It&#039;s a great idea but I found that quite a lot of them immediately assumed there would be a grid with only 6 cells (students are very literal). Perhaps there could be some kind of indication that the grid extends beyond these cells (dotted lines? fading cells?) Just a thought.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thanks a lot for putting this…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:25626"/>
+                                        <id>tag:coderetreat.org,2013-07-12:6456126:Comment:25626</id>
+                                        <updated>2013-07-12T21:22:20.117Z</updated>
+                    
+                                            <author>
+                            <name>Spencer Williams</name>
+                            <uri>http://coderetreat.org/profile/enderandpeter</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks a lot for putting this up. I&#039;ve signed up for the Code Retreat on the 26th of this month and I look forward to learning plenty :-)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks a lot for putting this up. I&#039;ve signed up for the Code Retreat on the 26th of this month and I look forward to learning plenty :-)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thanks Jim. I think it could…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:23844"/>
+                                        <id>tag:coderetreat.org,2013-05-07:6456126:Comment:23844</id>
+                                        <updated>2013-05-07T00:28:06.398Z</updated>
+                    
+                                            <author>
+                            <name>Marco Emrich</name>
+                            <uri>http://coderetreat.org/profile/MarcoEmrich</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks Jim. I think it could still be improved in the design department, but that&#039;s what you get when you let a coder do the artwork :)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks Jim. I think it could still be improved in the design department, but that&#039;s what you get when you let a coder do the artwork :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>That is a super-cool poster!…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:23932"/>
+                                        <id>tag:coderetreat.org,2013-05-06:6456126:Comment:23932</id>
+                                        <updated>2013-05-06T16:59:47.761Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;That is a &lt;strong&gt;super-cool&lt;/strong&gt; poster! Thanks for sharing.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;That is a &lt;strong&gt;super-cool&lt;/strong&gt; poster! Thanks for sharing.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

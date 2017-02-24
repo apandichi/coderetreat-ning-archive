@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38313
+DTSTAMP:20170129T120327Z
+SUMMARY:Global Day of Coderetreat 2014 - Shanghai, China
+DESCRIPTION:Let's celebrate Global Day of Coderetreat with a coderetre
+ at in Shanghai!\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2014-shanghai-china
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Shanghai,Jingan
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Fengxiang Zhu":http://coderetreat.org/profile/FengxiangZ
+ hu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fengxian
+ g Zhu":http://coderetreat.org/profile/FengxiangZhu
+END:VEVENT
+END:VCALENDAR

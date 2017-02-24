@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>emmanuel delgado&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/emmanueldelgado</link>
+        <pubDate>Sun, 29 Jan 2017 12:29:30 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:29:30 +0000</lastBuildDate>
+        <image>
+            <title>emmanuel delgado&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/emmanueldelgado</link>
+            <url>http://api.ning.com:80/files/Ed08kSdMhMV*24YCCYbQWr3Bd*-q7yBC9P2czNrGbT9atao-t2b6gNqrWOO3qqNIjEk1edC0EXQXxwCniTIirJQMB1P9WLtx/664235543.jpeg?xgip=193%3A0%3A680%3A680%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ada01128e5f271824963791</guid>
+               <title>emmanuel delgado liked Jim Hurne&#039;s page About Coderetreat</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Page:1101?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/emmanueldelgado?xg_source=activity">emmanuel delgado</a> liked <a href="http://coderetreat.org/profile/JimHurne?xg_source=activity">Jim Hurne's</a> page <a href="http://coderetreat.org/xn/detail/6456126:Page:1101?xg_source=activity">About Coderetreat</a></span><br/>]]></description>
+               <pubDate>Sun, 17 Jun 2012 05:17:35 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ada01128365bcd3e897cbc4</guid>
+               <title>emmanuel delgado is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/emmanueldelgado?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/emmanueldelgado?xg_source=activity">emmanuel delgado</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Sun, 17 Jun 2012 01:27:29 +0000</pubDate>
+               </item>    </channel>
+</rss>

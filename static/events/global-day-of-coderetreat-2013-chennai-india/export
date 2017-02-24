@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27012
+DTSTAMP:20170129T105149Z
+SUMMARY:Global Day of Coderetreat 2013 - Chennai, India
+DESCRIPTION:Will be published soon. \nCurrent plan\nDate: December 1
+ 4th, 2013 Time: 10am to 6pm Venue: TBP Organised by: Java User Group 
+ Chennai (JUGChennai) Facilitator : Rajmahendra Hegde ( @rajonjava )\nM
+ ore info at http://jugchennai.in/coderetreat/\n\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-2013-
+ chennai-india
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13, 2013, chennai, india, jugchennai
+ , javausergroup
+LOCATION:Chennai
+WEBSITE:http://jugchennai.in/coderetreat/
+URL:http://jugchennai.in/coderetreat/
+CONTACT:
+ORGANIZER;CN="Rajmahendra Hegde":http://coderetreat.org/profile/rajmah
+ endra
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/NWvFMlVPFczeV
+ DbJ68pReIhG8wfX5DpHVgt5ffX39EgvK6xnlkuwpcRTGliQDUtDvckgiDw*8PdghG-yHct
+ B*Ql*ps0ctbdN/JugChennaiLogo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rajmahen
+ dra Hegde":http://coderetreat.org/profile/rajmahendra
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nishanth
+  Lawrence":http://coderetreat.org/profile/NishanthLawrence
+END:VEVENT
+END:VCALENDAR

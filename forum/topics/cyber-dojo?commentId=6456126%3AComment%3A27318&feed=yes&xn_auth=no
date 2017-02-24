@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>cyber-dojo - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/cyber-dojo?commentId=6456126%3AComment%3A27318&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:31:35Z</updated>
+                        <id>http://coderetreat.org/forum/topics/cyber-dojo?commentId=6456126%3AComment%3A27318&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Thanks for the thoughtful rep…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29192"/>
+                                        <id>tag:coderetreat.org,2013-11-14:6456126:Comment:29192</id>
+                                        <updated>2013-11-14T18:48:13.608Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks for the thoughtful reply, Jon!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks for the thoughtful reply, Jon!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi Duncan,
+it is indeed very…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29168"/>
+                                        <id>tag:coderetreat.org,2013-11-13:6456126:Comment:29168</id>
+                                        <updated>2013-11-13T13:39:00.683Z</updated>
+                    
+                                            <author>
+                            <name>Jon Jagger</name>
+                            <uri>http://coderetreat.org/profile/JonJagger</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Duncan,&lt;/p&gt;
+&lt;p&gt;it is indeed very basic. That is deliberate. Features like resharper are a good way of going faster when you are creating software with the intention of shipping it. But in a practice session you are not creating software with the intention of shipping it! So what is the purpose? To practice! To learn. And by learn I mean something very specific. I mean changing your behaviour. If you do a practice and afterwards you all work in exactly the same way as before then the…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Duncan,&lt;/p&gt;
+&lt;p&gt;it is indeed very basic. That is deliberate. Features like resharper are a good way of going faster when you are creating software with the intention of shipping it. But in a practice session you are not creating software with the intention of shipping it! So what is the purpose? To practice! To learn. And by learn I mean something very specific. I mean changing your behaviour. If you do a practice and afterwards you all work in exactly the same way as before then the practice was a waste of time. To a great degree, the more you are &quot;provoked&quot; during a practice the better. There is no learning without provocation. &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;You suggest you&#039;d like each pair to be able to pick their own language. That they would find this more &quot;comfortable&quot;. So that is exactly what they are _not_ allowed to do! Thus they are &quot;forced&quot;, in a safe, obviously non-development environment, to face their underlying fears.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;I find the best sessions are where there is definite tension in the room. Palpable energy. Switching partners during a practice session, for example, is something I find a lot of developers initially &quot;resist&quot;. Their resistance is a sure sign it will be beneficial! &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Hope this helps&lt;/span&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>We used it in a couple of the…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:29051"/>
+                                        <id>tag:coderetreat.org,2013-11-12:6456126:Comment:29051</id>
+                                        <updated>2013-11-12T12:04:38.213Z</updated>
+                    
+                                            <author>
+                            <name>Duncan Sample</name>
+                            <uri>http://coderetreat.org/profile/dsample</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;We used it in a couple of the iterations last year and generally we didn&#039;t get a great impression of it since it was very basic, in terms of trying to use C#, since most of the .Net people were Resharper users.&lt;/p&gt;
+&lt;p&gt;Something I&#039;d like as a change for Cyber-Dojo would be to flip around the creation of the session so that you choose the scenario first, and then have the option to choose any language when you join the session, that way the pairs could choose any language they&#039;d like, rather…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;We used it in a couple of the iterations last year and generally we didn&#039;t get a great impression of it since it was very basic, in terms of trying to use C#, since most of the .Net people were Resharper users.&lt;/p&gt;
+&lt;p&gt;Something I&#039;d like as a change for Cyber-Dojo would be to flip around the creation of the session so that you choose the scenario first, and then have the option to choose any language when you join the session, that way the pairs could choose any language they&#039;d like, rather than the organiser having to pick one for everyone.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Couldn&#039;t agree more. I&#039;ve use…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27318"/>
+                                        <id>tag:coderetreat.org,2013-10-06:6456126:Comment:27318</id>
+                                        <updated>2013-10-06T04:49:22.358Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Couldn&#039;t agree more. I&#039;ve used Cyber-Dojo to good effect and found it solved a lot of problems, including the one you mention. Since it also &quot;checks-in&quot; every time you test, and provides a super-easy way to retreat to your prior green state (or &lt;em&gt;any&lt;/em&gt; prior state) is makes &quot;TDD like you mean it&quot; and the 2-minutes-to-get-to-green &quot;Taking Baby Steps&quot; super simple.&lt;/p&gt;
+&lt;p&gt;Bob&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Couldn&#039;t agree more. I&#039;ve used Cyber-Dojo to good effect and found it solved a lot of problems, including the one you mention. Since it also &quot;checks-in&quot; every time you test, and provides a super-easy way to retreat to your prior green state (or &lt;em&gt;any&lt;/em&gt; prior state) is makes &quot;TDD like you mean it&quot; and the 2-minutes-to-get-to-green &quot;Taking Baby Steps&quot; super simple.&lt;/p&gt;
+&lt;p&gt;Bob&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>One of the suggested challeng…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:20017"/>
+                                        <id>tag:coderetreat.org,2012-12-13:6456126:Comment:20017</id>
+                                        <updated>2012-12-13T08:14:22.782Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;One of the suggested challenges is &quot;use a text editor&quot; and using cyberdojo gives you that, so you can always use it just for the one session where you&#039;re using that challenge :-)&lt;/p&gt;
+&lt;p&gt;I&#039;ve seen several times a java developer used to eclipse, pairing with a ruby developer used to textmate, and they struggle to pair program effectively, whichever of their two languages and environments they choose. For them, cyber-dojo lets them both be equally out of their comfort zone, and it leads to…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;One of the suggested challenges is &quot;use a text editor&quot; and using cyberdojo gives you that, so you can always use it just for the one session where you&#039;re using that challenge :-)&lt;/p&gt;
+&lt;p&gt;I&#039;ve seen several times a java developer used to eclipse, pairing with a ruby developer used to textmate, and they struggle to pair program effectively, whichever of their two languages and environments they choose. For them, cyber-dojo lets them both be equally out of their comfort zone, and it leads to better pairing.&lt;/p&gt;
+&lt;p&gt;I&#039;d have to use it more, but I think it would make people more likely to pair with people outside of their language/editor preference, and spread knowledge. I havn&#039;t been measuring, but I have a feeling the pairs in my code retreats havn&#039;t mixed and switched enough. I&#039;m less interested in a few good Ruby programmers exchanging Vim tricks than the whole group getting better at pairing and TDD.&lt;/p&gt;
+&lt;p&gt;Emily&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thanks for sharing! It sounds…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:19829"/>
+                                        <id>tag:coderetreat.org,2012-12-12:6456126:Comment:19829</id>
+                                        <updated>2012-12-12T10:31:47.757Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks for sharing! It sounds like using cyber-dojo mostly worked.&lt;/p&gt;
+&lt;p&gt;I&#039;m still on the fence as to whether or not to encourage the use of cyber-dojo.  It sounds like it did help pairs focus on their coding technique and it definitely provided valuable information to the facilitator and the pairs about how well the pair was applying TDD. It is also clear using cyber-dojo eliminated a lot of setup-related issues. This is certainly all good.&lt;/p&gt;
+&lt;p&gt;At a coderetreat that uses everyday tools…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks for sharing! It sounds like using cyber-dojo mostly worked.&lt;/p&gt;
+&lt;p&gt;I&#039;m still on the fence as to whether or not to encourage the use of cyber-dojo.  It sounds like it did help pairs focus on their coding technique and it definitely provided valuable information to the facilitator and the pairs about how well the pair was applying TDD. It is also clear using cyber-dojo eliminated a lot of setup-related issues. This is certainly all good.&lt;/p&gt;
+&lt;p&gt;At a coderetreat that uses everyday tools (which is the common case today), I often observe developers learning a lot from each other about their tools. For example, it is not uncommon for a developer to learn some new tricks in Vim or Emacs that they didn&#039;t know before (it also not uncommon for a developer to see Vim or Emacs used to its fullest potential for the first time).  These are good, practical leanings that can help developers to become more productive.&lt;/p&gt;
+&lt;p&gt;I think what it comes down to is what you want participants to get out of the coderetreat. If you want them to focus exclusively on the code and on TDD, then using cyber-dojo sounds like an excellent choice. If you also want to give developers the opportunity to learn ways of working more productively, then using everyday tools might be a better choice.&lt;/p&gt;
+&lt;p&gt;Since there isn&#039;t a clear &quot;right choice,&quot; I&#039;m might try alternating coderetreats between cyber-dojo and everyday tools, or asking participants to use cyber-dojo for a portion (possibily half) of a coderetreat.&lt;/p&gt;
+&lt;p&gt;Anyway, thanks for sharing! It was definitely a valuable experiment that I hope others will repeat.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi,
+Thanks for your encouragi…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:19481"/>
+                                        <id>tag:coderetreat.org,2012-12-10:6456126:Comment:19481</id>
+                                        <updated>2012-12-10T17:37:25.804Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Thanks for your encouraging words! We did try out cyber-dojo, and a few other things, and I wrote it up in a blog post:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&quot; target=&quot;_blank&quot;&gt;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- Emily&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Thanks for your encouraging words! We did try out cyber-dojo, and a few other things, and I wrote it up in a blog post:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&quot; target=&quot;_blank&quot;&gt;http://emilybache.blogspot.se/2012/12/global-day-of-code-retreat-2012.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- Emily&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I haven&#039;t tried it, but using…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:18630"/>
+                                        <id>tag:coderetreat.org,2012-12-07:6456126:Comment:18630</id>
+                                        <updated>2012-12-07T02:23:02.242Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I haven&#039;t tried it, but using cyber-dojo looks promising. Using something like this will almost certainly reduce the amount of setup time.&lt;/p&gt;
+&lt;p&gt;The only (minor) downside to using a cyber-dojo is that developers won&#039;t have an opportunity to practise using the normal tools they use on a regular basis.  As professional software developers, we should be experts in our tools, so practising with them can be helpful.&lt;/p&gt;
+&lt;p&gt;I&#039;d say give it a try and see how it goes! You can always change your…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I haven&#039;t tried it, but using cyber-dojo looks promising. Using something like this will almost certainly reduce the amount of setup time.&lt;/p&gt;
+&lt;p&gt;The only (minor) downside to using a cyber-dojo is that developers won&#039;t have an opportunity to practise using the normal tools they use on a regular basis.  As professional software developers, we should be experts in our tools, so practising with them can be helpful.&lt;/p&gt;
+&lt;p&gt;I&#039;d say give it a try and see how it goes! You can always change your mind (you can always abandon cyber-dojo if one or two sessions go badly).  Let us know how it goes!&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

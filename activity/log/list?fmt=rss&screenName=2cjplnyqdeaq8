@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Radu Ticiu&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/RaduTiciu</link>
+        <pubDate>Sun, 29 Jan 2017 13:03:07 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:03:07 +0000</lastBuildDate>
+        <image>
+            <title>Radu Ticiu&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/RaduTiciu</link>
+            <url>http://api.ning.com:80/files/psoEOiPz006LPSjqfaoa6ARy7bUzJWZ1-2xYKRzlCJnDP5cS7zWoyMAa-T8*d7XGsyxTglw4XJZ2l07S15Ix*jzQKilxa0Ge/1148849762.jpeg?xgip=0%3A0%3A1198%3A1198%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001201e94532949f16bf576d60</guid>
+               <title>Radu Ticiu posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47762?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/RaduTiciu?xg_source=activity">Radu Ticiu</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:47762?xg_source=activity" ><img src="http://api.ning.com/files/psoEOiPz004FdZYMiTbACWXQZ3eljkd*Q1Dp4ffdEwz-8pCiIdM7XzVKfI2*QHp0h2GlQXSrgQiLrKi6fz3lx6pCQd0xEuZ3/gdcr2013.jpeg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47762?xg_source=activity">Global Day of Coderetreat 2014 - Timisoara, Romania</a> at Timisoara Startup Hub</h3><div class="rich-detail"><div class="rich-date">October 20, 2015 from 6pm to 7pm</div><div class="rich-excerpt">A coderetreat is a full day event that aims to offer a safe haven for programming experiments. For a whole day, programmers gather to program, experiment, learn, and have fun. It is the ideal place for programmers to do the things they can not do at work. To try out crazy ideas, to improve themselves by interacting with others, to write code using test driven development, pair programming, and other agile practices.Global Day of Coderetreat represents a network of such events held in the same day all over the world. Not only programmers can interact with others from the same group, but they can have online chats and live video streams with others from different parts of the world.Romania was the first non-US country to host a code retreat, so we have a tradition and passion for this type of events.Timisoara hosted its first Coderetreat November 21st 2009 and since then we've participated to all Global Days of Coderetreat.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47762?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 20 Oct 2015 21:51:00 +0000</pubDate>
+               </item>    </channel>
+</rss>

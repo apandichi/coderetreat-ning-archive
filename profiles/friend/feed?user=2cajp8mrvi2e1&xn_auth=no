@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2cajp8mrvi2e1&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:38:42Z</updated>
+                            <author>
+                    <name>Marc Lainez</name>
+                    <uri>http://coderetreat.org/profile/MarcLainez</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/TjlAXyYB30EbiT1hD2j4fStrGXWs8OMzLnm1FXJb5frrfSVx*lepbKn8F1sZ8HgVUgzCfQLWcc4-9yMOkOXuVUSNK2D6r-C6/834182255.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2cajp8mrvi2e1&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jesse Wolgamott</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JesseWolgamott"/>
+                                        <id>tag:coderetreat.org,2012-09-04:6456126:User:11765</id>
+                                        <updated>2012-09-04T13:48:09.897Z</updated>
+                    
+                                            <author>
+                            <name>Marc Lainez</name>
+                            <uri>http://coderetreat.org/profile/MarcLainez</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/hrXHGbsBI73SbVel2ZAu*m5aF7NP087I18QmOh8IKUHS3sMbOvULcSk*W1PkcTj9tmC9IAuhxcgDk*Oc-uK1DZFMPRuB8EL8/727776869.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jesse Wolgamott&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/hrXHGbsBI73SbVel2ZAu*m5aF7NP087I18QmOh8IKUHS3sMbOvULcSk*W1PkcTj9tmC9IAuhxcgDk*Oc-uK1DZFMPRuB8EL8/727776869.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jesse Wolgamott&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

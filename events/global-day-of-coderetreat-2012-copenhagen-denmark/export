@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:14580
+DTSTAMP:20170129T134234Z
+SUMMARY:Global Day of Coderetreat 2012 - Copenhagen / Denmark
+DESCRIPTION:Registration at: http://cphcoderetreat.eventbrite.com :-)\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2012-copenhagen-denmark
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Copenhagen
+WEBSITE:
+URL:
+CONTACT:+45 51901337
+ORGANIZER;CN="Rasmus Kromann-Larsen":http://coderetreat.org/profile/Ra
+ smusKromannLarsen
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrius 
+ Ordojan":http://coderetreat.org/profile/AndriusOrdojan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark See
+ mann":http://coderetreat.org/profile/MarkSeemann
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rasmus K
+ romann-Larsen":http://coderetreat.org/profile/RasmusKromannLarsen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Rune Abr
+ ahamsson":http://coderetreat.org/profile/RuneAbrahamsson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Matias 
+ Korn":http://coderetreat.org/profile/MatiasKorn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Thomas 
+ Kaj Bonfils":http://coderetreat.org/profile/ThomasKajBonfils
+END:VEVENT
+END:VCALENDAR

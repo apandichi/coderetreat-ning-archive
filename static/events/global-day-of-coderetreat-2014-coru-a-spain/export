@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40851
+DTSTAMP:20170129T102733Z
+SUMMARY:Global Day of Coderetreat 2014 - Coruña, Spain
+DESCRIPTION:GDCR14\nCoderetreat is a day-long, intensive practice even
+ t, focusing on the fundamentals of software development and design. By
+  providing developers the opportunity to take part in focused practice
+ , away from the pressures of 'getting things done', the coderetreat fo
+ rmat has proven itself to be a highly effective means of skill improve
+ ment. Practicing the basic principles of modular and object-oriented d
+ esign, developers can improve their ability to write code that minimiz
+ es the cost of change over time.\nRegister at https://www.eventbrite.
+ es/e/entradas-global-day-of-coderetreat-2014-coruna-spain-14133777509\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2014-coru-a-spain
+DTSTART:20141115T100000Z
+DTEND:20141115T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Articos
+WEBSITE:http://articos.es
+URL:http://articos.es
+CONTACT:616353543
+ORGANIZER;CN="Carlos García":http://coderetreat.org/profile/CarlosGar
+ cia
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/06WphArD*Ms4v
+ 98tHtbIX2EKzEErXW7TTp1OvAI6MD01PbePXpUk1W5Zi*3vEsTYRKXHISv-X1hTNck4wDE
+ EPvSnGWTaLQuU/IMG_20111203_172609.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos G
+ arcía":http://coderetreat.org/profile/CarlosGarcia
+END:VEVENT
+END:VCALENDAR

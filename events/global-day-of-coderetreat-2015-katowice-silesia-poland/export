@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48048
+DTSTAMP:20170129T114919Z
+SUMMARY:Global Day of Coderetreat 2015 - Katowice, Silesia, Poland
+DESCRIPTION:Global Day of Code Retreat in Hackerspace Silesia! Everyon
+ e is welcome so please join us 14 November (Saturday). \n\nFor more i
+ nformation visit http://coderetreat.org/events/global-day-of-coderetre
+ at-2015-katowice-silesia-poland
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Hackerspace Silesia
+WEBSITE:https://hs-silesia.pl/place/
+URL:https://hs-silesia.pl/place/
+CONTACT:+48 609333832
+ORGANIZER:Hackerspace Silesia
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kamil Ga
+ łuszka":http://coderetreat.org/profile/KamilGaluszka
+END:VEVENT
+END:VCALENDAR

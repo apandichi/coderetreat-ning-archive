@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54622
+DTSTAMP:20170129T112724Z
+SUMMARY:Global Day of Code Retreat 2016 - Prague, Czech Republic
+DESCRIPTION:Coderetreat je jednodenní intenzivní cvičení zaměřen
+ é na základy vývoje softwaru. Díky tomu, že vývojáři nejsou po
+ d tlakem rychlého doručování výsledků, poskytuje Coderetreat mo�
+ �nost cíleně se soustředit na zlepšování svých dovedností. Pro
+ cvičováním základních principů modulárního a objektově-orient
+ ovaného návrhu mohou účastníci zlepšit své schopnosti psát kó
+ d, který minimalizuje náročnost implementace dalších změn.\n\nFo
+ r more information visit http://coderetreat.org/events/global-day-of-c
+ ode-retreat-2016-prague-czech-republic
+DTSTART:20161022T080000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:TBA
+WEBSITE:http://coderetreat.cz/
+URL:http://coderetreat.cz/
+CONTACT:
+ORGANIZER;CN="Aleš Roubíček":http://coderetreat.org/profile/AlesRou
+ bicek
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/uTkvFPCTt6Gft
+ cgsHrLsJIlUfCHauq45naN3htccXt1zedv6erwD5pmzsL7*TTGWQ9cJLCH2NaTygfWsH5K
+ pIBreitY1Y9dA/coderetreat_big.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleš Ro
+ ubíček":http://coderetreat.org/profile/AlesRoubicek
+END:VEVENT
+END:VCALENDAR

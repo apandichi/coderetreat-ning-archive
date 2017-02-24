@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Carlos Quirarte&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/CarlosQuirarte</link>
+        <pubDate>Sun, 29 Jan 2017 12:18:48 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:18:48 +0000</lastBuildDate>
+        <image>
+            <title>Carlos Quirarte&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/CarlosQuirarte</link>
+            <url>http://api.ning.com:80/files/-M5JLAFxn1GLRYDxj6Zor08yIodL0Xdcm-9m9Fl11ev*aHyf4DNm5EcaVbrqtbTuXLvRoDYoFKv*WTav0M0EcBd2Lq9r0FFU/1142565637.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011ed72bfd3c3ca5347041a30</guid>
+               <title>Carlos Quirarte updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:49572?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CarlosQuirarte?xg_source=activity">Carlos Quirarte</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:49572?xg_source=activity">Global Day of Coderetreat 2015 - Guadalajara, Mexico</a> at EPAM M&eacute;xico (Freescale&#039;s premises)</h3><div class="rich-detail"><div class="rich-date">November 21, 2015 from 8am to 5pm</div><div class="rich-excerpt">     Register <a href="https://events.epam.com/events/coderetreat-guadalajara" target="_blank">here</a> for Guadalajara’s Coderetreat!<a href="https://events.epam.com/events/coderetreat-guadalajara" target="_blank">REGISTER FOR GLOBAL CODERETREAT</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:49572?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 10 Nov 2015 19:24:21 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011ed72bff94dd9b535feb748</guid>
+               <title>Carlos Quirarte posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:49572?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CarlosQuirarte?xg_source=activity">Carlos Quirarte</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:49572?xg_source=activity">Global Day of Coderetreat 2015 - Guadalajara, Jalisco</a> at EPAM M&eacute;xico (Freescale&#039;s premises)</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8am to 5pm</div><div class="rich-excerpt">     Register <a href="https://events.epam.com/events/coderetreat-guadalajara" target="_blank">here</a> for Guadalajara’s Coderetreat!<a href="https://events.epam.com/events/coderetreat-guadalajara" target="_blank">REGISTER FOR GLOBAL CODERETREAT</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:49572?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 06 Nov 2015 16:30:27 +0000</pubDate>
+               </item>    </channel>
+</rss>

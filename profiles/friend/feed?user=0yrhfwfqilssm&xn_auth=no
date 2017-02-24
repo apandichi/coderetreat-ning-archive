@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0yrhfwfqilssm&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:32:10Z</updated>
+                            <author>
+                    <name>Melissa Demsak</name>
+                    <uri>http://coderetreat.org/profile/MelissaDemsak</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/n2E7YqBG0dAdLj8LMyD1gmdEkoJCRT*wtp1KWhsXFLDjFJHVj7ItLbCFuByst2ifbu3mOYz5uLQ-t2c2FjQqPCQHlw6XfC3J/577229584.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0yrhfwfqilssm&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jason Jolley</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JasonJolley"/>
+                                        <id>tag:coderetreat.org,2012-06-20:6456126:User:10415</id>
+                                        <updated>2012-06-20T19:40:38.257Z</updated>
+                    
+                                            <author>
+                            <name>Melissa Demsak</name>
+                            <uri>http://coderetreat.org/profile/MelissaDemsak</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/za-MYXDMl*GlQARoliNQXO1LxeKOrVQIrdaQ-hznulSP7cJeR0h*qzCp0sSEVTH9xgDonZsXsOQWE9ez3BzNHg__/27230170.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jason Jolley&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/za-MYXDMl*GlQARoliNQXO1LxeKOrVQIrdaQ-hznulSP7cJeR0h*qzCp0sSEVTH9xgDonZsXsOQWE9ez3BzNHg__/27230170.png?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jason Jolley&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

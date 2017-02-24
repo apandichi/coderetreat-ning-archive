@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55896
+DTSTAMP:20170129T112648Z
+SUMMARY:Global Day of Coderetreat 2016 in Iasi, Romania
+DESCRIPTION:For the first time in Iași we will run a Code Retreat on 
+ the occasion of the 2016 GDCR. By a fortunate coincidence the day coin
+ cides with the CodeCamp conference. CodeCamp is facilitating our hosti
+ ng at their venue Hotel International. Bring a laptop and get ready fo
+ r some fun action!\nBecause seats are limited, please sign up in advan
+ ce using this form:https://goo.gl/forms/jj6Wz97sGCMhoKrD2\nhttps://www
+ .facebook.com/events/321643241511287/\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2016-in-iasi-rom
+ ania
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Hotel International
+WEBSITE:https://www.facebook.com/events/321643241511287/
+URL:https://www.facebook.com/events/321643241511287/
+CONTACT:
+ORGANIZER;CN="Iulian Dogariu":http://coderetreat.org/profile/IulianDog
+ ariu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Iulian D
+ ogariu":http://coderetreat.org/profile/IulianDogariu
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54162
+DTSTAMP:20170129T112458Z
+SUMMARY:Global Day of Coderetreat 2016 - London, UK
+DESCRIPTION:Registration is needed and will be announced\n\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-coderet
+ reat-2016-london-uk-1
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Masabi
+WEBSITE:https://www.meetup.com/london-software-craftsmanship/events/23
+ 4157611/
+URL:https://www.meetup.com/london-software-craftsmanship/events/234157
+ 611/
+CONTACT:
+ORGANIZER;CN="Julian Ghionoiu":http://coderetreat.org/profile/JulianGh
+ ionoiu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Julian G
+ hionoiu":http://coderetreat.org/profile/JulianGhionoiu
+END:VEVENT
+END:VCALENDAR

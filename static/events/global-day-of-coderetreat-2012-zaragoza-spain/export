@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13330
+DTSTAMP:20170129T134207Z
+SUMMARY:Global Day of Coderetreat 2012 - Zaragoza / Spain
+DESCRIPTION:From Agile Aragon and BSSC we are happy to join the Global
+  Day of Coderetreat 2012.\nRegistration: Here\nLocation at: http://w
+ ww.bssc.es/ubicacion.htm\nStart Time: TBD\nFacilitator: Dani Latorre -
+  @dani_latorre\n\nFor more information visit http://coderetreat.org/ev
+ ents/global-day-of-coderetreat-2012-zaragoza-spain
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:BSSC-Zaragoza
+WEBSITE:http://stghq.me/e/wn
+URL:http://stghq.me/e/wn
+CONTACT:
+ORGANIZER:Agile Aragon
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/10CxAbhYLQzfI
+ dd5rfOZynYuiKUXEoUwA5iSb0aOW39xXjjaTWCv2BG5VlxX6pUBKsBi4IzjG6xf6rwaPsa
+ MmjnDOqgyASlA/BSSC08.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fernando
+  Pérez":http://coderetreat.org/profile/FernandoPerez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Francho 
+ Joven":http://coderetreat.org/profile/FranchoJoven
+END:VEVENT
+END:VCALENDAR

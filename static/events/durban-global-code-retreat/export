@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49218
+DTSTAMP:20170129T121452Z
+SUMMARY:Global Day of Coderetreat 2015 - Durban, South Africa
+DESCRIPTION:Global code retreat in Durban, YAY\n\nFor more information
+  visit http://coderetreat.org/events/durban-global-code-retreat
+DTSTART:20151114T080000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:The Green Door
+WEBSITE:http://www.meetup.com/coderetreat/events/224897814/
+URL:http://www.meetup.com/coderetreat/events/224897814/
+CONTACT:+27728111270
+ORGANIZER;CN="Brendon Page":http://coderetreat.org/profile/BrendonPage
+ 929
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brendon 
+ Page":http://coderetreat.org/profile/BrendonPage929
+END:VEVENT
+END:VCALENDAR

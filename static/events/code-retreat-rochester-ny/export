@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40549
+DTSTAMP:20170129T122642Z
+SUMMARY:Code Retreat - Rochester, NY
+DESCRIPTION:Brand Networks has offered to host a code retreat at their
+  facilities in downtown Rochester, NY. You can register here https://
+ www.eventbrite.com/e/code-retreat-rochester-ny-jan-2015-tickets-141080
+ 68613\n\nThe event is free and food will be provided.\n\nRegistration 
+ via Eventbrite is mandatory.\n\nSpace is limited, so please only regis
+ ter if you know you can make it\n\n\nFor more information visit http:/
+ /coderetreat.org/events/code-retreat-rochester-ny
+DTSTART:20150110T000000Z
+DTEND:20150110T235900Z
+CATEGORIES:"code retreat"
+LOCATION:Rochester, NY
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Brand Networks
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brian Wi
+ tt":http://coderetreat.org/profile/BrianWitt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Dewi
+ tt":http://coderetreat.org/profile/JimDewitt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dan Grib
+ bin":http://coderetreat.org/profile/DanGribbin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chris Ho
+ rn":http://coderetreat.org/profile/ChrisHorn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mike Sch
+ neider":http://coderetreat.org/profile/MikeSchneider
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="George A
+ dams":http://coderetreat.org/profile/GeorgeAdams
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Dr
+ eyer":http://coderetreat.org/profile/DavidDreyer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeffrey 
+ Knapp":http://coderetreat.org/profile/JeffreyKnapp
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Elliot V
+ os":http://coderetreat.org/profile/ElliotVos
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=delmania:
+ http://coderetreat.org/profile/delmania
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Karl Hof
+ mann":http://coderetreat.org/profile/KarlHofmann
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gary Pas
+ sero":http://coderetreat.org/profile/GaryPassero
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jacob C
+ hae":http://coderetreat.org/profile/JacobChae
+END:VEVENT
+END:VCALENDAR

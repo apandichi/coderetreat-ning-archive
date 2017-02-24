@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55327
+DTSTAMP:20170129T101503Z
+SUMMARY:Global Day of Coderetreat 2016 - Ourense, España
+DESCRIPTION:Global Day of Code Retreat will be hosted again in ESEI (O
+ urense, Spain). Come join us!\n\nEl Global Day of Code Retreat será 
+ de nuevo organizado por la ESEI en Ourense, España. Únete a nosotros
+ !\n\n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-coderetreat-2016-ourense-espa-a
+DTSTART:20161022T100000Z
+DTEND:20161022T200000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:ESEI
+WEBSITE:https://www.google.es/maps/place/ESEI+-+Escola+Superior+de+Enx
+ eñería+Informática/@42.3438849,-7.8550548,18z/data=!4m5!3m4!1s0x0:0
+ xbb2380c0a6827554!8m2!3d42.3449231!4d-7.8554791?hl=es
+URL:https://www.google.es/maps/place/ESEI+-+Escola+Superior+de+Enxeñe
+ ría+Informática/@42.3438849,-7.8550548,18z/data=!4m5!3m4!1s0x0:0xbb2
+ 380c0a6827554!8m2!3d42.3449231!4d-7.8554791?hl=es
+CONTACT:+34 988 368891
+ORGANIZER;CN="Baltasar García Perez-Schofield":http://coderetreat.org
+ /profile/baltasarq
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/*hEUPDiLn3uPv
+ kJlEOir9bFEVuCfiYXuBIrNauLaRuoQUDg9gZgl627owgGktOXzgmbQ*dG-6mTbMeZ4q5F
+ LggVMMQCEdiba/esei.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pepe Dov
+ al":http://coderetreat.org/profile/PepeDoval
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Baltasar
+  García Perez-Schofield":http://coderetreat.org/profile/baltasarq
+END:VEVENT
+END:VCALENDAR

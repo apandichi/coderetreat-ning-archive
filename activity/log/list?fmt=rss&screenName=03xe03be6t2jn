@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>George Champlin-Scharff&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/GeorgeChamplinScharff</link>
+        <pubDate>Sun, 29 Jan 2017 10:25:34 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:25:34 +0000</lastBuildDate>
+        <image>
+            <title>George Champlin-Scharff&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/GeorgeChamplinScharff</link>
+            <url>http://api.ning.com:80/files/5rOKh5yrOt1wkVTF-Glx7D1ScMYcssbPbciLOrlZ6KqBaL8qEKBYhGhUR9dDbxZAMsXtOjbfxR8XD4ZXte2OvSmrX6h2sjFC/1124438982.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001190fd40a7929eb34d00c0bb</guid>
+               <title>George Champlin-Scharff updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:48062?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/GeorgeChamplinScharff?xg_source=activity">George Champlin-Scharff</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:48062?xg_source=activity">Global Day of CodeRetreat:Tufts</a> at Tufts University (Room TBD)</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 10am to 4pm</div><div class="rich-excerpt">We're holding a CodeRetreat at Tufts University on November 14th starting at 10AM EasternGeorge Champlin-Scharff and Derek Reedy from IBM Watson will be running the event!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:48062?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 04 Nov 2015 16:27:36 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Code Retreat - San Diego, USA - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A54267&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:33:23Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A54267&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I hope this code retreat will…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:57015"/>
+                                        <id>tag:coderetreat.org,2016-10-21:6456126:Comment:57015</id>
+                                        <updated>2016-10-21T23:31:27.622Z</updated>
+                    
+                                            <author>
+                            <name>James Cook</name>
+                            <uri>http://coderetreat.org/profile/JamesCook</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I hope this code retreat will be about coding an exercise several different ways. The last code retreat I attended was about Conway&#039;s game of life, but no one (with the exception of one angry guy in the corner was allowed to code anything but unit tests. Truth in advertising!&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I hope this code retreat will be about coding an exercise several different ways. The last code retreat I attended was about Conway&#039;s game of life, but no one (with the exception of one angry guy in the corner was allowed to code anything but unit tests. Truth in advertising!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

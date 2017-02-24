@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27802
+DTSTAMP:20170129T115916Z
+SUMMARY:Global Day of Coderetreat 2013 - Norfolk, VA, USA
+DESCRIPTION:Global Day of Coderetreat is a world-wide event celebratin
+ g passion and software craftsmanship. Last year, over 2000 passionate
+  software developers in 150 cities around the world spent the day pra
+ cticing the craft of software development using the coderetreat forma
+ t. This year, our goal is to have 200 participating cities! With an av
+ erage of 20-25 participants per city, that's over 3000 developers! You
+  can find out more information about the day on the 2013 global day a
+ nnouncement.\n\nFor more information visit http://coderetreat.org/even
+ ts/global-day-of-coderetreat-2013-norfolk-u-s
+DTSTART:20131214T083000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Hatch
+WEBSITE:https://maps.google.com/maps?q=111+Granby+Street,+Norfolk,+VA&
+ layer=c&sll=36.846870,-76.292287&cbp=13,306.91,,0,0.11&cbll=36.846775,
+ -76.292129&hl=en&ie=UTF8&hq=&hnear=111+Granby+St,+Norfolk,+Virginia+23
+ 510&ll=36.846358,-76.291648&spn=0.006113,0.011362&t=m&z=17&vpsrc=0&iwl
+ oc=A&panoid=iwZ8seAsx42AVmHNHtkrlQ
+URL:https://maps.google.com/maps?q=111+Granby+Street,+Norfolk,+VA&laye
+ r=c&sll=36.846870,-76.292287&cbp=13,306.91,,0,0.11&cbll=36.846775,-76.
+ 292129&hl=en&ie=UTF8&hq=&hnear=111+Granby+St,+Norfolk,+Virginia+23510&
+ ll=36.846358,-76.291648&spn=0.006113,0.011362&t=m&z=17&vpsrc=0&iwloc=A
+ &panoid=iwZ8seAsx42AVmHNHtkrlQ
+CONTACT:
+ORGANIZER;CN="Ian Taylor":http://coderetreat.org/profile/IanTaylor
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Karl Bar
+ ek":http://coderetreat.org/profile/KarlBarek
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stanley 
+ Zheng":http://coderetreat.org/profile/StanleyZheng
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pete Hud
+ gins":http://coderetreat.org/profile/PeteHudgins
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ian Tayl
+ or":http://coderetreat.org/profile/IanTaylor
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kevin Gr
+ iffin":http://coderetreat.org/profile/KevinGriffin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ken Tayl
+ or":http://coderetreat.org/profile/KenTaylor
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Kent Co
+ llins":http://coderetreat.org/profile/KentCollins
+END:VEVENT
+END:VCALENDAR

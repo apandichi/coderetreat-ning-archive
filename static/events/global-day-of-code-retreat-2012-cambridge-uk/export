@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12663
+DTSTAMP:20170129T123250Z
+SUMMARY:Global Day of Coderetreat 2012 - Cambridge / UK
+DESCRIPTION:Please sign up to the event on the Cambridge Software Cra
+ ftsmanship Community's website.  Venue is TBC and will be announced t
+ here.\n\nFor more information visit http://coderetreat.org/events/glob
+ al-day-of-code-retreat-2012-cambridge-uk
+DTSTART:20121208T080000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Cambridge, UK
+WEBSITE:http://www.meetup.com/Cambridge-Software-Craftsmanship/events/
+ 82359522/
+URL:http://www.meetup.com/Cambridge-Software-Craftsmanship/events/8235
+ 9522/
+CONTACT:
+ORGANIZER;CN="Alastair Smith":http://coderetreat.org/profile/AlastairS
+ mith
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alastair
+  Smith":http://coderetreat.org/profile/AlastairSmith
+END:VEVENT
+END:VCALENDAR

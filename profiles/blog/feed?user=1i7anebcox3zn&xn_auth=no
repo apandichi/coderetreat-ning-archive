@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Joseph Yao&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1i7anebcox3zn&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:55:17Z</updated>
+                            <author>
+                    <name>Joseph Yao</name>
+                    <uri>http://coderetreat.org/profile/JosephYao</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/SlDIOzgkHEDQngkppaz6*RzCxEZp2k5*vA7qhh9TTIQUTktEse01KdWAT1iXS1jv3BtMti7dUaAvdhAwnXAEOpKJvJR2LLWP/934190912.jpeg?xgip=128%3A0%3A1021%3A1021%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1i7anebcox3zn&amp;xn_auth=no</id>
+                            <entry>
+                    <title>APAC Day of Coderetreat on Jun 13</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:44650"/>
+                                        <id>tag:coderetreat.org,2015-06-12:6456126:BlogPost:44650</id>
+                                        <updated>2015-06-12T02:31:02.000Z</updated>
+                    
+                                            <author>
+                            <name>Joseph Yao</name>
+                            <uri>http://coderetreat.org/profile/JosephYao</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;As you may know, software craftsman and coderetreat culture is much weaker in APAC (Especially in China) than US and Europe. So, I got an idea to organize a day event of coderetreat (like GDCR) to promote that culture. After I talked to other GDCR organisers in China and Asia, the idea was accepted quite well. Then, the date was set at Jun 13 (Saturday).&lt;/p&gt;
+&lt;p&gt;We now have 14 cities registered for this event and I created a map …&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;As you may know, software craftsman and coderetreat culture is much weaker in APAC (Especially in China) than US and Europe. So, I got an idea to organize a day event of coderetreat (like GDCR) to promote that culture. After I talked to other GDCR organisers in China and Asia, the idea was accepted quite well. Then, the date was set at Jun 13 (Saturday).&lt;/p&gt;
+&lt;p&gt;We now have 14 cities registered for this event and I created a map &lt;a href=&quot;https://www.google.com/maps/d/viewer?mid=zFRRheM6-9AQ.k8wlhsC1wCNY&amp;amp;usp=sharing&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;P.S. The intension is to have a light way regional coderetreat event in APAC. So, there will be less material and activities required comparing to GDCR. E.g. there is no plan to have sponsor for the whole event, no printout, no slides, etc. Every location will organise the event on their own and we’re on the same day. And, this event is an addition to GDCR, not a replacement.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

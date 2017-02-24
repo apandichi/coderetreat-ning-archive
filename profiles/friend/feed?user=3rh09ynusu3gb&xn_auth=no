@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3rh09ynusu3gb&amp;xn_auth=no"/>
+            <updated>2017-01-29T13:43:38Z</updated>
+                            <author>
+                    <name>Roy van de Water</name>
+                    <uri>http://coderetreat.org/profile/RoyvandeWater</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/uHK36Nr6kUuZ4BrON1FN2fwefclBmcBoRTFT8W4VQhf1QNXcnL2R15BKF2KblBHxCysprIRVVtHmzhEVzDxl3LWk3ek6BJYk/917596496.jpeg?xgip=0%3A0%3A498%3A498%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3rh09ynusu3gb&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Derek Neighbors</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/DerekNeighbors"/>
+                                        <id>tag:coderetreat.org,2012-11-22:6456126:User:16852</id>
+                                        <updated>2012-11-22T03:43:00.560Z</updated>
+                    
+                                            <author>
+                            <name>Roy van de Water</name>
+                            <uri>http://coderetreat.org/profile/RoyvandeWater</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/6jbm5osfwKieAmEo0iwUrY4hKsqiylPPU0b1awHMJSII8R-pfpRcQCoamQnWQOYVJffaz*4lGgnAFMiP3mVvJjX9mDJ208Hq/935209640.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Derek Neighbors&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/6jbm5osfwKieAmEo0iwUrY4hKsqiylPPU0b1awHMJSII8R-pfpRcQCoamQnWQOYVJffaz*4lGgnAFMiP3mVvJjX9mDJ208Hq/935209640.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Derek Neighbors&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

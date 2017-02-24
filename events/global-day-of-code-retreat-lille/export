@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29531
+DTSTAMP:20170129T111326Z
+SUMMARY:Global Day of Coderetreat 2013 - Lille, France
+DESCRIPTION:This is the 5th code retreat in lille !\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-code-retreat-l
+ ille
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Lille, proxiad
+WEBSITE:http://Crlille5.eventbrite.com
+URL:http://Crlille5.eventbrite.com
+CONTACT:
+ORGANIZER;CN="Jérémie HATTAT":http://coderetreat.org/profile/Jeremie
+ HATTAT
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jérémi
+ e HATTAT":http://coderetreat.org/profile/JeremieHATTAT
+END:VEVENT
+END:VCALENDAR

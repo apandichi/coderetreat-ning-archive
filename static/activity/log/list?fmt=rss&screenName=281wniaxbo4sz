@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Milan Lempera&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MilanLempera</link>
+        <pubDate>Sun, 29 Jan 2017 11:30:41 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:30:41 +0000</lastBuildDate>
+        <image>
+            <title>Milan Lempera&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MilanLempera</link>
+            <url>http://api.ning.com:80/files/qSAS7eZtx6Bh8L2aNnP4XVXDFIGskrEIVbOssVxMUj4mC2FtDkdIQYOm0Uo4g1q3Mm6I7wwdiN-E3lk4KYuY99wDGRxsT-lU/1134418070.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011c712b5ed7f17986c804b13</guid>
+               <title>Milan Lempera posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54808?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MilanLempera?xg_source=activity">Milan Lempera</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54808?xg_source=activity">Global Day of Coderetreat 2016 - Jihlava, Czech Republic</a> at Vysok&aacute; &scaron;kola polytechnick&aacute; Jihlava</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 6pm</div><div class="rich-excerpt">Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustředit na zlepšování svých dovedností. Procvičováním základních principů modulárního a objektově-orientovaného návrhu mohou účastníci zlepšit své schopnosti psát kód, který minimalizuje náročnost implementace dalších změn.Na akci se prosím registrujte na <a href="https://www.meetup.com/gdgjihlava/events/233949957/">https://www.meetup.com/gdgjihlava/events/233949957/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54808?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 07 Sep 2016 20:48:21 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011c712b5bf1ca0b89c6eec47</guid>
+               <title>Milan Lempera posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:45981?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MilanLempera?xg_source=activity">Milan Lempera</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:45981?xg_source=activity">Global Day of Coderetreat 2015 - Jihlava, Czech Republic</a> at Vysok&aacute; &scaron;kola polytechnick&aacute; Jihlava</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 6pm</div><div class="rich-excerpt">registraci na akci najdete na <a href="http://www.eventbrite.com/e/global-day-of-coderetreat-2015-jihlava-czech-republic-tickets-18570159848" target="_blank">http://www.eventbrite.com/e/global-day-of-coderetreat-2015-jihlava-czech-republic-tickets-18570159848</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:45981?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 11 Sep 2015 12:54:53 +0000</pubDate>
+               </item>    </channel>
+</rss>

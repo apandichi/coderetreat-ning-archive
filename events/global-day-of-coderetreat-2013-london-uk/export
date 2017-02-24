@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30577
+DTSTAMP:20170129T115812Z
+SUMMARY:Global Day of Coderetreat 2013 - London, UK
+DESCRIPTION:The London Software Craftsmanship Community is hosting fiv
+ e (yes, you heard that right) code retreats across London. Please head
+  over to our site on Meetup to pick one (and please, only one) of our
+  code retreats and register.\nRegistration opens on Friday 29th Novemb
+ er at 12:00pm.\n\nFor more information visit http://coderetreat.org/ev
+ ents/global-day-of-coderetreat-2013-london-uk
+DTSTART:20131214T080000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:London
+WEBSITE:http://www.meetup.com/london-software-craftsmanship/
+URL:http://www.meetup.com/london-software-craftsmanship/
+CONTACT:
+ORGANIZER;CN="Samir Talwar":http://coderetreat.org/profile/SamirTalwar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Samir Ta
+ lwar":http://coderetreat.org/profile/SamirTalwar
+END:VEVENT
+END:VCALENDAR

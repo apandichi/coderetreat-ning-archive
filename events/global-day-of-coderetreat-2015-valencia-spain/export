@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47785
+DTSTAMP:20170129T121433Z
+SUMMARY:Global Day of Coderetreat 2015 - Valencia, Spain
+DESCRIPTION:Global Day of Coderetreat 2015 - Valencia, Spain\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2015-valencia-spain
+DTSTART:20151114T080000Z
+DTEND:20151114T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Geekshubs
+WEBSITE:http://www.meetup.com/es/Aprende-a-programar-en-Valencia/event
+ s/226230153/
+URL:http://www.meetup.com/es/Aprende-a-programar-en-Valencia/events/22
+ 6230153/
+CONTACT:
+ORGANIZER:Devscola, GeeksHubs and FlyWire
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Emma:http
+ ://coderetreat.org/profile/Emma
+END:VEVENT
+END:VCALENDAR

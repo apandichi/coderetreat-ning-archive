@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Schuszter Tamás&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SchuszterTamas</link>
+        <pubDate>Sun, 29 Jan 2017 14:01:26 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:01:26 +0000</lastBuildDate>
+        <image>
+            <title>Schuszter Tamás&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SchuszterTamas</link>
+            <url>http://api.ning.com:80/files/rnXnbo8QfWs0szQrRI3YSPZg0DBhZpQQeDHwx0YFUhotdjTSzw*UZYSbPsHHa*RsyC6cH6ccFoPUhicOrODun*UD2NPpmOII/1242244317.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012bb08862bd553b309b2f9bd</guid>
+               <title>Eszter Reimann left a comment for Schuszter Tamás</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:56495?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/EszterReimann?xg_source=activity">Eszter Reimann</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:56495?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/SchuszterTamas?xg_source=activity">Schuszter Tam&aacute;s</a></span><br/>]]></description>
+               <pubDate>Tue, 18 Oct 2016 09:48:23 +0000</pubDate>
+               </item>    </channel>
+</rss>

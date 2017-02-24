@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50166
+DTSTAMP:20170129T121610Z
+SUMMARY:Global Day of Coderetreat 2015 - Wellington, New Zealand
+DESCRIPTION:We're very happy to invite everyone interested in improvin
+ g their software craftsmanship skills to Auckland edition of Global Co
+ de Retreat 2015.You can register here: http://www.meetup.com/kiwi-cod
+ e-retreat/events/226493069/\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2015-wellington-new-zealan
+ d
+DTSTART:20151114T083000Z
+DTEND:20151114T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Xero
+WEBSITE:http://goo.gl/ohyclh
+URL:http://goo.gl/ohyclh
+CONTACT:
+ORGANIZER;CN="Mark Clearwater":http://coderetreat.org/profile/MarkClea
+ rwater
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark Cle
+ arwater":http://coderetreat.org/profile/MarkClearwater
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:22129
+DTSTAMP:20170129T103954Z
+SUMMARY:Coderetreat Belgium
+DESCRIPTION:Based on all the feedback we got from our previous partici
+ pants on the inquiry about the coderetreat we decided to run the first
+  experiment during the next coderetreat on 20 April.\nWe have changed 
+ the problem/algorithm. We will no longer tackle Conway's game of life,
+  for this edition we will use the popular poker game to practice with 
+ and experiment on. We are also looking into other coding katas for the
+  next sessions.\nWe are also proud to announce that Adi will be co-fac
+ ilitating this one again. And there will be some changes in how the fa
+ cilitation is done, come over and experience it first hand.\nhttp://co
+ -learning.be/Coderetreat/20042013\n\nFor more information visit http:/
+ /coderetreat.org/events/coderetreat-belgium-3
+DTSTART:20130420T000000Z
+DTEND:20130420T235900Z
+CATEGORIES:coderetreat
+LOCATION:Info support - Mechelen
+WEBSITE:http://www.infosupport.com/
+URL:http://www.infosupport.com/
+CONTACT:
+ORGANIZER:Erik Talboom & Adi Bolboaca
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

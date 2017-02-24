@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Marco Beri&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MarcoBeri</link>
+        <pubDate>Sun, 29 Jan 2017 14:03:33 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:03:33 +0000</lastBuildDate>
+        <image>
+            <title>Marco Beri&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MarcoBeri</link>
+            <url>http://api.ning.com:80/files/dV2ycRsRK-nqTANW7Xhj0Ov5hPy*sdtD3LgKQ6HxI0TDaxY9kiPxCKrJLmukostE*58H*ZIxL8d9nJgRCt6MNfYFqmZNP5sh/679790673.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b5dd09ce2cdf03ad8179d1e</guid>
+               <title>Marco Beri is attending Gabriele Lana&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:12001?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarcoBeri?xg_source=activity">Marco Beri</a> is attending <a href="http://coderetreat.org/profile/GabrieleLana?xg_source=activity">Gabriele Lana's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:12001?xg_source=activity">Global Day of Coderetreat - Milan, Italy</a> at FractalGarden</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 9:30am to 5:30pm</div><div class="rich-excerpt">Following the last year success, we are happy to announce that Milano is going to host the Global Day of Code Retreat 2012, this is going to be fun, if you are in the area, don't miss it!<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:12001?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 27 Sep 2012 13:36:33 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5dd09c11dafbc335d8a4ff</guid>
+               <title>Marco Beri updated their profile</title>
+               <link>http://coderetreat.org/profile/MarcoBeri?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarcoBeri?xg_source=activity">Marco Beri</a> updated their <a href="http://coderetreat.org/profile/MarcoBeri?xg_source=activity">profile</a></span><br/>]]></description>
+               <pubDate>Thu, 27 Sep 2012 13:33:48 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5dd09ceb4ae4699f73e0cf</guid>
+               <title>Marco Beri is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/MarcoBeri?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarcoBeri?xg_source=activity">Marco Beri</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Thu, 27 Sep 2012 13:33:24 +0000</pubDate>
+               </item>    </channel>
+</rss>

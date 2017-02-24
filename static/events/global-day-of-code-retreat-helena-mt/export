@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28182
+DTSTAMP:20170129T115328Z
+SUMMARY:Global Day of Coderetreat 2013 - Helena, MT, USA
+DESCRIPTION:Helena, MT is participating in the Global Day of Coderetr
+ eat 2013!\nCoderetreat is a day-long, intensive practice event focuse
+ d on the fundamentals of software development and design.The unique co
+ deretreat format (which eliminates the pressure of 'getting things don
+ e' and focuses on practicing basic principles of good design) has prov
+ en to be a highly effective (and fun) means of skill improvement.  On 
+ December 14th, Coderetreats will be held at cities all over the world.
+  To celebrate this significant event, we'll be participating in some g
+ lobal activities in addition to our normal Coderetreat activities.\nYo
+ u only need to bring a laptop with the development tools you require t
+ o write code using your chosen programming languages. \nCheck out co
+ deretreat.org for further details on what to expect.\n\nRegister: htt
+ p://www.meetup.com/Montana-Programmers/events/143208412/\n\nFor more i
+ nformation visit http://coderetreat.org/events/global-day-of-code-retr
+ eat-helena-mt
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Helena, MT
+WEBSITE:https://theshophelena.com/
+URL:https://theshophelena.com/
+CONTACT:518-669-8992
+ORGANIZER;CN="Grant Austin":http://coderetreat.org/profile/GrantAustin
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Grant Au
+ stin":http://coderetreat.org/profile/GrantAustin
+END:VEVENT
+END:VCALENDAR

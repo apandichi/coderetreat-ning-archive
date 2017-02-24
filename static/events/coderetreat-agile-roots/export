@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9305
+DTSTAMP:20170129T104211Z
+SUMMARY:Coderetreat Agile Roots
+DESCRIPTION:This is a coderetreat associated right after the Agile Roo
+ ts conference. More details coming soon.\n\nFor more information visit
+  http://coderetreat.org/events/coderetreat-agile-roots
+DTSTART:20120623T083000Z
+DTEND:20120623T173000Z
+CATEGORIES:coderetreat
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="corey haines":http://coderetreat.org/profile/128952ghvkc
+ vj
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nels Bec
+ kstrand":http://coderetreat.org/profile/NelsBeckstrand
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Beckie S
+ antos":http://coderetreat.org/profile/BeckieSantos
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kay Joha
+ nsen":http://coderetreat.org/profile/KayJohansen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="corey ha
+ ines":http://coderetreat.org/profile/128952ghvkcvj
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Craig R
+ ushton":http://coderetreat.org/profile/CraigRushton
+END:VEVENT
+END:VCALENDAR

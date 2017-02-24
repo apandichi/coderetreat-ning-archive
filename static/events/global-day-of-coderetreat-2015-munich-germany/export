@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47211
+DTSTAMP:20170129T121548Z
+SUMMARY:Global Day of Coderetreat 2015 - Munich, Germany
+DESCRIPTION:We organize the eventÂ here.\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-2015-munich-g
+ ermany
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:codecentric AG Office
+WEBSITE:https://www.google.de/maps/place/codecentric+AG/@48.1368582,11
+ .5238625,15z/data=!4m2!3m1!1s0x0:0xcc03a6ec851e82a7
+URL:https://www.google.de/maps/place/codecentric+AG/@48.1368582,11.523
+ 8625,15z/data=!4m2!3m1!1s0x0:0xcc03a6ec851e82a7
+CONTACT:++4915114771836
+ORGANIZER;CN="David VÃ¶lkel":http://coderetreat.org/profile/DavidVoelk
+ el
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/SryUG9vl6-08-
+ g3xmVTUrUwRKZQgqziiF7uj0DAmJBYB52CPteMNA2MVswBOJu8aKz53ZWULEODYIsL87C9
+ zVHbwg3el8J*Z/munich.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David VÃ
+ ¶lkel":http://coderetreat.org/profile/DavidVoelkel
+END:VEVENT
+END:VCALENDAR

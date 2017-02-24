@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40040
+DTSTAMP:20170129T102753Z
+SUMMARY:Global Day of Coderetreat 2014 - Odessa, Ukraine
+DESCRIPTION:Its a Code Retreat in Odessa!\nPlease register:\nhttps://w
+ ww.eventbrite.com/e/global-day-of-coderetreat-2014-odessa-ukraine-tick
+ ets-13831346931\n\nFor more information visit http://coderetreat.org/e
+ vents/global-day-of-coderetreat-2014-odessa-ukraine
+DTSTART:20141115T110000Z
+DTEND:20141115T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Odessa, Ukraine
+WEBSITE:http://bit.ly/1wqWwqL
+URL:http://bit.ly/1wqWwqL
+CONTACT:+380630733086
+ORGANIZER;CN="Dmytro Mindra":http://coderetreat.org/profile/DmytroMind
+ ra
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dmytro M
+ indra":http://coderetreat.org/profile/DmytroMindra
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2s7bbngj95chn&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:25:16Z</updated>
+                            <author>
+                    <name>Sergey Sergyenko</name>
+                    <uri>http://coderetreat.org/profile/SergeySergyenko</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/3FLLVGZOVWJS5RdwV5of53ZKfpvtdX1rL1B-sS32GLM4ISKQWc4LI0jTMjm1zkqJskQLE3avSSlAc5FeVdr8LC8q1etFH0SM/1143354498.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2s7bbngj95chn&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Vadim Golub</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/VadimGolub"/>
+                                        <id>tag:coderetreat.org,2015-09-25:6456126:User:46157</id>
+                                        <updated>2015-09-25T07:54:34.167Z</updated>
+                    
+                                            <author>
+                            <name>Sergey Sergyenko</name>
+                            <uri>http://coderetreat.org/profile/SergeySergyenko</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/vJSFiOyZSXUr8diInO-u-r0bzmz2v09-cjg3-IgO5NBW61M8TaIhyNJU4c2XyqlUYtl1Q6cPAiAIJX87T2Ww3YIzmLL9tXBU/1143727993.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Vadim Golub&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/vJSFiOyZSXUr8diInO-u-r0bzmz2v09-cjg3-IgO5NBW61M8TaIhyNJU4c2XyqlUYtl1Q6cPAiAIJX87T2Ww3YIzmLL9tXBU/1143727993.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Vadim Golub&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

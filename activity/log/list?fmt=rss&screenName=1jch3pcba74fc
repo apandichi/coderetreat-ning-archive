@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Justin Love&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JustinLove</link>
+        <pubDate>Sun, 29 Jan 2017 09:48:24 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:48:24 +0000</lastBuildDate>
+        <image>
+            <title>Justin Love&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JustinLove</link>
+            <url>http://api.ning.com:80/files/okGNM-sEylw4ndAuoCywSBAeNYDBlH7stnYg1xxbmxUiFr1eSwglIS*yPOMWFdNkDdRXMEoxywWBQPg*wR-LRVO1bQnbAuf8/1008866578.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000c3d1ad81b3a6ca5c0b9c74f</guid>
+               <title>Justin Love posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:20590?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JustinLove?xg_source=activity">Justin Love</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:20590?xg_source=activity">Code Retreat Elgin</a> at Elgin Technology Center</h3><div class="rich-detail"><div class="rich-date">March 2, 2013 from 9am to 5pm</div><div class="rich-excerpt">Join us for one of the Elgin Technology Center's regular Saturday hackathons.Note: while the event is free, lunch is not provided.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:20590?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 20 Feb 2013 20:56:47 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000c3d1ad8070b69225c053c3c</guid>
+               <title>Justin Love added a discussion to the group Organizers/Hosts</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:20570?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JustinLove?xg_source=activity">Justin Love</a> added a discussion to the group <a href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity">Organizers/Hosts</a></span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Group:801?xg_source=activity" ><img src="http://api.ning.com/files/7uH9-Cl0KpQdomnxYhydiaUG3pnz60-2Iqsij1QBtTPy5UQPglfaawIcNQFmNNYCasz95-iLFAVkNzP76U8jtNh49jh5onjp/engineermd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:20570?xg_source=activity">How strict is &quot;free&quot; ?</a></h3><div class="rich-detail"><div class="rich-excerpt">I'd like to run a Code Retreat for one of the regular hack days at a suburban tech center.  However, there aren't a whole lot of big tech companies nearby.  Would it be okay if the event was free, but we split lunch, or just want out to a restaurant?<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:20570?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 11 Feb 2013 19:23:00 +0000</pubDate>
+               </item>    </channel>
+</rss>

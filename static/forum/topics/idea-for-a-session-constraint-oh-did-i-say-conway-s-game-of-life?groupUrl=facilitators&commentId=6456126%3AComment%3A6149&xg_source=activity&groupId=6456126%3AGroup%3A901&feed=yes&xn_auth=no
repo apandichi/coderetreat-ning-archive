@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Idea for a session constraint -&gt; Oh did I say Conway&#039;s Game of Life, I meant Brian&#039;s Brain, or Evil Facilitator - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/idea-for-a-session-constraint-oh-did-i-say-conway-s-game-of-life?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A6149&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:40:53Z</updated>
+                        <id>http://coderetreat.org/forum/topics/idea-for-a-session-constraint-oh-did-i-say-conway-s-game-of-life?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A6149&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>The change of requirements th…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:6149"/>
+                                        <id>tag:coderetreat.org,2011-12-12:6456126:Comment:6149</id>
+                                        <updated>2011-12-12T18:50:03.563Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;The change of requirements that I use are dependent on the group. In the morning (when I usually do this), the group is still working through understanding the idea of encapsulation regarding the topology. Bringing in a change in the world (dimensions, bounding) is apt.&lt;/p&gt;
+&lt;p&gt;I also have brought up changes in the states with some groups, usually in the afternoon. So, perhaps a cell has a certain amount of energy that ticks away as long as it is alive, eventually dying when it hits zero. Or,…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;The change of requirements that I use are dependent on the group. In the morning (when I usually do this), the group is still working through understanding the idea of encapsulation regarding the topology. Bringing in a change in the world (dimensions, bounding) is apt.&lt;/p&gt;
+&lt;p&gt;I also have brought up changes in the states with some groups, usually in the afternoon. So, perhaps a cell has a certain amount of energy that ticks away as long as it is alive, eventually dying when it hits zero. Or, perhaps there is a new state: Zombie!&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;cite&gt;Steven Proctor said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/idea-for-a-session-constraint-oh-did-i-say-conway-s-game-of-life?groupUrl=facilitators&amp;amp;#6456126Comment4481&quot;&gt;&lt;div&gt;&lt;p&gt;Yeah, I remember you walking by us, and some others, with something like that at the Code Retreat after this past SCNA, and I think even the one after SCNA a year ago.  That is what made me think of this with the Brian&#039;s Brain.  Where it is now not the grid dimensions, but the states that are changing, along with the rules for the transition between the states.&lt;/p&gt;
+&lt;p&gt;I was thinking that this would help to show how to remove the primitive obsession around the boolean of dead and alive, as it gets tricky to show three states with a single boolean.  But if you had a CellState base type for AliveState and DeadState, it would likely be straight forward to introduce a third. &lt;/p&gt;
+&lt;p&gt;--Proctor&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;cite&gt;corey haines said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/idea-for-a-session-constraint-oh-did-i-say-conway-s-game-of-life?groupUrl=facilitators&amp;amp;#6456126Comment4478&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;Hi, Stephen,&lt;/p&gt;
+&lt;p&gt;Glad to hear you got a chance to facilitate.&lt;/p&gt;
+&lt;p&gt;I often will stop the group with 5 minutes to spare and tell them that I made a mistake, it is actually a 3d grid, bounded on one side. I&#039;ll then ask them to spend the 5 minutes discussing their design and how much it would cost to change to the new requirement. I emphasize that it isn&#039;t about supporting both, but rather moving to the new, better understood requirements. It is a great thing to do if you happen to see that a lot of teams are letting the topology leak through their system.&lt;/p&gt;
+&lt;p&gt;Great insight!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Yeah, I remember you walking…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:4481"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:Comment:4481</id>
+                                        <updated>2011-12-05T04:32:29.668Z</updated>
+                    
+                                            <author>
+                            <name>Steven Proctor</name>
+                            <uri>http://coderetreat.org/profile/StevenProctor</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Yeah, I remember you walking by us, and some others, with something like that at the Code Retreat after this past SCNA, and I think even the one after SCNA a year ago.  That is what made me think of this with the Brian&#039;s Brain.  Where it is now not the grid dimensions, but the states that are changing, along with the rules for the transition between the states.&lt;/p&gt;
+&lt;p&gt;I was thinking that this would help to show how to remove the primitive obsession around the boolean of dead and alive, as it…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Yeah, I remember you walking by us, and some others, with something like that at the Code Retreat after this past SCNA, and I think even the one after SCNA a year ago.  That is what made me think of this with the Brian&#039;s Brain.  Where it is now not the grid dimensions, but the states that are changing, along with the rules for the transition between the states.&lt;/p&gt;
+&lt;p&gt;I was thinking that this would help to show how to remove the primitive obsession around the boolean of dead and alive, as it gets tricky to show three states with a single boolean.  But if you had a CellState base type for AliveState and DeadState, it would likely be straight forward to introduce a third. &lt;/p&gt;
+&lt;p&gt;--Proctor&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;cite&gt;corey haines said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/idea-for-a-session-constraint-oh-did-i-say-conway-s-game-of-life?groupUrl=facilitators&amp;amp;#6456126Comment4478&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;Hi, Stephen,&lt;/p&gt;
+&lt;p&gt;Glad to hear you got a chance to facilitate.&lt;/p&gt;
+&lt;p&gt;I often will stop the group with 5 minutes to spare and tell them that I made a mistake, it is actually a 3d grid, bounded on one side. I&#039;ll then ask them to spend the 5 minutes discussing their design and how much it would cost to change to the new requirement. I emphasize that it isn&#039;t about supporting both, but rather moving to the new, better understood requirements. It is a great thing to do if you happen to see that a lot of teams are letting the topology leak through their system.&lt;/p&gt;
+&lt;p&gt;Great insight!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi, Stephen,
+Glad to hear you…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:4478"/>
+                                        <id>tag:coderetreat.org,2011-12-05:6456126:Comment:4478</id>
+                                        <updated>2011-12-05T04:20:23.568Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi, Stephen,&lt;/p&gt;
+&lt;p&gt;Glad to hear you got a chance to facilitate.&lt;/p&gt;
+&lt;p&gt;I often will stop the group with 5 minutes to spare and tell them that I made a mistake, it is actually a 3d grid, bounded on one side. I&#039;ll then ask them to spend the 5 minutes discussing their design and how much it would cost to change to the new requirement. I emphasize that it isn&#039;t about supporting both, but rather moving to the new, better understood requirements. It is a great thing to do if you happen to see…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi, Stephen,&lt;/p&gt;
+&lt;p&gt;Glad to hear you got a chance to facilitate.&lt;/p&gt;
+&lt;p&gt;I often will stop the group with 5 minutes to spare and tell them that I made a mistake, it is actually a 3d grid, bounded on one side. I&#039;ll then ask them to spend the 5 minutes discussing their design and how much it would cost to change to the new requirement. I emphasize that it isn&#039;t about supporting both, but rather moving to the new, better understood requirements. It is a great thing to do if you happen to see that a lot of teams are letting the topology leak through their system.&lt;/p&gt;
+&lt;p&gt;Great insight!&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

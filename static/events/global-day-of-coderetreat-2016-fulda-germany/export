@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53825
+DTSTAMP:20170129T105308Z
+SUMMARY:Global Day of Coderetreat 2016 - Fulda, Germany
+DESCRIPTION:Die OPITZ CONSULTING GmbH lädt in Kooperation mit Hochsch
+ ule Fulda und dem MINTmach Club e.V.  alle interessierten Softwareent
+ wickler/innen aus der Region zum »Global Day of Coderetreat« am 22. 
+ Oktober 2016 ein.  Studenten sind ebenso wie berufstätige Softwareent
+ wickler herzlich eingeladen, ihre Erfahrungen auszutauschen und ihr Pr
+ ogrammierhandwerk aufzubessern. Die Teilnehmerzahl ist begrenzt auf 20
+  Personen. Die Teilnahme ist kostenlos – für einen Snack wird gesor
+ gt.\n\nas Mitbringen eines Notebooks inkl. eingerichteter Entwicklungs
+ umgebung für die gewählte Programmiersprache wird empfohlen. Für Ja
+ va-Entwickler stehen eingerichtete Laborrechner bereit.\n\nAnmeldung v
+ ia Doodle\n\nFor more information visit http://coderetreat.org/events/
+ global-day-of-coderetreat-2016-fulda-germany
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:University of applied Sciences Fulda
+WEBSITE:https://www.hs-fulda.de/
+URL:https://www.hs-fulda.de/
+CONTACT:+49 173 72 79 013
+ORGANIZER;CN="tpd opitz-consulting":http://coderetreat.org/profile/tpd
+ opitzconsulting
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/vhACU8JlJgTYm
+ VwBXlvDGkCkAGjNny4QbdToiHpnik0K*34qbv3TANOL7Sg4F608wrkaSQKfNEp-*e9AGqF
+ JkPT4h2xfbkRq/hsfulda.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Anil Pho
+ enix Manzoor":http://coderetreat.org/profile/AnilPhoenixManzoor
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="tpd opit
+ z-consulting":http://coderetreat.org/profile/tpdopitzconsulting
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Martine
+  Herpers":http://coderetreat.org/profile/MarHer
+END:VEVENT
+END:VCALENDAR

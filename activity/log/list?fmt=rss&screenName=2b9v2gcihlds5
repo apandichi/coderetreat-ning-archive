@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jakub Fojtl&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/JakubFojtl</link>
+        <pubDate>Sun, 29 Jan 2017 12:07:04 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:07:04 +0000</lastBuildDate>
+        <image>
+            <title>Jakub Fojtl&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/JakubFojtl</link>
+            <url>http://api.ning.com:80/files/TQDVHBx0tuUUPDsOks9ctgaX2S0bLD54PpULDAvwgW8yPRm5DgLGfJhmfI2MzUY7UIesZ2nYf9IeiCpeRlnSNxqvKX6jXCFx/1083289431.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000010e7bc6f551808ae6f7e25d5</guid>
+               <title>Jakub Fojtl posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46991?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JakubFojtl?xg_source=activity">Jakub Fojtl</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:46991?xg_source=activity" ><img src="http://api.ning.com/files/A3IzgjbOqn2XseZHPa0zGWaT4pjCQioyRWz5LEAb7CuCHxVui-vTu3kDGUtIo*UN1Bt6SVtJ1c1m9pT5VIxs93k4JOYoaf3o/coderetreat_big.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46991?xg_source=activity">Global Day of Coderetreat 2015 - Brno, Czech Republic</a> at Brno</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 all day</div><div class="rich-excerpt">Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustředit na zlepšování svých dovedností. Procvičováním základních principů modulárního a objektově-orientovaného návrhu mohou účastníci zlepšit své schopnosti psát kód, který minimalizuje náročnost implementace dalších změn.Registrace na <a href="http://coderetreat.cz/2015/11/14/global-day-brno.html" target="_blank">http://coderetreat.cz/2015/11/14/global-day-brno.html</a>.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46991?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 08 Oct 2015 21:29:44 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000010e7bc6f511076d0009be897</guid>
+               <title>Jakub Fojtl posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:40100?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/JakubFojtl?xg_source=activity">Jakub Fojtl</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:40100?xg_source=activity">Global day of Code Retreat 2014 - Brno</a> at Y Soft</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 8am to 6pm</div><div class="rich-excerpt">Sign-up here: <a href="http://srazy.info/coderetreat/4899" target="_blank">http://srazy.info/coderetreat/4899</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:40100?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 26 Oct 2014 23:24:22 +0000</pubDate>
+               </item>    </channel>
+</rss>

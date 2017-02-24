@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Isaac Sanders&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0vhzie2655pbo&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:13:55Z</updated>
+                            <author>
+                    <name>Isaac Sanders</name>
+                    <uri>http://coderetreat.org/profile/IsaacSanders</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/zADXvfJfiQ*JzsVVZvcpnvkt*Joykd4LVP966KzETa2dQ6qlNel6DlZrK3ZfTZhsk-mV-FhdCMcxq6Vvbjh5-vHSdz8clf8-/492969864.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0vhzie2655pbo&amp;xn_auth=no</id>
+                            <entry>
+                    <title>CodeRetreat with Corey Haines</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:7534"/>
+                                        <id>tag:coderetreat.org,2012-01-17:6456126:BlogPost:7534</id>
+                                        <updated>2012-01-17T16:30:00.000Z</updated>
+                    
+                                            <author>
+                            <name>Isaac Sanders</name>
+                            <uri>http://coderetreat.org/profile/IsaacSanders</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;CodeRetreat with Corey Haines v2012&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt; &lt;i&gt;by Isaac Sanders&lt;/i&gt;&lt;/p&gt;
+&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
+&lt;p&gt;CodeRetreat rocks, and the Law of Demeter makes sense to me now (it means you don’t reach into other objects).&lt;/p&gt;
+&lt;p&gt;Also, attend any CodeRetreat you can, especially if Corey is facilitating.&lt;/p&gt;
+&lt;p&gt;For those of you who don’t know what CodeRetreat is visit &lt;a href=&quot;http://coderetreat.org/&quot;&gt;coderetreat.org…&lt;/a&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;CodeRetreat with Corey Haines v2012&lt;/h1&gt;
+&lt;p&gt;&lt;br/&gt; &lt;i&gt;by Isaac Sanders&lt;/i&gt;&lt;/p&gt;
+&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
+&lt;p&gt;CodeRetreat rocks, and the Law of Demeter makes sense to me now (it means you don’t reach into other objects).&lt;/p&gt;
+&lt;p&gt;Also, attend any CodeRetreat you can, especially if Corey is facilitating.&lt;/p&gt;
+&lt;p&gt;For those of you who don’t know what CodeRetreat is visit &lt;a href=&quot;http://coderetreat.org/&quot;&gt;coderetreat.org&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;its_6am_we_got_a_full_tank_of_gas_and_140_miles_hit_it&quot;&gt;It’s 6am, we got a full tank of gas and ~140 miles. Hit it.&lt;/h2&gt;
+&lt;p&gt;I would like to give a special thanks to Greg Malcolm for helping me to get home from CodeMash then to and from CodeRetreat. Greg is an awesome person to spend time with and I know that the Dev community will continue to be great with people like him in it.&lt;/p&gt;
+&lt;h2 id=&quot;session_1_ed&quot;&gt;Session 1 (Ed)&lt;/h2&gt;
+&lt;p&gt;The first session I paired with Ed. Ed normally does .NET and C#, and I normally do Ruby, but we were able to work well together in JavaScript using &lt;a href=&quot;http://tryjasmine.com&quot;&gt;tryjasmine.com&lt;/a&gt;. While we deleted the code (and tests) half way through to start again, we still had a great time and it gave a great start to the day.&lt;/p&gt;
+&lt;h2 id=&quot;session_2_jon&quot;&gt;Session 2 (Jon)&lt;/h2&gt;
+&lt;p&gt;My second pair, Jon, is a Rubyist from Pittsburgh, who works with a startup. Pairing with him was fun, and we took an interesting route. We chose to work on the grid, something that I have always avoided, as it seems to be one of the harder problems. However, once we got started, it seemed to be going well.&lt;/p&gt;
+&lt;h2 id=&quot;session_3_zack&quot;&gt;Session 3 (Zack)&lt;/h2&gt;
+&lt;p&gt;After Lunch, Corey challenged us to have a silent pairing session. Zack and I have debated whether or not this could work, so I decided to pair with him. I was really surprised at how easily we worked in silence. I hope to do more silent pairing with him over the next few months.&lt;/p&gt;
+&lt;h2 id=&quot;session_4_steve&quot;&gt;Session 4 (Steve)&lt;/h2&gt;
+&lt;p&gt;During the fourth session, I had the opportunity to pair with Steve. I couldn’t believe the things I learned in pairing with him. I learned more about ducktyping and polymorphism. He explained the Law of Demeter in a way that I understood. He is an excellent pair, and I will be taking this experience with me as I continue on my path.&lt;/p&gt;
+&lt;h2 id=&quot;session_5_josh&quot;&gt;Session 5 (Josh)&lt;/h2&gt;
+&lt;p&gt;In our final session, I paired with Josh. We chose clojure, but my grasp of Functional Programming is still weak. I seemed to be grasping for an Object-Oriented approach as much as I could, and I knew it was making it harder to pair. I hope to work on my understanding and will enjoy pairing with Josh in the future.&lt;/p&gt;
+&lt;h2 id=&quot;closing&quot;&gt;Closing&lt;/h2&gt;
+&lt;p&gt;I had a great time at CodeRetreat. I will be looking forward to my next opportunity to go to a CodeRetreat with excitement.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

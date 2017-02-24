@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15268
+DTSTAMP:20170129T095956Z
+SUMMARY:Facilitator Training
+DESCRIPTION:Join us to learn about how to facilitate a Coderetreat!\nN
+ OTE: All times are listed in UTC\nThis event was created for first-tim
+ e facilitators who will be facilitating a Coderetreat as part of the G
+ lobal Day of Coderetreat, but anyone interested in learning to facilit
+ ate is welcome. This training will be lead by coderetreat extraordina
+ ire Adi Bolboaca.\nTo attend the training:\n\nRSVP to this event. Note
+ : You will need to log into or sign-up in order to RSVP.\nSend Jim Hur
+ ne your Google Account email address (if it is different from the ema
+ il address you use with coderetreat.org). Jim will give you access to 
+ the Google Hangout.\nIf you have never used Google Hangout before, try
+  joining the hangout ahead of time to work through any technical issue
+ s you may encounter. See this help page if you run into technical iss
+ ues with the Hangout.\nJoin the hangout at the scheduled time for the
+  training.\n\n\nFor more information visit http://coderetreat.org/even
+ ts/gdcr12-facilitator-training-05
+DTSTART:20121108T170000Z
+DTEND:20121108T190000Z
+CATEGORIES:training
+LOCATION:Google Hangout
+WEBSITE:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNm
+ oxYW92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.i0osqs4u7k6ejkl5m
+ uuh8gp9no
+URL:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNmoxYW
+ 92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.i0osqs4u7k6ejkl5muuh8
+ gp9no
+CONTACT:
+ORGANIZER:Adi Bolboaca
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/*8D9740yuLVtl
+ i7PkCBvwXk*rvKB7UH5uuAmTZLNpL90oSV598Phqs4TyIT3XSaFgKK4OzqfVkQEb7L2Gyt
+ -0vzx9Zct2tzF/clipboardwhistlemd.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kyle Boo
+ n":http://coderetreat.org/profile/KyleBoon
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Elías M
+ atheus":http://coderetreat.org/profile/EliasMatheus
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

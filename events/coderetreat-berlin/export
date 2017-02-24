@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:34891
+DTSTAMP:20170129T114336Z
+SUMMARY:Coderetreat Berlin
+DESCRIPTION:pls register via http://www.eventbrite.de/e/coderetreat-he
+ re-registration-11359274897\n\nFor more information visit http://coder
+ etreat.org/events/coderetreat-berlin
+DTSTART:20140517T083000Z
+DTEND:20140517T170000Z
+CATEGORIES:coderetreat
+LOCATION:HERE
+WEBSITE:http://www.eventbrite.de/e/coderetreat-here-registration-11359
+ 274897
+URL:http://www.eventbrite.de/e/coderetreat-here-registration-113592748
+ 97
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/mza-*42r4qiXU
+ v1OkHG*St4sGsLou3kf3n2nJUV2cmb7YoxTT19naa46NCzS7wtUNgvDN-MgdRvBKM5wo1u
+ DJCRF9MRW*4IQ/crberlinklein.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

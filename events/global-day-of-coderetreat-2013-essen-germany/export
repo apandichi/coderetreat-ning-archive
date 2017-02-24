@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27368
+DTSTAMP:20170129T115230Z
+SUMMARY:Global Day of Coderetreat 2013 - Essen, Germany
+DESCRIPTION:OPITZ CONSULTING Deutschland GmbH is hosting the Global D
+ ay of Code Retreat 2013 in Essen this year.\n // German //\nEin \"Cod
+ eretreat\" ist eine ganztägige Veranstaltung zum Üben und Verbessern
+  der Fähigkeiten zur Software-Entwicklung und des Software-Designs. I
+ n entspannter Atmosphäre und ohne den Druck \"fertig\" werden zu müs
+ sen, können sich Entwickler vollständig auf das Programmieren selbst
+  konzentrieren, Erkenntnisse gewinnen und Erfahrungen mit anderen Teil
+ nehmern austauschen.  Am Global Day of Coderetreat finden in vielen 
+ Städten auf der ganzen Welt Coderetreats statt - so auch dieses Jahr 
+ in Essen. Der Veranstaltungsort ist der Standort der OPITZ CONSULTING
+  Deutschland GmbH.  Voraussetzung für die Teilnahme ist ein funktions
+ fähiges Notebook, auf dem alle Entwicklungstools eingerichtet sind, d
+ ie Sie für das Entwickeln in Ihrer Lieblingsprogrammiersprache benöt
+ igen.\nAnmeldung: https://www.xing.com/events/global-day-of-coderetre
+ at-2013-essen-germany-1321744\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2013-essen-germany
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Essen
+WEBSITE:https://www.google.de/maps/preview#!q=Altendorfer+Str.+3&data=
+ !4m15!2m14!1m13!1s0x47b8c2b954e5aa85%3A0x657c070199b83fde!3m8!1m3!1d21
+ 20!2d7.00211!3d51.4589777!3m2!1i1379!2i655!4f13.1!4m2!3d51.45861!4d7.0
+ 013
+URL:https://www.google.de/maps/preview#!q=Altendorfer+Str.+3&data=!4m1
+ 5!2m14!1m13!1s0x47b8c2b954e5aa85%3A0x657c070199b83fde!3m8!1m3!1d2120!2
+ d7.00211!3d51.4589777!3m2!1i1379!2i655!4f13.1!4m2!3d51.45861!4d7.0013
+CONTACT:
+ORGANIZER:OPITZ CONSULTING Deutschland GmbH
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/WltTFfACAjcuO
+ AXLZ9LzHiw0gwrdtY74fcNZXNTLtw97MXNfE8pVfcX1BHGs8wjjCvnjyS*93Jq96eyynsp
+ oXihOtB47QOag/standorte_essen_150.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roland S
+ chneider":http://coderetreat.org/profile/RolandSchneider
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Norbert 
+ Schneider":http://coderetreat.org/profile/NorbertSchneider
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Richard 
+ Attermeyer":http://coderetreat.org/profile/RichardAttermeyer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan G
+ lase":http://coderetreat.org/profile/StefanGlase
+END:VEVENT
+END:VCALENDAR

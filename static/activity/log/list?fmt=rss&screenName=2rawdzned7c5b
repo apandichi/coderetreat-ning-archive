@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Zoltán Hadadi&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ZoltanHadadi</link>
+        <pubDate>Sun, 29 Jan 2017 13:34:46 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:34:46 +0000</lastBuildDate>
+        <image>
+            <title>Zoltán Hadadi&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ZoltanHadadi</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000009cdb192d3ad75bb2a5c8804</guid>
+               <title>Zoltán Hadadi might attend Marton Meszaros&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:1751?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ZoltanHadadi?xg_source=activity">Zolt&aacute;n Hadadi</a> might attend <a href="http://coderetreat.org/profile/MartonMeszaros?xg_source=activity">Marton Meszaros's</a> event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:1751?xg_source=activity" ><img src="http://api.ning.com/files/sfStL6iwk01Ec7t15prJcse5WPpBygjFQez0hfuJC0ndq8PIei9CqGYSVmpHx3z*hWNhw*0Je0DxZAw3uCUnz6UWncGT4nOC/budapest_chain_bridge_night1276015955.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:1751?xg_source=activity">Global Day of Coderetreat in Budapest</a> at MyCorporation</h3><div class="rich-detail"><div class="rich-date">December 3, 2011 from 8am to 5pm</div><div class="rich-excerpt">Coderetreat in BudapestShould someone be lazy to register to RSVP, please do so on the facebook event: <a href="http://www.facebook.com/events/221983461203339" target="_blank">http://www.facebook.com/events/221983461203339</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:1751?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 02 Dec 2011 19:29:48 +0000</pubDate>
+               </item>    </channel>
+</rss>

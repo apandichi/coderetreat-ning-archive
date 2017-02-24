@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56871
+DTSTAMP:20170129T093249Z
+SUMMARY:Global Day of Coderetreat 2016 - Paris, France by Ladies of Co
+ de Paris (at Arolla)
+DESCRIPTION:Venez découvrir le Jeu de la Vie lors du Global Day of 
+ Coderetreat, un évènement mondial organisé par des communautés loc
+ ales pour célébrer la passion du code !\nAu cours de cet atelier d'u
+ ne journée, vous pourrez vous frotter à un problème de programmatio
+ n simple mais fascinant avec d'autres Ladies of Code; des mentors sero
+ nt disponibles pour vous guider et vous conseiller. \nApportez votre 
+ ordinateur ! L'atelier est faisable avec le language de programmation 
+ de votre choix, et en binôme. C'est idéal pour découvrir de nouveau
+ x langages et se confronter aux façons de réfléchir des autres part
+ icipants.\nCe meetup est sponsorisé par Arolla, qui nous héberge à
+  cette occasion et nous offre le déjeuner.\nLe nombre de places est l
+ imité à cause de la taille de la salle, donc si vous avez un empêch
+ ement n'oubliez pas de vous désinscrire pour laisser la place à une 
+ autre.\n\nFor more information visit http://coderetreat.org/events/glo
+ bal-day-of-coderetreat-2016-paris-france-by-ladies-of-code
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Paris 1er
+WEBSITE:http://www.meetup.com/fr-FR/Ladies-of-Code-Paris/events/234128
+ 190/
+URL:http://www.meetup.com/fr-FR/Ladies-of-Code-Paris/events/234128190/
+CONTACT:
+ORGANIZER:@LadiesCodeParis & Arolla
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/p*3v1Fh0sStCR
+ i6R45y5zGPcKL3cOM6O8TX02yYKZbM1A0CMKq*yWlV8ALRZj3jO37XZ0Vc2aF02j4plJtf
+ w7Dh35DWR9XiY/LadiesOfCode_400x400.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Arolla:ht
+ tp://coderetreat.org/profile/Arolla
+END:VEVENT
+END:VCALENDAR

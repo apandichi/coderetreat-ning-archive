@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:30228
+DTSTAMP:20170129T115622Z
+SUMMARY:Global Day of Coderetreat 2013 - Bielsko-Biała, Poland
+DESCRIPTION:We will struggle with Conway’s Game of Life. The “ga
+ me” is a zero-player game, meaning that its evolution is determine
+ d by its initial state, requiring no further input. One interacts with
+  the Game of Life by creating an initial configuration and observing 
+ how it evolves.\n\nFor more information visit http://coderetreat.org/e
+ vents/the-global-day-of-coderetreat-2013
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Poland, University of Bielsko-Biała
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Fundacja Mikstura.IT
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eunika T
+ abak":http://coderetreat.org/profile/EunikaTabak
+END:VEVENT
+END:VCALENDAR

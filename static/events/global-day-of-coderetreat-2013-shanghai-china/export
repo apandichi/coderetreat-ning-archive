@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26160
+DTSTAMP:20170129T114954Z
+SUMMARY:Global Day of Coderetreat 2013 - Shanghai, China
+DESCRIPTION:Global Day of Coderetreat 2013 - Shanghai, China\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2013-shanghai-china
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Shanghai
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Joseph Yao":http://coderetreat.org/profile/JosephYao80
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Joseph Y
+ ao":http://coderetreat.org/profile/JosephYao80
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48353
+DTSTAMP:20170129T103700Z
+SUMMARY:Global Day Of Coderetreat 2015 - Stockholm, Sweden
+DESCRIPTION:Global Day of Coderetreat, hosted by Valtech Stockholm\nPl
+ ease signup at https://valtech.se/events/global-day-of-code-retreat/\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-stockholm
+DTSTART:20151114T084500Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Valtech Stockholm
+WEBSITE:https://valtech.se/events/global-day-of-code-retreat/
+URL:https://valtech.se/events/global-day-of-code-retreat/
+CONTACT:+46 8 56 22 33 00
+ORGANIZER;CN="Marcus Ahnve":http://coderetreat.org/profile/MarcusAhnve
+ 398
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marcus A
+ hnve":http://coderetreat.org/profile/MarcusAhnve398
+END:VEVENT
+END:VCALENDAR

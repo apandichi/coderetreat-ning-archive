@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Matt Steele&#039;s Photos</title>
+        <description>Matt Steele&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=09wqmgrhupsl4</link>
+        <pubDate>Sun, 29 Jan 2017 10:45:04 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:45:04 +0000</lastBuildDate>
+        <image>
+            <title>Matt Steele&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=09wqmgrhupsl4</link>
+            <url>http://api.ning.com:80/files/hEKH7*3UMxKPw*bOLKhk5h3UzfeA9psfLC8yB0iPe6cyjRwAgM-Q8u6mBqXbUOm1w4P0tzTJ7K9jJCsLPLt1iNczm2D92z6h/833037408.jpeg?xgip=0%3A0%3A495%3A495%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:7074</guid>             <title>DSC_0003</title>
+            <link>http://coderetreat.org/photo/dsc-0003</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/kWnMMx7j9x5sQBE3HKsPzd81J9SrCQUdg6tv62d2hhzE1KP-lUm8wFdGmoKGGr*Z0jiUN1MRHctGA65SZleHGTjUgCeB5ngs/DSC_0003.JPG?width=497&amp;amp;height=500&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/kWnMMx7j9x5sQBE3HKsPzd81J9SrCQUdg6tv62d2hhzE1KP-lUm8wFdGmoKGGr*Z0jiUN1MRHctGA65SZleHGTjUgCeB5ngs/DSC_0003.JPG?width=238&amp;height=240&quot;&gt;&lt;/a&gt;
+                
+            by Matt Steele </description>                <pubDate>Thu, 12 Jan 2012 16:10:35 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/kWnMMx7j9x5sQBE3HKsPzd81J9SrCQUdg6tv62d2hhzE1KP-lUm8wFdGmoKGGr*Z0jiUN1MRHctGA65SZleHGTjUgCeB5ngs/DSC_0003.JPG?width=497&amp;height=500" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/kWnMMx7j9x5sQBE3HKsPzd81J9SrCQUdg6tv62d2hhzE1KP-lUm8wFdGmoKGGr*Z0jiUN1MRHctGA65SZleHGTjUgCeB5ngs/DSC_0003.JPG?width=497&amp;height=500" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/kWnMMx7j9x5sQBE3HKsPzd81J9SrCQUdg6tv62d2hhzE1KP-lUm8wFdGmoKGGr*Z0jiUN1MRHctGA65SZleHGTjUgCeB5ngs/DSC_0003.JPG?width=238&amp;height=240" width="238" height="240" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Matt Steele</media:credit>
+	                        <atom:author>
+                <atom:name>Matt Steele</atom:name>
+                <atom:uri>http://coderetreat.org/profile/MattSteele</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

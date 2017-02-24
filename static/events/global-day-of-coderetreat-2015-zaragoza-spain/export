@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46441
+DTSTAMP:20170129T121154Z
+SUMMARY:Global Day of Coderetreat 2015 - Zaragoza, Spain
+DESCRIPTION:From Agile Aragon  we are happy to join the Global Day of
+  Coderetreat 2015.\n\nPlease sign up here\n\nGDCR'15 Zaragoza\n\nFor m
+ ore information visit http://coderetreat.org/events/global-day-of-code
+ retreat-2015-zaragoza-spain
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Hispalinux
+WEBSITE:https://www.google.es/maps/place/ETOPIA+-+Center+of+Art+%26+Te
+ chnology/@41.6594721,-0.9072739,15z/data=!4m2!3m1!1s0x0:0x12f8c30f1a51
+ a61f?sa=X&ved=0CIgBEPwSMA1qFQoTCJCBhpGrocgCFUNdGgodC8YKXg
+URL:https://www.google.es/maps/place/ETOPIA+-+Center+of+Art+%26+Techno
+ logy/@41.6594721,-0.9072739,15z/data=!4m2!3m1!1s0x0:0x12f8c30f1a51a61f
+ ?sa=X&ved=0CIgBEPwSMA1qFQoTCJCBhpGrocgCFUNdGgodC8YKXg
+CONTACT:
+ORGANIZER;CN="Pedro Lafuente":http://coderetreat.org/profile/PedroLafu
+ ente
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/JgWHSTt60etQc
+ x05UgBDeySAVEfVluqdtAHJsQ0VGSpI0aut8pM7UCnkaLi-WVrh46zVKY*CIb4uqu*jeHa
+ YxLsMSdonbGay/agile.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pedro La
+ fuente":http://coderetreat.org/profile/PedroLafuente
+END:VEVENT
+END:VCALENDAR

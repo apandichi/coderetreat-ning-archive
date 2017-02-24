@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47396
+DTSTAMP:20170129T124756Z
+SUMMARY:Global Day of Coderetreat 2015 - Omaha, NE, USA
+DESCRIPTION:Ready to hone your craft? Then come to Omaha's code retrea
+ t! This is a free, one-day event where like minded individuals can sha
+ re ideas, learn, and get better. Breakfast and lunch will be provided.
+  Bring a laptop if you can. All skill levels are welcome. Please RSVP 
+ on the EventBrite website:\nhttps://www.eventbrite.com/e/omaha-code-re
+ treat-2015-tickets-9432379501\nMore information can be found here.\n\
+ nFor more information visit http://coderetreat.org/events/global-day-o
+ f-code-retreat-2015-omaha-ne
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Blue Cross Blue Shield
+WEBSITE:https://goo.gl/maps/VTWe75BYGJ42
+URL:https://goo.gl/maps/VTWe75BYGJ42
+CONTACT:402-502-1390
+ORGANIZER;CN="Michael Kolakowski":http://coderetreat.org/profile/Micha
+ elKolakowski
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/qsDvI9n3ENcRC
+ uR4lZ*ssXhKiYXlDxvBDsg472ShOUlydcM1oaJyv3nOtAr8g4IY05U68w2X4xPHZXmF3Qv
+ *mlRaopbTCGuU/DowntownOmaha.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Kolakowski":http://coderetreat.org/profile/MichaelKolakowski
+END:VEVENT
+END:VCALENDAR

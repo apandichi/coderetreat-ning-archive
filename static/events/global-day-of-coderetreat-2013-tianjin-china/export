@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26539
+DTSTAMP:20170129T115039Z
+SUMMARY:Global Day of Coderetreat 2013 - Tianjin, China
+DESCRIPTION:Global Day of Coderetreat 2013 - Tianjin / China\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-2013-tianjin-china
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Tianjin
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Jacky Áî≥ÂÅ•":http://coderetreat.org/profile/Jackyshenji
+ an
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/K5EyQbUmZFAu-
+ zW3snmS2ex-ftfYW1RwGy41LKP0L4cp9gHQ2N2rYPpn0ZX5pSYPAch2OhwONkntA8qdJBJ
+ pUqrUDEWYbxCP/tj.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jacky Áî
+ ≥ÂÅ•":http://coderetreat.org/profile/Jackyshenjian
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Michał Gruca&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MichalGruca800</link>
+        <pubDate>Sun, 29 Jan 2017 09:33:43 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:33:43 +0000</lastBuildDate>
+        <image>
+            <title>Michał Gruca&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MichalGruca800</link>
+            <url>http://api.ning.com:80/files/jSNhDxbJzkhc3Af49z*bOMiOxMWSM9wTLmUt274eN68PnhuhF2wq4Ow-8487S0Jn9NLWpSZpt7jk81JWUSOzju*UpLHwAqeL/1237702604.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012b381f180f6738a107c851d</guid>
+               <title>Michał Gruca updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55321?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalGruca800?xg_source=activity">Michał Gruca</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55321?xg_source=activity">Global Day of Coderetreat 2016 - Gdansk, Poland</a> at Gdańsk, Olivia 6, 7 floor</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 10am to 6pm</div><div class="rich-excerpt">Event will happen @Epam office, who's sponsoring us this year.Registration (mandatory) through Epam event platform: events.epam.com/events/global-day-of-coderetreat-gdansk<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55321?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 18 Oct 2016 12:45:38 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012b381f1a73d6dcdd9135dc8</guid>
+               <title>Michał Gruca posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55321?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalGruca800?xg_source=activity">Michał Gruca</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55321?xg_source=activity">Global Day of Coderetreat 2016 - Gdansk, Poland</a> at Gdańsk</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 10am to 6pm</div><div class="rich-excerpt">Event will happen @Epam office, who's sponsoring us this year.Registration (mandatory) through Epam event platform: events.epam.com/events/global-day-of-coderetreat-gdansk<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55321?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 22 Sep 2016 09:29:15 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Chris Horn&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ChrisHorn</link>
+        <pubDate>Sun, 29 Jan 2017 10:34:34 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:34:34 +0000</lastBuildDate>
+        <image>
+            <title>Chris Horn&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ChrisHorn</link>
+            <url>http://api.ning.com:80/files/FIt*ZFe6wNjjl59LKFU7haPWkE6g49nf2Yv2b54*5y3YHsyUl3Qf8sD7PJ*NEn5UShhgR7k7TFKh9kLOw5OT18Ey07MXGFFx/1039639144.png?xgip=0%3A0%3A239%3A239%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fb86fc4a3b90aa20f8d2c23</guid>
+               <title>Chris Horn added a discussion to the group Facilitators</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Topic:31100?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ChrisHorn?xg_source=activity">Chris Horn</a> added a discussion to the group <a href="http://coderetreat.org/xn/detail/6456126:Group:901?xg_source=activity">Facilitators</a></span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Group:901?xg_source=activity" ><img src="http://api.ning.com/files/tXC9NVcibxBrQW7y0F8i8zLWw*tuZMoWXP10eCrY-GD-XTqQLNOECsXEssfykcwMMIkQlNYj6*SNa1G2QvZztmLMPPbNFlOu/clipboardwhistlemd.png?crop=1%3A1&amp;width=64" width="64"  alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Topic:31100?xg_source=activity">Thoughts after facilitating for the first time</a></h3><div class="rich-detail"><div class="rich-excerpt">Hi!At our most recent Rochester Ruby meeting, I facilitated a mini coderetreat.  My grand plan was to get a feel for the job before the day of #gdcr13.  Luckily for me, I had just taken Jim Hurne's excellent training and I felt like I was prepared with plans and printouts. I was not terribly surprised to discover that my initial planning was a waste of time.  During Jim's training, he was very clear that carrying some index cards and making notes while you observe is helpful.  At the meeting, we had time for 2 sessions, and I was completely blown away.  The process of observation during the session was just amazing.  It wasn't until I was looking at their code, listening to them talk things through, and then watch the little successes and failures unfold that I started to get it.  It wasn't until after everything that I understood how that makes me a better programmer.Some of the attendees were new to OO, or eschewed OO, or thought they were grand masters but didn't seem to get OO at all.  They didn't write a lot of code, and TDD was some kind of kryptonite hipster mountain they didn't want to climb.For the 2nd session, we tried basic ping-pong.  One team (out of 3) was having a really hard time.  Nothing I said about "why TDD?" helped at all, until we talked a little bit about why OO.  I really focused on just asking questions as the only way to coach.  It wasn't until I had to explain OO that I broke out of that, and I sat down with them to do it.  It seemed to help.  By the end of the session they had red -&gt; greened their first tests of the night, probably ever.  They at least acted like they were pretty happy about it too.I am really looking forward to 12/14, hopefully with more surprises!-chorn<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Topic:31100?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 04 Dec 2013 14:54:16 +0000</pubDate>
+               </item>    </channel>
+</rss>

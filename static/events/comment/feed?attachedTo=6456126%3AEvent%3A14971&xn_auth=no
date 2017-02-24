@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Facilitator Training - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A14971&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:32:38Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A14971&amp;xn_auth=no</id>
+                            <entry>
+                    <title>I am trying to start the Goog…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:15746"/>
+                                        <id>tag:coderetreat.org,2012-11-12:6456126:Comment:15746</id>
+                                        <updated>2012-11-12T19:11:58.343Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I am trying to start the Google Hangout now. If you can read this message, and if you are available please join.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I am trying to start the Google Hangout now. If you can read this message, and if you are available please join.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi all, I&#039;m really sorry but…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:15865"/>
+                                        <id>tag:coderetreat.org,2012-11-12:6456126:Comment:15865</id>
+                                        <updated>2012-11-12T18:50:05.786Z</updated>
+                    
+                                            <author>
+                            <name>Adi Bolboaca</name>
+                            <uri>http://coderetreat.org/profile/adibolb</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi all, &lt;br/&gt;&lt;br/&gt;I&#039;m really sorry but my internet connection was down and I did not have any means to let you know that I cannot attend.&lt;br/&gt;&lt;br/&gt;Maybe we can re-plan the meeting in another day.&lt;br/&gt;&lt;br/&gt;Appologies for the discomfort created!&lt;br/&gt;&lt;br/&gt;Best regards,&lt;br/&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif;&quot;&gt;Adrian Bolboaca&lt;/span&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi all, &lt;br/&gt;&lt;br/&gt;I&#039;m really sorry but my internet connection was down and I did not have any means to let you know that I cannot attend.&lt;br/&gt;&lt;br/&gt;Maybe we can re-plan the meeting in another day.&lt;br/&gt;&lt;br/&gt;Appologies for the discomfort created!&lt;br/&gt;&lt;br/&gt;Best regards,&lt;br/&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif;&quot;&gt;Adrian Bolboaca&lt;/span&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

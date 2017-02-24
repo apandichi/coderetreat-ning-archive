@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16537
+DTSTAMP:20170129T134320Z
+SUMMARY:Global Day of Coderetreat 2012 - Hangzhou / China
+DESCRIPTION:First code retreat in Hangzhou\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2012-hangzh
+ ou-china
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:code, retreat
+LOCATION:Hangzhou
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Zhou Feng-Fred":http://coderetreat.org/profile/ZhouFengF
+ red
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zhou Fen
+ g-Fred":http://coderetreat.org/profile/ZhouFengFred
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Stefan 
+ Zweig":http://coderetreat.org/profile/StefanZweig
+END:VEVENT
+END:VCALENDAR

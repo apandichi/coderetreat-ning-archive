@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55187
+DTSTAMP:20170129T112630Z
+SUMMARY:Global Day of Coderetreat 2016 - Skopje, Macedonia
+DESCRIPTION:Registration is on EventBrite.\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-coderetreat-2016-skopj
+ e-macedonia
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:HASELT
+WEBSITE:https://www.eventbrite.com/e/global-day-of-coderetreat-2016-sk
+ opje-macedonia-tickets-28188976989
+URL:https://www.eventbrite.com/e/global-day-of-coderetreat-2016-skopje
+ -macedonia-tickets-28188976989
+CONTACT:
+ORGANIZER:HASELT
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/a5kYpi8WX584Y
+ IlctyKDuR4ud0oTDXnr*z0UHn9ZOwy2QH2rJFm3qA60q65qsWjvkA9LcT8gzRKete15H*m
+ 9jtjRrsSMNkzz/HASELTcoderetreatorg.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dalibor 
+ Nasevic":http://coderetreat.org/profile/DaliborNasevic
+END:VEVENT
+END:VCALENDAR

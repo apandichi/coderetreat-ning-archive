@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=24dro220ntec8&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:45:27Z</updated>
+                            <author>
+                    <name>Marten Veldthuis</name>
+                    <uri>http://coderetreat.org/profile/MartenVeldthuis412</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/Gvt*V-*jJgCl7G5L4Q36Aa61vF0pXyC3uGNsUYmLXpO4VMQGi7*2SdvJlLZvsj0WfebWpFho8hITwuiGvDyLv3CCeWBG21Ms/850556807.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=24dro220ntec8&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Eamon Nerbonne</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/EamonNerbonne"/>
+                                        <id>tag:coderetreat.org,2013-01-14:6456126:User:20350</id>
+                                        <updated>2013-01-14T09:37:04.349Z</updated>
+                    
+                                            <author>
+                            <name>Marten Veldthuis</name>
+                            <uri>http://coderetreat.org/profile/MartenVeldthuis412</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/CqbbpjTui8EyKS11U-1v216sy94Kwr1inPtPyzku3WAtPXda7s-H3CcxRqYlQggqHgLq*czE2yw2mE9qaP1sY1fSjX5SaPxt/595847176.png?xgip=1%3A9%3A598%3A598%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Eamon Nerbonne&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/CqbbpjTui8EyKS11U-1v216sy94Kwr1inPtPyzku3WAtPXda7s-H3CcxRqYlQggqHgLq*czE2yw2mE9qaP1sY1fSjX5SaPxt/595847176.png?xgip=1%3A9%3A598%3A598%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Eamon Nerbonne&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

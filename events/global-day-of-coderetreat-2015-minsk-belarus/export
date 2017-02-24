@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46032
+DTSTAMP:20170129T121144Z
+SUMMARY:Global Day of Coderetreat 2015 - Minsk, Belarus
+DESCRIPTION:GDCR15 in Minsk, Belarus\nIf you have any questions, pleas
+ e contact: OrgCoderetreat@epam.com\nCheckout more details here:https:/
+ /events.epam.com/events/coderetreat-minsk\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-2015-minsk-b
+ elarus
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:High Tech Park, Kuprevicha st
+WEBSITE:https://events.epam.com/events/coderetreat-minsk
+URL:https://events.epam.com/events/coderetreat-minsk
+CONTACT:+375-29-5537812
+ORGANIZER;CN="Sergey Sergyenko":http://coderetreat.org/profile/SergeyS
+ ergyenko
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sergey S
+ ergyenko":http://coderetreat.org/profile/SergeySergyenko
+END:VEVENT
+END:VCALENDAR

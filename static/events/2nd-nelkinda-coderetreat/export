@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45834
+DTSTAMP:20170129T135651Z
+SUMMARY:2nd Nelkinda Coderetreat
+DESCRIPTION:A code retreat hosted by Nelkinda Software Craft Pvt Ltd a
+ nd facilitated by Christian Hujer. This is a classic code retreat, wit
+ h breakfast, lunch and tea, 7 coding sessions and lots of fun!\nYou ma
+ y bring your own laptop, if you like, but it's not required.\nFor more
+  information, please visit the event website http://nelkinda.com/event
+ s/2015-09-19-2nd-Nelkinda-Coderetreat\n\nFor more information visit ht
+ tp://coderetreat.org/events/2nd-nelkinda-coderetreat
+DTSTART:20150919T090000Z
+DTEND:20150919T180000Z
+CATEGORIES:coderetreat
+LOCATION:Nelkinda Software Craft Pvt Ltd, Pune
+WEBSITE:http://nelkinda.com/events/2015-09-19-2nd-Nelkinda-Coderetreat
+URL:http://nelkinda.com/events/2015-09-19-2nd-Nelkinda-Coderetreat
+CONTACT:+917720036661
+ORGANIZER:Nelkinda Software Craft Pvt Ltd
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pradeep 
+ Chowdary Dasari":http://coderetreat.org/profile/PradeepChowdaryDasari
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Christia
+ n Hujer":http://coderetreat.org/profile/ChristianHujer
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56454
+DTSTAMP:20170129T100430Z
+SUMMARY:Global Day of Coderetreat 2016 - Vilnius, Lithuania
+DESCRIPTION:Register here: https://www.eventbrite.com/e/global-day-of
+ -coderetreat-2016-vilnius-tickets-28077751310\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2016-vil
+ nius-lithuania
+DTSTART:20161022T084500Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Inventi
+WEBSITE:https://www.google.lt/maps/place/INVENTI/@54.711222,25.2918349
+ ,17z/data=!4m13!1m7!3m6!1s0x46dd96b21e1be5d1:0x781176ced345f6e2!2sVerk
+ i%C5%B3+g.+25C,+Vilnius+08223!3b1!8m2!3d54.711222!4d25.2918349!3m4!1s0
+ x0:0xb83ef3ad568ab264!8m2!3d54.710993!4d25.2915788?hl=enhttps://www.go
+ ogle.lt/maps/place/Verki%C5%B3+g.+25C,+Vilnius+08223/@54.711222,25.291
+ 8349,17z/data=!4m7!1m4!3m3!1s0x46dd96b21e1be5d1:0x781176ced345f6e2!2sV
+ erki%C5%B3+g.+25C,+Vilnius+08223!3b1!3m1!1s0x46dd96b21e1be5d1:0x781176
+ ced345f6e2?hl=en
+URL:https://www.google.lt/maps/place/INVENTI/@54.711222,25.2918349,17z
+ /data=!4m13!1m7!3m6!1s0x46dd96b21e1be5d1:0x781176ced345f6e2!2sVerki%C5
+ %B3+g.+25C,+Vilnius+08223!3b1!8m2!3d54.711222!4d25.2918349!3m4!1s0x0:0
+ xb83ef3ad568ab264!8m2!3d54.710993!4d25.2915788?hl=enhttps://www.google
+ .lt/maps/place/Verki%C5%B3+g.+25C,+Vilnius+08223/@54.711222,25.2918349
+ ,17z/data=!4m7!1m4!3m3!1s0x46dd96b21e1be5d1:0x781176ced345f6e2!2sVerki
+ %C5%B3+g.+25C,+Vilnius+08223!3b1!3m1!1s0x46dd96b21e1be5d1:0x781176ced3
+ 45f6e2?hl=en
+CONTACT:
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/kYkWoLTW4g8A0
+ 1YqtYI2WmIbWrp2dbrTyLu5EvpHOu-8H5mV-jvvcRRtSlMFx5dJGu8tjXnV3RQ0B7AbiH-
+ l8NXaVliikngV/Vilnius_Gediminas_tower.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37760
+DTSTAMP:20170129T120205Z
+SUMMARY:Global Day of Coderetreat 2014 - Lyon, France
+DESCRIPTION:TBD\nOrganized by @CodeRetreatLyon team (follow us on twit
+ ter: http://twitter.com/CodeRetreatLyon)\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-2014-lyon-fra
+ nce
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Lyon
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Haïkel Guémar":http://coderetreat.org/profile/HaikelGu
+ emar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Haïkel 
+ Guémar":http://coderetreat.org/profile/HaikelGuemar
+END:VEVENT
+END:VCALENDAR

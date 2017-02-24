@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39420
+DTSTAMP:20170129T120439Z
+SUMMARY:Global Day of Coderetreat 2014 - Taiyuan, China
+DESCRIPTION:Let's code and learn for one extraordinary day.\nPlease re
+ gister https://jinshuju.net/f/Jdh7pb\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2014-taiyuan-chi
+ na
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Taiyuan, China
+WEBSITE:https://www.google.com/maps/place/%E5%8C%97%E7%BE%8E%E6%99%B6%
+ E5%9F%8E%E8%97%8D%E6%B9%BE%EF%BC%88%E6%9D%B1%E9%96%80%EF%BC%89/@37.796
+ 5134,112.5682729,18z/data=!4m2!3m1!1s0x0:0x631f06c729a5205f
+URL:https://www.google.com/maps/place/%E5%8C%97%E7%BE%8E%E6%99%B6%E5%9
+ F%8E%E8%97%8D%E6%B9%BE%EF%BC%88%E6%9D%B1%E9%96%80%EF%BC%89/@37.7965134
+ ,112.5682729,18z/data=!4m2!3m1!1s0x0:0x631f06c729a5205f
+CONTACT:
+ORGANIZER;CN="Chai Feng":http://coderetreat.org/profile/ChaiFeng
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chai Fen
+ g":http://coderetreat.org/profile/ChaiFeng
+END:VEVENT
+END:VCALENDAR

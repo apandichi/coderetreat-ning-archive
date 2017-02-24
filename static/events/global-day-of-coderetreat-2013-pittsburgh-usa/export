@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26210
+DTSTAMP:20170129T115821Z
+SUMMARY:Global Day of Coderetreat 2013 - Pittsburgh, PA, USA
+DESCRIPTION:Pittsburgh, PA is participating in the Global Day of Coder
+ etreat 2013!\n\nCoderetreat is a day-long, intensive practice event fo
+ cused on the fundamentals of software development and design.The uniqu
+ e coderetreat format (which eliminates the pressure of 'getting things
+  done' and focuses on practicing basic principles of good design) has 
+ proven to be a highly effective (and fun) means of skill improvement. 
+   On December 14th, Coderetreats will be held at cities all over the w
+ orld. To celebrate this significant event, we'll be participating in s
+ ome global activities in addition to our normal Coderetreat activities
+ .\nYou only need to bring a laptop with the development tools you requ
+ ire to write code using your chosen programming languages.  A contine
+ ntal breakfast and lunch will be provided.\nCheck out coderetreat.org 
+ for further details on what to expect.\nRefundable Deposit\nThe $15.00
+  registration deposit will be refunded in full when:\n\nyou attend the
+  event\nyou send an email to pgh@coderetreat.org by Sunday, December 8
+ th that you are unable to attend\n\nAny funds not refunded will be use
+ d to fund future local Coderetreats.\n\nFor more information visit htt
+ p://coderetreat.org/events/global-day-of-coderetreat-2013-pittsburgh-u
+ sa
+DTSTART:20131214T083000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:IBM Big Data Lab
+WEBSITE:http://gdcr13pgh.eventbrite.com
+URL:http://gdcr13pgh.eventbrite.com
+CONTACT:
+ORGANIZER:Coderetreat Pittsburgh
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/A-O3-ddfZs3gi
+ Uaxf0vQgFfSkpJYCOQhY8uJc8U3ao392I4AWA7n*OKeSSPELMNIeXFK0CoAG-Mt*OIVET0
+ MjeRB5CKixpwu/Pittsburgh.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

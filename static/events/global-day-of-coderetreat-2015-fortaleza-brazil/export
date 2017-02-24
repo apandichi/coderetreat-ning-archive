@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46869
+DTSTAMP:20170129T121211Z
+SUMMARY:Global Day of Coderetreat 2015 - Fortaleza, Brazil
+DESCRIPTION:Global Day of Coderetreat é um evento mundial gratuito
+  cujo objetivo é unir desenvolvedores para praticarem suas habilidade
+ s sem as pressões do dia-a-dia. Ele adota o formato de coderetreat, 
+ evento de dia inteiro focado nos fundamentos do design e desenvolvimen
+ to de software, que tem se provado um meio altamente eficaz para aumen
+ to de habilidades provendo aos desenvolvedores a oportunidade de prati
+ car longes das pressões de \"terminar tarefas\".\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2015
+ -fortaleza-brazil
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Faculdade Farias Brito
+WEBSITE:https://goo.gl/maps/cFbtzUUEsgF2
+URL:https://goo.gl/maps/cFbtzUUEsgF2
+CONTACT:
+ORGANIZER;CN="Paulo Benety Mendes de Lima":http://coderetreat.org/prof
+ ile/PauloBenetyMendesdeLima
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paulo Be
+ nety Mendes de Lima":http://coderetreat.org/profile/PauloBenetyMendesd
+ eLima
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ryan Fil
+ ho":http://coderetreat.org/profile/RyanFilho
+END:VEVENT
+END:VCALENDAR

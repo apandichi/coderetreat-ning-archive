@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:48293
+DTSTAMP:20170129T103653Z
+SUMMARY:Global Day of Coderetreat 2015 - Moscow, Russia
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time.\n Code Retreat это однодневный 
+ интенсивный тренинг для разработчико�
+ �, проходящий во многих странах с целью
+  отработки фундаментальных навыков ра
+ зработки: simple design, SOLID, TDD, парное програ
+ ммирование. Также, это возможность поо
+ бщаться, обменяться опытом, расширить 
+ свой кругозор. Язык, на котором вы разг
+ овариваете (пишете) не имеет значения.\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2015-moscow-russia
+DTSTART:20151114T090000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Rambler&Co, Москва, Варшавское ш., 9, стр
+ . 1, БЦ «Даниловская мануфактура», корп�
+ �с «Ряды Солдатенкова», 55.698686, 37.624554
+WEBSITE:https://rambler-digital-solutions.timepad.ru/event/260523/
+URL:https://rambler-digital-solutions.timepad.ru/event/260523/
+CONTACT:
+ORGANIZER:Rambler&Co
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/iM6nZUUaDa659
+ qhawmMFRQBAUZDcF*3ICxibs8jxBgdmSwVId8*bN9GfHmXGgFwCny9UuYNdOjcbbCrIDUe
+ kRn7ZvAhXNDJJ/ramblerco.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Simon Ba
+ greev":http://coderetreat.org/profile/SimonBagreev
+END:VEVENT
+END:VCALENDAR

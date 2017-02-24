@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Pavel Korshunov&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/PavelKorshunov</link>
+        <pubDate>Sun, 29 Jan 2017 12:51:06 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:51:06 +0000</lastBuildDate>
+        <image>
+            <title>Pavel Korshunov&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/PavelKorshunov</link>
+            <url>http://api.ning.com:80/files/cDEmeB8bWGQkitmmscvdEWmMedLEUFxwAD-ofEoLGo3HX4FBx24faRwkXraMUvXNlD0A2UakjwWQjRhvgYhk7MhBWUrwPKFa/1152955815.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501f1089fbad65367ad4</guid>
+               <title>james peterson left a comment for Pavel Korshunov</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52659?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52659?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/PavelKorshunov?xg_source=activity">Pavel Korshunov</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:40:43 +0000</pubDate>
+               </item>    </channel>
+</rss>

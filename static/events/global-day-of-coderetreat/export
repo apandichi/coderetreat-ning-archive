@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2229
+DTSTAMP:20170129T133522Z
+SUMMARY:Global Day of Coderetreat
+DESCRIPTION:Coderetreat\n\nFor more information visit http://coderetre
+ at.org/events/global-day-of-coderetreat
+DTSTART:20111203T083000Z
+DTEND:20111203T180000Z
+CATEGORIES:coderetreat
+LOCATION:NERD center
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Zach Shaw":http://coderetreat.org/profile/ZachShaw
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Zach Sha
+ w":http://coderetreat.org/profile/ZachShaw
+END:VEVENT
+END:VCALENDAR

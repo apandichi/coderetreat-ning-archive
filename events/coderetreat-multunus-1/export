@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:43222
+DTSTAMP:20170129T134943Z
+SUMMARY:CodeRetreat @ Multunus
+DESCRIPTION:Join us for the CodeRetreat @ Multunus on March 7, 2014.\n
+ Register here: CodeRetreat @ Multunus\nand read more here: CodeRetre
+ at – Honing your Craft as a Programmer\n\nFor more information visit
+  http://coderetreat.org/events/coderetreat-multunus-1
+DTSTART:20150307T093000Z
+DTEND:20150307T163000Z
+CATEGORIES:coderetreat
+LOCATION:Multunus Software
+WEBSITE:http://coderetreatmultunus4.doattend.com/
+URL:http://coderetreatmultunus4.doattend.com/
+CONTACT:
+ORGANIZER:Multunus Software
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Yedhu Kr
+ ishnan":http://coderetreat.org/profile/YedhuKrishnan
+END:VEVENT
+END:VCALENDAR

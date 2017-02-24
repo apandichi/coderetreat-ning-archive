@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=2r9l348lcg2al&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:35:24Z</updated>
+                            <author>
+                    <name>Erik Harperink</name>
+                    <uri>http://coderetreat.org/profile/ErikHarperink</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/OHyYCm7KjoDSOdXWE6WqIM5QJOjz3T5-1CNucL*vs6g7N9K6*QICF*ronbcnSA5cdUQWtekU2u-ndpRMGgZ4x4Hzoy7nBxk4/900794339.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=2r9l348lcg2al&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Koen Aben</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/KoenAben"/>
+                                        <id>tag:coderetreat.org,2013-11-28:6456126:User:30632</id>
+                                        <updated>2013-11-28T07:06:28.304Z</updated>
+                    
+                                            <author>
+                            <name>Erik Harperink</name>
+                            <uri>http://coderetreat.org/profile/ErikHarperink</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/BrAPCEwtvYB-E4sWK3X7oZL6098Bsvy*dekAlgDHxx4zJHJxM0UCElQcwMnKP0clkdDbWdr4MzInKnAWlfav0fwFDBGYCofO/1046783455.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Koen Aben&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/BrAPCEwtvYB-E4sWK3X7oZL6098Bsvy*dekAlgDHxx4zJHJxM0UCElQcwMnKP0clkdDbWdr4MzInKnAWlfav0fwFDBGYCofO/1046783455.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Koen Aben&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

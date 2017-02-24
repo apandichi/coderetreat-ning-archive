@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:18020
+DTSTAMP:20170129T135822Z
+SUMMARY:Warsaw Coderetreat 2013
+DESCRIPTION:Global Day of Retreat in Capital of Poland.\n\nFor more in
+ formation visit http://coderetreat.org/events/global-day-of-coderetrea
+ t-2012-warsaw-poland
+DTSTART:20130112T110000Z
+DTEND:20130112T180000Z
+CATEGORIES:coderetreat
+LOCATION:Warsaw, Poland
+WEBSITE:http://coderetreat.pl
+URL:http://coderetreat.pl
+CONTACT:+48790028608
+ORGANIZER;CN="Wojtek Erbetowski":http://coderetreat.org/profile/Wojtek
+ Erbetowski
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michał 
+ Lewandowski":http://coderetreat.org/profile/MichalLewandowski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wojtek E
+ rbetowski":http://coderetreat.org/profile/WojtekErbetowski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Łukasz
+  Siwiński":http://coderetreat.org/profile/LukaszSiwinski
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN=marekdef
+ :http://coderetreat.org/profile/marekdef
+END:VEVENT
+END:VCALENDAR

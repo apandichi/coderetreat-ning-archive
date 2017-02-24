@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13315
+DTSTAMP:20170129T134201Z
+SUMMARY:Global Day of Coderetreat 2012 - Buenos Aires / Argentina
+DESCRIPTION:We are having a coderetreat on the Global Day of Coderetre
+ at. More details coming soon.\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2012-buenos-aires-argent
+ ina
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:TBD
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:TBD
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cristian
+  Rasch":http://coderetreat.org/profile/CristianRasch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adrian E
+ idelman":http://coderetreat.org/profile/AdrianEidelman
+END:VEVENT
+END:VCALENDAR

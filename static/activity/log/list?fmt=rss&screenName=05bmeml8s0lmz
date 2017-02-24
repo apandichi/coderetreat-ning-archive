@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Iván Pazmiño&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/IvanPazmino</link>
+        <pubDate>Sun, 29 Jan 2017 11:54:18 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:54:18 +0000</lastBuildDate>
+        <image>
+            <title>Iván Pazmiño&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/IvanPazmino</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fced78f610a1c4e58cebb1f</guid>
+               <title>Iván Pazmiño posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28683?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/IvanPazmino?xg_source=activity">Iv&aacute;n Pazmi&ntilde;o</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28683?xg_source=activity">Global Day of Code Retreat 2013 - Quito/Ecuador</a> at ThoughtWorks Ecuador</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">Bienvenidos todos al segundo GDCR en la cuidad de Quito!Esta vez el Día Mundial para el Retiro de Programación tendrá lugar en ThoughtWorks Ecuador y además contará con el patrocinio de viejos y nuevos amigos del evento en Quito:LevelapbluelizardgamesTendremos además facilitadores en varios paradigmas y en varios lenguajes de programación.Para quienes les gustaría tener una idea de como es el evento, en este enlace está una <a href="http://levelap.com/cronica_dia_global_code_retreat_2012_Quito" target="_blank">memoria del año pasado</a>.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28683?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 06 Nov 2013 17:28:02 +0000</pubDate>
+               </item>    </channel>
+</rss>

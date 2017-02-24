@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:31578
+DTSTAMP:20170129T121020Z
+SUMMARY:Global Day of Coderetreat 2013 -  Dublin, Ireland
+DESCRIPTION:Global day of code retreat in Dublin, Ireland\n\nFor more 
+ information visit http://coderetreat.org/events/gdcr-dublin
+DTSTART:20131214T090000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:TERMINALFOUR offices
+WEBSITE:http://codingday.org
+URL:http://codingday.org
+CONTACT:
+ORGANIZER;CN="Cormac McGuire":http://coderetreat.org/profile/CormacMcG
+ uire
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cormac M
+ cGuire":http://coderetreat.org/profile/CormacMcGuire
+END:VEVENT
+END:VCALENDAR

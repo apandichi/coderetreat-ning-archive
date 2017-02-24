@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Jan Novotný&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=0syb3ud8roghj&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:12:31Z</updated>
+                            <author>
+                    <name>Jan Novotný</name>
+                    <uri>http://coderetreat.org/profile/JanNovotny</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/9XVZeERtDAwJDu5nUyZQEsUkE7-8MAytI5UkLNe8I169652zegzLEIvzhuWleyNxkkPyTsKUI3sD5b88aiL9Duwv-eEIVtmQ/647030377.jpeg?xgip=0%3A0%3A200%3A200%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=0syb3ud8roghj&amp;xn_auth=no</id>
+                            <entry>
+                    <title>CodeRetreat 2011 in Prague</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4610"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:BlogPost:4610</id>
+                                        <updated>2011-12-04T20:08:30.000Z</updated>
+                    
+                                            <author>
+                            <name>Jan Novotný</name>
+                            <uri>http://coderetreat.org/profile/JanNovotny</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Never, never give up to you lazyness. We all know Christmas time is full of events and parties, and I admit that yesterday I was seriously considering whether I actually wanted to go to CodeRetreat and disappear early from the other event of my friends completely sober. I admit my weakness and I am ashamed that I ever doubted. CodeRetreat was one of my best events this year and I must say that it got into my top rated events I ever attended.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1) people…&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;Never, never give up to you lazyness. We all know Christmas time is full of events and parties, and I admit that yesterday I was seriously considering whether I actually wanted to go to CodeRetreat and disappear early from the other event of my friends completely sober. I admit my weakness and I am ashamed that I ever doubted. CodeRetreat was one of my best events this year and I must say that it got into my top rated events I ever attended.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1) people who want to code at the weekend (a miracle and pre-selecting filter in itself)&lt;br/&gt;2) at first glance a simple problem to solve in unreal time&lt;br/&gt;3) condition: TDD, pair programming, pair change in 45 minute intervals&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implications:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1) changing programming languages, IDE, keyboards and programming approaches&lt;br/&gt;2) accession to the game that the way is the goal&lt;br/&gt;3) distilled programmer experience&lt;/p&gt;
+&lt;p&gt;The essence of the problem was the &lt;a href=&quot;http://en.wikipedia.org/wiki/Conway&#039;s_Game_of_Life&quot; target=&quot;_blank&quot;&gt;Game of life&lt;/a&gt; represented by four rules that can be with no problem implemented in any language by student with a single year of programming class done. On the other hand it is a problem with open-end. You can go much further than you initally thought you could (it reminds me a bit a task in our interview process in &lt;a href=&quot;http://www.fg.cz&quot; target=&quot;_blank&quot;&gt;FG Forrest&lt;/a&gt;). Complexity just depends on what circumstances you are willing to take into account. You can begin your journey in two-dimensional limited array and end up with an infinite universe, you can start with two-dimensional space and then try to think up what it would take to compute rules in multi-dimensional spaces, you can try implement your algorithm in Java, C#, DART or Groovy (I&#039;m not making this up, I&#039;ve really gone through all this today).&lt;/p&gt;
+&lt;p&gt;After the first iteration you completely lose appetite to do it seriously and you take it as a game. The game which you play with your buddy has fixed rules, but you can accept some simplifications. You enter the game freely with only aim - to learn and to have some fun. All (except 4 hard rules) turns upside down each 45 minutes when you change your colleague. Nobody wants to get bored and so each time you approach the same problem from another angle and come to a better solution. You have a laptop and fellow beats you over the knuckles when you slip to implement the logic before the test (by the way my fingers are now very battered).&lt;/p&gt;
+&lt;p&gt;Experience was exceptional even because CodeRetreat took place all around the world, perhaps in all time zones. In five o&#039;clock in the morning on the train to Prague I read tweets from Melbourne, Tokyo and Beijing where CodeRetreat has already started. When I complained on the twitter that there are only males among developers (we had no women in Prague session) I got a reply from Berlin that at least two members of the fair sex in our ranks are after all. Last closing tweet came after a few hours from Honolulu, where CodeRetreat this year concluded. One cannot feel weird when there are so many people all around the world willing to code with him on such occasion.&lt;/p&gt;
+&lt;p&gt;The paradox is that by solving a trivial problem one can try out such a lot of things in a few hours - it just need to have a focus and not to have a target. A big surprise for me today was DART - along with &lt;a href=&quot;https://twitter.com/#!/kolman&quot; target=&quot;_blank&quot;&gt;@kolman&lt;/a&gt;I spent some time playing with the problem in DART language (by the way thanks for the energy devoted to setting development environment up) and we came to the conclusion that DART is essentially a mix of C# and Java. Given lack of documentation when we weren&#039;t able to find out the notation we tried C# syntax and when it fails to compile we exchanged it for Java notation (@kolman is .NET guy and I&#039;m from Java world). Compiler usually accepted one of the options we tried. I&#039;m just wondering what audience Google aims to - C# programmers or Java ones? May be both?&lt;/p&gt;
+&lt;p&gt;It was easily visible how enterprise languages such as C# or Java lags in productivity behind languages like Groovy (at least on the problem of this type). The truth is that we were on the other hand far more confident with the unproductive languages. I also went through very fun game called TDD ping pong - your buddy writes a test and you write an implementation that meets the test but does nothing more (of course you try to deceive). I played it in the last iteration with &lt;a href=&quot;https://twitter.com/#!/philipp_riemer&quot; target=&quot;_blank&quot;&gt;@philipp_riemer&lt;/a&gt;(a German gui from Nuremberg currently studying at the University in Prague).&lt;/p&gt;
+&lt;p&gt;Thanks again to all Czech organizers, sponsors (&lt;a href=&quot;http://gmchk.cz/&quot; target=&quot;_blank&quot;&gt;GMC&lt;/a&gt;) and &lt;a href=&quot;http://www.jetbrains.com/&quot; target=&quot;_blank&quot;&gt;JetBrains&lt;/a&gt;company for free IDE licenses for lucky winners and T-shirts for all.&lt;/p&gt;
+&lt;p&gt;The article is originally located on my blog &lt;a href=&quot;http://blog.novoj.net/2011/12/04/coderetreat-praha-2011/&quot; target=&quot;_blank&quot;&gt;Thoughts of Father Fouras&lt;/a&gt;.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

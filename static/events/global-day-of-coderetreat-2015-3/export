@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:49424
+DTSTAMP:20170129T121340Z
+SUMMARY:Global Day of Coderetreat 2015 - Dhaka, Bangladesh
+DESCRIPTION:Global Day of Coderetreat [1] is an international event fo
+ r developers across the world. The purpose is to practice better codin
+ g without the pressure of \"getting things done\". This year, Hackers 
+ and Founders community is organizing Coderetreat for the first time in
+  Bangladesh! We're hopeful to gather a whole pack of developers and ha
+ ve a fun day with coding.\nIf you are interested, you will have to:\nâ
+ €¢ bring your laptop (we will provide power, wifi and food)Â \nâ€¢ sta
+ y for the whole day, code, socialize and have funÂ \nThis event will b
+ e sponsored by Toptal [2] but attendees will have to pay a very small 
+ registration fee (100 Tk).\nRegistration Link is coming soon. Please R
+ SVP here if you are interested.\n[1]Â http://gdcr.coderetreat.org/\n[2
+ ]Â http://www.toptal.com\n\n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-2015-3
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Moar
+WEBSITE:https://goo.gl/maps/CGKD8rJGXZz
+URL:https://goo.gl/maps/CGKD8rJGXZz
+CONTACT:+8801712959381
+ORGANIZER;CN="Wasik Mursalin":http://coderetreat.org/profile/WasikMurs
+ alin
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mahmud R
+ idwan":http://coderetreat.org/profile/14pm6iaq2cl4e
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wasik Mu
+ rsalin":http://coderetreat.org/profile/WasikMursalin
+END:VEVENT
+END:VCALENDAR

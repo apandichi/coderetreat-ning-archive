@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26375
+DTSTAMP:20170129T103418Z
+SUMMARY:Global Day of Coderetreat 2013 - Ann Arbor, MI, USA
+DESCRIPTION:Come join what may be the only MONTHLY code retreat/coder 
+ dojo. Always free, but registration is required via the website. As al
+ ways, we'll be serving breakfast and lunch (no pizza here). We'll be c
+ onnected with the rest of the globe and sharing the fun at http://cod
+ ecraftsmansaturdays.blogspot.com/.\n\nFor more information visit http:
+ //coderetreat.org/events/global-day-of-coderetreat-2013-ann-arbor-usa
+DTSTART:20131214T080000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:The Forge (downstairs from the Tech Brewery)
+WEBSITE:https://maps.google.com/maps?q=1327+jones+drive+ann+arbor+mi&l
+ l=42.287755,-83.726077&spn=0.028859,0.049267&hnear=1327+Jones+Dr,+Ann+
+ Arbor,+Washtenaw,+Michigan+48105&gl=us&t=m&z=15
+URL:https://maps.google.com/maps?q=1327+jones+drive+ann+arbor+mi&ll=42
+ .287755,-83.726077&spn=0.028859,0.049267&hnear=1327+Jones+Dr,+Ann+Arbo
+ r,+Washtenaw,+Michigan+48105&gl=us&t=m&z=15
+CONTACT:(614) 636-7581
+ORGANIZER;CN="Bob Allen @CuriousAgilist":http://coderetreat.org/profil
+ e/BobAllenCuriousAgilist
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bob Alle
+ n @CuriousAgilist":http://coderetreat.org/profile/BobAllenCuriousAgili
+ st
+END:VEVENT
+END:VCALENDAR

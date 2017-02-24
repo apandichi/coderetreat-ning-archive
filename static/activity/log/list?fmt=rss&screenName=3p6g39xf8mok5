@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Tsatsi Mahase&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/TsatsiMahase</link>
+        <pubDate>Sun, 29 Jan 2017 11:27:47 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:27:47 +0000</lastBuildDate>
+        <image>
+            <title>Tsatsi Mahase&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/TsatsiMahase</link>
+            <url>http://api.ning.com:80/files/1Zim0q07FpqhRHDCz8A9Sy3MaRGsup2jPd6HaYgqmrYUL-SCMnlnO2dHLOZBJy3E2R7slhOIzyXDUWfCl*gFN*bfEQ5S-9al/1235161366.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012aebd44955c95e4e459fe44</guid>
+               <title>Tsatsi Mahase updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55001?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TsatsiMahase?xg_source=activity">Tsatsi Mahase</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55001?xg_source=activity">Global Day of Coderetreat 2016 - Johannesburg, South Africa</a> at Johannesburg</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 8am to 5pm</div><div class="rich-excerpt">We are excited to host this year's global code retreat in Johannesburg.More updates about the event will be posted here. <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55001?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 20 Sep 2016 15:24:32 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012aebd44c10247f21406450e</guid>
+               <title>Tsatsi Mahase posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55001?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/TsatsiMahase?xg_source=activity">Tsatsi Mahase</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55001?xg_source=activity">Global day of code retreat, Johannesburg South Africa.</a> at Johannesburg</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">We are excited to host this year's global code retreat in Johannesburg.More updates about the event will be posted here. <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55001?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 13 Sep 2016 08:23:01 +0000</pubDate>
+               </item>    </channel>
+</rss>

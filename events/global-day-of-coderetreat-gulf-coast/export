@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11671
+DTSTAMP:20170129T134020Z
+SUMMARY:Global Day of Coderetreat 2012 - Pensacola, FL / USA
+DESCRIPTION:Announcing GDCR on the Gulf Coast. Open to all programmers
+  in West Florida/Lower Alabama. Signup form is now available (just fol
+ low the website link above). More details coming soon.\n\nFor more inf
+ ormation visit http://coderetreat.org/events/global-day-of-coderetreat
+ -gulf-coast
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Pensacola State College
+WEBSITE:http://gdcrgulfcoast.eventbrite.com/
+URL:http://gdcrgulfcoast.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Kenneth Cochran":http://coderetreat.org/profile/KennethC
+ ochran
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kenneth 
+ Cochran":http://coderetreat.org/profile/KennethCochran
+END:VEVENT
+END:VCALENDAR

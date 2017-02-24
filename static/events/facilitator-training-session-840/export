@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54944
+DTSTAMP:20170129T104437Z
+SUMMARY:Facilitator training session
+DESCRIPTION:Please RSVP here!\n\nThis training is for facilitators. An
+ ybody interested in facilitating a coderetreat is invited to attend at
+  least one training session. This training will be delivered online on
+  Google Plus Hangouts. Make sure you will be online five minutes befor
+ e the training starts.\nLike last year we will have two different type
+ s of trainings for Global Day of Coderetreat: for hosts and for facili
+ tators.\nThe job of the host is to make sure the coderetreat runs smoo
+ thly by making sure everything is arranged. Hosts find a venue with al
+ l the necessary equipment, find a company to sponsor lunch, give away 
+ the prizes at the end of the day, organize video chats with other loca
+ tions, etc.\nThe job of the facilitator is to help participants learn 
+ from each other. Facilitators understand the coderetreat format, choos
+ e and explain the constraints, and try to keep a learning atmosphere d
+ uring the day\n\nImportant: All the times are in UTC. Do one of the fo
+ llowing to view training times in your time zone:\n\nAdd the GDCR Cale
+ ndar to your Google Calendar account\nUse this tool to convert the tim
+ e from UTC to your time zone\nFind your time below in one of these com
+ mon time zones:\nRegion                Current time\n\nHawaii         
+        09:00 (Sep 20)\nCalifornia            12:00 (Sep 20)\nMexico Ci
+ ty           14:00 (Sep 20)\nMinnesota             14:00 (Sep 20)\nVen
+ ezuela             14:30 (Sep 20)\nFlorida               15:00 (Sep 20
+ )\nRio de Janeiro        16:00 (Sep 20)\nU.K.                  20:00 (
+ Sep 20)\nGermany               21:00 (Sep 20)\nEgypt                 2
+ 1:00 (Sep 20)\nMoscow                23:00 (Sep 20)\nIran             
+      23:30 (Sep 20)\nIndia                 00:30 (Sep 21)\nNepal      
+            00:45 (Sep 21)\nThailand              02:00 (Sep 21)\nChina
+                  03:00 (Sep 21)\nJapan                 04:00 (Sep 21)\
+ nSouth Australia       04:30 (Sep 21)\nVictoria              05:00 (Se
+ p 21)\nNew Zealand           07:00 (Sep 21)\n\n\n\n\n\nFor more inform
+ ation visit http://coderetreat.org/events/facilitator-training-session
+ -840
+DTSTART:20160920T190000Z
+DTEND:20160920T200000Z
+CATEGORIES:training, host_training
+LOCATION:https://plus.google.com/events/cp6fvvk5asuacqk2c7sbf2qbvp4
+WEBSITE:https://plus.google.com/events/cp6fvvk5asuacqk2c7sbf2qbvp4
+URL:https://plus.google.com/events/cp6fvvk5asuacqk2c7sbf2qbvp4
+CONTACT:
+ORGANIZER;CN="Marco Emrich":http://coderetreat.org/profile/MarcoEmrich
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Em
+ rich":http://coderetreat.org/profile/MarcoEmrich
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Chris Gow&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ChrisGow</link>
+        <pubDate>Sun, 29 Jan 2017 11:26:56 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:26:56 +0000</lastBuildDate>
+        <image>
+            <title>Chris Gow&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ChrisGow</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000f65f310fcfb8db10adf2988</guid>
+               <title>Chris Gow posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55904?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ChrisGow?xg_source=activity">Chris Gow</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55904?xg_source=activity">Global Day of Coderetreat 2016 - Toronto, Canada</a> at Downtown Toronto, Shopify offices</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55904?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 03 Oct 2016 01:14:31 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000f65f3102d933585447b961a</guid>
+               <title>Chris Gow posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:37495?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ChrisGow?xg_source=activity">Chris Gow</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:37495?xg_source=activity">Global Day of Coderetreat 2014 - Toronto, Canada</a> at Downtown Toronto, specific location TDB</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:37495?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 22 Aug 2014 14:43:04 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000f65f31060e12c2fd29d7414</guid>
+               <title>Chris Gow posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:27102?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/ChrisGow?xg_source=activity">Chris Gow</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:27102?xg_source=activity">Global Day of Coderetreat 2013 - Toronto, Canada</a> at TBD</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 10am to 7pm</div><div class="rich-excerpt">Global Day of Coderetreat 2013 - Toronto, Canada<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:27102?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 02 Oct 2013 13:40:42 +0000</pubDate>
+               </item>    </channel>
+</rss>

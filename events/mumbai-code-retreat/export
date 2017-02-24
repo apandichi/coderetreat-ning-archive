@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:9972
+DTSTAMP:20170129T122530Z
+SUMMARY:Mumbai Code Retreat
+DESCRIPTION:Venkat Subramaniam will be facilitating a code retreat in 
+ Mumbai on 10th June 2013 @ Directi Plex, Andheri, Mumbai.\n\nFor more 
+ information visit http://coderetreat.org/events/mumbai-code-retreat
+DTSTART:20120610T100000Z
+DTEND:20120610T170000Z
+CATEGORIES:practice, party
+LOCATION:Directi Plex, Andheri
+WEBSITE:http://maps.google.com/maps/ms?source=s_q&hl=en&geocode=&ie=UT
+ F8&hq=andheri,+directiplex&hnear=Mumbai,+Maharashtra,+India&msa=0&msid
+ =101438834755386347366.00045adac92b377bac60c&ll=19.125971,72.851222&sp
+ n=0.014049,0.01929&z=16
+URL:http://maps.google.com/maps/ms?source=s_q&hl=en&geocode=&ie=UTF8&h
+ q=andheri,+directiplex&hnear=Mumbai,+Maharashtra,+India&msa=0&msid=101
+ 438834755386347366.00045adac92b377bac60c&ll=19.125971,72.851222&spn=0.
+ 014049,0.01929&z=16
+CONTACT:
+ORGANIZER;CN="Naresh Jain":http://coderetreat.org/profile/NareshJain
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/q096-jG*5a*gJ
+ QCiBxSlepOndWOZxdVpaU4qWP2RnKXnviwqlJwZ3x0clT4vgo6OV9HzbYHno8Nn2E-VvRY
+ mw6lU487Adxyq/code_retreat.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="mrugen d
+ eshmukh":http://coderetreat.org/profile/mrugendeshmukh
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jaydeep 
+ Kulkarni":http://coderetreat.org/profile/JaydeepKulkarni
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Naresh J
+ ain":http://coderetreat.org/profile/NareshJain
+END:VEVENT
+END:VCALENDAR

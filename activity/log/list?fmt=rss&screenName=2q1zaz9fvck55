@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Aurélie Salmon&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AurelieSalmon</link>
+        <pubDate>Sun, 29 Jan 2017 11:33:38 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:33:38 +0000</lastBuildDate>
+        <image>
+            <title>Aurélie Salmon&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AurelieSalmon</link>
+            <url>http://api.ning.com:80/files/3r*H3JtUV-fTHvidJ5JYqKvVv5cvWhiZvWzrffru-m-EB7MpgkOJM8*8VBaJv8jAY6ADl6qQxPpQ469Ziq8b58JsUM-kRxq*/1153270223.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:41241
+DTSTAMP:20170129T120717Z
+SUMMARY:Global Day of Coderetreat 2014 - Girona, Spain
+DESCRIPTION:First time participation to Coderetreat. We expect to show
+ case development best practices and promote teamwork.\n\nFor more info
+ rmation visit http://coderetreat.org/events/coderetreat-girona-2014
+DTSTART:20141115T080000Z
+DTEND:20141115T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Oficina CodiTramuntana al Parc de la UdG
+WEBSITE:http://coditramuntana.com/contacte
+URL:http://coditramuntana.com/contacte
+CONTACT:
+ORGANIZER:Agile Girona
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/vlkw1OAAX7lBM
+ boza01Lde32TTNujo-MeAvGWwB84B0vcHQTJzjlQKi-pSw-q*3i5tOi-UfPsiyv5NvmjWr
+ O-TXPutsvwiri/agilegirona.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Oliver H
+ ernàndez Valls":http://coderetreat.org/profile/OliverHernandezValls
+END:VEVENT
+END:VCALENDAR

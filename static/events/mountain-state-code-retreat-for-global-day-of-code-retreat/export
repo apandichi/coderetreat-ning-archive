@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11561
+DTSTAMP:20170129T112113Z
+SUMMARY:Global Day of Coderetreat 2012 - Fairmont, WV / USA
+DESCRIPTION:The Mountain State Code Retreat is a gathering of develope
+ rs to improve their craft. This event is being hosted as part of the G
+ lobal Day of Code Retreat!\nLocation and Start Time: TBD @ Falcon Stud
+ ent Center at Fairmont State University.\n\nFor more information visit
+  http://coderetreat.org/events/mountain-state-code-retreat-for-global-
+ day-of-code-retreat
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Falcon Student Center @ Fairmont State University
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Kel Cecil":http://coderetreat.org/profile/KelCecil
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Scott Ca
+ rr":http://coderetreat.org/profile/ScottCarr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kel Ceci
+ l":http://coderetreat.org/profile/KelCecil
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matthew 
+ Williamson":http://coderetreat.org/profile/MatthewWilliamson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Zach Ba
+ ker":http://coderetreat.org/profile/ZachBaker
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Lonnie 
+ Bowe":http://coderetreat.org/profile/LonnieBowe
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN=ZPH:http
+ ://coderetreat.org/profile/ZPH
+END:VEVENT
+END:VCALENDAR

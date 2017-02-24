@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2423
+DTSTAMP:20170129T133519Z
+SUMMARY:Global Day of Coderetreat in Indianapolis
+DESCRIPTION:Register at http://coderetreatindy.eventbrite.com/\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-in-indianapolis
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:coderetreat
+LOCATION:Interactive Intelligence Group, Inc.
+WEBSITE:http://g.co/maps/udzbd
+URL:http://g.co/maps/udzbd
+CONTACT:
+ORGANIZER;CN="Aaron Lerch":http://coderetreat.org/profile/AaronLerch
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aaron Le
+ rch":http://coderetreat.org/profile/AaronLerch
+END:VEVENT
+END:VCALENDAR

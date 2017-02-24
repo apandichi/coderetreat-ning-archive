@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16698
+DTSTAMP:20170129T134341Z
+SUMMARY:Global Day of Coderetreat 2012 - Monterrey, México
+DESCRIPTION:Monterrey officialy joins Global Day of Coderetreat. Its 
+ going to be extra special because Monterrey has never seen a coderetre
+ at before. As sad as we are that Corey can't be the facilitator, we ar
+ e working extra hard to make this an experience that the city communit
+ y can really appreciate.\nIf you are in town, be sure to drop by and p
+ ractice with us\n\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-coderetreat-2012-monterrey-m-xico
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:HQ of Incaztech
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Elías Matheus":http://coderetreat.org/profile/EliasMath
+ eus
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Elías M
+ atheus":http://coderetreat.org/profile/EliasMatheus
+END:VEVENT
+END:VCALENDAR

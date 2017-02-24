@@ -1,0 +1,1692 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+<head data-layout-view="default" class="xj_layout_head">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5W4WQ');</script>
+<!-- End Google Tag Manager -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Events - Coderetreat</title>
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+    <link rel="SHORTCUT ICON" href="../../favicon.ico" type="image/x-icon" />
+    <meta name="description" content="All Events on Saturday, October 22, 2016 | Coderetreat is a social network" />
+    <meta name="keywords" content="" />
+<meta name="title" content="Events" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://coderetreat.org/events/event/listByDate?date=2016-10-22" />
+<meta property="og:title" content="Events" />
+<link rel="image_src" href="http://api.ning.com/icons/appatar/6456126?default=6456126&amp;width=90&amp;height=90" />
+<script type="text/javascript">
+    djConfig = { baseScriptUri: 'http://coderetreat.org/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/6456126?default=6456126&width=64&height=64","url":"http:\/\/coderetreat-community.ning.com","domains":["coderetreat.org"],"online":true,"privateSource":true,"id":"coderetreat-community","appId":"6456126","description":"","name":"Coderetreat","owner":"128952ghvkcvj","createdDate":"2011-11-05T02:05:01.167Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":5};
+        (function(){
+            if (!window.ning) { return; }
+
+            var age, gender, rand, obfuscated, combined;
+
+            obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+            if (obfuscated) {
+                var offset = 100000;
+                obfuscated = parseInt(obfuscated[1]);
+                rand = obfuscated / offset;
+                combined = (obfuscated % offset) ^ rand;
+                age = combined % 1000;
+                gender = (combined / 1000) & 3;
+                gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+                ning.viewer = {"age":age,"gender":gender};
+            }
+        })();
+
+        if (window.location.hash.indexOf('#!/') == 0) {
+        window.location.replace(window.location.hash.substr(2));
+    }
+    window.xg = window.xg || {};
+xg.captcha = {
+    'shouldShow': false,
+    'siteKey': '6Ldf3AoUAAAAALPgNx2gcXc8a_5XEcnNseR6WmsT'
+};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg.addOnFacebookLoad = function (f) { xg.addOnFacebookLoad.functions.push(f); };
+xg.addOnFacebookLoad.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) { this.p++; },
+    onLoad: function(set) {
+        this.p--;
+        if (this.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
+        }
+    }
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
+}
+xg._loader.onDone = function() {
+        if(window.bzplcm)window.bzplcm.start('ni');
+        xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { _globals: { screen_name: null, subdomain: "coderetreat-community", is_owner: false, is_admin: false, is_member: false, join_date: 0, request_method: "GET", trace: "d9b54b9c-6777-47eb-bea5-b24d70440a10"}, event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; }, _trackingHost: "coll.ning.com", _jsDebug: false } };</script>
+
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common-982.min.css?xn_version=3408449514);
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/wide-sidebar.min.css?xn_version=1327369422);
+@import url(http://static.ning.com/socialnetworkmain/widgets/events/css/component.min.css?xn_version=2963051006);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIXYaqKgGd0KBZicBBAhfDYj2Aa4s8f5nvPfAF-VYObMp0rAmgQw1ZhPhrL8x7sGJRoU6IovphedJCS5U4-yfae/1249016504.css?xn_version=201701120951);
+
+</style>
+
+<style type="text/css" media="screen,projection">
+@import url(http://api.ning.com:80/files/8jjNHgLtomIgyDAElZlBJ1Awn*XfVWcD2dDlwyjePoNWSlDmjGd8UlGhL3I8xAQsZekh6xVJbAhSECHot0nK97Q3PD*PcfV3/1249038261.css?xn_version=201701120951);
+
+</style>
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=1394342931" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../profiles/blog/rsd" />
+<script type="text/javascript">(function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,'http://coderetreat.org/m?id=6456126%3AMobilePage%3A10688');</script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5W4WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="xj_before_content">        <div id="xn_bar">
+            <div id="xn_bar_menu">
+                <div id="xn_bar_menu_branding" >
+                                    </div>
+
+                <div id="xn_bar_menu_more">
+                    <form id="xn_bar_menu_search" method="GET" action="http://coderetreat.org/main/search/search">
+                        <fieldset>
+                            <input type="text" name="q" id="xn_bar_menu_search_query" value="Search Coderetreat" _hint="Search Coderetreat" accesskey="4" class="text xj_search_hint" />
+                            <a id="xn_bar_menu_search_submit" href="listByDate?date=2016-10-22#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+                        </fieldset>
+                    </form>
+                </div>
+
+                            <ul id="xn_bar_menu_tabs">
+                                            <li><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2016-10-22">Sign Up</a></li>
+                                                <li><a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2016-10-22">Sign In</a></li>
+                                    </ul>
+                        </div>
+        </div>
+            <script src="http://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
+    <script>
+        try {
+            GlamCreateSlot("183770529", "728x90", "Ning_Top_Leaderboard");
+            GlamSetSlotData("Ning_Top_Leaderboard", "ningid=6456126");
+            GlamCreateSlot("183770529", "300x250", "Ning_Top_Right");
+            GlamSetSlotData("Ning_Top_Right", "ningid=6456126");
+            GlamTrack("183770529");
+        } catch (e) {}
+    </script>
+    </div>
+    <div class="xg_theme" data-layout-pack="romeo">
+        <div id="xg_themebody">
+            <div id="xg_ad_above_header" class="xg_ad xj_ad_above_header dy-displaynone">
+                
+            </div>
+            <div id="xg_head">
+                <div id="xg_masthead">
+                    <h1 id="xg_sitename" class="xj_site_name"><a id="application_name_header_link" href="../../index.html"><img src="http://api.ning.com:80/files/2vzV35vB8k5SPm92v9bGA0ng9DP2h-ONIcgPoDUThiIk1roHMF4eVjzlN2o3z9S5aU*wKgn9jZpdxEekNQCYvnOumr-beV44/cnlogo.png" alt="Coderetreat"></a></h1>
+                    <p id="xg_sitedesc" class="xj_site_desc">Honing the craft together worldwide</p>
+                </div>
+                <div id="xg_navigation" class="xj_navigation"><ul>
+    <li dojoType="SubTabHover" id="xg_tab_xn3" class="xg_subtab"><a href="../../about"><span>About</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about" style="float:none;"><span>About Coderetreat</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../about/community-network" style="float:none;"><span>About Community Network</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../history" style="float:none;"><span>History</span></a></li></ul></div></li><li id="xg_tab_events" class="xg_subtab this"><a href="../../events"><span>Events</span></a></li><li dojoType="SubTabHover" id="xg_tab_groups" class="xg_subtab"><a href="../../groups"><span>Groups</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitators</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/organizers-hosts" style="float:none;"><span>Organizers/Hosts</span></a></li></ul></div></li><li id="xg_tab_xn17" class="xg_subtab"><a href="../../hosting"><span>Hosting</span></a></li><li dojoType="SubTabHover" id="xg_tab_xn10" class="xg_subtab"><a href="../../facilitating"><span>Facilitating</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/structure-of-a-coderetreat" style="float:none;"><span>Structure</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../gol" style="float:none;"><span>Conway&#039;s Game of Life</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../facilitating/activity-catalog" style="float:none;"><span>Activity Catalog</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../profiles/blogs/on-the-role-of-the-coderetreat-facilitator" target="_blank" style="float:none;"><span>Role of the Facilitator</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../group/facilitators" style="float:none;"><span>Facilitator&#039;s Group</span></a></li></ul></div></li><li dojoType="SubTabHover" id="xg_tab_xn0" class="xg_subtab"><a href="../../media"><span>Media</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;" ><li style="list-style:none !important;display:block;text-align:left;"><a href="../../photo" style="float:none;"><span>Photos</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="../../video" style="float:none;"><span>Video</span></a></li></ul></div></li><li id="xg_tab_blogs" class="xg_subtab"><a href="../../profiles/blog/list"><span>Blogs</span></a></li><li id="xg_tab_forum" class="xg_subtab"><a href="../../forum.1"><span>Forum</span></a></li><li id="xg_tab_profile" class="xg_subtab"><a href="../../profiles.1"><span>My Page</span></a></li></ul>
+</div>
+            </div>
+            <div id="xg_ad_below_header" class="xg_ad xj_ad_below_header dy-displaynone">
+						
+					</div>
+            <div id="xg" class="xg_widget_events xg_widget_events_event xg_widget_events_event_listByDate">
+                	
+                <div id="xg_body">
+                    <div class="xj_notifications"></div>
+                    <div class="xg_column xg_span-14" id="column1">
+                        <div id="xg_canvas" class="xj_canvas">
+                            <ul class="navigation easyclear">
+	<li><a href="listUpcoming">Upcoming Events</a></li>
+	<li><a href="listArchive">Past Events</a></li>
+	<li><a href="listUserEvents?">My Events</a></li>
+			<li class="right xg_lightborder navbutton"><a href="new?cancelTarget=http%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2016-10-22" class="xg_sprite xg_sprite-add">Add</a></li>
+	</ul>
+<div class="xg_headline">
+<div class="tb"><h1>Saturday, October 22, 2016</h1>
+    </div>
+</div>
+<div class="xg_column xg_span-12">
+    <div class="xg_module module_searchbar">
+    <div class="xg_module_body">
+        <form action="http://coderetreat.org/events/event/search">
+            <p class="left">
+                                <input name="q" type="text" class="textfield" value=""  />
+                                <a class="xg_icon xg_icon-search" title="Search Events" onclick="x$(this).parents('form').submit();" href="listByDate?date=2016-10-22#">Search Events</a>
+                            </p>
+                    </form>
+            </div>
+</div>
+        <div class="xg_module">
+	<div class="xg_module_body body_events_main">
+<ul class="clist noDate"><li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-wroclaw-poland/showAttendees?status=not_rsvped">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-wroclaw-poland/showAttendees?status=not_rsvped">Global Day of Coderetreat 2016 - Wroclaw, Poland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=%2528to+be+announced%2529">(to be announced)</a>			</span>
+			                <span class="item_info">Plain, great Global Day of CodeRetreat!</span>                <span class="item_contributor">Organized by <a href="../../profile/MaciejTalaska">Maciej Talaśka</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-istanbul-turkey">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/61FQgI-ukrApUzrBEgoE9atJcwX9YV39aVB-jc9FmvEPd5BQWjlx5hfIU5bz8XuK18JRA-*G1gLYcXRi9cFOO3zmByGupcLj/agileturkeyagilecoachofturkey.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-istanbul-turkey">Global Day of Coderetreat 2016 - Istanbul, Turkey</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Istanbul">Istanbul</a>			</span>
+			                <span class="item_info">Agile Turkey has been organizing Global Day of Code Retreat at Istanbul since 2013. This year, we would like to make it happen again. Looking forward to seeing passionate developers the the event. It<a href="../global-day-of-coderetreat-2016-istanbul-turkey">…</a></span>                <span class="item_contributor">Organized by Agile Turkey | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr16istanbul">gdcr16istanbul</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-corrientes-argentina/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-corrientes-argentina/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - CORRIENTES, ARGENTINA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=FACENA-UNNE">FACENA-UNNE</a>			</span>
+			                <span class="item_info">Edición local del Día Mundial del Coderetreat.
+
+Próximamente mayor información pero seguí las novedades desde nuestras redes sociales.</span>                <span class="item_contributor">Organized by <a href="../../profile/MatiasMascazzini">Matias Mascazzini</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-calgary-canada/showAttendees?status=might_attend">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-calgary-canada/showAttendees?status=might_attend">Global Day of Coderetreat 2016 - CALGARY, CANADA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Calgary%252C+Alberta%252C+Canada">Calgary, Alberta, Canada</a>			</span>
+			                <span class="item_info">- Global day of code retreat in Calgary
+- You can register for the event here:
+https://www.meetup.com/Calgary-Agile-Methods-User-Group/events/234669786/</span>                <span class="item_contributor">Organized by <a href="../../profile/TonyTrungThanhVo">Tony Trung Thanh Vo</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-london-uk">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-london-uk">Global Day of Coderetreat 2016 - London, UK</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Codurance">Codurance</a>			</span>
+			                <span class="item_info">Registration: http://www.meetup.com/london-software-craftsmanship/events/234173628/ We are pleased to announce that Codurance together with LSCC is participating to the Global Day of Coderetreat. Thi<a href="../global-day-of-coderetreat-2016-london-uk">…</a></span>                <span class="item_contributor">Organized by  | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-paris-france/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/QYd7mNwhlPQRwyBIbM1qcNdC2MYckby2Fs*SyJIfFfnGhhX3DJw7QPZIDZ7Iqh-UoFBsvkzZwjzyoMAvdWC7AICuAkiL9AZd/05_twitter_kc_pair_prog.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-paris-france/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Paris, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=AROLLA">AROLLA</a>			</span>
+			                <span class="item_info">Bonjour à tous,
+pour la 5ème année consécutive, Arolla se fait une joie d'héberger le Global Day of Code Retreat!
+25, rue du Louvre - 75001 Paris
+interphone 2048 puis sonner à Arolla - 2ème étage
+
+Un<a href="../global-day-of-coderetreat-2016-paris-france/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/Arolla">Arolla</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-bangalore-india/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-bangalore-india/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Bangalore, India</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Bangalore">Bangalore</a>			</span>
+			                <span class="item_info">We are back and we're excited to host another GDCR in Bangalore!
+We'll be updating event information here, so stay tuned.
+Thanks,
+Agile Bangalore</span>                <span class="item_contributor">Organized by Agile Bangalore | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/A22HvZ-IoXX5wcQpB5-q0LeDKW5PTLiSN0N9R7EuxP3yyuO*7HpSCrMUgt7VR7Mc3rZrYCbebB8Kyuhk0kdP6fApWGTqEKc7/600_444150778.jpeg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Riga, Latvia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=TBD">TBD</a>			</span>
+			                <span class="item_info">Yet again, Latvian Developers Network together with Accenture Latvia will host the Global Day of Coderetreat 2016 in Riga, Latvia.
+Coderetreat is a day-long, intensive practice event, focusing on the<a href="../global-day-of-coderetreat-2016/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/LatvianDevsNetwork">Latvian Devs Network</a> | Type: <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-bordeaux-france/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-bordeaux-france/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Bordeaux, FRANCE</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=France">France</a>			</span>
+			                <span class="item_info">The Global Day of CodeRetreat 2016 in Bordeaux, don't forget to register through the meetup group.</span>                <span class="item_contributor">Organized by <a href="../../profile/ArnaudLemaire">Arnaud Lemaire</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-ostrava-czech-republic">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-ostrava-czech-republic">Global Day of Coderetreat 2016 - Ostrava, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=KOVORK+-+Podnikatelsk%25C3%25BD+inkub%25C3%25A1tor+-+CPI">KOVORK - Podnikatelsk&yacute; inkub&aacute;tor - CPI</a>			</span>
+			                <span class="item_info">We'd like to bring the GDCR to Ostrava again. All passionate developers are welcome. Come and enjoy a day full of new programming perspectives!
+Enroll here: http://srazy.info/coderetreat/6759</span>                <span class="item_contributor">Organized by <a href="../../profile/LiborKubecka">Libor Kubecka</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-london-uk-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-london-uk-1">Global Day of Coderetreat 2016 - London, UK</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Masabi">Masabi</a>			</span>
+			                <span class="item_info">Registration is needed and will be announced
+</span>                <span class="item_contributor">Organized by <a href="../../profile/JulianGhionoiu">Julian Ghionoiu</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-auckland-new-zealand-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-auckland-new-zealand-1">Global Day of Coderetreat - Auckland, New Zealand</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Pushpay">Pushpay</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat - Auckland, New Zealand
+Please register over at https://www.meetup.com/kiwi-code-retreat/events/233602655/</span>                <span class="item_contributor">Organized by <a href="../../profile/MarcusBristol">Marcus Bristol</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-cluj-napoca-romania/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/Br4C5Ku4dGs*2DjfAyu-hQ60HFq94nlD5vcuo3b92pitMgX0iHLHC-X9c923x-ZkOkH97qW5zffRPj69B4g6DnGwXkfd21d2/logo_reasonably_small.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-cluj-napoca-romania/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Cluj-Napoca, Romania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Cluj+HUB">Cluj HUB</a>			</span>
+			                <span class="item_info">We invite you to the Global Day of Coderetreat in Cluj-Napoca!
+Please register for this event using the RABS website.
+Coderetreat is a day-long, intensive practice event, focusing on the fundamentals<a href="../global-day-of-coderetreat-2016-cluj-napoca-romania/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by  | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-1/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-1/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Erlangen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Method+Park">Method Park</a>			</span>
+			                <span class="item_info">Join us for a full day dedicated to software engineering, craftsmanship and tons of fun!
+ 
+For more information, please visit the event’s website.</span>                <span class="item_contributor">Organized by Christian Hoffmann and Stefan Clepce | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-minsk-belarus/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-minsk-belarus/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Minsk, Belarus</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=TBD%253A">TBD:</a>			</span>
+			                <span class="item_info">GDCR16 in Minsk, Belarus If you have any questions, please contact: 
+email: sergey.sergyenko@gmail.com
+skype: sergey.sergyenko</span>                <span class="item_contributor">Organized by <a href="../../profile/SergeySergyenko">Sergey Sergyenko</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-poznan-poland">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-poznan-poland">Global Day of Coderetreat 2016 - Poznan, Poland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Poznan%252C+Poland">Poznan, Poland</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2016 in Poznan!
+Please register here: http://www.meetup.com/GDOCR-Poznan/</span>                <span class="item_contributor">Organized by <a href="../../profile/BartoszMikulski">Bartosz Mikulski</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-valencia-spain">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-valencia-spain">Global Day of Coderetreat 2016 - Valencia, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Flywire">Flywire</a>			</span>
+			                <span class="item_info">YAGDCR in Valencia, Spain!
+We expect to spend a great day writing code, working in pairs and iterating on the same exercise over and over again. Come and play the game of life.
+RSVP will open shortly.</span>                <span class="item_contributor">Organized by <a href="../../profile/Emma">Emma</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-hyderabad-india">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/Sf5NtxbD8B2JAiH3xFHcAT21gVIUfm7FYKClajMCoJWM9QQ-TU3T8YP3H48KXN4tjJNUI5op*d*P1HvpkMfRbvdCkCHx85qc/hyscalalogo.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-hyderabad-india">Global Day of Coderetreat 2016 - Hyderabad, India</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Amazon+Development+Centre+%2528India%2529+Pvt.+Ltd">Amazon Development Centre (India) Pvt. Ltd</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../global-day-of-coderetreat-2016-hyderabad-india">…</a></span>                <span class="item_contributor">Organized by <a href="../../xn/detail/u_0uvy0dnzzzyiq">Rajmahendra Hegde</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-new-york-city/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-new-york-city/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - NEW YORK CITY, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=ThoughtWorks+NYC">ThoughtWorks NYC</a>			</span>
+			                <span class="item_info">Software Craftsmanship New York will be hosting  a code retreat for the GDCR 2016!
+Please join us for a full day of hands-on coding exercises to improve your craft.
+Just bring your computer and a wil<a href="../global-day-of-coderetreat-2016-new-york-city/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by Software Craftsmanship New York | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-weinsberg-de/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-weinsberg-de/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Weinsberg, DE</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Kaufland+Informationssysteme+GmbH">Kaufland Informationssysteme GmbH</a>			</span>
+			                <span class="item_info">Ein Tag, eine Aufgabe, n Sprachen, 0 Kosten
+Registration bitte nan ki-is-event@kaufland.com</span>                <span class="item_contributor">Organized by Kaufland Informationssysteme GmbH | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-madrid-espa-a/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-madrid-espa-a/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Madrid, Espa&ntilde;a</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Madrid">Madrid</a>			</span>
+			                <span class="item_info">global day of code retreat in Madrid.</span>                <span class="item_contributor">Organized by <a href="../../profile/SoftwareCraftsmanshipMadrid">Software Craftsmanship Madrid</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-tirgu-mures/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-tirgu-mures/showAttendees?status=not_attending">Global Day of Coderetreat - Tirgu-Mures, Romania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Tirgu-Mures">Tirgu-Mures</a>			</span>
+			                <span class="item_info">In Tirgu-Mures?
+Join us for the Global Day of Coderetreat.</span>                <span class="item_contributor">Organized by <a href="../../profile/OneLogicConsulting">One Logic Consulting</a> | Type: <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-mutilva-navarra-spain/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-mutilva-navarra-spain/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Pamplona, Navarra, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Openbravo+Headquarters">Openbravo Headquarters</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2016, hosted by Openbravo. We are looking forward to get together with passionate developers to spend a day having fun working on the fundamentals of software development an<a href="../global-day-of-coderetreat-2016-mutilva-navarra-spain/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/AugustoMauch">Augusto Mauch</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-columbus-oh-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/iwncuNArSGDninP*kp7UBrbYl4egcaHCQNcPTRxfLTcJfLm7K9rOQ5emjpvW6xzPCwbpWBtnVsBRbpzH8MTRmxilrkP*NhWV/ccclogo.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-columbus-oh-usa">Global Day of Coderetreat 2016 - Columbus, OH, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Rev1+Ventures">Rev1 Ventures</a>			</span>
+			                <span class="item_info">A Coderetreat is an intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the<a href="../global-day-of-coderetreat-2016-columbus-oh-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/GuyRoyse">Guy Royse</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2014-5/showAttendees?status=might_attend">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2014-5/showAttendees?status=might_attend">Global Day of Coderetreat 2016 - Arlington, VA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Excella+Consulting">Excella Consulting</a>			</span>
+			                <span class="item_info">Baltimore-Washington area code retreat day in Arlington, VA. 
+Stand by for details.</span>                <span class="item_contributor">Organized by <a href="../../profile/VladKorolev">Vlad Korolev</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-skopje-macedonia">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/a5kYpi8WX584YIlctyKDuR4ud0oTDXnr*z0UHn9ZOwy2QH2rJFm3qA60q65qsWjvkA9LcT8gzRKete15H*m9jtjRrsSMNkzz/HASELTcoderetreatorg.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-skopje-macedonia">Global Day of Coderetreat 2016 - Skopje, Macedonia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=HASELT">HASELT</a>			</span>
+			                <span class="item_info">Registration is on EventBrite.</span>                <span class="item_contributor">Organized by HASELT | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-4/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/a5kYpi8WX59*lDZkbEER2OI-wZZ1PtJ6GBod3z1gjN1tow-BSm0*YSqil-WfFKvSrKU96jWBPAH3oEd22*p30j9I29QVN3VN/JUG.jpeg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-4/showAttendees?status=not_attending">Global Day of CodeRetreat - Hyderabad, India</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=EPAM+Systems+Hyderabad">EPAM Systems Hyderabad</a>			</span>
+			                <span class="item_info">Java User Group Hyderabad celebrates Global Day of Code Retreat. 
+This is "a day to celebrate passion and Software Craftsmanship"
+It's a day long event. 
+It's a time to dojo/practice. 
+It's a time to<a href="../global-day-of-coderetreat-4/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/RohitVaidya">Rohit Vaidya</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-newbury-uk/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/G834pRjVCIGrt0Jzs2vKZoRjc6klkNqwtO9Uxqmj*MInCXdwOCkyKlVEzkl2k-85pH-U6oh06H9LNTDnB2QHniMhuiLt1m-H/ExonarLocation.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-newbury-uk/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Newbury, UK</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> to <a href="listByDate?date=2016-10-23">October 23, 2016</a> – <a href="listByLocation?location=Exonar">Exonar</a>			</span>
+			                <span class="item_info">Silicon Canal Newbury hosts the Global Day of Coderetreat. Here the link to the event of the meetup Silicon Canal Newbury </span>                <span class="item_contributor">Organized by <a href="../../profile/vittorioscibetta">vittorio scibetta</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-turku-finland/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/6yWgYSVs-J0LAOnOdeGYh6sVcfSBfg5IRudFNlqaLmL82TpBhD6RS6pPqeqAT2QzAGnbcdFXDfVoDqzHdXFsz2qvtWWZ25p-/AradoAgreenwhite.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-turku-finland/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Turku, Finland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Werstas+%25284th+floor%2529%252C+Kupittaa%252C+Turku">Werstas (4th floor), Kupittaa, Turku</a>			</span>
+			                <span class="item_info">Join us for coding, fun, food, and fun.
+Please register here: coderetreat.arado.fi
+More information about the event place (Werstas) you can find from here: http://www.werstasturku.fi/fi/werstas
+</span>                <span class="item_contributor">Organized by Arado | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2016-san-francisco-us/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2016-san-francisco-us/showAttendees?status=not_attending">Global Day of Code Retreat 2016 - San Francisco, US</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Avenue+Code">Avenue Code</a>			</span>
+			                <span class="item_info">Registration: https://www.meetup.com/San-Francisco-Software-Craftsmanship/events/234610700/
+
+Global Day of Code Retreat is an annual event where craftspeople from all around the world gather together<a href="../global-day-of-code-retreat-2016-san-francisco-us/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/BogdanDumitrescu">Bogdan Dumitrescu</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-in-iasi-romania/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-in-iasi-romania/showAttendees?status=not_attending">Global Day of Coderetreat 2016 in Iasi, Romania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Hotel+International">Hotel International</a>			</span>
+			                <span class="item_info">For the first time in Iași we will run a Code Retreat on the occasion of the 2016 GDCR. By a fortunate coincidence the day coincides with the CodeCamp conference. CodeCamp is facilitating our hosting<a href="../global-day-of-coderetreat-2016-in-iasi-romania/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/IulianDogariu">Iulian Dogariu</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-toronto-canada">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-toronto-canada">Global Day of Coderetreat 2016 - Toronto, Canada</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Downtown+Toronto%252C+Shopify+offices">Downtown Toronto, Shopify offices</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../global-day-of-coderetreat-2016-toronto-canada">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/ChrisGow">Chris Gow</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2016-bangalore/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/LWCQK0y*HRCI0LNJNgTV1NB*clkC1yAO*hAhnpogUJ*MeahM-EcO7ycE0n5HgP-WnrY-*vfR7BDjOviXNFKCdmqkY9*5RI7N/download.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2016-bangalore/showAttendees?status=not_attending">Global Day of Code Retreat 2016 &ndash; Bangalore, India</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=SolutionsIQ+%252C+Residency+Road">SolutionsIQ , Residency Road</a>			</span>
+			                <span class="item_info">Let us celebrate software craftsmanship on 22 October 2016, SolutionsIQ in association with Agile Technical Group will be hosting Global Day of Code Retreat 2016 –Bangalore, This is a full day event<a href="../global-day-of-code-retreat-2016-bangalore/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by SolutionsIQ along in association with Agile Technical Group | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-nantes-france">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-nantes-france">Global Day of Coderetreat 2016 - Nantes, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Nantes">Nantes</a>			</span>
+			                <span class="item_info">Pour la première fois, le code retreat aura lieu à Nantes. Ne manquez pas cette occasion en vous inscrivant au meetup du groupe Software Crafts(wo)manship Nantes:https://goo.gl/RNIzzf
+</span>                <span class="item_contributor">Organized by Software Crafts(wo)manship Nantes | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-st-petersburg-florida/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/G834pRjVCIEnk1MxTbK43NuBVFjxBYBuETAaOvxGapWhqRbvZxufuTM9pLtpaqoyoRIx9DlXpiitYEMNrLIgGgVx-WKZN88H/highres_433364832.jpeg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-st-petersburg-florida/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - St Petersburg, Florida</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=The+Iron+Yard">The Iron Yard</a>			</span>
+			                <span class="item_info">The Iron Yard and Suncoast Developers Guild will be hosting a day-long fun practice event focusing on the fundamentals of software development, design and teamwork that is free to all attendees. By p<a href="../global-day-of-coderetreat-2016-st-petersburg-florida/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/JasonLPerry">Jason L Perry</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-las-palmas-de-gran-canaria-spain">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-las-palmas-de-gran-canaria-spain">Global Day of Code Retreat - Las Palmas de Gran Canaria, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Edificio+IncubeGC+en+Infecar">Edificio IncubeGC en Infecar</a>			</span>
+			                <span class="item_info">Yet another great GDCR !! You'll need to register in the meetup in order to assist. See you there!http://www.meetup.com/es-ES/SPEGC-Sociedad-de-Promocion-Economica-de-Gran-Canaria/events/234937853/?r<a href="../global-day-of-code-retreat-las-palmas-de-gran-canaria-spain">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/SoftwareCraftsmanshipGC">Software Craftsmanship GC</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-paris-france-by-ladies-of-code/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/p*3v1Fh0sStCRi6R45y5zGPcKL3cOM6O8TX02yYKZbM1A0CMKq*yWlV8ALRZj3jO37XZ0Vc2aF02j4plJtfw7Dh35DWR9XiY/LadiesOfCode_400x400.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-paris-france-by-ladies-of-code/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Paris, France by Ladies of Code Paris (at Arolla)</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> all day – <a href="listByLocation?location=Paris+1er">Paris 1er</a>			</span>
+			                <span class="item_info">Venez découvrir le Jeu de la Vie lors du Global Day of Coderetreat, un évènement mondial organisé par des communautés locales pour célébrer la passion du code !
+Au cours de cet atelier d'une journée,<a href="../global-day-of-coderetreat-2016-paris-france-by-ladies-of-code/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by @LadiesCodeParis &amp; Arolla | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-durban-south-africa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/FmRNLe*vCpSCeKuO7pYPRTjAIqyBlyv6FodYdYg2ISEWx78OUOzGx2pZR6Gnqc2MXb2ByuoCdpK3D71NQgmP-3Ccs6*pxnHw/ZADurbanstraende.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-durban-south-africa">Global Day of Coderetreat 2016 - Durban, South Africa</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 7:30am to 4pm – <a href="listByLocation?location=Durban">Durban</a>			</span>
+			                <span class="item_info">Chillisoft are hosting the Global Day of Code Retreat in Durban this year. Come and join us for a day of fun, practice and learning. Numbers are limited so please sign up on meetup.com and follow the<a href="../global-day-of-coderetreat-2016-durban-south-africa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/MarkWhitfeld">Mark Whitfeld</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-gauteng-south-africa/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-gauteng-south-africa/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Gauteng, South Africa</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 7:30am to 5pm – <a href="listByLocation?location=Driven+Spark">Driven Spark</a>			</span>
+			                <span class="item_info">Driven Spark is organising a Global Day of Coderetreat. If you are in the Gauteng area come and join us for a day of fun, practice and learning. Numbers are limited so please follow the instructions<a href="../global-day-of-coderetreat-2016-gauteng-south-africa/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/BarryTandy">Barry Tandy</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-winnipeg/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-winnipeg/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Winnipeg, Canada</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=Winnipeg%252C+Manitoba">Winnipeg, Manitoba</a>			</span>
+			                <span class="item_info">Join us in Winnipeg for the Global Day of Coderetreat on Saturday, October 22nd.
+Bold Commerce has generously offered to host us at their new space in the south end:
+
+50 Fultz Blvd, Winnipeg, MB R3Y<a href="../global-day-of-coderetreat-2016-winnipeg/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/Davidalpert">David alpert</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-brno-2016/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/j5BEQWmInn0GV3d6M3474384OPnOwIGppl8bAOsGHR88vwRO4mq9RVEyEO*pZ*xtQ2KK5iIwywBte8e3*CcOEJb0jMIYil0w/Coderetreatlogo.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-brno-2016/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Brno, CZ</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=Impact+Hub">Impact Hub</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat in Brno, Czech Republic.
+registration is here:http://srazy.info/coderetreat/6753
+</span>                <span class="item_contributor">Organized by Vladimir Kopso, Martin Spanko, Jakub Fojtl | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-portland-or-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/RnxjYN0X5lS8eSb1LqPmdz6J47sbyon3Aq2C07XI8B-Xe45fixKYNBIuwXyU6-VjVzoR19P0TRnpjzw1X2L8djnE3BkoAPpu/Logoonly.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-portland-or-usa">Global Day of Coderetreat - Portland, OR, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=Slalom+Consulting">Slalom Consulting</a>			</span>
+			                <span class="item_info">On Saturday, October 22nd, the Global Day of Coderetreat will bring programmers together from all over the globe.   Portland continues its strong record of building better developers and growing the<a href="../global-day-of-coderetreat-portland-or-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/MattPlavcan">Matt Plavcan</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-atlanta-ga-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-atlanta-ga-usa">Global Day of Coderetreat 2016 - Atlanta, GA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=Greater+Sum">Greater Sum</a>			</span>
+			                <span class="item_info">RSVP at https://www.eventbrite.com/e/global-day-of-coderetreat-atlanta-tickets-27486343393
+</span>                <span class="item_contributor">Organized by Mike Clement and Kylie Stradley | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2016-prague-czech-republic/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/uTkvFPCTt6GftcgsHrLsJIlUfCHauq45naN3htccXt1zedv6erwD5pmzsL7*TTGWQ9cJLCH2NaTygfWsH5KpIBreitY1Y9dA/coderetreat_big.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2016-prague-czech-republic/showAttendees?status=not_attending">Global Day of Code Retreat 2016 - Prague, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 6pm – <a href="listByLocation?location=TBA">TBA</a>			</span>
+			                <span class="item_info">Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustř<a href="../global-day-of-code-retreat-2016-prague-czech-republic/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/AlesRoubicek">Ale&scaron; Roub&iacute;ček</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-l-beck-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/oX3dxcXIhM7UMDvmbX8My2sYDsk-PbvCqlVpbuUYHA-2dS*ekbCRErKWRhKRD6rkuseDtAxvzAWJ-goEEN8BA77zBNwhxAS0/swk.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-l-beck-germany">Global Day of Coderetreat 2016 - L&uuml;beck, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=Dr%25C3%25A4ger+%2522Garage%2522">Dr&auml;ger &quot;Garage&quot;</a>			</span>
+			                <span class="item_info">We will celebrate the Global Day of Code Retreat in Lübeck!
+During normal work we don´t have much time to work on our core skills as developer. Under time pressure we often use known technics or habi<a href="../global-day-of-coderetreat-2016-l-beck-germany">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/FlorianMoesch">Florian M&ouml;sch</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-johannesburg-south-africa/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-johannesburg-south-africa/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Johannesburg, South Africa</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 4:30pm – <a href="listByLocation?location=ThoughtWorks+South+Africa">ThoughtWorks South Africa</a>			</span>
+			                <span class="item_info">We are excited to host this year's global code retreat in Johannesburg.
+More updates about the event will be posted here. </span>                <span class="item_contributor">Organized by <a href="../../profile/TsatsiMahase">Tsatsi Mahase</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-charlottetown-pei/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-charlottetown-pei/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Charlottetown, Canada</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 4pm – <a href="listByLocation?location=Startup+Zone">Startup Zone</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat hosted by PEIDevs</span>                <span class="item_contributor">Organized by <a href="../../profile/PEIDevs">PEIDevs</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-stanbul/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/HA1kPj-97*He9odhku8-OP8kTn9HrixupfNVNpVugURMMIJI86NtotR0a7i5ob-sTuS2OhLI2No2*APU6Gj8GnyBtCFvQnK4/GlobalDayof.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-stanbul/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - İstanbul, Turkey</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=KWORKS+Giri%25C5%259Fimcilik+Ara%25C5%259Ft%25C4%25B1rma+Merkezi">KWORKS Girişimcilik Araştırma Merkezi</a>			</span>
+			                <span class="item_info">You 're invited to Global Day of Code Retreat in İstanbul </span>                <span class="item_contributor">Organized by İstanbul Java User Group | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-5">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-5">Global Day of Coderetreat 2016 - Portland, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=The+Tech+Academy+Portland">The Tech Academy Portland</a>			</span>
+			                <span class="item_info">PDXWIT presents a woman-focused Coderetreat in honor of the Global Day of Coderetreat 2016. Coderetreat.org is a self-organized, volunteer led organization dedicated to helping software developers he<a href="../global-day-of-coderetreat-5">…</a></span>                <span class="item_contributor">Organized by Jean Richardson and Tanya Crenshaw | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-cape-town-south-africa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-cape-town-south-africa">Global Day of Coderetreat 2016 - Cape Town, South Africa</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=Cape+Town">Cape Town</a>			</span>
+			                <span class="item_info">Coderetreating in Cape Town!
+RSVP on meetup:
+http://www.meetup.com/Cape-Town-Software-Developers/events/234522152/</span>                <span class="item_contributor">Organized by <a href="../../profile/DavidCampey">David Campey</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-olomouc-czech-republic">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-olomouc-czech-republic">Global Day of Coderetreat 2016 - Olomouc, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8am to 5pm – <a href="listByLocation?location=Pr.F+Univerzity+Palackeho">Pr.F Univerzity Palackeho</a>			</span>
+			                <span class="item_info">Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustř<a href="../global-day-of-coderetreat-2016-olomouc-czech-republic">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/TomasLatal">Tomas Latal</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-nuremberg-germany/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/bLx5PI5eKB24aucDV2u88ijwGkORwCYnzhBgf8pzbpVzt6flodumWz*vc6m2hSbh27SMrrvPshn34pqyM6WHu-Fn8d5zS0uv/datev_itcjpg2.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-nuremberg-germany/showAttendees?status=not_attending">Global Day of CodeRetreat 2016 - Nuremberg, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 8pm – <a href="listByLocation?location=DATEV+eG%252C+Nuremberg">DATEV eG, Nuremberg</a>			</span>
+			                <span class="item_info">DATEV will be the hoster of the Nuremberg event of Global Day of CodeRetreat. Hope to see you all!
+In case you'll like to attend, please register on ti.to!</span>                <span class="item_contributor">Organized by <a href="../../profile/AndyFischer">Andy Fischer</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-melbourne-australia">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/Jv0uXyhCIIPj1hpNZquW-lD*Ftsq956CgJHSrDrAbMgh8-N1HXiddSQjl79RZ9nCjpWXUPGRrb-2AdVx*lOk6*4ICHOwnU0C/image.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-melbourne-australia">Global Day of Coderetreat 2016 - Melbourne, Australia</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5:30pm – <a href="listByLocation?location=REA+Group">REA Group</a>			</span>
+			                <span class="item_info">Registration open on Eventbrite
+https://www.eventbrite.com.au/e/global-day-of-coderetreat-melbourne-2016-tickets-27402867715
+The $10 deposit will be refunded when you arrive at the venue for the even<a href="../global-day-of-coderetreat-2016-melbourne-australia">…</a></span>                <span class="item_contributor">Organized by Tomasz Janowski, Ilya Paripsa, Terry Dai | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-zurich-switzerland">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/KMK8bRYqKW1tS0CH52Jy*Y0dh-dfEr4kWsxTpXo6kJa2-CJrOEQC*ImIcvX94zw0sa61z17QbexnQW-CQmvRpzUzy9DispZn/gdcr16.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-zurich-switzerland">Global Day of Coderetreat 2016 - Zurich, Switzerland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 6pm – <a href="listByLocation?location=Namics+AG">Namics AG</a>			</span>
+			                <span class="item_info">This year Xmas comes early to all genuine coders: we are looking forward to seeing you in Zurich at the best day of the year, #GDCR16!  Our hosts, as per tradition, are the friendliest and coolest IT<a href="../global-day-of-coderetreat-2016-zurich-switzerland">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/infinitary">infinitary</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-st-gallen-switzerland">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/bt5BWlmh0GbMz8IVnVuEt1A3MGZMl1ak6jhBpvXaxgON4S7WBkWeHt2OuUBX6JHKt7fpHfMu-vEyt1NUcs7felh6vYInzP-c/1024pxStiftskirche_St.Gallen_side.JPG?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-st-gallen-switzerland">Global Day of Coderetreat 2016 - St. Gallen, Switzerland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 6pm – <a href="listByLocation?location=Namics+AG">Namics AG</a>			</span>
+			                <span class="item_info">It's the second time, we are running GDCR in St. Gallen!
+Our hosts, as per tradition, is the friendliest and coolest IT shop in town: Namics AG.
+Registration is open on Eventbrite (GDCR 16 St. Gallen<a href="../global-day-of-coderetreat-2016-st-gallen-switzerland">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/patbaumgartner">Patrick Baumgartner</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-karlsruhe-germany/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-karlsruhe-germany/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Karlsruhe, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5:30pm – <a href="listByLocation?location=Fiducia+%2526+GAD+IT+AG">Fiducia &amp; GAD IT AG</a>			</span>
+			                <span class="item_info">Local instance of the Global Day of Coderetreat.
+Register here (Limited to 30 attendees) Hosted &amp; sponsored by Fiducia &amp; GAD IT AG. Facilitated by Softwerkskammer Karlsruhe</span>                <span class="item_contributor">Organized by Peter Fichtner, Fiducia &amp; GAD IT AG | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-auckland-movio">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-auckland-movio">Global Day of Coderetreat - Auckland, New Zealand</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5:30pm – <a href="listByLocation?location=Movio">Movio</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat - Auckland, New Zealand
+Please register over at: http://www.meetup.com/kiwi-code-retreat/events/233810105/</span>                <span class="item_contributor">Organized by <a href="../../profile/RandallBritten">Randall Britten</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-zielona-g-ra-poland/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/H5BhlPfjXdJZGpdNXFADISNmDBIqCCNRtM00-4NKcD2I6BgXisclVUAqg-rLX5vtaw-ctdNgcJ*GdXxZqMq7qEzULlhe7NDP/GDoCR.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-zielona-g-ra-poland/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Zielona G&oacute;ra, Poland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5:30pm – <a href="listByLocation?location=UZ+-%253E+Wydzia%25C5%2582+Fizyki+i+Astronomii%252C+sala+106+%2528A-29%2529">UZ -&gt; Wydział Fizyki i Astronomii, sala 106 (A-29)</a>			</span>
+			                <span class="item_info">Long but cool day, intensive practice event, focusing on the fundamentals of software development and design.</span>                <span class="item_contributor">Organized by <a href="../../profile/AleksandraSoltysik">Aleksandra Sołtysik</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-erlangen-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/AI-C-DD*hSdBERjdUQTIQddz6aRLdA82DhPVvaQw1-5U0x51g0FPV5KxJ*v3MLAdUhAT3Jx3IUi11TLm-Ud9BBdIzt2jGVmv/Bauarbeiterbeans_173x173_mathema.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-erlangen-germany">Global Day of Coderetreat 2016 - Erlangen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5pm – <a href="listByLocation?location=MATHEMA+Software+GmbH">MATHEMA Software GmbH</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2016 in Erlangen
+Registration: info@mathema.de
+Sponsor: MATHEMA Software GmbH
+</span>                <span class="item_contributor">Organized by <a href="../../profile/ThomasBertz">Thomas Bertz</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-muenster-germany/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-muenster-germany/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Muenster, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5:30pm – <a href="listByLocation?location=Fiducia+%2526+GAD+IT+AG">Fiducia &amp; GAD IT AG</a>			</span>
+			                <span class="item_info">Local instance of the Global Day of Coderetreat.
+Register here (Limited to 30 attendees) Hosted &amp; sponsored by Fiducia &amp; GAD IT AG. Facilitated by SocraMOB</span>                <span class="item_contributor">Organized by Peter Fichtner, Fiducia &amp; GAD IT AG | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-bielefeld-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-bielefeld-germany">Global Day of Coderetreat 2016 - Bielefeld, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 4pm – <a href="listByLocation?location=klose+brothers+Gmbh">klose brothers Gmbh</a>			</span>
+			                <span class="item_info">Global Day in Bielefeld (Germany)</span>                <span class="item_contributor">Organized by <a href="../../profile/JaroslawKlose">Jaroslaw Klose</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-honolulu-hi">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-honolulu-hi">Global Day of Coderetreat 2016 - Honolulu, HI</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 4:30pm – <a href="listByLocation?location=Manoa+Innovation+Center">Manoa Innovation Center</a>			</span>
+			                <span class="item_info">Honolulu is participating in GDCR for the 6th year!
+
+Please see details and RSVP at https://www.meetup.com/aloharb/events/234182731/
+</span>                <span class="item_contributor">Organized by <a href="../../profile/ChristopherSass">Christopher Sass</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-3">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-3">Global Day of Coderetreat 2016 - Berlin, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5pm – <a href="listByLocation?location=Deutsche+Post+E-Post+Development+GmbH">Deutsche Post E-Post Development GmbH</a>			</span>
+			                <span class="item_info">Register at https://gdcr-2016-berlin.eventbrite.com/</span>                <span class="item_contributor">Organized by Egga Hartung | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr">gdcr</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-bend-or-usa/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-bend-or-usa/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Bend, OR, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 4:30pm – <a href="listByLocation?location=Central+Oregon+Community+College">Central Oregon Community College</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2016 - Bend, OR, USA. Free. Open to the public. Held at Central Oregon Community College. Coffee and lunch sponsored by PacificSource Health Plans. Register at https://www.e<a href="../global-day-of-coderetreat-2016-bend-or-usa/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/GeneHyde">Gene Hyde</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-berlin-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/2QN5aCZBKSY*yMwfLJxFniO4O8FZAkPT*NwlvvzToygHqNaMPyyfuZa1ESCnVYOcDL9tILC7iud--vtrFAbfbpGfaJBQqZLH/crberlinklein.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-berlin-germany">Global Day of Coderetreat 2016 - Berlin II, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 5:30pm – <a href="listByLocation?location=idealo">idealo</a>			</span>
+			                <span class="item_info">register at :
+https://gdcr-2016-berlin-ii.eventbrite.com/</span>                <span class="item_contributor">Organized by <a href="../../profile/MartinKlose">Martin Klose</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=berlin">berlin</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../gdcr16-epam-debrecen">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/SMDQUmJgBD96jZ*4SwqlQT1ZtUouSB08ydOa5NAnEcbCw6cW3nmrziqNX0QYdti-wJkAu8xOAg0LDBhKZeKz1cA9Fe4M9Zvi/EPAM_LOGO_Small_Square_Color_RGB.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../gdcr16-epam-debrecen">GDCR16 - Epam Debrecen</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:30am to 4pm – <a href="listByLocation?location=Epam+Debrecen">Epam Debrecen</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2016 at Debrecen
+Epam Systems happy to join the coderetreat community and spread the craft among local software engineers
+Registration at https://epa.ms/gdcr-debrecen</span>                <span class="item_contributor">Organized by Epam Systems | Type: <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=coderetreat">coderetreat</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-vilnius-lithuania">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/kYkWoLTW4g8A01YqtYI2WmIbWrp2dbrTyLu5EvpHOu-8H5mV-jvvcRRtSlMFx5dJGu8tjXnV3RQ0B7AbiH-l8NXaVliikngV/Vilnius_Gediminas_tower.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-vilnius-lithuania">Global Day of Coderetreat 2016 - Vilnius, Lithuania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 8:45am to 5pm – <a href="listByLocation?location=Inventi">Inventi</a>			</span>
+			                <span class="item_info">Register here: https://www.eventbrite.com/e/global-day-of-coderetreat-2016-vilnius-tickets-28077751310</span>                <span class="item_contributor">Organized by <a href="../../profile/OsvaldasGrigas">Osvaldas Grigas</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-thessaloniki-greece">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/i4fTJpzVJDOAuNjeGBEvtTYmiFQVwMyJraLIJSmK7eM4ee06MS77ulP9zjpFAnWnkRIUZKFSqVOQsOphD0NyM1jyT7WJyUgN/thess3.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-thessaloniki-greece">Global Day of Coderetreat 2016 - Thessaloniki, Greece</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=Thessaloniki%252C+Greece">Thessaloniki, Greece</a>			</span>
+			                <span class="item_info">After our first baby steps, we are back and we're excited to host another GDCR in Thessaloniki!
+We'll be sending information using our web site and twitter accounts so stay tuned</span>                <span class="item_contributor">Organized by SoftConf | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-fulda-germany/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/vhACU8JlJgTYmVwBXlvDGkCkAGjNny4QbdToiHpnik0K*34qbv3TANOL7Sg4F608wrkaSQKfNEp-*e9AGqFJkPT4h2xfbkRq/hsfulda.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-fulda-germany/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Fulda, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=University+of+applied+Sciences+Fulda">University of applied Sciences Fulda</a>			</span>
+			                <span class="item_info">Die OPITZ CONSULTING GmbH lädt in Kooperation mit Hochschule Fulda und dem MINTmach Club e.V.  alle interessierten Softwareentwickler/innen aus der Region zum »Global Day of Coderetreat« am 22. Oktob<a href="../global-day-of-coderetreat-2016-fulda-germany/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/tpdopitzconsulting">tpd opitz-consulting</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2016">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2016">Global Day of Code Retreat 2016 - Frankfurt, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=itemis+AG%252C+Westendstra%25C3%259Fe+28%252C+60325+Frankfurt+am+Main">itemis AG, Westendstra&szlig;e 28, 60325 Frankfurt am Main</a>			</span>
+			                <span class="item_info">Global Day of Code Retreat 2016
+Anmeldung: https://www.eventbrite.de/e/global-day-of-coderetreat-in-frankfurt-tickets-27930229067</span>                <span class="item_contributor">Organized by <a href="../../profile/Sven">Sven</a> | Type: <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=frankfurt">frankfurt</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-osnabr-ck-germany/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/b9WdiVqANslHmlHXfNl-c*NyGXlb7zueRyIc7oQGmjtt4dlZNvvi1ybszdkArPZ3XkH8WJ7XCXwiO-yZDcqHq5u-Mj4ckndr/IMG_7329.JPG?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-osnabr-ck-germany/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Osnabr&uuml;ck, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=LMIS+AG">LMIS AG</a>			</span>
+			                <span class="item_info">Die LMIS AG lädt in Kooperation mit Universität und Hochschule Osnabrück alle interessierten Softwareentwickler/innen aus der Region zum »Global Day of Coderetreat« am 22. Oktober 2016 ein.  Studente<a href="../global-day-of-coderetreat-2016-osnabr-ck-germany/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/LMISAG">LMIS AG</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2015-munich-germany-1">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0VDyeNsf-iHxWVIwNv3wsTJunM-laHV3e0ncPAiHNCogxtHCdfIf4E-X81kcmsTFmxSzTyIpLi8hsA-rwaN3cQ-AbkeHHy7c/munich.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2015-munich-germany-1">Global Day of Coderetreat 2016 - Munich, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=codecentric+AG+Office">codecentric AG Office</a>			</span>
+			                <span class="item_info">We organize the event on meetup.com</span>                <span class="item_contributor">Organized by <a href="../../profile/DavidVoelkel">David V&ouml;lkel</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-in-essen-germany">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/WDvxeYqj4vodbF7S5wpA2rUxtzwBmroMl7HRO018HHuVlfen2xqiwqtcOlgx4mx9R0kX9LCH3kWn1qDqxHRZS9oMZr8T*frq/csm_standortessen_0e39d40447.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-in-essen-germany">Global Day of Coderetreat 2016 - Essen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=OPITZ+CONSULTING+Deutschland+GmbH">OPITZ CONSULTING Deutschland GmbH</a>			</span>
+			                <span class="item_info">OPITZ CONSULTING Deutschland GmbH is hosting the Global Day of Code Retreat 2016 in Essen.
+ // German //
+Ein "Coderetreat" ist eine ganztägige Veranstaltung zum Üben und Verbessern der Fähigkeiten zu<a href="../global-day-of-coderetreat-2016-in-essen-germany">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/StefanGlase677">Stefan Glase</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-solingen-germany/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0VDyeNsf-iGYRtdaJNpm2Xrrt9yYG63hcAxrkfTvpL17hDGOWalM3Hmq686BUsPqU7RgW8GEkQqa6s3D2ArINaICtdWphxu3/cc.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-solingen-germany/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Solingen, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=codecentric+AG">codecentric AG</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2016 at codecentric AG in Solingen!
+Come and improve your programming skills together with peers, explore new technology or methods, and learn, learn, learn - all without th<a href="../global-day-of-coderetreat-2016-solingen-germany/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/Marco">Marco</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-budapest-hungary">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-budapest-hungary">Global Day of Coderetreat 2016 - Budapest, Hungary</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=Emarsys+CraftLab">Emarsys CraftLab</a>			</span>
+			                <span class="item_info">You can register at: http://www.meetup.com/Coderetreat-Budapest/events/234691286/</span>                <span class="item_contributor">Organized by Rafael Ordog | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-des-moines-ia-usa">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/bghkZFo2d325qT1an21yhDss5b1RJ2VtrBuXkNKwMpzPFbqDIw3yfYoEyWPhNuN10qewFY3Ak4K0afSxVwDtzBr9dTf-SLFF/des_moines.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-des-moines-ia-usa">Global Day of Coderetreat 2016 - Des Moines, IA, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 3:30pm – <a href="listByLocation?location=The+Forge+by+Pillar+Technology%252C+Des+Moines">The Forge by Pillar Technology, Des Moines</a>			</span>
+			                <span class="item_info">Everyone knows the best software is written in Iowa.
+Come join Des Moines best and brightest in a fun event aimed at promoting camaraderie and craftsmanship within the software development community.<a href="../global-day-of-coderetreat-2016-des-moines-ia-usa">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/NathanSchlehlein">n8dgr8</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-kaunas/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-kaunas/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Kaunas, Lithuania</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=KTU+StartupSpace">KTU StartupSpace</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../global-day-of-coderetreat-2016-kaunas/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by Adomas Greicius, Giedre Kojaliene, Dainius Mežanskas, Dominykas Blyžė, Vaidas Pilkaukas | Type: <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2016-tenerife-canary-islands/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2016-tenerife-canary-islands/showAttendees?status=not_attending">Global Day of Code Retreat 2016 - Tenerife, Canary Islands</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=Adeje+-+Venue+to+be+determined">Adeje - Venue to be determined</a>			</span>
+			                <span class="item_info">Global day of code retreat 2016</span>                <span class="item_contributor">Organized by <a href="../../profile/CarlosBle">Carlos Ble</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-2/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/4dl5RIBKHP84isCD6DUUxy4an*6bjWev3lME7pE6rEVWRwcnBqIRVxI*xj6VBa3v7IHOGdU2QwLIqwcYTo4QdP0udSzvk1NF/newlogo.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-2/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Sophia Antipolis, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=France">France</a>			</span>
+			                <span class="item_info">
+
+More info and how to register here: https://goo.gl/3T86AL . </span>                <span class="item_contributor">Organized by <a href="../../profile/AlessandroBaffa">Alessandro Baffa</a> | Type: <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=coderetreat">coderetreat</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-5/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-5/showAttendees?status=not_attending">Global Day of Code Retreat - Quito, Ecuador</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=ThoughtWorks+Ecuador">ThoughtWorks Ecuador</a>			</span>
+			                <span class="item_info">Por cuarto año vamos a tener el día mundial de retiro en las oficinas de ThoughtWorks Ecuador!
+Av. República del Salvador N34-107 y Suiza  Edificio Brescia I, piso 9  Quito, Ecuador
+https://www.thoug<a href="../global-day-of-code-retreat-5/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/IvanPazmino126">Ivan Pazmino</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-hosted-by-pluralsight-san-diego/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/yq-y3g9ashyiVqFVSgGW1PcY8pYjJeOGu6-MtEYG93m5aU1TaC7cADzq8Fz1E3gI56O5SIVcLlIRqhonFttsIXRlFmRz2qZ3/pluralsightsquarelogo1446140473122.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-hosted-by-pluralsight-san-diego/showAttendees?status=not_attending">Global Day of Code Retreat - San Diego, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=Symphony+Towers+-+Suite+%25231800+Pluralsight+Office">Symphony Towers - Suite #1800 Pluralsight Office</a>			</span>
+			                <span class="item_info">Come spend the Global Day of Code with Pluralsight in Downtown San Diego, CA at this free event.  All levels are welcome!  We code the same exercise several different ways.  Meals provided
+Contine<a href="../global-day-of-code-retreat-hosted-by-pluralsight-san-diego/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by Phil Borlin | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-new-york-us">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-new-york-us">Global Day of Coderetreat 2016 - New York, US</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=TBD">TBD</a>			</span>
+			                <span class="item_info">Global Day of CodeRetreat.
+ More information coming soon</span>                <span class="item_contributor">Organized by Sawyer Effect | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-barcelona/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/Kx6RNOF9Q0fbSmzOThZSJKnmJ17lXIJTGoj0IJ2HPxYEHpE240t5kujqsGLIjhfqd0KjY5iFXkxVaWMAk5gUyoixsYZ1ZX0N/barcelonagothic156963459.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-barcelona/showAttendees?status=not_attending">Global Day of Coderetreat - Barcelona, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 7pm – <a href="listByLocation?location=Typeform">Typeform</a>			</span>
+			                <span class="item_info">One more year, at Barcelona we will participate in the GDCR. We will add details about venue as dates get closer. </span>                <span class="item_contributor">Organized by <a href="../../profile/JaumeJornet">Jaume Jornet</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-jihlava-czech-republic/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-jihlava-czech-republic/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Jihlava, Czech Republic</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=Vysok%25C3%25A1+%25C5%25A1kola+polytechnick%25C3%25A1+Jihlava">Vysok&aacute; &scaron;kola polytechnick&aacute; Jihlava</a>			</span>
+			                <span class="item_info">Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustř<a href="../global-day-of-coderetreat-2016-jihlava-czech-republic/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/MilanLempera">Milan Lempera</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-curitiba-brazil/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-curitiba-brazil/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Curitiba, Brazil</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=UTFPR+Curitiba">UTFPR Curitiba</a>			</span>
+			                <span class="item_info">Edição local do Dia Mundial de Coderetreats. Brevemente mais informações.</span>                <span class="item_contributor">Organized by <a href="../../profile/AdolfoNeto">Adolfo Neto</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-hangzhou-china/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/2MYPqfpvPU2Yrc*Vj57vSZWJtXXGpwUB*vZ5yB5zEBX2*qOih0u0fbAtyIzBAQxUBak744oJ7rbzP*bIK4aS23PQqgdwGWEW/DSC_0880.JPG?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-hangzhou-china/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Hangzhou, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=Hangzhou">Hangzhou</a>			</span>
+			                <span class="item_info">As a person who loves programming, have you ever regretted not crafting your source code into a beautiful one piece, due to schedule pressure? Or have you had trouble  in finding the right person for<a href="../global-day-of-coderetreat-2016-hangzhou-china/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/LiaoYuanZhang">Liao-Yuan Zhang</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-vienna-austria/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/rOQH5ikNACAYEe0EaorJ62XYS62JbC11VFRkVFWkTgAzgsob*QMSGjkoggkhoBcv*zLbrRAy6vCiU34XT4JGF6DyAKr8u*o9/PairWithFacilitator.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-vienna-austria/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Vienna, Austria</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5:30pm – <a href="listByLocation?location=TechTalk+GmbH">TechTalk GmbH</a>			</span>
+			                <span class="item_info">Proud to be hosting the Global Day of Coderetreat 2016.
+Facilitation:
+
+Houssam Fakih (@houssamfakih, Paris)
+Peter "CodeCop" Kofler (@codecopkofler, Vienna)
+
+Please register here: https://www.eventbri<a href="../global-day-of-coderetreat-2016-vienna-austria/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/PaulRohorzka">Paul Rohorzka</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-toulouse-france/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-toulouse-france/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - TOULOUSE, FRANCE</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=HarryCow">HarryCow</a>			</span>
+			                <span class="item_info">Global Day of CodeRetreat in Toulouse, France.
+The event will be hosted by HarryCow &amp; sponsorized by Viseo.
+It will be facilitated by Antoine Cezar and Ludovic Pradel.
+Details and registration :<a href="../global-day-of-coderetreat-2016-toulouse-france/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by Antoine Cezar | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-beijing-china/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-beijing-china/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Beijing, China</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=Wang+Jing+Motorola+Building+Tower+A+%2523107">Wang Jing Motorola Building Tower A #107</a>			</span>
+			                <span class="item_info">Nokia Beijing Technology Center will host one event of Global Day of Coderetreat (GDCR), welcome you to join us.
+Register and detailed information in:
+https://www.wenjuan.com/s/ZVvyMz/.
+
+</span>                <span class="item_contributor">Organized by Chen Samuel | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-dresden-germany/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-dresden-germany/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Dresden, Germany</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=T-Systems+MMS+Dresden">T-Systems MMS Dresden</a>			</span>
+			                <span class="item_info">Update: Start 09:00 Uhr an. Geplantes Ende: 17:00
+
+Auch in Dresden gibt es in diesem Jahr wieder die Möglichkeit zur Teilnahme am Global Day of Coderetreat.
+Packt die Toolchain eures Vertrauens auf d<a href="../global-day-of-coderetreat-2016-dresden-germany/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/BertRadke">Bert Radke</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../code-retreat-rochester-ny-2/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../code-retreat-rochester-ny-2/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Rochester, NY, USA</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=Brand+Networks">Brand Networks</a>			</span>
+			                <span class="item_info">Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away fr<a href="../code-retreat-rochester-ny-2/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/GaryPassero">Gary Passero</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-logro-o-spain">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/xhz*glhmGcjaGmKZE2nU6uGK9g7lufxQONebun7f*F-PnDGNkKgPWJVXnyrERvpdv-Ag6GNCX4JcE1ftZNrNQ4VYeBVLjZyk/RiojaDotNet200x200.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-logro-o-spain">Global Day of Coderetreat 2016 - LOGRO&Ntilde;O, SPAIN</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=Think+Tic">Think Tic</a>			</span>
+			                <span class="item_info">For the second time, La Rioja will participate in the Global Day of Code Retreat. We expect that everybody enjoy this exciting event</span>                <span class="item_contributor">Organized by Rioja{dotnet} | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-warsaw-poland/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-warsaw-poland/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Warsaw, Poland</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=Sages+Sp.+z+o.o.">Sages Sp. z o.o.</a>			</span>
+			                <span class="item_info">Global Day of Coderetreat 2015 - Warsaw, Poland, co-hosted with Stacja IT.
+Organized by Pragmatists and Sages.</span>                <span class="item_contributor">Organized by <a href="../../profile/StacjaIT">Stacja IT</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-code-retreat-2016-lille-france">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-code-retreat-2016-lille-france">Global Day of Code Retreat 2016 - Lille, France</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=France">France</a>			</span>
+			                <span class="item_info">Vous voulez perfectionner votre manière d’écrire du code, améliorer le design de vos applications, découvrir des pratiques permettant d’améliorer la qualité de votre logiciel ? Nord Agile vous propos<a href="../global-day-of-code-retreat-2016-lille-france">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/JulienJakubowski">Julien Jakubowski</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-milan">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-milan">Global Day of Coderetreat 2016 - Milan, Italy</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=Mikamai%252FLinkMe">Mikamai/LinkMe</a>			</span>
+			                <span class="item_info">https://www.eventbrite.it/e/biglietti-global-day-of-coderetreat-2016-milan-27985125263</span>                <span class="item_contributor">Organized by XPUG-MI | Type: <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-pozna-poland/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-pozna-poland/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - POZNAŃ, POLAND</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=PSI+Polska+Sp.+z+o.o.">PSI Polska Sp. z o.o.</a>			</span>
+			                <span class="item_info">Registration and details: https://www.eventbrite.com/e/poznan-code-retreat-2016-tickets-27566462030</span>                <span class="item_contributor">Organized by Poznań JUG / PSI | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-santiago-chile">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/vDq19vhV0OQNlyMhGdum0FJ6xcyqD0ZBHtAlY4c1jEhtD47WjDd0QLshfB58zyq7GgLY-7WskNMMjSKWq0bKANS3ie5cYfnO/global_451798584.jpeg.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-santiago-chile">Global Day of Coderetreat 2016 - Santiago, Chile</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=Apoquindo+4700%252C+piso+14%252C+Las+Condes%252C+Santiago+%2528Nisum+%2529">Apoquindo 4700, piso 14, Las Condes, Santiago (Nisum )</a>			</span>
+			                <span class="item_info">Ver más detalles e inscríbete en meetup.com: http://www.meetup.com/Software-Craftsmanship-Chile/events/234342125/
+
+See more details and RSVP at meetup.com: http://www.meetup.com/Software-Craftsmanshi<a href="../global-day-of-coderetreat-2016-santiago-chile">…</a></span>                <span class="item_contributor">Organized by Software Craftsmanship Chile | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr2016">gdcr2016</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../gdcr16-in-belgium/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/0xjYTxQ*Xa0NwHwwmZMQ3NHfxux9tCJPQU2qEhAO474bW92WexeoTmUkrCxsW5ronC0GzWCXN0*R0lF3W1FuHvvb8WXfru0u/427659573.png?size=100&crop=1%3A1&xj_event_default=1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../gdcr16-in-belgium/showAttendees?status=not_attending">Global Day of Code Retreat - Leuven, Belgium</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6pm – <a href="listByLocation?location=Cegeka+Leuven">Cegeka Leuven</a>			</span>
+			                <span class="item_info">Please register here:
+http://www.meetup.com/socratesbe/events/234523139/</span>                <span class="item_contributor">Organized by <a href="../../profile/ErikTalboom">Erik Talboom</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a>, <a href="listByType?type=gdcr2016">gdcr2016</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-denver-co/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/JkFWP9bD-setXf3iQI8mga*m5llR8wmaTPY4v919h*3UbMxtwzX1r1ibtm0TJSTJQJoA8ZKfeyH9r39jK4STlXZnFu0lBFFB/galvanize26OpenCoWorkmin.jpg?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-denver-co/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Denver, CO</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 5pm – <a href="listByLocation?location=Denver+-+Platte">Denver - Platte</a>			</span>
+			                <span class="item_info">Galvanize is proud to host the Global Day Coderetreat event!
+Please RSVP through Evenbrite.
+Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development a<a href="../global-day-of-coderetreat-2016-denver-co/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/RobertoOrtega">Roberto Ortega</a> | Type: <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+<li>
+  <div class="ib>">
+    <a href="../global-day-of-coderetreat-2016-ciudad-real-spain/showAttendees?status=not_attending">
+        			<span class="image" style="background-image:url('http://api.ning.com:80/files/AxtJ5-qvacYGk-6udOZa8qGGWTw8hfxIzAphClxfQWbwSyqSjgPhRxvqNEMaIJvDFx3O7lFFpuPpph2eqb7EPYX8mK2i*xhP/GDCRCR.png?size=100&crop=1:1');"><!-- --></span>
+            </a>
+  </div>
+    <div class="tb">        <h3><a href="../global-day-of-coderetreat-2016-ciudad-real-spain/showAttendees?status=not_attending">Global Day of Coderetreat 2016 - Ciudad Real, Spain</a></h3>
+        <p>
+        <span class="item_date"><a href="listByDate?date=2016-10-22">October 22, 2016</a> from 9am to 6:30pm – <a href="listByLocation?location=Escuela+Superior+de+Informatica">Escuela Superior de Informatica</a>			</span>
+			                <span class="item_info">¿Tienes ganas de retos?, ¿Te gusta programar?. Bien, has venido al sitio adecuado.
+
+Somos un pequeño grupo de desarrolladores que organizamos este evento global en Ciudad Real. Lo único que nos falta<a href="../global-day-of-coderetreat-2016-ciudad-real-spain/showAttendees?status=not_attending">…</a></span>                <span class="item_contributor">Organized by <a href="../../profile/DavidMartinGarcia323">David Martin Garcia</a> | Type: <a href="listByType?type=coderetreat">coderetreat</a>, <a href="listByType?type=gdcr">gdcr</a>, <a href="listByType?type=gdcr16">gdcr16</a></span>
+                            </p>
+    </div></li>
+</ul><ul class="pagination smallpagination">
+	<li class="left"><a href="listByDate?date=2016-10-17">&lt; Previous</a></li>
+	<li class="right"><a href="listByDate?date=2016-10-23">Next &gt;</a></li>
+</ul>
+    </div>
+    </div>
+</div>
+<div class="xg_column xg_span-4 xg_last">
+    <div class="xg_module eventmodule">
+    <div class="xg_module_head">
+        <h2>Popular Event Types</h2>
+    </div>
+    <div class="xg_module_body">
+        <ul class="nobullets">
+            <li><a href="listByType?type=coderetreat">coderetreat</a> (888)</li><li><a href="listByType?type=gdcr">gdcr</a> (606)</li><li><a href="listByType?type=gdcr13">gdcr13</a> (166)</li><li><a href="listByType?type=gdcr15">gdcr15</a> (157)</li><li><a href="listByType?type=gdcr14">gdcr14</a> (143)</li>        </ul>
+                    <p class="right"><small><a href="listAllTypes">View All</a></small></p>
+            </div>
+</div><div class="calendarWrap">
+  <div dojoType="Scroller"
+      _buttonContainer="evt_cal_btn_container"
+      _nextButton="evt_cal_next"
+      _prevButton="evt_cal_last"
+      _prevSeqId="2016-09"
+      _nextSeqId="2016-12"
+      _scrollBy="1"
+      _threshold="2"
+  	_url="http://coderetreat.org/events/event/getCalendar?">
+  <div class="xg_module nopad"> <div class="xg_module_body">		<div class="calendar">
+			<div>
+			  <span class="calendar_head xg_module_head">
+			    <span class="month">October</span>&nbsp;<span class="year">2016</span>
+			  </span>
+				<table>
+					<thead>
+						<tr><th title="Sunday">S</th><th title="Monday">M</th><th title="Tuesday">T</th><th title="Wednesday">W</th><th title="Thursday">T</th><th title="Friday">F</th><th title="Saturday">S</th></tr>
+					</thead>
+					<tbody>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td class="past xg_lightfont">1</td></tr><tr><td class="past xg_lightfont">2</td><td class="past xg_lightfont">3</td><td class="past xg_lightfont"><a href="listByDate?date=2016-10-4">4</a></td><td class="past xg_lightfont">5</td><td class="past xg_lightfont">6</td><td class="past xg_lightfont">7</td><td class="past xg_lightfont"><a href="listByDate?date=2016-10-8">8</a></td></tr><tr><td class="past xg_lightfont">9</td><td class="past xg_lightfont"><a href="listByDate?date=2016-10-10">10</a></td><td class="past xg_lightfont">11</td><td class="past xg_lightfont">12</td><td class="past xg_lightfont">13</td><td class="past xg_lightfont"><a href="listByDate?date=2016-10-14">14</a></td><td class="past xg_lightfont">15</td></tr><tr><td class="past xg_lightfont">16</td><td class="past xg_lightfont"><a href="listByDate?date=2016-10-17">17</a></td><td class="past xg_lightfont">18</td><td class="past xg_lightfont">19</td><td class="past xg_lightfont">20</td><td class="past xg_lightfont">21</td><td class="past xg_lightfont"><a href="listByDate?date=2016-10-22">22</a></td></tr><tr><td class="past xg_lightfont"><a href="listByDate?date=2016-10-23">23</a></td><td class="past xg_lightfont">24</td><td class="past xg_lightfont">25</td><td class="past xg_lightfont">26</td><td class="past xg_lightfont">27</td><td class="past xg_lightfont">28</td><td class="past xg_lightfont">29</td></tr><tr><td class="past xg_lightfont">30</td><td class="past xg_lightfont">31</td><td></td><td></td><td></td><td></td><td></td></tr>					</tbody>
+				</table>
+			</div>
+		</div>
+</div></div><div class="xg_module nopad"> <div class="xg_module_body">		<div class="calendar">
+			<div>
+			  <span class="calendar_head xg_module_head">
+			    <span class="month">November</span>&nbsp;<span class="year">2016</span>
+			  </span>
+				<table>
+					<thead>
+						<tr><th title="Sunday">S</th><th title="Monday">M</th><th title="Tuesday">T</th><th title="Wednesday">W</th><th title="Thursday">T</th><th title="Friday">F</th><th title="Saturday">S</th></tr>
+					</thead>
+					<tbody>
+<tr><td></td><td></td><td class="past xg_lightfont">1</td><td class="past xg_lightfont">2</td><td class="past xg_lightfont">3</td><td class="past xg_lightfont">4</td><td class="past xg_lightfont">5</td></tr><tr><td class="past xg_lightfont">6</td><td class="past xg_lightfont">7</td><td class="past xg_lightfont">8</td><td class="past xg_lightfont">9</td><td class="past xg_lightfont">10</td><td class="past xg_lightfont">11</td><td class="past xg_lightfont">12</td></tr><tr><td class="past xg_lightfont">13</td><td class="past xg_lightfont">14</td><td class="past xg_lightfont">15</td><td class="past xg_lightfont">16</td><td class="past xg_lightfont">17</td><td class="past xg_lightfont">18</td><td class="past xg_lightfont">19</td></tr><tr><td class="past xg_lightfont">20</td><td class="past xg_lightfont">21</td><td class="past xg_lightfont">22</td><td class="past xg_lightfont">23</td><td class="past xg_lightfont">24</td><td class="past xg_lightfont">25</td><td class="past xg_lightfont">26</td></tr><tr><td class="past xg_lightfont">27</td><td class="past xg_lightfont">28</td><td class="past xg_lightfont">29</td><td class="past xg_lightfont">30</td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>					</tbody>
+				</table>
+			</div>
+		</div>
+</div></div>  </div>
+  <div id="evt_cal_btn_container" class="xg_module_foot" style="display:none">
+      <p class="left"><a id="evt_cal_last" href="listByDate?date=2016-10-22#" style="display:none">Last Month</a></p>
+      <p class="right"><a id="evt_cal_next" href="listByDate?date=2016-10-22#" style="display:none">Next Month</a></p>
+  </div>
+</div></div>
+
+                        </div>
+                    </div>                
+                    <div class="xg_column xg_span-7 xg_last" id="column2">
+                        <div class="xj_user_info">    <div class="xg_module" id="xg_module_account">
+        <div class="xg_module_body xg_signup xg_lightborder">
+            <p>Welcome to<br />Coderetreat</p>
+                        <p class="last-child"><big><strong><a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2016-10-22">Sign Up</a></strong></big><br/>or <a href="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2016-10-22" style="white-space:nowrap">Sign In</a></p>
+                            <div class="xg_external_signup xg_lightborder xj_signup">
+                    <p class="dy-small">Or sign in with:</p>
+                    <ul class="providers">
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2016-10-22%26source%3DsignUp%26close%3D1%26provider%3Dfacebook', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2016-10-22%26source%3DsignUp%26close%3D0%26provider%3Dfacebook">
+                            <span class="mini-service mini-service-facebook" title="Facebook"></span>
+                    </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2016-10-22%26source%3DsignUp%26close%3D1%26provider%3Dtwitter', null, 'width=860,height=440,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/twitter/start?token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2016-10-22%26source%3DsignUp%26close%3D0%26provider%3Dtwitter">
+            <span class="mini-service mini-service-twitter" title="Twitter"></span>
+        </a></li>
+            <li><a onclick="window.open('https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2016-10-22%26source%3DsignUp%26close%3D1%26provider%3Dyahoo', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://coderetreat-community.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcoderetreat.org%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcoderetreat.org%252Fevents%252Fevent%252FlistByDate%253Fdate%253D2016-10-22%26source%3DsignUp%26close%3D0%26provider%3Dyahoo">
+            <span class="mini-service mini-service-yahoo" title="Yahoo!"></span>
+        </a></li>
+    </ul>
+                </div>
+                    </div>
+    </div>
+</div>
+                        <div class="xj_sidebar_content"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="xg_foot">
+                <div id="xg_footcontent">
+                    <div class="xj_foot_content"><p class="left">
+    © 2017             &nbsp; Created by <a href="../../xn/detail/u_128952ghvkcvj">corey haines</a>.            &nbsp;
+    Powered by<a class="poweredBy-logo" href="https://www.ning.com/" rel="dofollow"><img class="poweredbylogo" width="87" height="15" src="http://static.ning.com/socialnetworkmain/widgets/index/gfx/Ning_MM_footer_wht@2x.png?xn_version=242216045" title
+="Ning Website Builder" alt="Website builder | Create website | Ning.com" target="_blank"></a>    </p>
+    <p class="right xg_lightfont">
+                    <a href="../../main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/signUp?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://coderetreat.org/main/authorization/signIn?target=http%3A%2F%2Fcoderetreat.org%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                        <a href="http://coderetreat.org/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fcoderetreat.org%2Fevents%2Fevent%2FlistByDate%3Fdate%3D2016-10-22">Terms of Service</a>
+            </p>
+</div>
+                </div>
+            </div>
+			<div id="xg_ad_below_footer" class="xg_ad xj_ad_below_footer dy-displaynone">
+				
+			</div>
+        </div>
+    </div>
+    <div class="xj_after_content"><div id="xj_baz17246" class="xg_theme"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use Coderetreat.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="../../xn_resources/widgets/index/gfx/jstrk_off.gif" alt="" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=2765273374"></script>        <script>
+            var sources = ["http:\/\/api.ning.com:80\/files\/-q6tvS*EPsKouV2no1yS1Z44orlQXrgrn6cdJ97JZM9VH4co81cvbscnFg1OIeCEAERmoD0shDB*lmRNzNJ6T8IsQXkDhnlA\/set_common_min.js?r=1483433098","http:\/\/api.ning.com:80\/files\/DBD4PE5EidX8bMye8TF3Vgj*wiN1CMUqlGOsiUfmbWhad9XqIDQvhcK9YvdKTfykhVIjZ5Y8bMTz5GvWMwpWLXWeJZt1vhvK\/set_sidebar_u_min.js?r=1406592884"];
+            var numSources = sources.length;
+            var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            var onloadFunctionsObj = {};
+
+            var createScriptTagFunc = function(source) {
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                                var currentOnLoad = function() {xg._loader.onLoad(source);};
+                if (script.readyState) { //for IE (including IE9)
+                    script.onreadystatechange = function() {
+                        if (script.readyState == 'complete' || script.readyState == 'loaded') {
+                            script.onreadystatechange = null;
+                            currentOnLoad();
+                        }
+                    }
+                } else {
+                   script.onerror = script.onload = currentOnLoad;
+                }
+
+                script.src = source;
+                node.appendChild(script);
+            };
+
+            for (var i = 0; i < numSources; i++) {
+                xg._loader.loading(sources[i]);
+                createScriptTagFunc(sources[i]);
+            }
+        </script>
+    <script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2017-01-29T09:31:27+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201701120951'; // DEP-9365:3cf2104 33
+djConfig.parseWidgets = false;
+</script>
+    <script type="text/javascript">
+        xg.token = '';
+xg.canTweet = false;
+xg.cdnHost = 'static.ning.com';
+xg.version = '201701120951';
+xg.useMultiCdn = true;
+xg.staticRoot = 'socialnetworkmain';
+xg.xnTrackHost = "coll.ning.com";
+    xg.cdnDefaultPolicyHost = 'static';
+    xg.cdnPolicy = [];
+xg.global = xg.global || {};
+xg.global.currentMozzle = 'events';
+xg.global.userCanInvite = false;
+xg.global.requestBase = '';
+xg.global.locale = 'en_US';
+xg.num_thousand_sep = ",";
+xg.num_decimal_sep = ".";
+(function() {
+    dojo.addOnLoad(function() {
+        if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+            });
+            xg._loader.onLoad('xnloader');
+    })();    </script>
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
+
+</div>
+</body>
+</html>

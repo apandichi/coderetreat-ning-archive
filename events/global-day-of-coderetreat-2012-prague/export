@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11907
+DTSTAMP:20170129T134419Z
+SUMMARY:Global Day of Coderetreat 2012 - Prague / Czech Republic
+DESCRIPTION:Second GDCR in Prague. http://coderetreat.cz/\nRSVP here:�
+ �http://srazy.info/coderetreat/2638\n\nFor more information visit http
+ ://coderetreat.org/events/global-day-of-coderetreat-2012-prague
+DTSTART:20121208T080000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat
+LOCATION:Node5
+WEBSITE:http://goo.gl/maps/cDae0
+URL:http://goo.gl/maps/cDae0
+CONTACT:
+ORGANIZER;CN="Aleš Roubíček":http://coderetreat.org/profile/AlesRou
+ bicek
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Aleš Ro
+ ubíček":http://coderetreat.org/profile/AlesRoubicek
+END:VEVENT
+END:VCALENDAR

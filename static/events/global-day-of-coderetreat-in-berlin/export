@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:1776
+DTSTAMP:20170129T104203Z
+SUMMARY:Global Day of Coderetreat in Berlin
+DESCRIPTION:Berlin is participating in Global Day of Coderetreat! \n\
+ nFor more information visit http://coderetreat.org/events/global-day-o
+ f-coderetreat-in-berlin
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:coderetreat
+LOCATION:Scout Lounge
+WEBSITE:http://coderetreat-berlin.de
+URL:http://coderetreat-berlin.de
+CONTACT:
+ORGANIZER:Nokia & Immobilien Scout
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/vpofhG6lwvMs2
+ 6x1RQWiWSZNaKa1O*YsOvwqgRGs61iij1LDNquNgdG3XCAUA8nrjOkRlpxFFJQbubyd6kx
+ wXO22QfQsu7UT/logo.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Koch":http://coderetreat.org/profile/JonathanKoch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel M
+ oor":http://coderetreat.org/profile/DanielMoor
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Lukasz B
+ alamut":http://coderetreat.org/profile/LukaszBalamut
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Dzi
+ emidowicz":http://coderetreat.org/profile/GregDziemidowicz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefan H
+ oth":http://coderetreat.org/profile/StefanHoth
+END:VEVENT
+END:VCALENDAR

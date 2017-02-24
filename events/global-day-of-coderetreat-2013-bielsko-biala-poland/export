@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28482
+DTSTAMP:20170129T115410Z
+SUMMARY:Global Day of Coderetreat 2013 - Bielsko-Biala, Poland
+DESCRIPTION:GDCR 2013\n\nFor more information visit http://coderetreat
+ .org/events/global-day-of-coderetreat-2013-bielsko-biala-poland
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:ATH Bielsko Biała
+WEBSITE:http://goo.gl/maps/GjW4n
+URL:http://goo.gl/maps/GjW4n
+CONTACT:
+ORGANIZER:Foundation Mikstura.it
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/kxOsEzy6ZB3MT
+ hKDi3ZD*8CA-nK8EGedpPMow4NOzlByspspHjuT7B1fn9VFGr0*5xzRIkNI273IcJ7Hsku
+ 0mM25tflduiZS/mikstura_2560.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michał 
+ Czyż":http://coderetreat.org/profile/MichalCzyz
+END:VEVENT
+END:VCALENDAR

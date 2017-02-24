@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27419
+DTSTAMP:20170129T115752Z
+SUMMARY:Global Day of Coderetreat 2013 - Athens, GA, USA
+DESCRIPTION:Perfecting our coding craft in the Classic City.\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-code-
+ retreat-athens-ga-2013
+DTSTART:20131214T080000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:FourAthens
+WEBSITE:http://acr2013.eventbrite.com/
+URL:http://acr2013.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Jonathan Wallace":http://coderetreat.org/profile/Jonatha
+ nWallace
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="S Sherwa
+ ni":http://coderetreat.org/profile/SSherwani
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chris Vi
+ tale":http://coderetreat.org/profile/ChrisVitale
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Wallace":http://coderetreat.org/profile/JonathanWallace
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Baron C
+ handler":http://coderetreat.org/profile/BaronChandler
+END:VEVENT
+END:VCALENDAR

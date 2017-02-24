@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54957
+DTSTAMP:20170129T113047Z
+SUMMARY:Global Day of Coderetreat 2016 - Curitiba, Brazil
+DESCRIPTION:Edição local do Dia Mundial de Coderetreats. Brevemente 
+ mais informações.\n\nFor more information visit http://coderetreat.o
+ rg/events/global-day-of-coderetreat-2016-curitiba-brazil
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:UTFPR Curitiba
+WEBSITE:http://bit.ly/gdcr2016cwb
+URL:http://bit.ly/gdcr2016cwb
+CONTACT:
+ORGANIZER;CN="Adolfo Neto":http://coderetreat.org/profile/AdolfoNeto
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adolfo N
+ eto":http://coderetreat.org/profile/AdolfoNeto
+END:VEVENT
+END:VCALENDAR

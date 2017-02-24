@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54237
+DTSTAMP:20170129T105000Z
+SUMMARY:Global Day of Coderetreat 2016 - Lima, Peru
+DESCRIPTION:Realizar una nueva edición de CodeRetreat 2016 en Lima.\n
+ \nFor more information visit http://coderetreat.org/events/global-day-
+ of-coderetreat-2016-lima-peru
+DTSTART:20161022T100000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Por anunciar
+WEBSITE:http://www.joedayz.pe
+URL:http://www.joedayz.pe
+CONTACT:977448524
+ORGANIZER;CN="Jose Diaz Diaz":http://coderetreat.org/profile/JoseDiazD
+ iaz
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jose Dia
+ z Diaz":http://coderetreat.org/profile/JoseDiazDiaz
+END:VEVENT
+END:VCALENDAR

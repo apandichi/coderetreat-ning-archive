@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55321
+DTSTAMP:20170129T093348Z
+SUMMARY:Global Day of Coderetreat 2016 - Gdansk, Poland
+DESCRIPTION:Event will happen @Epam office, who's sponsoring us this y
+ ear.\n\nRegistration (mandatory) through Epam event platform: events.
+ epam.com/events/global-day-of-coderetreat-gdansk\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-2016-
+ gdansk-poland
+DTSTART:20161022T100000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Gdańsk, Olivia 6, 7 floor
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Michał Gruca":http://coderetreat.org/profile/MichalGruc
+ a800
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michał 
+ Gruca":http://coderetreat.org/profile/MichalGruca800
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:31701
+DTSTAMP:20170129T124647Z
+SUMMARY:Global Day of Coderetreat 2013 - Montevideo, Uruguay
+DESCRIPTION:First Coderetreat in Uruguay.\nRegister here!\nBrought by 
+ Neo.\nContact: picandocodigo@neo.com\n\nFor more information visit htt
+ p://coderetreat.org/events/global-day-of-coderetreat-2013-montevideo-u
+ ruguay
+DTSTART:20131214T083000Z
+DTEND:20131214T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Neo Montevideo
+WEBSITE:https://maps.google.com/maps?q=bulevar+espa%C3%B1a+2529&hl=en&
+ ie=UTF8&ll=-34.911889,-56.159041&spn=0.005103,0.010568&sll=-34.805964,
+ -56.214564&sspn=0.327003,0.676346&t=m&hq=bulevar+espa%C3%B1a+2529&z=17
+URL:https://maps.google.com/maps?q=bulevar+espa%C3%B1a+2529&hl=en&ie=U
+ TF8&ll=-34.911889,-56.159041&spn=0.005103,0.010568&sll=-34.805964,-56.
+ 214564&sspn=0.327003,0.676346&t=m&hq=bulevar+espa%C3%B1a+2529&z=17
+CONTACT:
+ORGANIZER;CN="Fernando Briano":http://coderetreat.org/profile/Fernando
+ Briano
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fernando
+  Briano":http://coderetreat.org/profile/FernandoBriano
+END:VEVENT
+END:VCALENDAR

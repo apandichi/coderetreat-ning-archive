@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27089
+DTSTAMP:20170129T103937Z
+SUMMARY:Host training session
+DESCRIPTION:Please RSVP here! \n\nThis training is for hosts. If you h
+ ost a coderetreat you might be interested in attending one training se
+ ssion. The trainers will explain what is the role of the host, tips an
+ d tricks for having an excellent coderetreat day. This training will b
+ e delivered online on Google Plus Events. Make sure you will be online
+  five minutes before the training starts.\nThis year we will have seve
+ ral types of trainings for Global Day of Coderetreat hosts and facilit
+ ators.\nThe job of the host is to make sure the coderetreat runs smoot
+ hly by making sure everything is arranged. Hosts find a venue with all
+  the necessary equipment, find a company to sponsor lunch, give away t
+ he prizes at the end of the day, organize video chats with other locat
+ ions, etc.\nThe job of the facilitator is to help participants learn f
+ rom each other. Facilitators understand the coderetreat format, choose
+  and explain the constraints, and try to keep a learning atmosphere du
+ ring the day\n \nImportant: All the times are in UTC. Do one of the f
+ ollowing to view training times in your time zone:\n\nAdd the GDCR Cal
+ endar to your Google Calendar account\nUse this tool to convert the ti
+ me from UTC to your time zone\nFind your time below in one of these co
+ mmon time zones:\nUTC-8 America/Los_Angeles (PST)\nUTC-7 America/Denve
+ r (MST)\nUTC-6 America/Chicago (CST)\nUTC-5 America/New_York (EST)\nUT
+ C+1 Europe/Paris (CET)\nUTC+3 Europe/Bucharest (EEST)\nUTC+2 Africa/Jo
+ hannesburg (CAT)\nUTC+3 Europe/Moscow (MSK)\nUTC+5.5 Asia/Kolkata (IST
+ )\nUTC+8 Asia/Shanghai (ACT)\nUTC+9 Asia/Tokyo (JST)\nUTC+10 Australia
+ /Sydney (AEST)\nUTC+13 Pacific/Auckland (NZDT)\n\n\n\n\nFor more infor
+ mation visit http://coderetreat.org/events/host-training-session
+DTSTART:20131017T173000Z
+DTEND:20131017T183000Z
+CATEGORIES:training, host_training
+LOCATION:Google Events
+WEBSITE:https://plus.google.com/events/cms6n1hesi31t47243lq0erojfs
+URL:https://plus.google.com/events/cms6n1hesi31t47243lq0erojfs
+CONTACT:
+ORGANIZER;CN="Adi Bolboaca":http://coderetreat.org/profile/adibolb
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+END:VEVENT
+END:VCALENDAR

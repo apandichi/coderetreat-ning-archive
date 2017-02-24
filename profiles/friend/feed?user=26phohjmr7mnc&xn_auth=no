@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=26phohjmr7mnc&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:31:49Z</updated>
+                            <author>
+                    <name>Javier Bravo</name>
+                    <uri>http://coderetreat.org/profile/JavierLGonzalezBravo</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/e4QG9g3mWCdaYY8Kc2oV1-VulHuuLAHq5RMQC6ah7rQxCbkqHQuwny4COb4k3MVKYo-cgw09-F-C*5a9F7kw363c9CNvHylq/1092784629.jpeg?xgip=19%3A0%3A729%3A729%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=26phohjmr7mnc&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Carlos Ble</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/CarlosBle"/>
+                                        <id>tag:coderetreat.org,2012-11-27:6456126:User:17190</id>
+                                        <updated>2012-11-27T11:02:37.823Z</updated>
+                    
+                                            <author>
+                            <name>Javier Bravo</name>
+                            <uri>http://coderetreat.org/profile/JavierLGonzalezBravo</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/yoXZtt2uyA*AS-ZhIsTHgTlhzeTQ3W67VA6IcjlLlvhExXex-Tbh-I1rXjKDHImLYnYT5qPj9dj0goUxlMgevA5Dmu*rJlBq/595652350.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Carlos Ble&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/yoXZtt2uyA*AS-ZhIsTHgTlhzeTQ3W67VA6IcjlLlvhExXex-Tbh-I1rXjKDHImLYnYT5qPj9dj0goUxlMgevA5Dmu*rJlBq/595652350.png?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Carlos Ble&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

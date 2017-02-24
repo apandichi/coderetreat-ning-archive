@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Last Session doing Gilded Rose Kata? - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/last-session-doing-gilded-rose-kata?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:33:24Z</updated>
+                        <id>http://coderetreat.org/forum/topics/last-session-doing-gilded-rose-kata?groupUrl=facilitators&amp;xg_source=activity&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Thank you Anthony for posting…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27244"/>
+                                        <id>tag:coderetreat.org,2013-10-06:6456126:Comment:27244</id>
+                                        <updated>2013-10-06T14:53:23.385Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thank you Anthony for posting the question and to Emily for the GREAT collection of refactoring exercises. I do a monthly event that&#039;s most always some form of code retreat and last month it was all about legacy code rescue.  I said I would give feedback, so here it is.&lt;/p&gt;
+&lt;p&gt;First, the collection (Tennis scoring kata, Yahtzee scoring kata, and the classic Gilded Rose) is fantastic. Emily&#039;s collection was ported to Cyber-Dojo in (almost) all forms that Cyber-Dojo supported (C++, C#, Java,…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thank you Anthony for posting the question and to Emily for the GREAT collection of refactoring exercises. I do a monthly event that&#039;s most always some form of code retreat and last month it was all about legacy code rescue.  I said I would give feedback, so here it is.&lt;/p&gt;
+&lt;p&gt;First, the collection (Tennis scoring kata, Yahtzee scoring kata, and the classic Gilded Rose) is fantastic. Emily&#039;s collection was ported to Cyber-Dojo in (almost) all forms that Cyber-Dojo supported (C++, C#, Java, JavaScript, Ruby and Python). Thanks also to the many contributors to Emily&#039;s collection. &lt;/p&gt;
+&lt;p&gt;Why Cyber-Dojo? Because in prior events I witnessed attendees who wanted to pair with someone on a language they were not familiar with struggle with the IDE; i.e. the IDE got in the way of learning about a new language.  Cyber-Dojo is an equalizer that just happens to solve several other problems as well: it includes a repo that automatically checks-in your work every time you run your tests, provides a visible progress indicator, and you can revert to any prior check-in with a click and a confirm, with nothing more on your laptop that a browser. Sweet!  You can also resume something you&#039;ve started days or weeks later, or fork when you realize it was a rabbit-hole.  &lt;/p&gt;
+&lt;p&gt;How we ran the exercises:&lt;/p&gt;
+&lt;p&gt;Morning sessions -- We limited the morning sessions to Tennis and Yahtzee katas because both had tests already. Participants were given the choice of which kata and which language and just dove in. The instructions given were &quot;1-Satisfy yourself that the tests provided match the description, and are &lt;em&gt;complete&lt;/em&gt;. 2-Satisfy yourself that the tests are correct, i.e. confirm no false positives, 3-look for opportunities to refactor and then do so ruthlessly. This last was an idea so foreign that it required some explaining and a few reminders about taking small bites.&lt;/p&gt;
+&lt;p&gt;Folks &lt;em&gt;totally&lt;/em&gt; new to the &lt;em&gt;idea&lt;/em&gt; of refactoring asked &quot;Well the tests all run, so what are we supposed to &lt;em&gt;do&lt;/em&gt;?&quot; Talk about a teachable moment: priceless!  Hats-off the Emily and her fellow contributors for the restraint that must have been required to resist cleaning up the code. &lt;/p&gt;
+&lt;p&gt;Afternoon sessions -- The reason we reserved Gilded Rose for the afternoon is two-fold: 1-the provided code base offers no tests, and 2-There are some apparent conflicts hiding in the requirements that need to be first discovered and then decision/interpretations made about them.  The morning exercises prepped attendees for this afternoon dose of reality pretty well.  &lt;/p&gt;
+&lt;p&gt;The retros from the afternoon sessions were GREAT!  At least one pair was killed by the goblin-in-the-corner&#039;s insta-rage when they were caught modifying the item class (something the instructions warn against).  This prompted discussions about &lt;em&gt;team&lt;/em&gt; responsibility toward the code base vs. individual ownership.  Pairs that were more confident easily spotted the apparent conflict regarding the quality of Sulfuras being 80 when no item is supposed to increase past 50.  The key-word was &lt;em&gt;increase&lt;/em&gt; and the fact the quality of legendary items (like Sulfuras) never varies.&lt;/p&gt;
+&lt;p&gt;It was a most rewarding day for all. If anyone has further ideas on how to construct a legacy code retreat, I&#039;d love to hear them. There&#039;s a &lt;em&gt;lot&lt;/em&gt; of stinky code out there. &lt;/p&gt;
+&lt;p&gt;Bob&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Wow! What a wonderful repo fo…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:26137"/>
+                                        <id>tag:coderetreat.org,2013-08-16:6456126:Comment:26137</id>
+                                        <updated>2013-08-16T20:04:40.433Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Wow! What a wonderful repo for refactoring practice; multiple language and multiple challenges. I&#039;m working through yahtzee now and hope to point attendees at Code Craftsman Saturdays (&lt;a href=&quot;http://goo.gl/sLTR9&quot; target=&quot;_blank&quot;&gt;http://goo.gl/sLTR9&lt;/a&gt;) at this repo next month. Thank you so much for putting this out there. &lt;/p&gt;
+&lt;p&gt;Will happily provide feedback after the session on the 14th.&lt;/p&gt;
+&lt;p&gt;Bob Allen&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt; &lt;cite&gt;Emily Bache said:…&lt;/cite&gt;&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Wow! What a wonderful repo for refactoring practice; multiple language and multiple challenges. I&#039;m working through yahtzee now and hope to point attendees at Code Craftsman Saturdays (&lt;a href=&quot;http://goo.gl/sLTR9&quot; target=&quot;_blank&quot;&gt;http://goo.gl/sLTR9&lt;/a&gt;) at this repo next month. Thank you so much for putting this out there. &lt;/p&gt;
+&lt;p&gt;Will happily provide feedback after the session on the 14th.&lt;/p&gt;
+&lt;p&gt;Bob Allen&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt; &lt;cite&gt;Emily Bache said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/last-session-doing-gilded-rose-kata?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A16482&amp;amp;groupId=6456126%3AGroup%3A901#6456126Comment17627&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I&#039;ve used the gilded rose kata with various groups, and I think it is a good one. Before you can start refactoring, you have to write a bunch of tests, and you can practice designing really good ones. If you do it properly, you won&#039;t have time in 45 minutes to get to the refactoring part.&lt;/p&gt;
+&lt;p&gt;I have another refactoring kata that I think I&#039;m going to suggest as an alternative for the participants in my code retreat. (About 1/3 of the people there will have already been to at least one of my previous code retreats, so I think they in particular might appreciate doing something different.)&lt;/p&gt;
+&lt;p&gt;I plan to show them &quot;Tennis&quot; which I&#039;ve got on my github page along with Gilded Rose&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;https://github.com/emilybache/Refactoring-Katas/&quot; target=&quot;_blank&quot;&gt;https://github.com/emilybache/Refactoring-Katas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The difference compared with Gilded Rose is that there is a full suite of tests provided, so you can just get on with the refactoring. There are also three versions of the code to be refactored, so you can practice different kinds of refactorings.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thanks for your insights Emil…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17569"/>
+                                        <id>tag:coderetreat.org,2012-11-30:6456126:Comment:17569</id>
+                                        <updated>2012-11-30T01:37:27.213Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thanks for your insights Emily,&lt;/p&gt;
+&lt;p&gt;This all sounds interesting! Let us know how it goes.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;cite&gt;Emily Bache said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/last-session-doing-gilded-rose-kata?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A17627&amp;amp;xg_source=msg_com_gr_forum#6456126Comment17627&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I&#039;ve used the gilded rose kata with various groups, and I think it is a good one. Before you can…&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thanks for your insights Emily,&lt;/p&gt;
+&lt;p&gt;This all sounds interesting! Let us know how it goes.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;br/&gt; &lt;br/&gt; &lt;cite&gt;Emily Bache said:&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote cite=&quot;http://coderetreat.org/forum/topics/last-session-doing-gilded-rose-kata?groupUrl=facilitators&amp;amp;commentId=6456126%3AComment%3A17627&amp;amp;xg_source=msg_com_gr_forum#6456126Comment17627&quot;&gt;&lt;div&gt;&lt;div class=&quot;xg_user_generated&quot;&gt;&lt;p&gt;I&#039;ve used the gilded rose kata with various groups, and I think it is a good one. Before you can start refactoring, you have to write a bunch of tests, and you can practice designing really good ones. If you do it properly, you won&#039;t have time in 45 minutes to get to the refactoring part.&lt;/p&gt;
+&lt;p&gt;I have another refactoring kata that I think I&#039;m going to suggest as an alternative for the participants in my code retreat. (About 1/3 of the people there will have already been to at least one of my previous code retreats, so I think they in particular might appreciate doing something different.)&lt;/p&gt;
+&lt;p&gt;I plan to show them &quot;Tennis&quot; which I&#039;ve got on my github page along with Gilded Rose&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;https://github.com/emilybache/Refactoring-Katas/&quot; target=&quot;_blank&quot;&gt;https://github.com/emilybache/Refactoring-Katas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The difference compared with Gilded Rose is that there is a full suite of tests provided, so you can just get on with the refactoring. There are also three versions of the code to be refactored, so you can practice different kinds of refactorings.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I&#039;ve used the gilded rose kat…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:17627"/>
+                                        <id>tag:coderetreat.org,2012-11-28:6456126:Comment:17627</id>
+                                        <updated>2012-11-28T13:22:47.098Z</updated>
+                    
+                                            <author>
+                            <name>Emily Bache</name>
+                            <uri>http://coderetreat.org/profile/EmilyBache</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I&#039;ve used the gilded rose kata with various groups, and I think it is a good one. Before you can start refactoring, you have to write a bunch of tests, and you can practice designing really good ones. If you do it properly, you won&#039;t have time in 45 minutes to get to the refactoring part.&lt;/p&gt;
+&lt;p&gt;I have another refactoring kata that I think I&#039;m going to suggest as an alternative for the participants in my code retreat. (About 1/3 of the people there will have already been to at least one of…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I&#039;ve used the gilded rose kata with various groups, and I think it is a good one. Before you can start refactoring, you have to write a bunch of tests, and you can practice designing really good ones. If you do it properly, you won&#039;t have time in 45 minutes to get to the refactoring part.&lt;/p&gt;
+&lt;p&gt;I have another refactoring kata that I think I&#039;m going to suggest as an alternative for the participants in my code retreat. (About 1/3 of the people there will have already been to at least one of my previous code retreats, so I think they in particular might appreciate doing something different.)&lt;/p&gt;
+&lt;p&gt;I plan to show them &quot;Tennis&quot; which I&#039;ve got on my github page along with Gilded Rose&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/emilybache/Refactoring-Katas/&quot; target=&quot;_blank&quot;&gt;https://github.com/emilybache/Refactoring-Katas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The difference compared with Gilded Rose is that there is a full suite of tests provided, so you can just get on with the refactoring. There are also three versions of the code to be refactored, so you can practice different kinds of refactorings.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hello Anthony,
+This might be…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:16482"/>
+                                        <id>tag:coderetreat.org,2012-11-20:6456126:Comment:16482</id>
+                                        <updated>2012-11-20T02:41:59.789Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hello Anthony,&lt;/p&gt;
+&lt;p&gt;This might be a good thing to try if you have a group who have attended several coderetreats in the past.  I think I like the suggestion of using the Gilded Rose kata rather than asking people to first write really terrible code. We only have so much time at a Coderetreat and it seems a little wasteful to ask participants to practice writing bad code.&lt;/p&gt;
+&lt;p&gt;However, if you start with something like the Gilded Rose kata, then participants can jump right into trying to…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hello Anthony,&lt;/p&gt;
+&lt;p&gt;This might be a good thing to try if you have a group who have attended several coderetreats in the past.  I think I like the suggestion of using the Gilded Rose kata rather than asking people to first write really terrible code. We only have so much time at a Coderetreat and it seems a little wasteful to ask participants to practice writing bad code.&lt;/p&gt;
+&lt;p&gt;However, if you start with something like the Gilded Rose kata, then participants can jump right into trying to improve the code. The downside to using Gilded Rose is that you&#039;ll be stepping away from GoL and participants will have to learn a new problem for the last session of the day.&lt;/p&gt;
+&lt;p&gt;I don&#039;t think I would attempt ether varaints with a group relatively new to coderetreat. We already cover a lot of topics and concepts throughout the day. Trying to mix in a little bit of legacy coderetreat might just end up overwhelming or confusing participants. I think it would be better to keep the day primarily focused on the fundamentals and to save the legacy code exercises for a Legacy Coderetreat.&lt;/p&gt;
+&lt;p&gt;Of course, you can always use the coderetreat as a place to advertize an upcoming Legacy Coderetreat...&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

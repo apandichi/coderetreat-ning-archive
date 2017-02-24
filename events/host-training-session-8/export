@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27632
+DTSTAMP:20170129T124142Z
+SUMMARY:Host training session
+DESCRIPTION:Please RSVP here!This training is for hosts. If you host a
+  coderetreat you might be interested in attending one training session
+ . The trainers will explain what is the role of the host, tips and tri
+ cks for having an excellent coderetreat day. This training will be del
+ ivered online on Google Plus Events. Make sure you will be online five
+  minutes before the training starts.\nThis year we will have several t
+ ypes of trainings for Global Day of Coderetreat hosts and facilitators
+ .\nThe job of the host is to make sure the coderetreat runs smoothly b
+ y making sure everything is arranged. Hosts find a venue with all the 
+ necessary equipment, find a company to sponsor lunch, give away the pr
+ izes at the end of the day, organize video chats with other locations,
+  etc.\nThe job of the facilitator is to help participants learn from e
+ ach other. Facilitators understand the coderetreat format, choose and 
+ explain the constraints, and try to keep a learning atmosphere during 
+ the day\n \nImportant: All the times are in UTC. Do one of the follow
+ ing to view training times in your time zone:\n\nAdd the GDCR Calendar
+  to your Google Calendar account\nUse this tool to convert the time fr
+ om UTC to your time zone\nFind your time below in one of these common 
+ time zones:\n12/02 05:30 PM UTC-8 America/Los_Angeles (PST)\n12/02 06:
+ 30 PM UTC-7 America/Denver (MST)\n12/02 07:30 PM UTC-6 America/Chicago
+  (CST)\n12/02 08:30 PM UTC-5 America/New_York (EST)\n12/03 02:30 AM UT
+ C+1 Europe/Paris (CET)\n12/03 03:30 AM UTC+2 Europe/Bucharest (EET)\n1
+ 2/03 03:30 AM UTC+2 Africa/Johannesburg (CAT)\n12/03 04:30 AM UTC+3 Eu
+ rope/Moscow (MSK)\n12/03 07:00 AM UTC+5.5 Asia/Kolkata (IST)\n12/03 09
+ :30 AM UTC+8 Asia/Shanghai (ACT)\n12/03 10:30 AM UTC+9 Asia/Tokyo (JST
+ )\n12/03 12:30 PM UTC+11 Australia/Sydney (AEDT)\n12/03 02:30 PM UTC+1
+ 3 Pacific/Auckland (NZDT)\n\n\n\n\nFor more information visit http://c
+ oderetreat.org/events/host-training-session-8
+DTSTART:20131203T013000Z
+DTEND:20131203T023000Z
+CATEGORIES:training, host_training
+LOCATION:https://plus.google.com/events/csch935uj4vtf85vd5l8lqhing8
+WEBSITE:https://plus.google.com/events/csch935uj4vtf85vd5l8lqhing8
+URL:https://plus.google.com/events/csch935uj4vtf85vd5l8lqhing8
+CONTACT:
+ORGANIZER;CN="Jim Hurne":http://coderetreat.org/profile/JimHurne
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jim Hurn
+ e":http://coderetreat.org/profile/JimHurne
+END:VEVENT
+END:VCALENDAR

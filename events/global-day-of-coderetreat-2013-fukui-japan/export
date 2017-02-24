@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:29091
+DTSTAMP:20170129T115439Z
+SUMMARY:Global Day of Coderetreat 2013 - Fukui, Japan
+DESCRIPTION:Coderetreat is a day-long, intensive practice event focus
+ ed on the fundamentals of software development and design.The unique c
+ oderetreat format (which eliminates the pressure of 'getting things do
+ ne' and focuses on practicing basic principles of good design) has pro
+ ven to be a highly effective (and fun) means of skill improvement.\nOn
+  December 14th, Coderetreats will be held at cities all over the world
+ . To celebrate this significant event, we'll be participating in some 
+ global activities in addition to our normal Coderetreat activities.\nY
+ ou only need to bring a laptop with the development tools you require 
+ to write code using your chosen programming languages. \nCheck out c
+ oderetreat.org for further details on what to expect.\nCoderetreatと
+ は、ソフトウェアの設計と開発の基礎を徹底的に練�
+ ��する終日イベントです。仕事では必ずさらされる�
+ �終わらせなければならないプレッシャー」からでき
+ る限り開放され、「良い設計とはなにか」を考え、�
+ ��践することに集中できるようイベントが設計され�
+ �います。そのため、効果的にプログラミング技術を
+ 向上させられる楽しいイベントです。\n来る12/14、32�
+ ��間に渡り200以上の世界中の都市でCoderetreatが開催さ
+ れます。この記念的な日に参加することで、通常のC
+ oderetreatに加えて、世界中のプログラマとちょっとし
+ た交流をするなど、グローバルな体験をすることが�
+ ��きるでしょう。\n必要なものはコードを書くための
+ ノートパソコンと、あなたの選んだプログラミング�
+ ��語の開発環境、そしてちょっとした勇気です。\n(�
+ �日のイベントですが、軽食等用意させていただきま
+ す。)\nお申込み等詳しい事は申し込みサイトを参照�
+ ��てください。\n\nFor more information visit http://coderetreat.
+ org/events/global-day-of-coderetreat-2013-fukui-japan
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Fukui, Japan
+WEBSITE:https://maps.google.co.jp/maps?q=%E7%A6%8F%E4%BA%95%E7%9C%8C%E
+ 7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA%EF%BC%93%E4%B8%81
+ %E7%9B%AE%EF%BC%91%EF%BC%91%EF%BC%91&ie=UTF-8&hq=&hnear=0x5ff8bc291bed
+ e311:0xf45bdc62f5911174,3+Chome-111+Toiyach%C5%8D,+Fukui-shi,+Fukui-ke
+ n&gl=jp&ei=vNmEUrWAN8yJlQXMyYCQBQ&ved=0CIwBELYDMAo
+URL:https://maps.google.co.jp/maps?q=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6
+ %8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA%EF%BC%93%E4%B8%81%E7%
+ 9B%AE%EF%BC%91%EF%BC%91%EF%BC%91&ie=UTF-8&hq=&hnear=0x5ff8bc291bede311
+ :0xf45bdc62f5911174,3+Chome-111+Toiyach%C5%8D,+Fukui-shi,+Fukui-ken&gl
+ =jp&ei=vNmEUrWAN8yJlQXMyYCQBQ&ved=0CIwBELYDMAo
+CONTACT:
+ORGANIZER;CN="Hiroki Kondo":http://coderetreat.org/profile/HirokiKondo
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Hiroki K
+ ondo":http://coderetreat.org/profile/HirokiKondo
+END:VEVENT
+END:VCALENDAR

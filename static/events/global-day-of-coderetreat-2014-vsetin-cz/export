@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39993
+DTSTAMP:20170129T120532Z
+SUMMARY:Global Day of Coderetreat 2014 - Vsetin, Czech Republic
+DESCRIPTION:Registration and more info [in Czech language] at http://
+ srazy.info/coderetreat/4822\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2014-vsetin-cz
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Vsetin, Czech Republic
+WEBSITE:http://srazy.info/coderetreat/4822
+URL:http://srazy.info/coderetreat/4822
+CONTACT:
+ORGANIZER;CN="Robert Dresler":http://coderetreat.org/profile/RobertDre
+ sler
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robert D
+ resler":http://coderetreat.org/profile/RobertDresler
+END:VEVENT
+END:VCALENDAR

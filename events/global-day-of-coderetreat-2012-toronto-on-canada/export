@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16710
+DTSTAMP:20170129T134455Z
+SUMMARY:Global Day of Coderetreat 2012 - Toronto, ON / Canada
+DESCRIPTION:The Global Day of Coderetreat comes to North Toronto! We r
+ ecognize that making it downtown for Agile events can be tough, so 407
+  ETR provides space and sponsorship for us to gather north of the city
+ . We hope you can join us!\n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-2012-toronto-on-canada
+DTSTART:20121208T080000Z
+DTEND:20121208T180000Z
+CATEGORIES:coderetreat
+LOCATION:407 ETR Head Office
+WEBSITE:http://goo.gl/maps/toS0I
+URL:http://goo.gl/maps/toS0I
+CONTACT:4163165372
+ORGANIZER;CN="Keith Mann":http://coderetreat.org/profile/KeithMann
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Shawn Bu
+ tton":http://coderetreat.org/profile/ShawnButton
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Keith Ma
+ nn":http://coderetreat.org/profile/KeithMann
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Dmitri 
+ Ovsiankine":http://coderetreat.org/profile/DmitriOvsiankine
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Declan 
+ Whelan":http://coderetreat.org/profile/DeclanWhelan
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38426
+DTSTAMP:20170129T104031Z
+SUMMARY:Global Day of Coderetreat 2014 - Beijing, China
+DESCRIPTION:Bring your coding craftsman attitude and laptops to join u
+ s for fun! :-D\nAgenda\n9 - 9:30am : arrival, drinks and snacks 9:30 -
+  9:50am : welcome, introductions, explanation of the problem 9:50 - 10
+ :35am : Session #1 10:35 - 10:50am : retrospective, break 10:50 - 11:3
+ 5am : Session #2 11:35 - 11:50am : retrospective, break 11:50 - 1:00pm
+  : lunch, socializing 1:00 - 1:45pm : Session #3 1:45 - 2:00pm : retro
+ spective, break 2:00 - 2:45pm : Session #4 2:45 - 3:00pm : retrospecti
+ ve, break 3:00 - 3:45pm : Session #5 3:45 - 4:00pm : retrospective, br
+ eak 4:00 - 4:45pm : Session #6 4:45 - 5:00pm : retrospective, break 5:
+ 00 - 5:30pm : Closing circle\n\nFor more information visit http://code
+ retreat.org/events/global-day-of-coderetreat-2014-beijing-china
+DTSTART:20141115T090000Z
+DTEND:20141115T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:East District
+WEBSITE:https://www.google.com/maps/place/Guohua+Plaza,+Dongzhimen,+Do
+ ngcheng,+Beijing,+China,+100007/@39.9391084,116.4324411,17z/data=!3m1!
+ 4b1!4m2!3m1!1s0x35f1acc7f25aa6d5:0x8207842d4401fc13
+URL:https://www.google.com/maps/place/Guohua+Plaza,+Dongzhimen,+Dongch
+ eng,+Beijing,+China,+100007/@39.9391084,116.4324411,17z/data=!3m1!4b1!
+ 4m2!3m1!1s0x35f1acc7f25aa6d5:0x8207842d4401fc13
+CONTACT:
+ORGANIZER:Ben WU, Tingting FANG, Hui REN, Xiaokang LI, Yongzhen HE
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ben Wu":
+ http://coderetreat.org/profile/BenWu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="stephen 
+ wang":http://coderetreat.org/profile/stephenwang
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Xiaokang
+  Li":http://coderetreat.org/profile/XiaokangLi
+END:VEVENT
+END:VCALENDAR

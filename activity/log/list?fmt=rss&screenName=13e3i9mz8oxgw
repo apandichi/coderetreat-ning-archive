@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Camille Bell&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/CamilleBell</link>
+        <pubDate>Sun, 29 Jan 2017 12:15:24 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:15:24 +0000</lastBuildDate>
+        <image>
+            <title>Camille Bell&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/CamilleBell</link>
+            <url>http://api.ning.com:80/files/GgrM3U-k7JuTxBO5t4rsjXThNzBIg8Ktj5gIKVFh0mXKbRt6pXpxmpFV57rZ4J0211wmK1EMUoX9zMUnSv6xbv7mjnN5idKo/1143100249.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011ef3ee57ca3dedc56081d81</guid>
+               <title>Camille Bell updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46043?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CamilleBell?xg_source=activity">Camille Bell</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46043?xg_source=activity">Global Day of Coderetreat 2015 - Columbia, MD, USA</a> at Columbia, Maryland USA</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 5pm</div><div class="rich-excerpt">Maryland is hosting a Global Day of Cod RetreatRegister here: <a href="http://www.meetup.com/Baltimore-Code-Craftsmanship/events/225535757/">http://www.meetup.com/Baltimore-Code-Craftsmanship/events/225535757/</a>Code Retreat is a day long fun way to improve your software craftsmanship in one day intensive with hands on Test Driven Development like you really mean it. You'll experiment with writing software in ways you never have before. You'll learn something new from each new pair partner you work with.Code Retreat focuses on the fundamentals of software development and design.By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the Code Retreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.More specifically, individuals are are grouped into teams of two and each team “solves” a common problem, ‘The Game of Life’. There are multiple short sessions throughout the day and for each session the groups are reorganized. After each session there are session reflections to help with the internalization of lessons.And breakfast and lunch and snacks are provided.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46043?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 05 Oct 2015 21:02:16 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011ef3ee5e540e98ff6153300</guid>
+               <title>Camille Bell posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:46043?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/CamilleBell?xg_source=activity">Camille Bell</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:46043?xg_source=activity">Global Day of Coderetreat 2015 - Columbia, Maryland USA</a> at Columbia, Maryland USA</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 5pm</div><div class="rich-excerpt">Maryland is hosting a Global Day of Cod RetreatRegister here: <a href="http://www.meetup.com/Baltimore-Code-Craftsmanship/events/225535757/">http://www.meetup.com/Baltimore-Code-Craftsmanship/events/225535757/</a>Code Retreat is a day long fun way to improve your software craftsmanship in one day intensive with hands on Test Driven Development like you really mean it. You'll experiment with writing software in ways you never have before. You'll learn something new from each new pair partner you work with.Code Retreat focuses on the fundamentals of software development and design.By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the Code Retreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.More specifically, individuals are are grouped into teams of two and each team “solves” a common problem, ‘The Game of Life’. There are multiple short sessions throughout the day and for each session the groups are reorganized. After each session there are session reflections to help with the internalization of lessons.And breakfast and lunch and snacks are provided.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:46043?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Fri, 25 Sep 2015 11:03:39 +0000</pubDate>
+               </item>    </channel>
+</rss>

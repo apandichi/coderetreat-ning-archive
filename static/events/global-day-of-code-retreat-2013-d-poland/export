@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28730
+DTSTAMP:20170129T115424Z
+SUMMARY:Global Day of Coderetreat 2013 - Łódź, Poland
+DESCRIPTION:Global Day of Code Retreat is organized in Łódź as usua
+ l, by Łódź Java Users Group. This year, it's hosted by Cybercom Pol
+ and.\nFor more information and registration, please visit: http://www
+ .meetup.com/Java-User-Group-Lodz/events/151044742/\n\n\nFor more infor
+ mation visit http://coderetreat.org/events/global-day-of-code-retreat-
+ 2013-d-poland
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Polska
+WEBSITE:http://www.meetup.com/Java-User-Group-Lodz/events/151044742/
+URL:http://www.meetup.com/Java-User-Group-Lodz/events/151044742/
+CONTACT:+48508611368
+ORGANIZER:JUG Łódź, Cybercom Poland
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Przemys�
+ �aw Różycki":http://coderetreat.org/profile/PrzemyslawRozycki
+END:VEVENT
+END:VCALENDAR

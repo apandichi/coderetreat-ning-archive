@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15767
+DTSTAMP:20170129T122948Z
+SUMMARY:2nd Code Retreat Portugal
+DESCRIPTION:This will be the second edition a code retreat in Portugal
+ . Everyone is invited to attend, just RSVP in the website above.\n\nFo
+ r more information visit http://coderetreat.org/events/2nd-code-retrea
+ t-portugal
+DTSTART:20121117T100000Z
+DTEND:20121117T180000Z
+CATEGORIES:standard, code, retreat
+LOCATION:ISCTE, Lisbon
+WEBSITE:https://plus.google.com/events/cmdlnn2a48arb43cbp1ut4epc1s
+URL:https://plus.google.com/events/cmdlnn2a48arb43cbp1ut4epc1s
+CONTACT:
+ORGANIZER;CN="José Mota":http://coderetreat.org/profile/JoseMota
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="José Mo
+ ta":http://coderetreat.org/profile/JoseMota
+END:VEVENT
+END:VCALENDAR

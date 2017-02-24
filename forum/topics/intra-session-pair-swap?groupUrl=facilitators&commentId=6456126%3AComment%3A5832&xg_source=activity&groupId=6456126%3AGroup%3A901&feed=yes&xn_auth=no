@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Intra-Session Pair Swap - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/intra-session-pair-swap?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A5832&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:40:59Z</updated>
+                        <id>http://coderetreat.org/forum/topics/intra-session-pair-swap?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A5832&amp;xg_source=activity&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Hi, Steven,
+This is an intere…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:5832"/>
+                                        <id>tag:coderetreat.org,2011-12-12:6456126:Comment:5832</id>
+                                        <updated>2011-12-12T18:47:21.658Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi, Steven,&lt;/p&gt;
+&lt;p&gt;This is an interesting idea. The difficulty, I would think, is that there would still be an original member of the pair. So, the assumptions and explanation of the code could be conveyed.&lt;/p&gt;
+&lt;p&gt;Definitely try it. Before the session, though, explain what you&#039;ll be doing and really hit on the idea that this is about focusing on the understandability of the code. This will set people&#039;s expectations up-front, so there won&#039;t be too much jarring when you put them somewhere…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi, Steven,&lt;/p&gt;
+&lt;p&gt;This is an interesting idea. The difficulty, I would think, is that there would still be an original member of the pair. So, the assumptions and explanation of the code could be conveyed.&lt;/p&gt;
+&lt;p&gt;Definitely try it. Before the session, though, explain what you&#039;ll be doing and really hit on the idea that this is about focusing on the understandability of the code. This will set people&#039;s expectations up-front, so there won&#039;t be too much jarring when you put them somewhere else.&lt;/p&gt;
+&lt;p&gt;Also, I&#039;d push this as a penultimate session exercise, rather than in the morning. Later in the afternoon usually has pairs able to get past the inhibitions and assumptions of the morning.&lt;/p&gt;
+&lt;p&gt;I&#039;d love to hear how it goes.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

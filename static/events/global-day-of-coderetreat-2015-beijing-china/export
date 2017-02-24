@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46954
+DTSTAMP:20170129T104026Z
+SUMMARY:Global Day of Coderetreat 2015 - Beijing, China
+DESCRIPTION:Practice your coding skills deliberately!\n\nFor more info
+ rmation visit http://coderetreat.org/events/global-day-of-coderetreat-
+ 2015-beijing-china
+DTSTART:20151114T100000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Lang Qin Guo Ji
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Ke LIN(sponsor), Mingqi ZHANG(sponsor), Yongzhen HE(facilita
+ tor), Qiang DONG(facilitator), Minna ZHANG(facilitator)
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="ÁéãÈõ™Êù
+ æ":http://coderetreat.org/profile/wangxuesong
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ben Wu":
+ http://coderetreat.org/profile/BenWu
+END:VEVENT
+END:VCALENDAR

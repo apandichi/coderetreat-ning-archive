@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26386
+DTSTAMP:20170129T115021Z
+SUMMARY:Global Day of Coderetreat 2013 - Raleigh/Durham, NC, USA
+DESCRIPTION:Raleigh/Durham, NC is participating in the Global Day of 
+ Coderetreat 2013! This event will be facilitated by Cory Foy and hoste
+ d at the Cognitect offices in downtown Durham.\nCoderetreat is a day-
+ long, intensive practice event focused on the fundamentals of software
+  development and design.The unique coderetreat format (which eliminate
+ s the pressure of 'getting things done' and focuses on practicing basi
+ c principles of good design) has proven to be a highly effective (and 
+ fun) means of skill improvement.  On December 14th, Coderetreats will 
+ be held at cities all over the world. To celebrate this significant ev
+ ent, we'll be participating in some global activities in addition to o
+ ur normal Coderetreat activities.\nYou only need to bring a laptop wit
+ h the development tools you require to write code using your chosen pr
+ ogramming languages. \nCheck out coderetreat.org for further detail
+ s on what to expect.\nRegistration is now open! Visit https://www.even
+ tbrite.com/e/global-day-of-code-retreat-raleighdurham-tickets-93515898
+ 57 to register!\n\n\n\nFor more information visit http://coderetreat.o
+ rg/events/global-day-of-coderetreat-2013-raleigh-durham-nc
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Downtown Durham
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Cory Foy":http://coderetreat.org/profile/CoryFoy
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cory Foy
+ ":http://coderetreat.org/profile/CoryFoy
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Donald B
+ all":http://coderetreat.org/profile/DonaldBall
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:17591
+DTSTAMP:20170129T134405Z
+SUMMARY:Global Day of Coderetreat en Mérida - Venezuela
+DESCRIPTION:Global Day of Coderetreat en Mérida - Venezuela\nMejora t
+ us destrezas como desarrollador de software en un ambiente sin comprom
+ isos.\nInscripciones gratis !\nOrganizado por: Pablo Lischinsky, Demi�
+ �n Gutiérrez, Elysabeth Guevara\nPatrocinado por: ULA, Evolución Ág
+ il, Equipo organizador del Agile Tour Mérida\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-en-m-rid
+ a-venezuela
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Facultad de Ingeniería - ULA
+WEBSITE:https://docs.google.com/spreadsheet/viewform?formkey=dE9OOTBBU
+ U1vX09yVXhkZjJ0aVEyOEE6MA
+URL:https://docs.google.com/spreadsheet/viewform?formkey=dE9OOTBBUU1vX
+ 09yVXhkZjJ0aVEyOEE6MA
+CONTACT:
+ORGANIZER;CN="Pablo Lischinsky":http://coderetreat.org/profile/PabloLi
+ schinsky
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Pablo Li
+ schinsky":http://coderetreat.org/profile/PabloLischinsky
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Demián 
+ Gutierrez":http://coderetreat.org/profile/DemianGutierrez
+END:VEVENT
+END:VCALENDAR

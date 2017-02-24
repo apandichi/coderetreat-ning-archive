@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26361
+DTSTAMP:20170129T115017Z
+SUMMARY:Global Day of Coderetreat 2013 - Guadalajara, Mexico
+DESCRIPTION:Global Day of Coderetreat!\n\nFor more information visit h
+ ttp://coderetreat.org/events/gdcr-guadalajara
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Guadalajara
+WEBSITE:http://rubygdl.org
+URL:http://rubygdl.org
+CONTACT:
+ORGANIZER:Ruby GDL
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier C
+ ervantes":http://coderetreat.org/profile/JavierCervantes
+END:VEVENT
+END:VCALENDAR

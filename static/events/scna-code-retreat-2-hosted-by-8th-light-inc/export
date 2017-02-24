@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:25609
+DTSTAMP:20170129T122821Z
+SUMMARY:SCNA Code Retreat #2 hosted by 8th Light, Inc.
+DESCRIPTION:Please join us for a full day of intense code practice to 
+ better your craft at the 8th Light office.\nThis will be a full day of
+  Code Retreat folllowing SCNA 2013.\nPlease RSVP at http://2013cr8l2.e
+ ventbrite.com/\n\nFor more information visit http://coderetreat.org/ev
+ ents/scna-code-retreat-2-hosted-by-8th-light-inc
+DTSTART:20131110T090000Z
+DTEND:20131110T160000Z
+CATEGORIES:scna
+LOCATION:Chicago
+WEBSITE:http://2013cr8l2.eventbrite.com/
+URL:http://2013cr8l2.eventbrite.com/
+CONTACT:877–407–4154
+ORGANIZER;CN="Eric Meyer":http://coderetreat.org/profile/EricMeyer
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/uz-lXKZqhgtLB
+ WQsHn2g3xHxP0jS9Dl0KPowae7zvyWbgubi4upfapUql*tNCQUj4SQeHn5pOEdnV9AEea0
+ qawBdwM0umRxT/8thLightlogotransparent.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eric Mey
+ er":http://coderetreat.org/profile/EricMeyer
+END:VEVENT
+END:VCALENDAR

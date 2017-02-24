@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55861
+DTSTAMP:20170129T104953Z
+SUMMARY:Global Day of Coderetreat 2016 - Berlin, Germany
+DESCRIPTION:Register at https://gdcr-2016-berlin.eventbrite.com/\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2016-3
+DTSTART:20161022T083000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr16, gdcr
+LOCATION:Deutsche Post E-Post Development GmbH
+WEBSITE:https://www.meetup.com/Software-Craftsmanship-Berlin/events/23
+ 2305463/
+URL:https://www.meetup.com/Software-Craftsmanship-Berlin/events/232305
+ 463/
+CONTACT:+49 163 234 23 05
+ORGANIZER:Egga Hartung
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Hart
+ ung":http://coderetreat.org/profile/egga
+END:VEVENT
+END:VCALENDAR

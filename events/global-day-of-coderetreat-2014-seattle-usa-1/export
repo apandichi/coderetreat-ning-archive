@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:40316
+DTSTAMP:20170129T120541Z
+SUMMARY:Global Day of Coderetreat 2014 - Seattle, WA, USA
+DESCRIPTION:Bring your laptop and join in the Global Day of Code Retre
+ at on November 15th! It will be a day of fun, programming, learning, t
+ eaching, and getting to know other programmers who are passionate abou
+ t their craft. Food will be provided, so you just need to show up and 
+ take part. Just remember to bring your laptop. After we are done we'll
+  head out for some drinks and socializing.\nWhat is a Code Retreat? Ot
+ her than being a great place to practice, you might want to take a loo
+ k at the Code Retreat website for a complete explanation of what to 
+ expect.\n\nSign up on Eventbrite!\n\nFor more information visit http:/
+ /coderetreat.org/events/global-day-of-coderetreat-2014-seattle-usa-1
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:CDK Global
+WEBSITE:https://goo.gl/maps/pBdHR
+URL:https://goo.gl/maps/pBdHR
+CONTACT:
+ORGANIZER;CN="Andrew Parker":http://coderetreat.org/profile/AndrewPark
+ er
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrew P
+ arker":http://coderetreat.org/profile/AndrewParker
+END:VEVENT
+END:VCALENDAR

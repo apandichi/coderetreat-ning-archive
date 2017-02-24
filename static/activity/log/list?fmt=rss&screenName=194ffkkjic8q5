@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Gemma R Cameron&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/GemmaRCameron</link>
+        <pubDate>Sun, 29 Jan 2017 11:45:08 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:45:08 +0000</lastBuildDate>
+        <image>
+            <title>Gemma R Cameron&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/GemmaRCameron</link>
+            <url>http://api.ning.com:80/files/6a0DB7v6GDF1cK6qgbOjlYMhZ2NvMBLN*DtZnhexbMdbs53OfdWXXEGNMtbsmSJh1nxmS5wpY5o1f57QUeNpFZOIrEvpIPeg/664934063.jpeg?xgip=336%3A573%3A1104%3A1104%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Arlene Paraiso&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/ArleneParaiso</link>
+        <pubDate>Sun, 29 Jan 2017 09:33:20 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 09:33:20 +0000</lastBuildDate>
+        <image>
+            <title>Arlene Paraiso&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/ArleneParaiso</link>
+            <url>http://api.ning.com:80/files/hIm8akmQXcHvZG0WcODIgEpRiSDKmI4nHhjQ0*YPlhZ28ATDT8L6b0mb841uh7AGvnODen*r4TeYhtdsXrvviISTMPCU6pOk/1146930062.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

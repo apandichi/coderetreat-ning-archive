@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45943
+DTSTAMP:20170129T121518Z
+SUMMARY:Global Day of Coderetreat 2015 - Winnipeg, Canada
+DESCRIPTION:Join us on a full day exercise coding and TDD like you mea
+ n it!\nAny language, pair programming, great company and awesome food 
+ to keep you the whole day going!\nPlease register here wpggdcr2015.ev
+ entbrite.ca\n\nFor more information visit http://coderetreat.org/event
+ s/global-day-coderetreat-2015
+DTSTART:20151114T083000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Bold Innovation Group
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN=abarylko:http://coderetreat.org/profile/abarylko
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=abarylko:
+ http://coderetreat.org/profile/abarylko
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dan Bern
+ ardic":http://coderetreat.org/profile/DanBernardic
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Awakenin
+ g Byte":http://coderetreat.org/profile/AwakeningByte
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David al
+ pert":http://coderetreat.org/profile/Davidalpert
+END:VEVENT
+END:VCALENDAR

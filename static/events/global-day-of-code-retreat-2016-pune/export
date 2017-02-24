@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56289
+DTSTAMP:20170129T101414Z
+SUMMARY:Global Day of Code Retreat 2016 - Pune
+DESCRIPTION:Global Code Retreat !!! Looking forward to meeting you all
+  :-)\nDetails :\nCoderetreat is a day-long, intensive practice event, 
+ focusing on the fundamentals of software development and design. By pr
+ oviding developers the opportunity to take part in focused practice, a
+ way from the pressures of 'getting things done', the coderetreat forma
+ t has proven itself to be a highly effective means of skill improvemen
+ t. Practicing the basic principles of modular and object-oriented desi
+ gn, developers can improve their ability to write code that minimizes 
+ the cost of change over time. \nLAPTOPS: Please bring your laptops fu
+ lly charged and equipped with the IDE of your choice. \nTIMING: Since
+  this is part of a GLOBAL event, the start and end times matter a lot.
+  We will start the Code Retreat at 10 AM SHARP, regardless of the atte
+ ndance at that time So please be there on time\nDIRECTIONS TO THE VEN
+ UE: There is only one Equal Experts, B1 Cerebrum It park, Above SBI Ba
+ nk, 5t Floor Kalyani Nagar Pune. \nPARKING:  Equal Experts has own p
+ arking at B1, -1 floor, it gets full if most the people getting their 
+ cars. You can ask Security guys they will help you out, if not then yo
+ u have pay park option on the road.\nSECURITY CLEARANCE: They don't ch
+ eck your IDs usually. But still, carry them.\nINTERNET ACCESS: There a
+ re wired and wireless connections in the office you will have access.\
+ nFOOD: Vegetarian lunch.\n\nFor more information visit http://coderetr
+ eat.org/events/global-day-of-code-retreat-2016-pune
+DTSTART:20161022T100000Z
+DTEND:20161022T170000Z
+CATEGORIES:global, day, of, code, retreat, 2016
+LOCATION:Equal Experts India Pvt. Ltd. Office No. 502 B, 5th Floor (Ab
+ ove SBI Bank),
+WEBSITE:https://www.meetup.com/expert-talks-pune/events/234780270/
+URL:https://www.meetup.com/expert-talks-pune/events/234780270/
+CONTACT:02066872404
+ORGANIZER;CN="Equal Experts":http://coderetreat.org/profile/EqualExper
+ ts
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/9Hx0HZEcx7exh
+ 5aF2RIRjGgsLdXuXH6BxlTGdtcfF-qA4AQDC8mpt8lnkGwz*ErKhbhgDfC2CX7pFQKyaGD
+ 5z-4Tg14pq-C*/ExpertTalks.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Equal Ex
+ perts":http://coderetreat.org/profile/EqualExperts
+END:VEVENT
+END:VCALENDAR

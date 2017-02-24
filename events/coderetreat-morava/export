@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12679
+DTSTAMP:20170129T134426Z
+SUMMARY:Coderetreat Morava
+DESCRIPTION:First coderetreat in Moravia.\n\nFor more information visi
+ t http://coderetreat.org/events/coderetreat-morava
+DTSTART:20121208T080000Z
+DTEND:20121208T160000Z
+CATEGORIES:coderetreat
+LOCATION:Podnikatelský inkubátor Vsetín - Maštaliska
+WEBSITE:http://goo.gl/maps/rO8Q2
+URL:http://goo.gl/maps/rO8Q2
+CONTACT:
+ORGANIZER;CN="Robert Dresler":http://coderetreat.org/profile/RobertDre
+ sler
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Robert D
+ resler":http://coderetreat.org/profile/RobertDresler
+END:VEVENT
+END:VCALENDAR

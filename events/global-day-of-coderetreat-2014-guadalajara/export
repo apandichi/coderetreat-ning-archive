@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37409
+DTSTAMP:20170129T120153Z
+SUMMARY:Global Day of Coderetreat 2014 - Guadalajara, Mexico
+DESCRIPTION:http://globalday.coderetreat.org/\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2014-gua
+ dalajara
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBD
+WEBSITE:http://singularity.mx/t/global-day-of-coderetreat-en-guadalaja
+ ra/101
+URL:http://singularity.mx/t/global-day-of-coderetreat-en-guadalajara/1
+ 01
+CONTACT:
+ORGANIZER:Singularity.mx
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Carlos Q
+ uirarte":http://coderetreat.org/profile/CarlosQuirarte
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier C
+ ervantes":http://coderetreat.org/profile/JavierCervantes
+END:VEVENT
+END:VCALENDAR

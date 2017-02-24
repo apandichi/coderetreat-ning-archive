@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11913
+DTSTAMP:20170129T114255Z
+SUMMARY:Global Day of Coderetreat 2012 - Lehi, Utah / US
+DESCRIPTION:This year pluralsight is hosting 2 Coderetreats: one at ou
+ r Lehi office and one at our Layton office.\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2012-leh
+ i-utah-us
+DTSTART:20121208T090000Z
+DTEND:20121208T190000Z
+CATEGORIES:coderetreat
+LOCATION:Lehi, Utah
+WEBSITE:http://lehi-ut-coderetreat.eventbrite.com/
+URL:http://lehi-ut-coderetreat.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="David Adsit":http://coderetreat.org/profile/DavidAdsit
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ad
+ sit":http://coderetreat.org/profile/DavidAdsit
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=3so8onoswa2og&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:34:33Z</updated>
+                            <author>
+                    <name>Chris Horn</name>
+                    <uri>http://coderetreat.org/profile/ChrisHorn</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/FIt*ZFe6wNjjl59LKFU7haPWkE6g49nf2Yv2b54*5y3YHsyUl3Qf8sD7PJ*NEn5UShhgR7k7TFKh9kLOw5OT18Ey07MXGFFx/1039639144.png?xgip=0%3A0%3A239%3A239%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=3so8onoswa2og&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Jeff Whitmire</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/JeffWhitmire"/>
+                                        <id>tag:coderetreat.org,2013-10-04:6456126:User:27136</id>
+                                        <updated>2013-10-04T14:15:33.056Z</updated>
+                    
+                                            <author>
+                            <name>Chris Horn</name>
+                            <uri>http://coderetreat.org/profile/ChrisHorn</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/jDVD6OcwyOII7kJ0A*RUIeTHfz0dXuDFpMOA6S6we3hnjEAgGTPhQtstei0yEB1dcv8wSn4nrCbfWyY2Kunuh*72hJfLc0Mc/1040655219.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jeff Whitmire&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/jDVD6OcwyOII7kJ0A*RUIeTHfz0dXuDFpMOA6S6we3hnjEAgGTPhQtstei0yEB1dcv8wSn4nrCbfWyY2Kunuh*72hJfLc0Mc/1040655219.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Jeff Whitmire&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>David Furber</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/DavidFurber"/>
+                                        <id>tag:coderetreat.org,2012-10-02:6456126:User:13220</id>
+                                        <updated>2012-10-02T01:35:08.789Z</updated>
+                    
+                                            <author>
+                            <name>Chris Horn</name>
+                            <uri>http://coderetreat.org/profile/ChrisHorn</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/rML1AEi0iLtnhMLHQuVY7FoWvc24Q1S-nGtnNhSRjcAvq0VFEcpopConV4QUa07v4Kms*Bi9mJ99u6J8ezbb3a260thmtDpx/679811167.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;David Furber&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/rML1AEi0iLtnhMLHQuVY7FoWvc24Q1S-nGtnNhSRjcAvq0VFEcpopConV4QUa07v4Kms*Bi9mJ99u6J8ezbb3a260thmtDpx/679811167.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;David Furber&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

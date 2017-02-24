@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Will Warner&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/WillWarner</link>
+        <pubDate>Sun, 29 Jan 2017 11:58:07 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:58:07 +0000</lastBuildDate>
+        <image>
+            <title>Will Warner&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/WillWarner</link>
+            <url>http://api.ning.com:80/files/QK8xPxzOGRnh6OfOtwzzsOTzhoyuwp5sCOMUvy2wiVoKHiST9g0jF11ShBli6xfM0seinQ6lyZuKThbBShwgTWMfuoHtfTGW/1045692938.png?xgip=14%3A13%3A204%3A204%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fe57ed76190ef69347f5374</guid>
+               <title>Will Warner posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:29633?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/WillWarner?xg_source=activity">Will Warner</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:29633?xg_source=activity">Global Day of Code Retreat</a> at 8th Light Office</h3><div class="rich-detail"><div class="rich-date">November 19, 2013 from 6pm to 7pm</div><div class="rich-excerpt">Come join us for the great annual celebration of code. We will have wireless and power available, and provide lunch. Please register through the EventBrite link and we'll look forward to seeing you.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:29633?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 19 Nov 2013 14:40:31 +0000</pubDate>
+               </item>    </channel>
+</rss>

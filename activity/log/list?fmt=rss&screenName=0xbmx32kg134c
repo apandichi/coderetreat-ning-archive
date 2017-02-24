@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Michał Czyż&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MichalCzyz</link>
+        <pubDate>Sun, 29 Jan 2017 11:47:37 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:47:37 +0000</lastBuildDate>
+        <image>
+            <title>Michał Czyż&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MichalCzyz</link>
+            <url>http://api.ning.com:80/files/4P*t7aAuCQW9kCHcIo0wiIu6BadMX5ytnV1zEXpqD9O8DhQ5VmIGsYxj21PKu4Izx6pvR9t-4FyI*5LnMXNl8DiEVuYo*dTK/595600726.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000ba357c493032e332a1d07ec</guid>
+               <title>Michał Czyż posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:28482?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalCzyz?xg_source=activity">Michał Czyż</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:28482?xg_source=activity">Global Day of Coderetreat 2013 &shy; Bielsko-Biala, Poland</a> at ATH Bielsko Biała</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 all day</div><div class="rich-excerpt">GDCR 2013<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:28482?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 31 Oct 2013 13:43:04 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba357c4cbe23f367a0427a5</guid>
+               <title>Michał Czyż updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:15786?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalCzyz?xg_source=activity">Michał Czyż</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:15786?xg_source=activity">Global Day of Coderetreat Bielsko-Biała</a> at Selleo HQ</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 all day</div><div class="rich-excerpt">part of global coderetreat day event<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:15786?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 06 Dec 2012 20:09:38 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba357c4ae1813c954922f01</guid>
+               <title>Michał Czyż posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:15786?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalCzyz?xg_source=activity">Michał Czyż</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:15786?xg_source=activity">Global Day of Coderetreat Bielsko-Biała</a> at Selleo HQ</h3><div class="rich-detail"><div class="rich-date">December 8, 2012 from 10am to 8pm</div><div class="rich-excerpt">part of global coderetreat day event<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:15786?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 14 Nov 2012 15:40:26 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000ba357c444553572bcc3e457</guid>
+               <title>Michał Czyż is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/MichalCzyz?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MichalCzyz?xg_source=activity">Michał Czyż</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Wed, 14 Nov 2012 15:36:42 +0000</pubDate>
+               </item>    </channel>
+</rss>

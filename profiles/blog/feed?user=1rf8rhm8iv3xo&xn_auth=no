@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Steven Proctor&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1rf8rhm8iv3xo&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:42:48Z</updated>
+                            <author>
+                    <name>Steven Proctor</name>
+                    <uri>http://coderetreat.org/profile/StevenProctor</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/JF77TIOsLFhbVNtdQ6FKh8ag0kcx-9bQsqcfhO8uKjfJit6uyDjGpnuZ6C1NrAWqzSRyzl18MvLQVBLypTuImkcpWB58eZmo/832684445.jpeg?xgip=1%3A20%3A331%3A331%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1rf8rhm8iv3xo&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Global Day of Code Retreat Dallas - thought dump</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:5671"/>
+                                        <id>tag:coderetreat.org,2011-12-11:6456126:BlogPost:5671</id>
+                                        <updated>2011-12-11T00:31:44.000Z</updated>
+                    
+                                            <author>
+                            <name>Steven Proctor</name>
+                            <uri>http://coderetreat.org/profile/StevenProctor</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;A write up of my thoughts on Dallas&#039; Global Day of Code Retreat can be found here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://proctorit.wordpress.com/2011/12/10/global-day-of-code-retreat-thought-dump/&quot;&gt;http://proctorit.wordpress.com/2011/12/10/global-day-of-code-retreat-thought-dump/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Happy Practicing,&lt;/p&gt;
+&lt;p&gt;--Proctor&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;A write up of my thoughts on Dallas&#039; Global Day of Code Retreat can be found here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://proctorit.wordpress.com/2011/12/10/global-day-of-code-retreat-thought-dump/&quot;&gt;http://proctorit.wordpress.com/2011/12/10/global-day-of-code-retreat-thought-dump/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Happy Practicing,&lt;/p&gt;
+&lt;p&gt;--Proctor&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

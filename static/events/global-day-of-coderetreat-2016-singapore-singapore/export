@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56141
+DTSTAMP:20170129T135622Z
+SUMMARY:Global Day of Coderetreat 2016 - Singapore, Singapore
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time.\nHost: CJ from PayPal Facilitator:\n\nAbhaya 
+ from Pivotal\nGuoQiang from ThoughtWorks\n\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2016-singap
+ ore-singapore
+DTSTART:20161008T180000Z
+DTEND:20161008T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:PayPal Singapore
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Chern Jie Lim":http://coderetreat.org/profile/ChernJieLi
+ m
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chern Ji
+ e Lim":http://coderetreat.org/profile/ChernJieLim
+END:VEVENT
+END:VCALENDAR

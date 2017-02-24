@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38195
+DTSTAMP:20170129T120742Z
+SUMMARY:Global Day of Coderetreat 2014 - Auckland, New Zealand
+DESCRIPTION:\nGlobal Day of Coderetreat is a world-wide event celebra
+ ting passion and software craftsmanship. Last year, over 5000 passiona
+ te software developers in 170 cities around the world registered to sp
+ end the day practicing the craft of software development using the cod
+ eretreat format. \nWhat is a coderetreat?\nCoderetreat is a day­long
+ , intensive practice event focusing on the fundamentals of software de
+ velopment and design. The coderetreat format has proven itself to be a
+  highly effective means of skill improvement by providing developers t
+ he opportunity to take part in focused practice away from the pressure
+ s of 'getting things done.' \nWhat can you learn?\n• Pair programm
+ ing with strangers\n• Experiment with new programming languages\n�
+ � Write code as you wish without usual real-world constraints...\n•
+  ... and then write code with some very unusual constraints \n• Pra
+ ctice 4 rules of simple design \n• Meet other passionate programme
+ rs that you can learn from\n What do you need?\nA laptop with the pro
+ gramming environment of your choice (IDE, unit test library, etc.)\nHo
+ w can you help?\nAgenda:\n8:30 - 9:00 Welcome coffee\n10:00-10:30 In
+ troduction\n10:30-11:15 Session #1\n11:15-11:30 Retrospective \n11:
+ 30-12:15 Session #2 \n12:15-12:30 Retrospective \n12:30-13:15 Ses
+ sion #3 \n13:15-13:30 Retrospective\n13:30-14:30 Lunch break\n14:30
+ -15:15 Session #4 \n15:15-15:30 Retrospective\n15:30-16:15 Session
+  #5 \n16:15-16:30 Retrospective\n16:30-17:15 Session #6 \n17:15-17
+ :45 Retrospective of the whole day\n\n17:45 - ??? Other sessions and
+  discussions over a beer :)\n\n\n\nMore info and registration:\nhttp:/
+ /www.meetup.com/EllerslieDNUG/events/207317712/\n\nFor more informatio
+ n visit http://coderetreat.org/events/global-day-of-code-retreat-2014-
+ auckland-nz
+DTSTART:20141115T083000Z
+DTEND:20141115T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Olympic Software, Cawley street, Ellerslie, Auckland
+WEBSITE:http://www.meetup.com/EllerslieDNUG/events/207317712/
+URL:http://www.meetup.com/EllerslieDNUG/events/207317712/
+CONTACT:0220488350
+ORGANIZER:Weronika Labaj, Sebastian Belczyk, Reuben Dunn
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Weronika
+  Labaj":http://coderetreat.org/profile/WeronikaLabaj
+END:VEVENT
+END:VCALENDAR

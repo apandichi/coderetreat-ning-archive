@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15080
+DTSTAMP:20170129T124336Z
+SUMMARY:Facilitator Training
+DESCRIPTION:This training session is full and we have closed registrat
+ ion.\nWe have been using Google Plus Hangouts for the training, and th
+ ey only support up to 10 people (and there are 10 people ether \"atten
+ ding\" or \"might attending\" the event).\nHowever, we managed to reco
+ rd a training session here. Since we uploaded the video to Vimeo, you 
+ can also download the video and watch it offline (click the Download b
+ utton found on the vidoe's Vimeo page).\n \nJoin us to learn about ho
+ w to facilitate a Coderetreat!\nNOTE: All times are listed in UTC\nThi
+ s event was created for first-time facilitators who will be facilitati
+ ng a Coderetreat as part of the Global Day of Coderetreat, but anyone 
+ interested in learning to facilitate is welcome. This training will be
+  lead by coderetreat extraordinaire Adi Bolboaca.\nTo attend the trai
+ ning:\n\nRSVP to this event. Note: You will need to log into or sign-u
+ p in order to RSVP.\nSend Jim Hurne your Google Account email address
+  (if it is different from the email address you use with coderetreat.o
+ rg). Jim will give you access to the Google Hangout.\nIf you have neve
+ r used Google Hangout before, try joining the hangout ahead of time to
+  work through any technical issues you may encounter. See this help pa
+ ge if you run into technical issues with the Hangout.\nJoin the hango
+ ut at the scheduled time for the training.\n\n\nFor more information 
+ visit http://coderetreat.org/events/gdcr12-facilitator-training-18
+DTSTART:20121205T170000Z
+DTEND:20121205T190000Z
+CATEGORIES:training
+LOCATION:Google Hangout
+WEBSITE:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNm
+ oxYW92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.r9pb0d9tths2p2hu6
+ d4ntk8phg
+URL:https://plus.google.com/hangouts/_/calendar/MzB0ZDhzampxZGpiNmoxYW
+ 92YXMwdGcwdWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.r9pb0d9tths2p2hu6d4nt
+ k8phg
+CONTACT:
+ORGANIZER:Adi Bolboaca
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/*8D9740yuLVtl
+ i7PkCBvwXk*rvKB7UH5uuAmTZLNpL90oSV598Phqs4TyIT3XSaFgKK4OzqfVkQEb7L2Gyt
+ -0vzx9Zct2tzF/clipboardwhistlemd.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Uzi Mama
+ ni":http://coderetreat.org/profile/uzimamani
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Lara Vasquez":http://coderetreat.org/profile/JonathanLaraVasquez
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Amy Pala
+ mountain":http://coderetreat.org/profile/AmyPalamountain
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adrian E
+ duardo Moya Guzmán":http://coderetreat.org/profile/AdrianEduardoMoyaG
+ uzman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stephani
+ e Frias Zamalloa":http://coderetreat.org/profile/StephanieFriasZamallo
+ a
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Javier C
+ ervantes":http://coderetreat.org/profile/JavierCervantes
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin F
+ lores":http://coderetreat.org/profile/MartinFlores
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin H
+ olman":http://coderetreat.org/profile/MartinHolman
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi Bolb
+ oaca":http://coderetreat.org/profile/adibolb
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Matt Le
+ dger":http://coderetreat.org/profile/MattLedger
+END:VEVENT
+END:VCALENDAR

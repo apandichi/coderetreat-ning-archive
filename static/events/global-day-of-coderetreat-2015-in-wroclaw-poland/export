@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45675
+DTSTAMP:20170129T121136Z
+SUMMARY:Global Day of Coderetreat 2015 - Wroclaw, Poland
+DESCRIPTION:Registration is about to open soon at: http://coderetreat-
+ 2015-wroclaw.eventbrite.com\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2015-in-wroclaw-poland
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Infusion Office, Wroclaw
+WEBSITE:https://www.google.pl/maps/place/Rze%C5%BAnicza+28,+Wroc%C5%82
+ aw/@51.1109855,17.0280499,17z/data=!3m1!4b1!4m2!3m1!1s0x470fc275345b08
+ 35:0x9ad35c1b24ea5cd8?hl=en
+URL:https://www.google.pl/maps/place/Rze%C5%BAnicza+28,+Wroc%C5%82aw/@
+ 51.1109855,17.0280499,17z/data=!3m1!4b1!4m2!3m1!1s0x470fc275345b0835:0
+ x9ad35c1b24ea5cd8?hl=en
+CONTACT:
+ORGANIZER;CN="Maciej Talaśka":http://coderetreat.org/profile/MaciejTa
+ laska
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Maciej T
+ alaśka":http://coderetreat.org/profile/MaciejTalaska
+END:VEVENT
+END:VCALENDAR

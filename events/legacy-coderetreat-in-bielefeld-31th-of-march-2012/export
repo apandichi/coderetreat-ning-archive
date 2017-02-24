@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:8997
+DTSTAMP:20170129T140446Z
+SUMMARY:Legacy Coderetreat in Bielefeld 31th of March 2012
+DESCRIPTION:please register via : http://coderetreat-bielefeld.de\n\nF
+ or more information visit http://coderetreat.org/events/legacy-coderet
+ reat-in-bielefeld-31th-of-march-2012
+DTSTART:20120331T090000Z
+DTEND:20120331T170000Z
+CATEGORIES:legacy
+LOCATION:Technologiezentrum Bielefeld
+WEBSITE:http://coderetreat-bielefeld.de
+URL:http://coderetreat-bielefeld.de
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/sB6z14CQQio6W
+ 93EYnqlMZYTKghMX*9oPwgeh3OEUuMdky25uRfp2*7lDN71jyzcnkS3hhnBdtyQjkYEkdB
+ NFq2GaUQo*gzn/200pxWappen_Bielefeld_reasonably_small.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

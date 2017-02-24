@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27363
+DTSTAMP:20170129T121027Z
+SUMMARY:Global Day of Coderetreat 2013 - Istanbul, Turkey
+DESCRIPTION:Global Day Of Codretreat 2013 - Istanbul edition\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-codre
+ treat-2013-istanbul
+DTSTART:20131214T093000Z
+DTEND:20131214T190000Z
+CATEGORIES:coderetreat, gdcr13, gdcr
+LOCATION:Parkyeri
+WEBSITE:http://www.parkyeri.com
+URL:http://www.parkyeri.com
+CONTACT:
+ORGANIZER:Gokhan Gorali, Tayfun Öztemel, Irmak Çakmak, Barış Ala
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/UytU4r62uFPd8
+ qGaCURZj2zomLIiEBDlGBBgH1FR*NxKiJHcOPU*A3-gZtytfTD9*eEZbiA1m3-uR2TadJO
+ fqkzSi4l-JKMr/GDCR2013ISTANBULFlyerpage001.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gokhan G
+ orali":http://coderetreat.org/profile/GokhanGorali
+END:VEVENT
+END:VCALENDAR

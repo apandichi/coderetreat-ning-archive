@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Andrei Olar&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AndreiOlar</link>
+        <pubDate>Sun, 29 Jan 2017 12:05:49 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:05:49 +0000</lastBuildDate>
+        <image>
+            <title>Andrei Olar&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AndreiOlar</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011035bb75127c9fbca43ba70</guid>
+               <title>Andrei Olar posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:40742?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AndreiOlar?xg_source=activity">Andrei Olar</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:40742?xg_source=activity">Global Day of Code Retreat - Cluj-Napoca, Romania</a> at Cluj Hub</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 all day</div><div class="rich-excerpt">We invite you to the <a href="http://coderetreat.org/events/global-day-of-code-retreat-cluj-napoca-romania" target="_blank">Global Day of Coderetreat in Cluj-Napoca</a>! Please register for <a href="http://www.rabs.ro/events?ee=13" target="_blank">this event using the RABS website</a>.Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of 'getting things done', the <a href="http://coderetreat.org/" target="_blank">coderetreat format</a> has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time. <a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:40742?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Mon, 03 Nov 2014 09:41:57 +0000</pubDate>
+               </item>    </channel>
+</rss>

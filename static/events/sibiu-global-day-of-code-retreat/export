@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47678
+DTSTAMP:20170129T121230Z
+SUMMARY:Global Day of Coderetreat 2015 - Sibiu, Romania
+DESCRIPTION:Imagine a group of people gathering in a room and coding a
+ ll day. Just for fun. \nMore information about code retreat can be fo
+ und here\nTo help us in organizing the event, those willing to p
+ articipate, please confirm at https://www.facebook.com/events/85757
+ 5417689098/ \nThe structure for the event will be according with:\nht
+ tp://coderetreat.org/facilitating/structure-of-a-coderetreat \n\nFor 
+ more information visit http://coderetreat.org/events/sibiu-global-day-
+ of-code-retreat
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Sibiu
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:Calinoiu Alexandru Nicolae
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Diana Vi
+ julie":http://coderetreat.org/profile/DianaVijulie
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ionut Va
+ lean":http://coderetreat.org/profile/IonutValean
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Csaba Tr
+ ucza":http://coderetreat.org/profile/CsabaTrucza
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Adi B":h
+ ttp://coderetreat.org/profile/AdiB
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alexandr
+ u Calinoiu":http://coderetreat.org/profile/AlexandruCalinoiu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="George D
+ anila":http://coderetreat.org/profile/GeorgeDanila
+END:VEVENT
+END:VCALENDAR

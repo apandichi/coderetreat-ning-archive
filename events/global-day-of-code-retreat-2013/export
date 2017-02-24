@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16563
+DTSTAMP:20170129T125049Z
+SUMMARY:Global Day of Coderetreat 2012 - Stockholm / Sweden
+DESCRIPTION:Valtech is hosting a 50/50 men/women code retreat in Stock
+ holm, facilitated by Emily Bache.\n\nFor more information visit http:/
+ /coderetreat.org/events/global-day-of-code-retreat-2013
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:code, retreat
+LOCATION:Valtech's offices, Stockholm
+WEBSITE:http://global-day-of-coderetreat-stockholm.eventbrite.com/
+URL:http://global-day-of-coderetreat-stockholm.eventbrite.com/
+CONTACT:
+ORGANIZER:Emily Bache & Karin Tykesson
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Emily Ba
+ che":http://coderetreat.org/profile/EmilyBache
+END:VEVENT
+END:VCALENDAR

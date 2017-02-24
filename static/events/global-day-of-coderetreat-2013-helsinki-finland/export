@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27282
+DTSTAMP:20170129T101921Z
+SUMMARY:Global Day of Coderetreat 2013 - Helsinki, Finland
+DESCRIPTION:Global Day of Coderetreat 2013 at University of Helsinki, 
+ Department of Computer Science. Open for all students of the departmen
+ t.\nFor more info see https://www.cs.helsinki.fi/uutiset/78758\n\nFor
+  more information visit http://coderetreat.org/events/global-day-of-co
+ deretreat-2013-helsinki-finland
+DTSTART:20131214T110000Z
+DTEND:20131214T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Exactum, Kumpulan kampus
+WEBSITE:https://www.cs.helsinki.fi/uutiset/78758
+URL:https://www.cs.helsinki.fi/uutiset/78758
+CONTACT:
+ORGANIZER:Matti Luukkainen / Department of Computer Science
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matti Lu
+ ukkainen":http://coderetreat.org/profile/MattiLuukkainen
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53938
+DTSTAMP:20170129T112944Z
+SUMMARY:Global Day of Coderetreat 2016 - Osnabrück, Germany
+DESCRIPTION:Die LMIS AG lädt in Kooperation mit Universität und Hoch
+ schule Osnabrück alle interessierten Softwareentwickler/innen aus der
+  Region zum »Global Day of Coderetreat« am 22. Oktober 2016 ein.  St
+ udenten sind ebenso wie berufstätige Softwareentwickler herzlich eing
+ eladen, ihre Erfahrungen auszutauschen und ihr Programmierhandwerk auf
+ zubessern. Die Teilnehmerzahl ist begrenzt auf 20 Personen. Die Teilna
+ hme ist kostenlos – für einen Snack wird gesorgt.  Das Mitbringen e
+ ines Notebooks inkl. eingerichteter Entwicklungsumgebung für die gew�
+ �hlte Programmiersprache wird vorausgesetzt!  Wann?  22. Oktober 2016
+  | 09.00 bis ca. 17.00 Uhr Wo?  LMIS AG, Neumarkt 1, 49074 Osnabrück
+  Wer? (Informatik-) Studenten und (berufstätige) Softwareentwickler\n
+ Anmeldung\nDie Anmeldung zum »Global Day of Coderetreat«  in Osnabr
+ ück von LMIS AG in Kooperation mit Hochschule und Universität Osnabr
+ ück ist ab sofort online möglich unter: https://gdcr2016.eventbrite.
+ de\n\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2016-osnabr-ck-germany
+DTSTART:20161022T090000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:LMIS AG
+WEBSITE:https://www.lmis.de/
+URL:https://www.lmis.de/
+CONTACT:+49 (0) 541 200 690 - 0
+ORGANIZER;CN="LMIS AG":http://coderetreat.org/profile/LMISAG
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/b9WdiVqANslHm
+ lHXfNl-c*NyGXlb7zueRyIc7oQGmjtt4dlZNvvi1ybszdkArPZ3XkH8WJ7XCXwiO-yZDcq
+ Hq5u-Mj4ckndr/IMG_7329.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="LMIS AG"
+ :http://coderetreat.org/profile/LMISAG
+END:VEVENT
+END:VCALENDAR

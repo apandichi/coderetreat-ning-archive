@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Carlo&#039;s Photos</title>
+        <description>Carlo&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=1puj0mjp1newb</link>
+        <pubDate>Sun, 29 Jan 2017 13:35:01 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:35:01 +0000</lastBuildDate>
+        <image>
+            <title>Carlo&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=1puj0mjp1newb</link>
+            <url>http://api.ning.com:80/files/ww4vQnU9WR5GLvo9LzY6X-OCGQzArXn1t5Cvd3CfYSTpT3JIYRb9q*5WxFMN8WzzH*2Cpv9lQLIZvmbGUGdNmuLtR*iNV29l/defaultprofileoldphoto.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:4940</guid>             <title>Getting to know each other before first session</title>
+            <link>http://coderetreat.org/photo/getting-to-know-each-other-before-first-session</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/P3tbfBK0ym5-HAlMI*OAm7jkhq-*iDybsHvdAQB7y-87TWYth8-nR5Iord1pppNj-ESUsWCWR70C2pZ47I2rfYJLJpi-W3ZB/IMG_0888_1.jpg?width=800&amp;amp;height=597&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/P3tbfBK0ym5-HAlMI*OAm7jkhq-*iDybsHvdAQB7y-87TWYth8-nR5Iord1pppNj-ESUsWCWR70C2pZ47I2rfYJLJpi-W3ZB/IMG_0888_1.jpg?width=240&amp;height=179&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Carlo </description>                <pubDate>Mon, 05 Dec 2011 14:49:31 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/P3tbfBK0ym5-HAlMI*OAm7jkhq-*iDybsHvdAQB7y-87TWYth8-nR5Iord1pppNj-ESUsWCWR70C2pZ47I2rfYJLJpi-W3ZB/IMG_0888_1.jpg?width=800&amp;height=597&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/P3tbfBK0ym5-HAlMI*OAm7jkhq-*iDybsHvdAQB7y-87TWYth8-nR5Iord1pppNj-ESUsWCWR70C2pZ47I2rfYJLJpi-W3ZB/IMG_0888_1.jpg?width=800&amp;height=597&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/P3tbfBK0ym5-HAlMI*OAm7jkhq-*iDybsHvdAQB7y-87TWYth8-nR5Iord1pppNj-ESUsWCWR70C2pZ47I2rfYJLJpi-W3ZB/IMG_0888_1.jpg?width=240&amp;height=179&amp;format=jpg" width="240" height="179" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Carlo</media:credit>
+	                        <atom:author>
+                <atom:name>Carlo</atom:name>
+                <atom:uri>http://coderetreat.org/profile/Carlo</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:4938</guid>             <title>Before first session, just after Kent Beck skype call</title>
+            <link>http://coderetreat.org/photo/before-first-session-just-after-kent-beck-skype-call</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/*UYXR6k-gova*FWHJJfAPicsfLD5rPtLzqOktE1kwwB*TIA72Do1E7vIvwH4Qf5oRr6pElSvQe0mRTVwzvIg0D5FNq2SN-h2/IMG_0889_1.jpg?width=800&amp;amp;height=597&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/*UYXR6k-gova*FWHJJfAPicsfLD5rPtLzqOktE1kwwB*TIA72Do1E7vIvwH4Qf5oRr6pElSvQe0mRTVwzvIg0D5FNq2SN-h2/IMG_0889_1.jpg?width=240&amp;height=179&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Carlo </description>                <pubDate>Mon, 05 Dec 2011 14:48:34 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/*UYXR6k-gova*FWHJJfAPicsfLD5rPtLzqOktE1kwwB*TIA72Do1E7vIvwH4Qf5oRr6pElSvQe0mRTVwzvIg0D5FNq2SN-h2/IMG_0889_1.jpg?width=800&amp;height=597&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/*UYXR6k-gova*FWHJJfAPicsfLD5rPtLzqOktE1kwwB*TIA72Do1E7vIvwH4Qf5oRr6pElSvQe0mRTVwzvIg0D5FNq2SN-h2/IMG_0889_1.jpg?width=800&amp;height=597&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/*UYXR6k-gova*FWHJJfAPicsfLD5rPtLzqOktE1kwwB*TIA72Do1E7vIvwH4Qf5oRr6pElSvQe0mRTVwzvIg0D5FNq2SN-h2/IMG_0889_1.jpg?width=240&amp;height=179&amp;format=jpg" width="240" height="179" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Carlo</media:credit>
+	                        <atom:author>
+                <atom:name>Carlo</atom:name>
+                <atom:uri>http://coderetreat.org/profile/Carlo</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:4936</guid>             <title>Session 1</title>
+            <link>http://coderetreat.org/photo/session-1</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/sagDViNsOQY7BVxvwUhOLyFrtq25PXmXePbF49S04KVuRgWbyEVmP*ji8xWGhQDJe33Mfu1o8tvbyax3KfbVp*3lkE*5Ecnq/IMG_0890_1.jpg?width=800&amp;amp;height=597&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/sagDViNsOQY7BVxvwUhOLyFrtq25PXmXePbF49S04KVuRgWbyEVmP*ji8xWGhQDJe33Mfu1o8tvbyax3KfbVp*3lkE*5Ecnq/IMG_0890_1.jpg?width=240&amp;height=179&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Carlo Everyone getting stuck in</description>                <pubDate>Mon, 05 Dec 2011 14:47:37 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/sagDViNsOQY7BVxvwUhOLyFrtq25PXmXePbF49S04KVuRgWbyEVmP*ji8xWGhQDJe33Mfu1o8tvbyax3KfbVp*3lkE*5Ecnq/IMG_0890_1.jpg?width=800&amp;height=597&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/sagDViNsOQY7BVxvwUhOLyFrtq25PXmXePbF49S04KVuRgWbyEVmP*ji8xWGhQDJe33Mfu1o8tvbyax3KfbVp*3lkE*5Ecnq/IMG_0890_1.jpg?width=800&amp;height=597&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description>Everyone getting stuck in</media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/sagDViNsOQY7BVxvwUhOLyFrtq25PXmXePbF49S04KVuRgWbyEVmP*ji8xWGhQDJe33Mfu1o8tvbyax3KfbVp*3lkE*5Ecnq/IMG_0890_1.jpg?width=240&amp;height=179&amp;format=jpg" width="240" height="179" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Carlo</media:credit>
+	                        <atom:author>
+                <atom:name>Carlo</atom:name>
+                <atom:uri>http://coderetreat.org/profile/Carlo</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

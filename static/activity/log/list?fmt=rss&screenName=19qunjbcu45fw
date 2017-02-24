@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Matt Dell&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MattDell</link>
+        <pubDate>Sun, 29 Jan 2017 13:34:22 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:34:22 +0000</lastBuildDate>
+        <image>
+            <title>Matt Dell&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MattDell</link>
+            <url>http://api.ning.com:80/files/ol81UNxTm21axTO6jtkv8WRTsmOMlAXYI2sgaVUMfz9eXxJ55Zw4uFHVT2*8KKlPKKzZm0rdJ*bcKdaayCVTK*Xp8iI0y7kg/745240978.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b5177a082cc0dcb822289f1</guid>
+               <title>Matt Dell liked Marton Meszaros&#039;s event Coderetreat London</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:11904?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MattDell?xg_source=activity">Matt Dell</a> liked <a href="http://coderetreat.org/profile/MartonMeszaros?xg_source=activity">Marton Meszaros's</a> event <a href="http://coderetreat.org/xn/detail/6456126:Event:11904?xg_source=activity">Coderetreat London</a></span><br/>]]></description>
+               <pubDate>Thu, 20 Sep 2012 11:21:13 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b5177a026afecd59be51426</guid>
+               <title>Matt Dell is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/MattDell?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MattDell?xg_source=activity">Matt Dell</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Thu, 20 Sep 2012 11:19:09 +0000</pubDate>
+               </item>    </channel>
+</rss>

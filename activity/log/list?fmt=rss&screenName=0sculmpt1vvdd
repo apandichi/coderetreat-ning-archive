@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Jan&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/Jan985</link>
+        <pubDate>Sun, 29 Jan 2017 10:25:46 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:25:46 +0000</lastBuildDate>
+        <image>
+            <title>Jan&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/Jan985</link>
+            <url>http://api.ning.com:80/files/ldPIfFy3ff36PS3dSi0gEKsHuTjE8EEdxBpgRDGeJHdrUeS38jCkiedEdMQDhIsf8dBwLHItDYwY56rEJNsD4gXZTJM3X-Zc/1154848227.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001243501fe658ff0ad1c80e02</guid>
+               <title>james peterson left a comment for Jan</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Comment:52525?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/jamespeterson?xg_source=activity">james peterson</a> left a <a href="http://coderetreat.org/xn/detail/6456126:Comment:52525?xg_source=activity">comment</a> for <a href="http://coderetreat.org/profile/Jan985?xg_source=activity">Jan</a></span><br/>]]></description>
+               <pubDate>Mon, 08 Feb 2016 20:33:07 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e00000000120f80e7beab370bec4c9880</guid>
+               <title>Jan posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:50272?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/Jan985?xg_source=activity">Jan</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:50272?xg_source=activity">AK Global Day of Coderetreat at KIF 43,5</a> at Institut f&uuml;r Informatik der Uni Bonn</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 10am to 6pm</div><div class="rich-excerpt">GCDR as a workshop at KIF 43,5<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:50272?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 12 Nov 2015 12:57:35 +0000</pubDate>
+               </item>    </channel>
+</rss>

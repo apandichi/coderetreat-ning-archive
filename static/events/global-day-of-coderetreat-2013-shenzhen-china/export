@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:32147
+DTSTAMP:20170129T115656Z
+SUMMARY:Global Day of Coderetreat 2013 - Shenzhen, China
+DESCRIPTION:First GDCR in Shenzhen, coming join us.\n\nFor more inform
+ ation visit http://coderetreat.org/events/global-day-of-coderetreat-20
+ 13-shenzhen-china
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Malata Science and Technology Mansion
+WEBSITE:
+URL:
+CONTACT:13311130852
+ORGANIZER;CN="Seaborn Lee":http://coderetreat.org/profile/SeabornLee
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Seaborn 
+ Lee":http://coderetreat.org/profile/SeabornLee
+END:VEVENT
+END:VCALENDAR

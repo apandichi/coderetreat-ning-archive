@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0s0o7sww7pclq&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:31:17Z</updated>
+                            <author>
+                    <name>Bert Radke</name>
+                    <uri>http://coderetreat.org/profile/BertRadke</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/jSNhDxbJzkgpxNS*0Ngxabpr3jdrly-fshY-5MqYgrIvhA02jLoxYlx2*rPVzfhVHau*z5ywBhoLNnqtMm*-nujvMTzNQdzV/1237721698.png?xgip=0%3A0%3A379%3A379%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0s0o7sww7pclq&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Katharina Saridza</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/KatharinaSaridza"/>
+                                        <id>tag:coderetreat.org,2016-10-14:6456126:User:56451</id>
+                                        <updated>2016-10-14T10:10:19.773Z</updated>
+                    
+                                            <author>
+                            <name>Bert Radke</name>
+                            <uri>http://coderetreat.org/profile/BertRadke</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/rnXnbo8QfWsJQISq5**acmpVovifPO*N1ywBaYLyFr-S9W7biVd1XLKoq1wU7uKL37JO55F-68hNkGZiMI9ulh-3pTyD1iqO/1242258367.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Katharina Saridza&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/rnXnbo8QfWsJQISq5**acmpVovifPO*N1ywBaYLyFr-S9W7biVd1XLKoq1wU7uKL37JO55F-68hNkGZiMI9ulh-3pTyD1iqO/1242258367.jpeg?width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Katharina Saridza&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

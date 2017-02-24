@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=16772z4f8ydg2&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:59:22Z</updated>
+                            <author>
+                    <name>Ian Taylor</name>
+                    <uri>http://coderetreat.org/profile/IanTaylor</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/PITcqz*43RkQ-LNe3QeSppFPEtFta1ggtD8yQiq*ZFt5XnXmMZlPudDTqZ5aL7KkPiQbcKctPC5QWyQ27AVCZ5u1OuvwPEdu/1041847089.jpeg?xgip=7%3A0%3A282%3A282%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=16772z4f8ydg2&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Ken Taylor</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/KenTaylor"/>
+                                        <id>tag:coderetreat.org,2013-10-17:6456126:User:27727</id>
+                                        <updated>2013-10-17T16:15:06.161Z</updated>
+                    
+                                            <author>
+                            <name>Ian Taylor</name>
+                            <uri>http://coderetreat.org/profile/IanTaylor</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/PITcqz*43RlZ2aS644YNEhmwvODcPdco6-UgBTks9nZpRlmR4F1d3hW428ldEVuj*JwRbD73Xjy3ymuR6UWFVTc7eAi9gBg-/1041853478.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ken Taylor&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/PITcqz*43RlZ2aS644YNEhmwvODcPdco6-UgBTks9nZpRlmR4F1d3hW428ldEVuj*JwRbD73Xjy3ymuR6UWFVTc7eAi9gBg-/1041853478.jpeg?xgip=0%3A0%3A199%3A199%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Ken Taylor&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

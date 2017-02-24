@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:10723
+DTSTAMP:20170129T124410Z
+SUMMARY:Code Retreat Cape Town
+DESCRIPTION:4th quarterly retreat at Information Logistics, Cape Town,
+  South Africa.\nRSVP at the meetup.\nDirections at our contact page.\n
+ \nFor more information visit http://coderetreat.org/events/code-retrea
+ t-cape-town
+DTSTART:20120623T080000Z
+DTEND:20120623T160000Z
+CATEGORIES:coderetreat
+LOCATION:Century City
+WEBSITE:http://www.meetup.com/Cape-Town-Software-Developers/events/577
+ 08672/
+URL:http://www.meetup.com/Cape-Town-Software-Developers/events/5770867
+ 2/
+CONTACT:082 829 7212
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/6pXShBGEGkraf
+ A*Y2L72uasdjrtEVBMPEM5IWZuHG8cRLX-zJBd-x1Tf2CpvZLg6o4R-QbiXXWIfGfW2nKA
+ s6i-RBpfFe*db/DSC_1784.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

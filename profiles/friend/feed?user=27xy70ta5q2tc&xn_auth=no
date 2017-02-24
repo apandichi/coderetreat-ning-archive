@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=27xy70ta5q2tc&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:00:09Z</updated>
+                            <author>
+                    <name>Highgroove Studios</name>
+                    <uri>http://coderetreat.org/profile/HighgrooveStudios</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/USJ-8nmBjwkkW2uWPzdYl*F6UUSQiYkOdgtKC7-CcQtqR*D6ngRqoE-7-iGFwpqZYKK82K9SC4fyOWSkldqYcmr5e3icSB5r/607862374.png?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=27xy70ta5q2tc&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Kurt Griffiths</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/KurtGriffiths"/>
+                                        <id>tag:coderetreat.org,2012-09-21:6456126:User:12829</id>
+                                        <updated>2012-09-21T19:13:25.692Z</updated>
+                    
+                                            <author>
+                            <name>Highgroove Studios</name>
+                            <uri>http://coderetreat.org/profile/HighgrooveStudios</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/8sPkf37rP6U38Xhkl10*KarKITm1QKfrlv*dSfVQCXkxQS6SYbxDlRjX6xe2NYi49zXStP0iPDHlpduUWwkrcGiOcoADQHHL/595361985.png?xgip=0%3A0%3A269%3A269%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Kurt Griffiths&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/8sPkf37rP6U38Xhkl10*KarKITm1QKfrlv*dSfVQCXkxQS6SYbxDlRjX6xe2NYi49zXStP0iPDHlpduUWwkrcGiOcoADQHHL/595361985.png?xgip=0%3A0%3A269%3A269%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Kurt Griffiths&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

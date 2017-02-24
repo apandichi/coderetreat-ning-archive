@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Mark Clearwater&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MarkClearwater</link>
+        <pubDate>Sun, 29 Jan 2017 12:16:13 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 12:16:13 +0000</lastBuildDate>
+        <image>
+            <title>Mark Clearwater&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MarkClearwater</link>
+            <url>http://api.ning.com:80/files/SJHyuKr55TOZpAA9lqaOUKZILPw83tGEiYiZMZGDPu7u6kR0AvhRp1PITmw2DVguCe6XuZGqprvl1FPsP9ccr-kiQixHgnjq/1152029288.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012090a7734587f53b311368b</guid>
+               <title>Mark Clearwater posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:50166?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/MarkClearwater?xg_source=activity">Mark Clearwater</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:50166?xg_source=activity">Global Day of Coderetreat 2015 - Wellington, New Zealand</a> at Xero</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 8:30am to 4:30pm</div><div class="rich-excerpt">We're very happy to invite everyone interested in improving their software craftsmanship skills to Auckland edition of Global Code Retreat 2015.You can register here: <a href="http://www.meetup.com/kiwi-code-retreat/events/226493069/">http://www.meetup.com/kiwi-code-retreat/events/226493069/</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:50166?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 10 Nov 2015 06:26:32 +0000</pubDate>
+               </item>    </channel>
+</rss>

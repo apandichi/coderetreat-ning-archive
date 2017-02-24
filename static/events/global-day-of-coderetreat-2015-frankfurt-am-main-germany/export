@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45133
+DTSTAMP:20170129T121118Z
+SUMMARY:Global Day of Coderetreat 2015 - Frankfurt am Main, Germany
+DESCRIPTION:Global Day of Coderetreat 2015 in Frankfurt am Main\nRegis
+ tration: http://www.eventbrite.de/e/global-day-of-coderetreat-in-fran
+ kfurt-tickets-18095325606\nSponsor: itemis AG\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2015-fra
+ nkfurt-am-main-germany
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Steigenberger Hotel Metropolitan
+WEBSITE:http://itemis.de
+URL:http://itemis.de
+CONTACT:
+ORGANIZER:Ali Kazmi
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/YoqhN--8jZeaC
+ njzJ7vGjUl5bnpQzRKa3GRRcAevGuE03Wn94C4JPLiXy9iF5JMcEuTqLNb78FhkDzZGpZZ
+ M9r05QevhkSG2/TS_Skyline2009.JPG
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sven Lan
+ ge":http://coderetreat.org/profile/svenlange
+END:VEVENT
+END:VCALENDAR

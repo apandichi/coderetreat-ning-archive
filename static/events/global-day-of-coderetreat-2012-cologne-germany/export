@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:13051
+DTSTAMP:20170129T134139Z
+SUMMARY:Global Day of Coderetreat 2012 - Cologne Köln / Germany
+DESCRIPTION:See http://coderetreat2012cologne.eventbrite.com/ for re
+ gistration details.\nMeinAuto.de offers its facilities as well as coff
+ ee, snacks, and lunch for the Global Day of Coderetreat 2012 in Colog
+ ne (Köln), Germany.\n\nFor more information visit http://coderetreat.
+ org/events/global-day-of-coderetreat-2012-cologne-germany
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:MeinAuto GmbH
+WEBSITE:https://maps.google.de/maps?q=Venloer+Stra%C3%9Fe+151-153,+K%C
+ 3%B6ln&hl=de&ie=UTF8&safe=off&hnear=Venloer+Stra%C3%9Fe+151,+50672+K%C
+ 3%B6ln,+Nordrhein-Westfalen&gl=de&t=m&z=16
+URL:https://maps.google.de/maps?q=Venloer+Stra%C3%9Fe+151-153,+K%C3%B6
+ ln&hl=de&ie=UTF8&safe=off&hnear=Venloer+Stra%C3%9Fe+151,+50672+K%C3%B6
+ ln,+Nordrhein-Westfalen&gl=de&t=m&z=16
+CONTACT:+4916096990445
+ORGANIZER;CN="Manuel Kiessling":http://coderetreat.org/profile/ManuelK
+ iessling
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/xhixLk1YGG6vh
+ pjwVxw417Y7PGETdoUKVnAXI3r-EOQb*FczaGxSTEQCnHX55ZHrup-3FdAucmPhEEgZJj*
+ HNCDFKd-ngZg7/images.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Manuel K
+ iessling":http://coderetreat.org/profile/ManuelKiessling
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:46229
+DTSTAMP:20170129T111706Z
+SUMMARY:Coderetreat in Berlin 15/10/10
+DESCRIPTION:pls register via :https://www.eventbrite.de/e/coderetreat-
+ here-registration-18731636830\n\nFor more information visit http://cod
+ eretreat.org/events/coderetreat-in-berlin-15-10-10
+DTSTART:20151010T090000Z
+DTEND:20151010T170000Z
+CATEGORIES:coderetreat
+LOCATION:here
+WEBSITE:https://www.eventbrite.de/e/coderetreat-here-registration-1873
+ 1636830
+URL:https://www.eventbrite.de/e/coderetreat-here-registration-18731636
+ 830
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/oS79sSzIqEDCE
+ WfLT1oMJRv8HfqZ63YqR1ta6V9x41ss0JdFzQpejOb3QTiR*WR0rFrMG-7E*Y1syjP8YJc
+ 4KIA37ejhqJNX/berlin_logo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+END:VEVENT
+END:VCALENDAR

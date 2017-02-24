@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26805
+DTSTAMP:20170129T140500Z
+SUMMARY:Blacksburg Coderetreat 2013 - Blacksburg, VA, USA
+DESCRIPTION:https://crbcb2013.eventbrite.com/\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2013-bla
+ cksburg-va
+DTSTART:20131116T080000Z
+DTEND:20131116T170000Z
+CATEGORIES:coderetreat
+LOCATION:Techpad
+WEBSITE:https://crbcb2013.eventbrite.com/
+URL:https://crbcb2013.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Alex Meade":http://coderetreat.org/profile/AlexMeade
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alex Mea
+ de":http://coderetreat.org/profile/AlexMeade
+END:VEVENT
+END:VCALENDAR

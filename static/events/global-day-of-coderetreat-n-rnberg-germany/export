@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47389
+DTSTAMP:20170129T104439Z
+SUMMARY:Global Day of Coderetreat 2015 - Nürnberg, Germany
+DESCRIPTION:Global Day of CodeRetreat Nürnberg, Germany\nFor detailed
+  description and registration have a look at \nhttps://www.softwerksk
+ ammer.org/activities/GDCR_Nuernberg_2015\n\nFor more information visit
+  http://coderetreat.org/events/global-day-of-coderetreat-n-rnberg-germ
+ any
+DTSTART:20151114T083000Z
+DTEND:20151114T173000Z
+CATEGORIES:gdcr15, coderetreat, gdcr
+LOCATION:Coworking Space Nuremberg
+WEBSITE:https://www.softwerkskammer.org/activities/GDCR_Nuernberg_2015
+URL:https://www.softwerkskammer.org/activities/GDCR_Nuernberg_2015
+CONTACT:
+ORGANIZER;CN="Marco Emrich":http://coderetreat.org/profile/MarcoEmrich
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/pip6g4jx0sdTX
+ BSQo4-b2fh8b6Ue7Y6DgTkWbxRqIdpTi22X0*hMs515Y4exEtFPYH9HILwcdNKIyb3yRa1
+ LIU6bVlywuijx/nuernberg_logo.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Em
+ rich":http://coderetreat.org/profile/MarcoEmrich
+END:VEVENT
+END:VCALENDAR

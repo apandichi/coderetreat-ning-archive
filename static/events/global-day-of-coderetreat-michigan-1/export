@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11347
+DTSTAMP:20170129T134520Z
+SUMMARY:Global Day of Coderetreat 2012 - Ann Arbor, MI / USA
+DESCRIPTION:Global Day of CodeRetreat - Ann Arbor, Michigan - Details 
+ to come...\n\nFor more information visit http://coderetreat.org/events
+ /global-day-of-coderetreat-michigan-1
+DTSTART:20121208T083000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat
+LOCATION:The Forge, at the Northern Brewery building
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Daniel Davis":http://coderetreat.org/profile/DanielDavis
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ZnA6r9RfU9Kay
+ YiuM1CE9x5enGkWxbbK2-68K*E7UWM3TStjzVf3r4AWu6t-F8Uly0FlFeCmuiwsxyZx5zO
+ ZFxXsh*K7wf8S/mich_icon.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Eric Kub
+ acki":http://coderetreat.org/profile/EricKubacki
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Greg Fle
+ ming":http://coderetreat.org/profile/GregFleming
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sheila D
+ eskins":http://coderetreat.org/profile/SheilaDeskins
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Holly Bi
+ elawa":http://coderetreat.org/profile/HollyBielawa
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="James Yo
+ rk":http://coderetreat.org/profile/JamesYork
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Daniel D
+ avis":http://coderetreat.org/profile/DanielDavis
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jeff Hoo
+ ver":http://coderetreat.org/profile/JeffHoover
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jonathan
+  Radon":http://coderetreat.org/profile/JonathanRadon
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="George 
+ Azrak":http://coderetreat.org/profile/GeorgeAzrak
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN=Sam:http
+ ://coderetreat.org/profile/3hba2ns4yj22d
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Jeremy 
+ Anderson":http://coderetreat.org/profile/JeremyAnderson
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Alex Wa
+ lch":http://coderetreat.org/profile/AlexWalch
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Zee Spe
+ ncer":http://coderetreat.org/profile/ZeeSpencer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Joshua 
+ Cohen":http://coderetreat.org/profile/JoshuaCohen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Kaleb W
+ alton":http://coderetreat.org/profile/KalebWalton
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Dustin 
+ Vietzke":http://coderetreat.org/profile/DustinVietzke
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="David Z
+ uchowski":http://coderetreat.org/profile/DavidZuchowski
+END:VEVENT
+END:VCALENDAR

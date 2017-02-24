@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54546
+DTSTAMP:20170129T112559Z
+SUMMARY:Global Day of Coderetreat 2016 - Madrid, España
+DESCRIPTION:global day of code retreat in Madrid.\n\nFor more informat
+ ion visit http://coderetreat.org/events/global-day-of-coderetreat-2016
+ -madrid-espa-a
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Madrid
+WEBSITE:https://www.google.es/maps/place/Idealista.com/@40.4160524,-3.
+ 6983344,17z/data=!3m1!4b1!4m5!3m4!1s0xd422883b15d0939:0xa3bdf552cfb6cb
+ 01!8m2!3d40.4160483!4d-3.6961457?hl=en
+URL:https://www.google.es/maps/place/Idealista.com/@40.4160524,-3.6983
+ 344,17z/data=!3m1!4b1!4m5!3m4!1s0xd422883b15d0939:0xa3bdf552cfb6cb01!8
+ m2!3d40.4160483!4d-3.6961457?hl=en
+CONTACT:
+ORGANIZER;CN="Software Craftsmanship Madrid":http://coderetreat.org/pr
+ ofile/SoftwareCraftsmanshipMadrid
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Enrique:h
+ ttp://coderetreat.org/profile/Enrique
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Software
+  Craftsmanship Madrid":http://coderetreat.org/profile/SoftwareCraftsma
+ nshipMadrid
+END:VEVENT
+END:VCALENDAR

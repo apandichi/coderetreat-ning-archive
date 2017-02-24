@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39841
+DTSTAMP:20170129T120517Z
+SUMMARY:Global Day of Coderetreat 2014 - Durban, South Africa
+DESCRIPTION:Chillisoft is facilitating a Coderetreat sponsored by Driv
+ en Software. With this being a quarterly event please be sure to follo
+ w the instructions below to get a spot.\n\nFor more information visit 
+ http://coderetreat.org/events/durban-global-day-of-code-retreat
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Makaranga Garden Lodge
+WEBSITE:http://www.meetup.com/coderetreat/events/213775172/
+URL:http://www.meetup.com/coderetreat/events/213775172/
+CONTACT:+27728111270
+ORGANIZER;CN="Brendon Page":http://coderetreat.org/profile/BrendonPage
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Brendon 
+ Page":http://coderetreat.org/profile/BrendonPage
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12890
+DTSTAMP:20170129T104452Z
+SUMMARY:Global Day of Coderetreat 2012 - Nürnberg / Germany
+DESCRIPTION:Paessler AG is happy to be one of the hosts for the first
+  global code retreat in Nuremberg!\nPlease use http://gcr2012-nue.ev
+ entbrite.com/ to register\n\nFor more information visit http://codere
+ treat.org/events/global-day-of-coderetreat-n-rnberg
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Paessler AG
+WEBSITE:http://www.paessler.com/company/contact
+URL:http://www.paessler.com/company/contact
+CONTACT:
+ORGANIZER;CN="Péter Zsoldos":http://coderetreat.org/profile/PeterZsol
+ dos
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Péter Z
+ soldos":http://coderetreat.org/profile/PeterZsoldos
+END:VEVENT
+END:VCALENDAR

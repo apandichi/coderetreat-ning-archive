@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Augusto Mauch&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AugustoMauch</link>
+        <pubDate>Sun, 29 Jan 2017 11:26:16 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:26:16 +0000</lastBuildDate>
+        <image>
+            <title>Augusto Mauch&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AugustoMauch</link>
+            <url>http://api.ning.com:80/files/iwncuNArSGBUbCe4dTeiIOkOF0IWqqWRC3HrDQL*LxYxcgdWg64UFA*hbaMaE5Y7trcM0mHubjRAtYXH3iqYqWop*Eg9poD4/1236594263.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000012b10e593ecceaaeafdcd4de</guid>
+               <title>Augusto Mauch updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54698?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AugustoMauch?xg_source=activity">Augusto Mauch</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54698?xg_source=activity">https://www.eventbrite.es/e/entradas-coderetreat-2016-pair-programming-tdd-y-buenas-practicas-de-desarrollo-27976679000?aff=ehomecardGlobal Day of Coderetreat 2016 - Mutilva, Navarra, Spain</a> at Openbravo Headquarters</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">Global Day of Coderetreat 2016, hosted by Openbravo. We are looking forward to get together with passionate developers to spend a day having fun working on the fundamentals of software development and design.Registration is required, you can do it <a href="https://www.eventbrite.es/e/entradas-coderetreat-2016-pair-programming-tdd-y-buenas-practicas-de-desarrollo-27976679000?aff=ehomecard" target="_blank">here</a>. If you have any doubt about the event please send an email to coderetreat@openbravo.com<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54698?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 22 Sep 2016 09:06:20 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000012b10e59341d16ab172ce171</guid>
+               <title>Augusto Mauch posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54698?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AugustoMauch?xg_source=activity">Augusto Mauch</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54698?xg_source=activity">Global Day of Coderetreat 2016 - Mutilva, Navarra, Spain</a> at Openbravo Headquarters</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 all day</div><div class="rich-excerpt">Global Day of Coderetreat 2016, hosted by Openbravo. We are looking forward to get together with passionate developers to spend a day having fun working on the fundamentals of software development and design.Registration is required, you can do it <a href="https://www.eventbrite.es/e/entradas-coderetreat-2016-pair-programming-tdd-y-buenas-practicas-de-desarrollo-27976679000?aff=ehomecard" target="_blank">here</a>. If you have any doubt about the event please send an email to coderetreat@openbravo.com<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54698?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 15 Sep 2016 15:40:28 +0000</pubDate>
+               </item>    </channel>
+</rss>

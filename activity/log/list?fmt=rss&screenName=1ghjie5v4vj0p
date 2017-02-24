@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Luis Sagasta Buil&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/LuisSagastaBuil</link>
+        <pubDate>Sun, 29 Jan 2017 13:55:43 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:55:43 +0000</lastBuildDate>
+        <image>
+            <title>Luis Sagasta Buil&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/LuisSagastaBuil</link>
+            <url>http://api.ning.com:80/files/AI-C-DD*hScpRQK*ydP7IjzFBe7ImAj6R0FF3cxXLXPZNq2FggyMDZtzOzKBMOUqY68LjQOoDc3iGIzeoigmY01Be0vI4GDm/1147037348.png?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011fcf6448eb494d65aa98b63</guid>
+               <title>Luis Sagasta Buil posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:55268?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/LuisSagastaBuil?xg_source=activity">Luis Sagasta Buil</a> posted an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:55268?xg_source=activity" ><img src="http://api.ning.com/files/xhz*glhmGcjaGmKZE2nU6uGK9g7lufxQONebun7f*F-PnDGNkKgPWJVXnyrERvpdv-Ag6GNCX4JcE1ftZNrNQ4VYeBVLjZyk/RiojaDotNet200x200.jpg?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:55268?xg_source=activity">Global Day of Coderetreat 2016 - LOGRO&Ntilde;O, SPAIN</a> at Think Tic</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 5pm</div><div class="rich-excerpt">For the second time, La Rioja will participate in the Global Day of Code Retreat. We expect that everybody enjoy this exciting event<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:55268?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 27 Sep 2016 06:50:34 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011fcf64412623bc3e4c6f903</guid>
+               <title>Luis Sagasta Buil posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:47098?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/LuisSagastaBuil?xg_source=activity">Luis Sagasta Buil</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:47098?xg_source=activity">Global Day of Coderetreat 2015 - LOGRO&Ntilde;O, SPAIN</a> at Think Tic</h3><div class="rich-detail"><div class="rich-date">November 14, 2015 from 9am to 5pm</div><div class="rich-excerpt">For the first time, La Rioja will patricipate in the Global Day of Code Retreat. We expect that everybody enjoy this exciting event.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:47098?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 13 Oct 2015 19:36:57 +0000</pubDate>
+               </item>    </channel>
+</rss>

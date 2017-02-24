@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55078
+DTSTAMP:20170129T113106Z
+SUMMARY:Global Day of Coderetreat 2016 - TOULOUSE, FRANCE
+DESCRIPTION:Global Day of CodeRetreat in Toulouse, France.\nThe event 
+ will be hosted by HarryCow & sponsorized by Viseo.\nIt will be facilit
+ ated by Antoine Cezar and Ludovic Pradel.\nDetails and registration : 
+ https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/events/23
+ 4434540/\n\nFor more information visit http://coderetreat.org/events/g
+ lobal-day-of-coderetreat-2016-toulouse-france
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:HarryCow
+WEBSITE:https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/e
+ vents/234434540/
+URL:https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/event
+ s/234434540/
+CONTACT:
+ORGANIZER:Antoine Cezar
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ludo Pra
+ del":http://coderetreat.org/profile/LudoPradel
+END:VEVENT
+END:VCALENDAR

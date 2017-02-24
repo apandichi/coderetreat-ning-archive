@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27260
+DTSTAMP:20170129T115224Z
+SUMMARY:Global Day of Coderetreat 2013 - Hanoi, Vietnam
+DESCRIPTION:https://www.facebook.com/groups/cocodojo/\n\nFor more info
+ rmation visit http://coderetreat.org/events/global-day-of-coderetreat-
+ 2013-hanoi-vietnam
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:FPT-APTECH HN. Tầng 4, Cung Văn hoá Hữu nghị. Số 1A
+WEBSITE:https://www.facebook.com/groups/cocodojo/
+URL:https://www.facebook.com/groups/cocodojo/
+CONTACT:
+ORGANIZER;CN="Phạm Anh Đới":http://coderetreat.org/profile/PhamAn
+ hDoi400
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/I7biqbcZ7GulS
+ 75hlWr41pERqQOWnVbn2CEzc84PEfnBFRAXmRNmgZR7Ue80uApQ53Se622LrsWA7qn0iWM
+ 7pOVx0zI98pgi/profile.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phạm A
+ nh Đới":http://coderetreat.org/profile/PhamAnhDoi400
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Khoa Ngu
+ yen Viet":http://coderetreat.org/profile/KhoaNguyenViet
+END:VEVENT
+END:VCALENDAR

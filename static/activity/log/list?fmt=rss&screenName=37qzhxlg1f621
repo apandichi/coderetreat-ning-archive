@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Alex Tjahjana&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/AlexTjahjana</link>
+        <pubDate>Sun, 29 Jan 2017 14:06:17 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 14:06:17 +0000</lastBuildDate>
+        <image>
+            <title>Alex Tjahjana&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/AlexTjahjana</link>
+            <url>http://api.ning.com:80/files/sM5XrbM5L3j-6MrXqtoao41Pi*NdIhMFYs3El52Tg7qLIwGG9bec6lREHbaR0Vn5jv6R4Jz5SYMhg-nvlZ6eiQtERq3hLWMx/951010499.jpeg?width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000b3e3b9296933f428b0e66f7</guid>
+               <title>Alex Tjahjana is attending Ian Randall&#039;s event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AlexTjahjana?xg_source=activity">Alex Tjahjana</a> is attending <a href="http://coderetreat.org/profile/IanRandall?xg_source=activity">Ian Randall's</a> event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">Auckland Coderetreat</a> at Bizdojo Makerspace</h3><div class="rich-detail"><div class="rich-date">October 27, 2012 all day</div><div class="rich-excerpt">Corey will be in town, so we're doing a coderetreat!Please register on meetup.com at <a href="http://www.meetup.com/Auckland-Code-retreat/events/85963422/">http://www.meetup.com/Auckland-Code-retreat/events/85963422/</a> Massive thanks to our sponsors:Primary sponsor <a href="http://datacom.co.nz" target="_blank">Datacom</a> who are funding lunch! (Yay)also <a href="http://codemania.co.nz/#events">codemania</a> and <a href="http://www.telerik.com/">Telerik</a> who are paying for the breakfast/coffee and venue.We couldn't put on coderetreat without their support.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:10833?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sun, 09 Sep 2012 23:57:30 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000b3e3b92d5e77d8d80c9848e</guid>
+               <title>Alex Tjahjana is now a member of Coderetreat</title>
+               <link>http://coderetreat.org/profile/AlexTjahjana?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/AlexTjahjana?xg_source=activity">Alex Tjahjana</a> is now a member of Coderetreat</span><br/>]]></description>
+               <pubDate>Sun, 09 Sep 2012 23:57:04 +0000</pubDate>
+               </item>    </channel>
+</rss>

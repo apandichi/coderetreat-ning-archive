@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37912
+DTSTAMP:20170129T120221Z
+SUMMARY:Global Day of Coderetreat 2014 - Carlsbad, CA, USA
+DESCRIPTION:Full Stack Talks will be hosting their first Coderetreat 
+ in beautiful Carlsbad, CA.\nPlanning Center Online will be hosting wi
+ th sponsors to be determined.\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2014-carlsbad-ca-usa
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Ministry Centered Technologies, 2790 Gateway Road, Carlsbad, 
+ CA 92009
+WEBSITE:http://get.planningcenteronline.com/
+URL:http://get.planningcenteronline.com/
+CONTACT:760.208.4499
+ORGANIZER:Michael Chan, Bobbilee Hartman
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Chan":http://coderetreat.org/profile/MichaelChan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="David W
+ hittaker":http://coderetreat.org/profile/DavidWhittaker177
+END:VEVENT
+END:VCALENDAR

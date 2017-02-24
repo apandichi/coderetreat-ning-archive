@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55873
+DTSTAMP:20170129T113155Z
+SUMMARY:Global Day of Coderetreat 2016 - Ciudad Real, Spain
+DESCRIPTION:¿Tienes ganas de retos?, ¿Te gusta programar?. Bien, has
+  venido al sitio adecuado.\n\nSomos un pequeño grupo de desarrollador
+ es que organizamos este evento global en Ciudad Real. Lo único que no
+ s falta eres tu, y tu pc por supuesto. Y ... Ptssh! puedes traer a tus
+  colegas!\nTe ofrecemos un sitio agradable donde aprender, descubrir y
+  compartir conocimientos.\n\nMas info y consultas por aqui: http://ww
+ w.meetup.com/es-ES/Global-Day-Code-Retreat-Ciudad-Real/events/23450028
+ 0/\ny no olvides confirmar tu asistencia.\nNos vemos!\n\nFor more info
+ rmation visit http://coderetreat.org/events/global-day-of-coderetreat-
+ 2016-ciudad-real-spain
+DTSTART:20161022T090000Z
+DTEND:20161022T183000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Escuela Superior de Informatica
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="David Martin Garcia":http://coderetreat.org/profile/Davi
+ dMartinGarcia323
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/AxtJ5-qvacYGk
+ -6udOZa8qGGWTw8hfxIzAphClxfQWbwSyqSjgPhRxvqNEMaIJvDFx3O7lFFpuPpph2eqb7
+ EPYX8mK2i*xhP/GDCRCR.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ma
+ rtin Garcia":http://coderetreat.org/profile/DavidMartinGarcia323
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55001
+DTSTAMP:20170129T112745Z
+SUMMARY:Global Day of Coderetreat 2016 - Johannesburg, South Africa
+DESCRIPTION:We are excited to host this year's global code retreat in 
+ Johannesburg.\nMore updates about the event will be posted here. \n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -code-retreat-johannesburg-south-africa
+DTSTART:20161022T080000Z
+DTEND:20161022T163000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:ThoughtWorks South Africa
+WEBSITE:https://goo.gl/maps/1HzNtjurhaz
+URL:https://goo.gl/maps/1HzNtjurhaz
+CONTACT:
+ORGANIZER;CN="Tsatsi Mahase":http://coderetreat.org/profile/TsatsiMaha
+ se
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tsatsi M
+ ahase":http://coderetreat.org/profile/TsatsiMahase
+END:VEVENT
+END:VCALENDAR

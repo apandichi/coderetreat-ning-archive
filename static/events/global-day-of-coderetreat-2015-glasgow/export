@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:45731
+DTSTAMP:20170129T121637Z
+SUMMARY:Global Day of Coderetreat 2015 - Glasgow, UK
+DESCRIPTION:Global Day of Coderetreat event in Glasgow. For more detai
+ ls and to sign up, see here: https://www.eventbrite.co.uk/e/global-day
+ -of-coderetreat-2015-glasgow-tickets-18375007141\n\nFor more informati
+ on visit http://coderetreat.org/events/global-day-of-coderetreat-2015-
+ glasgow
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:RookieOven
+WEBSITE:https://twitter.com/cr_gla
+URL:https://twitter.com/cr_gla
+CONTACT:
+ORGANIZER:
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kyle Bre
+ mner":http://coderetreat.org/profile/KyleBremner
+END:VEVENT
+END:VCALENDAR

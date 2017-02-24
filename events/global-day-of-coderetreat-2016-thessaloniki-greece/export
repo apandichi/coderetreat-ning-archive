@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53043
+DTSTAMP:20170129T112932Z
+SUMMARY:Global Day of Coderetreat 2016 - Thessaloniki, Greece
+DESCRIPTION:After our first baby steps, we are back and we're excited 
+ to host another GDCR in Thessaloniki!\nWe'll be sending information us
+ ing our web site and twitter accounts so stay tuned\n\nFor more info
+ rmation visit http://coderetreat.org/events/global-day-of-coderetreat-
+ 2016-thessaloniki-greece
+DTSTART:20161022T090000Z
+DTEND:20161022T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Thessaloniki, Greece
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER:SoftConf
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/i4fTJpzVJDOAu
+ NjeGBEvtTYmiFQVwMyJraLIJSmK7eM4ee06MS77ulP9zjpFAnWnkRIUZKFSqVOQsOphD0N
+ yM1jyT7WJyUgN/thess3.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Papapetr
+ ou Patroklos":http://coderetreat.org/profile/PapapetrouPatroklos
+END:VEVENT
+END:VCALENDAR

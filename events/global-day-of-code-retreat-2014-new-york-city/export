@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:38658
+DTSTAMP:20170129T120413Z
+SUMMARY:Global Day of Coderetreat 2014 - New York City, NY, USA
+DESCRIPTION:Join us for a day of enjoying passion in software craftsma
+ nship. Get your ticket here:\nhttps://www.eventbrite.com/e/code-retrea
+ t-new-york-2014-tickets-13366243795\nDon't forget your laptop!\n\nFor 
+ more information visit http://coderetreat.org/events/global-day-of-cod
+ e-retreat-2014-new-york-city
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Tacit Knowledge Inc.
+WEBSITE:https://www.google.com/maps/preview?q=Tacit+Knowledge+LLC,+New
+ +York,+NY&hl=en&sll=40.697488,-73.979681&sspn=0.851684,1.308746&oq=tac
+ it+know&hq=Tacit+Knowledge+LLC,&hnear=New+York&t=m&z=13&iwloc=A
+URL:https://www.google.com/maps/preview?q=Tacit+Knowledge+LLC,+New+Yor
+ k,+NY&hl=en&sll=40.697488,-73.979681&sspn=0.851684,1.308746&oq=tacit+k
+ now&hq=Tacit+Knowledge+LLC,&hnear=New+York&t=m&z=13&iwloc=A
+CONTACT:2122519647
+ORGANIZER;CN="Gilberto Alvarado":http://coderetreat.org/profile/Gilber
+ toAlvarado
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/jxmvA08zmRp8u
+ iqjce0WvKp8h*P5Pje0deVzH2sm9sVlq6TYofPvwlAu8RrzGMKFJsFST0hXwa7ewy0jJm5
+ rjX3PKqM8XtAC/temp.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gilberto
+  Alvarado":http://coderetreat.org/profile/GilbertoAlvarado
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Keith B
+ ennett":http://coderetreat.org/profile/KeithBennett
+END:VEVENT
+END:VCALENDAR

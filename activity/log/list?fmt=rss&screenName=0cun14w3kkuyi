@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Mj Mendoza&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/MjMendoza</link>
+        <pubDate>Sun, 29 Jan 2017 10:55:54 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 10:55:54 +0000</lastBuildDate>
+        <image>
+            <title>Mj Mendoza&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/MjMendoza</link>
+            <url>http://api.ning.com:80/files/RnxjYN0X5lTPE5VGqo2MylVSNshuMi0rckaOqRKw7JsmqPuMb42YUaprndWwrIZfhqBBgaUUGg58ZHdF533yyzPVHOxs1t9y/1237527239.jpeg?xgip=0%3A0%3A183%3A183%3B183%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+            </channel>
+</rss>

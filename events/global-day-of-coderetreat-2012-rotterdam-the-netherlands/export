@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15573
+DTSTAMP:20170129T135818Z
+SUMMARY:Global Day of Coderetreat 2012 - Rotterdam / the Netherlands
+DESCRIPTION:The Global Day of Coderetreat in Rotterdam, the Netherland
+ s, is organized by the Dutch software engineering community Devnology.
+  You can subscribe to the event on the website of Devnology (in Dutc
+ h).\nFood and drinks provided by Finalist.\n\nFor more information vi
+ sit http://coderetreat.org/events/global-day-of-coderetreat-2012-rotte
+ rdam-the-netherlands
+DTSTART:20121208T093000Z
+DTEND:20121208T170000Z
+CATEGORIES:gdcr
+LOCATION:Finalist
+WEBSITE:http://devnology.nl/en/meetings/details/54-global-day-of-coder
+ etreat-010
+URL:http://devnology.nl/en/meetings/details/54-global-day-of-coderetre
+ at-010
+CONTACT:
+ORGANIZER;CN="Arne Timmerman":http://coderetreat.org/profile/ArneTimme
+ rman
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/rk9xN1IJXv-gO
+ A5HXFehMpKbqHTLXSji7bACPqkYr5sW9F5cCmGD3pXS*Rmhiu6NYncKV03ljOaziqGCPAy
+ Fu-Usx9Y1bIl3/erasmusbrugrotterdam.jpeg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arne Tim
+ merman":http://coderetreat.org/profile/ArneTimmerman
+END:VEVENT
+END:VCALENDAR

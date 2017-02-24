@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:52563
+DTSTAMP:20170129T122920Z
+SUMMARY:CodeRetreat Edinburgh
+DESCRIPTION:We are proud to announce that we will be launching CodeRet
+ reatEDI this month.\nFreeAgent will be sponsoring and hosting this fir
+ st event.\nLet's learn together! Please spread the word!\nGet your tic
+ kets for free here https://www.eventbrite.com/e/coderetreat-edinburgh
+ -tickets-21677350539\n\n\nFor more information visit http://coderetrea
+ t.org/events/coderetreat-edinburgh
+DTSTART:20160227T090000Z
+DTEND:20160227T170000Z
+CATEGORIES:coderetreat, edinburgh
+LOCATION:Edinburgh
+WEBSITE:https://twitter.com/CodeRetreatEDI
+URL:https://twitter.com/CodeRetreatEDI
+CONTACT:
+ORGANIZER;CN="Cédric Fabianski":http://coderetreat.org/profile/Cedric
+ Fabianski
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cédric 
+ Fabianski":http://coderetreat.org/profile/CedricFabianski
+END:VEVENT
+END:VCALENDAR

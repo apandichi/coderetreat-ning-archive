@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:57220
+DTSTAMP:20170129T100029Z
+SUMMARY:Coderetreat - Pac-Man edition, Kraków, Poland
+DESCRIPTION:Public, international Coderetreat in Kraków.\nThis time w
+ e’re going to use Pac-Man - not Game of Life - as the main exercise.
+  And it’s language-agnostic, so you’re welcome to use your preferr
+ ed programming language.\nRegistration through Meetup.\nLooking forwar
+ d to seeing you in Kraków, Poland!\n\nFor more information visit http
+ ://coderetreat.org/events/coderetreat-pac-man-edition-krak-w-poland
+DTSTART:20161210T083000Z
+DTEND:20161210T180000Z
+CATEGORIES:coderetreat
+LOCATION:Browar Lubicz
+WEBSITE:https://www.meetup.com/Polish-Java-User-Group/events/235758988
+ /
+URL:https://www.meetup.com/Polish-Java-User-Group/events/235758988/
+CONTACT:
+ORGANIZER:Codewise
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/wwXOq8TjJKtAc
+ 57whpVo2uOr-DA5eJKhVWeoiN4HfvyQdQG9sizNKu2F4ptbVXzbA9aJMB5*vIZH*3f9sOV
+ fZDWNh-HdUDE0/MyManlabyrinthmazegame.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Peter Ko
+ fler":http://coderetreat.org/profile/codecop
+END:VEVENT
+END:VCALENDAR

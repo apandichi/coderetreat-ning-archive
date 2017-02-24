@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53872
+DTSTAMP:20170129T112821Z
+SUMMARY:Global Day of Coderetreat 2016 - Melbourne, Australia
+DESCRIPTION:Registration open on Eventbrite\nhttps://www.eventbrite.co
+ m.au/e/global-day-of-coderetreat-melbourne-2016-tickets-27402867715\nT
+ he $10 deposit will be refunded when you arrive at the venue for the e
+ vent or cancel the booking at least 1 week prior to the event.\nWe mad
+ e the tickets paid to minimise last minute cancellations & help us mor
+ e accurately forecast the numbers. The tickets costs will be refunded 
+ (with an exception of $1.24 Eventbrite fee) to all who attend the even
+ t. If you have to cancel, we will refund the ticket cost if you notify
+  us by at least one week prior to the event.\nThe eventbrite registrat
+ ion page and other details will be added soon\n\nFor more information 
+ visit http://coderetreat.org/events/global-day-of-coderetreat-2016-mel
+ bourne-australia
+DTSTART:20161022T083000Z
+DTEND:20161022T173000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:REA Group
+WEBSITE:https://www.rea-group.com/
+URL:https://www.rea-group.com/
+CONTACT:
+ORGANIZER:Tomasz Janowski, Ilya Paripsa, Terry Dai
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/Jv0uXyhCIIPj1
+ hpNZquW-lD*Ftsq956CgJHSrDrAbMgh8-N1HXiddSQjl79RZ9nCjpWXUPGRrb-2AdVx*lO
+ k6*4ICHOwnU0C/image.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tomasz J
+ anowski":http://coderetreat.org/profile/TomaszJanowski
+END:VEVENT
+END:VCALENDAR

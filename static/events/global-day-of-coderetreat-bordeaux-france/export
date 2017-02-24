@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:2295
+DTSTAMP:20170129T123014Z
+SUMMARY:Global Day of Coderetreat - Bordeaux, France
+DESCRIPTION:Coderetreat organized by Okiwi, as part of the global day 
+ of coderetreat. \n \nThanks to our local sponsor, Arpinum\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-bordeaux-france
+DTSTART:20111203T000000Z
+DTEND:20111203T235900Z
+CATEGORIES:gdrc
+LOCATION:Bordeaux
+WEBSITE:
+URL:
+CONTACT:33535407169
+ORGANIZER;CN="Jean-Baptiste Dusseaut":http://coderetreat.org/profile/J
+ eanBaptisteDusseaut
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/pcWuDjrI4wEsd
+ d8LbzHdTlEzuzbKnz9BlMhOb0E9mITU500CVGBk0dC0fnFM*O-8m*q3Fo71Yo-vhKCBugg
+ VnF8MaDfmxyZJ/okiwi.png
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="rodolphe
+ .dariol":http://coderetreat.org/profile/rodolphedariol
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Roux Jé
+ rôme":http://coderetreat.org/profile/RouxJerome
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mickael 
+ Ruellan":http://coderetreat.org/profile/MickaelRuellan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Karl COS
+ SE":http://coderetreat.org/profile/KarlCOSSE
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michael 
+ Borde":http://coderetreat.org/profile/MichaelBorde
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thomas P
+ arisot":http://coderetreat.org/profile/ThomasParisot
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sam Cran
+ ford":http://coderetreat.org/profile/SamCranford
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="vincent.
+ guillaume.inp":http://coderetreat.org/profile/vincentguillaumeinp
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Louis Ma
+ rle":http://coderetreat.org/profile/LouisMarle
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="pierre.b
+ ousquie":http://coderetreat.org/profile/pierrebousquie
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=couillard
+ charles:http://coderetreat.org/profile/couillardcharles
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Du
+ mon":http://coderetreat.org/profile/DavidDumon
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jean-Bap
+ tiste Dusseaut":http://coderetreat.org/profile/JeanBaptisteDusseaut
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Florian 
+ Guérin":http://coderetreat.org/profile/FlorianGuerin
+END:VEVENT
+END:VCALENDAR

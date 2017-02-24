@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11751
+DTSTAMP:20170129T122638Z
+SUMMARY:Tampa Code Retreat
+DESCRIPTION:Come join Tampa/St. Pete coders for a great day of Code Re
+ treat sponsored by 8th Light!\n\nFor more information visit http://cod
+ eretreat.org/events/tampa-code-retreat
+DTSTART:20120922T080000Z
+DTEND:20120922T160000Z
+CATEGORIES:"code retreat"
+LOCATION:Tampa, FL
+WEBSITE:http://8ltampacoderetreat.eventbrite.com/
+URL:http://8ltampacoderetreat.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Cory Foy":http://coderetreat.org/profile/CoryFoy
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Cory Foy
+ ":http://coderetreat.org/profile/CoryFoy
+END:VEVENT
+END:VCALENDAR

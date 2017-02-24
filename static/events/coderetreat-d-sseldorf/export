@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12670
+DTSTAMP:20170129T114349Z
+SUMMARY:Global Day of Coderetreat 2012 - Düsseldorf / Germany
+DESCRIPTION:http://gdcr-2012-duesseldorf.eventbrite.de/\n\nFor more in
+ formation visit http://coderetreat.org/events/coderetreat-d-sseldorf
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Düsseldorf, Germany
+WEBSITE:http://gdcr-2012-duesseldorf.eventbrite.de/
+URL:http://gdcr-2012-duesseldorf.eventbrite.de/
+CONTACT:
+ORGANIZER;CN="Martin Klose":http://coderetreat.org/profile/MartinKlose
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Martin K
+ lose":http://coderetreat.org/profile/MartinKlose
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patrick 
+ Cornelißen":http://coderetreat.org/profile/PatrickCornelissen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Josef Sc
+ herer":http://coderetreat.org/profile/JosefScherer
+END:VEVENT
+END:VCALENDAR

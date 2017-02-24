@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=0hqmpdrsa8kt5&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:43:01Z</updated>
+                            <author>
+                    <name>Josef Scherer</name>
+                    <uri>http://coderetreat.org/profile/JosefScherer</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/DiPG1lX-O2h8ZaK*HqI-7Y5BImYnJALti6vvJ8VApHb9-PWKxx0qsG-kXDsljbfejuk0s30R896X9TJm6RP84va2vVv721wV/577117528.jpeg?xgip=0%3A1%3A320%3A320%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=0hqmpdrsa8kt5&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Martin Klose</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/MartinKlose"/>
+                                        <id>tag:coderetreat.org,2011-12-02:6456126:User:2914</id>
+                                        <updated>2011-12-02T20:28:24.874Z</updated>
+                    
+                                            <author>
+                            <name>Josef Scherer</name>
+                            <uri>http://coderetreat.org/profile/JosefScherer</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/PvKuR6k4OyKX5IY83jKXwl2ZJ7rJfF*b*UNbj*AEw*ERdK5OZ5qLzMJwCMd89Q5i96t7BGPMOsTeHBSeQZINbUjCp-PCuZ*q/492587840.png?xgip=0%3A7%3A235%3A235%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Martin Klose&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/PvKuR6k4OyKX5IY83jKXwl2ZJ7rJfF*b*UNbj*AEw*ERdK5OZ5qLzMJwCMd89Q5i96t7BGPMOsTeHBSeQZINbUjCp-PCuZ*q/492587840.png?xgip=0%3A7%3A235%3A235%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Martin Klose&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

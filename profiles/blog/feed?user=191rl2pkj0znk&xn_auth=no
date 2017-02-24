@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Gonçalo Silva&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=191rl2pkj0znk&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:09:26Z</updated>
+                            <author>
+                    <name>Gonçalo Silva</name>
+                    <uri>http://coderetreat.org/profile/GoncaloSilva</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/0bDzU*xRUf3GqVHAY0RqCJQv*fLt*QgPLp1aR4tJj9Zq5gYbSAJDtC83BvsWeFvGpt0d7ucAt5vuq57f0pghRQ__/27716055.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=191rl2pkj0znk&amp;xn_auth=no</id>
+                            <entry>
+                    <title>(one of) London&#039;s GDCR 2012</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:20333"/>
+                                        <id>tag:coderetreat.org,2013-01-05:6456126:BlogPost:20333</id>
+                                        <updated>2013-01-05T23:27:34.000Z</updated>
+                    
+                                            <author>
+                            <name>Gonçalo Silva</name>
+                            <uri>http://coderetreat.org/profile/GoncaloSilva</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;cross-posted from &lt;a href=&quot;http://www.gnorsilva.com/2013/01/global-day-of-code-retreat.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Global day of code retreat took place worldwide in &lt;a href=&quot;https://maps.google.com/maps/ms?msid=211858429594081017615.0004c84674c62aa900e06&amp;amp;msa=0&quot; target=&quot;_blank&quot;&gt;154 locations&lt;/a&gt; on Saturday 8th December. Over 36 hours, from New Zealand to Hawaii, almost 2000 developers came together to practice their craft.&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;Me and …&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;cross-posted from &lt;a href=&quot;http://www.gnorsilva.com/2013/01/global-day-of-code-retreat.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Global day of code retreat took place worldwide in &lt;a href=&quot;https://maps.google.com/maps/ms?msid=211858429594081017615.0004c84674c62aa900e06&amp;amp;msa=0&quot; target=&quot;_blank&quot;&gt;154 locations&lt;/a&gt; on Saturday 8th December. Over 36 hours, from New Zealand to Hawaii, almost 2000 developers came together to practice their craft.&lt;br/&gt;&lt;br/&gt;Me and &lt;a href=&quot;https://twitter.com/tom_b025&quot;&gt;Tom Brand&lt;/a&gt; facilitated one in London through the &lt;a href=&quot;http://www.meetup.com/london-software-craftsmanship/events/88021082/&quot; target=&quot;_blank&quot;&gt;London Software Craftsmanship Community&lt;/a&gt;. We were hosted by &lt;a href=&quot;http://www.biomedcentral.com/&quot; target=&quot;_blank&quot;&gt;Biomedcentral&lt;/a&gt;, and Tom&#039;s company &lt;a href=&quot;http://lyagushka.co.uk/&quot; target=&quot;_blank&quot;&gt;Lyagushka&lt;/a&gt; kindly sponsored the catering.&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;br/&gt;What is a code retreat? &lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;From &lt;a href=&quot;http://coderetreat.org/&quot; target=&quot;_blank&quot;&gt;coderetreat.org&lt;/a&gt;:&lt;br/&gt;&lt;br/&gt;&quot;Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design.&lt;/p&gt;
+&lt;div&gt;&lt;br/&gt;By providing developers the opportunity to take part in focused practice, away from the pressures of &#039;getting things done&#039;, the coderetreat format has proven itself to be a highly effective means of skill improvement. &lt;/div&gt;
+&lt;div&gt;&lt;br/&gt;Practising the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.&quot;&lt;br/&gt;&lt;br/&gt;&lt;h2&gt;&lt;br/&gt;How does it actually work?&lt;/h2&gt;
+&lt;br/&gt;Developers come together to implement &lt;a href=&quot;http://en.wikipedia.org/wiki/Conway&#039;s_Game_of_Life&quot; target=&quot;_blank&quot;&gt;Conway&#039;s Game of Life&lt;/a&gt; over 6 sessions of 45 minutes using any programming language they are comfortable with.&lt;br/&gt;&lt;br/&gt;Some sessions have challenging constraints, and at the end of each session the group gathers for a small retrospective.&lt;br/&gt;&lt;br/&gt;There are rules though:&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;TDD or any other form of test first development is used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;ul&gt;
+&lt;li&gt;Code written must be &quot;simple&quot;:&lt;ul&gt;
+&lt;li&gt;Passes all the tests.&lt;/li&gt;
+&lt;li&gt;Maximises clarity with well expressed intent.&lt;/li&gt;
+&lt;li&gt;Minimises duplication&lt;/li&gt;
+&lt;li&gt;Has no superﬂuous parts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Pair programming (or 3 if there&#039;s an odd number) pairing with someone new every session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;At the end of each session &lt;b&gt;code is deleted&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;br/&gt;Deleting code might seem unnecessary or harsh but its important as the main point of this day is to practice and learn, not to finish. Its not a competition and developers should aim at creating the best code they can within the set constraint, and have fun!&lt;/div&gt;
+&lt;h2&gt;&lt;br/&gt;How did it go?&lt;/h2&gt;
+&lt;br/&gt;Though we had over 20 people subscribed to attend only 9 showed up, but this actually worked out well as we could focus more on each pair.&lt;br/&gt;&lt;br/&gt;We started at 9 am with a quick intro about the LSCC, what a code retreat is all about, format of the day, and an explanation of Conway&#039;s Game of Life. We then jumped straight to the first session.&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;&lt;br/&gt;Session 1 - no constraints&lt;/h3&gt;
+&lt;br/&gt;The goal of this session was to get familiar with the problem, last tweaks to the development environment and make sure everyone had a chance to &quot;wake up&quot;.&lt;br/&gt;&lt;br/&gt;
+&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-qEhLQg7F3No/UMy5Nh8dpLI/AAAAAAAABU8/JZHVSGC2Tv4/s1600/2012-12-08+09.29.00.jpg&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://3.bp.blogspot.com/-qEhLQg7F3No/UMy5Nh8dpLI/AAAAAAAABU8/JZHVSGC2Tv4/s320/2012-12-08+09.29.00.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Starting the day&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br/&gt;
+&lt;h3&gt;&lt;br/&gt;Session 2 - Baby steps&lt;/h3&gt;
+&lt;br/&gt;This session forces us to take very small steps when writing code by using source control to commit early and often. It goes like this:&lt;br/&gt;&lt;ol&gt;
+&lt;li&gt;Set a timer for 2 minutes&lt;/li&gt;
+&lt;li&gt;Write exactly one test &lt;ul&gt;
+&lt;li&gt;If the timer rings and the test is red then revert and start over. &lt;/li&gt;
+&lt;li&gt;If the test is green before timer rings then commit &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restart timer &lt;/li&gt;
+&lt;li&gt;Refactor &lt;ul&gt;
+&lt;li&gt;If the timer rings and the refactoring is not complete then revert. &lt;/li&gt;
+&lt;li&gt;If the refactoring is complete before the timer rings then commit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Go back to step 1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://4.bp.blogspot.com/-HhuGWDtVCDI/UMy5UdBjDhI/AAAAAAAABVM/XzX4Jqq4uus/s1600/2012-12-08+12.14.52.jpg&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://4.bp.blogspot.com/-HhuGWDtVCDI/UMy5UdBjDhI/AAAAAAAABVM/XzX4Jqq4uus/s320/2012-12-08+12.14.52.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://twitter.com/mark4asp&quot; target=&quot;_blank&quot;&gt;Mark&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/dreab8&quot; target=&quot;_blank&quot;&gt;Andrea&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/marcoVermeulen&quot; target=&quot;_blank&quot;&gt;Marco&lt;/a&gt; discussing  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br/&gt;What initially seemed impossible turned out to be doable. After a few sessions pairs fell into a rhythm and got used to the 2 minute cycle, committing often and making sure that the next test or any refactoring could be done in the timebox. Every now and then they stopped for a few timeboxes to discuss and then carried on.&lt;br/&gt;&lt;br/&gt;This session was a bit of a surprise for a few and they could see its benefit straight away, but there were also concerns that with such small steps the big picture could be lost.&lt;br/&gt;&lt;br/&gt;A few readily agreed they would try this at work, but with longer timeboxes.&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;&lt;br/&gt;Session 3 - TDD as if you meant it&lt;/h3&gt;
+&lt;br/&gt;This session was created as an &quot;... &lt;i&gt;exercise that folks could do, in safe controlled conditions, whereby they could experience the odd and surprising (and delightful) things that can happen when you really do TDD, as Beck describes it, with the hope that the experience would carry over to their daily work as programmers.&lt;/i&gt;&quot;&lt;br/&gt;&lt;span style=&quot;background-color: white; color: #222222; font-family: &#039;Lucida Grande&#039;, &#039;Lucida Sans Unicode&#039;, Helvetica, Arial, sans-serif; font-size: 12.800000190734863px; line-height: 15.199999809265137px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;br/&gt;The main goal is to leave design decisions to be taken as late as possible. The rules are:&lt;br/&gt;&lt;ol&gt;
+&lt;li&gt;Write exactly one new test. It should be the smallest test which seems to point in the direction of a solution&lt;/li&gt;
+&lt;li&gt;Run the test to make sure it fails&lt;/li&gt;
+&lt;li&gt;Make the test pass by writing the least amount of implementation code you can &lt;b&gt;IN THE TEST METHOD&lt;/b&gt;.&lt;/li&gt;
+&lt;li&gt;Refactor to remove duplication or otherwise as required to improve the design. Be strict about the refactorings. Only introduce new abstractions (methods, classes, etc) when they will help to improve the design of the code. Specifically:&lt;ul&gt;
+&lt;li&gt; - ONLY Extract a new method if there is sufficient code duplication in the test methods. When extracting a method, initially extract it to the test class (don&#039;t create a new class yet).&lt;/li&gt;
+&lt;li&gt;- ONLY create a new class when a clear grouping of methods emerges and when the test class starts to feel crowded or too large.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Go back to step 1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;br/&gt;&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-Xlw_WFR1-sI/UMy5chNl4UI/AAAAAAAABVc/Ekya1ebNQFc/s1600/2012-12-08+12.15.24.jpg&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://1.bp.blogspot.com/-Xlw_WFR1-sI/UMy5chNl4UI/AAAAAAAABVc/Ekya1ebNQFc/s320/2012-12-08+12.15.24.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;TDDing as if they meant it&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br/&gt;A different approach to a familiar practice, it took a bit of effort to resist the urge of creating classes and extracting code prematurely.&lt;br/&gt;&lt;br/&gt;Some felt slowed down and not as productive but could see a different design emerging rather than the classic Cell or World objects created straight from the beginning, but not many were sure they would use this in their jobs.&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;&lt;br/&gt;Lunch&lt;/h3&gt;
+&lt;br/&gt;After session 3 we broke for lunch, during which we watched a video from JetBrains since they were this years global sponsor, as well as a pre prepared slide deck with other sponsors and a few videos of Conway&#039;s Game of Life evolutions (&lt;a href=&quot;http://www.youtube.com/watch?v=xP5-iIeKXE8&quot; target=&quot;_blank&quot;&gt;this&lt;/a&gt; is my favourite).&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;&lt;br/&gt;Session 4 - Mute pairs&lt;/h3&gt;
+&lt;div&gt;&lt;br/&gt;The main aim of this session is about communicating intent through your code with no talking done by either developer. Its pretty simple:&lt;/div&gt;
+&lt;div&gt;&lt;ol&gt;
+&lt;li&gt;Developer A writes a failing test.&lt;/li&gt;
+&lt;li&gt;B makes it pass, refactors if needed, then writes a new failing test.&lt;/li&gt;
+&lt;li&gt;A makes it pass, refactors if needed, then starts again.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div&gt;&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-S_4O5Fx4NhM/UMy3kV5lILI/AAAAAAAABU0/WuYHadZZWeQ/s1600/2012-12-08+13.44.52.jpg&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://2.bp.blogspot.com/-S_4O5Fx4NhM/UMy3kV5lILI/AAAAAAAABU0/WuYHadZZWeQ/s320/2012-12-08+13.44.52.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;font-size: 13px;&quot;&gt;Tom makes sure no one utters a peep&lt;br/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;br/&gt;Considered by almost everyone to be the hardest, most tiring and frustrating session of the day (its never easy after lunch), it shows that constraints can also be about removing things we take for granted, such as discussions with our pair. I think it drills home how much of a social activity development actually is.&lt;/div&gt;
+&lt;div&gt;&lt;br/&gt;All pairs mentioned picking up a failing test produced by their partner and rewriting it or ignoring it, as it would have been to big of a step or in the wrong direction. Even though everyone felt comfortable with the domain at this point, this session turned out to have the slowest progress with the constant to and fro.&lt;/div&gt;
+&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-BxaWBce5BrY/UMy5kfe5NpI/AAAAAAAABVs/wLKxRgj5W0w/s1600/2012-12-08+12.19.21.jpg&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://1.bp.blogspot.com/-BxaWBce5BrY/UMy5kfe5NpI/AAAAAAAABVs/wLKxRgj5W0w/s320/2012-12-08+12.19.21.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;After 45 minutes of silence it felt good to speak again at the retrospective&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;h3&gt;&lt;br/&gt;Session 5 - Object calisthenics&lt;/h3&gt;
+&lt;/div&gt;
+&lt;br/&gt;This one is about drilling in good OO design practices:&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;One level of indentation per method.&lt;/li&gt;
+&lt;li&gt;Don’t use ELSE keyword.&lt;/li&gt;
+&lt;li&gt;Wrap all primitives.&lt;/li&gt;
+&lt;li&gt;First class collections.&lt;/li&gt;
+&lt;li&gt;One dot per line.&lt;/li&gt;
+&lt;li&gt;Don’t abbreviate.&lt;/li&gt;
+&lt;li&gt;Keep classes small&lt;/li&gt;
+&lt;li&gt;No classes with more than two instance variables&lt;/li&gt;
+&lt;li&gt;No getters/setters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;br/&gt;This is always a tough one, specially not using getters and setters ( &quot;How are we going to assert?&quot; ), but overall the pairs performed pretty well, leading to what I think was one of the most productive sessions of the day.&lt;/div&gt;
+&lt;br/&gt;Not using getters doesn&#039;t mean you can&#039;t have methods return values, just that these shouldn&#039;t be class variables - i.e. some behaviour should happen inside that method. Ideally &quot;Tell, don&#039;t ask&quot; and a mocking framework should be used.&lt;br/&gt;&lt;br/&gt;As&lt;span style=&quot;font-size: 13px; text-align: center;&quot;&gt; &lt;/span&gt;&lt;a href=&quot;https://twitter.com/marcoVermeulen&quot; target=&quot;_blank&quot;&gt;Marco&lt;/a&gt; pointed out, &quot;calisthenics&quot; is simply good OO practices and something we should be using on a daily basis - maybe &quot;Don’t use ELSE keyword.&quot; and &quot;No classes with more than two instance variables&quot; are debatable.&lt;br/&gt;&lt;br/&gt;
+&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-gs6F8Ky4I6o/UMy5Zfjn73I/AAAAAAAABVU/52-nRI1d1Q8/s1600/2012-12-08+12.15.08.jpg&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://3.bp.blogspot.com/-gs6F8Ky4I6o/UMy5Zfjn73I/AAAAAAAABVU/52-nRI1d1Q8/s320/2012-12-08+12.15.08.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Ashish and Alejandro pairing using vim&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br/&gt;
+&lt;h3&gt;&lt;br/&gt;Session 6 - Choose your own constraint(s)&lt;/h3&gt;
+&lt;br/&gt;For the last session of the day we went easy on the group and let each pair decide which constraints to use (if any). Some selected baby steps, others TDD as you meant it, or using a different language.&lt;br/&gt;&lt;br/&gt;
+&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-y-l--E-4FkU/UMy50oshJGI/AAAAAAAABWM/VKmT5lRm1qI/s1600/2012-12-08+16.25.25.jpg&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://1.bp.blogspot.com/-y-l--E-4FkU/UMy50oshJGI/AAAAAAAABWM/VKmT5lRm1qI/s320/2012-12-08+16.25.25.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;a href=&quot;https://twitter.com/dreab8&quot;&gt;Andrea&lt;/a&gt; and Michał&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br/&gt;
+&lt;h3&gt;&lt;br/&gt;Closing circle&lt;/h3&gt;
+&lt;br/&gt;To finish off the day we gathered round after the last session for the final retrospective and asked everyone to name three things:&lt;br/&gt;&lt;ol&gt;
+&lt;li&gt;What did they learn&lt;/li&gt;
+&lt;li&gt;What surprised them&lt;/li&gt;
+&lt;li&gt;What they&#039;ll take home&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div&gt;&lt;br/&gt;Answers varied from: more confidence in TDD, being more energized / motivated, seeing how many different approaches there are to solve a problem, taking some of these ideas and applying them at work.&lt;/div&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;br/&gt;What about the other 153 code retreats?&lt;/h2&gt;
+&lt;br/&gt;Since this was a global event with lots of code retreats happening simultaneously, Google hangouts were used to connect retreats from different locations and time zones:&lt;br/&gt;&lt;br/&gt;
+&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-bxGsbwvgLCk/UMy0BMrsd5I/AAAAAAAABUk/y1xsuEIdfVQ/s1600/2012-12-08+13.45.11.jpg&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;240&quot; src=&quot;http://1.bp.blogspot.com/-bxGsbwvgLCk/UMy0BMrsd5I/AAAAAAAABUk/y1xsuEIdfVQ/s320/2012-12-08+13.45.11.jpg&quot; width=&quot;320&quot;/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Hanging out!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br/&gt;We &quot;hung out&quot; all throughout the day ( keeping it muted while in a session ) with other retreats in London, South Africa, Germany, Belgium, Romania, Hungary, and possibly a few more than came and went while we weren&#039;t looking!&lt;br/&gt;&lt;br/&gt;Also, a web app - live.coderetreat.org - was used by facilitators to update their schedule status throughout the day. It was good to see live updates of all other retreats worldwide in real time.&lt;br/&gt;&lt;br/&gt;
+&lt;h2&gt;&lt;br/&gt;Summing up&lt;/h2&gt;
+&lt;br/&gt;This was the first code retreat I facilitated and I had a blast!&lt;br/&gt;&lt;br/&gt;It was really fun, energizing and a great learning experience for all who attended, but also for me - being on the &quot;other side&quot; gave me a different perspective and helped to gain new insights and solidify my knowledge.&lt;br/&gt;&lt;br/&gt;Looking forward to hosting another one in the future...&lt;/div&gt;</content>
+<category term="United States" />
+
+                    <link rel="enclosure" href="http://3.bp.blogspot.com/-qEhLQg7F3No/UMy5Nh8dpLI/AAAAAAAABU8/JZHVSGC2Tv4/s1600/2012-12-08+09.29.00.jpg" type="image/jpeg"/><link rel="enclosure" href="http://4.bp.blogspot.com/-HhuGWDtVCDI/UMy5UdBjDhI/AAAAAAAABVM/XzX4Jqq4uus/s1600/2012-12-08+12.14.52.jpg" type="image/jpeg"/><link rel="enclosure" href="http://1.bp.blogspot.com/-Xlw_WFR1-sI/UMy5chNl4UI/AAAAAAAABVc/Ekya1ebNQFc/s1600/2012-12-08+12.15.24.jpg" type="image/jpeg"/><link rel="enclosure" href="http://2.bp.blogspot.com/-S_4O5Fx4NhM/UMy3kV5lILI/AAAAAAAABU0/WuYHadZZWeQ/s1600/2012-12-08+13.44.52.jpg" type="image/jpeg"/><link rel="enclosure" href="http://1.bp.blogspot.com/-BxaWBce5BrY/UMy5kfe5NpI/AAAAAAAABVs/wLKxRgj5W0w/s1600/2012-12-08+12.19.21.jpg" type="image/jpeg"/><link rel="enclosure" href="http://3.bp.blogspot.com/-gs6F8Ky4I6o/UMy5Zfjn73I/AAAAAAAABVU/52-nRI1d1Q8/s1600/2012-12-08+12.15.08.jpg" type="image/jpeg"/><link rel="enclosure" href="http://1.bp.blogspot.com/-y-l--E-4FkU/UMy50oshJGI/AAAAAAAABWM/VKmT5lRm1qI/s1600/2012-12-08+16.25.25.jpg" type="image/jpeg"/><link rel="enclosure" href="http://1.bp.blogspot.com/-bxGsbwvgLCk/UMy0BMrsd5I/AAAAAAAABUk/y1xsuEIdfVQ/s1600/2012-12-08+13.45.11.jpg" type="image/jpeg"/>                </entry>
+                    </feed>
+        

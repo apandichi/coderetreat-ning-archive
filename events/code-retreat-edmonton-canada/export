@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:24004
+DTSTAMP:20170129T104407Z
+SUMMARY:Code Retreat - Edmonton, Canada
+DESCRIPTION:http://coderetreatyeg2013.eventbrite.com/\n\nFor more info
+ rmation visit http://coderetreat.org/events/code-retreat-edmonton-cana
+ da
+DTSTART:20130602T084500Z
+DTEND:20130602T170000Z
+CATEGORIES:code, retreat
+LOCATION:Edmonton, Canada
+WEBSITE:http://coderetreatyeg2013.eventbrite.com/
+URL:http://coderetreatyeg2013.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Curtis Badke":http://coderetreat.org/profile/CurtisBadke
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Curtis B
+ adke":http://coderetreat.org/profile/CurtisBadke
+END:VEVENT
+END:VCALENDAR

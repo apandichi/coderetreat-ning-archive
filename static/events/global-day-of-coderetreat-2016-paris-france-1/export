@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56627
+DTSTAMP:20170129T093404Z
+SUMMARY:Global Day of Coderetreat 2016 - Paris, France
+DESCRIPTION:Hello\nSeconde édition du code retreat chez Nexeo :)\nC'e
+ st avec plaisir que nous organisons pour la deuxième année consécut
+ ive le Global Day of Code Retreat!\n@+\n\n\n\nFor more information vis
+ it http://coderetreat.org/events/global-day-of-coderetreat-2016-paris-
+ france-1
+DTSTART:20161022T090000Z
+DTEND:20161022T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Paris
+WEBSITE:https://www.google.fr/maps/place/21+Rue+Drouot,+75009+Paris/@4
+ 8.874306,2.3383962,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e3f2c3a1377:0x36
+ b8e1e7ee487fa4!8m2!3d48.8743025!4d2.3405849
+URL:https://www.google.fr/maps/place/21+Rue+Drouot,+75009+Paris/@48.87
+ 4306,2.3383962,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e3f2c3a1377:0x36b8e1
+ e7ee487fa4!8m2!3d48.8743025!4d2.3405849
+CONTACT:0140827485
+ORGANIZER;CN="Nexeo Finance":http://coderetreat.org/profile/NexeoFinan
+ ce
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/G834pRjVCIHZA
+ 4UfC6kpgsEn8bPoLY*SZaK7NNJahkmo1DCulucLFVhzpqpBdVheXjy*EUoj*t1WsqbBvsS
+ tfajJcugx8vvU/Prsentation2.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nexeo Fi
+ nance":http://coderetreat.org/profile/NexeoFinance
+END:VEVENT
+END:VCALENDAR

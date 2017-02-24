@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39499
+DTSTAMP:20170129T122243Z
+SUMMARY:Global Day of Coderetreat 2014 - Lviv, Ukraine
+DESCRIPTION:\nRegister here - http://bit.ly/gdcr14-lviv\nLocal sponso
+ r - Remit\nHost - Dariya Sulimova\nFacilitator - Taras Budurovych (+
+ 380677954733, taras.budurovych@gmail.com)\n\nFor more information visi
+ t http://coderetreat.org/events/global-day-of-coderetreat-2014-lviv-uk
+ raine
+DTSTART:20141115T093000Z
+DTEND:20141115T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:betaplace.com.ua
+WEBSITE:http://betaplace.com.ua
+URL:http://betaplace.com.ua
+CONTACT:
+ORGANIZER:Dariya Sulimova, Taras Budurovych
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/ZlBJL*XyKT2UF
+ *O11AvjM-nOuvXPOrU7*FryzXUTJ-CAoQU1zvwFwL4YC4FW2VREjwTfHFiR9QH*HYzlQgq
+ vntdT-z6NNWbN/LOGO13LVIVcopycopy.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Taras Bu
+ durovych":http://coderetreat.org/profile/TarasBudurovych
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26520
+DTSTAMP:20170129T140313Z
+SUMMARY:Global Day of Coderetreat 2013 - Milan, Italy
+DESCRIPTION:Global Day of Coderetreat\n\nFor more information visit ht
+ tp://coderetreat.org/events/global-day-of-coderetreat-2013-milan-italy
+DTSTART:20131214T090000Z
+DTEND:20131214T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:7Pixel
+WEBSITE:http://www.7pixel.it/
+URL:http://www.7pixel.it/
+CONTACT:
+ORGANIZER;CN="Gabriele Lana":http://coderetreat.org/profile/GabrieleLa
+ na
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gabriele
+  Lana":http://coderetreat.org/profile/GabrieleLana
+END:VEVENT
+END:VCALENDAR

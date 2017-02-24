@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2013 - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A26315&amp;xn_auth=no"/>
+            <updated>2017-01-29T09:56:45Z</updated>
+                        <id>http://coderetreat.org/profiles/comment/feed?attachedTo=6456126%3ABlogPost%3A26315&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Ann Arbor, MI will be among t…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:26510"/>
+                                        <id>tag:coderetreat.org,2013-08-30:6456126:Comment:26510</id>
+                                        <updated>2013-08-30T02:46:49.986Z</updated>
+                    
+                                            <author>
+                            <name>Bob Allen @CuriousAgilist</name>
+                            <uri>http://coderetreat.org/profile/BobAllenCuriousAgilist</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;a href=&quot;http://coderetreat.org/events/global-day-of-coderetreat-2013-ann-arbor-usa&quot; target=&quot;_self&quot;&gt;Ann Arbor&lt;/a&gt;, MI will be among the GDCR cities. Looking forward to it.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;&lt;a href=&quot;http://coderetreat.org/events/global-day-of-coderetreat-2013-ann-arbor-usa&quot; target=&quot;_self&quot;&gt;Ann Arbor&lt;/a&gt;, MI will be among the GDCR cities. Looking forward to it.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

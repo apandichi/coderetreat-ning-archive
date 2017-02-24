@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Comments - Global Day of Coderetreat 2013 - Helsinki, Finland - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A27282&amp;xn_auth=no"/>
+            <updated>2017-01-29T10:19:18Z</updated>
+                        <id>http://coderetreat.org/events/comment/feed?attachedTo=6456126%3AEvent%3A27282&amp;xn_auth=no</id>
+                            <entry>
+                    <title>What a bummer! I thought the…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27721"/>
+                                        <id>tag:coderetreat.org,2013-10-17:6456126:Comment:27721</id>
+                                        <updated>2013-10-17T10:35:09.271Z</updated>
+                    
+                                            <author>
+                            <name>Igor Popov</name>
+                            <uri>http://coderetreat.org/profile/IgorPopov</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;What a bummer! I thought the event should be open to everyone who wants to attend... Well, anyway... thanks for your quick response and good luck with the code retreat :)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;What a bummer! I thought the event should be open to everyone who wants to attend... Well, anyway... thanks for your quick response and good luck with the code retreat :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Unfortunately the participati…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27635"/>
+                                        <id>tag:coderetreat.org,2013-10-17:6456126:Comment:27635</id>
+                                        <updated>2013-10-17T09:14:43.316Z</updated>
+                    
+                                            <author>
+                            <name>Matti Luukkainen</name>
+                            <uri>http://coderetreat.org/profile/MattiLuukkainen</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Unfortunately the participation will be restrected to the students of University of Helsinki. Language will be Finnish...&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Unfortunately the participation will be restrected to the students of University of Helsinki. Language will be Finnish...&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Can you provide a bit more in…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:27494"/>
+                                        <id>tag:coderetreat.org,2013-10-17:6456126:Comment:27494</id>
+                                        <updated>2013-10-17T08:29:15.883Z</updated>
+                    
+                                            <author>
+                            <name>Igor Popov</name>
+                            <uri>http://coderetreat.org/profile/IgorPopov</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Can you provide a bit more info, please?&lt;/p&gt;
+&lt;p&gt;Do we need to register somewhere? Or to announce somehow that we&#039;ll come?&lt;/p&gt;
+&lt;p&gt;Will the event be organized in English? Unfortunately, I don&#039;t know Finnish :(&lt;/p&gt;
+&lt;p&gt;I&#039;ll be in Helsinki for a while (I&#039;m from Romania) so I&#039;ll come to this code retreat :)&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Can you provide a bit more info, please?&lt;/p&gt;
+&lt;p&gt;Do we need to register somewhere? Or to announce somehow that we&#039;ll come?&lt;/p&gt;
+&lt;p&gt;Will the event be organized in English? Unfortunately, I don&#039;t know Finnish :(&lt;/p&gt;
+&lt;p&gt;I&#039;ll be in Helsinki for a while (I&#039;m from Romania) so I&#039;ll come to this code retreat :)&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

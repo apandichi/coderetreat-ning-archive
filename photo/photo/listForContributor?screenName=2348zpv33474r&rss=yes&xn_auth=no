@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Roman Pravuk&#039;s Photos</title>
+        <description>Roman Pravuk&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=2348zpv33474r</link>
+        <pubDate>Sun, 29 Jan 2017 13:08:35 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:08:35 +0000</lastBuildDate>
+        <image>
+            <title>Roman Pravuk&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=2348zpv33474r</link>
+            <url>http://api.ning.com:80/files/LZfMsRt8tpnbkE6iexrx6Mxqd5D-UNT57WZkkCS71VRjd*c4w8WgPOWWmitCIyidcFcJA2FoUOS4UifQUQJjs1LzNDqdAY7P/1151847973.jpeg?xgip=0%3A0%3A598%3A598%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:50667</guid>             <title>St.Petersburg , Russia 2015 hosted by EPAM</title>
+            <link>http://coderetreat.org/photo/st-petersburg-russia-2015-hosted-by-epam-6</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/MMaj31ebAY86Qp1*tEFhq8KaTNtQ88RFUCKjXVmHeJCcmqTyGlR4nLvSBBRW-hwI0JG2fBJgKMxX8y*AsOethmWjXUU0iK8n/DSC09416.JPG?width=800&amp;amp;height=533&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/MMaj31ebAY86Qp1*tEFhq8KaTNtQ88RFUCKjXVmHeJCcmqTyGlR4nLvSBBRW-hwI0JG2fBJgKMxX8y*AsOethmWjXUU0iK8n/DSC09416.JPG?width=240&amp;height=159&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Roman Pravuk </description>                <pubDate>Sun, 15 Nov 2015 20:59:32 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/MMaj31ebAY86Qp1*tEFhq8KaTNtQ88RFUCKjXVmHeJCcmqTyGlR4nLvSBBRW-hwI0JG2fBJgKMxX8y*AsOethmWjXUU0iK8n/DSC09416.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/MMaj31ebAY86Qp1*tEFhq8KaTNtQ88RFUCKjXVmHeJCcmqTyGlR4nLvSBBRW-hwI0JG2fBJgKMxX8y*AsOethmWjXUU0iK8n/DSC09416.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/MMaj31ebAY86Qp1*tEFhq8KaTNtQ88RFUCKjXVmHeJCcmqTyGlR4nLvSBBRW-hwI0JG2fBJgKMxX8y*AsOethmWjXUU0iK8n/DSC09416.JPG?width=240&amp;height=159&amp;format=jpg" width="240" height="159" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Roman Pravuk</media:credit>
+	                        <atom:author>
+                <atom:name>Roman Pravuk</atom:name>
+                <atom:uri>http://coderetreat.org/profile/RomanPravuk</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:50664</guid>             <title>St.Petersburg , Russia 2015 hosted by EPAM</title>
+            <link>http://coderetreat.org/photo/st-petersburg-russia-2015-hosted-by-epam-5</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/MMaj31ebAY*Yk2GhU6Rj12yGgM*BJBss5-BkuyMoF2CxfaSacx7cJ2DbX4aTW1ynvKOzcLGITXF9RdphwtZC29fJWFFhsvHQ/DSC09452.JPG?width=800&amp;amp;height=533&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/MMaj31ebAY*Yk2GhU6Rj12yGgM*BJBss5-BkuyMoF2CxfaSacx7cJ2DbX4aTW1ynvKOzcLGITXF9RdphwtZC29fJWFFhsvHQ/DSC09452.JPG?width=240&amp;height=159&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Roman Pravuk The cool 6th session, one pairs vs other.
+First pair writing web service on Java, other pair writing UI on C# WPF</description>                <pubDate>Sun, 15 Nov 2015 20:40:19 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/MMaj31ebAY*Yk2GhU6Rj12yGgM*BJBss5-BkuyMoF2CxfaSacx7cJ2DbX4aTW1ynvKOzcLGITXF9RdphwtZC29fJWFFhsvHQ/DSC09452.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/MMaj31ebAY*Yk2GhU6Rj12yGgM*BJBss5-BkuyMoF2CxfaSacx7cJ2DbX4aTW1ynvKOzcLGITXF9RdphwtZC29fJWFFhsvHQ/DSC09452.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description>The cool 6th session, one pairs vs other.
+First pair writing web service on Java, other pair writing UI on C# WPF</media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/MMaj31ebAY*Yk2GhU6Rj12yGgM*BJBss5-BkuyMoF2CxfaSacx7cJ2DbX4aTW1ynvKOzcLGITXF9RdphwtZC29fJWFFhsvHQ/DSC09452.JPG?width=240&amp;height=159&amp;format=jpg" width="240" height="159" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Roman Pravuk</media:credit>
+	                        <atom:author>
+                <atom:name>Roman Pravuk</atom:name>
+                <atom:uri>http://coderetreat.org/profile/RomanPravuk</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:50466</guid>             <title>St.Petersburg , Russia 2015 hosted by EPAM</title>
+            <link>http://coderetreat.org/photo/st-petersburg-russia-2015-hosted-by-epam-4</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/MMaj31ebAY9uwAlaKJ1Sjx-GlCY909nDrzUpjNI2HGs8SA3yd89MO*ZV-maL2wlXxF2OODFdsB9KRW4786fL*-myR95JMEHw/DSC09417.JPG?width=800&amp;amp;height=533&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/MMaj31ebAY9uwAlaKJ1Sjx-GlCY909nDrzUpjNI2HGs8SA3yd89MO*ZV-maL2wlXxF2OODFdsB9KRW4786fL*-myR95JMEHw/DSC09417.JPG?width=240&amp;height=159&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Roman Pravuk </description>                <pubDate>Sun, 15 Nov 2015 20:40:05 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/MMaj31ebAY9uwAlaKJ1Sjx-GlCY909nDrzUpjNI2HGs8SA3yd89MO*ZV-maL2wlXxF2OODFdsB9KRW4786fL*-myR95JMEHw/DSC09417.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/MMaj31ebAY9uwAlaKJ1Sjx-GlCY909nDrzUpjNI2HGs8SA3yd89MO*ZV-maL2wlXxF2OODFdsB9KRW4786fL*-myR95JMEHw/DSC09417.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/MMaj31ebAY9uwAlaKJ1Sjx-GlCY909nDrzUpjNI2HGs8SA3yd89MO*ZV-maL2wlXxF2OODFdsB9KRW4786fL*-myR95JMEHw/DSC09417.JPG?width=240&amp;height=159&amp;format=jpg" width="240" height="159" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Roman Pravuk</media:credit>
+	                        <atom:author>
+                <atom:name>Roman Pravuk</atom:name>
+                <atom:uri>http://coderetreat.org/profile/RomanPravuk</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:50394</guid>             <title>St.Petersburg , Russia 2015 hosted by EPAM</title>
+            <link>http://coderetreat.org/photo/st-petersburg-russia-2015-hosted-by-epam-3</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/MMaj31ebAY8OmB-Y93llgr5c90w*pyBIt-P*jV8aWxYgkX-WqVdOfAgr*oXwe8u0q922IkxIWYRlBrU5t3DnfysqJJRySdLQ/DSC09471.JPG?width=800&amp;amp;height=533&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/MMaj31ebAY8OmB-Y93llgr5c90w*pyBIt-P*jV8aWxYgkX-WqVdOfAgr*oXwe8u0q922IkxIWYRlBrU5t3DnfysqJJRySdLQ/DSC09471.JPG?width=240&amp;height=159&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Roman Pravuk </description>                <pubDate>Sun, 15 Nov 2015 20:39:50 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/MMaj31ebAY8OmB-Y93llgr5c90w*pyBIt-P*jV8aWxYgkX-WqVdOfAgr*oXwe8u0q922IkxIWYRlBrU5t3DnfysqJJRySdLQ/DSC09471.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/MMaj31ebAY8OmB-Y93llgr5c90w*pyBIt-P*jV8aWxYgkX-WqVdOfAgr*oXwe8u0q922IkxIWYRlBrU5t3DnfysqJJRySdLQ/DSC09471.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/MMaj31ebAY8OmB-Y93llgr5c90w*pyBIt-P*jV8aWxYgkX-WqVdOfAgr*oXwe8u0q922IkxIWYRlBrU5t3DnfysqJJRySdLQ/DSC09471.JPG?width=240&amp;height=159&amp;format=jpg" width="240" height="159" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Roman Pravuk</media:credit>
+	                        <atom:author>
+                <atom:name>Roman Pravuk</atom:name>
+                <atom:uri>http://coderetreat.org/profile/RomanPravuk</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:50463</guid>             <title>St.Petersburg , Russia 2015 hosted by EPAM</title>
+            <link>http://coderetreat.org/photo/st-petersburg-russia-2015-hosted-by-epam-2</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/MMaj31ebAY-2qw5yvPxl2b1juwrFxgLbSTniz4XIlGa0VE-fyYA00htlHTkC9NGi3OcasJ9O9inCZ7miOouF4We96P0f**MR/DSC09514.JPG?width=800&amp;amp;height=533&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/MMaj31ebAY-2qw5yvPxl2b1juwrFxgLbSTniz4XIlGa0VE-fyYA00htlHTkC9NGi3OcasJ9O9inCZ7miOouF4We96P0f**MR/DSC09514.JPG?width=240&amp;height=159&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Roman Pravuk </description>                <pubDate>Sun, 15 Nov 2015 20:39:38 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/MMaj31ebAY-2qw5yvPxl2b1juwrFxgLbSTniz4XIlGa0VE-fyYA00htlHTkC9NGi3OcasJ9O9inCZ7miOouF4We96P0f**MR/DSC09514.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/MMaj31ebAY-2qw5yvPxl2b1juwrFxgLbSTniz4XIlGa0VE-fyYA00htlHTkC9NGi3OcasJ9O9inCZ7miOouF4We96P0f**MR/DSC09514.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/MMaj31ebAY-2qw5yvPxl2b1juwrFxgLbSTniz4XIlGa0VE-fyYA00htlHTkC9NGi3OcasJ9O9inCZ7miOouF4We96P0f**MR/DSC09514.JPG?width=240&amp;height=159&amp;format=jpg" width="240" height="159" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Roman Pravuk</media:credit>
+	                        <atom:author>
+                <atom:name>Roman Pravuk</atom:name>
+                <atom:uri>http://coderetreat.org/profile/RomanPravuk</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:50661</guid>             <title>St.Petersburg , Russia 2015 hosted by EPAM</title>
+            <link>http://coderetreat.org/photo/st-petersburg-russia-2015-hosted-by-epam-1</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/MMaj31ebAY9zgumI1o2-4b2C2BEdm1PJZlJLMD7xOa0-vrQ*-SuAJ5nOVdD*meQPluFYvvd1UTYO-RTS2DTGxnAAyQV-Zh6v/DSC09489.JPG?width=800&amp;amp;height=533&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/MMaj31ebAY9zgumI1o2-4b2C2BEdm1PJZlJLMD7xOa0-vrQ*-SuAJ5nOVdD*meQPluFYvvd1UTYO-RTS2DTGxnAAyQV-Zh6v/DSC09489.JPG?width=240&amp;height=159&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Roman Pravuk </description>                <pubDate>Sun, 15 Nov 2015 20:39:23 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/MMaj31ebAY9zgumI1o2-4b2C2BEdm1PJZlJLMD7xOa0-vrQ*-SuAJ5nOVdD*meQPluFYvvd1UTYO-RTS2DTGxnAAyQV-Zh6v/DSC09489.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/MMaj31ebAY9zgumI1o2-4b2C2BEdm1PJZlJLMD7xOa0-vrQ*-SuAJ5nOVdD*meQPluFYvvd1UTYO-RTS2DTGxnAAyQV-Zh6v/DSC09489.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/MMaj31ebAY9zgumI1o2-4b2C2BEdm1PJZlJLMD7xOa0-vrQ*-SuAJ5nOVdD*meQPluFYvvd1UTYO-RTS2DTGxnAAyQV-Zh6v/DSC09489.JPG?width=240&amp;height=159&amp;format=jpg" width="240" height="159" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Roman Pravuk</media:credit>
+	                        <atom:author>
+                <atom:name>Roman Pravuk</atom:name>
+                <atom:uri>http://coderetreat.org/profile/RomanPravuk</atom:uri>
+            </atom:author>
+        </item>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:50392</guid>             <title>St.Petersburg , Russia 2015 hosted by EPAM</title>
+            <link>http://coderetreat.org/photo/st-petersburg-russia-2015-hosted-by-epam</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/MMaj31ebAY-caNBilfwJEnV2DEmDgvprFs9Aep6fOaEMcjzvBiml30swQeLiZW58b2WOFkQAUbs9eOdPgTbY8nLj3s1-wHm2/DSC09443.JPG?width=800&amp;amp;height=533&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/MMaj31ebAY-caNBilfwJEnV2DEmDgvprFs9Aep6fOaEMcjzvBiml30swQeLiZW58b2WOFkQAUbs9eOdPgTbY8nLj3s1-wHm2/DSC09443.JPG?width=240&amp;height=159&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Roman Pravuk </description>                <pubDate>Sun, 15 Nov 2015 20:39:09 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/MMaj31ebAY-caNBilfwJEnV2DEmDgvprFs9Aep6fOaEMcjzvBiml30swQeLiZW58b2WOFkQAUbs9eOdPgTbY8nLj3s1-wHm2/DSC09443.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/MMaj31ebAY-caNBilfwJEnV2DEmDgvprFs9Aep6fOaEMcjzvBiml30swQeLiZW58b2WOFkQAUbs9eOdPgTbY8nLj3s1-wHm2/DSC09443.JPG?width=800&amp;height=533&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/MMaj31ebAY-caNBilfwJEnV2DEmDgvprFs9Aep6fOaEMcjzvBiml30swQeLiZW58b2WOFkQAUbs9eOdPgTbY8nLj3s1-wHm2/DSC09443.JPG?width=240&amp;height=159&amp;format=jpg" width="240" height="159" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Roman Pravuk</media:credit>
+	                        <atom:author>
+                <atom:name>Roman Pravuk</atom:name>
+                <atom:uri>http://coderetreat.org/profile/RomanPravuk</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:47098
+DTSTAMP:20170129T135550Z
+SUMMARY:Global Day of Coderetreat 2015 - Logroño, Spain
+DESCRIPTION:For the first time, La Rioja will patricipate in the Globa
+ l Day of Code Retreat. We expect that everybody enjoy this exciting ev
+ ent.\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2015-logro-o-spain
+DTSTART:20151114T090000Z
+DTEND:20151114T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Think Tic
+WEBSITE:https://www.google.com/maps/place/Av.+Zaragoza,+21,+26006+Logr
+ o%C3%B1o,+La+Rioja,+Espa%C3%B1a/@42.457992,-2.418692,15z/data=!4m2!3m1
+ !1s0xd5aab9c0a8441f5:0xd1399f66246fb0c4?hl=es
+URL:https://www.google.com/maps/place/Av.+Zaragoza,+21,+26006+Logro%C3
+ %B1o,+La+Rioja,+Espa%C3%B1a/@42.457992,-2.418692,15z/data=!4m2!3m1!1s0
+ xd5aab9c0a8441f5:0xd1399f66246fb0c4?hl=es
+CONTACT:
+ORGANIZER:Rioja{dotnet}
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/AI-C-DD*hScZj
+ ST8iUY4AkLrsoI7NJIjZ7ynGmrDLvl0u5vw6DJRThb6dMzLi6lLCS7IK3qrB-olB*6oI1P
+ i8t13opXOjM96/RiojaDotNet200x200.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Luis Sag
+ asta Buil":http://coderetreat.org/profile/LuisSagastaBuil
+END:VEVENT
+END:VCALENDAR

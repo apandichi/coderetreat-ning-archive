@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:27811
+DTSTAMP:20170129T115301Z
+SUMMARY:Global Day of Coderetreat 2013 - Cape Town, South Africa
+DESCRIPTION:It's happening again! Throw away your code! For more aweso
+ me.\nWorldwide.\nWill host it at IL. If we get too many... will find s
+ omewhere bigger.\n\nRSVP on meetup:\nhttp://www.meetup.com/Cape-Town-S
+ oftware-Developers/events/145516042/\n\nFor more information visit htt
+ p://coderetreat.org/events/global-day-of-coderetreat-2013-cape-town-so
+ uth-africa-1
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:South Africa
+WEBSITE:https://plus.google.com/113414328798622649212
+URL:https://plus.google.com/113414328798622649212
+CONTACT:27828297212
+ORGANIZER;CN="David Campey":http://coderetreat.org/profile/DavidCampey
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="David Ca
+ mpey":http://coderetreat.org/profile/DavidCampey
+END:VEVENT
+END:VCALENDAR

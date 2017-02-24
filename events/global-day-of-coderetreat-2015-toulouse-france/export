@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50096
+DTSTAMP:20170129T121603Z
+SUMMARY:Global Day of Coderetreat 2015 - Toulouse, France
+DESCRIPTION:Global Day of CodeRetreat in Toulouse, France.\nThe event 
+ will be hosted by Etincelle coworking & sponsorized by @occitech.\nIt 
+ will be facilitated by Antoine Vernois and Ludovic Pradel.\nDetails an
+ d registration : http://www.meetup.com/fr/Software-Craftsmanship-Toulo
+ use/events/226586933/\n\nFor more information visit http://coderetreat
+ .org/events/global-day-of-coderetreat-2015-toulouse-france
+DTSTART:20151114T083000Z
+DTEND:20151114T180000Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Toulouse / France
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Ludo Pradel":http://coderetreat.org/profile/LudoPradel
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Ludo Pra
+ del":http://coderetreat.org/profile/LudoPradel
+END:VEVENT
+END:VCALENDAR

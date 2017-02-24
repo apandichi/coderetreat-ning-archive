@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:39164
+DTSTAMP:20170129T102720Z
+SUMMARY:Global Day of Coderetreat 2014 - London, UK
+DESCRIPTION:Global Day of Coderetreat event.\nHosted by Makers Academy
+  and facilitated by 8th Light in London UK.\nPlease use the Eventbri
+ te link to sign up if interested.\n\nFor more information visit http:/
+ /coderetreat.org/events/global-day-of-coderetreat-2014-london-uk-1
+DTSTART:20141115T100000Z
+DTEND:20141115T160000Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:Makers Academy, London
+WEBSITE:https://www.eventbrite.co.uk/e/global-day-of-coderetreat-2014-
+ london-tickets-13486048133
+URL:https://www.eventbrite.co.uk/e/global-day-of-coderetreat-2014-lond
+ on-tickets-13486048133
+CONTACT:
+ORGANIZER:8th Light Inc
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="remy ann
+ is":http://coderetreat.org/profile/remyannis
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Jnardiell
+ o:http://coderetreat.org/profile/Jnardiello
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Makis:htt
+ p://coderetreat.org/profile/Makis
+END:VEVENT
+END:VCALENDAR

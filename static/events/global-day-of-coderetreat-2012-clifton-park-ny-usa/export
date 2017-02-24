@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:15757
+DTSTAMP:20170129T134622Z
+SUMMARY:Global Day of Coderetreat 2012 - Clifton Park, NY / USA
+DESCRIPTION:Join us in celebration of the Global Day of Coderetreat!\n
+ What is Coderetreat?\nCoderetreat is a day-long, intensive practice ev
+ ent focused on the fundamentals of software development and design.The
+  unique Coderetreat format (which eliminates the pressure of 'getting 
+ things done' and focuses on practicing basic principles of good design
+ ) has proven to be a highly effective (and fun) means of skill improve
+ ment.\nRegistration is now open!\nYou only need to bring a laptop with
+  the development tools you require to write code using your programmin
+ g language(s) of choice. Coffee and lunch will be provided. Check outÂ
+  coderetreat.orgÂ for further details on what to expect.\nAbout the Gl
+ obal Day of Coderetreat\nFor 32 hours on December 8th, Coderetreats wi
+ ll be held all over the world as part of the Global Day of Coderetreat
+ . The Global Day of Coderetreat helps to raise awareness of Coderetrea
+ t and brings people together from all over the world. Most importantly
+ , the Global Day of Coderetreat helps to support global efforts to fin
+ d, encourage, and educate the next generation of software developers (
+ through the Coderetreat Community Contribution Fund).\nLast year, 94 c
+ ities participated. This year, we anticipate approximately 200 cities 
+ will participate with about 3,000 developers worldwide!\nEvent sponsor
+ ed and hosted by\n\n\n\nFor more information visit http://coderetreat.
+ org/events/global-day-of-coderetreat-2012-clifton-park-ny-usa
+DTSTART:20121208T083000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat, gdcr
+LOCATION:CommerceHub
+WEBSITE:http://gdcr12-cliftonpark.eventbrite.com/
+URL:http://gdcr12-cliftonpark.eventbrite.com/
+CONTACT:
+ORGANIZER:CommerceHub
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Matt Hur
+ ne":http://coderetreat.org/profile/MattHurne
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:37252
+DTSTAMP:20170129T120125Z
+SUMMARY:Global Day of Coderetreat 2014 - Padova, Italy
+DESCRIPTION:Sei stanco di scrivere codice sotto pressione perchè si �
+ � sempre in ritardo con le consegne? Hai la sensazione di non avere ma
+ i tempo per migliorare il modo in cui scrivi codice perchè sei sempre
+  intento a scriverlo? Ti senti un artigiano del software incompreso ch
+ e viene trattato da operaio del computer?  Immagina la quantità di sp
+ unti e riflessioni che potresti raccogliere in un giorno in cui non do
+ vrai preoccuparti di consegnare (anzi butterai via il codice che scriv
+ erai), ti potrai concentrare sulle regole del buon design (http://c2.c
+ om/cgi/wiki?XpSimplicityRules) e confrontarti con esperienze e linguag
+ gi di programmazione diversi.  Iscriviti subito al CodeRetreat (maggio
+ r info le trovi qui http://coderetreat.org/) di Padova, e partecipa a
+ lla giornata mondiale dedicata alla passione per il software! La macch
+ ina organizzativa è già in fermento. Abbiamo appena aperto le iscriz
+ ioni e sono limitate a soli 20 posti al costo 10 euro comprensivi di c
+ olazione e pranzo.\nIl tutto si svolgerà in TalentGarden a Padova!\n-
+ -\nIl Global Day of Coderetreat è un evento internazionale che celebr
+ a la passione per la software craftsmanship.\nL'anno scorso più di 20
+ 00 developers da 150 città in tutto il mondo hanno dedicato un giorno
+  alla pratica deliberata dello sviluppo software, e quest'anno per la 
+ prima volta ci sarà anche Padova (http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2013-padova-italiy).\nCi troviamo puntuali alle 9
+ :00 presso TBD per la colazione, e dopo una breve introduzione inizier
+ emo le sessioni. Durante ogni sessione si lavorerà in pair programmin
+ g per sviluppare in TDD il Game of Life di Conway con un linguaggio qu
+ alsiasi scelto indipendentemente da ciascuna coppia. Alla fine di ogni
+  sessione il codice sarà cancellato e ci riunieremo per una breve ret
+ rospettiva. \nSe pensi che l'esercizio sia troppo semplice e/o noioso
+ , significa che non hai mai partecipato a un coderetreat: vieni e scop
+ ri quante variazioni interessanti sono in serbo per te! :)\n \n \n\n
+ For more information visit http://coderetreat.org/events/global-day-of
+ -coderetreat-2014-padova-italy
+DTSTART:20141115T000000Z
+DTEND:20141115T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr14
+LOCATION:TBD
+WEBSITE:https://www.eventbrite.it/e/biglietti-global-day-of-coderetrea
+ t-2014-padova-13254776393
+URL:https://www.eventbrite.it/e/biglietti-global-day-of-coderetreat-20
+ 14-padova-13254776393
+CONTACT:
+ORGANIZER;CN="Francesco Levorato":http://coderetreat.org/profile/Franc
+ escoLevorato
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Francesc
+ o Levorato":http://coderetreat.org/profile/FrancescoLevorato
+END:VEVENT
+END:VCALENDAR

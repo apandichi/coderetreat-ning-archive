@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Little bit of gamification - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/little-bit-of-gamification?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A18555&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T12:46:24Z</updated>
+                        <id>http://coderetreat.org/forum/topics/little-bit-of-gamification?groupUrl=facilitators&amp;commentId=6456126%3AComment%3A18555&amp;groupId=6456126%3AGroup%3A901&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Ah I see! So this is just som…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:18612"/>
+                                        <id>tag:coderetreat.org,2012-12-06:6456126:Comment:18612</id>
+                                        <updated>2012-12-06T15:42:12.413Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Ah I see! So this is just something you&#039;re trying to add a little more fun to the day.In that case, I say go for it!  I look forward to hearing how it goes.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Ah I see! So this is just something you&#039;re trying to add a little more fun to the day.In that case, I say go for it!  I look forward to hearing how it goes.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Thank You Jim for feedback.
+I…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:18555"/>
+                                        <id>tag:coderetreat.org,2012-12-06:6456126:Comment:18555</id>
+                                        <updated>2012-12-06T15:36:18.624Z</updated>
+                    
+                                            <author>
+                            <name>Marian Schubert</name>
+                            <uri>http://coderetreat.org/profile/MarianSchubert</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Thank You Jim for feedback.&lt;/p&gt;
+&lt;p&gt;I have mixed feelings too. I certainly wouldn&#039;t want to hurt people&#039;s willingness to experiment or put them under similar pressure they experience in regular job.&lt;/p&gt;
+&lt;p&gt;Regardless of using checklist we are going to facilitate this event in same fashion as previous ones. We are going to introduce exercises for each session as usual so that it&#039;s possible to have reasonable retrospectives with whole group afterwards.&lt;/p&gt;
+&lt;p&gt;Checklist would be just…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Thank You Jim for feedback.&lt;/p&gt;
+&lt;p&gt;I have mixed feelings too. I certainly wouldn&#039;t want to hurt people&#039;s willingness to experiment or put them under similar pressure they experience in regular job.&lt;/p&gt;
+&lt;p&gt;Regardless of using checklist we are going to facilitate this event in same fashion as previous ones. We are going to introduce exercises for each session as usual so that it&#039;s possible to have reasonable retrospectives with whole group afterwards.&lt;/p&gt;
+&lt;p&gt;Checklist would be just additional/optional thing. It certainly isn&#039;t going to contain all exercises which will happen during whole day. I would like to keep it as short as possible (&amp;lt;7 items) so that it doesn&#039;t confuse people or distract them from more important stuff.&lt;/p&gt;
+&lt;p&gt;PS: Delete code contains 6 checkboxes (one for each session) and it would be introduced as mandatory as usual. It should therefore be pretty easy for most of the people to achieve this if they follow the rules. I like idea of having some items which one might achieve easily.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>This is definitely an interes…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:18541"/>
+                                        <id>tag:coderetreat.org,2012-12-06:6456126:Comment:18541</id>
+                                        <updated>2012-12-06T13:00:15.660Z</updated>
+                    
+                                            <author>
+                            <name>Jim Hurne</name>
+                            <uri>http://coderetreat.org/profile/JimHurne</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;This is definitely an interesting idea.&lt;/p&gt;
+&lt;p&gt;I&#039;m not sure how I feel about this.  On the one hand, this sounds fun and innovative. On the other hand, it might re-enforce some of the conditions that make practice on the job ineffective. It is possible participants will feel some pressure to do everything on the checklist. Participants also might feel some pressure because they feel that their performance is being monitored/graded.  Usually, this type of pressure gets in the way of truly…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;This is definitely an interesting idea.&lt;/p&gt;
+&lt;p&gt;I&#039;m not sure how I feel about this.  On the one hand, this sounds fun and innovative. On the other hand, it might re-enforce some of the conditions that make practice on the job ineffective. It is possible participants will feel some pressure to do everything on the checklist. Participants also might feel some pressure because they feel that their performance is being monitored/graded.  Usually, this type of pressure gets in the way of truly free, uninhibited experimentation (which we are trying to encourage).&lt;/p&gt;
+&lt;p&gt;If you move forward with this, how do you plan to facilitate the day? Will you still introduce new constraints each session, or will pairs pick their own constraints based on the game sheet?&lt;/p&gt;
+&lt;p&gt;I think using this would result in a very different facilitation style than what we typically use at a coderetreat. Normally, the facilitators give a session&#039;s exercise instructions to the participants just before the session. Using this method, participants will be able to see all of the exercises and constraints up-front. I&#039;m not saying this is bad, but it is different.&lt;/p&gt;
+&lt;p&gt;Also: I wouldn&#039;t list list &quot;Delete code&quot; because everyone should delete their code anyway (a critical part of the coderetreat format).  Putting it on this list suggests that it is optional, and it really shouldn&#039;t be.&lt;/p&gt;
+&lt;p&gt;Anyway, this sounds like an interesting idea, and it is worth giving a try!  However, if you plan on holding more coderetreats in the next year, you might want to save this for a regular coderetreat (and not GDCR). There is already a lot going on for GDCR and my fear is that too much experimentation with the coderetreat format could become distracting or overwhelming.&lt;/p&gt;
+&lt;p&gt;Jim++&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

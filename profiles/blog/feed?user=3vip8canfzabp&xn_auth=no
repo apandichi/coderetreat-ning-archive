@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Jeff Smith&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=3vip8canfzabp&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:10:33Z</updated>
+                            <author>
+                    <name>Jeff Smith</name>
+                    <uri>http://coderetreat.org/profile/JeffSmith</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/YH3NE-1xQS9rd3cmZOBWeWbkOlTPed-iorOVfGgEYJKjibaAQP8R*rkMWSVyttlJTjJd76dmw2Z29gpjevfJbITCA5fSeEtq/595516557.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=3vip8canfzabp&amp;xn_auth=no</id>
+                            <entry>
+                    <title>A Code Retreat</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:14664"/>
+                                        <id>tag:coderetreat.org,2012-10-26:6456126:BlogPost:14664</id>
+                                        <updated>2012-10-26T04:02:53.000Z</updated>
+                    
+                                            <author>
+                            <name>Jeff Smith</name>
+                            <uri>http://coderetreat.org/profile/JeffSmith</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;&lt;em&gt;Reposted from &lt;a href=&quot;http://jeffmatthewsmith.tumblr.com/post/34317204829/a-code-retreat&quot; target=&quot;_blank&quot;&gt;jeffmatthewsmith.tumblr.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;When you can’t talk, your code really does have to speak for itself.&lt;/p&gt;
+&lt;p&gt;Yesterday, during our weekly meta-skills session, we had a &lt;a href=&quot;http://coderetreat.org/about&quot;&gt;code retreat&lt;/a&gt; (thank you &lt;a href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;The purpose of a code retreat is to get back to the …&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;&lt;em&gt;Reposted from &lt;a href=&quot;http://jeffmatthewsmith.tumblr.com/post/34317204829/a-code-retreat&quot; target=&quot;_blank&quot;&gt;jeffmatthewsmith.tumblr.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;When you can’t talk, your code really does have to speak for itself.&lt;/p&gt;
+&lt;p&gt;Yesterday, during our weekly meta-skills session, we had a &lt;a href=&quot;http://coderetreat.org/about&quot;&gt;code retreat&lt;/a&gt; (thank you &lt;a href=&quot;http://coreyhaines.com/&quot;&gt;Corey Haines&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;The purpose of a code retreat is to get back to the &lt;a href=&quot;http://www.youtube.com/watch?v=eGDBR2L5kzI&quot;&gt;fundementals&lt;/a&gt; and hone one’s craft by escaping the regular routine of pushing to production. In many ways, Dev Bootcamp is an extended code retreat. Very few of the repos we produce for exercises make their way into functioning apps (at least at this point in the program), which leaves us a lot of freedom. But that aside, we, like most engineers, have gotten into a fairly intense routine, and the break was refreshing.&lt;/p&gt;
+&lt;p&gt;For 45 minute sprints we’d pair with a student or instructor and try to get as far into a particular problem as possible. Everyone in the room was attempting the same challenge. And we repeated this 4 times, with 4 different partners on the same challenge. There were three caveats:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;All our code had to be test-driven with RSpec. &lt;/li&gt;
+&lt;li&gt;After each 45 minute sprint, every line of code we’d written had to be deleted. Yes, gone forever. &lt;/li&gt;
+&lt;li&gt;During one of the final sprints, we weren’t allowed to talk. We could merely volley RSpec and test solutions between partners as a means of communication. Our code had to, truly, speak for itself. This exercise, in my opinion, has, more than any other we’ve gone through thus far, revealed the necessity of precise tests and naming conventions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The results were remarkable. The knowledge base in the room around this particular problem expanded as partners shuffled. Particularly thoughtful solutions were shared. People didn’t feel the normal pressures of writing code for the sake of the problem at hand so much as writing code for its own sake (&lt;a href=&quot;http://serialmilk.tumblr.com/post/34154656635/code-is-poetry-not-prose&quot;&gt;poetry&lt;/a&gt;, as one of my cohorts put it). And, I found myself enjoying the coding process more than I have in a while.&lt;/p&gt;
+&lt;p&gt;We have no code to show from the retreat. Nothing but our current capacity code, with its newly sharped style and appreciation of Ruby’s nuances, shows its impact. And that is the beauty of a code retreat.&lt;/p&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

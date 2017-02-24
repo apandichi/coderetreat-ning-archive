@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>n8dgr8&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/NathanSchlehlein</link>
+        <pubDate>Sun, 29 Jan 2017 11:30:07 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:30:07 +0000</lastBuildDate>
+        <image>
+            <title>n8dgr8&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/NathanSchlehlein</link>
+            <url>http://api.ning.com:80/files/bghkZFo2d32dNd*kWxKuJTodDGQxoFaJF0U8u3ahljJDmoRaCtrsUDN37701wNG6Xmu961WWP4hnB6-kTuddFdCJpS8eVpuu/1233272186.png?xgip=739%3A157%3A1025%3A1025%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e0000000011072f31b03e61693bd0a871</guid>
+               <title>n8dgr8 updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54189?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/NathanSchlehlein?xg_source=activity">n8dgr8</a> updated an event</span><br/><div class="rich"><div class="rich-thumb"><a  href="http://coderetreat.org/xn/detail/6456126:Event:54189?xg_source=activity" ><img src="http://api.ning.com/files/bghkZFo2d325qT1an21yhDss5b1RJ2VtrBuXkNKwMpzPFbqDIw3yfYoEyWPhNuN10qewFY3Ak4K0afSxVwDtzBr9dTf-SLFF/des_moines.png?width=64&amp;height=64&amp;format=jpg" width="64" height="64" alt="Thumbnail" style="max-width:64px;max-height:64px;"/></a></div><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54189?xg_source=activity">Global Day of Coderetreat 2016 - Des Moines, IA, USA</a> at The Forge by Pillar Technology, Des Moines</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 3:30pm</div><div class="rich-excerpt">Everyone knows the best software is written in Iowa.Come join Des Moines best and brightest in a fun event aimed at promoting camaraderie and craftsmanship within the software development community.To RSVP, please click on this link -<a href="http://info.pillartechnology.com/dayofcodersvp" target="_blank">http://info.pillartechnology.com/dayofcodersvp</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54189?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 22 Sep 2016 21:22:37 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e0000000011072f31184b92abe961bdd8</guid>
+               <title>n8dgr8 posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:54189?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/NathanSchlehlein?xg_source=activity">n8dgr8</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:54189?xg_source=activity">Global Day of Coderetreat 2016 - Des Moines, IA, USA</a> at The Forge by Pillar Technology, Des Moines</h3><div class="rich-detail"><div class="rich-date">October 22, 2016 from 9am to 3:30pm</div><div class="rich-excerpt">Everyone knows the best software is written in Iowa.Come join Des Moines best and brightest in a fun event aimed at promoting camaraderie and craftsmanship within the software development community.To RSVP, please click on this link -<a href="http://info.pillartechnology.com/dayofcodersvp" target="_blank">http://info.pillartechnology.com/dayofcodersvp</a><a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:54189?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 31 Aug 2016 21:01:55 +0000</pubDate>
+               </item>    </channel>
+</rss>

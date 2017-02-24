@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:25614
+DTSTAMP:20170129T124213Z
+SUMMARY:Code Retreat Colima
+DESCRIPTION:A Coderetreat event in Colima city, Mexico.\n\nFor more in
+ formation visit http://coderetreat.org/events/code-retreat-colima
+DTSTART:20130720T090000Z
+DTEND:20130720T180000Z
+CATEGORIES:code, retreat
+LOCATION:Crowd Interactive HQ
+WEBSITE:http://coderetreat.mx/eventos/code-retreat-colima-julio-2013
+URL:http://coderetreat.mx/eventos/code-retreat-colima-julio-2013
+CONTACT:
+ORGANIZER:Crowd Interactive
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mario A 
+ Chavez":http://coderetreat.org/profile/MarioAChavez
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:12001
+DTSTAMP:20170129T140318Z
+SUMMARY:Global Day of Coderetreat 2012 - Milan / Italy
+DESCRIPTION:Following the last year success, we are happy to announce 
+ that Milano is going to host the Global Day of Code Retreat 2012, thi
+ s is going to be fun, if you are in the area, don't miss it!\n\nFor mo
+ re information visit http://coderetreat.org/events/global-day-of-coder
+ etreat-milan-italy
+DTSTART:20121208T093000Z
+DTEND:20121208T173000Z
+CATEGORIES:coderetreat
+LOCATION:FractalGarden
+WEBSITE:https://maps.google.it/maps?q=+via+Giuseppe+Mazzini+33+Sesto+S
+ .Giovanni+20099&hl=it&sll=45.537906,9.244322&hnear=Via+Giuseppe+Mazzin
+ i,+33,+Sesto+San+Giovanni,+Milano,+Lombardia&t=v&z=17
+URL:https://maps.google.it/maps?q=+via+Giuseppe+Mazzini+33+Sesto+S.Gio
+ vanni+20099&hl=it&sll=45.537906,9.244322&hnear=Via+Giuseppe+Mazzini,+3
+ 3,+Sesto+San+Giovanni,+Milano,+Lombardia&t=v&z=17
+CONTACT:
+ORGANIZER;CN="Gabriele Lana":http://coderetreat.org/profile/GabrieleLa
+ na
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Giuseppe
+  Vallarelli":http://coderetreat.org/profile/GiuseppeVallarelli
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mauro Ba
+ rtolomeoli":http://coderetreat.org/profile/MauroBartolomeoli
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Paolo Fo
+ letto":http://coderetreat.org/profile/PaoloFoletto
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alberto 
+ Dal Dosso":http://coderetreat.org/profile/AlbertoDalDosso
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrea A
+ dami":http://coderetreat.org/profile/AndreaAdami
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andrea F
+ rancia":http://coderetreat.org/profile/AndreaFrancia
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Dario Be
+ rtini":http://coderetreat.org/profile/DarioBertini
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Fabio Mo
+ ra":http://coderetreat.org/profile/FabioMora
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Stefano 
+ Bossi":http://coderetreat.org/profile/StefanoBossi
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Gabriele
+  Lana":http://coderetreat.org/profile/GabrieleLana
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Michele 
+ Capra":http://coderetreat.org/profile/MicheleCapra
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Be
+ ri":http://coderetreat.org/profile/MarcoBeri
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Marco C
+ hareyron":http://coderetreat.org/profile/MarcoChareyron
+END:VEVENT
+END:VCALENDAR

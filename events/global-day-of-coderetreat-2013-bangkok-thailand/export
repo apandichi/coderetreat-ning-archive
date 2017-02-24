@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:28192
+DTSTAMP:20170129T115332Z
+SUMMARY:Global Day of Coderetreat 2013 - Bangkok, Thailand
+DESCRIPTION:Global Day of Coderetreat is a world-wide event celebratin
+ g passion and software craftsmanship. Last year, over 2000 passionate 
+ software developers in 150 cities around the world spent the day pract
+ icing the craft of software development using the coderetreat format.\
+ n\nFor more information visit http://coderetreat.org/events/global-day
+ -of-coderetreat-2013-bangkok-thailand
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Sprint3r, Geeky Base
+WEBSITE:http://www.sprint3r.com
+URL:http://www.sprint3r.com
+CONTACT:
+ORGANIZER;CN="Twin Panichsombat":http://coderetreat.org/profile/TwinPa
+ nichsombat
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/O5Zjd8iJWwVOw
+ sjT11k4uN4pcBV51SuEQ*295sWSNkBv5ITZ3tzY4M11swlsvejssBicHdP*xclsHdTzxu0
+ YyyFBy5mi4qAf/sprint3r.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wathanai
+  Watcharataksin":http://coderetreat.org/profile/WathanaiWatcharataksin
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Akezyt J
+ anedittakarn":http://coderetreat.org/profile/AkezytJanedittakarn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Nang RM"
+ :http://coderetreat.org/profile/NangRM
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Phanlop 
+ Phengsupan":http://coderetreat.org/profile/PhanlopPhengsupan
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Patrapho
+ ng Sukhonpitumart":http://coderetreat.org/profile/PatraphongSukhonpitu
+ mart
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="BumBimz 
+ Ks":http://coderetreat.org/profile/BumBimzKs
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Arm Adis
+ orn":http://coderetreat.org/profile/ArmAdisorn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tua Saro
+ cha":http://coderetreat.org/profile/TuaSarocha
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kritsada
+ nshon Sadeewong":http://coderetreat.org/profile/KritsadanshonSadeewong
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Prayoch 
+ Rujira":http://coderetreat.org/profile/PrayochRujira
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kiattisa
+ k Anoochitarom":http://coderetreat.org/profile/KiattisakAnoochitarom
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=Tap:http:
+ //coderetreat.org/profile/Tap
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Thanabod
+ ee Charoenpiriyakij":http://coderetreat.org/profile/ThanabodeeCharoenp
+ iriyakij
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vichar N
+ uchsiri":http://coderetreat.org/profile/vichar
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Weerasak
+  Chongnguluam":http://coderetreat.org/profile/WeerasakChongnguluam
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Sansarun
+  Sukawongviwat":http://coderetreat.org/profile/SansarunSukawongviwat
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Neda Pey
+ rone":http://coderetreat.org/profile/NedaPeyrone
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Prathan 
+ Dansakulcharoenkit":http://coderetreat.org/profile/PrathanDansakulchar
+ oenkit
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Somkiat 
+ Puisungnoen":http://coderetreat.org/profile/SomkiatPuisungnoen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Twin Pan
+ ichsombat":http://coderetreat.org/profile/TwinPanichsombat
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Teerapa
+ p Changwichukarn":http://coderetreat.org/profile/TeerapapChangwichukar
+ n
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Maykin 
+ Warasart":http://coderetreat.org/profile/MaykinWarasart
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Thedark
+ man Ngernyuang":http://coderetreat.org/profile/ThedarkmanNgernyuang
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Kamonlo
+ jn Phrompang":http://coderetreat.org/profile/KamonlojnPhrompang
+END:VEVENT
+END:VCALENDAR

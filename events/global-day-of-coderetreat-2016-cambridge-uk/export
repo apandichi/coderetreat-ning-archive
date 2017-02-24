@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53838
+DTSTAMP:20170129T123232Z
+SUMMARY:Global Day of Coderetreat 2016 - Cambridge, UK
+DESCRIPTION:Please RSVP at http://www.meetup.com/Cambridge-Software-C
+ raftsmanship/events/232862599/\n\nFor more information visit http://co
+ deretreat.org/events/global-day-of-coderetreat-2016-cambridge-uk
+DTSTART:20160725T180000Z
+DTEND:20160725T190000Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:Cambridge, UK
+WEBSITE:http://www.meetup.com/Cambridge-Software-Craftsmanship/events/
+ 232862599/
+URL:http://www.meetup.com/Cambridge-Software-Craftsmanship/events/2328
+ 62599/
+CONTACT:
+ORGANIZER;CN="Alastair Smith":http://coderetreat.org/profile/AlastairS
+ mith
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alastair
+  Smith":http://coderetreat.org/profile/AlastairSmith
+END:VEVENT
+END:VCALENDAR

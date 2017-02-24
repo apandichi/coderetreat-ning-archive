@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Matthias Günther&#039;s Posts - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/blog/feed?user=1yxp8m32xati1&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:12:21Z</updated>
+                            <author>
+                    <name>Matthias Günther</name>
+                    <uri>http://coderetreat.org/profile/MatthiasGuenther</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/MD*QRO8USlBTx9omMnEDHXsRxZjucVv0kX5NorUwwLv0eVCxd7eGtMoPz1XCCNWPM10aNK5*T4GN*6bhL9FyhHmTYchlPZ86/462322234.jpeg?width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/blog/feed?user=1yxp8m32xati1&amp;xn_auth=no</id>
+                            <entry>
+                    <title>GLOBAL CODE RETREAT 2011 IN BERLIN</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:BlogPost:4380"/>
+                                        <id>tag:coderetreat.org,2011-12-04:6456126:BlogPost:4380</id>
+                                        <updated>2011-12-04T22:38:21.000Z</updated>
+                    
+                                            <author>
+                            <name>Matthias Günther</name>
+                            <uri>http://coderetreat.org/profile/MatthiasGuenther</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I attended the &lt;strong&gt;Global Coderetreat&lt;/strong&gt;&lt;sup id=&quot;fnref:coderetreat&quot;&gt;&lt;a href=&quot;#fn:coderetreat&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; event initialized by Corey Haines&lt;sup id=&quot;fnref:haines&quot;&gt;&lt;a href=&quot;#fn:haines&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. The&lt;br&gt;&lt;/br&gt; general purpose of this event was to get a bunch of hackers together to implement&lt;br&gt;&lt;/br&gt; &lt;a href=&quot;http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life&quot; title=&quot;Conway&#039;s Game of Life&quot;&gt;Conway’s Game of Life&lt;/a&gt;.…&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;http://farm8.staticflickr.com/7029/6452198253_ca6e01b7f4.jpg&quot; title=&quot;Coderetreat@Immobilienscout alt&quot;&gt;&lt;/img&gt;&lt;/p&gt;                    </summary>
+
+                    <content type="html">
+&lt;p&gt;I attended the &lt;strong&gt;Global Coderetreat&lt;/strong&gt;&lt;sup id=&quot;fnref:coderetreat&quot;&gt;&lt;a href=&quot;#fn:coderetreat&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; event initialized by Corey Haines&lt;sup id=&quot;fnref:haines&quot;&gt;&lt;a href=&quot;#fn:haines&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. The&lt;br/&gt; general purpose of this event was to get a bunch of hackers together to implement&lt;br/&gt;
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life&quot; title=&quot;Conway&#039;s Game of Life&quot;&gt;Conway’s Game of Life&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;http://farm8.staticflickr.com/7029/6452198253_ca6e01b7f4.jpg&quot; title=&quot;Coderetreat@Immobilienscout alt&quot;/&gt;&lt;/p&gt;
+&lt;h2 id=&quot;setting-up-goals&quot;&gt;Setting up goals&lt;/h2&gt;
+&lt;p&gt;As &lt;strong&gt;J. B. Rainsberger&lt;/strong&gt; mentioned in his article about &lt;a href=&quot;http://www.jbrains.ca/permalink/the-four-elements-of-simple-design&quot; title=&quot;four elements of simple design&quot;&gt;four elements of simple design&lt;/a&gt;, it is best to setup goals for your retreat to get most out of it. Here is a list of what I achieved in every section:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Being a mentor of TDD: I taught &lt;a href=&quot;https://github.com/dedan&quot; title=&quot;dedan&quot;&gt;dedan&lt;/a&gt; how to use TDD, why&lt;br/&gt; TDD helps you to think about your design&lt;/li&gt;
+&lt;li&gt;Being a mentor of BDD: Showing a fellow Rubyist how to do BDD&lt;/li&gt;
+&lt;li&gt;Doing something completely stupid: I played &lt;em&gt;evil coder&lt;/em&gt; and &lt;em&gt;ping-pong pairing&lt;/em&gt; with&lt;br/&gt; &lt;a href=&quot;http://twitter.com/#%21/tilosoenke&quot; title=&quot;@tilosoenke&quot;&gt;@tilosoenke&lt;/a&gt; - we couldn’t communicate with&lt;br/&gt;
+words, only with code, one writing tests and other the implementation of the tests.&lt;/li&gt;
+&lt;li&gt;Discuss about names: We said together and discussed about right names for methods, variables, and&lt;br/&gt; classes. We concluded that good names saves you scary comments in your code&lt;/li&gt;
+&lt;li&gt;Explain Ruby to a Java-Programmer&lt;/li&gt;
+&lt;li&gt;Being mentored about Lisp: We solved the whole ‘Game of Live’ in common Lisp&lt;sup id=&quot;fnref:lisp&quot;&gt;&lt;a href=&quot;#fn:lisp&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, while&lt;br/&gt; &lt;a href=&quot;http://twitter.com/#%21/hanshuebner&quot; title=&quot;@HansHuebener&quot;&gt;@HansHuebener&lt;/a&gt; explained me the&lt;br/&gt;
+strength and beauty in common Lisp, while the programmer explained me the strength and beauty of&lt;br/&gt;
+Lisp.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;It was great to get so many people with so many different skills and mindsets together, exchange&lt;br/&gt; experience and encouraging others to try something new. I will definitely have a closer look on&lt;br/&gt;
+Lisp to enhance my Ruby style.&lt;/p&gt;
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;&lt;ol&gt;
+&lt;li id=&quot;fn:coderetreat&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://coderetreat.org/&quot; title=&quot;coderetreat&quot;&gt;coderetreat&lt;/a&gt;&lt;a href=&quot;#fnref:coderetreat&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn:haines&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://coreyhaines.com/&quot; title=&quot;Corey Haines&quot;&gt;Corey Haines&lt;/a&gt;&lt;a href=&quot;#fnref:haines&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn:lisp&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Lisp_%28programming_language%29&quot; title=&quot;Lisp&quot;&gt;Lisp&lt;/a&gt;&lt;a href=&quot;#fnref:lisp&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content>
+<category term="United States" />
+
+                                    </entry>
+                    </feed>
+        

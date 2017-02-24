@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:44743
+DTSTAMP:20170129T124312Z
+SUMMARY:Coderetreat @Wooga
+DESCRIPTION:Please use eventbrite to RSVP: https://cr-berlin-2015.eve
+ ntbrite.de/\n\nFor more information visit http://coderetreat.org/event
+ s/coderetreat-wooga
+DTSTART:20150620T083000Z
+DTEND:20150620T173000Z
+CATEGORIES:coderetreat
+LOCATION:Wooga GmbH
+WEBSITE:http://www.wooga.com/
+URL:http://www.wooga.com/
+CONTACT:+491632342305
+ORGANIZER;CN="Jan Hartung":http://coderetreat.org/profile/egga
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Hart
+ ung":http://coderetreat.org/profile/egga
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:55858
+DTSTAMP:20170129T112641Z
+SUMMARY:Global Day of Code Retreat 2016 - San Francisco, US
+DESCRIPTION:Registration: https://www.meetup.com/San-Francisco-Softwar
+ e-Craftsmanship/events/234610700/\n\nGlobal Day of Code Retreat is an 
+ annual event where craftspeople from all around the world gather toget
+ her to practice their craft. Last year the event attracted over 2000 d
+ evelopers from around 150 cities around the globe. In 2016 the event w
+ ill happen on October 22nd. We will start at 8.30 AM and conclude by 5
+  PM, of course with the option to end the day with a few drinks. So br
+ ing your own laptops, configured with your favorite IDEs and programmi
+ ng languages and come join us for a full day of practice, learning and
+  fun. Light breakfasts, lunch and refreshments will be provided.\n\nFo
+ r those of you who are not familiar with code retreats, I copied below
+  some of the information from coderetreat.org.\n\nA Code Retreat is a 
+ day-long, intensive practice event, focusing on the fundamentals of so
+ ftware development and design.\n\nBy providing developers the opportun
+ ity to take part in focused practice, away from the pressures of 'gett
+ ing things done', the code retreat format has proven itself to be a hi
+ ghly effective means of skill improvement. Practicing the basic princi
+ ples of modular and object-oriented design, developers can improve the
+ ir ability to write code that minimizes the cost of change over time.\
+ n\nA code retreat has an established, time-tested format that is optim
+ ized for focused practice.\n\nStructure:\nLength of Session: 45 minute
+ s\nDuration: 8.30am to 5 or 6pm\nPair-programming is necessary, as the
+  knowledge transfer contained in that activity is essential to the pra
+ ctice\nPrefer using Test-Driven Development (TDD)\nAfter each session,
+  pairs should be swapped\nAfter each session, code must be deleted, no
+ t put in a branch, not stashed, just deleted with no trace left\n\nThe
+  code retreat day consists of 5-6 sessions, each session's learnings b
+ uilding upon previous sessions. The morning focuses on becoming comfor
+ table with the problem domain, breaking old habits and beginning focus
+ ed self-discovery. The afternoon pushes the envelope by challenging pa
+ irs to stretch their skills and understanding of abstractions, modular
+  design and test-driven development.\n\nMore information\n\nVideo expl
+ aining the format: http://coderetreat.org/about\nhttp://globalday.code
+ retreat.org/\n\nFor more information visit http://coderetreat.org/even
+ ts/global-day-of-code-retreat-2016-san-francisco-us
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16, gdcr2016
+LOCATION:Avenue Code
+WEBSITE:https://goo.gl/maps/9EWY2dVYgJF2
+URL:https://goo.gl/maps/9EWY2dVYgJF2
+CONTACT:(415)717-2597
+ORGANIZER;CN="Bogdan Dumitrescu":http://coderetreat.org/profile/Bogdan
+ Dumitrescu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Bogdan D
+ umitrescu":http://coderetreat.org/profile/BogdanDumitrescu
+END:VEVENT
+END:VCALENDAR

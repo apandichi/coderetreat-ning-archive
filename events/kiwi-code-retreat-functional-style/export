@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:50633
+DTSTAMP:20170129T121355Z
+SUMMARY:Global Day of Coderetreat 2015 - Auckland, New Zealand
+DESCRIPTION:Emphasis on FP, Pair programming, TDD, refactoring\nHosted
+  by Movio\n\nFor more information visit http://coderetreat.org/events/
+ kiwi-code-retreat-functional-style
+DTSTART:20151114T000000Z
+DTEND:20151114T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr15
+LOCATION:Movio
+WEBSITE:https://www.google.co.nz/maps/place/Movio/@-36.8626476,174.758
+ 3312,17z/data=!3m1!4b1!4m2!3m1!1s0x6d0d47c2f91515b9:0x3f462a927fa0c720
+URL:https://www.google.co.nz/maps/place/Movio/@-36.8626476,174.7583312
+ ,17z/data=!3m1!4b1!4m2!3m1!1s0x6d0d47c2f91515b9:0x3f462a927fa0c720
+CONTACT:
+ORGANIZER:
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/lKbBlv0*8rV6a
+ e-nPVIzBqBVB-xTxxag2sIYkCI-yh4hGbTnWtqn8T1HPFciZUS*NDMt2LKL85NTweV6rBz
+ o-v30QncPk*A*/GDoCR.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Randall 
+ Britten":http://coderetreat.org/profile/RandallBritten
+END:VEVENT
+END:VCALENDAR

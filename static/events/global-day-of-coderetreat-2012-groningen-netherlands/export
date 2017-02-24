@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16635
+DTSTAMP:20170129T114530Z
+SUMMARY:(Canceled) Global Day of Coderetreat 2012 - Groningen / Nether
+ lands
+DESCRIPTION:Unfortunately we had very few enlisted coders. Since we co
+ uldn't even have you have a different pair for you for each session, w
+ e decided it to be better to retry in a few months.\nWe will host a co
+ de retreat in februari, please mail to markijbema at gmail dot com if 
+ you want to be held in the loop.\nThis year Groningen is participating
+  in the Global Day of Coderetreat. A good occasion to hone your craf
+ t without having to travel for hours to the Randstad ;)\nMore informat
+ ion\n\nFor more information visit http://coderetreat.org/events/global
+ -day-of-coderetreat-2012-groningen-netherlands
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Ordina
+WEBSITE:http://goo.gl/maps/rRY99
+URL:http://goo.gl/maps/rRY99
+CONTACT:0652405324
+ORGANIZER:Mark IJbema & Marten Veldthuis
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marco Ja
+ nsen":http://coderetreat.org/profile/MarcoJansen
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tonko Mu
+ lder":http://coderetreat.org/profile/TonkoMulder
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Kaze
+ mier":http://coderetreat.org/profile/JanKazemier
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alwin Kr
+ uijt Spanjer":http://coderetreat.org/profile/AlwinKruijtSpanjer
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Jan Paul
+  Posma":http://coderetreat.org/profile/JanPaulPosma
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Tom de V
+ ries":http://coderetreat.org/profile/TomdeVries
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Marten V
+ eldthuis":http://coderetreat.org/profile/MartenVeldthuis412
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Mark IJb
+ ema":http://coderetreat.org/profile/MarkIJbema
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;RSVP=TRUE;CN="Niels M
+ aneschijn":http://coderetreat.org/profile/NielsManeschijn
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:42641
+DTSTAMP:20170129T114752Z
+SUMMARY:March Code Retreat - Rochester, NY
+DESCRIPTION:Coderetreat is a day-long, intensive practice event, focus
+ ing on the fundamentals of software development and design. By providi
+ ng developers the opportunity to take part in focused practice, away f
+ rom the pressures of 'getting things done', the coderetreat format has
+  proven itself to be a highly effective means of skill improvement. Pr
+ acticing the basic principles of modular and object-oriented design, d
+ evelopers can improve their ability to write code that minimizes the c
+ ost of change over time\nYou can register here https://www.eventbrite.
+ com/e/code-retreat-rochester-ny-mar-2015-tickets-15436569194\n\nThe ev
+ ent is free and food will be provided.\n\nRegistration via Eventbrite 
+ is mandatory.\n\nSpace is limited, so please only register if you know
+  you can make it\n\n\nFor more information visit http://coderetreat.or
+ g/events/march-code-retreat-rochester-ny
+DTSTART:20150328T090000Z
+DTEND:20150328T170000Z
+CATEGORIES:code, retreat
+LOCATION:Brand Networks
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Gary Passero":http://coderetreat.org/profile/GaryPassero
+ATTACH;FMTTYPE="image/jpeg":
+END:VEVENT
+END:VCALENDAR

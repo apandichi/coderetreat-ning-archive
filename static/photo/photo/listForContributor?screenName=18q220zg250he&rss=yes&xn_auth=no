@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>        <title>Mark IJbema&#039;s Photos</title>
+        <description>Mark IJbema&#039;s public photos on Coderetreat</description>
+        <link>http://coderetreat.org/photo/photo/listForContributor?screenName=18q220zg250he</link>
+        <pubDate>Sun, 29 Jan 2017 11:45:15 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:45:15 +0000</lastBuildDate>
+        <image>
+            <title>Mark IJbema&#039;s Photos</title>
+            <link>http://coderetreat.org/photo/photo/listForContributor?screenName=18q220zg250he</link>
+            <url>http://api.ning.com:80/files/V3fYlvtokg5GbGjF6-GCziH-ZZPhQGT5A5jViSHFMu-BuFJh1cgKEJa2yGy3ymo69DOnwitN6dmeAsDA64d37tVbgFNVU1*w/630471995.jpeg?xgip=0%3A556%3A2442%3A2442%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+                        	<guid isPermaLink="false">6456126:Photo:16641</guid>             <title>Just a normal day programming</title>
+            <link>http://coderetreat.org/photo/just-a-normal-day-programming</link>
+                            <description>&lt;a href=&quot;http://api.ning.com:80/files/cnSY6q823D0wXP8j3TxjjdgB5LYOesTqmvmYi9dYut8FQ4dKpVuH2DNO4G8T45lCcnlFe56sswJ3CE-OFP8xOyStI6MrjVp7/baardfoto.JPG?width=450&amp;amp;height=600&amp;amp;format=jpg&quot;&gt;&lt;img src=&quot;http://api.ning.com:80/files/cnSY6q823D0wXP8j3TxjjdgB5LYOesTqmvmYi9dYut8FQ4dKpVuH2DNO4G8T45lCcnlFe56sswJ3CE-OFP8xOyStI6MrjVp7/baardfoto.JPG?width=180&amp;height=240&amp;format=jpg&quot;&gt;&lt;/a&gt;
+                
+            by Mark IJbema </description>                <pubDate>Tue, 20 Nov 2012 17:17:17 +0000</pubDate>
+                <enclosure url="http://api.ning.com:80/files/cnSY6q823D0wXP8j3TxjjdgB5LYOesTqmvmYi9dYut8FQ4dKpVuH2DNO4G8T45lCcnlFe56sswJ3CE-OFP8xOyStI6MrjVp7/baardfoto.JPG?width=450&amp;height=600&amp;format=jpg" type="image/jpeg" length="1" />              <media:content url="http://api.ning.com:80/files/cnSY6q823D0wXP8j3TxjjdgB5LYOesTqmvmYi9dYut8FQ4dKpVuH2DNO4G8T45lCcnlFe56sswJ3CE-OFP8xOyStI6MrjVp7/baardfoto.JPG?width=450&amp;height=600&amp;format=jpg" type="image/jpeg" height="" width=""/>
+            	            <media:description></media:description>
+	            <media:thumbnail url="http://api.ning.com:80/files/cnSY6q823D0wXP8j3TxjjdgB5LYOesTqmvmYi9dYut8FQ4dKpVuH2DNO4G8T45lCcnlFe56sswJ3CE-OFP8xOyStI6MrjVp7/baardfoto.JPG?width=180&amp;height=240&amp;format=jpg" width="180" height="240" />
+	            <media:keywords></media:keywords>
+	            <media:credit role="photographer">Mark IJbema</media:credit>
+	                        <atom:author>
+                <atom:name>Mark IJbema</atom:name>
+                <atom:uri>http://coderetreat.org/profile/MarkIJbema</atom:uri>
+            </atom:author>
+        </item>
+            </channel>
+</rss>

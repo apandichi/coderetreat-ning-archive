@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Automated Notification of Local Events - Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/forum/topics/automated-notification-of-local-events?commentId=6456126%3AComment%3A8713&amp;feed=yes&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:41:41Z</updated>
+                        <id>http://coderetreat.org/forum/topics/automated-notification-of-local-events?commentId=6456126%3AComment%3A8713&amp;feed=yes&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Hi Abdu,
+As I understand it,…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:9043"/>
+                                        <id>tag:coderetreat.org,2012-03-08:6456126:Comment:9043</id>
+                                        <updated>2012-03-08T18:54:18.524Z</updated>
+                    
+                                            <author>
+                            <name>Jordan Fishman</name>
+                            <uri>http://coderetreat.org/profile/JordanFishman</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi Abdu,&lt;/p&gt;
+&lt;p&gt;As I understand it, the issue was that events are registered in a distributed/adhoc manner.&lt;/p&gt;
+&lt;p&gt;As a result we don&#039;t always have the necessary information.  There isn&#039;t a single form on a web page that people register their events through.  Also, this has gone international so we&#039;d need something beyond zip.&lt;/p&gt;
+&lt;p&gt;Good call on the code though.&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi Abdu,&lt;/p&gt;
+&lt;p&gt;As I understand it, the issue was that events are registered in a distributed/adhoc manner.&lt;/p&gt;
+&lt;p&gt;As a result we don&#039;t always have the necessary information.  There isn&#039;t a single form on a web page that people register their events through.  Also, this has gone international so we&#039;d need something beyond zip.&lt;/p&gt;
+&lt;p&gt;Good call on the code though.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Create a submission form for…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:9039"/>
+                                        <id>tag:coderetreat.org,2012-03-07:6456126:Comment:9039</id>
+                                        <updated>2012-03-07T22:06:11.524Z</updated>
+                    
+                                            <author>
+                            <name>Abdu</name>
+                            <uri>http://coderetreat.org/profile/Abdu</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Create a submission form for email address and zip code. Use algorithm to calculate number of miles between event zip code and zip codes of users. If miles is less than x number of miles, send a notification by email. This is much better than matching by city name. Many cities have suburbs with different names but are located just a few miles from main city.&lt;/p&gt;
+&lt;p&gt;I don&#039;t have details about the algorithm but any store locator feature should be using it. Or checkout this SO question:…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Create a submission form for email address and zip code. Use algorithm to calculate number of miles between event zip code and zip codes of users. If miles is less than x number of miles, send a notification by email. This is much better than matching by city name. Many cities have suburbs with different names but are located just a few miles from main city.&lt;/p&gt;
+&lt;p&gt;I don&#039;t have details about the algorithm but any store locator feature should be using it. Or checkout this SO question: &lt;a href=&quot;http://stackoverflow.com/questions/8767223/how-do-i-write-a-find-nearest-algorithm-e-g-a-store-branch-locator-by-addr&quot; target=&quot;_blank&quot;&gt;http://stackoverflow.com/questions/8767223/how-do-i-write-a-find-nearest-algorithm-e-g-a-store-branch-locator-by-addr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I see what you&#039;re saying, I d…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:8583"/>
+                                        <id>tag:coderetreat.org,2012-02-15:6456126:Comment:8583</id>
+                                        <updated>2012-02-15T18:21:52.028Z</updated>
+                    
+                                            <author>
+                            <name>Jordan Fishman</name>
+                            <uri>http://coderetreat.org/profile/JordanFishman</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I see what you&#039;re saying, I didn&#039;t realize that the events were so decentralized as to not have guaranteed posting on the site.&lt;/p&gt;
+&lt;p&gt;I have some interesting ideas re. the announcement problem.  Actually it could be used for other communities as well.  It needs to be fleshed out, but I don&#039;t see it being implemented anytime soon anyway:&lt;/p&gt;
+&lt;p&gt;The premise would be to use twitter to pass messages in a structured human readable format (think JSON, custom schema, etc).  Part of the schema…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I see what you&#039;re saying, I didn&#039;t realize that the events were so decentralized as to not have guaranteed posting on the site.&lt;/p&gt;
+&lt;p&gt;I have some interesting ideas re. the announcement problem.  Actually it could be used for other communities as well.  It needs to be fleshed out, but I don&#039;t see it being implemented anytime soon anyway:&lt;/p&gt;
+&lt;p&gt;The premise would be to use twitter to pass messages in a structured human readable format (think JSON, custom schema, etc).  Part of the schema would include longitude and latitude.&lt;/p&gt;
+&lt;p&gt;The other piece of the puzzle would be a free/open source message generator for the Twitter feeds. The generator would ensure proper structure, and would use google maps to generate the long/lat component.  This would help avoid misspelling/etc for automated clients, and provide a decentralized announcement system.&lt;/p&gt;
+&lt;p&gt;As far as converting long/lat into something useful and consistent, we can either apply it to an API that converts it to city/county/etc (I previously wrote something similar for work that used the US Census API, but their service is SLOW!)  Alternately we can use the Google API (maybe google.maps.DistanceMatrixService?) and can handle distance calculations.&lt;/p&gt;
+&lt;p&gt;As far as developing something goes, I understand that this is far to much for one person.&lt;br/&gt;The more we&#039;ve discussed this, the clearer its become that this would make for a great project event, not a hack tossed up in 10min.&lt;/p&gt;
+&lt;p&gt;As it stands I&#039;m not really in a position to contribute code, in addition to the 9 to 5 (or was it 10 to 9) I&#039;m in my last semester for a Graduate CS program.  I had hoped an existing solution might exist, but I&#039;m guessing you&#039;re not using one the more popular frameworks (which would increase the likelihood of support.)&lt;/p&gt;
+&lt;p&gt;Would you mind passing this around to the other admins and ning site operator for feedback and to get other ideas out there?&lt;/p&gt;
+&lt;p&gt;Shall we pickup this issue in the future?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Doing straight text searches…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:8468"/>
+                                        <id>tag:coderetreat.org,2012-02-15:6456126:Comment:8468</id>
+                                        <updated>2012-02-15T13:56:33.383Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Doing straight text searches is definitely the least effective way to do it. Spelling errors, different terms, etc.&lt;/p&gt;
+&lt;p&gt;Unfortunately, for all of this, there are always two things affecting it:&lt;/p&gt;
+&lt;p&gt;- having people put in information, etc.; and,&lt;/p&gt;
+&lt;p&gt;- time to implement this sort of searching thing.&lt;/p&gt;
+&lt;p&gt;The main reason we are on ning is due to lack of time in building a good site that would support these things. I&#039;m working on a site that will help coordinate and run events on the…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Doing straight text searches is definitely the least effective way to do it. Spelling errors, different terms, etc.&lt;/p&gt;
+&lt;p&gt;Unfortunately, for all of this, there are always two things affecting it:&lt;/p&gt;
+&lt;p&gt;- having people put in information, etc.; and,&lt;/p&gt;
+&lt;p&gt;- time to implement this sort of searching thing.&lt;/p&gt;
+&lt;p&gt;The main reason we are on ning is due to lack of time in building a good site that would support these things. I&#039;m working on a site that will help coordinate and run events on the day-of, and it might eventually turn into a central place for registering new events, as well. But, that&#039;s a ways out in time. :(&lt;/p&gt;
+&lt;p&gt;Coderetreat is intentionally distributed and non-centralized. While we ask people to register their events on coderetreat.org, and we are doing our best to form it as the central place for information, people are still free to take the format published here and hold an event without registering the event here or anywhere. The goal of coderetreat.org is to provide enough support that people will want to register them here. :)&lt;/p&gt;
+&lt;p&gt;The current solution to the problem, the one that most people use these days, is word-of-mouth, keeping tabs on the local communities, especially using twitter, etc. It isn&#039;t ideal from an information-gathering  perspective, but it seems to work most of the time.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>True but this could also be p…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:8581"/>
+                                        <id>tag:coderetreat.org,2012-02-13:6456126:Comment:8581</id>
+                                        <updated>2012-02-13T21:05:32.598Z</updated>
+                    
+                                            <author>
+                            <name>Jordan Fishman</name>
+                            <uri>http://coderetreat.org/profile/JordanFishman</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;True but this could also be pretty punishing on the server as more users schedule search terms no?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If that is a potential problem . . .&lt;/p&gt;
+&lt;p&gt;Could event coordinators include location data in their registration? These should be fixed values (locations/regional terms/etc).&lt;/p&gt;
+&lt;p&gt;What I call South Florida, the host could call Broward/Dade/Miami/Ft Lauderdale (in the craigslist wold this is all the same thing!)  This results in confusion for the end user (&quot;I signed up for…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;True but this could also be pretty punishing on the server as more users schedule search terms no?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If that is a potential problem . . .&lt;/p&gt;
+&lt;p&gt;Could event coordinators include location data in their registration? These should be fixed values (locations/regional terms/etc).&lt;/p&gt;
+&lt;p&gt;What I call South Florida, the host could call Broward/Dade/Miami/Ft Lauderdale (in the craigslist wold this is all the same thing!)  This results in confusion for the end user (&quot;I signed up for Broward, so I would expect to get items posted for S. Florida!&quot;)&lt;/p&gt;
+&lt;p&gt;Users would then subscribe to these tags/regions/etc.&lt;/p&gt;
+&lt;p&gt;I&#039;m thinking of how Groupon, and Living Social operate regional subscriptions. Its not as powerful as proximity based notification, but should be much easier to implement and wouldn&#039;t require the Google/Bing API.&lt;/p&gt;
+&lt;p&gt;The major upside is it should be much less resource intensive as blob searches can&#039;t be cheap, and seperate blob searches for every subscriber can bring a system to its knees.  The downside would be having a method or system for adding to these regional values. Maybe swipe a list from a public source?&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>:) Not on twitter? That&#039;s cra…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:8713"/>
+                                        <id>tag:coderetreat.org,2012-02-11:6456126:Comment:8713</id>
+                                        <updated>2012-02-11T00:30:51.305Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;:) Not on twitter? That&#039;s crazy.&lt;/p&gt;
+&lt;p&gt;This site is hosted on ning, which is very rudimentary for stuff like this.&lt;/p&gt;
+&lt;p&gt;One option would be to build a small notification feature like you say. People could sign up with a search term, and we could check the rss feed every night. Unfortunately, the rss feed doesn&#039;t include a lot of data pulled out into entries, just a big html blob. So, we could search the blob for a match and notify you. This could be a pretty straightforward thing to do on…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;:) Not on twitter? That&#039;s crazy.&lt;/p&gt;
+&lt;p&gt;This site is hosted on ning, which is very rudimentary for stuff like this.&lt;/p&gt;
+&lt;p&gt;One option would be to build a small notification feature like you say. People could sign up with a search term, and we could check the rss feed every night. Unfortunately, the rss feed doesn&#039;t include a lot of data pulled out into entries, just a big html blob. So, we could search the blob for a match and notify you. This could be a pretty straightforward thing to do on heroku with their scheduler.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hey Corey,
+Thanks for the res…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:8560"/>
+                                        <id>tag:coderetreat.org,2012-02-10:6456126:Comment:8560</id>
+                                        <updated>2012-02-10T22:07:25.518Z</updated>
+                    
+                                            <author>
+                            <name>Jordan Fishman</name>
+                            <uri>http://coderetreat.org/profile/JordanFishman</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hey Corey,&lt;/p&gt;
+&lt;p&gt;Thanks for the response!&lt;/p&gt;
+&lt;p&gt;Re using the twitter account I see the following issues:&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;There&#039;s the less problematic issue that not everyone is a member of twitter. I&#039;m not, though I could prob join if push comes to shove.  Some of my developer friends harbor slightly more animosity to Twitter/Facebook/etc (one happens to be sitting next to me now.)&lt;/p&gt;
+&lt;p&gt;The bigger issue I see is pollution and the human component.  Assuming periods of rapid event expansion, or…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hey Corey,&lt;/p&gt;
+&lt;p&gt;Thanks for the response!&lt;/p&gt;
+&lt;p&gt;Re using the twitter account I see the following issues:&lt;br/&gt;&lt;br/&gt;There&#039;s the less problematic issue that not everyone is a member of twitter. I&#039;m not, though I could prob join if push comes to shove.  Some of my developer friends harbor slightly more animosity to Twitter/Facebook/etc (one happens to be sitting next to me now.)&lt;/p&gt;
+&lt;p&gt;The bigger issue I see is pollution and the human component.  Assuming periods of rapid event expansion, or if a specific period is popular for events, there could be a lot of event notices hitting the account.  I could just as easily subscribe to an RSS feed of posted events, but the truth is that I&#039;m only interested in events that are in the S. Florida region and maybe Orlando. If over time I fail to pick up on an event to attend, I&#039;m likely to stop checking the feeds (RSS/Twitter/Whatever.)&lt;/p&gt;
+&lt;p&gt;As far as a solution is concerned . . . this sounds like a good project for an event ;)&lt;/p&gt;
+&lt;p&gt;As for pre-rolled solutions:&lt;br/&gt;I did some checking (ok, 3 quick google quieries) and there didn&#039;t appear to be a top to bottom solution in the Google API (unless you&#039;re using Google Calendar and even then didn&#039;t see the desired notification system.)&lt;/p&gt;
+&lt;p&gt;Are you using WordPress as your backend?  If so this might be of interest:&lt;br/&gt;&lt;a href=&quot;http://wp-events-plugin.com/&quot;&gt;http://wp-events-plugin.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A cursory read of the site shows a search for events by location function, and an API.&lt;br/&gt;If it lacks the notification feature, a cron job and an SMTP server could handle the rest . . .&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>I&#039;m thinking about writing a…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:8707"/>
+                                        <id>tag:coderetreat.org,2012-02-10:6456126:Comment:8707</id>
+                                        <updated>2012-02-10T12:50:46.053Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;I&#039;m thinking about writing a quick twitter bot to regularly post the upcoming events to the @coderetreat account. I&#039;d like to have some feedback on features. Here is what I was thinking.&lt;/p&gt;
+&lt;p&gt;- Every Monday, put out the list of upcoming events that are registered.&lt;/p&gt;
+&lt;p&gt;- Every night, look to see if a new event has been posted. If one is, then send out a message about it.&lt;/p&gt;
+&lt;p&gt;Any other features that would be useful?&lt;/p&gt;
+&lt;p&gt;- Auto-reply: send a message to the @coderetreat account with a…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;I&#039;m thinking about writing a quick twitter bot to regularly post the upcoming events to the @coderetreat account. I&#039;d like to have some feedback on features. Here is what I was thinking.&lt;/p&gt;
+&lt;p&gt;- Every Monday, put out the list of upcoming events that are registered.&lt;/p&gt;
+&lt;p&gt;- Every night, look to see if a new event has been posted. If one is, then send out a message about it.&lt;/p&gt;
+&lt;p&gt;Any other features that would be useful?&lt;/p&gt;
+&lt;p&gt;- Auto-reply: send a message to the @coderetreat account with a search string, it will search the rss feed for a match and send you back a link to any matching? This might be a fun one.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Hi, Jordan,
+Welcome! We&#039;ve go…</title>
+                    <link rel="alternate" href="http://coderetreat.org/xn/detail/6456126:Comment:8541"/>
+                                        <id>tag:coderetreat.org,2012-02-10:6456126:Comment:8541</id>
+                                        <updated>2012-02-10T12:43:22.922Z</updated>
+                    
+                                            <author>
+                            <name>corey haines</name>
+                            <uri>http://coderetreat.org/profile/128952ghvkcvj</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;p&gt;Hi, Jordan,&lt;/p&gt;
+&lt;p&gt;Welcome! We&#039;ve got some forum discussions going on in the different groups (facilitator / host), but, as you noticed, the general outside forum is still a bit empty.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I don&#039;t know how to set up notifications based on events in a certain area. The ning software that we are currently living on isn&#039;t the greatest, so we have to be under the constraints of it for now. In general, people follow the local community or the @coderetreat twitter feed. I&#039;m…&lt;/p&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;p&gt;Hi, Jordan,&lt;/p&gt;
+&lt;p&gt;Welcome! We&#039;ve got some forum discussions going on in the different groups (facilitator / host), but, as you noticed, the general outside forum is still a bit empty.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I don&#039;t know how to set up notifications based on events in a certain area. The ning software that we are currently living on isn&#039;t the greatest, so we have to be under the constraints of it for now. In general, people follow the local community or the @coderetreat twitter feed. I&#039;m trying to announce new events on the twitter account, and I have some plans for automating it, as well.&lt;/p&gt;
+&lt;p&gt;There is also an rss feed, although I&#039;m not completely sure how it adds new ones. You can access it via the rss link at the bottom-left of the &lt;a href=&quot;http://coderetreat.org/events&quot; target=&quot;_self&quot;&gt;events page&lt;/a&gt;. Here is a &lt;a href=&quot;http://coderetreat.org/events/event/feed?xn_auth=no&quot; target=&quot;_self&quot;&gt;direct link&lt;/a&gt;.&lt;/p&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

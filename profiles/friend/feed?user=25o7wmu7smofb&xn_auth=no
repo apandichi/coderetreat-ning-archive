@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <title>Coderetreat</title>
+            <link rel="self" href="http://coderetreat.org/profiles/friend/feed?user=25o7wmu7smofb&amp;xn_auth=no"/>
+            <updated>2017-01-29T11:18:25Z</updated>
+                            <author>
+                    <name>infinitary</name>
+                    <uri>http://coderetreat.org/profile/infinitary</uri>
+                </author>
+                <icon>http://api.ning.com:80/files/KMK8bRYqKW0C*7Tfp7gOCu89ZCN-OMtchdX-xD1yrWx6xawHnGFhqXj-wZ4lxQHcO8jR4TNGciymtnl48xNDAwQkgF96etTo/1226197612.png?xgip=0%3A0%3A830%3A830%3B%3B&amp;width=48&amp;height=48&amp;crop=1%3A1</icon>
+                        <id>http://coderetreat.org/profiles/friend/feed?user=25o7wmu7smofb&amp;xn_auth=no</id>
+                            <entry>
+                    <title>Patrick Baumgartner</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/patbaumgartner"/>
+                                        <id>tag:coderetreat.org,2015-07-19:6456126:User:45031</id>
+                                        <updated>2015-07-19T09:53:58.832Z</updated>
+                    
+                                            <author>
+                            <name>infinitary</name>
+                            <uri>http://coderetreat.org/profile/infinitary</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/bt5BWlmh0GbuMKggfbhCkyFrZBad4h-AsW1GhTtK0ieT7T5Pg*g14wZTqWSaOkgb-pj0JWcXhJ2FK7rLK1ahIc4yjviwnvEj/1132981814.jpeg?xgip=0%3A0%3A249%3A249%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Patrick Baumgartner&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/bt5BWlmh0GbuMKggfbhCkyFrZBad4h-AsW1GhTtK0ieT7T5Pg*g14wZTqWSaOkgb-pj0JWcXhJ2FK7rLK1ahIc4yjviwnvEj/1132981814.jpeg?xgip=0%3A0%3A249%3A249%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Patrick Baumgartner&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                            <entry>
+                    <title>Pandichi Alin-Ionut</title>
+                    <link rel="alternate" href="http://coderetreat.org/profile/PandichiAlinIonut"/>
+                                        <id>tag:coderetreat.org,2014-10-21:6456126:User:39929</id>
+                                        <updated>2014-10-21T09:55:00.237Z</updated>
+                    
+                                            <author>
+                            <name>infinitary</name>
+                            <uri>http://coderetreat.org/profile/infinitary</uri>
+                        </author>
+                    
+                    <summary type="html">
+                        &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                    </summary>
+
+                                            <content type="html">
+                            &lt;img src=&quot;http://api.ning.com:80/files/TzObvhxOuafRGNieKA0tSmzXTv6t742Fg7lNrZ5Qirvul6HcFjmZ79BruQT-kbiWS*srx*joanoD3kVPgSlaYnA6JvPqOQQF/1087590080.jpeg?xgip=11%3A0%3A503%3A503%3B%3B&amp;amp;width=48&amp;amp;height=48&amp;amp;crop=1%3A1&quot; width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Pandichi Alin-Ionut&quot;/&gt;                        </content>
+                    
+                                    </entry>
+                    </feed>
+        

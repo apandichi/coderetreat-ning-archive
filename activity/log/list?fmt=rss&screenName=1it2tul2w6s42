@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Sven Lange&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/SvenLange187</link>
+        <pubDate>Sun, 29 Jan 2017 13:49:33 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 13:49:33 +0000</lastBuildDate>
+        <image>
+            <title>Sven Lange&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/SvenLange187</link>
+            <url>http://api.ning.com:80/files/dM6a4AYRwJO-QvSVaxQ2jmqPGrKsHsDTARl5Z7p9ul6KIDmkEM2fF7NgoETlb8VXe0iy45hgEGz*nIMFLhkSEARYgkZ-Canp/1094772478.jpeg?xgip=0%3A0%3A374%3A374%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000001115ce10da8b19aa083d2d1c</guid>
+               <title>Sven Lange posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:43217?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/SvenLange187?xg_source=activity">Sven Lange</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:43217?xg_source=activity">Coderetreat - Frankfurt am Main</a> at itemis AG</h3><div class="rich-detail"><div class="rich-date">February 27, 2015 from 9am to 5pm</div><div class="rich-excerpt">Coderetreat in Frankfurt am Main.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:43217?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Thu, 26 Feb 2015 19:36:54 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:54131
+DTSTAMP:20170129T112451Z
+SUMMARY:Global Day of Coderetreat 2016 - Ostrava, Czech Republic
+DESCRIPTION:We'd like to bring the GDCR to Ostrava again. All passiona
+ te developers are welcome. Come and enjoy a day full of new programmin
+ g perspectives!\nEnroll here: http://srazy.info/coderetreat/6759\n\nF
+ or more information visit http://coderetreat.org/events/global-day-of-
+ coderetreat-2016-ostrava-czech-republic
+DTSTART:20161022T000000Z
+DTEND:20161022T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr16
+LOCATION:KOVORK - Podnikatelský inkubátor - CPI
+WEBSITE:http://www.kovork.cz/
+URL:http://www.kovork.cz/
+CONTACT:+420604149369
+ORGANIZER;CN="Libor Kubecka":http://coderetreat.org/profile/LiborKubec
+ ka
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Libor Ku
+ becka":http://coderetreat.org/profile/LiborKubecka
+END:VEVENT
+END:VCALENDAR

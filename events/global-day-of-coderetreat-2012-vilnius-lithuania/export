@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:11921
+DTSTAMP:20170129T112130Z
+SUMMARY:Global Day of Coderetreat 2012 - Vilnius / Lithuania
+DESCRIPTION:Please register through Eventbrite or by sending an email
+  directly to the organizer: o.grigas@gmail.com\n\nFor more informatio
+ n visit http://coderetreat.org/events/global-day-of-coderetreat-2012-v
+ ilnius-lithuania
+DTSTART:20121208T090000Z
+DTEND:20121208T170000Z
+CATEGORIES:coderetreat
+LOCATION:Hub Vilnius
+WEBSITE:http://gdcr-vilnius-2012.eventbrite.com/
+URL:http://gdcr-vilnius-2012.eventbrite.com/
+CONTACT:
+ORGANIZER;CN="Osvaldas Grigas":http://coderetreat.org/profile/Osvaldas
+ Grigas
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/86tPAWj5*bcKo
+ xeBrvK8lT4JSexiTT-TL8Lv3-w6ibG5UW*Mb4fZ2iCeB8HP*CFoPK38K7beeTj0w7r-MZq
+ edNyHhOkW*kiH/Vilnius_Gediminas_tower.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Osvaldas
+  Grigas":http://coderetreat.org/profile/OsvaldasGrigas
+END:VEVENT
+END:VCALENDAR

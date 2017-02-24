@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56210
+DTSTAMP:20170129T101448Z
+SUMMARY:Global Day of Code Retreat (Haussmann)
+DESCRIPTION:Hosting of Global Day of Code Retreat in Paris\n\nFor more
+  information visit http://coderetreat.org/events/global-day-of-code-re
+ treat-haussmann
+DTSTART:20161022T100000Z
+DTEND:20161022T174500Z
+CATEGORIES:code, retreat
+LOCATION:Xebia France
+WEBSITE:https://www.meetup.com/fr-FR/Les-codeurs-du-samedi/events/2348
+ 00269/?eventId=234800269
+URL:https://www.meetup.com/fr-FR/Les-codeurs-du-samedi/events/23480026
+ 9/?eventId=234800269
+CONTACT:
+ORGANIZER;CN="Antoine Michaud":http://coderetreat.org/profile/AntoineM
+ ichaud
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Antoine 
+ Michaud":http://coderetreat.org/profile/AntoineMichaud
+END:VEVENT
+END:VCALENDAR

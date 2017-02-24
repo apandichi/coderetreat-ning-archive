@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:16701
+DTSTAMP:20170129T134344Z
+SUMMARY:Global Day of Coderetreat 2012 - Taiyuan / China
+DESCRIPTION:首次在中国太原组织 Global Day of Coderetreat，�
+ �体详情请看： http://qclubchina.org/2012-12-08-coderetreat-taiy
+ uan/\n\nFor more information visit http://coderetreat.org/events/globa
+ l-day-of-coderetreat-2012-taiyuan-china
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Shanxi Publishing Group
+WEBSITE:http://qclubchina.org/2012-12-08-coderetreat-taiyuan/
+URL:http://qclubchina.org/2012-12-08-coderetreat-taiyuan/
+CONTACT:
+ORGANIZER;CN="Chai Feng":http://coderetreat.org/profile/ChaiFeng
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/nm0c4MGDJi2lJ
+ M9zqcPLqkSg2YT1L4-Q6nEPZ2vnjkxiCM1RtZm4VZo28dW6KsjVuqzmp5sx3Bfmqv6ZL2J
+ lYt5lRikUn9VC/Taiyuan.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Chai Fen
+ g":http://coderetreat.org/profile/ChaiFeng
+END:VEVENT
+END:VCALENDAR

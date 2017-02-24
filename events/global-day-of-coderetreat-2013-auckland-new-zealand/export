@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:26684
+DTSTAMP:20170129T115102Z
+SUMMARY:Global Day of Coderetreat 2013 - Auckland, New Zealand
+DESCRIPTION:Register here: http://www.meetup.com/kiwi-code-retreat/ev
+ ents/142664562/\n\n\nFor more information visit http://coderetreat.org
+ /events/global-day-of-coderetreat-2013-auckland-new-zealand
+DTSTART:20131214T000000Z
+DTEND:20131214T235900Z
+CATEGORIES:coderetreat, gdcr, gdcr13
+LOCATION:Movio HQ
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Kalman Bekesi":http://coderetreat.org/profile/KalmanBeke
+ si
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Kalman B
+ ekesi":http://coderetreat.org/profile/KalmanBekesi
+END:VEVENT
+END:VCALENDAR

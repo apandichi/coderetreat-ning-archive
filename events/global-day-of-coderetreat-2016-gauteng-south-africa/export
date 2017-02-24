@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:56094
+DTSTAMP:20170129T100818Z
+SUMMARY:Global Day of Coderetreat 2016 - Gauteng, South Africa
+DESCRIPTION:Driven Spark is organising a Global Day of Coderetreat. If
+  you are in the Gauteng area come and join us for a day of fun, practi
+ ce and learning. Numbers are limited so please follow the instructions
+  below to secure your spot.\n\nFor more information visit http://coder
+ etreat.org/events/global-day-of-coderetreat-2016-gauteng-south-africa
+DTSTART:20161022T073000Z
+DTEND:20161022T170000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:Driven Spark
+WEBSITE:https://www.google.co.za/maps/place/280+Champion+St,+Midrand,+
+ 1684/@-25.9355497,28.0592326,17z/data=!3m1!4b1!4m5!3m4!1s0x1e957081b72
+ ec84f:0x68b9993732843229!8m2!3d-25.9355497!4d28.0614213?hl=en
+URL:https://www.google.co.za/maps/place/280+Champion+St,+Midrand,+1684
+ /@-25.9355497,28.0592326,17z/data=!3m1!4b1!4m5!3m4!1s0x1e957081b72ec84
+ f:0x68b9993732843229!8m2!3d-25.9355497!4d28.0614213?hl=en
+CONTACT:
+ORGANIZER;CN="Barry Tandy":http://coderetreat.org/profile/BarryTandy
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Barry Ta
+ ndy":http://coderetreat.org/profile/BarryTandy
+END:VEVENT
+END:VCALENDAR

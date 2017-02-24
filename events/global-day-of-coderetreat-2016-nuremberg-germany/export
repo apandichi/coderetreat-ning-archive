@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:53154
+DTSTAMP:20170129T100821Z
+SUMMARY:Global Day of CodeRetreat 2016 - Nuremberg, Germany
+DESCRIPTION:DATEV will be the hoster of the Nuremberg event of Global 
+ Day of CodeRetreat. Hope to see you all!\nIn case you'll like to atten
+ d, please register on ti.to!\n\nFor more information visit http://cod
+ eretreat.org/events/global-day-of-coderetreat-2016-nuremberg-germany
+DTSTART:20161022T083000Z
+DTEND:20161022T200000Z
+CATEGORIES:coderetreat, gdcr, gdcr2016, gdcr16
+LOCATION:DATEV eG, Nuremberg
+WEBSITE:
+URL:
+CONTACT:
+ORGANIZER;CN="Andy Fischer":http://coderetreat.org/profile/AndyFischer
+ATTACH;FMTTYPE="image/jpeg":http://api.ning.com:80/files/bLx5PI5eKB24a
+ ucDV2u88ijwGkORwCYnzhBgf8pzbpVzt6flodumWz*vc6m2hSbh27SMrrvPshn34pqyM6W
+ Hu-Fn8d5zS0uv/datev_itcjpg2.jpg
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Alexandr
+ e Soler Sanandres":http://coderetreat.org/profile/AlexandreSolerSanand
+ res
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Andy Fis
+ cher":http://coderetreat.org/profile/AndyFischer
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <channel>
+        <title>Bruce Scharlau&#039;s Latest Activity on Coderetreat</title>
+        <description></description>
+        <link>http://coderetreat.org/profile/BruceScharlau</link>
+        <pubDate>Sun, 29 Jan 2017 11:58:53 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Jan 2017 11:58:53 +0000</lastBuildDate>
+        <image>
+            <title>Bruce Scharlau&#039;s Latest Activity on Coderetreat</title>
+            <link>http://coderetreat.org/profile/BruceScharlau</link>
+            <url>http://api.ning.com:80/files/Dy9ynGgwNlQSm7A5vBktGN8MxwoxSa6YAE3Zsnz4ge22oITP1AGgQkBbFbhm4*Chjv9a4O9iZY0OqjNt1rLcrNVkzgV*hpXi/1085833317.png?xgip=0%3A35%3A399%3A399%3B%3B&amp;width=50&amp;height=50&amp;crop=1%3A1</url>
+            <height>50</height>
+        </image>
+        <item>
+               <guid isPermaLink="false">000000000062833e000000000fc9df7ffb34bd5ea8709b34</guid>
+               <title>Bruce Scharlau posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:39623?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/BruceScharlau?xg_source=activity">Bruce Scharlau</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:39623?xg_source=activity">Aberdeen Global Day of Code Retreat</a> at Meston 311</h3><div class="rich-detail"><div class="rich-date">November 15, 2014 from 9am to 4:30pm</div><div class="rich-excerpt">As part of the <a href="http://globalday.coderetreat.org/">Global Day of Coderetreat</a> we are holding a Coderetreat at the University of Aberdeen, Scotland on the 15th of November 2014.<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:39623?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Sat, 11 Oct 2014 12:58:24 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fc9df7f47e15af4b64da6e8</guid>
+               <title>Bruce Scharlau updated an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:27622?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/BruceScharlau?xg_source=activity">Bruce Scharlau</a> updated an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:27622?xg_source=activity">Global Day of Coderetreat 2013 - Aberdeen, Scotland, UK</a> at Meston Building, University of Aberdeen</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 8:30am to 5pm</div><div class="rich-excerpt">As part of the <a href="http://globalday.coderetreat.org/">Global Day of Coderetreat</a> we are holding a Coderetreat at the University of Aberdeen, Scotland on the 14th of December 2013.You can <a href="http://www.eventbrite.co.uk/e/refresh-aberdeen-code-retreat-tickets-9091401627" target="_blank">sign up for the event</a> on Eventbrite<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:27622?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Tue, 26 Nov 2013 14:03:12 +0000</pubDate>
+               </item><item>
+               <guid isPermaLink="false">000000000062833e000000000fc9df7fae981d4193ab7706</guid>
+               <title>Bruce Scharlau posted an event</title>
+               <link>http://coderetreat.org/xn/detail/6456126:Event:27622?xg_source=activity</link>
+               <description><![CDATA[ <span class="feed-string"><a href="http://coderetreat.org/profile/BruceScharlau?xg_source=activity">Bruce Scharlau</a> posted an event</span><br/><div class="rich"><h3 class="feed-story-title"><a href="http://coderetreat.org/xn/detail/6456126:Event:27622?xg_source=activity">Global Day of Coderetreat 2013 - Aberdeen, Scotland, UK</a> at Meston Building, University of Aberdeen</h3><div class="rich-detail"><div class="rich-date">December 14, 2013 from 9am to 5pm</div><div class="rich-excerpt">As part of the <a href="http://globalday.coderetreat.org/">Global Day of Coderetreat</a> we are holding a Coderetreat at the University of Aberdeen, Scotland on the 14th of December 2013.You can <a href="http://www.eventbrite.co.uk/e/refresh-aberdeen-code-retreat-tickets-9091401627" target="_blank">sign up for the event</a> on Eventbrite<a class="continue-link" href="http://coderetreat.org/xn/detail/6456126:Event:27622?xg_source=activity">See More</a></div></div></div>]]></description>
+               <pubDate>Wed, 16 Oct 2013 08:29:33 +0000</pubDate>
+               </item>    </channel>
+</rss>

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:NingEventWidget-v1
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6456126:Event:14645
+DTSTAMP:20170129T134247Z
+SUMMARY:Global Day Of Coderetreat 2012 - Timisoara / Romania
+DESCRIPTION:Planning to take part in this global event, to continue th
+ e great experience we had last year.\n\nFor more information visit htt
+ p://coderetreat.org/events/global-day-of-coderetreat-2012-2
+DTSTART:20121208T000000Z
+DTEND:20121208T235900Z
+CATEGORIES:coderetreat
+LOCATION:Unified Post Office
+WEBSITE:http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Grou
+ p/events/89302592/
+URL:http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/ev
+ ents/89302592/
+CONTACT:
+ORGANIZER:Flavius Stef, Vadim Comanescu
+ATTACH;FMTTYPE="image/jpeg":
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Vadim Co
+ manescu":http://coderetreat.org/profile/VadimComanescu
+END:VEVENT
+END:VCALENDAR
